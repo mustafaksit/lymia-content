@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 2,
+  "contentVersion": 3,
   "updatedAt": "2026-07-02",
   "adConfig": {
     "adsEnabled": true,
@@ -64,6 +64,87 @@
       "cover": "covers/st-0002.webp",
       "isNew": false,
       "order": 2
+    },
+    {
+      "id": "st-0003",
+      "slug": "the-little-door",
+      "title": "The Little Door",
+      "genre": "horror",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 271,
+        "A2": 403,
+        "B1": 605,
+        "B2": 904
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0003.webp",
+      "isNew": true,
+      "order": 3
+    },
+    {
+      "id": "st-0004",
+      "slug": "the-way-to-the-water",
+      "title": "The Way to the Water",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 262,
+        "A2": 414,
+        "B1": 606,
+        "B2": 908
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0004.webp",
+      "isNew": true,
+      "order": 4
+    },
+    {
+      "id": "st-0005",
+      "slug": "numbers-in-the-night",
+      "title": "Numbers in the Night",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 259,
+        "A2": 404,
+        "B1": 600,
+        "B2": 910
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0005.webp",
+      "isNew": true,
+      "order": 5
     }
   ]
 }
