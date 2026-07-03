@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 5,
+  "contentVersion": 6,
   "updatedAt": "2026-07-03",
   "adConfig": {
     "adsEnabled": true,
@@ -145,6 +145,33 @@
       "cover": "covers/st-0005.webp",
       "isNew": false,
       "order": 5
+    },
+    {
+      "id": "st-0006",
+      "slug": "the-whispering-well",
+      "title": "The Whispering Well",
+      "genre": "horror",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 380,
+        "A2": 518,
+        "B1": 718,
+        "B2": 998
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8
+      },
+      "cover": "covers/st-0006.webp",
+      "isNew": true,
+      "order": 6
     }
   ]
 }
