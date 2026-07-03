@@ -18,6 +18,7 @@ ALLOWED WORD LIST:
 
 Return JSON only, in this exact shape:
 {
+  "coverScene": "one vivid sentence describing a single cozy illustration scene for the cover (no text, no words in the image)",
   "paragraphs": [
     ["First sentence of paragraph one.", "Second sentence."],
     ["First sentence of paragraph two."]

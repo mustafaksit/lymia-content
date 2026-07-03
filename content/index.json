@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 3,
-  "updatedAt": "2026-07-02",
+  "contentVersion": 4,
+  "updatedAt": "2026-07-03",
   "adConfig": {
     "adsEnabled": true,
     "nativeEveryNCards": 8,
@@ -89,7 +89,7 @@
         "B2": 7
       },
       "cover": "covers/st-0003.webp",
-      "isNew": true,
+      "isNew": false,
       "order": 3
     },
     {
@@ -116,7 +116,7 @@
         "B2": 7
       },
       "cover": "covers/st-0004.webp",
-      "isNew": true,
+      "isNew": false,
       "order": 4
     },
     {
@@ -143,7 +143,7 @@
         "B2": 7
       },
       "cover": "covers/st-0005.webp",
-      "isNew": true,
+      "isNew": false,
       "order": 5
     }
   ]

@@ -125,7 +125,7 @@ async function main() {
   console.log(`Başlık: ${title}\nKonsept: ${concept}`);
 
   const id = typeof args.id === 'string' ? args.id : nextStoryId();
-  const story = { id, title, genre, levels: {} };
+  const story = { id, title, genre, coverScene: '', levels: {} };
 
   // 1) B2 tam hikaye
   const b2Rule = LEVEL_RULES.B2;
@@ -145,6 +145,7 @@ async function main() {
     'B2',
   );
   story.levels.B2 = toLevelData(b2, id, 'B2');
+  if (typeof b2.coverScene === 'string') story.coverScene = b2.coverScene;
   const b2Text = levelPlainText(b2);
 
   // 2) A1/A2/B1 sadeleştirme (aynı olay örgüsü)
