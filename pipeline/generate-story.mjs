@@ -41,6 +41,24 @@ function loadPrompt(name) {
   return readFileSync(new URL(`./prompts/${name}`, import.meta.url), 'utf8');
 }
 
+/** Gutenberg başlık/altbilgi şeridini atar, ortadan ~6000 karakterlik özet alır. */
+function extractGutenberg(raw) {
+  const startMatch = raw.match(/\*\*\* START OF (?:THE|THIS) PROJECT GUTENBERG.*?\*\*\*/s);
+  const endMatch = raw.match(/\*\*\* END OF (?:THE|THIS) PROJECT GUTENBERG.*?\*\*\*/s);
+  let body = raw;
+  if (startMatch) body = body.slice(startMatch.index + startMatch[0].length);
+  if (endMatch) body = body.slice(0, body.indexOf(endMatch[0]));
+  body = body.replace(/\r/g, '').replace(/\n{3,}/g, '\n\n').trim();
+  // baştan bir miktar atla (içindekiler/önsöz), ortadan bir bölüm al
+  const skip = Math.min(2000, Math.floor(body.length * 0.1));
+  return body.slice(skip, skip + 6000);
+}
+
+function gutenbergTitle(raw) {
+  const m = raw.match(/Title:\s*(.+)/);
+  return m ? m[1].trim() : 'A Classic Tale';
+}
+
 function fillTemplate(template, values) {
   return template.replace(/\{\{(\w+)\}\}/g, (_, key) => {
     if (!(key in values)) throw new Error(`Prompt şablonunda karşılıksız alan: ${key}`);
@@ -115,27 +133,41 @@ async function main() {
   let title = typeof args.title === 'string' ? args.title : null;
   let concept = typeof args.concept === 'string' ? args.concept : null;
 
-  if (args.auto || !title || !concept) {
+  // Project Gutenberg kaynağı (Classic türü): metni indir, sadeleştir
+  let sourceText = null;
+  if (args.source === 'gutenberg') {
+    if (typeof args.url !== 'string') {
+      console.error('--source gutenberg için --url <link> gerekli');
+      process.exit(1);
+    }
+    console.log('Gutenberg metni indiriliyor...');
+    const raw = await (await fetch(args.url)).text();
+    sourceText = extractGutenberg(raw);
+    title = title ?? gutenbergTitle(raw);
+  }
+
+  if (!sourceText && (args.auto || !title || !concept)) {
     console.log('Konsept üretiliyor (Gemini)...');
     const conceptPrompt = fillTemplate(loadPrompt('concept.txt'), { genre });
     const conceptData = parseJsonResponse(await callGemini(conceptPrompt, { json: true }));
     title = title ?? conceptData.title;
     concept = concept ?? conceptData.concept;
   }
-  console.log(`Başlık: ${title}\nKonsept: ${concept}`);
+  console.log(`Başlık: ${title}${concept ? `\nKonsept: ${concept}` : ''}`);
 
   const id = typeof args.id === 'string' ? args.id : nextStoryId();
   const story = { id, title, genre, coverScene: '', levels: {} };
 
-  // 1) B2 tam hikaye
+  // 1) B2 tam hikaye (özgün veya Gutenberg sadeleştirmesi)
   const b2Rule = LEVEL_RULES.B2;
   console.log('B2 hikaye üretiliyor...');
   const b2 = await generateLevel(
-    'story-b2.txt',
+    sourceText ? 'story-gutenberg.txt' : 'story-b2.txt',
     {
       genre,
       title,
-      concept,
+      concept: concept ?? '',
+      sourceText: sourceText ?? '',
       maxSentenceWords: b2Rule.maxSentenceWords,
       minWords: b2Rule.minWords,
       maxWords: b2Rule.maxWords,

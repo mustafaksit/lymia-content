@@ -3,7 +3,7 @@ import { loadEnv } from './env.mjs';
 loadEnv();
 
 const API_BASE = 'https://generativelanguage.googleapis.com/v1beta/models';
-const DEFAULT_MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
+const DEFAULT_MODEL = process.env.GEMINI_MODEL || 'gemini-flash-latest';
 const MAX_RETRIES = 4;
 
 export function requireApiKey() {

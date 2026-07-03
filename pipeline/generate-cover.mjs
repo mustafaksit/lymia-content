@@ -13,6 +13,7 @@
  *   node pipeline/generate-cover.mjs --story content/stories/st-0001.json
  *   node pipeline/generate-cover.mjs --all            # tüm hikayeler
  *   node pipeline/generate-cover.mjs --all --fallback # prosedürel yedek
+ *   node pipeline/generate-cover.mjs --daily-batch   # kota 429'a kadar üret, temiz çık (yarın devam)
  *   node pipeline/generate-cover.mjs --regenerate st-0001
  *
  * Çıktı: content/covers/<id>.webp (800x600, 4:3, metinsiz)
@@ -33,11 +34,11 @@ const WIDTH = 800;
 const HEIGHT = 600;
 const STATE_FILE = path.join(path.dirname(fileURLToPath(import.meta.url)), '.cover-state.json');
 
-// Sabit stil prompt'u — her kapakta AYNEN kullanılır (tutarlılık buradan gelir)
+// Sabit stil prompt'u — her kapakta AYNEN kullanılır (stil tutarlılığı buradan)
 const STYLE_PROMPT =
-  'flat storybook illustration, soft warm pastel palette, cozy and friendly, ' +
-  'simple rounded shapes, subtle paper grain, single focal scene, ' +
-  'NO text, NO letters, NO words';
+  "children's storybook illustration, flat shapes with soft textures, " +
+  'warm pastel palette, cozy atmosphere, single focal scene, consistent style, ' +
+  'NO text, NO letters, NO watermark';
 
 const GEMINI_IMAGE_MODEL = process.env.GEMINI_IMAGE_MODEL || 'gemini-2.5-flash-image';
 const GEMINI_TEXT_MODEL = process.env.GEMINI_COVER_MODEL || 'gemini-flash-latest';
@@ -190,56 +191,66 @@ function saveState(state) {
   writeFileSync(STATE_FILE, JSON.stringify(state, null, 2) + '\n');
 }
 
-async function coverForStory(storyPath, { forceFallback, state }) {
+async function coverForStory(storyPath, { forceFallback, state, dailyBatch }) {
   const story = JSON.parse(readFileSync(storyPath, 'utf8'));
   const outPath = path.join(COVERS_DIR, `${story.id}.webp`);
   const scene = story.coverScene || `a cozy scene that represents "${story.title}"`;
 
   if (!forceFallback && process.env.GEMINI_API_KEY) {
-    // 1) Raster illüstrasyon (Gemini görsel modeli) — kota varsa en iyi sonuç
+    // 1) Raster illüstrasyon (Gemini görsel modeli) — BİRİNCİL kaynak
     if (!process.env.COVER_SKIP_IMAGE) {
       try {
         await renderGemini(story.genre, scene, outPath);
         console.log(`Gemini raster kapak: ${story.id}`);
         state.done.push(story.id);
         saveState(state);
-        return true;
+        return 'done';
       } catch (err) {
-        if (err.message !== 'quota') {
-          console.error(`Gemini raster başarısız (${story.id}): ${err.message}`);
-        } else {
+        if (err.message === 'quota') {
+          // daily-batch: kota bitti, SVG'ye düşmeden temiz dur (yarın devam)
+          if (dailyBatch) {
+            console.log(`Görsel kotası doldu -> günlük parti bitti (${story.id} sırada).`);
+            return 'quota';
+          }
           console.log(`Görsel kotası dolu -> SVG illüstrasyona düşülüyor (${story.id})`);
+        } else {
+          console.error(`Gemini raster başarısız (${story.id}): ${err.message}`);
         }
       }
     }
-    // 2) SVG illüstrasyon (Gemini metin modeli) — gerçek, hikayeye özel kapak
-    try {
-      await renderGeminiSvg(story.genre, scene, outPath);
-      console.log(`Gemini SVG kapak: ${story.id}`);
-      state.done.push(story.id);
-      saveState(state);
-      return true;
-    } catch (err) {
-      if (err.message === 'quota') {
-        console.error(`Metin kotası da dolu (${story.id}). --resume ile sonra devam edin.`);
-        return false;
+    // 2) SVG illüstrasyon (Gemini metin modeli) — fallback (daily-batch dışı)
+    if (!dailyBatch) {
+      try {
+        await renderGeminiSvg(story.genre, scene, outPath);
+        console.log(`Gemini SVG kapak: ${story.id}`);
+        state.done.push(story.id);
+        saveState(state);
+        return 'done';
+      } catch (err) {
+        if (err.message === 'quota') {
+          console.error(`Metin kotası da dolu (${story.id}). --resume ile sonra devam edin.`);
+          return 'quota';
+        }
+        console.error(`Gemini SVG başarısız (${story.id}): ${err.message} -> prosedürel yedek`);
       }
-      console.error(`Gemini SVG başarısız (${story.id}): ${err.message} -> prosedürel yedek`);
     }
   }
+  if (dailyBatch) return 'quota'; // daily-batch'te prosedürele düşme
   // 3) Prosedürel yedek
   await renderFallback(story.genre, outPath);
   console.log(`Prosedürel kapak: ${story.id}`);
-  return true;
+  return 'done';
 }
 
 async function main() {
   const args = parseArgs(process.argv);
   const forceFallback = Boolean(args.fallback);
-  const state = args.resume ? loadState() : { done: [] };
+  const dailyBatch = Boolean(args['daily-batch']);
+  // daily-batch her zaman state'ten devam eder
+  const state = args.resume || dailyBatch ? loadState() : { done: [] };
 
   let storyFiles = [];
-  if (args.all || args.resume) {
+  if (args.all || args.resume || dailyBatch) {
     storyFiles = readdirSync(STORIES_DIR)
       .filter((f) => f.endsWith('.json'))
       .filter((f) => !state.done.includes(f.replace('.json', '')))
@@ -259,11 +270,19 @@ async function main() {
     process.exit(1);
   }
 
+  let made = 0;
   for (const file of storyFiles) {
-    const ok = await coverForStory(file, { forceFallback, state });
-    if (!ok) process.exit(2); // kota
+    const result = await coverForStory(file, { forceFallback, state, dailyBatch });
+    if (result === 'quota') {
+      if (dailyBatch) {
+        console.log(`Günlük parti tamam: ${made} kapak üretildi. Yarın 'node pipeline/generate-cover.mjs --daily-batch' ile devam.`);
+        return; // temiz çıkış (exit 0)
+      }
+      process.exit(2);
+    }
+    if (result === 'done') made += 1;
   }
-  console.log('Bitti.');
+  console.log(`Bitti. ${made} kapak.`);
 }
 
 main().catch((err) => {

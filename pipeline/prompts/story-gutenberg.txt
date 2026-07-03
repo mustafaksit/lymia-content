@@ -1,0 +1,30 @@
+You adapt public-domain literature into an English graded reader at CEFR B2 level. Write an ORIGINAL simplified retelling of the source excerpt below — same story and characters, your own simpler wording. This is a legal adaptation of a public-domain work.
+
+SOURCE WORK: {{title}}
+GENRE: classic
+SOURCE EXCERPT:
+{{sourceText}}
+
+HARD RULES (violations get the story rejected by an automatic validator):
+1. Vocabulary: use ONLY words from the allowed list below, plus proper names from the source. At least 95% of all words must be from the list. Inflections are fine.
+2. Sentence length: maximum {{maxSentenceWords}} words per sentence.
+3. Story length: between {{minWords}} and {{maxWords}} words in total.
+4. Grammar scope: {{grammar}}
+5. Content: keep it suitable for ages 12+. No graphic violence or sexuality.
+6. Structure: 5-9 paragraphs, each 2-6 sentences. Tell a complete self-contained episode from the source.
+7. Also write 3 comprehension quiz questions with 3 options each; exactly one correct; wrong options plausible.
+
+ALLOWED WORD LIST:
+{{pool}}
+
+Return JSON only, in this exact shape:
+{
+  "coverScene": "one vivid sentence describing a single cozy illustration scene for the cover (no text, no words in the image)",
+  "paragraphs": [
+    ["First sentence of paragraph one.", "Second sentence."],
+    ["First sentence of paragraph two."]
+  ],
+  "quiz": [
+    { "q": "Question text?", "options": ["Option A", "Option B", "Option C"], "answer": 0 }
+  ]
+}
