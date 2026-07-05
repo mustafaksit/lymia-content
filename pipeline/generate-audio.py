@@ -105,13 +105,12 @@ async def main() -> None:
     story_path = Path(args.story).resolve()
     story = json.loads(story_path.read_text())
 
-    wanted = args.levels.split(",") if args.levels else list(story["levels"].keys())
-    print(f"Ses üretimi: {story['id']} — {story['title']} ({', '.join(wanted)})")
-    for level in wanted:
-        if level not in story["levels"]:
-            print(f"  {level}: hikayede yok, atlanıyor")
-            continue
-        await process_level(story, level, args.voice)
+    requested = args.levels.split(",") if args.levels else list(story["levels"].keys())
+    wanted = [l for l in requested if l in story["levels"]]
+    print(f"Ses üretimi: {story['id']} — {story['title']} ({', '.join(wanted)}) [paralel]")
+    # Seviyeler birbirinden bağımsız (her biri kendi mp3'ünü ve kendi timing
+    # alt-ağacını yazar) -> hepsini eşzamanlı üret (~4x hız).
+    await asyncio.gather(*(process_level(story, level, args.voice) for level in wanted))
 
     story_path.write_text(json.dumps(story, ensure_ascii=False, indent=2) + "\n")
     print(f"Story JSON güncellendi: {story_path}")
