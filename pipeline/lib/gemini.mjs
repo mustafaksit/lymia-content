@@ -32,7 +32,7 @@ const GEMINI_MODELS = (
 // cömert olanlar önce; Gemini (en dar günlük kota) en sona konur.
 const OPENAI_PROVIDERS = [
   { name: 'groq', env: 'GROQ_API_KEY', baseUrl: 'https://api.groq.com/openai/v1', models: ['llama-3.3-70b-versatile'] },
-  { name: 'cerebras', env: 'CEREBRAS_API_KEY', baseUrl: 'https://api.cerebras.ai/v1', models: ['llama3.3-70b', 'llama-3.3-70b'] },
+  { name: 'cerebras', env: 'CEREBRAS_API_KEY', baseUrl: 'https://api.cerebras.ai/v1', models: ['gpt-oss-120b', 'zai-glm-4.7'] },
   { name: 'together', env: 'TOGETHER_API_KEY', baseUrl: 'https://api.together.xyz/v1', models: ['meta-llama/Llama-3.3-70B-Instruct-Turbo-Free'] },
   { name: 'mistral', env: 'MISTRAL_API_KEY', baseUrl: 'https://api.mistral.ai/v1', models: ['mistral-large-latest'] },
   { name: 'openrouter', env: 'OPENROUTER_API_KEY', baseUrl: 'https://openrouter.ai/api/v1', models: ['meta-llama/llama-3.3-70b-instruct:free', 'deepseek/deepseek-chat-v3.1:free'] },
