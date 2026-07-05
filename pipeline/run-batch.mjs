@@ -128,11 +128,19 @@ function catalogCounts() {
   return counts;
 }
 
-function nextGenre(counts) {
+/** Hedefe en uzak türü seç (dengeli dağılım); eşitlikte sabit tür sırası. */
+function nextGenre(counts, exclude = null) {
+  let best = null;
+  let bestGap = 0;
   for (const g of Object.keys(TARGET)) {
-    if (counts[g] < TARGET[g]) return g;
+    if (g === exclude) continue;
+    const gap = TARGET[g] - counts[g];
+    if (gap > bestGap) {
+      bestGap = gap;
+      best = g;
+    }
   }
-  return null;
+  return best; // hepsi hedefte ise null
 }
 
 function runNode(argsArr) {
@@ -281,18 +289,23 @@ async function publishAndVerify(producedIds) {
 
   // jsDelivr purge: index + yeni yayınlanan hikayelerin json/kapakları
   const toPurge = ['index.json', ...producedIds.flatMap((id) => [`stories/${id}.json`, `covers/${id}.webp`])];
-  for (const p of toPurge) {
-    try {
-      const res = await fetch(CDN.purge(p));
-      console.log(`purge ${p} -> ${res.status}`);
-    } catch {
-      console.log(`purge ${p} -> hata`);
+  const purgeAll = async () => {
+    for (const p of toPurge) {
+      try {
+        const res = await fetch(CDN.purge(p));
+        console.log(`purge ${p} -> ${res.status}`);
+      } catch {
+        console.log(`purge ${p} -> hata`);
+      }
     }
-  }
+  };
+  await purgeAll();
 
-  // Canlı CDN yeni versiyonu sunana kadar DOĞRULA
+  // Canlı CDN yeni versiyonu sunana kadar DOĞRULA. jsDelivr, origin (GitHub raw)
+  // cache'i gecikince eski sürümü yeniden cache'leyebilir; bu yüzden birkaç turda
+  // bir YENİDEN purge ederek uzun pencerede doğrularız.
   process.stdout.write('jsDelivr canlı doğrulama bekleniyor');
-  for (let i = 0; i < 25; i++) {
+  for (let i = 0; i < 45; i++) {
     const live = await fetchIndexVersion(CDN.jsdelivr('index.json'));
     if (live && live.version >= version) {
       process.stdout.write(` -> jsDelivr v${live.version} (${live.count} hikaye)\n`);
@@ -301,6 +314,10 @@ async function publishAndVerify(producedIds) {
     }
     process.stdout.write('.');
     await sleep(8000);
+    if (i > 0 && i % 8 === 0) {
+      process.stdout.write('\n(yeniden purge)\n');
+      await purgeAll();
+    }
   }
   throw new Error('jsDelivr canlı doğrulama zaman aşımı (yayın yapıldı ama CDN henüz güncel değil).');
 }
@@ -344,6 +361,8 @@ async function main() {
   const skipAudio = Boolean(args['skip-audio']);
   const noPublish = Boolean(args['no-publish']);
   const classicUrl = typeof args['classic-url'] === 'string' ? args['classic-url'] : null;
+  // --genre <tür>: bu turda yalnız bu türü üret (yoksa dengeli otomatik seçim)
+  const forcedGenre = typeof args.genre === 'string' && TARGET[args.genre] ? args.genre : null;
 
   const state = loadState();
   state.produced = 0;
@@ -356,9 +375,14 @@ async function main() {
 
   while (doneThisRun < maxThisRun) {
     const counts = catalogCounts();
-    const genre = nextGenre(counts);
+    // klasik yalnız Gutenberg URL'iyle üretilir; URL yoksa otomatik seçimden çıkar
+    const genre = forcedGenre ?? nextGenre(counts, classicUrl ? null : 'classic');
     if (!genre) {
       console.log('Hedef dağılıma ulaşıldı.');
+      break;
+    }
+    if (forcedGenre && counts[genre] >= TARGET[genre]) {
+      console.log(`${genre} hedefe ulaştı (${counts[genre]}/${TARGET[genre]}).`);
       break;
     }
     console.log(`\n=== ${genre} üretiliyor (${counts[genre] + 1}/${TARGET[genre]}) ===`);

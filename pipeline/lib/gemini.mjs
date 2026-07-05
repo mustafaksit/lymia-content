@@ -3,8 +3,32 @@ import { loadEnv } from './env.mjs';
 loadEnv();
 
 const API_BASE = 'https://generativelanguage.googleapis.com/v1beta/models';
-const DEFAULT_MODEL = process.env.GEMINI_MODEL || 'gemini-flash-latest';
+const DEFAULT_MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
 const MAX_RETRIES = 4;
+
+// Ücretsiz katman: model BAŞINA günde 20 istek. Her modelin ayrı kovası
+// olduğundan havuzu döndürerek günlük bütçeyi katlarız. Bir model günlük
+// kotayı (PerDay 429) tüketince "dead" işaretlenir, sıradaki canlı modele geçilir.
+const MODEL_POOL = (
+  process.env.GEMINI_MODELS
+    ? process.env.GEMINI_MODELS.split(',')
+    : [
+        'gemini-2.5-flash',
+        'gemini-3.5-flash',
+        'gemini-flash-latest',
+        'gemini-3-flash-preview',
+        'gemini-flash-lite-latest',
+        'gemini-3.1-flash-lite',
+      ]
+).map((m) => m.trim());
+
+const deadModels = new Set();
+
+/** Verilen başlangıç modelinden itibaren canlı model listesi (havuzla birleşik). */
+function liveModels(startModel) {
+  const ordered = [startModel, ...MODEL_POOL.filter((m) => m !== startModel)];
+  return ordered.filter((m) => !deadModels.has(m));
+}
 
 export function requireApiKey() {
   const key = process.env.GEMINI_API_KEY;
@@ -32,19 +56,45 @@ export async function callGemini(prompt, { json = false, model = DEFAULT_MODEL }
   };
 
   let lastError;
-  for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
-    if (attempt > 0) {
-      const waitMs = 2000 * 2 ** attempt;
-      console.log(`  Gemini yeniden deneme ${attempt}/${MAX_RETRIES - 1} (${waitMs / 1000}s bekleniyor)...`);
-      await new Promise((r) => setTimeout(r, waitMs));
+  let backoff = 0; // aynı model içinde dakika-kotası/5xx için artan bekleme
+  for (let attempt = 0; attempt < MAX_RETRIES * 3; attempt++) {
+    const candidates = liveModels(model);
+    if (candidates.length === 0) {
+      throw new Error('Gemini HTTP 429: tüm modeller günlük kotayı tüketti (quota)');
     }
-    const res = await fetch(`${API_BASE}/${model}:generateContent?key=${key}`, {
+    const current = candidates[0];
+    if (backoff > 0) {
+      console.log(`  Gemini bekleme ${backoff / 1000}s (${current})...`);
+      await new Promise((r) => setTimeout(r, backoff));
+    }
+    const res = await fetch(`${API_BASE}/${current}:generateContent?key=${key}`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(body),
     });
-    if (res.status === 429 || res.status >= 500) {
+    if (res.status === 429) {
+      // günlük kota -> modeli öldür, sıradakine geç (beklemeden); dakika kotası -> bekle
+      let perDay = true;
+      try {
+        const b = await res.json();
+        const ids = (b.error?.details || []).flatMap((d) => d.violations || []).map((v) => v.quotaId || '');
+        if (ids.length && !ids.some((id) => /PerDay/i.test(id))) perDay = false;
+      } catch {
+        /* gövde okunamadı: güvenli tarafta günlük say */
+      }
+      lastError = new Error('Gemini HTTP 429');
+      if (perDay) {
+        deadModels.add(current);
+        console.log(`  ${current} günlük kotayı tüketti -> sıradaki modele geçiliyor`);
+        backoff = 0;
+      } else {
+        backoff = Math.min(60000, (backoff || 15000) * 1.5);
+      }
+      continue;
+    }
+    if (res.status >= 500) {
       lastError = new Error(`Gemini HTTP ${res.status}`);
+      backoff = Math.min(30000, (backoff || 4000) * 2);
       continue;
     }
     if (!res.ok) {
@@ -55,6 +105,7 @@ export async function callGemini(prompt, { json = false, model = DEFAULT_MODEL }
     const text = data.candidates?.[0]?.content?.parts?.map((p) => p.text).join('') ?? '';
     if (!text) {
       lastError = new Error('Gemini boş yanıt döndürdü');
+      backoff = Math.min(30000, (backoff || 4000) * 2);
       continue;
     }
     return text;
