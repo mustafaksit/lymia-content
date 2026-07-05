@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 9,
-  "updatedAt": "2026-07-03",
+  "contentVersion": 10,
+  "updatedAt": "2026-07-05",
   "adConfig": {
     "adsEnabled": true,
     "nativeEveryNCards": 8,
@@ -197,8 +197,35 @@
         "B2": 8
       },
       "cover": "covers/st-0007.webp",
-      "isNew": true,
+      "isNew": false,
       "order": 7
+    },
+    {
+      "id": "st-0008",
+      "slug": "the-happy-prince-and-other-tales",
+      "title": "The Happy Prince, and Other Tales",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 385,
+        "A2": 577,
+        "B1": 755,
+        "B2": 1010
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 5,
+        "B1": 6,
+        "B2": 8
+      },
+      "cover": "covers/st-0008.webp",
+      "isNew": true,
+      "order": 8
     }
   ]
 }
