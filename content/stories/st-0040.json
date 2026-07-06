@@ -1,0 +1,724 @@
+{
+  "id": "st-0040",
+  "title": "The Library Note",
+  "genre": "romance",
+  "coverScene": "A quiet library corner with a single open book resting on a wooden shelf beside a small handwritten note.",
+  "levels": {
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo visited the public library every Wednesday afternoon.",
+              "audioStart": 0.1,
+              "audioEnd": 3.138
+            },
+            {
+              "text": "He liked to sit in the quiet corner near the history section.",
+              "audioStart": 4.0,
+              "audioEnd": 7.05
+            },
+            {
+              "text": "One day, he found a small, white note inside an old book.",
+              "audioStart": 7.912,
+              "audioEnd": 11.438
+            },
+            {
+              "text": "The note contained a beautiful poem about the silence of the library.",
+              "audioStart": 12.3,
+              "audioEnd": 15.537
+            },
+            {
+              "text": "He felt a sudden interest in the person who had written it.",
+              "audioStart": 16.4,
+              "audioEnd": 19.05
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo decided that he would write a reply.",
+              "audioStart": 19.913,
+              "audioEnd": 21.975
+            },
+            {
+              "text": "He placed his own poem inside the same book the next week.",
+              "audioStart": 22.837,
+              "audioEnd": 25.988
+            },
+            {
+              "text": "He hoped that someone would find his answer.",
+              "audioStart": 26.85,
+              "audioEnd": 28.975
+            },
+            {
+              "text": "Soon, he saw a new note waiting for him on the shelf.",
+              "audioStart": 29.837,
+              "audioEnd": 32.8
+            },
+            {
+              "text": "This secret communication became the highlight of his week.",
+              "audioStart": 33.663,
+              "audioEnd": 36.638
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He learned that the girl was named Mia.",
+              "audioStart": 37.5,
+              "audioEnd": 39.288
+            },
+            {
+              "text": "She was a student who studied at the same library.",
+              "audioStart": 40.15,
+              "audioEnd": 42.625
+            },
+            {
+              "text": "They exchanged many letters through the hidden pages of books.",
+              "audioStart": 43.487,
+              "audioEnd": 46.487
+            },
+            {
+              "text": "If he had not found that first note, they would never have met.",
+              "audioStart": 47.35,
+              "audioEnd": 50.513
+            },
+            {
+              "text": "Their relationship grew through the words they shared on paper.",
+              "audioStart": 51.375,
+              "audioEnd": 54.2
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Finally, Leo decided to leave a note with his name and phone number.",
+              "audioStart": 55.062,
+              "audioEnd": 58.513
+            },
+            {
+              "text": "He wondered if Mia would be brave enough to call him.",
+              "audioStart": 59.375,
+              "audioEnd": 61.825
+            },
+            {
+              "text": "The next day, his phone rang while he was at home.",
+              "audioStart": 62.688,
+              "audioEnd": 65.4
+            },
+            {
+              "text": "He felt happy because he heard a soft voice on the other side.",
+              "audioStart": 66.263,
+              "audioEnd": 69.412
+            },
+            {
+              "text": "It was Mia, and she wanted to meet him for coffee.",
+              "audioStart": 70.275,
+              "audioEnd": 73.025
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They met at a local cafe outside the library.",
+              "audioStart": 73.888,
+              "audioEnd": 76.375
+            },
+            {
+              "text": "They talked for hours about their favorite books and life.",
+              "audioStart": 77.237,
+              "audioEnd": 79.987
+            },
+            {
+              "text": "It was a perfect afternoon for both of them.",
+              "audioStart": 80.85,
+              "audioEnd": 83.0
+            },
+            {
+              "text": "They realized that they had much in common.",
+              "audioStart": 83.862,
+              "audioEnd": 85.975
+            },
+            {
+              "text": "A new story had started for the young couple.",
+              "audioStart": 86.838,
+              "audioEnd": 89.062
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0040.mp3",
+      "wordTimings": "audio/b2/st-0040.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo first find the mysterious note?",
+          "options": [
+            "On a library table",
+            "Inside an old book",
+            "Near the library entrance"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Leo and Mia communicate initially?",
+          "options": [
+            "By sending emails",
+            "By meeting at a cafe",
+            "By leaving notes in books"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What happened after Leo left his phone number?",
+          "options": [
+            "Mia called him",
+            "He never heard from her",
+            "They met at the library shelf"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo visited the public library every Wednesday afternoon.",
+              "audioStart": 0.1,
+              "audioEnd": 3.138
+            },
+            {
+              "text": "He liked to sit in the quiet corner near the history section.",
+              "audioStart": 4.0,
+              "audioEnd": 7.05
+            },
+            {
+              "text": "One day, he found a small, white note inside an old book.",
+              "audioStart": 7.912,
+              "audioEnd": 11.438
+            },
+            {
+              "text": "The note contained a beautiful poem about the silence of the library.",
+              "audioStart": 12.3,
+              "audioEnd": 15.537
+            },
+            {
+              "text": "He felt a sudden interest in the person who had written it.",
+              "audioStart": 16.4,
+              "audioEnd": 19.05
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo decided that he would write a reply.",
+              "audioStart": 19.913,
+              "audioEnd": 21.975
+            },
+            {
+              "text": "He placed his own poem inside the same book the next week.",
+              "audioStart": 22.837,
+              "audioEnd": 25.988
+            },
+            {
+              "text": "He hoped that someone would find his answer.",
+              "audioStart": 26.85,
+              "audioEnd": 28.975
+            },
+            {
+              "text": "Soon, he saw a new note waiting for him on the shelf.",
+              "audioStart": 29.837,
+              "audioEnd": 32.8
+            },
+            {
+              "text": "This secret communication became the highlight of his week.",
+              "audioStart": 33.663,
+              "audioEnd": 36.638
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He learned that the girl was named Mia.",
+              "audioStart": 37.5,
+              "audioEnd": 39.288
+            },
+            {
+              "text": "She was a student who studied at the same library.",
+              "audioStart": 40.15,
+              "audioEnd": 42.625
+            },
+            {
+              "text": "They exchanged many letters through the hidden pages of books.",
+              "audioStart": 43.487,
+              "audioEnd": 46.487
+            },
+            {
+              "text": "If he had not found that first note, they would never have met.",
+              "audioStart": 47.35,
+              "audioEnd": 50.513
+            },
+            {
+              "text": "Their relationship grew through the words they shared on paper.",
+              "audioStart": 51.375,
+              "audioEnd": 54.2
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Finally, Leo decided to leave a note with his name and phone number.",
+              "audioStart": 55.062,
+              "audioEnd": 58.513
+            },
+            {
+              "text": "He wondered if Mia would be brave enough to call him.",
+              "audioStart": 59.375,
+              "audioEnd": 61.825
+            },
+            {
+              "text": "The next day, his phone rang while he was at home.",
+              "audioStart": 62.688,
+              "audioEnd": 65.4
+            },
+            {
+              "text": "He felt happy because he heard a soft voice on the other side.",
+              "audioStart": 66.263,
+              "audioEnd": 69.412
+            },
+            {
+              "text": "It was Mia, and she wanted to meet him for coffee.",
+              "audioStart": 70.275,
+              "audioEnd": 73.025
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They met at a local cafe outside the library.",
+              "audioStart": 73.888,
+              "audioEnd": 76.375
+            },
+            {
+              "text": "They talked for hours about their favorite books and life.",
+              "audioStart": 77.237,
+              "audioEnd": 79.987
+            },
+            {
+              "text": "It was a perfect afternoon for both of them.",
+              "audioStart": 80.85,
+              "audioEnd": 83.0
+            },
+            {
+              "text": "They realized that they had much in common.",
+              "audioStart": 83.862,
+              "audioEnd": 85.975
+            },
+            {
+              "text": "A new story had started for the young couple.",
+              "audioStart": 86.838,
+              "audioEnd": 89.062
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0040.mp3",
+      "wordTimings": "audio/b1/st-0040.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo usually sit in the library?",
+          "options": [
+            "Near the entrance",
+            "In the history section",
+            "At a local cafe"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Leo and Mia first communicate?",
+          "options": [
+            "By sending emails",
+            "By leaving notes in books",
+            "By talking on the phone"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did Leo include in his final note?",
+          "options": [
+            "His name and phone number",
+            "A long poem about his life",
+            "The name of his favorite cafe"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo visited the public library every Wednesday afternoon.",
+              "audioStart": 0.106,
+              "audioEnd": 3.481
+            },
+            {
+              "text": "He liked to sit in the quiet corner near history.",
+              "audioStart": 4.444,
+              "audioEnd": 7.25
+            },
+            {
+              "text": "One day, he found a small white note in a book.",
+              "audioStart": 8.208,
+              "audioEnd": 11.111
+            },
+            {
+              "text": "The note had a beautiful poem about the library silence.",
+              "audioStart": 12.069,
+              "audioEnd": 15.361
+            },
+            {
+              "text": "He felt interest in the person who wrote it.",
+              "audioStart": 16.319,
+              "audioEnd": 18.694
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo decided to write a reply.",
+              "audioStart": 19.653,
+              "audioEnd": 21.625
+            },
+            {
+              "text": "He put his own poem in the same book.",
+              "audioStart": 22.583,
+              "audioEnd": 24.792
+            },
+            {
+              "text": "He hoped someone would find his answer.",
+              "audioStart": 25.75,
+              "audioEnd": 27.889
+            },
+            {
+              "text": "Soon, he saw a new note on the shelf.",
+              "audioStart": 28.847,
+              "audioEnd": 31.375
+            },
+            {
+              "text": "This secret communication became the best part of his week.",
+              "audioStart": 32.333,
+              "audioEnd": 35.833
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He learned the girl was named Mia.",
+              "audioStart": 36.792,
+              "audioEnd": 38.625
+            },
+            {
+              "text": "She was a student at the same library.",
+              "audioStart": 39.583,
+              "audioEnd": 41.792
+            },
+            {
+              "text": "They shared many letters through the book pages.",
+              "audioStart": 42.75,
+              "audioEnd": 45.306
+            },
+            {
+              "text": "If he did not find that note, they would never meet.",
+              "audioStart": 46.264,
+              "audioEnd": 49.194
+            },
+            {
+              "text": "Their relationship grew through the words they shared.",
+              "audioStart": 50.153,
+              "audioEnd": 52.708
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo decided to leave a note with his phone number.",
+              "audioStart": 53.667,
+              "audioEnd": 56.347
+            },
+            {
+              "text": "He wondered if Mia would call him.",
+              "audioStart": 57.306,
+              "audioEnd": 59.139
+            },
+            {
+              "text": "The next day, his phone rang at home.",
+              "audioStart": 60.097,
+              "audioEnd": 62.611
+            },
+            {
+              "text": "He felt happy because he heard a soft voice.",
+              "audioStart": 63.569,
+              "audioEnd": 66.25
+            },
+            {
+              "text": "It was Mia, and she wanted to meet for coffee.",
+              "audioStart": 67.208,
+              "audioEnd": 70.083
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They met at a local cafe outside the library.",
+              "audioStart": 71.042,
+              "audioEnd": 73.806
+            },
+            {
+              "text": "They talked for hours about books and life.",
+              "audioStart": 74.764,
+              "audioEnd": 77.222
+            },
+            {
+              "text": "It was a perfect afternoon for both of them.",
+              "audioStart": 78.181,
+              "audioEnd": 80.569
+            },
+            {
+              "text": "They realized they had much in common.",
+              "audioStart": 81.528,
+              "audioEnd": 83.694
+            },
+            {
+              "text": "A new story started for the young couple.",
+              "audioStart": 84.653,
+              "audioEnd": 86.847
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0040.mp3",
+      "wordTimings": "audio/a2/st-0040.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo find the first note?",
+          "options": [
+            "In a history book",
+            "On the library table",
+            "At the local cafe"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did Leo and Mia first talk to each other?",
+          "options": [
+            "By phone",
+            "Through notes in books",
+            "In the school classroom"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did Mia want to do when she called Leo?",
+          "options": [
+            "To study together",
+            "To return a book",
+            "To meet for coffee"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo visits the public library every Wednesday.",
+              "audioStart": 0.106,
+              "audioEnd": 3.008
+            },
+            {
+              "text": "He sits in a quiet corner.",
+              "audioStart": 3.972,
+              "audioEnd": 5.611
+            },
+            {
+              "text": "He finds a small white note.",
+              "audioStart": 6.569,
+              "audioEnd": 8.222
+            },
+            {
+              "text": "It is in an old book.",
+              "audioStart": 9.181,
+              "audioEnd": 10.417
+            },
+            {
+              "text": "The note is a poem about silence.",
+              "audioStart": 11.375,
+              "audioEnd": 13.458
+            },
+            {
+              "text": "Leo feels interest in the person.",
+              "audioStart": 14.417,
+              "audioEnd": 16.472
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo decides to write a reply.",
+              "audioStart": 17.431,
+              "audioEnd": 19.417
+            },
+            {
+              "text": "He puts his poem in the book.",
+              "audioStart": 20.375,
+              "audioEnd": 22.069
+            },
+            {
+              "text": "He hopes for a new note.",
+              "audioStart": 23.028,
+              "audioEnd": 24.458
+            },
+            {
+              "text": "Soon he finds a new note.",
+              "audioStart": 25.417,
+              "audioEnd": 27.0
+            },
+            {
+              "text": "He learns her name is Mia.",
+              "audioStart": 27.958,
+              "audioEnd": 29.542
+            },
+            {
+              "text": "Mia is a student at the library.",
+              "audioStart": 30.5,
+              "audioEnd": 32.431
+            },
+            {
+              "text": "They share many letters in books.",
+              "audioStart": 33.389,
+              "audioEnd": 35.347
+            },
+            {
+              "text": "They become friends through these words.",
+              "audioStart": 36.306,
+              "audioEnd": 38.389
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo puts his phone number in a note.",
+              "audioStart": 39.347,
+              "audioEnd": 41.444
+            },
+            {
+              "text": "He waits for a call.",
+              "audioStart": 42.403,
+              "audioEnd": 43.75
+            },
+            {
+              "text": "His phone rings the next day.",
+              "audioStart": 44.708,
+              "audioEnd": 46.472
+            },
+            {
+              "text": "He hears a soft voice.",
+              "audioStart": 47.431,
+              "audioEnd": 49.028
+            },
+            {
+              "text": "It is Mia.",
+              "audioStart": 49.986,
+              "audioEnd": 50.833
+            },
+            {
+              "text": "She wants to meet for coffee.",
+              "audioStart": 51.792,
+              "audioEnd": 53.444
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They meet at a local cafe.",
+              "audioStart": 54.403,
+              "audioEnd": 56.069
+            },
+            {
+              "text": "They talk about books and life.",
+              "audioStart": 57.028,
+              "audioEnd": 58.833
+            },
+            {
+              "text": "It is a good afternoon.",
+              "audioStart": 59.792,
+              "audioEnd": 61.111
+            },
+            {
+              "text": "They have much in common.",
+              "audioStart": 62.069,
+              "audioEnd": 63.444
+            },
+            {
+              "text": "A new story starts for them.",
+              "audioStart": 64.403,
+              "audioEnd": 66.083
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0040.mp3",
+      "wordTimings": "audio/a1/st-0040.timings.json",
+      "quiz": [
+        {
+          "q": "Where does Leo find the first note?",
+          "options": [
+            "In a cafe",
+            "In an old book",
+            "At his home"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who is Mia?",
+          "options": [
+            "A teacher",
+            "A student",
+            "A librarian"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How do Leo and Mia first talk?",
+          "options": [
+            "By phone",
+            "By notes in books",
+            "At a school class"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

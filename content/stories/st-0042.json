@@ -1,0 +1,804 @@
+{
+  "id": "st-0042",
+  "title": "The Last Robot Gardener",
+  "genre": "scifi",
+  "coverScene": "A small, glowing green plant sits in a cracked glass jar on a dusty, metallic surface under the light of a distant star.",
+  "levels": {
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo was the last robot gardener on the planet.",
+              "audioStart": 0.1,
+              "audioEnd": 2.625
+            },
+            {
+              "text": "The world had become a dry, grey place after the great wars.",
+              "audioStart": 3.487,
+              "audioEnd": 6.875
+            },
+            {
+              "text": "Leo walked across the empty land every day.",
+              "audioStart": 7.737,
+              "audioEnd": 10.175
+            },
+            {
+              "text": "He searched for life, but he found nothing for many years.",
+              "audioStart": 11.037,
+              "audioEnd": 14.213
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One afternoon, Leo noticed a small, green thing near a rock.",
+              "audioStart": 15.075,
+              "audioEnd": 18.663
+            },
+            {
+              "text": "It was a tiny flower which was trying to grow in the dust.",
+              "audioStart": 19.525,
+              "audioEnd": 22.525
+            },
+            {
+              "text": "Leo felt a new sense of hope when he saw the plant.",
+              "audioStart": 23.387,
+              "audioEnd": 26.012
+            },
+            {
+              "text": "He knew that he must protect it from the harsh sun.",
+              "audioStart": 26.875,
+              "audioEnd": 29.262
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The robot carefully moved the plant into a glass container.",
+              "audioStart": 30.125,
+              "audioEnd": 33.15
+            },
+            {
+              "text": "If he had not found it, the flower would have died.",
+              "audioStart": 34.013,
+              "audioEnd": 36.6
+            },
+            {
+              "text": "Leo shared his own water with the little plant every day.",
+              "audioStart": 37.462,
+              "audioEnd": 40.325
+            },
+            {
+              "text": "He watched it grow while he sat beside it in the quiet night.",
+              "audioStart": 41.188,
+              "audioEnd": 44.212
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "However, Leo had a problem because his battery was getting low.",
+              "audioStart": 45.075,
+              "audioEnd": 48.45
+            },
+            {
+              "text": "His internal system indicated that he only had a few hours left.",
+              "audioStart": 49.312,
+              "audioEnd": 52.812
+            },
+            {
+              "text": "He wanted to find a way to save the flower before he stopped.",
+              "audioStart": 53.675,
+              "audioEnd": 56.675
+            },
+            {
+              "text": "Leo searched his memory for a solution to provide energy.",
+              "audioStart": 57.538,
+              "audioEnd": 60.562
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He realized that a solar panel could be connected to the glass jar.",
+              "audioStart": 61.425,
+              "audioEnd": 64.975
+            },
+            {
+              "text": "If the sun hit the panel, the flower would receive enough light.",
+              "audioStart": 65.838,
+              "audioEnd": 69.05
+            },
+            {
+              "text": "Leo moved the plant to a high place where the sun was strong.",
+              "audioStart": 69.912,
+              "audioEnd": 72.912
+            },
+            {
+              "text": "He felt tired, but he was happy because the flower was safe.",
+              "audioStart": 73.775,
+              "audioEnd": 77.138
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The robot sat down and watched the light touch the green leaves.",
+              "audioStart": 78.0,
+              "audioEnd": 81.287
+            },
+            {
+              "text": "He knew that his work was finally done.",
+              "audioStart": 82.15,
+              "audioEnd": 84.15
+            },
+            {
+              "text": "Leo closed his eyes as his power went down to zero.",
+              "audioStart": 85.013,
+              "audioEnd": 87.862
+            },
+            {
+              "text": "The flower continued to grow because the robot had saved it.",
+              "audioStart": 88.725,
+              "audioEnd": 91.85
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0042.mp3",
+      "wordTimings": "audio/b2/st-0042.timings.json",
+      "quiz": [
+        {
+          "q": "Why was the planet a difficult place for the flower?",
+          "options": [
+            "It was too cold and dark.",
+            "It was dry and grey.",
+            "There were too many other plants."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did Leo use to protect the plant?",
+          "options": [
+            "A glass container",
+            "A metal box",
+            "A plastic bag"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to Leo at the end of the story?",
+          "options": [
+            "He found another robot.",
+            "He fixed his battery.",
+            "His power ran out."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo was the last robot gardener on the planet.",
+              "audioStart": 0.1,
+              "audioEnd": 2.625
+            },
+            {
+              "text": "The world had become a dry and gray place after the great war.",
+              "audioStart": 3.487,
+              "audioEnd": 6.537
+            },
+            {
+              "text": "Leo walked across the empty land every day.",
+              "audioStart": 7.4,
+              "audioEnd": 9.838
+            },
+            {
+              "text": "He searched for life, but he found nothing for many years.",
+              "audioStart": 10.7,
+              "audioEnd": 13.875
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One afternoon, Leo noticed a small, green thing near a rock.",
+              "audioStart": 14.738,
+              "audioEnd": 18.325
+            },
+            {
+              "text": "It was a tiny flower which was trying to grow in the dust.",
+              "audioStart": 19.188,
+              "audioEnd": 22.188
+            },
+            {
+              "text": "Leo felt a new sense of hope when he saw the plant.",
+              "audioStart": 23.05,
+              "audioEnd": 25.675
+            },
+            {
+              "text": "He knew that he must protect it from the harsh sun.",
+              "audioStart": 26.538,
+              "audioEnd": 28.925
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The robot carefully moved the plant into a glass jar.",
+              "audioStart": 29.788,
+              "audioEnd": 32.675
+            },
+            {
+              "text": "If he had not found it, the flower would have died.",
+              "audioStart": 33.538,
+              "audioEnd": 36.125
+            },
+            {
+              "text": "Leo shared his own water with the little plant every day.",
+              "audioStart": 36.987,
+              "audioEnd": 39.85
+            },
+            {
+              "text": "He watched it grow while he sat beside it in the quiet night.",
+              "audioStart": 40.712,
+              "audioEnd": 43.737
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "However, Leo had a problem because his power was getting low.",
+              "audioStart": 44.6,
+              "audioEnd": 47.9
+            },
+            {
+              "text": "His system showed that he only had a few hours left.",
+              "audioStart": 48.763,
+              "audioEnd": 51.5
+            },
+            {
+              "text": "He wanted to find a way to save the flower before he stopped.",
+              "audioStart": 52.362,
+              "audioEnd": 55.362
+            },
+            {
+              "text": "Leo searched his memory for a solution to provide energy.",
+              "audioStart": 56.225,
+              "audioEnd": 59.25
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He realized that a solar panel could be connected to the glass jar.",
+              "audioStart": 60.112,
+              "audioEnd": 63.663
+            },
+            {
+              "text": "If the sun hit the panel, the flower would receive enough light.",
+              "audioStart": 64.525,
+              "audioEnd": 67.737
+            },
+            {
+              "text": "Leo moved the plant to a high place where the sun was strong.",
+              "audioStart": 68.6,
+              "audioEnd": 71.6
+            },
+            {
+              "text": "He felt tired, but he was happy because the flower was safe.",
+              "audioStart": 72.463,
+              "audioEnd": 75.825
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The robot sat down and watched the light touch the green leaves.",
+              "audioStart": 76.688,
+              "audioEnd": 79.975
+            },
+            {
+              "text": "He knew that his work was finally done.",
+              "audioStart": 80.838,
+              "audioEnd": 82.838
+            },
+            {
+              "text": "Leo closed his eyes as his power went down to zero.",
+              "audioStart": 83.7,
+              "audioEnd": 86.55
+            },
+            {
+              "text": "The flower continued to grow because the robot had saved it.",
+              "audioStart": 87.412,
+              "audioEnd": 90.537
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0042.mp3",
+      "wordTimings": "audio/b1/st-0042.timings.json",
+      "quiz": [
+        {
+          "q": "What did Leo find near a rock?",
+          "options": [
+            "A small green flower",
+            "A new battery",
+            "A glass jar"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why was Leo's work finally done?",
+          "options": [
+            "Because the rain started",
+            "Because the flower was safe and had power",
+            "Because he finished all his gardening"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happens to the flower if the sun hits the solar panel?",
+          "options": [
+            "It will die",
+            "It will need more water",
+            "It will receive enough light"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo was the last robot gardener on the planet.",
+              "audioStart": 0.106,
+              "audioEnd": 2.911
+            },
+            {
+              "text": "The world was a dry and grey place.",
+              "audioStart": 3.875,
+              "audioEnd": 5.972
+            },
+            {
+              "text": "Leo walked across the land every day.",
+              "audioStart": 6.931,
+              "audioEnd": 9.278
+            },
+            {
+              "text": "He looked for life.",
+              "audioStart": 10.236,
+              "audioEnd": 11.542
+            },
+            {
+              "text": "He found nothing for many years.",
+              "audioStart": 12.5,
+              "audioEnd": 14.486
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One afternoon, Leo saw a little green thing near a rock.",
+              "audioStart": 15.444,
+              "audioEnd": 18.833
+            },
+            {
+              "text": "It was a tiny flower.",
+              "audioStart": 19.792,
+              "audioEnd": 21.306
+            },
+            {
+              "text": "It was trying to grow in the dust.",
+              "audioStart": 22.264,
+              "audioEnd": 24.25
+            },
+            {
+              "text": "Leo felt hope.",
+              "audioStart": 25.208,
+              "audioEnd": 26.347
+            },
+            {
+              "text": "He knew he must protect the plant from the hot sun.",
+              "audioStart": 27.306,
+              "audioEnd": 30.153
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The robot moved the plant into a glass jar.",
+              "audioStart": 31.111,
+              "audioEnd": 33.722
+            },
+            {
+              "text": "The flower would die without him.",
+              "audioStart": 34.681,
+              "audioEnd": 36.514
+            },
+            {
+              "text": "Leo shared his water with the plant every day.",
+              "audioStart": 37.472,
+              "audioEnd": 40.097
+            },
+            {
+              "text": "He watched it grow while he sat in the night.",
+              "audioStart": 41.056,
+              "audioEnd": 43.472
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo had a problem.",
+              "audioStart": 44.431,
+              "audioEnd": 45.681
+            },
+            {
+              "text": "His battery was getting low.",
+              "audioStart": 46.639,
+              "audioEnd": 48.361
+            },
+            {
+              "text": "He only had a few hours left.",
+              "audioStart": 49.319,
+              "audioEnd": 51.278
+            },
+            {
+              "text": "He wanted to save the flower before he stopped.",
+              "audioStart": 52.236,
+              "audioEnd": 54.889
+            },
+            {
+              "text": "He searched his memory for a way to get energy.",
+              "audioStart": 55.847,
+              "audioEnd": 58.458
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He realized he could use a solar panel.",
+              "audioStart": 59.417,
+              "audioEnd": 61.764
+            },
+            {
+              "text": "He could connect the panel to the glass jar.",
+              "audioStart": 62.722,
+              "audioEnd": 65.208
+            },
+            {
+              "text": "If the sun hit the panel, the flower would get light.",
+              "audioStart": 66.167,
+              "audioEnd": 69.222
+            },
+            {
+              "text": "Leo moved the plant to a high place.",
+              "audioStart": 70.181,
+              "audioEnd": 72.389
+            },
+            {
+              "text": "The sun was strong there.",
+              "audioStart": 73.347,
+              "audioEnd": 74.819
+            },
+            {
+              "text": "He felt tired, but he was happy the flower was safe.",
+              "audioStart": 75.778,
+              "audioEnd": 79.153
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The robot sat down and watched the light on the leaves.",
+              "audioStart": 80.111,
+              "audioEnd": 83.208
+            },
+            {
+              "text": "He knew his work was done.",
+              "audioStart": 84.167,
+              "audioEnd": 85.736
+            },
+            {
+              "text": "Leo closed his eyes as his power went to zero.",
+              "audioStart": 86.694,
+              "audioEnd": 89.569
+            },
+            {
+              "text": "The flower continued to grow because the robot saved it.",
+              "audioStart": 90.528,
+              "audioEnd": 93.847
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0042.mp3",
+      "wordTimings": "audio/a2/st-0042.timings.json",
+      "quiz": [
+        {
+          "q": "Why was the world grey and dry?",
+          "options": [
+            "Because of the great wars",
+            "Because there was no sun",
+            "Because Leo stopped working"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did Leo use to save the flower?",
+          "options": [
+            "A new battery",
+            "A solar panel",
+            "A big water tank"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened to Leo at the end?",
+          "options": [
+            "He went to find more plants",
+            "He moved to a new city",
+            "He stopped working"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo is a robot.",
+              "audioStart": 0.106,
+              "audioEnd": 1.369
+            },
+            {
+              "text": "Leo is a gardener.",
+              "audioStart": 2.333,
+              "audioEnd": 3.597
+            },
+            {
+              "text": "The world is grey.",
+              "audioStart": 4.556,
+              "audioEnd": 5.694
+            },
+            {
+              "text": "The world is dry.",
+              "audioStart": 6.653,
+              "audioEnd": 7.764
+            },
+            {
+              "text": "Leo walks on the land.",
+              "audioStart": 8.722,
+              "audioEnd": 10.264
+            },
+            {
+              "text": "Leo looks for life.",
+              "audioStart": 11.222,
+              "audioEnd": 12.653
+            },
+            {
+              "text": "He finds nothing for many years.",
+              "audioStart": 13.611,
+              "audioEnd": 15.681
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One day Leo sees a plant.",
+              "audioStart": 16.639,
+              "audioEnd": 18.431
+            },
+            {
+              "text": "The plant is little.",
+              "audioStart": 19.389,
+              "audioEnd": 20.569
+            },
+            {
+              "text": "The plant is green.",
+              "audioStart": 21.528,
+              "audioEnd": 22.778
+            },
+            {
+              "text": "Leo feels hope.",
+              "audioStart": 23.736,
+              "audioEnd": 24.903
+            },
+            {
+              "text": "He must help the plant.",
+              "audioStart": 25.861,
+              "audioEnd": 27.347
+            },
+            {
+              "text": "He moves it into a jar.",
+              "audioStart": 28.306,
+              "audioEnd": 29.847
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo gives water to the plant.",
+              "audioStart": 30.806,
+              "audioEnd": 32.625
+            },
+            {
+              "text": "He watches it grow.",
+              "audioStart": 33.583,
+              "audioEnd": 34.917
+            },
+            {
+              "text": "The night is quiet.",
+              "audioStart": 35.875,
+              "audioEnd": 37.111
+            },
+            {
+              "text": "Leo sits with the plant.",
+              "audioStart": 38.069,
+              "audioEnd": 39.597
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo has a problem.",
+              "audioStart": 40.556,
+              "audioEnd": 41.792
+            },
+            {
+              "text": "His power is low.",
+              "audioStart": 42.75,
+              "audioEnd": 44.083
+            },
+            {
+              "text": "He has few hours.",
+              "audioStart": 45.042,
+              "audioEnd": 46.347
+            },
+            {
+              "text": "He wants to save the plant.",
+              "audioStart": 47.306,
+              "audioEnd": 48.931
+            },
+            {
+              "text": "He thinks about his memory.",
+              "audioStart": 49.889,
+              "audioEnd": 51.5
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He finds a way.",
+              "audioStart": 52.458,
+              "audioEnd": 53.583
+            },
+            {
+              "text": "He uses a solar panel.",
+              "audioStart": 54.542,
+              "audioEnd": 56.181
+            },
+            {
+              "text": "He puts it on the jar.",
+              "audioStart": 57.139,
+              "audioEnd": 58.542
+            },
+            {
+              "text": "The sun gives light.",
+              "audioStart": 59.5,
+              "audioEnd": 60.833
+            },
+            {
+              "text": "Leo moves to a high place.",
+              "audioStart": 61.792,
+              "audioEnd": 63.556
+            },
+            {
+              "text": "The plant is safe now.",
+              "audioStart": 64.514,
+              "audioEnd": 65.917
+            },
+            {
+              "text": "Leo is very tired.",
+              "audioStart": 66.875,
+              "audioEnd": 68.333
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo watches the green leaves.",
+              "audioStart": 69.292,
+              "audioEnd": 71.139
+            },
+            {
+              "text": "His work is done.",
+              "audioStart": 72.097,
+              "audioEnd": 73.347
+            },
+            {
+              "text": "Leo closes his eyes.",
+              "audioStart": 74.306,
+              "audioEnd": 75.944
+            },
+            {
+              "text": "His power is zero.",
+              "audioStart": 76.903,
+              "audioEnd": 78.319
+            },
+            {
+              "text": "The plant continues to grow.",
+              "audioStart": 79.278,
+              "audioEnd": 81.069
+            },
+            {
+              "text": "Leo saves the life.",
+              "audioStart": 82.028,
+              "audioEnd": 83.542
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0042.mp3",
+      "wordTimings": "audio/a1/st-0042.timings.json",
+      "quiz": [
+        {
+          "q": "What is Leo?",
+          "options": [
+            "A person",
+            "A robot",
+            "A flower"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does Leo find?",
+          "options": [
+            "A green plant",
+            "A big house",
+            "A new car"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why does Leo stop?",
+          "options": [
+            "He is bored",
+            "He has no power",
+            "He wants to sleep"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

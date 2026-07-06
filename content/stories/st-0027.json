@@ -1,0 +1,712 @@
+{
+  "id": "st-0027",
+  "title": "The Whispering Library Book",
+  "genre": "mystery",
+  "coverScene": "A dusty, leather-bound book sits open on a wooden table, glowing faintly in the dim light of a quiet library.",
+  "levels": {
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo found a dusty book in the back of the city library.",
+              "audioStart": 0.1,
+              "audioEnd": 2.875
+            },
+            {
+              "text": "The old cover felt like rough leather under his hand.",
+              "audioStart": 3.737,
+              "audioEnd": 6.412
+            },
+            {
+              "text": "He opened the book and realized that it contained strange handwritten notes.",
+              "audioStart": 7.275,
+              "audioEnd": 10.75
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The first page described an event that happened the next day.",
+              "audioStart": 11.613,
+              "audioEnd": 14.675
+            },
+            {
+              "text": "Leo read that a bus would crash on the main street.",
+              "audioStart": 15.537,
+              "audioEnd": 18.137
+            },
+            {
+              "text": "He went to the street and saw the accident happen exactly as described.",
+              "audioStart": 19.0,
+              "audioEnd": 22.637
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He returned to the library to understand the mystery.",
+              "audioStart": 23.5,
+              "audioEnd": 26.1
+            },
+            {
+              "text": "The book provided details about a fire in the town hall.",
+              "audioStart": 26.962,
+              "audioEnd": 29.938
+            },
+            {
+              "text": "Leo saved the people inside because he had the information.",
+              "audioStart": 30.8,
+              "audioEnd": 33.8
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The notes became more personal as the week continued.",
+              "audioStart": 34.663,
+              "audioEnd": 37.413
+            },
+            {
+              "text": "Leo realized that the book was writing his own future.",
+              "audioStart": 38.275,
+              "audioEnd": 41.1
+            },
+            {
+              "text": "He felt scared because the final page was blank.",
+              "audioStart": 41.962,
+              "audioEnd": 44.562
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He knew that he must solve the final clue before the book disappeared.",
+              "audioStart": 45.425,
+              "audioEnd": 48.825
+            },
+            {
+              "text": "If he failed, he would never know what was coming next.",
+              "audioStart": 49.688,
+              "audioEnd": 52.525
+            },
+            {
+              "text": "He looked closely at the paper and saw faint words appear.",
+              "audioStart": 53.388,
+              "audioEnd": 56.275
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The words said that the library would be closed forever.",
+              "audioStart": 57.138,
+              "audioEnd": 59.775
+            },
+            {
+              "text": "Leo ran to the front door as the lights began to fade.",
+              "audioStart": 60.638,
+              "audioEnd": 63.55
+            },
+            {
+              "text": "He put his hand on the handle to keep the room open.",
+              "audioStart": 64.412,
+              "audioEnd": 66.85
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The book slowly turned into dust in his hands.",
+              "audioStart": 67.713,
+              "audioEnd": 70.175
+            },
+            {
+              "text": "The mystery was solved and the future remained his own.",
+              "audioStart": 71.037,
+              "audioEnd": 73.638
+            },
+            {
+              "text": "He walked out into the night and finally felt free.",
+              "audioStart": 74.5,
+              "audioEnd": 77.125
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0027.mp3",
+      "wordTimings": "audio/b2/st-0027.timings.json",
+      "quiz": [
+        {
+          "q": "What happened to the book at the end of the story?",
+          "options": [
+            "It was stolen by a stranger.",
+            "It turned into dust.",
+            "It was returned to the library shelf."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Leo save the people in the town hall?",
+          "options": [
+            "He called the police immediately.",
+            "He read about the fire in the book before it happened.",
+            "He saw the smoke and ran inside."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What was special about the notes in the book?",
+          "options": [
+            "They were written by his father.",
+            "They predicted events that happened the next day.",
+            "They were just empty pages."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo found a dusty book in the back of the city library.",
+              "audioStart": 0.1,
+              "audioEnd": 2.875
+            },
+            {
+              "text": "The old cover felt like rough leather under his hand.",
+              "audioStart": 3.737,
+              "audioEnd": 6.412
+            },
+            {
+              "text": "He opened the book and realized it contained strange handwritten notes.",
+              "audioStart": 7.275,
+              "audioEnd": 10.575
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The first page described an event that would happen the next day.",
+              "audioStart": 11.438,
+              "audioEnd": 14.55
+            },
+            {
+              "text": "Leo read that a bus would crash on the main street.",
+              "audioStart": 15.412,
+              "audioEnd": 18.012
+            },
+            {
+              "text": "He went to the street and saw the accident happen exactly as described.",
+              "audioStart": 18.875,
+              "audioEnd": 22.512
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He returned to the library to understand the mystery.",
+              "audioStart": 23.375,
+              "audioEnd": 25.975
+            },
+            {
+              "text": "The book provided details about a fire in the town hall.",
+              "audioStart": 26.837,
+              "audioEnd": 29.812
+            },
+            {
+              "text": "Leo saved the people inside because he had the information.",
+              "audioStart": 30.675,
+              "audioEnd": 33.675
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The notes became more personal as the week continued.",
+              "audioStart": 34.538,
+              "audioEnd": 37.288
+            },
+            {
+              "text": "Leo realized that the book was writing his own future.",
+              "audioStart": 38.15,
+              "audioEnd": 40.975
+            },
+            {
+              "text": "He felt scared because the final page was blank.",
+              "audioStart": 41.837,
+              "audioEnd": 44.438
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He knew that he must solve the final clue before the book disappeared.",
+              "audioStart": 45.3,
+              "audioEnd": 48.7
+            },
+            {
+              "text": "If he failed, he would never know what was coming next.",
+              "audioStart": 49.562,
+              "audioEnd": 52.4
+            },
+            {
+              "text": "He looked closely at the paper and saw faint words appear.",
+              "audioStart": 53.263,
+              "audioEnd": 56.15
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The words said that the library would be closed forever.",
+              "audioStart": 57.013,
+              "audioEnd": 59.65
+            },
+            {
+              "text": "Leo ran to the front door as the lights began to fade.",
+              "audioStart": 60.513,
+              "audioEnd": 63.425
+            },
+            {
+              "text": "He put his hand on the handle to keep the room open.",
+              "audioStart": 64.287,
+              "audioEnd": 66.725
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The book slowly turned into dust in his hands.",
+              "audioStart": 67.588,
+              "audioEnd": 70.05
+            },
+            {
+              "text": "The mystery was solved and the future remained his own.",
+              "audioStart": 70.912,
+              "audioEnd": 73.513
+            },
+            {
+              "text": "He walked out into the night and finally felt free.",
+              "audioStart": 74.375,
+              "audioEnd": 77.0
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0027.mp3",
+      "wordTimings": "audio/b1/st-0027.timings.json",
+      "quiz": [
+        {
+          "q": "What did Leo find in the book at the start of the story?",
+          "options": [
+            "A map of the city",
+            "Strange handwritten notes",
+            "A blank page"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened after Leo read the note about the bus?",
+          "options": [
+            "He stopped the bus from crashing",
+            "He saw the accident happen as described",
+            "He decided to leave the library forever"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened to the book at the end of the story?",
+          "options": [
+            "It turned into dust",
+            "It was locked in a safe",
+            "It disappeared into the night"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo found a dusty book in the city library.",
+              "audioStart": 0.106,
+              "audioEnd": 2.744
+            },
+            {
+              "text": "The cover felt like old leather.",
+              "audioStart": 3.708,
+              "audioEnd": 5.528
+            },
+            {
+              "text": "He opened the book.",
+              "audioStart": 6.486,
+              "audioEnd": 7.639
+            },
+            {
+              "text": "It contained strange handwritten notes.",
+              "audioStart": 8.597,
+              "audioEnd": 10.681
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The first page described an event for the next day.",
+              "audioStart": 11.639,
+              "audioEnd": 14.583
+            },
+            {
+              "text": "Leo read that a bus would crash on the main street.",
+              "audioStart": 15.542,
+              "audioEnd": 18.431
+            },
+            {
+              "text": "He went to the street.",
+              "audioStart": 19.389,
+              "audioEnd": 20.625
+            },
+            {
+              "text": "He saw the accident happen.",
+              "audioStart": 21.583,
+              "audioEnd": 23.264
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He returned to the library to understand the mystery.",
+              "audioStart": 24.222,
+              "audioEnd": 27.111
+            },
+            {
+              "text": "The book told him about a fire in the town hall.",
+              "audioStart": 28.069,
+              "audioEnd": 30.75
+            },
+            {
+              "text": "Leo saved the people inside.",
+              "audioStart": 31.708,
+              "audioEnd": 33.528
+            },
+            {
+              "text": "He had the information.",
+              "audioStart": 34.486,
+              "audioEnd": 35.944
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The notes became more personal during the week.",
+              "audioStart": 36.903,
+              "audioEnd": 39.403
+            },
+            {
+              "text": "Leo realized that the book was writing his own future.",
+              "audioStart": 40.361,
+              "audioEnd": 43.5
+            },
+            {
+              "text": "He felt scared.",
+              "audioStart": 44.458,
+              "audioEnd": 45.542
+            },
+            {
+              "text": "The final page was blank.",
+              "audioStart": 46.5,
+              "audioEnd": 48.222
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He knew he must solve the final clue before the book disappeared.",
+              "audioStart": 49.181,
+              "audioEnd": 52.792
+            },
+            {
+              "text": "If he failed, he would never know the future.",
+              "audioStart": 53.75,
+              "audioEnd": 56.292
+            },
+            {
+              "text": "He looked closely at the paper.",
+              "audioStart": 57.25,
+              "audioEnd": 59.111
+            },
+            {
+              "text": "He saw faint words appear.",
+              "audioStart": 60.069,
+              "audioEnd": 61.667
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The words said the library would be closed forever.",
+              "audioStart": 62.625,
+              "audioEnd": 65.361
+            },
+            {
+              "text": "Leo ran to the front door.",
+              "audioStart": 66.319,
+              "audioEnd": 67.958
+            },
+            {
+              "text": "The lights began to fade.",
+              "audioStart": 68.917,
+              "audioEnd": 70.542
+            },
+            {
+              "text": "He put his hand on the handle to keep the room open.",
+              "audioStart": 71.5,
+              "audioEnd": 74.208
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The book slowly turned into dust in his hands.",
+              "audioStart": 75.167,
+              "audioEnd": 77.903
+            },
+            {
+              "text": "The mystery was solved.",
+              "audioStart": 78.861,
+              "audioEnd": 80.292
+            },
+            {
+              "text": "The future remained his own.",
+              "audioStart": 81.25,
+              "audioEnd": 82.819
+            },
+            {
+              "text": "He walked out into the night and felt free.",
+              "audioStart": 83.778,
+              "audioEnd": 86.153
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0027.mp3",
+      "wordTimings": "audio/a2/st-0027.timings.json",
+      "quiz": [
+        {
+          "q": "What did the book contain?",
+          "options": [
+            "A map of the city",
+            "Strange handwritten notes",
+            "A list of library rules"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Leo save the people in the town hall?",
+          "options": [
+            "He called the police",
+            "He read about the fire in the book",
+            "He saw the fire from his window"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened to the book at the end?",
+          "options": [
+            "It turned into dust",
+            "It disappeared in the night",
+            "It was closed forever"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo finds an old book.",
+              "audioStart": 0.106,
+              "audioEnd": 1.592
+            },
+            {
+              "text": "The book is in the city library.",
+              "audioStart": 2.556,
+              "audioEnd": 4.389
+            },
+            {
+              "text": "It has notes inside.",
+              "audioStart": 5.347,
+              "audioEnd": 6.722
+            },
+            {
+              "text": "The notes tell about a future event.",
+              "audioStart": 7.681,
+              "audioEnd": 9.722
+            },
+            {
+              "text": "Leo reads about a car accident.",
+              "audioStart": 10.681,
+              "audioEnd": 12.681
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He goes to the main street.",
+              "audioStart": 13.639,
+              "audioEnd": 15.194
+            },
+            {
+              "text": "He sees the accident happen.",
+              "audioStart": 16.153,
+              "audioEnd": 17.917
+            },
+            {
+              "text": "He returns to the library.",
+              "audioStart": 18.875,
+              "audioEnd": 20.542
+            },
+            {
+              "text": "The book tells about a town fire.",
+              "audioStart": 21.5,
+              "audioEnd": 23.569
+            },
+            {
+              "text": "Leo helps the people inside.",
+              "audioStart": 24.528,
+              "audioEnd": 26.319
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The notes talk about his own life.",
+              "audioStart": 27.278,
+              "audioEnd": 29.236
+            },
+            {
+              "text": "He feels very scared now.",
+              "audioStart": 30.194,
+              "audioEnd": 31.833
+            },
+            {
+              "text": "The last page is empty.",
+              "audioStart": 32.792,
+              "audioEnd": 34.417
+            },
+            {
+              "text": "He must find the final word.",
+              "audioStart": 35.375,
+              "audioEnd": 37.056
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He looks at the paper.",
+              "audioStart": 38.014,
+              "audioEnd": 39.347
+            },
+            {
+              "text": "New words appear on the page.",
+              "audioStart": 40.306,
+              "audioEnd": 42.097
+            },
+            {
+              "text": "The library will close forever.",
+              "audioStart": 43.056,
+              "audioEnd": 44.917
+            },
+            {
+              "text": "Leo runs to the front door.",
+              "audioStart": 45.875,
+              "audioEnd": 47.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He puts his hand on the door.",
+              "audioStart": 48.583,
+              "audioEnd": 50.236
+            },
+            {
+              "text": "The book turns into dust.",
+              "audioStart": 51.194,
+              "audioEnd": 52.861
+            },
+            {
+              "text": "He feels happy and free.",
+              "audioStart": 53.819,
+              "audioEnd": 55.361
+            },
+            {
+              "text": "He walks into the night.",
+              "audioStart": 56.319,
+              "audioEnd": 57.722
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0027.mp3",
+      "wordTimings": "audio/a1/st-0027.timings.json",
+      "quiz": [
+        {
+          "q": "What does Leo find in the library?",
+          "options": [
+            "A map",
+            "An old book",
+            "A new car"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happens after Leo reads the book?",
+          "options": [
+            "The events come true",
+            "Nothing happens",
+            "The book disappears"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How does Leo feel at the end?",
+          "options": [
+            "Scared",
+            "Sad",
+            "Free"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  }
+}

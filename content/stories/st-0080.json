@@ -1,0 +1,839 @@
+{
+  "id": "st-0080",
+  "title": "The Missing Blue Key",
+  "genre": "daily",
+  "coverScene": "A young man with a worried expression searching for his blue key under a sunlit park bench near a path.",
+  "levels": {
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo lived in a small apartment in the city.",
+              "audioStart": 0.1,
+              "audioEnd": 2.263
+            },
+            {
+              "text": "Every morning, he followed the same routine before he walked to work.",
+              "audioStart": 3.125,
+              "audioEnd": 6.775
+            },
+            {
+              "text": "He would drink coffee, eat a piece of bread, and check his pockets for the blue house key.",
+              "audioStart": 7.638,
+              "audioEnd": 12.3
+            },
+            {
+              "text": "Today, the morning seemed normal, but Leo felt a little distracted.",
+              "audioStart": 13.162,
+              "audioEnd": 17.087
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When he reached his office, Leo realized the key was not in his bag.",
+              "audioStart": 17.95,
+              "audioEnd": 21.7
+            },
+            {
+              "text": "If he had been more careful, he would not have lost it.",
+              "audioStart": 22.562,
+              "audioEnd": 25.462
+            },
+            {
+              "text": "The key, which was important for his home, had probably fallen out during his walk.",
+              "audioStart": 26.325,
+              "audioEnd": 30.812
+            },
+            {
+              "text": "He decided to return to the park immediately.",
+              "audioStart": 31.675,
+              "audioEnd": 34.0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The park was quiet and the sun began to go down.",
+              "audioStart": 34.862,
+              "audioEnd": 37.55
+            },
+            {
+              "text": "Leo walked slowly along the path where he had been earlier.",
+              "audioStart": 38.413,
+              "audioEnd": 41.462
+            },
+            {
+              "text": "He looked under every tree and around every bush.",
+              "audioStart": 42.325,
+              "audioEnd": 44.925
+            },
+            {
+              "text": "The situation was difficult because the light was fading fast.",
+              "audioStart": 45.788,
+              "audioEnd": 49.125
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He remembered that he had stopped to watch some birds near a wooden bench.",
+              "audioStart": 49.987,
+              "audioEnd": 53.388
+            },
+            {
+              "text": "Perhaps the key had fallen while he sat there to rest.",
+              "audioStart": 54.25,
+              "audioEnd": 56.962
+            },
+            {
+              "text": "He walked toward the bench and looked down at the ground.",
+              "audioStart": 57.825,
+              "audioEnd": 60.325
+            },
+            {
+              "text": "The grass was long and thick, making it hard to see anything small.",
+              "audioStart": 61.188,
+              "audioEnd": 64.812
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Finally, Leo reached the bench and knelt on the cold ground.",
+              "audioStart": 65.675,
+              "audioEnd": 68.8
+            },
+            {
+              "text": "He checked under the wooden structure and moved some dry leaves aside.",
+              "audioStart": 69.662,
+              "audioEnd": 72.912
+            },
+            {
+              "text": "There it was, the blue key, shining faintly in the dark.",
+              "audioStart": 73.775,
+              "audioEnd": 77.125
+            },
+            {
+              "text": "He picked it up with a smile and felt a great sense of relief.",
+              "audioStart": 77.987,
+              "audioEnd": 81.112
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His day had been stressful, but the problem was solved.",
+              "audioStart": 81.975,
+              "audioEnd": 84.938
+            },
+            {
+              "text": "He walked back home, glad that he had retraced his steps.",
+              "audioStart": 85.8,
+              "audioEnd": 88.987
+            },
+            {
+              "text": "Leo understood that he should be more careful in the future.",
+              "audioStart": 89.85,
+              "audioEnd": 92.725
+            },
+            {
+              "text": "He arrived at his house just as the night became completely dark.",
+              "audioStart": 93.588,
+              "audioEnd": 97.013
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0080.mp3",
+      "wordTimings": "audio/b2/st-0080.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo think he lost his blue key?",
+          "options": [
+            "At his office",
+            "In the park",
+            "Inside his house"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did Leo do before he left for work?",
+          "options": [
+            "He checked his pockets",
+            "He read a newspaper",
+            "He called his mother"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where exactly did Leo find the missing key?",
+          "options": [
+            "Behind a large tree",
+            "Inside his bag",
+            "Under a park bench"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo lived in a small city apartment.",
+              "audioStart": 0.1,
+              "audioEnd": 2.025
+            },
+            {
+              "text": "Every morning he followed the same routine before he walked to work.",
+              "audioStart": 2.888,
+              "audioEnd": 6.275
+            },
+            {
+              "text": "He drank coffee and ate a piece of bread.",
+              "audioStart": 7.138,
+              "audioEnd": 9.375
+            },
+            {
+              "text": "He checked his pockets for the blue house key.",
+              "audioStart": 10.238,
+              "audioEnd": 12.425
+            },
+            {
+              "text": "Today the morning seemed normal but Leo felt a little distracted.",
+              "audioStart": 13.287,
+              "audioEnd": 16.525
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When he reached his office Leo realized the key was not in his bag.",
+              "audioStart": 17.387,
+              "audioEnd": 20.913
+            },
+            {
+              "text": "If he had been more careful he would not have lost it.",
+              "audioStart": 21.775,
+              "audioEnd": 24.425
+            },
+            {
+              "text": "The key was important for his house.",
+              "audioStart": 25.288,
+              "audioEnd": 27.1
+            },
+            {
+              "text": "It probably fell out during his walk.",
+              "audioStart": 27.962,
+              "audioEnd": 29.875
+            },
+            {
+              "text": "He decided to return to the park immediately.",
+              "audioStart": 30.738,
+              "audioEnd": 33.062
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The park was quiet and the sun began to go down.",
+              "audioStart": 33.925,
+              "audioEnd": 36.612
+            },
+            {
+              "text": "Leo walked slowly along the path where he had been earlier.",
+              "audioStart": 37.475,
+              "audioEnd": 40.525
+            },
+            {
+              "text": "He looked under every tree and around every bush.",
+              "audioStart": 41.388,
+              "audioEnd": 43.987
+            },
+            {
+              "text": "The situation was difficult because the light was fading fast.",
+              "audioStart": 44.85,
+              "audioEnd": 48.188
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He remembered that he had stopped to watch some birds near a wooden bench.",
+              "audioStart": 49.05,
+              "audioEnd": 52.45
+            },
+            {
+              "text": "Perhaps the key fell while he sat there to rest.",
+              "audioStart": 53.312,
+              "audioEnd": 55.788
+            },
+            {
+              "text": "He walked toward the bench and looked down at the ground.",
+              "audioStart": 56.65,
+              "audioEnd": 59.15
+            },
+            {
+              "text": "The grass was long and thick, making it hard to see anything small.",
+              "audioStart": 60.013,
+              "audioEnd": 63.638
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Finally Leo reached the bench and knelt on the cold ground.",
+              "audioStart": 64.5,
+              "audioEnd": 67.362
+            },
+            {
+              "text": "He checked under the wooden structure and moved some dry leaves aside.",
+              "audioStart": 68.225,
+              "audioEnd": 71.475
+            },
+            {
+              "text": "There it was, the blue key, shining faintly in the dark.",
+              "audioStart": 72.338,
+              "audioEnd": 75.688
+            },
+            {
+              "text": "He picked it up with a smile and felt a great sense of relief.",
+              "audioStart": 76.55,
+              "audioEnd": 79.675
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His day had been stressful but the problem was solved.",
+              "audioStart": 80.537,
+              "audioEnd": 83.2
+            },
+            {
+              "text": "He walked back home, glad that he had retraced his steps.",
+              "audioStart": 84.062,
+              "audioEnd": 87.25
+            },
+            {
+              "text": "Leo understood that he should be more careful in the future.",
+              "audioStart": 88.112,
+              "audioEnd": 90.987
+            },
+            {
+              "text": "He arrived at his house just as the night became completely dark.",
+              "audioStart": 91.85,
+              "audioEnd": 95.275
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0080.mp3",
+      "wordTimings": "audio/b1/st-0080.timings.json",
+      "quiz": [
+        {
+          "q": "Why did Leo return to the park?",
+          "options": [
+            "He wanted to watch the birds again.",
+            "He lost his blue house key.",
+            "He forgot his coffee cup."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Where did Leo find his key?",
+          "options": [
+            "Under a wooden bench.",
+            "In his office bag.",
+            "Near a large city tree."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did Leo feel when he found the key?",
+          "options": [
+            "He felt very angry.",
+            "He felt tired and cold.",
+            "He felt a sense of relief."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo lived in a small city house.",
+              "audioStart": 0.106,
+              "audioEnd": 2.133
+            },
+            {
+              "text": "Every morning, he followed the same routine.",
+              "audioStart": 3.097,
+              "audioEnd": 5.806
+            },
+            {
+              "text": "He would drink coffee and eat some bread.",
+              "audioStart": 6.764,
+              "audioEnd": 9.014
+            },
+            {
+              "text": "He checked his pockets for the blue key.",
+              "audioStart": 9.972,
+              "audioEnd": 12.194
+            },
+            {
+              "text": "Today, Leo felt a little distracted.",
+              "audioStart": 13.153,
+              "audioEnd": 15.611
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo reached his office.",
+              "audioStart": 16.569,
+              "audioEnd": 18.139
+            },
+            {
+              "text": "He realized the blue key was not in his bag.",
+              "audioStart": 19.097,
+              "audioEnd": 21.889
+            },
+            {
+              "text": "He had lost it.",
+              "audioStart": 22.847,
+              "audioEnd": 24.028
+            },
+            {
+              "text": "The key was important for his home.",
+              "audioStart": 24.986,
+              "audioEnd": 26.903
+            },
+            {
+              "text": "It probably fell out during his walk.",
+              "audioStart": 27.861,
+              "audioEnd": 29.986
+            },
+            {
+              "text": "He decided to return to the park.",
+              "audioStart": 30.944,
+              "audioEnd": 33.0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The park was quiet.",
+              "audioStart": 33.958,
+              "audioEnd": 35.333
+            },
+            {
+              "text": "The sun began to go down.",
+              "audioStart": 36.292,
+              "audioEnd": 38.028
+            },
+            {
+              "text": "Leo walked slowly along the path.",
+              "audioStart": 38.986,
+              "audioEnd": 41.264
+            },
+            {
+              "text": "He looked under every tree.",
+              "audioStart": 42.222,
+              "audioEnd": 43.819
+            },
+            {
+              "text": "He looked around every bush.",
+              "audioStart": 44.778,
+              "audioEnd": 46.5
+            },
+            {
+              "text": "The light was fading fast.",
+              "audioStart": 47.458,
+              "audioEnd": 49.222
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He remembered he stopped to watch birds near a bench.",
+              "audioStart": 50.181,
+              "audioEnd": 53.125
+            },
+            {
+              "text": "Perhaps the key fell while he sat there.",
+              "audioStart": 54.083,
+              "audioEnd": 56.278
+            },
+            {
+              "text": "He walked toward the bench.",
+              "audioStart": 57.236,
+              "audioEnd": 58.847
+            },
+            {
+              "text": "He looked down at the ground.",
+              "audioStart": 59.806,
+              "audioEnd": 61.375
+            },
+            {
+              "text": "The grass was long and thick.",
+              "audioStart": 62.333,
+              "audioEnd": 64.139
+            },
+            {
+              "text": "It was hard to see anything.",
+              "audioStart": 65.097,
+              "audioEnd": 66.736
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo reached the bench.",
+              "audioStart": 67.694,
+              "audioEnd": 69.125
+            },
+            {
+              "text": "He knelt on the cold ground.",
+              "audioStart": 70.083,
+              "audioEnd": 71.708
+            },
+            {
+              "text": "He checked under the wooden bench.",
+              "audioStart": 72.667,
+              "audioEnd": 74.417
+            },
+            {
+              "text": "He moved some dry leaves aside.",
+              "audioStart": 75.375,
+              "audioEnd": 77.236
+            },
+            {
+              "text": "There was the blue key.",
+              "audioStart": 78.194,
+              "audioEnd": 79.472
+            },
+            {
+              "text": "It was shining in the dark.",
+              "audioStart": 80.431,
+              "audioEnd": 81.972
+            },
+            {
+              "text": "He picked it up with a smile.",
+              "audioStart": 82.931,
+              "audioEnd": 84.583
+            },
+            {
+              "text": "He felt a great sense of relief.",
+              "audioStart": 85.542,
+              "audioEnd": 87.569
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His day was stressful, but the problem was over.",
+              "audioStart": 88.528,
+              "audioEnd": 91.431
+            },
+            {
+              "text": "He walked back home.",
+              "audioStart": 92.389,
+              "audioEnd": 93.722
+            },
+            {
+              "text": "He was glad he returned to the park.",
+              "audioStart": 94.681,
+              "audioEnd": 96.819
+            },
+            {
+              "text": "Leo understood he should be more careful.",
+              "audioStart": 97.778,
+              "audioEnd": 100.083
+            },
+            {
+              "text": "He arrived at his house at night.",
+              "audioStart": 101.042,
+              "audioEnd": 102.833
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0080.mp3",
+      "wordTimings": "audio/a2/st-0080.timings.json",
+      "quiz": [
+        {
+          "q": "Why did Leo return to the park?",
+          "options": [
+            "He wanted to watch birds.",
+            "He lost his blue key.",
+            "He wanted to walk in the sun."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Where did Leo find his key?",
+          "options": [
+            "Under a tree.",
+            "Inside his office bag.",
+            "Near the wooden bench."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "How did Leo feel at the end of the story?",
+          "options": [
+            "He felt relieved.",
+            "He felt angry.",
+            "He felt tired."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo lives in a small city house.",
+              "audioStart": 0.106,
+              "audioEnd": 2.161
+            },
+            {
+              "text": "Every morning he has a routine.",
+              "audioStart": 3.125,
+              "audioEnd": 5.028
+            },
+            {
+              "text": "He drinks coffee and eats bread.",
+              "audioStart": 5.986,
+              "audioEnd": 7.917
+            },
+            {
+              "text": "He checks for his blue key.",
+              "audioStart": 8.875,
+              "audioEnd": 10.542
+            },
+            {
+              "text": "Today he feels a little distracted.",
+              "audioStart": 11.5,
+              "audioEnd": 13.556
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo goes to his office.",
+              "audioStart": 14.514,
+              "audioEnd": 16.125
+            },
+            {
+              "text": "He looks for the blue key.",
+              "audioStart": 17.083,
+              "audioEnd": 18.583
+            },
+            {
+              "text": "It is not in his bag.",
+              "audioStart": 19.542,
+              "audioEnd": 20.986
+            },
+            {
+              "text": "He loses the key.",
+              "audioStart": 21.944,
+              "audioEnd": 23.181
+            },
+            {
+              "text": "He decides to return to the park.",
+              "audioStart": 24.139,
+              "audioEnd": 26.194
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The park is quiet.",
+              "audioStart": 27.153,
+              "audioEnd": 28.431
+            },
+            {
+              "text": "The sun goes down.",
+              "audioStart": 29.389,
+              "audioEnd": 30.681
+            },
+            {
+              "text": "Leo walks along the path.",
+              "audioStart": 31.639,
+              "audioEnd": 33.403
+            },
+            {
+              "text": "He looks under every tree.",
+              "audioStart": 34.361,
+              "audioEnd": 35.944
+            },
+            {
+              "text": "He looks around every bush.",
+              "audioStart": 36.903,
+              "audioEnd": 38.597
+            },
+            {
+              "text": "The light is very low.",
+              "audioStart": 39.556,
+              "audioEnd": 41.0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He remembers the birds.",
+              "audioStart": 41.958,
+              "audioEnd": 43.486
+            },
+            {
+              "text": "He remembers the wooden bench.",
+              "audioStart": 44.444,
+              "audioEnd": 46.208
+            },
+            {
+              "text": "He walks toward the bench.",
+              "audioStart": 47.167,
+              "audioEnd": 48.75
+            },
+            {
+              "text": "The grass is long and thick.",
+              "audioStart": 49.708,
+              "audioEnd": 51.444
+            },
+            {
+              "text": "He looks at the ground.",
+              "audioStart": 52.403,
+              "audioEnd": 53.736
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo reaches the bench.",
+              "audioStart": 54.694,
+              "audioEnd": 56.181
+            },
+            {
+              "text": "He sits on the cold ground.",
+              "audioStart": 57.139,
+              "audioEnd": 58.833
+            },
+            {
+              "text": "He looks under the bench.",
+              "audioStart": 59.792,
+              "audioEnd": 61.222
+            },
+            {
+              "text": "He moves some dry leaves.",
+              "audioStart": 62.181,
+              "audioEnd": 63.806
+            },
+            {
+              "text": "The blue key is there.",
+              "audioStart": 64.764,
+              "audioEnd": 66.097
+            },
+            {
+              "text": "It shines in the dark.",
+              "audioStart": 67.056,
+              "audioEnd": 68.431
+            },
+            {
+              "text": "He smiles and feels happy.",
+              "audioStart": 69.389,
+              "audioEnd": 71.111
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The day is a little hard.",
+              "audioStart": 72.069,
+              "audioEnd": 73.472
+            },
+            {
+              "text": "The problem is now over.",
+              "audioStart": 74.431,
+              "audioEnd": 75.972
+            },
+            {
+              "text": "He walks back to his house.",
+              "audioStart": 76.931,
+              "audioEnd": 78.653
+            },
+            {
+              "text": "He is very careful now.",
+              "audioStart": 79.611,
+              "audioEnd": 81.181
+            },
+            {
+              "text": "He arrives home at night.",
+              "audioStart": 82.139,
+              "audioEnd": 83.583
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0080.mp3",
+      "wordTimings": "audio/a1/st-0080.timings.json",
+      "quiz": [
+        {
+          "q": "Where does Leo look for his key first?",
+          "options": [
+            "At his office",
+            "In his house",
+            "Under a tree"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why is it hard to find the key?",
+          "options": [
+            "The grass is long",
+            "The key is too big",
+            "The sun is very bright"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where does Leo find the key?",
+          "options": [
+            "Near a tree",
+            "Under a bench",
+            "In his bag"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

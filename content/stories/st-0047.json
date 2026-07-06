@@ -1,0 +1,885 @@
+{
+  "id": "st-0047",
+  "title": "The Missing Key",
+  "genre": "daily",
+  "coverScene": "A young man looks frantically under a messy armchair in his living room while a small cat sits nearby watching him with calm eyes.",
+  "levels": {
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo woke up late on Monday morning because his alarm clock had failed to go off.",
+              "audioStart": 0.1,
+              "audioEnd": 4.3
+            },
+            {
+              "text": "Today was the start of his new job at a large business in the city.",
+              "audioStart": 5.162,
+              "audioEnd": 8.387
+            },
+            {
+              "text": "He felt very stressed as he realized that he had only thirty minutes to arrive at the office.",
+              "audioStart": 9.25,
+              "audioEnd": 13.938
+            },
+            {
+              "text": "After he dressed quickly, he reached for his key, but it was not on the table where he always kept it.",
+              "audioStart": 14.8,
+              "audioEnd": 20.3
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo looked around his apartment, but he could not find the key anywhere.",
+              "audioStart": 21.163,
+              "audioEnd": 24.725
+            },
+            {
+              "text": "If he had not been so nervous, he would have checked his pockets more carefully.",
+              "audioStart": 25.587,
+              "audioEnd": 29.613
+            },
+            {
+              "text": "He searched under the bed and behind the sofa, but the important item remained hidden.",
+              "audioStart": 30.475,
+              "audioEnd": 34.663
+            },
+            {
+              "text": "He thought that he might have left it in the door, yet the door was empty.",
+              "audioStart": 35.525,
+              "audioEnd": 39.062
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man began to worry because he had to be on time for his first day.",
+              "audioStart": 39.925,
+              "audioEnd": 43.475
+            },
+            {
+              "text": "He remembered that he had walked through the living room when he came home yesterday evening.",
+              "audioStart": 44.337,
+              "audioEnd": 48.462
+            },
+            {
+              "text": "Maybe he had dropped the key while he was taking off his shoes.",
+              "audioStart": 49.325,
+              "audioEnd": 52.375
+            },
+            {
+              "text": "He decided that he would look inside his sports bag as a last resort.",
+              "audioStart": 53.237,
+              "audioEnd": 56.825
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "While Leo searched the room, his cat watched him from the top of a wooden chair.",
+              "audioStart": 57.688,
+              "audioEnd": 61.65
+            },
+            {
+              "text": "The cat was a small animal that seemed to enjoy this strange morning activity.",
+              "audioStart": 62.513,
+              "audioEnd": 66.325
+            },
+            {
+              "text": "Leo walked toward the corner where his favorite shoes were kept.",
+              "audioStart": 67.188,
+              "audioEnd": 70.287
+            },
+            {
+              "text": "He noticed that one shoe was moved slightly away from its normal place.",
+              "audioStart": 71.15,
+              "audioEnd": 74.862
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo picked up the shoe and turned it over.",
+              "audioStart": 75.725,
+              "audioEnd": 77.8
+            },
+            {
+              "text": "Suddenly, he heard a small sound as something metal fell onto the floor.",
+              "audioStart": 78.662,
+              "audioEnd": 82.45
+            },
+            {
+              "text": "The missing key had been hidden inside the shoe by the cat during the night.",
+              "audioStart": 83.312,
+              "audioEnd": 86.763
+            },
+            {
+              "text": "He realized that the cat had played with the key and put it there himself.",
+              "audioStart": 87.625,
+              "audioEnd": 91.312
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo felt very happy as he picked up the key from the floor.",
+              "audioStart": 92.175,
+              "audioEnd": 95.2
+            },
+            {
+              "text": "He finally opened the door and ran down the street toward the bus station.",
+              "audioStart": 96.062,
+              "audioEnd": 99.688
+            },
+            {
+              "text": "Although he was still late, he knew that he would reach the office soon.",
+              "audioStart": 100.55,
+              "audioEnd": 103.9
+            },
+            {
+              "text": "He promised that he would keep his keys in a safer place in the future.",
+              "audioStart": 104.763,
+              "audioEnd": 108.312
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0047.mp3",
+      "wordTimings": "audio/b2/st-0047.timings.json",
+      "quiz": [
+        {
+          "q": "Why was Leo worried during the morning?",
+          "options": [
+            "He had lost his cat",
+            "He was late for his first day of work",
+            "He could not find his bus ticket"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Where did Leo eventually find his key?",
+          "options": [
+            "Under the bed",
+            "Inside a shoe",
+            "On the kitchen table"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who had moved the key into the shoe?",
+          "options": [
+            "The cat",
+            "Leo himself",
+            "A friend"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo woke up late on Monday morning.",
+              "audioStart": 0.1,
+              "audioEnd": 1.95
+            },
+            {
+              "text": "His alarm clock did not work.",
+              "audioStart": 2.812,
+              "audioEnd": 4.612
+            },
+            {
+              "text": "Today was the start of his new job at a large business.",
+              "audioStart": 5.475,
+              "audioEnd": 8.25
+            },
+            {
+              "text": "He felt very stressed.",
+              "audioStart": 9.113,
+              "audioEnd": 10.475
+            },
+            {
+              "text": "He realized that he had only thirty minutes to arrive at the office.",
+              "audioStart": 11.338,
+              "audioEnd": 14.75
+            },
+            {
+              "text": "He dressed quickly.",
+              "audioStart": 15.613,
+              "audioEnd": 16.725
+            },
+            {
+              "text": "He reached for his key, but it was not on the table.",
+              "audioStart": 17.587,
+              "audioEnd": 20.3
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo looked around his apartment, but he could not find the key.",
+              "audioStart": 21.163,
+              "audioEnd": 24.35
+            },
+            {
+              "text": "He did not check his pockets carefully because he was nervous.",
+              "audioStart": 25.212,
+              "audioEnd": 28.288
+            },
+            {
+              "text": "He searched under the bed and behind the sofa.",
+              "audioStart": 29.15,
+              "audioEnd": 31.375
+            },
+            {
+              "text": "The key remained hidden.",
+              "audioStart": 32.237,
+              "audioEnd": 33.4
+            },
+            {
+              "text": "He thought that he might have left it in the door.",
+              "audioStart": 34.263,
+              "audioEnd": 36.388
+            },
+            {
+              "text": "However, the door was empty.",
+              "audioStart": 37.25,
+              "audioEnd": 38.962
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man began to worry.",
+              "audioStart": 39.825,
+              "audioEnd": 41.188
+            },
+            {
+              "text": "He had to be on time for his first day.",
+              "audioStart": 42.05,
+              "audioEnd": 44.138
+            },
+            {
+              "text": "He remembered that he had walked through the living room yesterday.",
+              "audioStart": 45.0,
+              "audioEnd": 47.85
+            },
+            {
+              "text": "Maybe he had dropped the key while taking off his shoes.",
+              "audioStart": 48.712,
+              "audioEnd": 51.513
+            },
+            {
+              "text": "He decided to look inside his sports bag.",
+              "audioStart": 52.375,
+              "audioEnd": 54.675
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo searched the room.",
+              "audioStart": 55.538,
+              "audioEnd": 56.788
+            },
+            {
+              "text": "His cat watched him from the top of a wooden chair.",
+              "audioStart": 57.65,
+              "audioEnd": 60.125
+            },
+            {
+              "text": "The cat seemed to enjoy this strange morning activity.",
+              "audioStart": 60.987,
+              "audioEnd": 63.725
+            },
+            {
+              "text": "Leo walked toward the corner where his shoes were kept.",
+              "audioStart": 64.588,
+              "audioEnd": 67.287
+            },
+            {
+              "text": "He noticed that one shoe was moved away from its place.",
+              "audioStart": 68.15,
+              "audioEnd": 70.963
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo picked up the shoe and turned it over.",
+              "audioStart": 71.825,
+              "audioEnd": 73.9
+            },
+            {
+              "text": "Suddenly, he heard a sound.",
+              "audioStart": 74.763,
+              "audioEnd": 76.513
+            },
+            {
+              "text": "Something metal fell onto the floor.",
+              "audioStart": 77.375,
+              "audioEnd": 79.25
+            },
+            {
+              "text": "The missing key had been hidden inside the shoe by the cat.",
+              "audioStart": 80.112,
+              "audioEnd": 82.963
+            },
+            {
+              "text": "He realized that the cat had played with the key.",
+              "audioStart": 83.825,
+              "audioEnd": 86.25
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo felt happy as he picked up the key.",
+              "audioStart": 87.112,
+              "audioEnd": 89.263
+            },
+            {
+              "text": "He opened the door and ran toward the bus station.",
+              "audioStart": 90.125,
+              "audioEnd": 92.612
+            },
+            {
+              "text": "He knew that he would reach the office soon.",
+              "audioStart": 93.475,
+              "audioEnd": 95.425
+            },
+            {
+              "text": "He promised that he would keep his keys in a safe place.",
+              "audioStart": 96.287,
+              "audioEnd": 99.237
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0047.mp3",
+      "wordTimings": "audio/b1/st-0047.timings.json",
+      "quiz": [
+        {
+          "q": "Why was Leo worried on Monday morning?",
+          "options": [
+            "He lost his job at the company.",
+            "He could not find his key.",
+            "His alarm clock worked too well."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Where did Leo finally find his missing key?",
+          "options": [
+            "Inside his sports bag.",
+            "Under the bed.",
+            "Inside his shoe."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Who moved the key to the shoe?",
+          "options": [
+            "The cat.",
+            "Leo.",
+            "A friend."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo woke up late on Monday.",
+              "audioStart": 0.106,
+              "audioEnd": 1.842
+            },
+            {
+              "text": "His alarm clock did not work.",
+              "audioStart": 2.806,
+              "audioEnd": 4.806
+            },
+            {
+              "text": "He had a new job at a big company.",
+              "audioStart": 5.764,
+              "audioEnd": 7.792
+            },
+            {
+              "text": "He felt very stressed.",
+              "audioStart": 8.75,
+              "audioEnd": 10.264
+            },
+            {
+              "text": "He had only thirty minutes to arrive.",
+              "audioStart": 11.222,
+              "audioEnd": 13.403
+            },
+            {
+              "text": "He dressed quickly.",
+              "audioStart": 14.361,
+              "audioEnd": 15.597
+            },
+            {
+              "text": "He looked for his key on the table.",
+              "audioStart": 16.556,
+              "audioEnd": 18.458
+            },
+            {
+              "text": "It was not there.",
+              "audioStart": 19.417,
+              "audioEnd": 20.556
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo looked around his house.",
+              "audioStart": 21.514,
+              "audioEnd": 23.264
+            },
+            {
+              "text": "He could not find the key.",
+              "audioStart": 24.222,
+              "audioEnd": 25.722
+            },
+            {
+              "text": "He was very nervous.",
+              "audioStart": 26.681,
+              "audioEnd": 28.056
+            },
+            {
+              "text": "He searched under the bed and behind the sofa.",
+              "audioStart": 29.014,
+              "audioEnd": 31.486
+            },
+            {
+              "text": "The key was not there.",
+              "audioStart": 32.444,
+              "audioEnd": 33.806
+            },
+            {
+              "text": "He thought he left it in the door.",
+              "audioStart": 34.764,
+              "audioEnd": 36.569
+            },
+            {
+              "text": "However, the door was empty.",
+              "audioStart": 37.528,
+              "audioEnd": 39.431
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo began to worry.",
+              "audioStart": 40.389,
+              "audioEnd": 41.778
+            },
+            {
+              "text": "He needed to be on time for his first day.",
+              "audioStart": 42.736,
+              "audioEnd": 45.181
+            },
+            {
+              "text": "He remembered he walked through the living room yesterday.",
+              "audioStart": 46.139,
+              "audioEnd": 48.958
+            },
+            {
+              "text": "Maybe he dropped the key then.",
+              "audioStart": 49.917,
+              "audioEnd": 51.597
+            },
+            {
+              "text": "He decided to look inside his sports bag.",
+              "audioStart": 52.556,
+              "audioEnd": 55.111
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo searched the room.",
+              "audioStart": 56.069,
+              "audioEnd": 57.458
+            },
+            {
+              "text": "His cat watched him from a chair.",
+              "audioStart": 58.417,
+              "audioEnd": 60.375
+            },
+            {
+              "text": "The cat seemed to enjoy this.",
+              "audioStart": 61.333,
+              "audioEnd": 63.194
+            },
+            {
+              "text": "Leo walked toward his favorite shoes.",
+              "audioStart": 64.153,
+              "audioEnd": 66.458
+            },
+            {
+              "text": "One shoe was out of place.",
+              "audioStart": 67.417,
+              "audioEnd": 69.069
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo picked up the shoe.",
+              "audioStart": 70.028,
+              "audioEnd": 71.486
+            },
+            {
+              "text": "He turned it over.",
+              "audioStart": 72.444,
+              "audioEnd": 73.583
+            },
+            {
+              "text": "He heard a sound.",
+              "audioStart": 74.542,
+              "audioEnd": 75.653
+            },
+            {
+              "text": "Something metal fell on the floor.",
+              "audioStart": 76.611,
+              "audioEnd": 78.528
+            },
+            {
+              "text": "The cat put the key inside the shoe.",
+              "audioStart": 79.486,
+              "audioEnd": 81.597
+            },
+            {
+              "text": "Leo realized the cat played with it.",
+              "audioStart": 82.556,
+              "audioEnd": 84.819
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo felt very happy.",
+              "audioStart": 85.778,
+              "audioEnd": 87.292
+            },
+            {
+              "text": "He picked up the key.",
+              "audioStart": 88.25,
+              "audioEnd": 89.556
+            },
+            {
+              "text": "He opened the door and ran to the bus station.",
+              "audioStart": 90.514,
+              "audioEnd": 93.097
+            },
+            {
+              "text": "He was late, but he would arrive soon.",
+              "audioStart": 94.056,
+              "audioEnd": 96.361
+            },
+            {
+              "text": "He promised to keep his keys in a safe place.",
+              "audioStart": 97.319,
+              "audioEnd": 100.153
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0047.mp3",
+      "wordTimings": "audio/a2/st-0047.timings.json",
+      "quiz": [
+        {
+          "q": "Why was Leo stressed?",
+          "options": [
+            "He lost his cat",
+            "He was late for his new job",
+            "He could not find his shoes"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Where did Leo finally find his key?",
+          "options": [
+            "On the kitchen table",
+            "Under the sofa",
+            "Inside his shoe"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Who moved the key?",
+          "options": [
+            "Leo",
+            "The cat",
+            "His friend"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo wakes up late on Monday morning.",
+              "audioStart": 0.106,
+              "audioEnd": 2.272
+            },
+            {
+              "text": "His alarm clock does not work.",
+              "audioStart": 3.236,
+              "audioEnd": 5.264
+            },
+            {
+              "text": "It is his first day at work.",
+              "audioStart": 6.222,
+              "audioEnd": 7.944
+            },
+            {
+              "text": "He feels very bad.",
+              "audioStart": 8.903,
+              "audioEnd": 10.278
+            },
+            {
+              "text": "He has only thirty minutes.",
+              "audioStart": 11.236,
+              "audioEnd": 12.917
+            },
+            {
+              "text": "He gets dressed very fast.",
+              "audioStart": 13.875,
+              "audioEnd": 15.722
+            },
+            {
+              "text": "He looks for his key.",
+              "audioStart": 16.681,
+              "audioEnd": 18.014
+            },
+            {
+              "text": "It is not on the table.",
+              "audioStart": 18.972,
+              "audioEnd": 20.417
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo looks around his house.",
+              "audioStart": 21.375,
+              "audioEnd": 23.097
+            },
+            {
+              "text": "He is very nervous.",
+              "audioStart": 24.056,
+              "audioEnd": 25.389
+            },
+            {
+              "text": "He looks under the bed.",
+              "audioStart": 26.347,
+              "audioEnd": 27.681
+            },
+            {
+              "text": "He looks behind the sofa.",
+              "audioStart": 28.639,
+              "audioEnd": 30.25
+            },
+            {
+              "text": "The key is not there.",
+              "audioStart": 31.208,
+              "audioEnd": 32.542
+            },
+            {
+              "text": "He thinks about the door.",
+              "audioStart": 33.5,
+              "audioEnd": 34.931
+            },
+            {
+              "text": "The key is not in the door.",
+              "audioStart": 35.889,
+              "audioEnd": 37.472
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo feels worried.",
+              "audioStart": 38.431,
+              "audioEnd": 39.708
+            },
+            {
+              "text": "He must be on time.",
+              "audioStart": 40.667,
+              "audioEnd": 42.069
+            },
+            {
+              "text": "He remembers the living room.",
+              "audioStart": 43.028,
+              "audioEnd": 44.708
+            },
+            {
+              "text": "He thinks about his shoes.",
+              "audioStart": 45.667,
+              "audioEnd": 47.264
+            },
+            {
+              "text": "He looks in his sports bag.",
+              "audioStart": 48.222,
+              "audioEnd": 49.917
+            },
+            {
+              "text": "The cat watches him.",
+              "audioStart": 50.875,
+              "audioEnd": 52.222
+            },
+            {
+              "text": "The cat sits on a chair.",
+              "audioStart": 53.181,
+              "audioEnd": 54.819
+            },
+            {
+              "text": "The cat looks happy.",
+              "audioStart": 55.778,
+              "audioEnd": 57.069
+            },
+            {
+              "text": "Leo walks to his shoes.",
+              "audioStart": 58.028,
+              "audioEnd": 59.681
+            },
+            {
+              "text": "One shoe is out of place.",
+              "audioStart": 60.639,
+              "audioEnd": 62.319
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo picks up the shoe.",
+              "audioStart": 63.278,
+              "audioEnd": 64.722
+            },
+            {
+              "text": "He turns the shoe over.",
+              "audioStart": 65.681,
+              "audioEnd": 67.097
+            },
+            {
+              "text": "The key falls on the floor.",
+              "audioStart": 68.056,
+              "audioEnd": 69.694
+            },
+            {
+              "text": "The cat puts it there.",
+              "audioStart": 70.653,
+              "audioEnd": 71.972
+            },
+            {
+              "text": "Leo is very happy.",
+              "audioStart": 72.931,
+              "audioEnd": 74.333
+            },
+            {
+              "text": "He picks up the key.",
+              "audioStart": 75.292,
+              "audioEnd": 76.597
+            },
+            {
+              "text": "He opens the door.",
+              "audioStart": 77.556,
+              "audioEnd": 78.792
+            },
+            {
+              "text": "He runs to the bus.",
+              "audioStart": 79.75,
+              "audioEnd": 81.167
+            },
+            {
+              "text": "He is still late.",
+              "audioStart": 82.125,
+              "audioEnd": 83.278
+            },
+            {
+              "text": "He knows he will reach the office.",
+              "audioStart": 84.236,
+              "audioEnd": 86.194
+            },
+            {
+              "text": "He will keep his keys safe.",
+              "audioStart": 87.153,
+              "audioEnd": 88.819
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He learns a lesson today.",
+              "audioStart": 89.778,
+              "audioEnd": 91.278
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0047.mp3",
+      "wordTimings": "audio/a1/st-0047.timings.json",
+      "quiz": [
+        {
+          "q": "Why is Leo late for work?",
+          "options": [
+            "The alarm clock fails",
+            "He loses his shoes",
+            "He sleeps in the office"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where does Leo find the key?",
+          "options": [
+            "On the table",
+            "Inside a shoe",
+            "Behind the sofa"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who puts the key in the shoe?",
+          "options": [
+            "Leo",
+            "The bus driver",
+            "The cat"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  }
+}

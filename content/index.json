@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 17,
-  "updatedAt": "2026-07-05",
+  "contentVersion": 19,
+  "updatedAt": "2026-07-06",
   "adConfig": {
     "adsEnabled": true,
     "nativeEveryNCards": 8,
@@ -361,6 +361,1005 @@
       "cover": "covers/st-0015.webp",
       "isNew": false,
       "order": 13
+    },
+    {
+      "id": "st-0016",
+      "slug": "the-shadow-house",
+      "title": "The Shadow House",
+      "genre": "horror",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 261,
+        "A2": 533,
+        "B1": 644,
+        "B2": 1114
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 5,
+        "B2": 9
+      },
+      "cover": "covers/st-0016.webp",
+      "isNew": false,
+      "order": 14
+    },
+    {
+      "id": "st-0017",
+      "slug": "the-lost-hotel-room",
+      "title": "The Lost Hotel Room",
+      "genre": "horror",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 365,
+        "A2": 518,
+        "B1": 804,
+        "B2": 1057
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8
+      },
+      "cover": "covers/st-0017.webp",
+      "isNew": false,
+      "order": 15
+    },
+    {
+      "id": "st-0018",
+      "slug": "the-lost-tunnel",
+      "title": "The Lost Tunnel",
+      "genre": "horror",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 319,
+        "A2": 543,
+        "B1": 706,
+        "B2": 939
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 7
+      },
+      "cover": "covers/st-0018.webp",
+      "isNew": false,
+      "order": 16
+    },
+    {
+      "id": "st-0019",
+      "slug": "the-midnight-clock",
+      "title": "The Midnight Clock",
+      "genre": "horror",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 324,
+        "A2": 536,
+        "B1": 713,
+        "B2": 918
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 7
+      },
+      "cover": "covers/st-0019.webp",
+      "isNew": false,
+      "order": 17
+    },
+    {
+      "id": "st-0020",
+      "slug": "the-slow-mirror",
+      "title": "The Slow Mirror",
+      "genre": "horror",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 309,
+        "A2": 575,
+        "B1": 823,
+        "B2": 922
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 7
+      },
+      "cover": "covers/st-0020.webp",
+      "isNew": false,
+      "order": 18
+    },
+    {
+      "id": "st-0021",
+      "slug": "the-lost-city-map",
+      "title": "The Lost City Map",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 224,
+        "A2": 383,
+        "B1": 858,
+        "B2": 1136
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 7,
+        "B2": 9
+      },
+      "cover": "covers/st-0021.webp",
+      "isNew": false,
+      "order": 19
+    },
+    {
+      "id": "st-0023",
+      "slug": "the-lost-city",
+      "title": "The Lost City",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 214,
+        "A2": 350,
+        "B1": 995,
+        "B2": 1109
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 8,
+        "B2": 9
+      },
+      "cover": "covers/st-0023.webp",
+      "isNew": false,
+      "order": 20
+    },
+    {
+      "id": "st-0024",
+      "slug": "the-midnight-library-key",
+      "title": "The Midnight Library Key",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 282,
+        "A2": 413,
+        "B1": 756,
+        "B2": 1041
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 6,
+        "B2": 8
+      },
+      "cover": "covers/st-0024.webp",
+      "isNew": false,
+      "order": 21
+    },
+    {
+      "id": "st-0025",
+      "slug": "the-whispering-library-clock",
+      "title": "The Whispering Library Clock",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 153,
+        "A2": 157,
+        "B1": 184,
+        "B2": 198
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 1,
+        "B1": 1,
+        "B2": 2
+      },
+      "cover": "covers/st-0025.webp",
+      "isNew": false,
+      "order": 22
+    },
+    {
+      "id": "st-0027",
+      "slug": "the-whispering-library-book",
+      "title": "The Whispering Library Book",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 124,
+        "A2": 201,
+        "B1": 225,
+        "B2": 225
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 2,
+        "B2": 2
+      },
+      "cover": "covers/st-0027.webp",
+      "isNew": false,
+      "order": 23
+    },
+    {
+      "id": "st-0028",
+      "slug": "the-hidden-mountain-map",
+      "title": "The Hidden Mountain Map",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 161,
+        "A2": 202,
+        "B1": 234,
+        "B2": 243
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 2,
+        "B2": 2
+      },
+      "cover": "covers/st-0028.webp",
+      "isNew": false,
+      "order": 24
+    },
+    {
+      "id": "st-0032",
+      "slug": "the-hidden-mountain-map",
+      "title": "The Hidden Mountain Map",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 135,
+        "A2": 217,
+        "B1": 236,
+        "B2": 259
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 2,
+        "B2": 2
+      },
+      "cover": "covers/st-0032.webp",
+      "isNew": false,
+      "order": 25
+    },
+    {
+      "id": "st-0033",
+      "slug": "the-hidden-mountain-map",
+      "title": "The Hidden Mountain Map",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 225,
+        "A2": 285,
+        "B1": 335,
+        "B2": 339
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 3
+      },
+      "cover": "covers/st-0033.webp",
+      "isNew": false,
+      "order": 26
+    },
+    {
+      "id": "st-0040",
+      "slug": "the-library-note",
+      "title": "The Library Note",
+      "genre": "romance",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 149,
+        "A2": 216,
+        "B1": 260,
+        "B2": 260
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 2,
+        "B2": 2
+      },
+      "cover": "covers/st-0040.webp",
+      "isNew": false,
+      "order": 27
+    },
+    {
+      "id": "st-0042",
+      "slug": "the-last-robot-gardener",
+      "title": "The Last Robot Gardener",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 161,
+        "A2": 230,
+        "B1": 270,
+        "B2": 270
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 2,
+        "B2": 2
+      },
+      "cover": "covers/st-0042.webp",
+      "isNew": false,
+      "order": 28
+    },
+    {
+      "id": "st-0047",
+      "slug": "the-missing-key",
+      "title": "The Missing Key",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 191,
+        "A2": 226,
+        "B1": 281,
+        "B2": 350
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 2,
+        "B2": 3
+      },
+      "cover": "covers/st-0047.webp",
+      "isNew": false,
+      "order": 29
+    },
+    {
+      "id": "st-0049",
+      "slug": "the-forgotten-umbrella",
+      "title": "The Forgotten Umbrella",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 156,
+        "A2": 237,
+        "B1": 259,
+        "B2": 323
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 2,
+        "B2": 3
+      },
+      "cover": "covers/st-0049.webp",
+      "isNew": false,
+      "order": 30
+    },
+    {
+      "id": "st-0052",
+      "slug": "the-mirror-in-the-attic",
+      "title": "The Mirror in the Attic",
+      "genre": "horror",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 147,
+        "A2": 179,
+        "B1": 225,
+        "B2": 227
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 1,
+        "B1": 2,
+        "B2": 2
+      },
+      "cover": "covers/st-0052.webp",
+      "isNew": true,
+      "order": 31
+    },
+    {
+      "id": "st-0060",
+      "slug": "the-missing-silver-key",
+      "title": "The Missing Silver Key",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 154,
+        "A2": 217,
+        "B1": 251,
+        "B2": 256
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 2,
+        "B2": 2
+      },
+      "cover": "covers/st-0060.webp",
+      "isNew": true,
+      "order": 32
+    },
+    {
+      "id": "st-0070",
+      "slug": "the-library-letter",
+      "title": "The Library Letter",
+      "genre": "romance",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 144,
+        "A2": 157,
+        "B1": 156,
+        "B2": 165
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 1,
+        "B1": 1,
+        "B2": 1
+      },
+      "cover": "covers/st-0070.webp",
+      "isNew": true,
+      "order": 33
+    },
+    {
+      "id": "st-0080",
+      "slug": "the-missing-blue-key",
+      "title": "The Missing Blue Key",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 174,
+        "A2": 229,
+        "B1": 277,
+        "B2": 281
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 2,
+        "B2": 2
+      },
+      "cover": "covers/st-0080.webp",
+      "isNew": true,
+      "order": 34
+    },
+    {
+      "id": "st-0084",
+      "slug": "the-lost-island",
+      "title": "The Lost Island",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 270,
+        "A2": 463,
+        "B1": 628,
+        "B2": 967
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 5,
+        "B2": 8
+      },
+      "cover": "covers/st-0084.webp",
+      "isNew": true,
+      "order": 35
+    },
+    {
+      "id": "st-0088",
+      "slug": "the-library-note",
+      "title": "The Library Note",
+      "genre": "romance",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 137,
+        "A2": 172,
+        "B1": 285,
+        "B2": 296
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 1,
+        "B1": 2,
+        "B2": 2
+      },
+      "cover": "covers/st-0088.webp",
+      "isNew": true,
+      "order": 36
+    },
+    {
+      "id": "st-0091",
+      "slug": "the-desert-map",
+      "title": "The Desert Map",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 289,
+        "A2": 461,
+        "B1": 611,
+        "B2": 1069
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 5,
+        "B2": 8
+      },
+      "cover": "covers/st-0091.webp",
+      "isNew": true,
+      "order": 37
+    },
+    {
+      "id": "st-0092",
+      "slug": "the-robot-who-loved-plants",
+      "title": "The Robot Who Loved Plants",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 284,
+        "A2": 431,
+        "B1": 676,
+        "B2": 1205
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 9
+      },
+      "cover": "covers/st-0092.webp",
+      "isNew": true,
+      "order": 38
+    },
+    {
+      "id": "st-0097",
+      "slug": "love-on-sunny-island",
+      "title": "Love on Sunny Island",
+      "genre": "romance",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 185,
+        "A2": 226,
+        "B1": 286,
+        "B2": 287
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 2,
+        "B2": 2
+      },
+      "cover": "covers/st-0097.webp",
+      "isNew": true,
+      "order": 39
+    },
+    {
+      "id": "st-0098",
+      "slug": "the-library-note",
+      "title": "The Library Note",
+      "genre": "romance",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 166,
+        "A2": 234,
+        "B1": 256,
+        "B2": 331
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 2,
+        "B2": 3
+      },
+      "cover": "covers/st-0098.webp",
+      "isNew": true,
+      "order": 40
+    },
+    {
+      "id": "st-0102",
+      "slug": "the-garden-gift",
+      "title": "The Garden Gift",
+      "genre": "romance",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 281,
+        "A2": 579,
+        "B1": 620,
+        "B2": 1013
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 5,
+        "B1": 5,
+        "B2": 8
+      },
+      "cover": "covers/st-0102.webp",
+      "isNew": true,
+      "order": 41
+    },
+    {
+      "id": "st-0104",
+      "slug": "the-lost-island-quest",
+      "title": "The Lost Island Quest",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 269,
+        "A2": 564,
+        "B1": 698,
+        "B2": 910
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0104.webp",
+      "isNew": true,
+      "order": 42
+    },
+    {
+      "id": "st-0106",
+      "slug": "the-starship-garden",
+      "title": "The Starship Garden",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 252,
+        "A2": 524,
+        "B1": 621,
+        "B2": 952
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0106.webp",
+      "isNew": true,
+      "order": 43
+    },
+    {
+      "id": "st-0109",
+      "slug": "starship-garden-adventure",
+      "title": "Starship Garden Adventure",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 298,
+        "A2": 527,
+        "B1": 768,
+        "B2": 905
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 7
+      },
+      "cover": "covers/st-0109.webp",
+      "isNew": true,
+      "order": 44
+    },
+    {
+      "id": "st-0113",
+      "slug": "lost-in-the-market",
+      "title": "Lost in the Market",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 286,
+        "A2": 477,
+        "B1": 723,
+        "B2": 1008
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8
+      },
+      "cover": "covers/st-0113.webp",
+      "isNew": true,
+      "order": 45
+    },
+    {
+      "id": "st-0115",
+      "slug": "the-lost-island-quest",
+      "title": "The Lost Island Quest",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 340,
+        "A2": 590,
+        "B1": 768,
+        "B2": 1055
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 5,
+        "B1": 6,
+        "B2": 8
+      },
+      "cover": "covers/st-0115.webp",
+      "isNew": true,
+      "order": 46
+    },
+    {
+      "id": "st-0117",
+      "slug": "lost-in-the-market",
+      "title": "Lost in the Market",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 262,
+        "A2": 428,
+        "B1": 850,
+        "B2": 914
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 7,
+        "B2": 7
+      },
+      "cover": "covers/st-0117.webp",
+      "isNew": true,
+      "order": 47
+    },
+    {
+      "id": "st-0119",
+      "slug": "the-star-garden",
+      "title": "The Star Garden",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 293,
+        "A2": 522,
+        "B1": 753,
+        "B2": 958
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 7
+      },
+      "cover": "covers/st-0119.webp",
+      "isNew": true,
+      "order": 48
+    },
+    {
+      "id": "st-0120",
+      "slug": "the-lost-city",
+      "title": "The Lost City",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 250,
+        "A2": 529,
+        "B1": 614,
+        "B2": 961
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 5,
+        "B2": 8
+      },
+      "cover": "covers/st-0120.webp",
+      "isNew": true,
+      "order": 49
+    },
+    {
+      "id": "st-0121",
+      "slug": "lily-s-lost-bike",
+      "title": "Lily's Lost Bike",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 302,
+        "A2": 427,
+        "B1": 692,
+        "B2": 1379
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 11
+      },
+      "cover": "covers/st-0121.webp",
+      "isNew": true,
+      "order": 50
     }
   ]
 }

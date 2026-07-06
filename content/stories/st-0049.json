@@ -1,0 +1,798 @@
+{
+  "id": "st-0049",
+  "title": "The Forgotten Umbrella",
+  "genre": "daily",
+  "coverScene": "A black umbrella leans against a foggy city bus window, reflecting the bright lights of a rainy evening street.",
+  "levels": {
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo loved his black umbrella because it was strong and reliable.",
+              "audioStart": 0.1,
+              "audioEnd": 3.375
+            },
+            {
+              "text": "One rainy Tuesday, he took the bus home after a long day at the office.",
+              "audioStart": 4.237,
+              "audioEnd": 8.175
+            },
+            {
+              "text": "The rain fell hard against the windows, and the bus was very crowded.",
+              "audioStart": 9.037,
+              "audioEnd": 12.725
+            },
+            {
+              "text": "When he arrived at his stop, he jumped off quickly without remembering his favorite item.",
+              "audioStart": 13.588,
+              "audioEnd": 17.875
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He did not realize his loss until he walked into his apartment.",
+              "audioStart": 18.738,
+              "audioEnd": 21.975
+            },
+            {
+              "text": "The umbrella was left behind on the seat, where it remained as the bus continued through the city.",
+              "audioStart": 22.837,
+              "audioEnd": 27.663
+            },
+            {
+              "text": "A young woman named Sarah found it later that night.",
+              "audioStart": 28.525,
+              "audioEnd": 31.062
+            },
+            {
+              "text": "If she had not taken it, the umbrella might have remained there until the bus company cleaned the vehicle.",
+              "audioStart": 31.925,
+              "audioEnd": 36.875
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sarah was an artist who traveled across the city to paint urban scenes.",
+              "audioStart": 37.737,
+              "audioEnd": 41.487
+            },
+            {
+              "text": "She took the umbrella to the park, where it protected her from a sudden afternoon storm.",
+              "audioStart": 42.35,
+              "audioEnd": 46.75
+            },
+            {
+              "text": "Later, she used it as a prop in a photograph for her new project.",
+              "audioStart": 47.612,
+              "audioEnd": 51.175
+            },
+            {
+              "text": "The umbrella was taken on many adventures that Leo never could have imagined.",
+              "audioStart": 52.038,
+              "audioEnd": 55.95
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo decided to contact the bus station the next morning.",
+              "audioStart": 56.812,
+              "audioEnd": 59.9
+            },
+            {
+              "text": "He hoped that someone had found his property, but the worker told him that nothing had been reported.",
+              "audioStart": 60.763,
+              "audioEnd": 65.6
+            },
+            {
+              "text": "Leo felt sad because he had owned that umbrella for many years.",
+              "audioStart": 66.463,
+              "audioEnd": 69.75
+            },
+            {
+              "text": "He wondered where it was and who might be holding it now.",
+              "audioStart": 70.612,
+              "audioEnd": 73.213
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Weeks passed, and Leo eventually bought a new umbrella.",
+              "audioStart": 74.075,
+              "audioEnd": 77.025
+            },
+            {
+              "text": "However, he still remembered the old one every time it rained.",
+              "audioStart": 77.888,
+              "audioEnd": 81.175
+            },
+            {
+              "text": "One day, he saw a beautiful picture in a local shop window.",
+              "audioStart": 82.037,
+              "audioEnd": 85.425
+            },
+            {
+              "text": "It was a painting of a black umbrella standing in the middle of a colorful park.",
+              "audioStart": 86.287,
+              "audioEnd": 90.237
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo recognized the umbrella immediately because of a small mark on the handle.",
+              "audioStart": 91.1,
+              "audioEnd": 95.125
+            },
+            {
+              "text": "He entered the shop and asked the owner about the artwork.",
+              "audioStart": 95.987,
+              "audioEnd": 98.675
+            },
+            {
+              "text": "The owner told him that a local artist had created the painting during a rainy season.",
+              "audioStart": 99.537,
+              "audioEnd": 103.825
+            },
+            {
+              "text": "Leo felt happy that his lost thing was still part of a great story.",
+              "audioStart": 104.688,
+              "audioEnd": 108.15
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0049.mp3",
+      "wordTimings": "audio/b2/st-0049.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo leave his umbrella?",
+          "options": [
+            "In his apartment",
+            "On the bus",
+            "At the office"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who found the umbrella after Leo left it?",
+          "options": [
+            "A bus driver",
+            "A young artist",
+            "A store owner"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Leo eventually find out what happened to his umbrella?",
+          "options": [
+            "He saw it in a painting",
+            "The bus company called him",
+            "He found it in the park"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo loved his black umbrella.",
+              "audioStart": 0.1,
+              "audioEnd": 1.75
+            },
+            {
+              "text": "It was strong and good.",
+              "audioStart": 2.612,
+              "audioEnd": 3.8
+            },
+            {
+              "text": "One rainy Tuesday, he took the bus home from work.",
+              "audioStart": 4.662,
+              "audioEnd": 7.412
+            },
+            {
+              "text": "The rain was heavy against the windows.",
+              "audioStart": 8.275,
+              "audioEnd": 10.3
+            },
+            {
+              "text": "The bus was very full.",
+              "audioStart": 11.162,
+              "audioEnd": 12.562
+            },
+            {
+              "text": "When he arrived at his stop, he jumped off quickly.",
+              "audioStart": 13.425,
+              "audioEnd": 16.075
+            },
+            {
+              "text": "He did not remember his umbrella.",
+              "audioStart": 16.938,
+              "audioEnd": 18.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He did not know he lost it until he was in his apartment.",
+              "audioStart": 19.488,
+              "audioEnd": 22.35
+            },
+            {
+              "text": "The umbrella was on the seat.",
+              "audioStart": 23.212,
+              "audioEnd": 24.738
+            },
+            {
+              "text": "The bus continued through the city.",
+              "audioStart": 25.6,
+              "audioEnd": 27.3
+            },
+            {
+              "text": "A young woman named Sarah found it that night.",
+              "audioStart": 28.163,
+              "audioEnd": 30.387
+            },
+            {
+              "text": "If she had not taken it, the umbrella might remain there.",
+              "audioStart": 31.25,
+              "audioEnd": 34.087
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sarah was an artist who traveled to paint city scenes.",
+              "audioStart": 34.95,
+              "audioEnd": 37.85
+            },
+            {
+              "text": "She took the umbrella to the park.",
+              "audioStart": 38.712,
+              "audioEnd": 40.462
+            },
+            {
+              "text": "It protected her from a sudden storm.",
+              "audioStart": 41.325,
+              "audioEnd": 43.225
+            },
+            {
+              "text": "Later, she used it in a photograph for her project.",
+              "audioStart": 44.087,
+              "audioEnd": 46.987
+            },
+            {
+              "text": "The umbrella had many adventures that Leo never imagined.",
+              "audioStart": 47.85,
+              "audioEnd": 50.962
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo decided to contact the bus station the next morning.",
+              "audioStart": 51.825,
+              "audioEnd": 54.913
+            },
+            {
+              "text": "He hoped that someone found his property.",
+              "audioStart": 55.775,
+              "audioEnd": 57.8
+            },
+            {
+              "text": "However, the worker said that nothing was reported.",
+              "audioStart": 58.663,
+              "audioEnd": 61.4
+            },
+            {
+              "text": "Leo felt sad because he had the umbrella for many years.",
+              "audioStart": 62.263,
+              "audioEnd": 65.375
+            },
+            {
+              "text": "He wondered where it was.",
+              "audioStart": 66.237,
+              "audioEnd": 67.575
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Weeks passed, and Leo bought a new umbrella.",
+              "audioStart": 68.438,
+              "audioEnd": 70.862
+            },
+            {
+              "text": "However, he still remembered the old one when it rained.",
+              "audioStart": 71.725,
+              "audioEnd": 74.55
+            },
+            {
+              "text": "One day, he saw a beautiful picture in a local shop.",
+              "audioStart": 75.412,
+              "audioEnd": 78.487
+            },
+            {
+              "text": "It was a painting of a black umbrella in a park.",
+              "audioStart": 79.35,
+              "audioEnd": 81.838
+            },
+            {
+              "text": "Leo recognized the umbrella because of a mark on the handle.",
+              "audioStart": 82.7,
+              "audioEnd": 85.737
+            },
+            {
+              "text": "He entered the shop and asked about the art.",
+              "audioStart": 86.6,
+              "audioEnd": 88.763
+            },
+            {
+              "text": "The owner said that a local artist created the painting.",
+              "audioStart": 89.625,
+              "audioEnd": 92.513
+            },
+            {
+              "text": "Leo felt happy that his lost thing was part of a story.",
+              "audioStart": 93.375,
+              "audioEnd": 96.263
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0049.mp3",
+      "wordTimings": "audio/b1/st-0049.timings.json",
+      "quiz": [
+        {
+          "q": "Why did Leo lose his umbrella?",
+          "options": [
+            "He left it on the bus by mistake.",
+            "A woman stole it from his bag.",
+            "He threw it away after it broke."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did Sarah use the umbrella for?",
+          "options": [
+            "She sold it to a local shop.",
+            "She used it during a storm and for a photo.",
+            "She gave it to a friend as a gift."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Leo find his old umbrella again?",
+          "options": [
+            "He saw it in a painting at a shop.",
+            "The bus company called him.",
+            "He saw Sarah walking in the park."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo loved his black umbrella.",
+              "audioStart": 0.106,
+              "audioEnd": 1.939
+            },
+            {
+              "text": "It was strong and good.",
+              "audioStart": 2.903,
+              "audioEnd": 4.222
+            },
+            {
+              "text": "One rainy Tuesday, he took the bus home.",
+              "audioStart": 5.181,
+              "audioEnd": 7.792
+            },
+            {
+              "text": "The bus was very full.",
+              "audioStart": 8.75,
+              "audioEnd": 10.306
+            },
+            {
+              "text": "Leo got off at his stop.",
+              "audioStart": 11.264,
+              "audioEnd": 12.819
+            },
+            {
+              "text": "He did not remember his umbrella.",
+              "audioStart": 13.778,
+              "audioEnd": 15.653
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He did not know it was gone until he reached home.",
+              "audioStart": 16.611,
+              "audioEnd": 19.306
+            },
+            {
+              "text": "The umbrella stayed on the bus seat.",
+              "audioStart": 20.264,
+              "audioEnd": 22.278
+            },
+            {
+              "text": "A young woman named Sarah found it later that night.",
+              "audioStart": 23.236,
+              "audioEnd": 26.056
+            },
+            {
+              "text": "If she did not take it, the company might clean it away.",
+              "audioStart": 27.014,
+              "audioEnd": 30.194
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sarah was an artist.",
+              "audioStart": 31.153,
+              "audioEnd": 32.556
+            },
+            {
+              "text": "She traveled across the city to paint.",
+              "audioStart": 33.514,
+              "audioEnd": 35.736
+            },
+            {
+              "text": "She took the umbrella to the park.",
+              "audioStart": 36.694,
+              "audioEnd": 38.639
+            },
+            {
+              "text": "It kept her dry during a sudden storm.",
+              "audioStart": 39.597,
+              "audioEnd": 41.792
+            },
+            {
+              "text": "Later, she used it in a project for a picture.",
+              "audioStart": 42.75,
+              "audioEnd": 45.722
+            },
+            {
+              "text": "The umbrella went on many adventures.",
+              "audioStart": 46.681,
+              "audioEnd": 48.944
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo called the bus station the next morning.",
+              "audioStart": 49.903,
+              "audioEnd": 52.375
+            },
+            {
+              "text": "He hoped someone found his property.",
+              "audioStart": 53.333,
+              "audioEnd": 55.361
+            },
+            {
+              "text": "The worker told him that nothing was there.",
+              "audioStart": 56.319,
+              "audioEnd": 58.597
+            },
+            {
+              "text": "Leo felt sad because he owned it for many years.",
+              "audioStart": 59.556,
+              "audioEnd": 62.486
+            },
+            {
+              "text": "He wondered where it was.",
+              "audioStart": 63.444,
+              "audioEnd": 64.931
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Weeks passed, and Leo bought a new umbrella.",
+              "audioStart": 65.889,
+              "audioEnd": 68.583
+            },
+            {
+              "text": "However, he still remembered the old one when it rained.",
+              "audioStart": 69.542,
+              "audioEnd": 72.681
+            },
+            {
+              "text": "One day, he saw a beautiful picture in a local shop.",
+              "audioStart": 73.639,
+              "audioEnd": 77.056
+            },
+            {
+              "text": "It was a painting of a black umbrella in a park.",
+              "audioStart": 78.014,
+              "audioEnd": 80.778
+            },
+            {
+              "text": "Leo saw a small mark on the handle.",
+              "audioStart": 81.736,
+              "audioEnd": 83.875
+            },
+            {
+              "text": "He knew it was his umbrella.",
+              "audioStart": 84.833,
+              "audioEnd": 86.375
+            },
+            {
+              "text": "He went into the shop and asked about the art.",
+              "audioStart": 87.333,
+              "audioEnd": 89.861
+            },
+            {
+              "text": "The owner said a local artist painted it.",
+              "audioStart": 90.819,
+              "audioEnd": 93.278
+            },
+            {
+              "text": "Leo felt happy that his thing was part of a story.",
+              "audioStart": 94.236,
+              "audioEnd": 97.097
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0049.mp3",
+      "wordTimings": "audio/a2/st-0049.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo leave his umbrella?",
+          "options": [
+            "In his office",
+            "On the bus",
+            "At the park"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What is Sarah's job?",
+          "options": [
+            "She is an artist",
+            "She is a bus driver",
+            "She works at a shop"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did Leo find his umbrella again?",
+          "options": [
+            "He called the bus station",
+            "Sarah returned it to him",
+            "He saw it in a painting"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo loves his black umbrella.",
+              "audioStart": 0.106,
+              "audioEnd": 1.994
+            },
+            {
+              "text": "It is very strong.",
+              "audioStart": 2.958,
+              "audioEnd": 4.25
+            },
+            {
+              "text": "One rainy Tuesday he is at work.",
+              "audioStart": 5.208,
+              "audioEnd": 7.306
+            },
+            {
+              "text": "He takes the bus home.",
+              "audioStart": 8.264,
+              "audioEnd": 9.681
+            },
+            {
+              "text": "The bus is very full.",
+              "audioStart": 10.639,
+              "audioEnd": 12.153
+            },
+            {
+              "text": "Leo leaves the bus.",
+              "audioStart": 13.111,
+              "audioEnd": 14.486
+            },
+            {
+              "text": "He forgets his umbrella.",
+              "audioStart": 15.444,
+              "audioEnd": 16.944
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo walks into his home.",
+              "audioStart": 17.903,
+              "audioEnd": 19.5
+            },
+            {
+              "text": "He does not see the umbrella.",
+              "audioStart": 20.458,
+              "audioEnd": 22.111
+            },
+            {
+              "text": "The umbrella is on the bus.",
+              "audioStart": 23.069,
+              "audioEnd": 24.861
+            },
+            {
+              "text": "A young woman finds it.",
+              "audioStart": 25.819,
+              "audioEnd": 27.347
+            },
+            {
+              "text": "Her name is Sarah.",
+              "audioStart": 28.306,
+              "audioEnd": 29.417
+            },
+            {
+              "text": "She is an artist.",
+              "audioStart": 30.375,
+              "audioEnd": 31.569
+            },
+            {
+              "text": "She takes the umbrella to a park.",
+              "audioStart": 32.528,
+              "audioEnd": 34.556
+            },
+            {
+              "text": "It keeps her dry in the rain.",
+              "audioStart": 35.514,
+              "audioEnd": 37.125
+            },
+            {
+              "text": "She uses it for her art.",
+              "audioStart": 38.083,
+              "audioEnd": 39.694
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo calls the bus company.",
+              "audioStart": 40.653,
+              "audioEnd": 42.361
+            },
+            {
+              "text": "He wants his umbrella back.",
+              "audioStart": 43.319,
+              "audioEnd": 44.986
+            },
+            {
+              "text": "The worker says no.",
+              "audioStart": 45.944,
+              "audioEnd": 47.278
+            },
+            {
+              "text": "Leo feels very sad.",
+              "audioStart": 48.236,
+              "audioEnd": 49.861
+            },
+            {
+              "text": "He has the umbrella for many years.",
+              "audioStart": 50.819,
+              "audioEnd": 53.014
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Weeks pass by.",
+              "audioStart": 53.972,
+              "audioEnd": 55.125
+            },
+            {
+              "text": "Leo buys a new umbrella.",
+              "audioStart": 56.083,
+              "audioEnd": 57.611
+            },
+            {
+              "text": "One day he sees a shop.",
+              "audioStart": 58.569,
+              "audioEnd": 60.125
+            },
+            {
+              "text": "He looks at a painting.",
+              "audioStart": 61.083,
+              "audioEnd": 62.472
+            },
+            {
+              "text": "It shows a black umbrella.",
+              "audioStart": 63.431,
+              "audioEnd": 65.0
+            },
+            {
+              "text": "He sees a mark on it.",
+              "audioStart": 65.958,
+              "audioEnd": 67.319
+            },
+            {
+              "text": "Leo talks to the shop owner.",
+              "audioStart": 68.278,
+              "audioEnd": 70.014
+            },
+            {
+              "text": "The artist paints the umbrella.",
+              "audioStart": 70.972,
+              "audioEnd": 72.778
+            },
+            {
+              "text": "Leo feels happy about the story.",
+              "audioStart": 73.736,
+              "audioEnd": 75.778
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0049.mp3",
+      "wordTimings": "audio/a1/st-0049.timings.json",
+      "quiz": [
+        {
+          "q": "Where does Leo leave his umbrella?",
+          "options": [
+            "At his office",
+            "On the bus",
+            "In the park"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who finds the umbrella?",
+          "options": [
+            "A bus driver",
+            "A young artist",
+            "A shop owner"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How does Leo know the painting is his umbrella?",
+          "options": [
+            "He sees a small mark",
+            "The color is black",
+            "The artist tells him"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  }
+}

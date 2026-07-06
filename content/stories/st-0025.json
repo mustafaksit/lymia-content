@@ -1,0 +1,675 @@
+{
+  "id": "st-0025",
+  "title": "The Whispering Library Clock",
+  "genre": "mystery",
+  "coverScene": "A dusty, ornate wooden clock sits on a mahogany table inside a dimly lit library filled with rows of old books.",
+  "levels": {
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo was a student who loved to spend his time in the old school library.",
+              "audioStart": 0.1,
+              "audioEnd": 3.587
+            },
+            {
+              "text": "It was a quiet place where he could read in peace.",
+              "audioStart": 4.45,
+              "audioEnd": 6.888
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One afternoon, he found a strange clock hidden behind a large row of books.",
+              "audioStart": 7.75,
+              "audioEnd": 11.787
+            },
+            {
+              "text": "The clock was made of dark wood and had golden hands that seemed to move on their own.",
+              "audioStart": 12.65,
+              "audioEnd": 16.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo noticed that the clock chimed at very odd times during the day.",
+              "audioStart": 17.488,
+              "audioEnd": 20.85
+            },
+            {
+              "text": "If the clock chimed three times, he would find a book with a secret note on page three.",
+              "audioStart": 21.712,
+              "audioEnd": 26.188
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He wondered if the clock was trying to tell him something important about the school.",
+              "audioStart": 27.05,
+              "audioEnd": 30.837
+            },
+            {
+              "text": "The messages were always about a hidden room that had been closed for many years.",
+              "audioStart": 31.7,
+              "audioEnd": 35.65
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo knew that he must solve the mystery before the clock struck midnight.",
+              "audioStart": 36.513,
+              "audioEnd": 40.087
+            },
+            {
+              "text": "He believed that the secret could change the history of the school forever.",
+              "audioStart": 40.95,
+              "audioEnd": 44.325
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "By the time the clock began to strike twelve, Leo had found the final clue.",
+              "audioStart": 45.188,
+              "audioEnd": 49.337
+            },
+            {
+              "text": "He pushed a heavy shelf to reveal a door that had been hidden behind the wall.",
+              "audioStart": 50.2,
+              "audioEnd": 53.788
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The room was filled with old records and maps of the town.",
+              "audioStart": 54.65,
+              "audioEnd": 57.525
+            },
+            {
+              "text": "Leo felt proud because he had finally discovered the truth.",
+              "audioStart": 58.388,
+              "audioEnd": 61.45
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0025.mp3",
+      "wordTimings": "audio/b2/st-0025.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo find the strange clock?",
+          "options": [
+            "In his bedroom",
+            "Behind a row of books in the library",
+            "Inside a hidden room"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened when the clock chimed?",
+          "options": [
+            "It pointed to a hidden note in a book",
+            "The library lights went out",
+            "The school bell rang"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What was inside the hidden room?",
+          "options": [
+            "A collection of gold coins",
+            "Old records and maps",
+            "A group of lost students"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo was a student who liked to spend time in the old school library.",
+              "audioStart": 0.1,
+              "audioEnd": 3.5
+            },
+            {
+              "text": "It was a quiet place where he could read in peace.",
+              "audioStart": 4.362,
+              "audioEnd": 6.8
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One afternoon, he found a strange clock hidden behind a row of books.",
+              "audioStart": 7.662,
+              "audioEnd": 11.375
+            },
+            {
+              "text": "The clock was made of dark wood.",
+              "audioStart": 12.238,
+              "audioEnd": 13.875
+            },
+            {
+              "text": "It had gold hands that seemed to move on their own.",
+              "audioStart": 14.738,
+              "audioEnd": 17.05
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo noticed that the clock rang at very odd times.",
+              "audioStart": 17.913,
+              "audioEnd": 20.725
+            },
+            {
+              "text": "If the clock rang three times, he would find a book with a secret note on page three.",
+              "audioStart": 21.587,
+              "audioEnd": 25.962
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He wondered if the clock was trying to tell him something important.",
+              "audioStart": 26.825,
+              "audioEnd": 29.887
+            },
+            {
+              "text": "The messages were about a hidden room that had been closed for many years.",
+              "audioStart": 30.75,
+              "audioEnd": 34.325
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo knew that he must solve the mystery before the clock struck midnight.",
+              "audioStart": 35.188,
+              "audioEnd": 38.763
+            },
+            {
+              "text": "He believed that the secret could change the school history forever.",
+              "audioStart": 39.625,
+              "audioEnd": 42.825
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "By the time the clock began to strike twelve, Leo had found the final clue.",
+              "audioStart": 43.688,
+              "audioEnd": 47.837
+            },
+            {
+              "text": "He pushed a heavy shelf to reveal a door hidden behind the wall.",
+              "audioStart": 48.7,
+              "audioEnd": 51.775
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The room was filled with old records and maps of the town.",
+              "audioStart": 52.638,
+              "audioEnd": 55.513
+            },
+            {
+              "text": "Leo felt proud because he had finally discovered the truth.",
+              "audioStart": 56.375,
+              "audioEnd": 59.438
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0025.mp3",
+      "wordTimings": "audio/b1/st-0025.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo find the strange clock?",
+          "options": [
+            "In the school office",
+            "Behind a row of books",
+            "Under his desk"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened when the clock rang three times?",
+          "options": [
+            "The lights went out",
+            "He found a secret note in a book",
+            "A hidden door opened immediately"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What was inside the hidden room?",
+          "options": [
+            "Old records and maps",
+            "Money and gold",
+            "New school books"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo was a student.",
+              "audioStart": 0.106,
+              "audioEnd": 1.383
+            },
+            {
+              "text": "He loved the old school library.",
+              "audioStart": 2.347,
+              "audioEnd": 4.25
+            },
+            {
+              "text": "It was a quiet place.",
+              "audioStart": 5.208,
+              "audioEnd": 6.681
+            },
+            {
+              "text": "He read there in peace.",
+              "audioStart": 7.639,
+              "audioEnd": 9.069
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One afternoon, he found a clock.",
+              "audioStart": 10.028,
+              "audioEnd": 12.208
+            },
+            {
+              "text": "It was behind a large row of books.",
+              "audioStart": 13.167,
+              "audioEnd": 15.319
+            },
+            {
+              "text": "The clock was dark wood.",
+              "audioStart": 16.278,
+              "audioEnd": 17.778
+            },
+            {
+              "text": "It had golden hands.",
+              "audioStart": 18.736,
+              "audioEnd": 20.111
+            },
+            {
+              "text": "They moved on their own.",
+              "audioStart": 21.069,
+              "audioEnd": 22.333
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The clock made a sound at odd times.",
+              "audioStart": 23.292,
+              "audioEnd": 25.542
+            },
+            {
+              "text": "If it sounded three times, he found a note.",
+              "audioStart": 26.5,
+              "audioEnd": 29.194
+            },
+            {
+              "text": "The note was on page three of a book.",
+              "audioStart": 30.153,
+              "audioEnd": 32.222
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He wondered if the clock had a message.",
+              "audioStart": 33.181,
+              "audioEnd": 35.403
+            },
+            {
+              "text": "The message was about a secret room.",
+              "audioStart": 36.361,
+              "audioEnd": 38.375
+            },
+            {
+              "text": "The room was closed for many years.",
+              "audioStart": 39.333,
+              "audioEnd": 41.514
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo knew he must solve the mystery.",
+              "audioStart": 42.472,
+              "audioEnd": 44.597
+            },
+            {
+              "text": "He must finish before midnight.",
+              "audioStart": 45.556,
+              "audioEnd": 47.486
+            },
+            {
+              "text": "He thought the secret could change school history.",
+              "audioStart": 48.444,
+              "audioEnd": 51.069
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The clock began to sound twelve.",
+              "audioStart": 52.028,
+              "audioEnd": 53.944
+            },
+            {
+              "text": "Leo found the last clue.",
+              "audioStart": 54.903,
+              "audioEnd": 56.569
+            },
+            {
+              "text": "He pushed a heavy shelf.",
+              "audioStart": 57.528,
+              "audioEnd": 59.069
+            },
+            {
+              "text": "A door appeared behind the wall.",
+              "audioStart": 60.028,
+              "audioEnd": 61.847
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The room had old records.",
+              "audioStart": 62.806,
+              "audioEnd": 64.403
+            },
+            {
+              "text": "It had maps of the town.",
+              "audioStart": 65.361,
+              "audioEnd": 66.917
+            },
+            {
+              "text": "Leo felt proud.",
+              "audioStart": 67.875,
+              "audioEnd": 69.042
+            },
+            {
+              "text": "He finally discovered the truth.",
+              "audioStart": 70.0,
+              "audioEnd": 71.931
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0025.mp3",
+      "wordTimings": "audio/a2/st-0025.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo find the clock?",
+          "options": [
+            "In the school garden",
+            "Behind a row of books",
+            "In the teacher office"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened when the clock sounded three times?",
+          "options": [
+            "A door opened",
+            "He found a note",
+            "The school bell rang"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did Leo find inside the secret room?",
+          "options": [
+            "Old records and maps",
+            "A bag of money",
+            "Many new books"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo is a student.",
+              "audioStart": 0.106,
+              "audioEnd": 1.342
+            },
+            {
+              "text": "He loves the old school library.",
+              "audioStart": 2.306,
+              "audioEnd": 4.208
+            },
+            {
+              "text": "It is a quiet place.",
+              "audioStart": 5.167,
+              "audioEnd": 6.639
+            },
+            {
+              "text": "He reads there in peace.",
+              "audioStart": 7.597,
+              "audioEnd": 9.097
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One day, he finds a clock.",
+              "audioStart": 10.056,
+              "audioEnd": 12.111
+            },
+            {
+              "text": "It is behind a large book.",
+              "audioStart": 13.069,
+              "audioEnd": 14.694
+            },
+            {
+              "text": "The clock has wood and gold.",
+              "audioStart": 15.653,
+              "audioEnd": 17.25
+            },
+            {
+              "text": "The hands move on their own.",
+              "audioStart": 18.208,
+              "audioEnd": 19.694
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The clock makes a sound.",
+              "audioStart": 20.653,
+              "audioEnd": 22.208
+            },
+            {
+              "text": "It makes the sound at odd times.",
+              "audioStart": 23.167,
+              "audioEnd": 25.139
+            },
+            {
+              "text": "He hears the sound three times.",
+              "audioStart": 26.097,
+              "audioEnd": 28.056
+            },
+            {
+              "text": "He finds a note on page three.",
+              "audioStart": 29.014,
+              "audioEnd": 30.875
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The note is about a room.",
+              "audioStart": 31.833,
+              "audioEnd": 33.278
+            },
+            {
+              "text": "The room is old and hidden.",
+              "audioStart": 34.236,
+              "audioEnd": 35.597
+            },
+            {
+              "text": "It is closed for many years.",
+              "audioStart": 36.556,
+              "audioEnd": 38.389
+            },
+            {
+              "text": "Leo wants to find the room.",
+              "audioStart": 39.347,
+              "audioEnd": 41.014
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He must solve the mystery.",
+              "audioStart": 41.972,
+              "audioEnd": 43.583
+            },
+            {
+              "text": "He does it before twelve.",
+              "audioStart": 44.542,
+              "audioEnd": 46.153
+            },
+            {
+              "text": "He believes in the secret.",
+              "audioStart": 47.111,
+              "audioEnd": 48.681
+            },
+            {
+              "text": "It changes the school history.",
+              "audioStart": 49.639,
+              "audioEnd": 51.403
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The clock reaches twelve.",
+              "audioStart": 52.361,
+              "audioEnd": 53.903
+            },
+            {
+              "text": "Leo finds the last clue.",
+              "audioStart": 54.861,
+              "audioEnd": 56.611
+            },
+            {
+              "text": "He pushes a heavy shelf.",
+              "audioStart": 57.569,
+              "audioEnd": 59.208
+            },
+            {
+              "text": "He sees a door behind it.",
+              "audioStart": 60.167,
+              "audioEnd": 61.806
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The room has old records.",
+              "audioStart": 62.764,
+              "audioEnd": 64.375
+            },
+            {
+              "text": "It has maps of the town.",
+              "audioStart": 65.333,
+              "audioEnd": 66.861
+            },
+            {
+              "text": "Leo feels very proud now.",
+              "audioStart": 67.819,
+              "audioEnd": 69.583
+            },
+            {
+              "text": "He knows the truth.",
+              "audioStart": 70.542,
+              "audioEnd": 71.764
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0025.mp3",
+      "wordTimings": "audio/a1/st-0025.timings.json",
+      "quiz": [
+        {
+          "q": "Where does Leo find the clock?",
+          "options": [
+            "Behind a large book",
+            "Under a small desk",
+            "In the school garden"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happens when the clock sounds three times?",
+          "options": [
+            "The door opens",
+            "He finds a secret note",
+            "The library closes"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What is inside the hidden room?",
+          "options": [
+            "New computers",
+            "Old records and maps",
+            "Many gold clocks"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

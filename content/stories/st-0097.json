@@ -1,0 +1,833 @@
+{
+  "id": "st-0097",
+  "title": "Love on Sunny Island",
+  "genre": "romance",
+  "coverScene": "A young couple walking hand in hand along a secluded white sand beach with turquoise water and green palm trees in the background.",
+  "levels": {
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Emily arrived on the beautiful Sunny Island for a short summer holiday.",
+              "audioStart": 0.1,
+              "audioEnd": 3.612
+            },
+            {
+              "text": "The sun was bright and the water was clear.",
+              "audioStart": 4.475,
+              "audioEnd": 6.675
+            },
+            {
+              "text": "On her first day, she went to a local cafe where she met Jack.",
+              "audioStart": 7.537,
+              "audioEnd": 11.062
+            },
+            {
+              "text": "Jack was a tall man who had also come to the island for a week.",
+              "audioStart": 11.925,
+              "audioEnd": 15.075
+            },
+            {
+              "text": "They talked for a long time and felt a deep connection.",
+              "audioStart": 15.938,
+              "audioEnd": 18.788
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The next morning, they decided to walk along the coast to find a quiet place.",
+              "audioStart": 19.65,
+              "audioEnd": 23.938
+            },
+            {
+              "text": "They walked for hours and eventually lost their way.",
+              "audioStart": 24.8,
+              "audioEnd": 27.462
+            },
+            {
+              "text": "While they were searching for a path, they found a hidden beach that was surrounded by large trees.",
+              "audioStart": 28.325,
+              "audioEnd": 33.038
+            },
+            {
+              "text": "If they had not been lost, they would never have discovered this secret place.",
+              "audioStart": 33.9,
+              "audioEnd": 37.663
+            },
+            {
+              "text": "The beach was silent and perfect.",
+              "audioStart": 38.525,
+              "audioEnd": 40.312
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As the sun began to set, they realized they had to return to the hotel.",
+              "audioStart": 41.175,
+              "audioEnd": 45.138
+            },
+            {
+              "text": "They started to walk back through a narrow forest path.",
+              "audioStart": 46.0,
+              "audioEnd": 48.763
+            },
+            {
+              "text": "During the walk, they shared personal stories about their lives and dreams.",
+              "audioStart": 49.625,
+              "audioEnd": 53.425
+            },
+            {
+              "text": "Emily felt that she could tell Jack anything.",
+              "audioStart": 54.288,
+              "audioEnd": 56.525
+            },
+            {
+              "text": "He listened carefully as she spoke about her future plans.",
+              "audioStart": 57.388,
+              "audioEnd": 60.438
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They finally reached the main road when the stars were already in the sky.",
+              "audioStart": 61.3,
+              "audioEnd": 64.9
+            },
+            {
+              "text": "The night was warm and the air was soft.",
+              "audioStart": 65.763,
+              "audioEnd": 67.8
+            },
+            {
+              "text": "They stopped for a moment, and Emily wondered if they would see each other again.",
+              "audioStart": 68.662,
+              "audioEnd": 72.388
+            },
+            {
+              "text": "If the holiday ended tomorrow, would their friendship continue?",
+              "audioStart": 73.25,
+              "audioEnd": 76.338
+            },
+            {
+              "text": "Jack smiled and promised that they would stay in contact.",
+              "audioStart": 77.2,
+              "audioEnd": 79.912
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The last day of the holiday came too quickly.",
+              "audioStart": 80.775,
+              "audioEnd": 83.112
+            },
+            {
+              "text": "They spent the morning at the cafe where they first met.",
+              "audioStart": 83.975,
+              "audioEnd": 86.713
+            },
+            {
+              "text": "They exchanged phone numbers and promised to write to each other.",
+              "audioStart": 87.575,
+              "audioEnd": 90.537
+            },
+            {
+              "text": "Although they were sad to leave, they were happy that they had met.",
+              "audioStart": 91.4,
+              "audioEnd": 94.463
+            },
+            {
+              "text": "A new relationship had started on Sunny Island.",
+              "audioStart": 95.325,
+              "audioEnd": 97.838
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0097.mp3",
+      "wordTimings": "audio/b2/st-0097.timings.json",
+      "quiz": [
+        {
+          "q": "How did Emily and Jack find the hidden beach?",
+          "options": [
+            "They followed a map.",
+            "They got lost while walking.",
+            "A local person told them about it."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did they do while walking back to the hotel?",
+          "options": [
+            "They shared personal stories.",
+            "They argued about the path.",
+            "They listened to music."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened at the end of the holiday?",
+          "options": [
+            "They decided never to meet again.",
+            "They exchanged phone numbers.",
+            "They moved to the island together."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Emily arrived on the beautiful Sunny Island for a short summer holiday.",
+              "audioStart": 0.1,
+              "audioEnd": 3.612
+            },
+            {
+              "text": "The sun was bright and the water was clear.",
+              "audioStart": 4.475,
+              "audioEnd": 6.675
+            },
+            {
+              "text": "On her first day, she went to a local cafe where she met Jack.",
+              "audioStart": 7.537,
+              "audioEnd": 11.062
+            },
+            {
+              "text": "Jack was a tall man who had also come to the island for a week.",
+              "audioStart": 11.925,
+              "audioEnd": 15.075
+            },
+            {
+              "text": "They talked for a long time and felt a deep connection.",
+              "audioStart": 15.938,
+              "audioEnd": 18.788
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The next morning, they decided to walk along the coast to find a quiet place.",
+              "audioStart": 19.65,
+              "audioEnd": 23.938
+            },
+            {
+              "text": "They walked for hours and eventually lost their way.",
+              "audioStart": 24.8,
+              "audioEnd": 27.462
+            },
+            {
+              "text": "While they were searching for a path, they found a hidden beach.",
+              "audioStart": 28.325,
+              "audioEnd": 31.212
+            },
+            {
+              "text": "Large trees surrounded the beach.",
+              "audioStart": 32.075,
+              "audioEnd": 33.8
+            },
+            {
+              "text": "If they had not been lost, they would never have discovered this secret place.",
+              "audioStart": 34.663,
+              "audioEnd": 38.425
+            },
+            {
+              "text": "The beach was silent and perfect.",
+              "audioStart": 39.288,
+              "audioEnd": 41.075
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As the sun began to set, they realized they had to return to the hotel.",
+              "audioStart": 41.938,
+              "audioEnd": 45.9
+            },
+            {
+              "text": "They started to walk back through a narrow forest path.",
+              "audioStart": 46.763,
+              "audioEnd": 49.525
+            },
+            {
+              "text": "During the walk, they shared personal stories about their lives and dreams.",
+              "audioStart": 50.388,
+              "audioEnd": 54.188
+            },
+            {
+              "text": "Emily felt that she could tell Jack anything.",
+              "audioStart": 55.05,
+              "audioEnd": 57.288
+            },
+            {
+              "text": "He listened carefully as she spoke about her future plans.",
+              "audioStart": 58.15,
+              "audioEnd": 61.2
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They finally reached the main road when the stars were already in the sky.",
+              "audioStart": 62.062,
+              "audioEnd": 65.662
+            },
+            {
+              "text": "The night was warm and the air was soft.",
+              "audioStart": 66.525,
+              "audioEnd": 68.562
+            },
+            {
+              "text": "They stopped for a moment, and Emily wondered if they would see each other again.",
+              "audioStart": 69.425,
+              "audioEnd": 73.15
+            },
+            {
+              "text": "If the holiday ended tomorrow, would their friendship continue?",
+              "audioStart": 74.013,
+              "audioEnd": 77.1
+            },
+            {
+              "text": "Jack smiled and promised that they would stay in contact.",
+              "audioStart": 77.963,
+              "audioEnd": 80.675
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The last day of the holiday came too quickly.",
+              "audioStart": 81.537,
+              "audioEnd": 83.875
+            },
+            {
+              "text": "They spent the morning at the cafe where they first met.",
+              "audioStart": 84.737,
+              "audioEnd": 87.475
+            },
+            {
+              "text": "They exchanged phone numbers and promised to write to each other.",
+              "audioStart": 88.338,
+              "audioEnd": 91.3
+            },
+            {
+              "text": "Although they were sad to leave, they were happy that they had met.",
+              "audioStart": 92.162,
+              "audioEnd": 95.225
+            },
+            {
+              "text": "A new relationship had started on Sunny Island.",
+              "audioStart": 96.088,
+              "audioEnd": 98.6
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0097.mp3",
+      "wordTimings": "audio/b1/st-0097.timings.json",
+      "quiz": [
+        {
+          "q": "How did Emily and Jack find the secret beach?",
+          "options": [
+            "They looked for a map.",
+            "They got lost while walking.",
+            "A local person showed them."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did Jack promise Emily?",
+          "options": [
+            "To visit her in her home city.",
+            "To stay in contact with her.",
+            "To meet her at the hotel tomorrow."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Where did Emily and Jack first meet?",
+          "options": [
+            "At a local cafe.",
+            "On a hidden beach.",
+            "At their hotel."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Emily arrived on Sunny Island for a summer holiday.",
+              "audioStart": 0.106,
+              "audioEnd": 3.161
+            },
+            {
+              "text": "The sun was bright and the water was clear.",
+              "audioStart": 4.125,
+              "audioEnd": 6.569
+            },
+            {
+              "text": "On the first day, she went to a local cafe.",
+              "audioStart": 7.528,
+              "audioEnd": 10.292
+            },
+            {
+              "text": "She met a man named Jack there.",
+              "audioStart": 11.25,
+              "audioEnd": 13.097
+            },
+            {
+              "text": "Jack was also on the island for a week.",
+              "audioStart": 14.056,
+              "audioEnd": 16.306
+            },
+            {
+              "text": "They talked for a long time.",
+              "audioStart": 17.264,
+              "audioEnd": 18.944
+            },
+            {
+              "text": "They felt a good connection.",
+              "audioStart": 19.903,
+              "audioEnd": 21.431
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The next morning, they walked along the coast.",
+              "audioStart": 22.389,
+              "audioEnd": 25.208
+            },
+            {
+              "text": "They wanted to find a quiet place.",
+              "audioStart": 26.167,
+              "audioEnd": 28.222
+            },
+            {
+              "text": "They walked for hours and lost their way.",
+              "audioStart": 29.181,
+              "audioEnd": 31.569
+            },
+            {
+              "text": "They found a hidden beach with large trees.",
+              "audioStart": 32.528,
+              "audioEnd": 34.875
+            },
+            {
+              "text": "The beach was silent and perfect.",
+              "audioStart": 35.833,
+              "audioEnd": 37.819
+            },
+            {
+              "text": "They were happy they got lost.",
+              "audioStart": 38.778,
+              "audioEnd": 40.528
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The sun began to set.",
+              "audioStart": 41.486,
+              "audioEnd": 43.069
+            },
+            {
+              "text": "They needed to return to the hotel.",
+              "audioStart": 44.028,
+              "audioEnd": 45.972
+            },
+            {
+              "text": "They walked through a narrow forest path.",
+              "audioStart": 46.931,
+              "audioEnd": 49.194
+            },
+            {
+              "text": "They shared stories about their lives and dreams.",
+              "audioStart": 50.153,
+              "audioEnd": 52.861
+            },
+            {
+              "text": "Emily felt she could tell Jack anything.",
+              "audioStart": 53.819,
+              "audioEnd": 56.167
+            },
+            {
+              "text": "He listened as she spoke about her future plans.",
+              "audioStart": 57.125,
+              "audioEnd": 59.903
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They reached the main road at night.",
+              "audioStart": 60.861,
+              "audioEnd": 62.736
+            },
+            {
+              "text": "The stars were in the sky.",
+              "audioStart": 63.694,
+              "audioEnd": 65.208
+            },
+            {
+              "text": "The air was soft.",
+              "audioStart": 66.167,
+              "audioEnd": 67.333
+            },
+            {
+              "text": "They stopped for a moment.",
+              "audioStart": 68.292,
+              "audioEnd": 69.708
+            },
+            {
+              "text": "Emily wondered if they would see each other again.",
+              "audioStart": 70.667,
+              "audioEnd": 73.083
+            },
+            {
+              "text": "Jack smiled and promised they would stay in contact.",
+              "audioStart": 74.042,
+              "audioEnd": 76.833
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The last day of the holiday came quickly.",
+              "audioStart": 77.792,
+              "audioEnd": 80.139
+            },
+            {
+              "text": "They spent the morning at the first cafe.",
+              "audioStart": 81.097,
+              "audioEnd": 83.375
+            },
+            {
+              "text": "They shared phone numbers.",
+              "audioStart": 84.333,
+              "audioEnd": 85.806
+            },
+            {
+              "text": "They promised to write to each other.",
+              "audioStart": 86.764,
+              "audioEnd": 88.597
+            },
+            {
+              "text": "They were sad to leave.",
+              "audioStart": 89.556,
+              "audioEnd": 90.903
+            },
+            {
+              "text": "But they were happy they met.",
+              "audioStart": 91.861,
+              "audioEnd": 93.389
+            },
+            {
+              "text": "A new love started on Sunny Island.",
+              "audioStart": 94.347,
+              "audioEnd": 96.5
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0097.mp3",
+      "wordTimings": "audio/a2/st-0097.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Emily and Jack first meet?",
+          "options": [
+            "On the beach",
+            "At a local cafe",
+            "At their hotel"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did they find the hidden beach?",
+          "options": [
+            "They looked for it on a map",
+            "They got lost while walking",
+            "A local person showed them"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did they promise to do at the end?",
+          "options": [
+            "Stay in contact",
+            "Meet again next year",
+            "Live on the island"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Emily arrives on Sunny Island.",
+              "audioStart": 0.106,
+              "audioEnd": 2.092
+            },
+            {
+              "text": "The sun is bright.",
+              "audioStart": 3.056,
+              "audioEnd": 4.264
+            },
+            {
+              "text": "The water is clear.",
+              "audioStart": 5.222,
+              "audioEnd": 6.472
+            },
+            {
+              "text": "She goes to a local cafe.",
+              "audioStart": 7.431,
+              "audioEnd": 9.153
+            },
+            {
+              "text": "She meets Jack there.",
+              "audioStart": 10.111,
+              "audioEnd": 11.417
+            },
+            {
+              "text": "Jack is a tall man.",
+              "audioStart": 12.375,
+              "audioEnd": 13.681
+            },
+            {
+              "text": "He stays for a week.",
+              "audioStart": 14.639,
+              "audioEnd": 15.986
+            },
+            {
+              "text": "They talk for a long time.",
+              "audioStart": 16.944,
+              "audioEnd": 18.569
+            },
+            {
+              "text": "They feel a good connection.",
+              "audioStart": 19.528,
+              "audioEnd": 21.069
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They walk along the coast.",
+              "audioStart": 22.028,
+              "audioEnd": 23.625
+            },
+            {
+              "text": "They look for a quiet place.",
+              "audioStart": 24.583,
+              "audioEnd": 26.333
+            },
+            {
+              "text": "They walk for hours.",
+              "audioStart": 27.292,
+              "audioEnd": 28.639
+            },
+            {
+              "text": "They lose their way.",
+              "audioStart": 29.597,
+              "audioEnd": 30.778
+            },
+            {
+              "text": "They find a hidden beach.",
+              "audioStart": 31.736,
+              "audioEnd": 33.111
+            },
+            {
+              "text": "Large trees are around it.",
+              "audioStart": 34.069,
+              "audioEnd": 35.653
+            },
+            {
+              "text": "The beach is perfect.",
+              "audioStart": 36.611,
+              "audioEnd": 37.944
+            },
+            {
+              "text": "It is a secret place.",
+              "audioStart": 38.903,
+              "audioEnd": 40.403
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The sun begins to set.",
+              "audioStart": 41.361,
+              "audioEnd": 42.972
+            },
+            {
+              "text": "They return to the hotel.",
+              "audioStart": 43.931,
+              "audioEnd": 45.431
+            },
+            {
+              "text": "They walk through a forest.",
+              "audioStart": 46.389,
+              "audioEnd": 47.917
+            },
+            {
+              "text": "They share personal stories.",
+              "audioStart": 48.875,
+              "audioEnd": 50.667
+            },
+            {
+              "text": "They talk about their dreams.",
+              "audioStart": 51.625,
+              "audioEnd": 53.25
+            },
+            {
+              "text": "Emily tells Jack her plans.",
+              "audioStart": 54.208,
+              "audioEnd": 56.222
+            },
+            {
+              "text": "Jack listens well.",
+              "audioStart": 57.181,
+              "audioEnd": 58.403
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They reach the main road.",
+              "audioStart": 59.361,
+              "audioEnd": 60.778
+            },
+            {
+              "text": "The stars are in the sky.",
+              "audioStart": 61.736,
+              "audioEnd": 63.222
+            },
+            {
+              "text": "The night is warm.",
+              "audioStart": 64.181,
+              "audioEnd": 65.306
+            },
+            {
+              "text": "They stop for a moment.",
+              "audioStart": 66.264,
+              "audioEnd": 67.639
+            },
+            {
+              "text": "Emily thinks about the future.",
+              "audioStart": 68.597,
+              "audioEnd": 70.431
+            },
+            {
+              "text": "Will they see each other again?",
+              "audioStart": 71.389,
+              "audioEnd": 72.861
+            },
+            {
+              "text": "Jack promises to stay in contact.",
+              "audioStart": 73.819,
+              "audioEnd": 76.042
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The last day comes soon.",
+              "audioStart": 77.0,
+              "audioEnd": 78.556
+            },
+            {
+              "text": "They go to the cafe.",
+              "audioStart": 79.514,
+              "audioEnd": 80.819
+            },
+            {
+              "text": "They share phone numbers.",
+              "audioStart": 81.778,
+              "audioEnd": 83.222
+            },
+            {
+              "text": "They want to write again.",
+              "audioStart": 84.181,
+              "audioEnd": 85.486
+            },
+            {
+              "text": "They are sad to leave.",
+              "audioStart": 86.444,
+              "audioEnd": 87.75
+            },
+            {
+              "text": "They are happy they meet.",
+              "audioStart": 88.708,
+              "audioEnd": 90.014
+            },
+            {
+              "text": "A new love starts now.",
+              "audioStart": 90.972,
+              "audioEnd": 92.389
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0097.mp3",
+      "wordTimings": "audio/a1/st-0097.timings.json",
+      "quiz": [
+        {
+          "q": "Where do Emily and Jack first meet?",
+          "options": [
+            "At the beach",
+            "At a cafe",
+            "At the hotel"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How do they find the secret beach?",
+          "options": [
+            "They look for a map",
+            "They get lost",
+            "A local man shows them"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What do they exchange on the last day?",
+          "options": [
+            "Phone numbers",
+            "Books",
+            "Money"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  }
+}

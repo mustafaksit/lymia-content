@@ -1,0 +1,728 @@
+{
+  "id": "st-0028",
+  "title": "The Hidden Mountain Map",
+  "genre": "adventure",
+  "coverScene": "A young boy and a girl stand in a dusty library, looking at a golden, glowing map that reveals a mountain path.",
+  "levels": {
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo and Mia were students who loved to spend time in the old town library.",
+              "audioStart": 0.1,
+              "audioEnd": 3.788
+            },
+            {
+              "text": "One day, they found a dusty book which contained a hidden map.",
+              "audioStart": 4.65,
+              "audioEnd": 7.838
+            },
+            {
+              "text": "This map showed a secret path that led to a cave high in the mountains.",
+              "audioStart": 8.7,
+              "audioEnd": 12.238
+            },
+            {
+              "text": "If they reached the cave by sunset, they might find a great treasure.",
+              "audioStart": 13.1,
+              "audioEnd": 16.587
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The two friends walked quickly along the narrow road toward the high mountains.",
+              "audioStart": 17.45,
+              "audioEnd": 21.2
+            },
+            {
+              "text": "After several hours, the sun began to fall behind the peaks.",
+              "audioStart": 22.062,
+              "audioEnd": 25.475
+            },
+            {
+              "text": "Suddenly, they saw a row of blue stones that glowed in the dark.",
+              "audioStart": 26.337,
+              "audioEnd": 29.613
+            },
+            {
+              "text": "These stones acted as a guide through the cold forest.",
+              "audioStart": 30.475,
+              "audioEnd": 33.188
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo wondered if they would ever find the treasure before night.",
+              "audioStart": 34.05,
+              "audioEnd": 36.962
+            },
+            {
+              "text": "Mia told him that they should keep moving forward despite their fear.",
+              "audioStart": 37.825,
+              "audioEnd": 41.087
+            },
+            {
+              "text": "They followed the blue light until they reached a small opening in the rock.",
+              "audioStart": 41.95,
+              "audioEnd": 45.325
+            },
+            {
+              "text": "The cave was filled with golden objects which had been hidden for many years.",
+              "audioStart": 46.188,
+              "audioEnd": 49.85
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They realized that the treasure was more than just money.",
+              "audioStart": 50.712,
+              "audioEnd": 53.312
+            },
+            {
+              "text": "It was a collection of history from a long time ago.",
+              "audioStart": 54.175,
+              "audioEnd": 56.737
+            },
+            {
+              "text": "If they had not followed the stones, this secret would remain lost forever.",
+              "audioStart": 57.6,
+              "audioEnd": 61.362
+            },
+            {
+              "text": "They felt very proud because they had completed the difficult task.",
+              "audioStart": 62.225,
+              "audioEnd": 65.513
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The sun finally disappeared, so the cave became very dark.",
+              "audioStart": 66.375,
+              "audioEnd": 69.85
+            },
+            {
+              "text": "They used their lights to look at the beautiful items one last time.",
+              "audioStart": 70.713,
+              "audioEnd": 74.05
+            },
+            {
+              "text": "Everything they saw was perfect and filled with mystery.",
+              "audioStart": 74.912,
+              "audioEnd": 77.638
+            },
+            {
+              "text": "Finally, the two friends decided to return home before it was too late.",
+              "audioStart": 78.5,
+              "audioEnd": 82.562
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0028.mp3",
+      "wordTimings": "audio/b2/st-0028.timings.json",
+      "quiz": [
+        {
+          "q": "What did Leo and Mia find in the library?",
+          "options": [
+            "A bag of gold",
+            "A map of a secret cave",
+            "A mysterious old computer"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What helped them find the path in the dark?",
+          "options": [
+            "Glowing blue stones",
+            "A bright red light",
+            "The moon in the sky"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the friends feel about the treasure?",
+          "options": [
+            "They were sad to find it",
+            "They only cared about the money",
+            "They felt proud of their adventure"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo and Mia were students who loved the old town library.",
+              "audioStart": 0.1,
+              "audioEnd": 2.987
+            },
+            {
+              "text": "One day, they found a dusty book with a hidden map.",
+              "audioStart": 3.85,
+              "audioEnd": 6.513
+            },
+            {
+              "text": "This map showed a secret path to a cave high in the mountain.",
+              "audioStart": 7.375,
+              "audioEnd": 10.35
+            },
+            {
+              "text": "If they reached the cave by sunset, they might find great treasure.",
+              "audioStart": 11.213,
+              "audioEnd": 14.675
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The two friends walked quickly along the narrow road toward the high mountain.",
+              "audioStart": 15.537,
+              "audioEnd": 19.163
+            },
+            {
+              "text": "After several hours, the sun began to fall behind the peaks.",
+              "audioStart": 20.025,
+              "audioEnd": 23.438
+            },
+            {
+              "text": "Suddenly, they saw a row of blue stones that glowed in the dark.",
+              "audioStart": 24.3,
+              "audioEnd": 27.575
+            },
+            {
+              "text": "These stones acted as a guide through the cold forest.",
+              "audioStart": 28.438,
+              "audioEnd": 31.15
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo wondered if they would find the treasure before night.",
+              "audioStart": 32.013,
+              "audioEnd": 34.638
+            },
+            {
+              "text": "Mia told him that they should keep moving forward despite their fear.",
+              "audioStart": 35.5,
+              "audioEnd": 38.763
+            },
+            {
+              "text": "They followed the blue light until they reached a small opening in the rock.",
+              "audioStart": 39.625,
+              "audioEnd": 43.0
+            },
+            {
+              "text": "The cave was filled with golden objects that had been hidden for many years.",
+              "audioStart": 43.862,
+              "audioEnd": 47.525
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They realized that the treasure was more than just money.",
+              "audioStart": 48.388,
+              "audioEnd": 50.987
+            },
+            {
+              "text": "It was a collection of history from a long time ago.",
+              "audioStart": 51.85,
+              "audioEnd": 54.413
+            },
+            {
+              "text": "If they had not followed the stones, this secret would remain lost forever.",
+              "audioStart": 55.275,
+              "audioEnd": 59.038
+            },
+            {
+              "text": "They felt very proud because they had completed the difficult task.",
+              "audioStart": 59.9,
+              "audioEnd": 63.188
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The sun finally disappeared, so the cave became very dark.",
+              "audioStart": 64.05,
+              "audioEnd": 67.525
+            },
+            {
+              "text": "They used their lights to look at the beautiful items one last time.",
+              "audioStart": 68.388,
+              "audioEnd": 71.725
+            },
+            {
+              "text": "Everything they saw was perfect and filled with mystery.",
+              "audioStart": 72.588,
+              "audioEnd": 75.312
+            },
+            {
+              "text": "Finally, the two friends decided to return home before it was too late.",
+              "audioStart": 76.175,
+              "audioEnd": 80.237
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0028.mp3",
+      "wordTimings": "audio/b1/st-0028.timings.json",
+      "quiz": [
+        {
+          "q": "What did the students find in the library?",
+          "options": [
+            "A map to a secret cave",
+            "A box of gold coins",
+            "A book about mountain history"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the friends find the cave in the dark?",
+          "options": [
+            "They used a bright map",
+            "They followed glowing blue stones",
+            "They waited for the sun to rise"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What was the treasure made of?",
+          "options": [
+            "Only gold coins",
+            "Beautiful items of history",
+            "Old maps and books"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo and Mia were students.",
+              "audioStart": 0.106,
+              "audioEnd": 1.842
+            },
+            {
+              "text": "They loved the old town library.",
+              "audioStart": 2.806,
+              "audioEnd": 4.694
+            },
+            {
+              "text": "One day, they found a dusty book.",
+              "audioStart": 5.653,
+              "audioEnd": 7.861
+            },
+            {
+              "text": "It had a secret map inside.",
+              "audioStart": 8.819,
+              "audioEnd": 10.597
+            },
+            {
+              "text": "The map showed a path to a cave.",
+              "audioStart": 11.556,
+              "audioEnd": 13.542
+            },
+            {
+              "text": "The cave was high in the mountains.",
+              "audioStart": 14.5,
+              "audioEnd": 16.389
+            },
+            {
+              "text": "They could find treasure if they reached it by sunset.",
+              "audioStart": 17.347,
+              "audioEnd": 20.194
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The two friends walked quickly along the road.",
+              "audioStart": 21.153,
+              "audioEnd": 23.694
+            },
+            {
+              "text": "They went toward the high mountains.",
+              "audioStart": 24.653,
+              "audioEnd": 26.361
+            },
+            {
+              "text": "After hours, the sun began to fall.",
+              "audioStart": 27.319,
+              "audioEnd": 29.931
+            },
+            {
+              "text": "Suddenly, they saw blue stones.",
+              "audioStart": 30.889,
+              "audioEnd": 33.083
+            },
+            {
+              "text": "The stones glowed in the dark.",
+              "audioStart": 34.042,
+              "audioEnd": 35.708
+            },
+            {
+              "text": "They acted as a guide through the cold forest.",
+              "audioStart": 36.667,
+              "audioEnd": 39.194
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo wondered if they would find the treasure.",
+              "audioStart": 40.153,
+              "audioEnd": 42.389
+            },
+            {
+              "text": "Mia told him to keep moving forward.",
+              "audioStart": 43.347,
+              "audioEnd": 45.486
+            },
+            {
+              "text": "They did not feel fear.",
+              "audioStart": 46.444,
+              "audioEnd": 47.861
+            },
+            {
+              "text": "They followed the blue light.",
+              "audioStart": 48.819,
+              "audioEnd": 50.347
+            },
+            {
+              "text": "They reached a small opening in the rock.",
+              "audioStart": 51.306,
+              "audioEnd": 53.472
+            },
+            {
+              "text": "The cave was full of golden objects.",
+              "audioStart": 54.431,
+              "audioEnd": 56.625
+            },
+            {
+              "text": "These had been hidden for many years.",
+              "audioStart": 57.583,
+              "audioEnd": 59.639
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They realized the treasure was more than money.",
+              "audioStart": 60.597,
+              "audioEnd": 63.014
+            },
+            {
+              "text": "It was a collection of history.",
+              "audioStart": 63.972,
+              "audioEnd": 65.736
+            },
+            {
+              "text": "They felt very proud.",
+              "audioStart": 66.694,
+              "audioEnd": 68.056
+            },
+            {
+              "text": "They finished the difficult task.",
+              "audioStart": 69.014,
+              "audioEnd": 70.972
+            },
+            {
+              "text": "If they did not follow the stones, it would stay lost.",
+              "audioStart": 71.931,
+              "audioEnd": 75.028
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The sun disappeared and the cave became dark.",
+              "audioStart": 75.986,
+              "audioEnd": 78.667
+            },
+            {
+              "text": "They used their lights.",
+              "audioStart": 79.625,
+              "audioEnd": 80.958
+            },
+            {
+              "text": "They looked at the beautiful items one last time.",
+              "audioStart": 81.917,
+              "audioEnd": 84.708
+            },
+            {
+              "text": "Everything was perfect.",
+              "audioStart": 85.667,
+              "audioEnd": 87.097
+            },
+            {
+              "text": "The two friends decided to return home.",
+              "audioStart": 88.056,
+              "audioEnd": 90.389
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0028.mp3",
+      "wordTimings": "audio/a2/st-0028.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo and Mia find the map?",
+          "options": [
+            "In the mountains",
+            "In the library",
+            "In their home"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What helped the friends find the cave in the dark?",
+          "options": [
+            "A bright light",
+            "Blue stones",
+            "A map of the forest"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What was the treasure inside the cave?",
+          "options": [
+            "Money only",
+            "Old golden objects",
+            "A new book"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo and Mia are students.",
+              "audioStart": 0.106,
+              "audioEnd": 1.856
+            },
+            {
+              "text": "They love the old town library.",
+              "audioStart": 2.819,
+              "audioEnd": 4.667
+            },
+            {
+              "text": "They find a dusty old book.",
+              "audioStart": 5.625,
+              "audioEnd": 7.292
+            },
+            {
+              "text": "It has a secret map inside.",
+              "audioStart": 8.25,
+              "audioEnd": 10.056
+            },
+            {
+              "text": "The map shows a path.",
+              "audioStart": 11.014,
+              "audioEnd": 12.444
+            },
+            {
+              "text": "It goes to a high cave.",
+              "audioStart": 13.403,
+              "audioEnd": 14.903
+            },
+            {
+              "text": "They want to find great treasure.",
+              "audioStart": 15.861,
+              "audioEnd": 17.639
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The two friends walk quickly.",
+              "audioStart": 18.597,
+              "audioEnd": 20.361
+            },
+            {
+              "text": "They walk along a narrow road.",
+              "audioStart": 21.319,
+              "audioEnd": 23.056
+            },
+            {
+              "text": "The sun begins to fall down.",
+              "audioStart": 24.014,
+              "audioEnd": 25.861
+            },
+            {
+              "text": "They see blue stones.",
+              "audioStart": 26.819,
+              "audioEnd": 28.222
+            },
+            {
+              "text": "The stones glow in the dark.",
+              "audioStart": 29.181,
+              "audioEnd": 30.792
+            },
+            {
+              "text": "The stones show the way.",
+              "audioStart": 31.75,
+              "audioEnd": 33.069
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo thinks about the dark night.",
+              "audioStart": 34.028,
+              "audioEnd": 35.944
+            },
+            {
+              "text": "Mia says they must move forward.",
+              "audioStart": 36.903,
+              "audioEnd": 38.806
+            },
+            {
+              "text": "They follow the blue light.",
+              "audioStart": 39.764,
+              "audioEnd": 41.25
+            },
+            {
+              "text": "They reach a small opening.",
+              "audioStart": 42.208,
+              "audioEnd": 43.681
+            },
+            {
+              "text": "The cave has many golden things.",
+              "audioStart": 44.639,
+              "audioEnd": 46.736
+            },
+            {
+              "text": "The gold is very old.",
+              "audioStart": 47.694,
+              "audioEnd": 49.097
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They feel very proud now.",
+              "audioStart": 50.056,
+              "audioEnd": 51.556
+            },
+            {
+              "text": "This is a part of history.",
+              "audioStart": 52.514,
+              "audioEnd": 54.014
+            },
+            {
+              "text": "The secret is not lost.",
+              "audioStart": 54.972,
+              "audioEnd": 56.583
+            },
+            {
+              "text": "They finish the difficult task.",
+              "audioStart": 57.542,
+              "audioEnd": 59.444
+            },
+            {
+              "text": "The sun goes away.",
+              "audioStart": 60.403,
+              "audioEnd": 61.667
+            },
+            {
+              "text": "The cave is very dark.",
+              "audioStart": 62.625,
+              "audioEnd": 64.083
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They look at the items again.",
+              "audioStart": 65.042,
+              "audioEnd": 66.653
+            },
+            {
+              "text": "Everything is very special.",
+              "audioStart": 67.611,
+              "audioEnd": 69.319
+            },
+            {
+              "text": "The two friends feel happy.",
+              "audioStart": 70.278,
+              "audioEnd": 71.847
+            },
+            {
+              "text": "They decide to return home now.",
+              "audioStart": 72.806,
+              "audioEnd": 74.597
+            },
+            {
+              "text": "They walk back home together.",
+              "audioStart": 75.556,
+              "audioEnd": 77.222
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0028.mp3",
+      "wordTimings": "audio/a1/st-0028.timings.json",
+      "quiz": [
+        {
+          "q": "What do Leo and Mia find in the book?",
+          "options": [
+            "A gold coin",
+            "A secret map",
+            "An old story"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What shows the way to the cave?",
+          "options": [
+            "The sun",
+            "A narrow road",
+            "Glowing blue stones"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What do the friends find in the cave?",
+          "options": [
+            "Old history items",
+            "A lot of money",
+            "A new book"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  }
+}
