@@ -65,14 +65,30 @@ jsDelivr `@main` etiketini 12 saate kadar cache'leyebilir. Anında tazelemek iç
 
 ## Seviye kuralları (validate-level bunları denetler)
 
-| Seviye | Havuz | Maks cümle | Uzunluk |
-|---|---|---|---|
-| A1 | NGSL ilk 500 + özel isimler | 8 kelime | 250-400 |
-| A2 | NGSL ilk 1000 | 12 kelime | 400-600 |
-| B1 | NGSL ilk 2000 | 16 kelime | 600-900 |
-| B2 | NGSL ilk 2800 | 22 kelime | 900-1400 |
+| Seviye | Havuz | Maks cümle | Uzunluk | Süre (200 kel/dk) | Kapsam |
+|---|---|---|---|---|---|
+| A1 | NGSL ilk 500 + özel isimler | 8 kelime | 250-400 | 1-2 dk | %95 |
+| A2 | NGSL ilk 1000 | 12 kelime | 400-600 | 2-3 dk | %95 |
+| B1 | NGSL ilk 2000 | 16 kelime | 600-900 | 3-4 dk | %95 |
+| B2 | NGSL ilk 2800 | 22 kelime | 900-1400 | 4-5 dk | %95 |
+| C1 | NGSL 2800 + %10 ileri kelime | 32 kelime | 1000-1700 | 5-8 dk | %90 |
 
-Kural: kelimelerin en az %95'i havuzda olmalı (özel isimler ve NGSL ek listesi — sayılar, günler, aylar — havuza dahildir; çekim ekleri tanınır).
+Kural: kelimelerin en az seviyenin kapsam eşiği kadarı havuzda olmalı (özel isimler ve NGSL ek listesi — sayılar, günler, aylar — havuza dahildir; çekim ekleri tanınır). C1 üretim seti değildir (`LEVELS` A1-B2); kendi üretim yolu v2 Faz 1/3'te açılır. Ayrıntı: app repo `docs/02-CONTENT-SPEC.md`.
+
+## İçerik denetimi (Faz 0)
+
+```bash
+npm run audit                                   # tüm katalog: schema + 4+ güvenlik + kalite
+node pipeline/audit.mjs --story content/stories/st-0001.json
+npm run audit:strict                            # seviye sapmasını da hata sayar (yeni içerik)
+```
+
+Denetim CI'da (`.github/workflows/content-audit.yml`) her push/PR'da çalışır. İki şiddet:
+
+- **HATA (hard-fail, CI'ı kırar):** schema bozukluğu; içerik güvenliği **Tier 1** — 4+ yaş derecesini bozacak kelime/deyim (küfür, açık cinsellik, sert uyuşturucu, self-harm). Kaynak liste: `wordlists/forbidden-content.json`.
+- **UYARI (bloklamaz):** seviye kuralı sapması (kapsam/uzunluk/cümle); güvenlik **Tier 2** — şiddet/korku terimleri (horror/mystery'de meşru, insan gözü için raporlanır); okuma süresi bandı.
+
+Eşleşme token/lemma bazlıdır (ileri-yönde çekim üretimi): "class" içinde "ass", "did" içinde "die" gibi yanlış-pozitifler üretmez.
 
 ## Kelime listeleri ve lisans
 

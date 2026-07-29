@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "audit": "node pipeline/audit.mjs",
+    "audit:strict": "node pipeline/audit.mjs --strict",
+    "test": "node pipeline/audit.mjs"
   },
   "keywords": [],
   "author": "",

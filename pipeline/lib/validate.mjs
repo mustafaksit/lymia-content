@@ -34,12 +34,13 @@ export function validateLevel(levelData, level) {
   }
 
   const coverage = totalWords === 0 ? 0 : (totalWords - violationCount) / totalWords;
+  const minCoverage = rule.minCoverage ?? MIN_COVERAGE;
   let lengthIssue = null;
   if (totalWords < rule.minWords) lengthIssue = `too short: ${totalWords} < ${rule.minWords}`;
   if (totalWords > rule.maxWords) lengthIssue = `too long: ${totalWords} > ${rule.maxWords}`;
 
   return {
-    ok: coverage >= MIN_COVERAGE && longSentences.length === 0 && lengthIssue === null,
+    ok: coverage >= minCoverage && longSentences.length === 0 && lengthIssue === null,
     coverage,
     wordCount: totalWords,
     violations: [...violations.entries()].map(([word, count]) => ({ word, count })),

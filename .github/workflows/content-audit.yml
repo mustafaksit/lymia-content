@@ -1,0 +1,44 @@
+name: Content Audit
+
+# LYMIA Faz 0 gate. The blocking job enforces structural schema + Apple 4+
+# content safety (Tier 1). A second, non-blocking job surfaces level-rule and
+# reading-time drift (--strict) as an advisory signal without failing the build.
+
+on:
+  push:
+    branches: ['**']
+    paths:
+      - 'content/stories/**'
+      - 'wordlists/**'
+      - 'pipeline/**'
+      - '.github/workflows/content-audit.yml'
+  pull_request:
+    paths:
+      - 'content/stories/**'
+      - 'wordlists/**'
+      - 'pipeline/**'
+  workflow_dispatch:
+
+jobs:
+  audit:
+    name: Schema + 4+ safety (blocking)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Run content audit
+        run: node pipeline/audit.mjs
+
+  audit-strict:
+    name: Level + reading-time drift (advisory)
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Run strict audit (informational)
+        run: node pipeline/audit.mjs --strict

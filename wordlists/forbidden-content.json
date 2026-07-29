@@ -1,0 +1,53 @@
+{
+  "_doc": "Content-safety word lists for the LYMIA audit (Apple 4+ compliance). Entries are BASE LEMMAS matched against tokenized words and their inflections, so 'kill' also catches 'killed'/'killing'. Tier 1 is a HARD FAIL: these must never appear in a 4+ app. Tier 2 is REVIEW-ONLY: legitimate in the app's horror/mystery genres at a spooky level, surfaced for a human compliance eye but not blocking. Phrases are matched as whole word-bounded substrings. Keep both lists broad; prefer moving an ambiguous everyday word (naked, weed, crack, shot) to Tier 2 rather than hard-failing real stories.",
+  "tier1_hardFail": {
+    "profanity": [
+      "fuck", "motherfucker", "shit", "bullshit", "bitch", "bastard",
+      "asshole", "arsehole", "cunt", "dick", "prick", "slut", "whore",
+      "wanker", "bollocks", "twat", "douchebag", "jerkoff", "dickhead",
+      "cocksucker", "faggot", "nigger", "retard"
+    ],
+    "sexual": [
+      "sex", "sexual", "sexually", "penis", "vagina", "orgasm", "orgasmic",
+      "masturbate", "masturbation", "erection", "ejaculate", "ejaculation",
+      "genital", "genitals", "intercourse", "horny", "aroused", "arousal",
+      "boobs", "tits", "nipple", "condom", "porn", "pornography", "erotic",
+      "erotica", "brothel", "prostitute", "prostitution", "rape", "rapist",
+      "molest", "molestation", "incest", "pedophile", "fetish"
+    ],
+    "drugs": [
+      "heroin", "cocaine", "methamphetamine", "meth", "fentanyl",
+      "marijuana", "cannabis", "narcotic", "narcotics", "opioid", "opium",
+      "lsd", "amphetamine", "crackhead", "junkie"
+    ],
+    "selfHarm": [
+      "suicide", "suicidal"
+    ]
+  },
+  "tier2_review": {
+    "violence": [
+      "kill", "murder", "murderer", "corpse", "stab", "strangle", "slaughter",
+      "gun", "pistol", "rifle", "bullet", "shoot", "weapon", "knife",
+      "blood", "bloody", "wound", "gore", "gory", "torture", "behead",
+      "hang", "drown", "poison", "victim", "dead", "death", "die", "kidnap"
+    ],
+    "horror": [
+      "ghost", "monster", "demon", "devil", "evil", "scream", "terror",
+      "nightmare", "grave", "coffin", "skull", "skeleton", "haunted",
+      "curse", "cursed", "witch", "vampire", "zombie", "spirit"
+    ],
+    "substances": [
+      "beer", "wine", "alcohol", "alcoholic", "drunk", "whiskey", "vodka",
+      "cigarette", "cigar", "tobacco", "smoking", "drug", "drugs", "addict",
+      "addiction", "weed", "cocktail"
+    ],
+    "mildProfanity": [
+      "damn", "damned", "hell", "crap", "goddamn", "piss"
+    ]
+  },
+  "phrases_hardFail": [
+    "make love", "blow job", "blowjob", "hand job", "one night stand",
+    "kill himself", "kill herself", "kill myself", "kill yourself",
+    "take his own life", "take her own life", "shoot up heroin"
+  ]
+}
