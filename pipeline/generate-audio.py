@@ -90,6 +90,11 @@ async def process_level(story: dict, level: str, voice: str) -> None:
     timings_path.write_text(json.dumps(timings, ensure_ascii=False) + "\n")
     assign_sentence_times(level_data, timings)
 
+    # Yol alanlarını yazdığımız dosyalarla tutarlı tut (C1 gibi null başlayan
+    # seviyeler için bunları bağlar; mevcut seviyelerde aynı değeri yeniden yazar).
+    level_data["audio"] = f"audio/{level.lower()}/{story['id']}.mp3"
+    level_data["wordTimings"] = f"audio/{level.lower()}/{story['id']}.timings.json"
+
     text_words = sentence_word_count(text)
     print(f"    MP3: {mp3_path.relative_to(REPO_ROOT)} ({mp3_path.stat().st_size // 1024} KB), "
           f"timing kelime: {len(timings)} / metin kelime: {text_words}")
