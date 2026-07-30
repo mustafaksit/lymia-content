@@ -5,6 +5,1025 @@
   "summary": "Leo and Mia find an old map in a book at school.",
   "coverScene": "A young man and a girl stand in the middle of vast, golden sandy dunes, holding a tattered map while looking toward a distant, ancient stone structure under the bright sun.",
   "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo and Mia are students.",
+              "audioStart": 0.106,
+              "audioEnd": 1.856
+            },
+            {
+              "text": "They study history.",
+              "audioStart": 2.819,
+              "audioEnd": 4.042
+            },
+            {
+              "text": "They are at a school room.",
+              "audioStart": 5,
+              "audioEnd": 6.361
+            },
+            {
+              "text": "They look for a book.",
+              "audioStart": 7.319,
+              "audioEnd": 8.514
+            },
+            {
+              "text": "They find an old book.",
+              "audioStart": 9.472,
+              "audioEnd": 10.792
+            },
+            {
+              "text": "The book has a paper in it.",
+              "audioStart": 11.75,
+              "audioEnd": 13.292
+            },
+            {
+              "text": "This paper shows a large land.",
+              "audioStart": 14.25,
+              "audioEnd": 16.181
+            },
+            {
+              "text": "A big place is in this land.",
+              "audioStart": 17.139,
+              "audioEnd": 18.889
+            },
+            {
+              "text": "Leo wants to go there now.",
+              "audioStart": 19.847,
+              "audioEnd": 21.417
+            },
+            {
+              "text": "They leave the school room.",
+              "audioStart": 22.375,
+              "audioEnd": 23.722
+            },
+            {
+              "text": "They go to the large land.",
+              "audioStart": 24.681,
+              "audioEnd": 26.208
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They walk on the land.",
+              "audioStart": 27.167,
+              "audioEnd": 28.528
+            },
+            {
+              "text": "The day is very long.",
+              "audioStart": 29.486,
+              "audioEnd": 30.903
+            },
+            {
+              "text": "The land is very big.",
+              "audioStart": 31.861,
+              "audioEnd": 33.306
+            },
+            {
+              "text": "They look for the place.",
+              "audioStart": 34.264,
+              "audioEnd": 35.667
+            },
+            {
+              "text": "The land is very still.",
+              "audioStart": 36.625,
+              "audioEnd": 38.153
+            },
+            {
+              "text": "Mia sees a sign.",
+              "audioStart": 39.111,
+              "audioEnd": 40.417
+            },
+            {
+              "text": "It is near a high land form.",
+              "audioStart": 41.375,
+              "audioEnd": 43.083
+            },
+            {
+              "text": "She tells Leo the way.",
+              "audioStart": 44.042,
+              "audioEnd": 45.444
+            },
+            {
+              "text": "They follow the way.",
+              "audioStart": 46.403,
+              "audioEnd": 47.556
+            },
+            {
+              "text": "They see the place now.",
+              "audioStart": 48.514,
+              "audioEnd": 49.847
+            },
+            {
+              "text": "It is made of hard stone.",
+              "audioStart": 50.806,
+              "audioEnd": 52.278
+            },
+            {
+              "text": "The place is very old.",
+              "audioStart": 53.236,
+              "audioEnd": 54.667
+            },
+            {
+              "text": "It is strong after many a year.",
+              "audioStart": 55.625,
+              "audioEnd": 57.486
+            },
+            {
+              "text": "They reach the door.",
+              "audioStart": 58.444,
+              "audioEnd": 59.597
+            },
+            {
+              "text": "The day is ending.",
+              "audioStart": 60.556,
+              "audioEnd": 61.653
+            },
+            {
+              "text": "The room is not hot.",
+              "audioStart": 62.611,
+              "audioEnd": 63.972
+            },
+            {
+              "text": "The room is not light.",
+              "audioStart": 64.931,
+              "audioEnd": 66.292
+            },
+            {
+              "text": "They feel very good.",
+              "audioStart": 67.25,
+              "audioEnd": 68.514
+            },
+            {
+              "text": "The paper story is true.",
+              "audioStart": 69.472,
+              "audioEnd": 71.097
+            },
+            {
+              "text": "They find something important.",
+              "audioStart": 72.056,
+              "audioEnd": 73.667
+            },
+            {
+              "text": "They remember this great day.",
+              "audioStart": 74.625,
+              "audioEnd": 76.306
+            },
+            {
+              "text": "They talk about the day.",
+              "audioStart": 77.264,
+              "audioEnd": 78.625
+            },
+            {
+              "text": "They feel so happy.",
+              "audioStart": 79.583,
+              "audioEnd": 80.847
+            },
+            {
+              "text": "They are good friends.",
+              "audioStart": 81.806,
+              "audioEnd": 83.056
+            },
+            {
+              "text": "They still study history.",
+              "audioStart": 84.014,
+              "audioEnd": 85.542
+            },
+            {
+              "text": "They love to learn.",
+              "audioStart": 86.5,
+              "audioEnd": 87.625
+            },
+            {
+              "text": "They walk home.",
+              "audioStart": 88.583,
+              "audioEnd": 89.583
+            },
+            {
+              "text": "They are not able to move but happy.",
+              "audioStart": 90.542,
+              "audioEnd": 92.583
+            },
+            {
+              "text": "The day is a good result.",
+              "audioStart": 93.542,
+              "audioEnd": 95.028
+            },
+            {
+              "text": "They plan another time soon.",
+              "audioStart": 95.986,
+              "audioEnd": 97.694
+            },
+            {
+              "text": "They study the paper again.",
+              "audioStart": 98.653,
+              "audioEnd": 100.264
+            },
+            {
+              "text": "They feel very good.",
+              "audioStart": 101.222,
+              "audioEnd": 102.486
+            },
+            {
+              "text": "They walk and walk.",
+              "audioStart": 103.444,
+              "audioEnd": 104.694
+            },
+            {
+              "text": "They are home at last.",
+              "audioStart": 105.653,
+              "audioEnd": 107.042
+            },
+            {
+              "text": "They drink some water.",
+              "audioStart": 108,
+              "audioEnd": 109.25
+            },
+            {
+              "text": "They eat some food.",
+              "audioStart": 110.208,
+              "audioEnd": 111.403
+            },
+            {
+              "text": "They talk about the old place.",
+              "audioStart": 112.361,
+              "audioEnd": 114.167
+            },
+            {
+              "text": "They like the story.",
+              "audioStart": 115.125,
+              "audioEnd": 116.333
+            },
+            {
+              "text": "They feel very happy now.",
+              "audioStart": 117.292,
+              "audioEnd": 118.792
+            },
+            {
+              "text": "They sleep late.",
+              "audioStart": 119.75,
+              "audioEnd": 120.819
+            },
+            {
+              "text": "The next day is here.",
+              "audioStart": 121.778,
+              "audioEnd": 123.111
+            },
+            {
+              "text": "They study the paper again.",
+              "audioStart": 124.069,
+              "audioEnd": 125.681
+            },
+            {
+              "text": "They love history.",
+              "audioStart": 126.639,
+              "audioEnd": 127.792
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They walk on the land again.",
+              "audioStart": 128.75,
+              "audioEnd": 130.347
+            },
+            {
+              "text": "They see the place.",
+              "audioStart": 131.306,
+              "audioEnd": 132.514
+            },
+            {
+              "text": "They look at the stone.",
+              "audioStart": 133.472,
+              "audioEnd": 134.722
+            },
+            {
+              "text": "They find a new book.",
+              "audioStart": 135.681,
+              "audioEnd": 136.944
+            },
+            {
+              "text": "They are very happy.",
+              "audioStart": 137.903,
+              "audioEnd": 139.139
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0091.mp3",
+      "wordTimings": "audio/a1/st-0091.timings.json",
+      "quiz": [
+        {
+          "q": "Where do Leo and Mia find the map?",
+          "options": [
+            "In a library",
+            "In the desert",
+            "Near a hill"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does Mia see near the hill?",
+          "options": [
+            "A dark house",
+            "A stone mark",
+            "A tall tree"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How do they feel at the end?",
+          "options": [
+            "Very sad",
+            "Very tired",
+            "Very happy"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo and Mia were students at a local school.",
+              "audioStart": 0.106,
+              "audioEnd": 2.717
+            },
+            {
+              "text": "They loved to study history in the school room.",
+              "audioStart": 3.681,
+              "audioEnd": 6.097
+            },
+            {
+              "text": "One afternoon they looked for a good book about the world.",
+              "audioStart": 7.056,
+              "audioEnd": 10
+            },
+            {
+              "text": "They found an old paper in a cover.",
+              "audioStart": 10.958,
+              "audioEnd": 12.931
+            },
+            {
+              "text": "The paper showed a way to a place.",
+              "audioStart": 13.889,
+              "audioEnd": 15.931
+            },
+            {
+              "text": "It led to a lost place made of stone.",
+              "audioStart": 16.889,
+              "audioEnd": 19.139
+            },
+            {
+              "text": "Leo said they should start the trip right away.",
+              "audioStart": 20.097,
+              "audioEnd": 22.444
+            },
+            {
+              "text": "They wanted to reach the site before the light went down.",
+              "audioStart": 23.403,
+              "audioEnd": 26.403
+            },
+            {
+              "text": "They walked across the land under the hot sun.",
+              "audioStart": 27.361,
+              "audioEnd": 29.972
+            },
+            {
+              "text": "The land was large and not busy.",
+              "audioStart": 30.931,
+              "audioEnd": 32.958
+            },
+            {
+              "text": "The two friends felt very happy.",
+              "audioStart": 33.917,
+              "audioEnd": 35.847
+            },
+            {
+              "text": "The paper was old so they looked for a sign.",
+              "audioStart": 36.806,
+              "audioEnd": 39.278
+            },
+            {
+              "text": "Leo wondered if they would find the place before night.",
+              "audioStart": 40.236,
+              "audioEnd": 43.097
+            },
+            {
+              "text": "Mia noticed a mark near a high land point.",
+              "audioStart": 44.056,
+              "audioEnd": 46.667
+            },
+            {
+              "text": "She told Leo this was the next point on the paper.",
+              "audioStart": 47.625,
+              "audioEnd": 50.569
+            },
+            {
+              "text": "They followed the way and saw the place.",
+              "audioStart": 51.528,
+              "audioEnd": 53.806
+            },
+            {
+              "text": "It was made of stone and looked beautiful.",
+              "audioStart": 54.764,
+              "audioEnd": 56.958
+            },
+            {
+              "text": "The place was still strong after many years.",
+              "audioStart": 57.917,
+              "audioEnd": 60.514
+            },
+            {
+              "text": "They arrived at the front door as the light began to fall.",
+              "audioStart": 61.472,
+              "audioEnd": 64.708
+            },
+            {
+              "text": "The inside was not hot and was dark.",
+              "audioStart": 65.667,
+              "audioEnd": 67.986
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They felt happy because their walk was successful.",
+              "audioStart": 68.944,
+              "audioEnd": 71.792
+            },
+            {
+              "text": "Leo and Mia knew the story on the paper was true.",
+              "audioStart": 72.75,
+              "audioEnd": 75.583
+            },
+            {
+              "text": "They found something important.",
+              "audioStart": 76.542,
+              "audioEnd": 78.153
+            },
+            {
+              "text": "It was away for a century.",
+              "audioStart": 79.111,
+              "audioEnd": 80.708
+            },
+            {
+              "text": "The trip was a great experience for them.",
+              "audioStart": 81.667,
+              "audioEnd": 83.986
+            },
+            {
+              "text": "They would remember it for the rest of their life.",
+              "audioStart": 84.944,
+              "audioEnd": 87.389
+            },
+            {
+              "text": "They talked about the time they had together.",
+              "audioStart": 88.347,
+              "audioEnd": 90.694
+            },
+            {
+              "text": "They liked the work they did that day.",
+              "audioStart": 91.653,
+              "audioEnd": 93.75
+            },
+            {
+              "text": "The world has many old things to find.",
+              "audioStart": 94.708,
+              "audioEnd": 96.917
+            },
+            {
+              "text": "They felt ready to learn more about the past.",
+              "audioStart": 97.875,
+              "audioEnd": 100.333
+            },
+            {
+              "text": "School was good but this was better.",
+              "audioStart": 101.292,
+              "audioEnd": 103.278
+            },
+            {
+              "text": "They went home as the night came.",
+              "audioStart": 104.236,
+              "audioEnd": 105.986
+            },
+            {
+              "text": "They felt like real people of history.",
+              "audioStart": 106.944,
+              "audioEnd": 109.083
+            },
+            {
+              "text": "They will always remember this day.",
+              "audioStart": 110.042,
+              "audioEnd": 111.875
+            },
+            {
+              "text": "It was the best time of their school year.",
+              "audioStart": 112.833,
+              "audioEnd": 115.014
+            },
+            {
+              "text": "They were sure of this fact.",
+              "audioStart": 115.972,
+              "audioEnd": 117.5
+            },
+            {
+              "text": "Many friends at school will want to hear the story.",
+              "audioStart": 118.458,
+              "audioEnd": 121.083
+            },
+            {
+              "text": "Leo and Mia were pleased to be together.",
+              "audioStart": 122.042,
+              "audioEnd": 124.361
+            },
+            {
+              "text": "They were happy with their new knowledge.",
+              "audioStart": 125.319,
+              "audioEnd": 127.194
+            },
+            {
+              "text": "The world is a big place to see.",
+              "audioStart": 128.153,
+              "audioEnd": 130.069
+            },
+            {
+              "text": "They want to see more of the world later.",
+              "audioStart": 131.028,
+              "audioEnd": 132.958
+            },
+            {
+              "text": "They are already thinking about the next trip.",
+              "audioStart": 133.917,
+              "audioEnd": 136.306
+            },
+            {
+              "text": "They know that they can do anything if they try.",
+              "audioStart": 137.264,
+              "audioEnd": 139.583
+            },
+            {
+              "text": "The day was long but very good.",
+              "audioStart": 140.542,
+              "audioEnd": 142.403
+            },
+            {
+              "text": "They will talk to their teacher about it.",
+              "audioStart": 143.361,
+              "audioEnd": 145.208
+            },
+            {
+              "text": "Their teacher will be happy for them.",
+              "audioStart": 146.167,
+              "audioEnd": 148
+            },
+            {
+              "text": "They feel like they know more now.",
+              "audioStart": 148.958,
+              "audioEnd": 150.639
+            },
+            {
+              "text": "History is a fun subject for them.",
+              "audioStart": 151.597,
+              "audioEnd": 153.736
+            },
+            {
+              "text": "The friends are happy with their day.",
+              "audioStart": 154.694,
+              "audioEnd": 156.458
+            },
+            {
+              "text": "They learn much today.",
+              "audioStart": 157.417,
+              "audioEnd": 158.75
+            },
+            {
+              "text": "They share the story with a friend.",
+              "audioStart": 159.708,
+              "audioEnd": 161.528
+            },
+            {
+              "text": "The friend is happy for them too.",
+              "audioStart": 162.486,
+              "audioEnd": 164.319
+            },
+            {
+              "text": "They study more about history.",
+              "audioStart": 165.278,
+              "audioEnd": 167.014
+            },
+            {
+              "text": "The school is proud of the two friends.",
+              "audioStart": 167.972,
+              "audioEnd": 170.111
+            },
+            {
+              "text": "They look at the old paper again.",
+              "audioStart": 171.069,
+              "audioEnd": 172.875
+            },
+            {
+              "text": "It is a nice day for a walk.",
+              "audioStart": 173.833,
+              "audioEnd": 175.542
+            },
+            {
+              "text": "They think about the next trip.",
+              "audioStart": 176.5,
+              "audioEnd": 178.194
+            },
+            {
+              "text": "Everything is very good.",
+              "audioStart": 179.153,
+              "audioEnd": 180.625
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0091.mp3",
+      "wordTimings": "audio/a2/st-0091.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo and Mia find the map?",
+          "options": [
+            "In a desert",
+            "In a library book",
+            "In a stone temple"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did Mia see near the high hill?",
+          "options": [
+            "A strange stone mark",
+            "A lost temple",
+            "A path in the sand"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the friends feel at the end of the day?",
+          "options": [
+            "Very tired",
+            "Very happy",
+            "Very sad"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo and Mia were students.",
+              "audioStart": 0.1,
+              "audioEnd": 1.663
+            },
+            {
+              "text": "They loved to study history at the local library.",
+              "audioStart": 2.525,
+              "audioEnd": 5.013
+            },
+            {
+              "text": "One afternoon, they looked for a book about the ancient world.",
+              "audioStart": 5.875,
+              "audioEnd": 8.9
+            },
+            {
+              "text": "They found an old map inside a thick book cover.",
+              "audioStart": 9.762,
+              "audioEnd": 12.2
+            },
+            {
+              "text": "The map showed a path through the hot area to a lost stone site.",
+              "audioStart": 13.062,
+              "audioEnd": 16.3
+            },
+            {
+              "text": "If they left early, they could reach the site before the sun went down.",
+              "audioStart": 17.163,
+              "audioEnd": 20.8
+            },
+            {
+              "text": "Leo suggested they should start their trip right away.",
+              "audioStart": 21.663,
+              "audioEnd": 24.275
+            },
+            {
+              "text": "They have walked across the large hills while the hot sun was above them.",
+              "audioStart": 25.137,
+              "audioEnd": 28.538
+            },
+            {
+              "text": "The area was large and quiet.",
+              "audioStart": 29.4,
+              "audioEnd": 31.15
+            },
+            {
+              "text": "However, the two friends felt very excited.",
+              "audioStart": 32.013,
+              "audioEnd": 34.525
+            },
+            {
+              "text": "Because the map was old, they had to look carefully for signs of the site.",
+              "audioStart": 35.388,
+              "audioEnd": 39.062
+            },
+            {
+              "text": "Leo wondered if they would find the site before night.",
+              "audioStart": 39.925,
+              "audioEnd": 42.462
+            },
+            {
+              "text": "Mia noticed a strange stone mark near a tall hill.",
+              "audioStart": 43.325,
+              "audioEnd": 46.05
+            },
+            {
+              "text": "She told Leo that this mark was the next point on their map.",
+              "audioStart": 46.913,
+              "audioEnd": 49.987
+            },
+            {
+              "text": "As they followed the path, they saw the site in the distance.",
+              "audioStart": 50.85,
+              "audioEnd": 53.913
+            },
+            {
+              "text": "It was made of gray stone and looked beautiful under the light.",
+              "audioStart": 54.775,
+              "audioEnd": 57.812
+            },
+            {
+              "text": "The site was surrounded by earth, yet it remained strong after many years.",
+              "audioStart": 58.675,
+              "audioEnd": 62.575
+            },
+            {
+              "text": "They arrived at the front just as the sun began to fall.",
+              "audioStart": 63.438,
+              "audioEnd": 66.338
+            },
+            {
+              "text": "The inside of the site was cool and dark.",
+              "audioStart": 67.2,
+              "audioEnd": 69.3
+            },
+            {
+              "text": "They felt happy that their long walk through the area had been successful.",
+              "audioStart": 70.162,
+              "audioEnd": 73.638
+            },
+            {
+              "text": "Leo and Mia realized that the story on the map was true.",
+              "audioStart": 74.5,
+              "audioEnd": 77.5
+            },
+            {
+              "text": "They had discovered something important which had been hidden for a century.",
+              "audioStart": 78.362,
+              "audioEnd": 81.662
+            },
+            {
+              "text": "Their trip was a great experience that they would remember for the rest of their life.",
+              "audioStart": 82.525,
+              "audioEnd": 86.487
+            },
+            {
+              "text": "The two friends spent many hours walking in the heat.",
+              "audioStart": 87.35,
+              "audioEnd": 90
+            },
+            {
+              "text": "They saw birds and small animals near the path.",
+              "audioStart": 90.862,
+              "audioEnd": 93.25
+            },
+            {
+              "text": "They drank water from a bottle during the walk.",
+              "audioStart": 94.112,
+              "audioEnd": 96.287
+            },
+            {
+              "text": "The map was a gift from a teacher at school.",
+              "audioStart": 97.15,
+              "audioEnd": 99.338
+            },
+            {
+              "text": "The teacher had traveled to this place many years ago.",
+              "audioStart": 100.2,
+              "audioEnd": 102.8
+            },
+            {
+              "text": "He had told them the story about the site in the library.",
+              "audioStart": 103.662,
+              "audioEnd": 106.35
+            },
+            {
+              "text": "Leo and Mia were happy to follow his old advice.",
+              "audioStart": 107.213,
+              "audioEnd": 109.812
+            },
+            {
+              "text": "They had worked hard to prepare for this trip.",
+              "audioStart": 110.675,
+              "audioEnd": 112.8
+            },
+            {
+              "text": "They had checked the path on the map every single day.",
+              "audioStart": 113.662,
+              "audioEnd": 116.263
+            },
+            {
+              "text": "Now they were standing in front of the old stone wall.",
+              "audioStart": 117.125,
+              "audioEnd": 119.625
+            },
+            {
+              "text": "It was a perfect end to a long week of work.",
+              "audioStart": 120.487,
+              "audioEnd": 122.825
+            },
+            {
+              "text": "They felt that they had done something very special.",
+              "audioStart": 123.688,
+              "audioEnd": 126.138
+            },
+            {
+              "text": "The site was a beautiful place to visit.",
+              "audioStart": 127,
+              "audioEnd": 129.075
+            },
+            {
+              "text": "They sat on the ground and talked about the future.",
+              "audioStart": 129.938,
+              "audioEnd": 132.363
+            },
+            {
+              "text": "They wanted to return to the library and read more books.",
+              "audioStart": 133.225,
+              "audioEnd": 136.088
+            },
+            {
+              "text": "They felt that history was a very important subject.",
+              "audioStart": 136.95,
+              "audioEnd": 139.65
+            },
+            {
+              "text": "The sun went down and the night became dark.",
+              "audioStart": 140.512,
+              "audioEnd": 142.812
+            },
+            {
+              "text": "They looked at the stars above the old stone site.",
+              "audioStart": 143.675,
+              "audioEnd": 146.062
+            },
+            {
+              "text": "It was a memory they would keep for a long time.",
+              "audioStart": 146.925,
+              "audioEnd": 149.3
+            },
+            {
+              "text": "They were tired but also very happy.",
+              "audioStart": 150.162,
+              "audioEnd": 152.175
+            },
+            {
+              "text": "The long trip had been worth the effort.",
+              "audioStart": 153.037,
+              "audioEnd": 154.95
+            },
+            {
+              "text": "They arrived home late that night.",
+              "audioStart": 155.812,
+              "audioEnd": 157.512
+            },
+            {
+              "text": "They were ready to sleep after their long trip.",
+              "audioStart": 158.375,
+              "audioEnd": 160.525
+            },
+            {
+              "text": "They had enjoyed the walk under the sun.",
+              "audioStart": 161.387,
+              "audioEnd": 163.338
+            },
+            {
+              "text": "It had been a long day for the two students.",
+              "audioStart": 164.2,
+              "audioEnd": 166.287
+            },
+            {
+              "text": "They had talked about the history of the site many times.",
+              "audioStart": 167.15,
+              "audioEnd": 169.887
+            },
+            {
+              "text": "Now they knew the truth about the ancient world.",
+              "audioStart": 170.75,
+              "audioEnd": 172.875
+            },
+            {
+              "text": "The library books had been right all along.",
+              "audioStart": 173.738,
+              "audioEnd": 175.95
+            },
+            {
+              "text": "They were glad that they had decided to go.",
+              "audioStart": 176.812,
+              "audioEnd": 178.912
+            },
+            {
+              "text": "The hills were hard to climb in the heat.",
+              "audioStart": 179.775,
+              "audioEnd": 181.675
+            },
+            {
+              "text": "Yet they had found the way to the stone site.",
+              "audioStart": 182.537,
+              "audioEnd": 184.7
+            },
+            {
+              "text": "They would talk about this day for many years.",
+              "audioStart": 185.562,
+              "audioEnd": 187.8
+            },
+            {
+              "text": "Their friendship had grown during the trip.",
+              "audioStart": 188.662,
+              "audioEnd": 190.637
+            },
+            {
+              "text": "They were already planning their next visit to the local library.",
+              "audioStart": 191.5,
+              "audioEnd": 194.662
+            },
+            {
+              "text": "They had seen the birds and the animals.",
+              "audioStart": 195.525,
+              "audioEnd": 197.45
+            },
+            {
+              "text": "The nature around the site was very quiet.",
+              "audioStart": 198.312,
+              "audioEnd": 200.625
+            },
+            {
+              "text": "Everything had been perfect for their day out.",
+              "audioStart": 201.488,
+              "audioEnd": 203.75
+            },
+            {
+              "text": "They had learned so much from this one trip.",
+              "audioStart": 204.613,
+              "audioEnd": 206.762
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0091.mp3",
+      "wordTimings": "audio/b1/st-0091.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo and Mia find the map?",
+          "options": [
+            "Inside a thick book cover",
+            "Under the hot desert sand",
+            "At the entrance of the temple"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did Mia see near the tall hill?",
+          "options": [
+            "A group of students",
+            "A strange stone mark",
+            "A lost city"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the friends feel about their adventure?",
+          "options": [
+            "They felt sad and tired",
+            "They felt very excited",
+            "They felt afraid of the dark"
+          ],
+          "answer": 1
+        }
+      ]
+    },
     "B2": {
       "paragraphs": [
         {
@@ -564,1022 +1583,357 @@
         }
       ]
     },
-    "B1": {
+    "C1": {
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Leo and Mia were students.",
-              "audioStart": 0.1,
-              "audioEnd": 1.663
+              "text": "Leo and Mia, two eager university students, spent countless afternoons hunched over dusty tomes in the quiet corner of the town library.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They loved to study history at the local library.",
-              "audioStart": 2.525,
-              "audioEnd": 5.013
+              "text": "Both shared a fervent fascination with ancient civilizations, and the idea of uncovering a forgotten story thrilled them more than any lecture.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "One afternoon, they looked for a book about the ancient world.",
-              "audioStart": 5.875,
-              "audioEnd": 8.9
+              "text": "One sun-lit afternoon they prowled the shelves for a volume on the ancient world, hoping the brittle pages might whisper long-lost secrets.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They found an old map inside a thick book cover.",
-              "audioStart": 9.762,
-              "audioEnd": 12.2
+              "text": "When Leo pulled a particularly heavy folio from a low shelf, a faded parchment slipped out and fluttered to the floor like a startled bird.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "The map showed a path through the hot area to a lost stone site.",
-              "audioStart": 13.062,
-              "audioEnd": 16.3
+              "text": "Mia bent down, brushed the dust away, and discovered that the parchment was not a page at all but a hand-drawn map, its ink darkened by age.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The map, brittle as old bark, depicted a winding route across a vast desert, terminating at a cluster of gray stones that seemed to rise from the sand.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "If they left early, they could reach the site before the sun went down.",
-              "audioStart": 17.163,
-              "audioEnd": 20.8
+              "text": "A faint legend written along the border hinted at a lost sanctuary built by an unknown people, its purpose erased by the relentless wind.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "Leo suggested they should start their trip right away.",
-              "audioStart": 21.663,
-              "audioEnd": 24.275
+              "text": "The ink, though faded, was still legible enough to reveal a series of cairns that marked waypoints, each accompanied by cryptic symbols.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They have walked across the large hills while the hot sun was above them.",
-              "audioStart": 25.137,
-              "audioEnd": 28.538
+              "text": "Mia traced a fingertip along the dotted line, feeling the tiny ridges left by centuries of handling, and whispered that if they set out before noon they could reach the site before dusk.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "The area was large and quiet.",
-              "audioStart": 29.4,
-              "audioEnd": 31.15
+              "text": "Leo's eyes widened; his mind already leapt to the thrill of standing among stones that had witnessed empires rise and fall.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Without hesitation they slipped the fragile map into a sturdy canvas bag, careful not to crease its delicate fibers.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "However, the two friends felt very excited.",
-              "audioStart": 32.013,
-              "audioEnd": 34.525
+              "text": "Mia fetched a bottle of water, a compact first-aid kit, and a battered compass that had once belonged to her grandfather.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "Because the map was old, they had to look carefully for signs of the site.",
-              "audioStart": 35.388,
-              "audioEnd": 39.062
+              "text": "The library's ancient clock chimed three times, and the two friends exchanged a quick, eager glance before slipping out the side door into the bright afternoon.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "Leo wondered if they would find the site before night.",
-              "audioStart": 39.925,
-              "audioEnd": 42.462
+              "text": "The sun hung high, painting the sky a relentless azure that made the sand ahead seem to shimmer like a sea of glass.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "Mia noticed a strange stone mark near a tall hill.",
-              "audioStart": 43.325,
-              "audioEnd": 46.05
+              "text": "Both felt a mixture of nervous anticipation and the kind of joy that only true discovery can ignite.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The desert stretched endlessly before them, a silent expanse of golden dunes punctuated only by the occasional stubborn shrub clinging to life.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "She told Leo that this mark was the next point on their map.",
-              "audioStart": 46.913,
-              "audioEnd": 49.987
+              "text": "Each step raised a faint plume of fine dust that settled quickly, as if the wind itself were reluctant to disturb the ancient ground.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "As they followed the path, they saw the site in the distance.",
-              "audioStart": 50.85,
-              "audioEnd": 53.913
+              "text": "Leo glanced repeatedly at the map, his brow furrowed as he tried to reconcile the drawn cairns with the shifting shadows of the dunes.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "It was made of gray stone and looked beautiful under the light.",
-              "audioStart": 54.775,
-              "audioEnd": 57.812
+              "text": "Mia, meanwhile, listened to the soft sigh of the wind, feeling it brush against her skin like an ancient voice urging them onward.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "The site was surrounded by earth, yet it remained strong after many years.",
-              "audioStart": 58.675,
-              "audioEnd": 62.575
+              "text": "A sudden gust lifted a handful of sand, momentarily obscuring their view, and both friends instinctively tightened their grip on the bag containing the map.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo's mind raced with the possibility that the sun might dip below the horizon before they reached the sanctuary, casting the desert in unforgiving darkness.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They arrived at the front just as the sun began to fall.",
-              "audioStart": 63.438,
-              "audioEnd": 66.338
+              "text": "He whispered to himself that every minute counted, and the weight of the map seemed to grow heavier with each passing hour.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "The inside of the site was cool and dark.",
-              "audioStart": 67.2,
-              "audioEnd": 69.3
+              "text": "Just then, Mia's eyes snagged on a solitary stone protruding from a low rise, its surface etched with a symbol that matched one of the map's cryptic markings.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They felt happy that their long walk through the area had been successful.",
-              "audioStart": 70.162,
-              "audioEnd": 73.638
+              "text": "She called out, her voice clear against the wind, that this must be the first cairn indicated by the map, a confirmation that they were on the right track.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "Leo and Mia realized that the story on the map was true.",
-              "audioStart": 74.5,
-              "audioEnd": 77.5
+              "text": "A smile spread across Leo's face; the relief was palpable, and their spirits lifted as if the desert itself had granted them a small triumph.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the faint trail marked by the cairns, the landscape gradually opened to reveal a distant silhouette of stone architecture, its gray walls glowing faintly in the waning light.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They had discovered something important which had been hidden for a century.",
-              "audioStart": 78.362,
-              "audioEnd": 81.662
+              "text": "The structure rose like a solemn monument, its angles sharp yet softened by centuries of sand, and an aura of timelessness seemed to emanate from its core.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "Their trip was a great experience that they would remember for the rest of their life.",
-              "audioStart": 82.525,
-              "audioEnd": 86.487
+              "text": "Mia lifted her camera, capturing the moment, while Leo ran his fingers over the ancient symbols etched into a nearby boulder, feeling the coolness of stone against his skin.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "The two friends spent many hours walking in the heat.",
-              "audioStart": 87.35,
-              "audioEnd": 90
+              "text": "The sun, now a low amber disc, cast long shadows that danced across the entrance, inviting them to step inside before night fully claimed the desert.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They saw birds and small animals near the path.",
-              "audioStart": 90.862,
-              "audioEnd": 93.25
+              "text": "A shared breath of awe lingered between them, a silent agreement that the journey's hardships had been worth every grain of sand they had traversed.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They crossed the threshold just as the sun slipped behind the dunes, and a cool, dim interior welcomed them like a secret whispered into darkness.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They drank water from a bottle during the walk.",
-              "audioStart": 94.112,
-              "audioEnd": 96.287
+              "text": "Inside, stone corridors stretched in every direction, their walls adorned with faded carvings that hinted at rituals long forgotten.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "The map was a gift from a teacher at school.",
-              "audioStart": 97.15,
-              "audioEnd": 99.338
+              "text": "A faint breeze filtered through a narrow crack, carrying with it the scent of ancient earth and a hint of distant rain.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "The teacher had traveled to this place many years ago.",
-              "audioStart": 100.2,
-              "audioEnd": 102.8
+              "text": "Leo felt a shiver run down his spine, not from cold but from the realization that they were standing within a chapter of history they had only read about.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "He had told them the story about the site in the library.",
-              "audioStart": 103.662,
-              "audioEnd": 106.35
+              "text": "Mia, eyes bright, whispered that the map had not been a legend but a guide, and the weight of their accomplishment settled gently upon their shoulders.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When they emerged into the twilight, the stone site glowed faintly under the first stars, confirming that the map's promise had been fulfilled.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "Leo and Mia were happy to follow his old advice.",
-              "audioStart": 107.213,
-              "audioEnd": 109.812
+              "text": "Leo turned the map over once more, tracing the route they had taken, and felt a surge of pride that history had chosen them as its witnesses.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They had worked hard to prepare for this trip.",
-              "audioStart": 110.675,
-              "audioEnd": 112.8
+              "text": "Mia promised to write a detailed report for their archaeology professor, hoping the discovery would inspire future students to seek out hidden narratives.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They had checked the path on the map every single day.",
-              "audioStart": 113.662,
-              "audioEnd": 116.263
+              "text": "They tucked the fragile map into a protective case, vowing to safeguard it as a testament to their perseverance and as a key for future explorations.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "Now they were standing in front of the old stone wall.",
-              "audioStart": 117.125,
-              "audioEnd": 119.625
+              "text": "A quiet sense of responsibility settled over them, knowing that the secret they now held could change the understanding of the region's ancient past.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The journey back was slower, as the desert night unfolded with a blanket of stars that seemed to watch their every step.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "It was a perfect end to a long week of work.",
-              "audioStart": 120.487,
-              "audioEnd": 122.825
+              "text": "Each footfall kicked up a soft sigh of sand, and the cool air carried the distant howl of a night creature, reminding them of the desert's living pulse.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They felt that they had done something very special.",
-              "audioStart": 123.688,
-              "audioEnd": 126.138
+              "text": "Leo reflected on how the ancient builders had chosen this remote place to etch their stories, and he felt a kinship with those long-gone hands.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "The site was a beautiful place to visit.",
-              "audioStart": 127,
-              "audioEnd": 129.075
+              "text": "Mia, still holding her camera, replayed the images in her mind, each frame a reminder that history is not confined to books but lives in stone and sand.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They sat on the ground and talked about the future.",
-              "audioStart": 129.938,
-              "audioEnd": 132.363
+              "text": "Together they walked toward the distant lights of their village, feeling that the desert, once a terrifying unknown, had become a cherished chapter of their own story.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "That night, lying in their beds, the faint glow of a night-lamp illuminated the map once more, its faded lines now seeming like veins of ancient memory.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They wanted to return to the library and read more books.",
-              "audioStart": 133.225,
-              "audioEnd": 136.088
+              "text": "Both felt a deep gratitude for the chance to turn curiosity into adventure, and they silently thanked each other for the courage that had carried them across the dunes.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They felt that history was a very important subject.",
-              "audioStart": 136.95,
-              "audioEnd": 139.65
+              "text": "Leo whispered that their friendship had been forged in the heat of the desert, a bond stronger than any textbook could convey.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "The sun went down and the night became dark.",
-              "audioStart": 140.512,
-              "audioEnd": 142.812
+              "text": "Mia smiled, promising that the map would stay safely tucked away, a reminder that perseverance and teamwork can unlock doors long sealed by time.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They looked at the stars above the old stone site.",
-              "audioStart": 143.675,
-              "audioEnd": 146.062
+              "text": "Sleep finally claimed them, and as they drifted off, the desert's quiet echo lingered in their thoughts, urging them toward future quests.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When sunrise painted the horizon gold the next morning, Leo and Mia met at the library, eager to share their findings with the history department.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "It was a memory they would keep for a long time.",
-              "audioStart": 146.925,
-              "audioEnd": 149.3
+              "text": "Their professor listened with astonishment, eyes widening as the students described the stone sanctuary, and he promised to arrange an official study of the site.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They were tired but also very happy.",
-              "audioStart": 150.162,
-              "audioEnd": 152.175
+              "text": "The map, now framed and displayed, became a symbol of youthful curiosity that could reshape academic understanding.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "The long trip had been worth the effort.",
-              "audioStart": 153.037,
-              "audioEnd": 154.95
+              "text": "Leo and Mia left the room with a renewed sense that the world held countless hidden stories, each waiting for a willing heart to uncover.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "They arrived home late that night.",
-              "audioStart": 155.812,
-              "audioEnd": 157.512
-            },
-            {
-              "text": "They were ready to sleep after their long trip.",
-              "audioStart": 158.375,
-              "audioEnd": 160.525
-            },
-            {
-              "text": "They had enjoyed the walk under the sun.",
-              "audioStart": 161.387,
-              "audioEnd": 163.338
-            },
-            {
-              "text": "It had been a long day for the two students.",
-              "audioStart": 164.2,
-              "audioEnd": 166.287
-            },
-            {
-              "text": "They had talked about the history of the site many times.",
-              "audioStart": 167.15,
-              "audioEnd": 169.887
-            },
-            {
-              "text": "Now they knew the truth about the ancient world.",
-              "audioStart": 170.75,
-              "audioEnd": 172.875
-            },
-            {
-              "text": "The library books had been right all along.",
-              "audioStart": 173.738,
-              "audioEnd": 175.95
-            },
-            {
-              "text": "They were glad that they had decided to go.",
-              "audioStart": 176.812,
-              "audioEnd": 178.912
-            },
-            {
-              "text": "The hills were hard to climb in the heat.",
-              "audioStart": 179.775,
-              "audioEnd": 181.675
-            },
-            {
-              "text": "Yet they had found the way to the stone site.",
-              "audioStart": 182.537,
-              "audioEnd": 184.7
-            },
-            {
-              "text": "They would talk about this day for many years.",
-              "audioStart": 185.562,
-              "audioEnd": 187.8
-            },
-            {
-              "text": "Their friendship had grown during the trip.",
-              "audioStart": 188.662,
-              "audioEnd": 190.637
-            },
-            {
-              "text": "They were already planning their next visit to the local library.",
-              "audioStart": 191.5,
-              "audioEnd": 194.662
-            },
-            {
-              "text": "They had seen the birds and the animals.",
-              "audioStart": 195.525,
-              "audioEnd": 197.45
-            },
-            {
-              "text": "The nature around the site was very quiet.",
-              "audioStart": 198.312,
-              "audioEnd": 200.625
-            },
-            {
-              "text": "Everything had been perfect for their day out.",
-              "audioStart": 201.488,
-              "audioEnd": 203.75
-            },
-            {
-              "text": "They had learned so much from this one trip.",
-              "audioStart": 204.613,
-              "audioEnd": 206.762
+              "text": "They walked home side by side, the desert now a distant memory, yet its echo promised that every step forward might one day lead them back to another secret.",
+              "audioStart": 0,
+              "audioEnd": 0
             }
           ]
         }
       ],
-      "audio": "audio/b1/st-0091.mp3",
-      "wordTimings": "audio/b1/st-0091.timings.json",
+      "audio": null,
+      "wordTimings": null,
       "quiz": [
         {
-          "q": "Where did Leo and Mia find the map?",
+          "q": "What does the hidden map primarily symbolize for Leo and Mia?",
           "options": [
-            "Inside a thick book cover",
-            "Under the hot desert sand",
-            "At the entrance of the temple"
-          ],
-          "answer": 0
-        },
-        {
-          "q": "What did Mia see near the tall hill?",
-          "options": [
-            "A group of students",
-            "A strange stone mark",
-            "A lost city"
+            "A simple treasure map leading to riches",
+            "A tangible connection between their academic curiosity and real-world exploration",
+            "A test set by their professor to assess their skills"
           ],
           "answer": 1
         },
         {
-          "q": "How did the friends feel about their adventure?",
+          "q": "How does the author convey the transformation of the desert from a threatening unknown to a cherished memory?",
           "options": [
-            "They felt sad and tired",
-            "They felt very excited",
-            "They felt afraid of the dark"
-          ],
-          "answer": 1
-        }
-      ]
-    },
-    "A2": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Leo and Mia were students at a local school.",
-              "audioStart": 0.106,
-              "audioEnd": 2.717
-            },
-            {
-              "text": "They loved to study history in the school room.",
-              "audioStart": 3.681,
-              "audioEnd": 6.097
-            },
-            {
-              "text": "One afternoon they looked for a good book about the world.",
-              "audioStart": 7.056,
-              "audioEnd": 10
-            },
-            {
-              "text": "They found an old paper in a cover.",
-              "audioStart": 10.958,
-              "audioEnd": 12.931
-            },
-            {
-              "text": "The paper showed a way to a place.",
-              "audioStart": 13.889,
-              "audioEnd": 15.931
-            },
-            {
-              "text": "It led to a lost place made of stone.",
-              "audioStart": 16.889,
-              "audioEnd": 19.139
-            },
-            {
-              "text": "Leo said they should start the trip right away.",
-              "audioStart": 20.097,
-              "audioEnd": 22.444
-            },
-            {
-              "text": "They wanted to reach the site before the light went down.",
-              "audioStart": 23.403,
-              "audioEnd": 26.403
-            },
-            {
-              "text": "They walked across the land under the hot sun.",
-              "audioStart": 27.361,
-              "audioEnd": 29.972
-            },
-            {
-              "text": "The land was large and not busy.",
-              "audioStart": 30.931,
-              "audioEnd": 32.958
-            },
-            {
-              "text": "The two friends felt very happy.",
-              "audioStart": 33.917,
-              "audioEnd": 35.847
-            },
-            {
-              "text": "The paper was old so they looked for a sign.",
-              "audioStart": 36.806,
-              "audioEnd": 39.278
-            },
-            {
-              "text": "Leo wondered if they would find the place before night.",
-              "audioStart": 40.236,
-              "audioEnd": 43.097
-            },
-            {
-              "text": "Mia noticed a mark near a high land point.",
-              "audioStart": 44.056,
-              "audioEnd": 46.667
-            },
-            {
-              "text": "She told Leo this was the next point on the paper.",
-              "audioStart": 47.625,
-              "audioEnd": 50.569
-            },
-            {
-              "text": "They followed the way and saw the place.",
-              "audioStart": 51.528,
-              "audioEnd": 53.806
-            },
-            {
-              "text": "It was made of stone and looked beautiful.",
-              "audioStart": 54.764,
-              "audioEnd": 56.958
-            },
-            {
-              "text": "The place was still strong after many years.",
-              "audioStart": 57.917,
-              "audioEnd": 60.514
-            },
-            {
-              "text": "They arrived at the front door as the light began to fall.",
-              "audioStart": 61.472,
-              "audioEnd": 64.708
-            },
-            {
-              "text": "The inside was not hot and was dark.",
-              "audioStart": 65.667,
-              "audioEnd": 67.986
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "They felt happy because their walk was successful.",
-              "audioStart": 68.944,
-              "audioEnd": 71.792
-            },
-            {
-              "text": "Leo and Mia knew the story on the paper was true.",
-              "audioStart": 72.75,
-              "audioEnd": 75.583
-            },
-            {
-              "text": "They found something important.",
-              "audioStart": 76.542,
-              "audioEnd": 78.153
-            },
-            {
-              "text": "It was away for a century.",
-              "audioStart": 79.111,
-              "audioEnd": 80.708
-            },
-            {
-              "text": "The trip was a great experience for them.",
-              "audioStart": 81.667,
-              "audioEnd": 83.986
-            },
-            {
-              "text": "They would remember it for the rest of their life.",
-              "audioStart": 84.944,
-              "audioEnd": 87.389
-            },
-            {
-              "text": "They talked about the time they had together.",
-              "audioStart": 88.347,
-              "audioEnd": 90.694
-            },
-            {
-              "text": "They liked the work they did that day.",
-              "audioStart": 91.653,
-              "audioEnd": 93.75
-            },
-            {
-              "text": "The world has many old things to find.",
-              "audioStart": 94.708,
-              "audioEnd": 96.917
-            },
-            {
-              "text": "They felt ready to learn more about the past.",
-              "audioStart": 97.875,
-              "audioEnd": 100.333
-            },
-            {
-              "text": "School was good but this was better.",
-              "audioStart": 101.292,
-              "audioEnd": 103.278
-            },
-            {
-              "text": "They went home as the night came.",
-              "audioStart": 104.236,
-              "audioEnd": 105.986
-            },
-            {
-              "text": "They felt like real people of history.",
-              "audioStart": 106.944,
-              "audioEnd": 109.083
-            },
-            {
-              "text": "They will always remember this day.",
-              "audioStart": 110.042,
-              "audioEnd": 111.875
-            },
-            {
-              "text": "It was the best time of their school year.",
-              "audioStart": 112.833,
-              "audioEnd": 115.014
-            },
-            {
-              "text": "They were sure of this fact.",
-              "audioStart": 115.972,
-              "audioEnd": 117.5
-            },
-            {
-              "text": "Many friends at school will want to hear the story.",
-              "audioStart": 118.458,
-              "audioEnd": 121.083
-            },
-            {
-              "text": "Leo and Mia were pleased to be together.",
-              "audioStart": 122.042,
-              "audioEnd": 124.361
-            },
-            {
-              "text": "They were happy with their new knowledge.",
-              "audioStart": 125.319,
-              "audioEnd": 127.194
-            },
-            {
-              "text": "The world is a big place to see.",
-              "audioStart": 128.153,
-              "audioEnd": 130.069
-            },
-            {
-              "text": "They want to see more of the world later.",
-              "audioStart": 131.028,
-              "audioEnd": 132.958
-            },
-            {
-              "text": "They are already thinking about the next trip.",
-              "audioStart": 133.917,
-              "audioEnd": 136.306
-            },
-            {
-              "text": "They know that they can do anything if they try.",
-              "audioStart": 137.264,
-              "audioEnd": 139.583
-            },
-            {
-              "text": "The day was long but very good.",
-              "audioStart": 140.542,
-              "audioEnd": 142.403
-            },
-            {
-              "text": "They will talk to their teacher about it.",
-              "audioStart": 143.361,
-              "audioEnd": 145.208
-            },
-            {
-              "text": "Their teacher will be happy for them.",
-              "audioStart": 146.167,
-              "audioEnd": 148
-            },
-            {
-              "text": "They feel like they know more now.",
-              "audioStart": 148.958,
-              "audioEnd": 150.639
-            },
-            {
-              "text": "History is a fun subject for them.",
-              "audioStart": 151.597,
-              "audioEnd": 153.736
-            },
-            {
-              "text": "The friends are happy with their day.",
-              "audioStart": 154.694,
-              "audioEnd": 156.458
-            },
-            {
-              "text": "They learn much today.",
-              "audioStart": 157.417,
-              "audioEnd": 158.75
-            },
-            {
-              "text": "They share the story with a friend.",
-              "audioStart": 159.708,
-              "audioEnd": 161.528
-            },
-            {
-              "text": "The friend is happy for them too.",
-              "audioStart": 162.486,
-              "audioEnd": 164.319
-            },
-            {
-              "text": "They study more about history.",
-              "audioStart": 165.278,
-              "audioEnd": 167.014
-            },
-            {
-              "text": "The school is proud of the two friends.",
-              "audioStart": 167.972,
-              "audioEnd": 170.111
-            },
-            {
-              "text": "They look at the old paper again.",
-              "audioStart": 171.069,
-              "audioEnd": 172.875
-            },
-            {
-              "text": "It is a nice day for a walk.",
-              "audioStart": 173.833,
-              "audioEnd": 175.542
-            },
-            {
-              "text": "They think about the next trip.",
-              "audioStart": 176.5,
-              "audioEnd": 178.194
-            },
-            {
-              "text": "Everything is very good.",
-              "audioStart": 179.153,
-              "audioEnd": 180.625
-            }
-          ]
-        }
-      ],
-      "audio": "audio/a2/st-0091.mp3",
-      "wordTimings": "audio/a2/st-0091.timings.json",
-      "quiz": [
-        {
-          "q": "Where did Leo and Mia find the map?",
-          "options": [
-            "In a desert",
-            "In a library book",
-            "In a stone temple"
+            "By repeatedly describing its vast size and harsh climate",
+            "By juxtaposing harsh physical details with the characters' emotional growth and reflections",
+            "By focusing solely on the night sky and stars above the desert"
           ],
           "answer": 1
         },
         {
-          "q": "What did Mia see near the high hill?",
+          "q": "The line \"The map, now framed and displayed, became a symbol of youthful curiosity that could reshape academic understanding\" suggests which of the following about personal discovery?",
           "options": [
-            "A strange stone mark",
-            "A lost temple",
-            "A path in the sand"
-          ],
-          "answer": 0
-        },
-        {
-          "q": "How did the friends feel at the end of the day?",
-          "options": [
-            "Very tired",
-            "Very happy",
-            "Very sad"
+            "Personal discoveries have little effect on academia",
+            "Individual enthusiasm can influence broader scholarly perspectives",
+            "Only professional archaeologists can impact historical knowledge"
           ],
           "answer": 1
-        }
-      ]
-    },
-    "A1": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Leo and Mia are students.",
-              "audioStart": 0.106,
-              "audioEnd": 1.856
-            },
-            {
-              "text": "They study history.",
-              "audioStart": 2.819,
-              "audioEnd": 4.042
-            },
-            {
-              "text": "They are at a school room.",
-              "audioStart": 5,
-              "audioEnd": 6.361
-            },
-            {
-              "text": "They look for a book.",
-              "audioStart": 7.319,
-              "audioEnd": 8.514
-            },
-            {
-              "text": "They find an old book.",
-              "audioStart": 9.472,
-              "audioEnd": 10.792
-            },
-            {
-              "text": "The book has a paper in it.",
-              "audioStart": 11.75,
-              "audioEnd": 13.292
-            },
-            {
-              "text": "This paper shows a large land.",
-              "audioStart": 14.25,
-              "audioEnd": 16.181
-            },
-            {
-              "text": "A big place is in this land.",
-              "audioStart": 17.139,
-              "audioEnd": 18.889
-            },
-            {
-              "text": "Leo wants to go there now.",
-              "audioStart": 19.847,
-              "audioEnd": 21.417
-            },
-            {
-              "text": "They leave the school room.",
-              "audioStart": 22.375,
-              "audioEnd": 23.722
-            },
-            {
-              "text": "They go to the large land.",
-              "audioStart": 24.681,
-              "audioEnd": 26.208
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "They walk on the land.",
-              "audioStart": 27.167,
-              "audioEnd": 28.528
-            },
-            {
-              "text": "The day is very long.",
-              "audioStart": 29.486,
-              "audioEnd": 30.903
-            },
-            {
-              "text": "The land is very big.",
-              "audioStart": 31.861,
-              "audioEnd": 33.306
-            },
-            {
-              "text": "They look for the place.",
-              "audioStart": 34.264,
-              "audioEnd": 35.667
-            },
-            {
-              "text": "The land is very still.",
-              "audioStart": 36.625,
-              "audioEnd": 38.153
-            },
-            {
-              "text": "Mia sees a sign.",
-              "audioStart": 39.111,
-              "audioEnd": 40.417
-            },
-            {
-              "text": "It is near a high land form.",
-              "audioStart": 41.375,
-              "audioEnd": 43.083
-            },
-            {
-              "text": "She tells Leo the way.",
-              "audioStart": 44.042,
-              "audioEnd": 45.444
-            },
-            {
-              "text": "They follow the way.",
-              "audioStart": 46.403,
-              "audioEnd": 47.556
-            },
-            {
-              "text": "They see the place now.",
-              "audioStart": 48.514,
-              "audioEnd": 49.847
-            },
-            {
-              "text": "It is made of hard stone.",
-              "audioStart": 50.806,
-              "audioEnd": 52.278
-            },
-            {
-              "text": "The place is very old.",
-              "audioStart": 53.236,
-              "audioEnd": 54.667
-            },
-            {
-              "text": "It is strong after many a year.",
-              "audioStart": 55.625,
-              "audioEnd": 57.486
-            },
-            {
-              "text": "They reach the door.",
-              "audioStart": 58.444,
-              "audioEnd": 59.597
-            },
-            {
-              "text": "The day is ending.",
-              "audioStart": 60.556,
-              "audioEnd": 61.653
-            },
-            {
-              "text": "The room is not hot.",
-              "audioStart": 62.611,
-              "audioEnd": 63.972
-            },
-            {
-              "text": "The room is not light.",
-              "audioStart": 64.931,
-              "audioEnd": 66.292
-            },
-            {
-              "text": "They feel very good.",
-              "audioStart": 67.25,
-              "audioEnd": 68.514
-            },
-            {
-              "text": "The paper story is true.",
-              "audioStart": 69.472,
-              "audioEnd": 71.097
-            },
-            {
-              "text": "They find something important.",
-              "audioStart": 72.056,
-              "audioEnd": 73.667
-            },
-            {
-              "text": "They remember this great day.",
-              "audioStart": 74.625,
-              "audioEnd": 76.306
-            },
-            {
-              "text": "They talk about the day.",
-              "audioStart": 77.264,
-              "audioEnd": 78.625
-            },
-            {
-              "text": "They feel so happy.",
-              "audioStart": 79.583,
-              "audioEnd": 80.847
-            },
-            {
-              "text": "They are good friends.",
-              "audioStart": 81.806,
-              "audioEnd": 83.056
-            },
-            {
-              "text": "They still study history.",
-              "audioStart": 84.014,
-              "audioEnd": 85.542
-            },
-            {
-              "text": "They love to learn.",
-              "audioStart": 86.5,
-              "audioEnd": 87.625
-            },
-            {
-              "text": "They walk home.",
-              "audioStart": 88.583,
-              "audioEnd": 89.583
-            },
-            {
-              "text": "They are not able to move but happy.",
-              "audioStart": 90.542,
-              "audioEnd": 92.583
-            },
-            {
-              "text": "The day is a good result.",
-              "audioStart": 93.542,
-              "audioEnd": 95.028
-            },
-            {
-              "text": "They plan another time soon.",
-              "audioStart": 95.986,
-              "audioEnd": 97.694
-            },
-            {
-              "text": "They study the paper again.",
-              "audioStart": 98.653,
-              "audioEnd": 100.264
-            },
-            {
-              "text": "They feel very good.",
-              "audioStart": 101.222,
-              "audioEnd": 102.486
-            },
-            {
-              "text": "They walk and walk.",
-              "audioStart": 103.444,
-              "audioEnd": 104.694
-            },
-            {
-              "text": "They are home at last.",
-              "audioStart": 105.653,
-              "audioEnd": 107.042
-            },
-            {
-              "text": "They drink some water.",
-              "audioStart": 108,
-              "audioEnd": 109.25
-            },
-            {
-              "text": "They eat some food.",
-              "audioStart": 110.208,
-              "audioEnd": 111.403
-            },
-            {
-              "text": "They talk about the old place.",
-              "audioStart": 112.361,
-              "audioEnd": 114.167
-            },
-            {
-              "text": "They like the story.",
-              "audioStart": 115.125,
-              "audioEnd": 116.333
-            },
-            {
-              "text": "They feel very happy now.",
-              "audioStart": 117.292,
-              "audioEnd": 118.792
-            },
-            {
-              "text": "They sleep late.",
-              "audioStart": 119.75,
-              "audioEnd": 120.819
-            },
-            {
-              "text": "The next day is here.",
-              "audioStart": 121.778,
-              "audioEnd": 123.111
-            },
-            {
-              "text": "They study the paper again.",
-              "audioStart": 124.069,
-              "audioEnd": 125.681
-            },
-            {
-              "text": "They love history.",
-              "audioStart": 126.639,
-              "audioEnd": 127.792
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "They walk on the land again.",
-              "audioStart": 128.75,
-              "audioEnd": 130.347
-            },
-            {
-              "text": "They see the place.",
-              "audioStart": 131.306,
-              "audioEnd": 132.514
-            },
-            {
-              "text": "They look at the stone.",
-              "audioStart": 133.472,
-              "audioEnd": 134.722
-            },
-            {
-              "text": "They find a new book.",
-              "audioStart": 135.681,
-              "audioEnd": 136.944
-            },
-            {
-              "text": "They are very happy.",
-              "audioStart": 137.903,
-              "audioEnd": 139.139
-            }
-          ]
-        }
-      ],
-      "audio": "audio/a1/st-0091.mp3",
-      "wordTimings": "audio/a1/st-0091.timings.json",
-      "quiz": [
-        {
-          "q": "Where do Leo and Mia find the map?",
-          "options": [
-            "In a library",
-            "In the desert",
-            "Near a hill"
-          ],
-          "answer": 0
-        },
-        {
-          "q": "What does Mia see near the hill?",
-          "options": [
-            "A dark house",
-            "A stone mark",
-            "A tall tree"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "How do they feel at the end?",
-          "options": [
-            "Very sad",
-            "Very tired",
-            "Very happy"
-          ],
-          "answer": 2
         }
       ]
     }

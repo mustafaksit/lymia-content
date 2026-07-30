@@ -5,720 +5,6 @@
   "summary": "Leo and Mia find an old map in a book at the library.",
   "coverScene": "A young man and a girl stand in a dusty library, looking at a glowing, ancient map that reveals a path leading toward a snowy mountain peak.",
   "levels": {
-    "B2": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Leo and Mia were students who loved old stories.",
-              "audioStart": 0.1,
-              "audioEnd": 2.675
-            },
-            {
-              "text": "They visited the local library every Saturday to search for new adventures.",
-              "audioStart": 3.538,
-              "audioEnd": 7.388
-            },
-            {
-              "text": "One afternoon, they found an old, dusty book on a high shelf.",
-              "audioStart": 8.25,
-              "audioEnd": 11.613
-            },
-            {
-              "text": "Inside the book, a secret map was hidden.",
-              "audioStart": 12.475,
-              "audioEnd": 14.8
-            },
-            {
-              "text": "It showed a path to a hidden cave in the high mountains.",
-              "audioStart": 15.662,
-              "audioEnd": 18.238
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo looked at the map with interest.",
-              "audioStart": 19.1,
-              "audioEnd": 20.887
-            },
-            {
-              "text": "If they followed the path, they would find something special.",
-              "audioStart": 21.75,
-              "audioEnd": 24.637
-            },
-            {
-              "text": "Mia wanted to start the journey immediately.",
-              "audioStart": 25.5,
-              "audioEnd": 27.675
-            },
-            {
-              "text": "They packed their bags with food and warm clothes.",
-              "audioStart": 28.538,
-              "audioEnd": 31.062
-            },
-            {
-              "text": "Early the next day, they began their long climb toward the peak.",
-              "audioStart": 31.925,
-              "audioEnd": 35.3
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The mountain was very high and cold.",
-              "audioStart": 36.163,
-              "audioEnd": 37.925
-            },
-            {
-              "text": "The path was difficult because the ground was covered with rocks.",
-              "audioStart": 38.788,
-              "audioEnd": 41.975
-            },
-            {
-              "text": "While they walked, they talked about the mystery of the cave.",
-              "audioStart": 42.837,
-              "audioEnd": 45.75
-            },
-            {
-              "text": "They felt excited but also a little afraid.",
-              "audioStart": 46.612,
-              "audioEnd": 48.95
-            },
-            {
-              "text": "After many hours, they reached the top of the mountain.",
-              "audioStart": 49.812,
-              "audioEnd": 52.587
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In front of them, a large stone door appeared.",
-              "audioStart": 53.45,
-              "audioEnd": 55.775
-            },
-            {
-              "text": "It was covered with ancient symbols and patterns.",
-              "audioStart": 56.638,
-              "audioEnd": 59.075
-            },
-            {
-              "text": "The door had to be opened with a smart solution.",
-              "audioStart": 59.938,
-              "audioEnd": 62.312
-            },
-            {
-              "text": "Leo and Mia studied the symbols carefully.",
-              "audioStart": 63.175,
-              "audioEnd": 65.537
-            },
-            {
-              "text": "They realized that the symbols represented the stars.",
-              "audioStart": 66.4,
-              "audioEnd": 69.188
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo turned the stone circles until they matched the sky.",
-              "audioStart": 70.05,
-              "audioEnd": 72.787
-            },
-            {
-              "text": "Suddenly, the heavy door opened with a loud sound.",
-              "audioStart": 73.65,
-              "audioEnd": 76.425
-            },
-            {
-              "text": "Inside the cave, everything was dark at first.",
-              "audioStart": 77.287,
-              "audioEnd": 79.938
-            },
-            {
-              "text": "However, as they moved forward, they saw a soft blue light.",
-              "audioStart": 80.8,
-              "audioEnd": 84.225
-            },
-            {
-              "text": "The light came from a hidden garden of glowing crystals.",
-              "audioStart": 85.088,
-              "audioEnd": 87.763
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The garden was beautiful and quiet.",
-              "audioStart": 88.625,
-              "audioEnd": 90.55
-            },
-            {
-              "text": "Crystals grew from the ground like trees.",
-              "audioStart": 91.412,
-              "audioEnd": 93.463
-            },
-            {
-              "text": "They were surprised by the bright colors of the stone plants.",
-              "audioStart": 94.325,
-              "audioEnd": 97.312
-            },
-            {
-              "text": "Nothing like this had ever been seen by people before.",
-              "audioStart": 98.175,
-              "audioEnd": 100.987
-            },
-            {
-              "text": "They stayed for a long time to enjoy the magic of the place.",
-              "audioStart": 101.85,
-              "audioEnd": 104.938
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The trip back to the town was long, but they were happy.",
-              "audioStart": 105.8,
-              "audioEnd": 108.662
-            },
-            {
-              "text": "They decided to keep the secret of the garden to themselves.",
-              "audioStart": 109.525,
-              "audioEnd": 112.362
-            },
-            {
-              "text": "If they told anyone, the special place might be damaged.",
-              "audioStart": 113.225,
-              "audioEnd": 116.225
-            },
-            {
-              "text": "They knew that this experience would stay with them forever.",
-              "audioStart": 117.088,
-              "audioEnd": 119.7
-            },
-            {
-              "text": "The map was put back into the book for the next person to find.",
-              "audioStart": 120.562,
-              "audioEnd": 123.713
-            }
-          ]
-        }
-      ],
-      "audio": "audio/b2/st-0033.mp3",
-      "wordTimings": "audio/b2/st-0033.timings.json",
-      "quiz": [
-        {
-          "q": "Where did Leo and Mia find the secret map?",
-          "options": [
-            "Inside a cave",
-            "Inside a library book",
-            "At the top of the mountain"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "What did the ancient symbols on the stone door represent?",
-          "options": [
-            "The stars",
-            "The mountain path",
-            "The garden crystals"
-          ],
-          "answer": 0
-        },
-        {
-          "q": "Why did Leo and Mia keep the location of the garden a secret?",
-          "options": [
-            "Because they were afraid of the police",
-            "Because they wanted to sell the crystals",
-            "Because they wanted to protect the garden"
-          ],
-          "answer": 2
-        }
-      ]
-    },
-    "B1": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Leo and Mia were students who loved old stories.",
-              "audioStart": 0.1,
-              "audioEnd": 2.675
-            },
-            {
-              "text": "Every Saturday they visited the local library to find new adventures.",
-              "audioStart": 3.538,
-              "audioEnd": 7.188
-            },
-            {
-              "text": "One afternoon they found an old dusty book on a high shelf.",
-              "audioStart": 8.05,
-              "audioEnd": 11.1
-            },
-            {
-              "text": "Inside the book they found a secret map.",
-              "audioStart": 11.963,
-              "audioEnd": 14.037
-            },
-            {
-              "text": "It showed a path to a hidden cave in the high mountains.",
-              "audioStart": 14.9,
-              "audioEnd": 17.475
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo looked at the map with interest.",
-              "audioStart": 18.337,
-              "audioEnd": 20.125
-            },
-            {
-              "text": "If they followed the path they would find something special.",
-              "audioStart": 20.988,
-              "audioEnd": 23.625
-            },
-            {
-              "text": "Mia wanted to start the journey immediately.",
-              "audioStart": 24.488,
-              "audioEnd": 26.663
-            },
-            {
-              "text": "They packed their bags with food and warm clothes.",
-              "audioStart": 27.525,
-              "audioEnd": 30.05
-            },
-            {
-              "text": "Early the next day they began their long climb toward the peak.",
-              "audioStart": 30.913,
-              "audioEnd": 34.075
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The mountain was very high and cold.",
-              "audioStart": 34.938,
-              "audioEnd": 36.7
-            },
-            {
-              "text": "The path was difficult because the ground had many rocks.",
-              "audioStart": 37.562,
-              "audioEnd": 40.562
-            },
-            {
-              "text": "While they walked they talked about the mystery of the cave.",
-              "audioStart": 41.425,
-              "audioEnd": 44.013
-            },
-            {
-              "text": "They felt excited but also a little afraid.",
-              "audioStart": 44.875,
-              "audioEnd": 47.212
-            },
-            {
-              "text": "After many hours they reached the top of the mountain.",
-              "audioStart": 48.075,
-              "audioEnd": 50.575
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In front of them a large stone door appeared.",
-              "audioStart": 51.438,
-              "audioEnd": 53.513
-            },
-            {
-              "text": "It was covered with ancient symbols and patterns.",
-              "audioStart": 54.375,
-              "audioEnd": 56.812
-            },
-            {
-              "text": "The door needed a smart solution to open.",
-              "audioStart": 57.675,
-              "audioEnd": 59.825
-            },
-            {
-              "text": "Leo and Mia studied the symbols carefully.",
-              "audioStart": 60.688,
-              "audioEnd": 63.05
-            },
-            {
-              "text": "They realized that the symbols represented the stars.",
-              "audioStart": 63.913,
-              "audioEnd": 66.7
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo turned the stone circles until they matched the sky.",
-              "audioStart": 67.562,
-              "audioEnd": 70.3
-            },
-            {
-              "text": "Suddenly the heavy door opened with a loud sound.",
-              "audioStart": 71.162,
-              "audioEnd": 73.638
-            },
-            {
-              "text": "Inside the cave everything was dark at first.",
-              "audioStart": 74.5,
-              "audioEnd": 76.9
-            },
-            {
-              "text": "However as they moved forward they saw a soft blue light.",
-              "audioStart": 77.763,
-              "audioEnd": 80.725
-            },
-            {
-              "text": "The light came from a hidden garden of glowing crystals.",
-              "audioStart": 81.588,
-              "audioEnd": 84.263
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The garden was beautiful and quiet.",
-              "audioStart": 85.125,
-              "audioEnd": 87.05
-            },
-            {
-              "text": "Crystals grew from the ground like trees.",
-              "audioStart": 87.912,
-              "audioEnd": 89.963
-            },
-            {
-              "text": "They were surprised by the bright colors of the stone plants.",
-              "audioStart": 90.825,
-              "audioEnd": 93.812
-            },
-            {
-              "text": "Nothing like this had ever been seen by people before.",
-              "audioStart": 94.675,
-              "audioEnd": 97.487
-            },
-            {
-              "text": "They stayed for a long time to enjoy the magic of the place.",
-              "audioStart": 98.35,
-              "audioEnd": 101.438
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The trip back to the town was long but they were happy.",
-              "audioStart": 102.3,
-              "audioEnd": 104.938
-            },
-            {
-              "text": "They decided to keep the secret of the garden to themselves.",
-              "audioStart": 105.8,
-              "audioEnd": 108.638
-            },
-            {
-              "text": "If they told anyone the special place might be damaged.",
-              "audioStart": 109.5,
-              "audioEnd": 112.287
-            },
-            {
-              "text": "They knew that this experience would stay with them forever.",
-              "audioStart": 113.15,
-              "audioEnd": 115.763
-            },
-            {
-              "text": "The map was put back into the book for the next person to find.",
-              "audioStart": 116.625,
-              "audioEnd": 119.775
-            }
-          ]
-        }
-      ],
-      "audio": "audio/b1/st-0033.mp3",
-      "wordTimings": "audio/b1/st-0033.timings.json",
-      "quiz": [
-        {
-          "q": "What did Leo and Mia find in the old book?",
-          "options": [
-            "A bag of food",
-            "A secret map",
-            "Some warm clothes"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "What did the symbols on the stone door represent?",
-          "options": [
-            "The stars",
-            "The mountains",
-            "The garden"
-          ],
-          "answer": 0
-        },
-        {
-          "q": "Why did they decide to keep the garden a secret?",
-          "options": [
-            "Because it was too far away",
-            "Because they wanted to sell it",
-            "Because the place might be damaged"
-          ],
-          "answer": 2
-        }
-      ]
-    },
-    "A2": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Leo and Mia were students who loved old stories.",
-              "audioStart": 0.106,
-              "audioEnd": 2.967
-            },
-            {
-              "text": "They went to the local library every Saturday.",
-              "audioStart": 3.931,
-              "audioEnd": 6.569
-            },
-            {
-              "text": "One afternoon, they found an old, dusty book.",
-              "audioStart": 7.528,
-              "audioEnd": 10.458
-            },
-            {
-              "text": "Inside the book was a secret map.",
-              "audioStart": 11.417,
-              "audioEnd": 13.472
-            },
-            {
-              "text": "It showed a path to a hidden cave in the mountains.",
-              "audioStart": 14.431,
-              "audioEnd": 17.056
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo looked at the map.",
-              "audioStart": 18.014,
-              "audioEnd": 19.347
-            },
-            {
-              "text": "If they followed the path, they would find something special.",
-              "audioStart": 20.306,
-              "audioEnd": 23.514
-            },
-            {
-              "text": "Mia wanted to start the journey right now.",
-              "audioStart": 24.472,
-              "audioEnd": 26.681
-            },
-            {
-              "text": "They packed bags with food and warm clothes.",
-              "audioStart": 27.639,
-              "audioEnd": 30.264
-            },
-            {
-              "text": "Early the next day, they began their long climb.",
-              "audioStart": 31.222,
-              "audioEnd": 34.208
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The mountain was very high and cold.",
-              "audioStart": 35.167,
-              "audioEnd": 37.125
-            },
-            {
-              "text": "The path was difficult because of the rocks.",
-              "audioStart": 38.083,
-              "audioEnd": 40.597
-            },
-            {
-              "text": "While they walked, they talked about the cave.",
-              "audioStart": 41.556,
-              "audioEnd": 44.097
-            },
-            {
-              "text": "They felt excited but also a little afraid.",
-              "audioStart": 45.056,
-              "audioEnd": 47.653
-            },
-            {
-              "text": "After many hours, they reached the top.",
-              "audioStart": 48.611,
-              "audioEnd": 51.153
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "A large stone door appeared in front of them.",
-              "audioStart": 52.111,
-              "audioEnd": 54.472
-            },
-            {
-              "text": "It had old symbols and patterns on it.",
-              "audioStart": 55.431,
-              "audioEnd": 57.694
-            },
-            {
-              "text": "The door needed a smart solution.",
-              "audioStart": 58.653,
-              "audioEnd": 60.611
-            },
-            {
-              "text": "Leo and Mia studied the symbols carefully.",
-              "audioStart": 61.569,
-              "audioEnd": 64.194
-            },
-            {
-              "text": "They realized the symbols represented the stars.",
-              "audioStart": 65.153,
-              "audioEnd": 68.028
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo turned the stone circles to match the stars.",
-              "audioStart": 68.986,
-              "audioEnd": 71.861
-            },
-            {
-              "text": "Suddenly, the heavy door opened with a loud sound.",
-              "audioStart": 72.819,
-              "audioEnd": 75.903
-            },
-            {
-              "text": "Inside the cave, it was dark at first.",
-              "audioStart": 76.861,
-              "audioEnd": 79.444
-            },
-            {
-              "text": "Then, they saw a soft blue light.",
-              "audioStart": 80.403,
-              "audioEnd": 82.75
-            },
-            {
-              "text": "The light came from a hidden garden of crystals.",
-              "audioStart": 83.708,
-              "audioEnd": 86.208
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The garden was beautiful and quiet.",
-              "audioStart": 87.167,
-              "audioEnd": 89.306
-            },
-            {
-              "text": "Crystals grew from the ground like trees.",
-              "audioStart": 90.264,
-              "audioEnd": 92.542
-            },
-            {
-              "text": "They were surprised by the bright colors.",
-              "audioStart": 93.5,
-              "audioEnd": 95.847
-            },
-            {
-              "text": "People had never seen anything like this before.",
-              "audioStart": 96.806,
-              "audioEnd": 99.694
-            },
-            {
-              "text": "They stayed for a long time to enjoy the magic.",
-              "audioStart": 100.653,
-              "audioEnd": 103.431
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The trip back to the town was long but good.",
-              "audioStart": 104.389,
-              "audioEnd": 106.917
-            },
-            {
-              "text": "They decided to keep the secret of the garden.",
-              "audioStart": 107.875,
-              "audioEnd": 110.208
-            },
-            {
-              "text": "If they told anyone, the special place might get damage.",
-              "audioStart": 111.167,
-              "audioEnd": 114.556
-            },
-            {
-              "text": "They knew this experience would stay with them forever.",
-              "audioStart": 115.514,
-              "audioEnd": 118.222
-            },
-            {
-              "text": "They put the map back for the next person.",
-              "audioStart": 119.181,
-              "audioEnd": 121.569
-            }
-          ]
-        }
-      ],
-      "audio": "audio/a2/st-0033.mp3",
-      "wordTimings": "audio/a2/st-0033.timings.json",
-      "quiz": [
-        {
-          "q": "What did Leo and Mia find inside the old book?",
-          "options": [
-            "A bag of gold",
-            "A secret map",
-            "A lost letter"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "How did they open the stone door?",
-          "options": [
-            "By pushing it hard",
-            "By using a key",
-            "By matching symbols to the stars"
-          ],
-          "answer": 2
-        },
-        {
-          "q": "What did they decide to do at the end of the story?",
-          "options": [
-            "Keep the secret",
-            "Tell all their friends",
-            "Show the cave to the town"
-          ],
-          "answer": 0
-        }
-      ]
-    },
     "A1": {
       "paragraphs": [
         {
@@ -967,6 +253,1055 @@
             "They want to protect the place"
           ],
           "answer": 2
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo and Mia were students who loved old stories.",
+              "audioStart": 0.106,
+              "audioEnd": 2.967
+            },
+            {
+              "text": "They went to the local library every Saturday.",
+              "audioStart": 3.931,
+              "audioEnd": 6.569
+            },
+            {
+              "text": "One afternoon, they found an old, dusty book.",
+              "audioStart": 7.528,
+              "audioEnd": 10.458
+            },
+            {
+              "text": "Inside the book was a secret map.",
+              "audioStart": 11.417,
+              "audioEnd": 13.472
+            },
+            {
+              "text": "It showed a path to a hidden cave in the mountains.",
+              "audioStart": 14.431,
+              "audioEnd": 17.056
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo looked at the map.",
+              "audioStart": 18.014,
+              "audioEnd": 19.347
+            },
+            {
+              "text": "If they followed the path, they would find something special.",
+              "audioStart": 20.306,
+              "audioEnd": 23.514
+            },
+            {
+              "text": "Mia wanted to start the journey right now.",
+              "audioStart": 24.472,
+              "audioEnd": 26.681
+            },
+            {
+              "text": "They packed bags with food and warm clothes.",
+              "audioStart": 27.639,
+              "audioEnd": 30.264
+            },
+            {
+              "text": "Early the next day, they began their long climb.",
+              "audioStart": 31.222,
+              "audioEnd": 34.208
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The mountain was very high and cold.",
+              "audioStart": 35.167,
+              "audioEnd": 37.125
+            },
+            {
+              "text": "The path was difficult because of the rocks.",
+              "audioStart": 38.083,
+              "audioEnd": 40.597
+            },
+            {
+              "text": "While they walked, they talked about the cave.",
+              "audioStart": 41.556,
+              "audioEnd": 44.097
+            },
+            {
+              "text": "They felt excited but also a little afraid.",
+              "audioStart": 45.056,
+              "audioEnd": 47.653
+            },
+            {
+              "text": "After many hours, they reached the top.",
+              "audioStart": 48.611,
+              "audioEnd": 51.153
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A large stone door appeared in front of them.",
+              "audioStart": 52.111,
+              "audioEnd": 54.472
+            },
+            {
+              "text": "It had old symbols and patterns on it.",
+              "audioStart": 55.431,
+              "audioEnd": 57.694
+            },
+            {
+              "text": "The door needed a smart solution.",
+              "audioStart": 58.653,
+              "audioEnd": 60.611
+            },
+            {
+              "text": "Leo and Mia studied the symbols carefully.",
+              "audioStart": 61.569,
+              "audioEnd": 64.194
+            },
+            {
+              "text": "They realized the symbols represented the stars.",
+              "audioStart": 65.153,
+              "audioEnd": 68.028
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo turned the stone circles to match the stars.",
+              "audioStart": 68.986,
+              "audioEnd": 71.861
+            },
+            {
+              "text": "Suddenly, the heavy door opened with a loud sound.",
+              "audioStart": 72.819,
+              "audioEnd": 75.903
+            },
+            {
+              "text": "Inside the cave, it was dark at first.",
+              "audioStart": 76.861,
+              "audioEnd": 79.444
+            },
+            {
+              "text": "Then, they saw a soft blue light.",
+              "audioStart": 80.403,
+              "audioEnd": 82.75
+            },
+            {
+              "text": "The light came from a hidden garden of crystals.",
+              "audioStart": 83.708,
+              "audioEnd": 86.208
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The garden was beautiful and quiet.",
+              "audioStart": 87.167,
+              "audioEnd": 89.306
+            },
+            {
+              "text": "Crystals grew from the ground like trees.",
+              "audioStart": 90.264,
+              "audioEnd": 92.542
+            },
+            {
+              "text": "They were surprised by the bright colors.",
+              "audioStart": 93.5,
+              "audioEnd": 95.847
+            },
+            {
+              "text": "People had never seen anything like this before.",
+              "audioStart": 96.806,
+              "audioEnd": 99.694
+            },
+            {
+              "text": "They stayed for a long time to enjoy the magic.",
+              "audioStart": 100.653,
+              "audioEnd": 103.431
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The trip back to the town was long but good.",
+              "audioStart": 104.389,
+              "audioEnd": 106.917
+            },
+            {
+              "text": "They decided to keep the secret of the garden.",
+              "audioStart": 107.875,
+              "audioEnd": 110.208
+            },
+            {
+              "text": "If they told anyone, the special place might get damage.",
+              "audioStart": 111.167,
+              "audioEnd": 114.556
+            },
+            {
+              "text": "They knew this experience would stay with them forever.",
+              "audioStart": 115.514,
+              "audioEnd": 118.222
+            },
+            {
+              "text": "They put the map back for the next person.",
+              "audioStart": 119.181,
+              "audioEnd": 121.569
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0033.mp3",
+      "wordTimings": "audio/a2/st-0033.timings.json",
+      "quiz": [
+        {
+          "q": "What did Leo and Mia find inside the old book?",
+          "options": [
+            "A bag of gold",
+            "A secret map",
+            "A lost letter"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did they open the stone door?",
+          "options": [
+            "By pushing it hard",
+            "By using a key",
+            "By matching symbols to the stars"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What did they decide to do at the end of the story?",
+          "options": [
+            "Keep the secret",
+            "Tell all their friends",
+            "Show the cave to the town"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo and Mia were students who loved old stories.",
+              "audioStart": 0.1,
+              "audioEnd": 2.675
+            },
+            {
+              "text": "Every Saturday they visited the local library to find new adventures.",
+              "audioStart": 3.538,
+              "audioEnd": 7.188
+            },
+            {
+              "text": "One afternoon they found an old dusty book on a high shelf.",
+              "audioStart": 8.05,
+              "audioEnd": 11.1
+            },
+            {
+              "text": "Inside the book they found a secret map.",
+              "audioStart": 11.963,
+              "audioEnd": 14.037
+            },
+            {
+              "text": "It showed a path to a hidden cave in the high mountains.",
+              "audioStart": 14.9,
+              "audioEnd": 17.475
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo looked at the map with interest.",
+              "audioStart": 18.337,
+              "audioEnd": 20.125
+            },
+            {
+              "text": "If they followed the path they would find something special.",
+              "audioStart": 20.988,
+              "audioEnd": 23.625
+            },
+            {
+              "text": "Mia wanted to start the journey immediately.",
+              "audioStart": 24.488,
+              "audioEnd": 26.663
+            },
+            {
+              "text": "They packed their bags with food and warm clothes.",
+              "audioStart": 27.525,
+              "audioEnd": 30.05
+            },
+            {
+              "text": "Early the next day they began their long climb toward the peak.",
+              "audioStart": 30.913,
+              "audioEnd": 34.075
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The mountain was very high and cold.",
+              "audioStart": 34.938,
+              "audioEnd": 36.7
+            },
+            {
+              "text": "The path was difficult because the ground had many rocks.",
+              "audioStart": 37.562,
+              "audioEnd": 40.562
+            },
+            {
+              "text": "While they walked they talked about the mystery of the cave.",
+              "audioStart": 41.425,
+              "audioEnd": 44.013
+            },
+            {
+              "text": "They felt excited but also a little afraid.",
+              "audioStart": 44.875,
+              "audioEnd": 47.212
+            },
+            {
+              "text": "After many hours they reached the top of the mountain.",
+              "audioStart": 48.075,
+              "audioEnd": 50.575
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In front of them a large stone door appeared.",
+              "audioStart": 51.438,
+              "audioEnd": 53.513
+            },
+            {
+              "text": "It was covered with ancient symbols and patterns.",
+              "audioStart": 54.375,
+              "audioEnd": 56.812
+            },
+            {
+              "text": "The door needed a smart solution to open.",
+              "audioStart": 57.675,
+              "audioEnd": 59.825
+            },
+            {
+              "text": "Leo and Mia studied the symbols carefully.",
+              "audioStart": 60.688,
+              "audioEnd": 63.05
+            },
+            {
+              "text": "They realized that the symbols represented the stars.",
+              "audioStart": 63.913,
+              "audioEnd": 66.7
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo turned the stone circles until they matched the sky.",
+              "audioStart": 67.562,
+              "audioEnd": 70.3
+            },
+            {
+              "text": "Suddenly the heavy door opened with a loud sound.",
+              "audioStart": 71.162,
+              "audioEnd": 73.638
+            },
+            {
+              "text": "Inside the cave everything was dark at first.",
+              "audioStart": 74.5,
+              "audioEnd": 76.9
+            },
+            {
+              "text": "However as they moved forward they saw a soft blue light.",
+              "audioStart": 77.763,
+              "audioEnd": 80.725
+            },
+            {
+              "text": "The light came from a hidden garden of glowing crystals.",
+              "audioStart": 81.588,
+              "audioEnd": 84.263
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The garden was beautiful and quiet.",
+              "audioStart": 85.125,
+              "audioEnd": 87.05
+            },
+            {
+              "text": "Crystals grew from the ground like trees.",
+              "audioStart": 87.912,
+              "audioEnd": 89.963
+            },
+            {
+              "text": "They were surprised by the bright colors of the stone plants.",
+              "audioStart": 90.825,
+              "audioEnd": 93.812
+            },
+            {
+              "text": "Nothing like this had ever been seen by people before.",
+              "audioStart": 94.675,
+              "audioEnd": 97.487
+            },
+            {
+              "text": "They stayed for a long time to enjoy the magic of the place.",
+              "audioStart": 98.35,
+              "audioEnd": 101.438
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The trip back to the town was long but they were happy.",
+              "audioStart": 102.3,
+              "audioEnd": 104.938
+            },
+            {
+              "text": "They decided to keep the secret of the garden to themselves.",
+              "audioStart": 105.8,
+              "audioEnd": 108.638
+            },
+            {
+              "text": "If they told anyone the special place might be damaged.",
+              "audioStart": 109.5,
+              "audioEnd": 112.287
+            },
+            {
+              "text": "They knew that this experience would stay with them forever.",
+              "audioStart": 113.15,
+              "audioEnd": 115.763
+            },
+            {
+              "text": "The map was put back into the book for the next person to find.",
+              "audioStart": 116.625,
+              "audioEnd": 119.775
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0033.mp3",
+      "wordTimings": "audio/b1/st-0033.timings.json",
+      "quiz": [
+        {
+          "q": "What did Leo and Mia find in the old book?",
+          "options": [
+            "A bag of food",
+            "A secret map",
+            "Some warm clothes"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the symbols on the stone door represent?",
+          "options": [
+            "The stars",
+            "The mountains",
+            "The garden"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did they decide to keep the garden a secret?",
+          "options": [
+            "Because it was too far away",
+            "Because they wanted to sell it",
+            "Because the place might be damaged"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo and Mia were students who loved old stories.",
+              "audioStart": 0.1,
+              "audioEnd": 2.675
+            },
+            {
+              "text": "They visited the local library every Saturday to search for new adventures.",
+              "audioStart": 3.538,
+              "audioEnd": 7.388
+            },
+            {
+              "text": "One afternoon, they found an old, dusty book on a high shelf.",
+              "audioStart": 8.25,
+              "audioEnd": 11.613
+            },
+            {
+              "text": "Inside the book, a secret map was hidden.",
+              "audioStart": 12.475,
+              "audioEnd": 14.8
+            },
+            {
+              "text": "It showed a path to a hidden cave in the high mountains.",
+              "audioStart": 15.662,
+              "audioEnd": 18.238
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo looked at the map with interest.",
+              "audioStart": 19.1,
+              "audioEnd": 20.887
+            },
+            {
+              "text": "If they followed the path, they would find something special.",
+              "audioStart": 21.75,
+              "audioEnd": 24.637
+            },
+            {
+              "text": "Mia wanted to start the journey immediately.",
+              "audioStart": 25.5,
+              "audioEnd": 27.675
+            },
+            {
+              "text": "They packed their bags with food and warm clothes.",
+              "audioStart": 28.538,
+              "audioEnd": 31.062
+            },
+            {
+              "text": "Early the next day, they began their long climb toward the peak.",
+              "audioStart": 31.925,
+              "audioEnd": 35.3
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The mountain was very high and cold.",
+              "audioStart": 36.163,
+              "audioEnd": 37.925
+            },
+            {
+              "text": "The path was difficult because the ground was covered with rocks.",
+              "audioStart": 38.788,
+              "audioEnd": 41.975
+            },
+            {
+              "text": "While they walked, they talked about the mystery of the cave.",
+              "audioStart": 42.837,
+              "audioEnd": 45.75
+            },
+            {
+              "text": "They felt excited but also a little afraid.",
+              "audioStart": 46.612,
+              "audioEnd": 48.95
+            },
+            {
+              "text": "After many hours, they reached the top of the mountain.",
+              "audioStart": 49.812,
+              "audioEnd": 52.587
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In front of them, a large stone door appeared.",
+              "audioStart": 53.45,
+              "audioEnd": 55.775
+            },
+            {
+              "text": "It was covered with ancient symbols and patterns.",
+              "audioStart": 56.638,
+              "audioEnd": 59.075
+            },
+            {
+              "text": "The door had to be opened with a smart solution.",
+              "audioStart": 59.938,
+              "audioEnd": 62.312
+            },
+            {
+              "text": "Leo and Mia studied the symbols carefully.",
+              "audioStart": 63.175,
+              "audioEnd": 65.537
+            },
+            {
+              "text": "They realized that the symbols represented the stars.",
+              "audioStart": 66.4,
+              "audioEnd": 69.188
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo turned the stone circles until they matched the sky.",
+              "audioStart": 70.05,
+              "audioEnd": 72.787
+            },
+            {
+              "text": "Suddenly, the heavy door opened with a loud sound.",
+              "audioStart": 73.65,
+              "audioEnd": 76.425
+            },
+            {
+              "text": "Inside the cave, everything was dark at first.",
+              "audioStart": 77.287,
+              "audioEnd": 79.938
+            },
+            {
+              "text": "However, as they moved forward, they saw a soft blue light.",
+              "audioStart": 80.8,
+              "audioEnd": 84.225
+            },
+            {
+              "text": "The light came from a hidden garden of glowing crystals.",
+              "audioStart": 85.088,
+              "audioEnd": 87.763
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The garden was beautiful and quiet.",
+              "audioStart": 88.625,
+              "audioEnd": 90.55
+            },
+            {
+              "text": "Crystals grew from the ground like trees.",
+              "audioStart": 91.412,
+              "audioEnd": 93.463
+            },
+            {
+              "text": "They were surprised by the bright colors of the stone plants.",
+              "audioStart": 94.325,
+              "audioEnd": 97.312
+            },
+            {
+              "text": "Nothing like this had ever been seen by people before.",
+              "audioStart": 98.175,
+              "audioEnd": 100.987
+            },
+            {
+              "text": "They stayed for a long time to enjoy the magic of the place.",
+              "audioStart": 101.85,
+              "audioEnd": 104.938
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The trip back to the town was long, but they were happy.",
+              "audioStart": 105.8,
+              "audioEnd": 108.662
+            },
+            {
+              "text": "They decided to keep the secret of the garden to themselves.",
+              "audioStart": 109.525,
+              "audioEnd": 112.362
+            },
+            {
+              "text": "If they told anyone, the special place might be damaged.",
+              "audioStart": 113.225,
+              "audioEnd": 116.225
+            },
+            {
+              "text": "They knew that this experience would stay with them forever.",
+              "audioStart": 117.088,
+              "audioEnd": 119.7
+            },
+            {
+              "text": "The map was put back into the book for the next person to find.",
+              "audioStart": 120.562,
+              "audioEnd": 123.713
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0033.mp3",
+      "wordTimings": "audio/b2/st-0033.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo and Mia find the secret map?",
+          "options": [
+            "Inside a cave",
+            "Inside a library book",
+            "At the top of the mountain"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the ancient symbols on the stone door represent?",
+          "options": [
+            "The stars",
+            "The mountain path",
+            "The garden crystals"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did Leo and Mia keep the location of the garden a secret?",
+          "options": [
+            "Because they were afraid of the police",
+            "Because they wanted to sell the crystals",
+            "Because they wanted to protect the garden"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo and Mia, two university students with a shared obsession for forgotten legends, met every Saturday in the town's modest library.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The library, with its vaulted ceiling and rows of time-worn volumes, smelled of paper, dust, and distant rain.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Between the murmurs of other readers they whispered plans to uncover new adventures hidden among the brittle pages.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "On one rain-slick afternoon a faint glimmer caught Mia's eye from the topmost shelf, where only the most neglected books lingered.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "She reached for the volume, feeling the weight of centuries settle into her palms, and brushed away a thick veil of dust.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Inside, between cracked leather covers, a folded parchment lay concealed, its edges curled like the leaves of an ancient tree.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The parchment was a map, drawn in ink that had faded to a melancholy amber, depicting a winding trail that vanished into the high mountains.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A faint inked symbol of a compass rose marked the starting point, while a tiny illustration of a stone door hinted at a hidden destination.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo traced the lines with his fingertip, feeling a sudden surge of curiosity that seemed to echo the map's own secret whispers.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Mia's eyes widened; she could already picture the adventure, and without a word she suggested they set out at first light.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "When they lifted the book, a faint rustle seemed to echo, as though the parchment itself whispered gratitude for being uncovered.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Back at Leo's small attic room, they spread the map on a creaking desk, its parchment softening under the glow of a single lamp.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "They listed supplies-sturdy boots, a coil of rope, dried fruit, and woolen blankets-each item chosen to counter the cold they imagined waiting above.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo, ever the cautious one, double-checked the weather forecast, noting that a thin veil of snow was predicted for the evening.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Mia, whose enthusiasm rarely waned, laughed at the notion of postponement, insisting that the mountain's call could not wait for any delay.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "When the first pale rays of dawn slipped through the cracked windows, they slung the heavy packs onto their backs and stepped onto the winding path that led away from town.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The mountain loomed ahead, its summit lost in a veil of thin, icy clouds that glimmered like distant pearls against a bruised sky.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A gust of cold wind brushed their cheeks, carrying with it the sharp scent of pine and the faint echo of distant waterfalls.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The trail, narrow and strewn with jagged stones, forced them to pick their steps carefully, each footfall a small triumph over the restless ground.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "As they climbed, they exchanged theories about what lay beyond the stone door, weaving wild guesses that blended myth with the practical.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A nervous thrill fluttered in their stomachs; the excitement of discovery was tempered by an undercurrent of fear that made the wind seem louder.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The sun, a pale disc behind the clouds, cast long shadows that made the path appear like a winding serpent across the mountain's flank.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hours slipped by, marked only by the sun's slow arc and the occasional cry of a lone mountain bird.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "When the path finally narrowed to a flat plateau, a massive stone slab rose before them, its surface etched with ancient symbols that seemed to pulse with forgotten memory.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The symbols, spirals and constellations intertwined, formed a cryptic tableau that hinted at a celestial key required to unlock the doorway.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo crouched, his breath forming small clouds, and began to align the carved circles with the night sky he remembered from a textbook.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "When the last circle matched the brightest star, a resonant rumble echoed through the mountain, and the stone door shivered before grinding open.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A cold darkness spilled out, swallowing their lantern light, and for a heartbeat they could not see more than a few inches ahead.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Mia steadied the torch, its flame trembling like a frightened bird, and whispered that the map promised a hidden garden beyond the gloom.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "They took a cautious step forward, their boots echoing on the stone floor, until a soft blue glow began to seep from the far wall.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The light revealed a cavernous chamber where crystal formations rose like translucent trees, each one humming faintly as if breathing with the earth itself.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Among them, a garden of glowing crystals stretched across the floor, their colors shifting from sapphire to emerald, casting delicate shadows that danced in the air.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The silence was profound, broken only by the occasional drip of water that fell from stalactites high above, creating a gentle rhythm.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo knelt beside a cluster of violet crystals, feeling their cool surfaces and noting how the light refracted into a thousand tiny rainbows.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Mia traced a hand over a ruby-red formation, and a faint musical tone resonated, as if the stone sang a lullaby of ages past.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "They lingered, allowing the garden's quiet magic to seep into their thoughts, each breath feeling revitalized by the unseen energy that pulsed beneath the crystals.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Time seemed to stretch, yet they knew they could not remain forever; the world outside awaited, and the secret they had uncovered needed protection.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Before they left, they placed a small, smooth stone from the garden onto their pack, a silent reminder of the wonder they had witnessed.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When they finally rose to leave, the blue light dimmed gradually, as if the garden sighed, acknowledging their departure.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The stone door, now ajar, emitted a cool draft that carried the faint scent of mineral and pine, guiding them back toward the mountain's outer slope.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "They descended with measured steps, the weight of their packs seeming lighter as the memory of the crystal garden steadied their hearts.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "At the base, the village lights twinkled like fireflies, and the familiar sounds of the market filled the air, a comforting contrast to the mountain's solitude.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo placed the map back into the book's hollow, sealing it with a soft thump, and whispered a promise that no one else would ever find the hidden garden.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As they rested at the foot of the mountain, the crisp air filled their lungs, and a solemn oath formed between them, binding their discovery to silence.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "They agreed that the garden's fragile wonder must not be marred by curiosity of strangers, for its beauty thrived on the reverence of secrecy.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A quiet promise passed like a secret handshake, each understanding that the map would return to its book, awaiting the next worthy seekers.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "With that resolve settled, they rose, feeling the weight of responsibility as much as the weight of their packed supplies.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mia smiled, feeling the adventure settle into her bones, and suggested that the memory itself might be the most valuable treasure they had uncovered.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "They walked home under a sky turning pink with twilight, each step echoing the rhythm of a story that would live on in their minds.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The town's quiet streets seemed to guard their secret, as if the mountains themselves had whispered a pact of silence to the passing wind.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Later, when Leo opened the library's ancient volumes again, he imagined the map waiting patiently for the next curious pair, its story dormant yet eager.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "They locked the book with a worn leather strap, sealing the secret within, and felt a quiet pride in being its guardians.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "wordTimings": null,
+      "quiz": [
+        {
+          "q": "Why do Leo and Mia decide to keep the garden secret?",
+          "options": [
+            "They fear others will steal the crystals.",
+            "They believe the garden's beauty depends on secrecy.",
+            "They want to protect the map."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does the alignment of the stone circles with the brightest star symbolize?",
+          "options": [
+            "The connection between earthly puzzles and celestial order.",
+            "A test of Leo's knowledge.",
+            "A random coincidence."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How does the description of the mountain's ascent contribute to the theme of challenge?",
+          "options": [
+            "By showing the physical obstacles, it mirrors their internal doubts.",
+            "By emphasizing the weather, it shows unpredictability.",
+            "By focusing on the scenery, it relaxes tension."
+          ],
+          "answer": 0
         }
       ]
     }

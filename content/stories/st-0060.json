@@ -5,513 +5,6 @@
   "summary": "Leo finds a small silver key in an old library book suddenly.",
   "coverScene": "A curious young man standing in a quiet, sunlit library holding a small, old silver key that he just found inside a thick, dusty book.",
   "levels": {
-    "B2": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Leo was a student who enjoyed spending his quiet afternoon hours in the old town library.",
-              "audioStart": 0.1,
-              "audioEnd": 4.662
-            },
-            {
-              "text": "While he read a book about local history, he noticed something strange between the pages.",
-              "audioStart": 5.525,
-              "audioEnd": 10.162
-            },
-            {
-              "text": "A small silver key had been hidden deep inside the paper.",
-              "audioStart": 11.025,
-              "audioEnd": 13.963
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo felt a sense of wonder as he looked at the mysterious object.",
-              "audioStart": 14.825,
-              "audioEnd": 18.15
-            },
-            {
-              "text": "He decided that he must discover what the key unlocked before the sun went down.",
-              "audioStart": 19.012,
-              "audioEnd": 23.225
-            },
-            {
-              "text": "If he found the right door, he would finally understand the secret history of the town.",
-              "audioStart": 24.087,
-              "audioEnd": 28.475
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He walked out into the street where the first clue was waiting for him.",
-              "audioStart": 29.337,
-              "audioEnd": 32.65
-            },
-            {
-              "text": "A small note was attached to a stone wall near the park gate.",
-              "audioStart": 33.513,
-              "audioEnd": 36.763
-            },
-            {
-              "text": "The note suggested that the key belonged to a place where time stood still.",
-              "audioStart": 37.625,
-              "audioEnd": 41.237
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo moved quickly toward the old church at the center of the village.",
-              "audioStart": 42.1,
-              "audioEnd": 45.263
-            },
-            {
-              "text": "The building was silent, but he noticed a small lock on a side door which matched his key perfectly.",
-              "audioStart": 46.125,
-              "audioEnd": 51.362
-            },
-            {
-              "text": "He wondered if the key would turn, or if he should wait for another sign.",
-              "audioStart": 52.225,
-              "audioEnd": 55.737
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He pushed the key into the lock and turned it carefully.",
-              "audioStart": 56.6,
-              "audioEnd": 59.25
-            },
-            {
-              "text": "The door opened to reveal a small room full of old records and forgotten letters.",
-              "audioStart": 60.112,
-              "audioEnd": 64.188
-            },
-            {
-              "text": "Leo realized that he had found the true history of his family within this secret place.",
-              "audioStart": 65.05,
-              "audioEnd": 69.5
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The sun was beginning to fall behind the mountains as he finished his search.",
-              "audioStart": 70.362,
-              "audioEnd": 73.925
-            },
-            {
-              "text": "Everything about his life now felt different because he had solved the mystery.",
-              "audioStart": 74.787,
-              "audioEnd": 78.438
-            },
-            {
-              "text": "He felt proud that he had followed the clues to the very end.",
-              "audioStart": 79.3,
-              "audioEnd": 82.225
-            }
-          ]
-        }
-      ],
-      "audio": "audio/b2/st-0060.mp3",
-      "wordTimings": "audio/b2/st-0060.timings.json",
-      "quiz": [
-        {
-          "q": "Where did Leo first find the silver key?",
-          "options": [
-            "Inside a park gate",
-            "Hidden within a library book",
-            "Behind a stone wall"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "What was the time limit for Leo to solve the mystery?",
-          "options": [
-            "Before sunset",
-            "Before the library closed",
-            "Before the next morning"
-          ],
-          "answer": 0
-        },
-        {
-          "q": "What was located behind the door that the key opened?",
-          "options": [
-            "A collection of gold coins",
-            "A hidden room with old records",
-            "A secret garden with flowers"
-          ],
-          "answer": 1
-        }
-      ]
-    },
-    "B1": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Leo was a student.",
-              "audioStart": 0.1,
-              "audioEnd": 1.25
-            },
-            {
-              "text": "He liked to spend his quiet afternoon hours in the old town library.",
-              "audioStart": 2.112,
-              "audioEnd": 5.638
-            },
-            {
-              "text": "He read a book about local history.",
-              "audioStart": 6.5,
-              "audioEnd": 8.375
-            },
-            {
-              "text": "He noticed something strange between the pages.",
-              "audioStart": 9.238,
-              "audioEnd": 11.725
-            },
-            {
-              "text": "A small silver key had been hidden deep inside the paper.",
-              "audioStart": 12.588,
-              "audioEnd": 15.525
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo felt wonder as he looked at the mysterious object.",
-              "audioStart": 16.387,
-              "audioEnd": 19.188
-            },
-            {
-              "text": "He decided that he must find what the key opened before the sun went down.",
-              "audioStart": 20.05,
-              "audioEnd": 23.8
-            },
-            {
-              "text": "If he found the right door, he would finally understand the secret history of the town.",
-              "audioStart": 24.663,
-              "audioEnd": 29.05
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He walked out into the street where the first clue was waiting for him.",
-              "audioStart": 29.913,
-              "audioEnd": 33.225
-            },
-            {
-              "text": "A small note was on a stone wall near the park gate.",
-              "audioStart": 34.087,
-              "audioEnd": 36.837
-            },
-            {
-              "text": "The note suggested that the key belonged to a place where time stood still.",
-              "audioStart": 37.7,
-              "audioEnd": 41.312
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo moved quickly toward the old church at the center of the village.",
-              "audioStart": 42.175,
-              "audioEnd": 45.337
-            },
-            {
-              "text": "The building was silent.",
-              "audioStart": 46.2,
-              "audioEnd": 47.462
-            },
-            {
-              "text": "He noticed a small lock on a side door which matched his key perfectly.",
-              "audioStart": 48.325,
-              "audioEnd": 52
-            },
-            {
-              "text": "He wondered if the key would turn, or if he should wait for another sign.",
-              "audioStart": 52.862,
-              "audioEnd": 56.375
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He pushed the key into the lock and turned it carefully.",
-              "audioStart": 57.237,
-              "audioEnd": 59.888
-            },
-            {
-              "text": "The door opened to reveal a small room full of old records and forgotten letters.",
-              "audioStart": 60.75,
-              "audioEnd": 64.825
-            },
-            {
-              "text": "Leo realized that he had found the true history of his family within this secret place.",
-              "audioStart": 65.688,
-              "audioEnd": 70.138
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The sun was beginning to fall behind the mountains as he finished his search.",
-              "audioStart": 71,
-              "audioEnd": 74.562
-            },
-            {
-              "text": "Everything about his life now felt different because he had solved the mystery.",
-              "audioStart": 75.425,
-              "audioEnd": 79.075
-            },
-            {
-              "text": "He felt proud that he had followed the clues to the very end.",
-              "audioStart": 79.938,
-              "audioEnd": 82.862
-            }
-          ]
-        }
-      ],
-      "audio": "audio/b1/st-0060.mp3",
-      "wordTimings": "audio/b1/st-0060.timings.json",
-      "quiz": [
-        {
-          "q": "Where did Leo find the silver key?",
-          "options": [
-            "Inside a book at the library",
-            "Near the park gate",
-            "Behind the old church"
-          ],
-          "answer": 0
-        },
-        {
-          "q": "What did the note near the park suggest?",
-          "options": [
-            "The key belonged to his family",
-            "The key was for a place where time stood still",
-            "He should wait for another sign"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "What was inside the room behind the church door?",
-          "options": [
-            "Old silver keys",
-            "Secret family history records",
-            "A hidden mountain map"
-          ],
-          "answer": 1
-        }
-      ]
-    },
-    "A2": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Leo was a student.",
-              "audioStart": 0.106,
-              "audioEnd": 1.383
-            },
-            {
-              "text": "He liked to spend his quiet afternoon in the old library.",
-              "audioStart": 2.347,
-              "audioEnd": 5.639
-            },
-            {
-              "text": "He read a book about local history.",
-              "audioStart": 6.597,
-              "audioEnd": 8.681
-            },
-            {
-              "text": "He saw something strange between the pages.",
-              "audioStart": 9.639,
-              "audioEnd": 12.236
-            },
-            {
-              "text": "A small silver key was deep inside the paper.",
-              "audioStart": 13.194,
-              "audioEnd": 15.986
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo felt wonder as he looked at the key.",
-              "audioStart": 16.944,
-              "audioEnd": 19.194
-            },
-            {
-              "text": "He decided he must find what the key opened.",
-              "audioStart": 20.153,
-              "audioEnd": 22.694
-            },
-            {
-              "text": "He wanted to do this before the sun went down.",
-              "audioStart": 23.653,
-              "audioEnd": 26.375
-            },
-            {
-              "text": "If he found the right door, he would know the town history.",
-              "audioStart": 27.333,
-              "audioEnd": 30.583
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He walked out into the street.",
-              "audioStart": 31.542,
-              "audioEnd": 33.208
-            },
-            {
-              "text": "The first clue was waiting for him.",
-              "audioStart": 34.167,
-              "audioEnd": 36.181
-            },
-            {
-              "text": "A small note was on a wall near the park.",
-              "audioStart": 37.139,
-              "audioEnd": 39.528
-            },
-            {
-              "text": "The note said the key belonged to a place of time.",
-              "audioStart": 40.486,
-              "audioEnd": 43.167
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo moved quickly toward the old church in the town center.",
-              "audioStart": 44.125,
-              "audioEnd": 47.347
-            },
-            {
-              "text": "The building was silent.",
-              "audioStart": 48.306,
-              "audioEnd": 49.708
-            },
-            {
-              "text": "He saw a small lock on a side door.",
-              "audioStart": 50.667,
-              "audioEnd": 52.861
-            },
-            {
-              "text": "It matched his key perfectly.",
-              "audioStart": 53.819,
-              "audioEnd": 55.653
-            },
-            {
-              "text": "He wondered if he should wait for another sign.",
-              "audioStart": 56.611,
-              "audioEnd": 59.042
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He pushed the key into the lock and turned it.",
-              "audioStart": 60,
-              "audioEnd": 62.347
-            },
-            {
-              "text": "The door opened.",
-              "audioStart": 63.306,
-              "audioEnd": 64.333
-            },
-            {
-              "text": "He saw a room full of old records and letters.",
-              "audioStart": 65.292,
-              "audioEnd": 67.931
-            },
-            {
-              "text": "Leo realized he found his family history in this secret place.",
-              "audioStart": 68.889,
-              "audioEnd": 72.792
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The sun went down behind the mountains.",
-              "audioStart": 73.75,
-              "audioEnd": 75.917
-            },
-            {
-              "text": "He finished his search.",
-              "audioStart": 76.875,
-              "audioEnd": 78.292
-            },
-            {
-              "text": "Everything about his life felt different now.",
-              "audioStart": 79.25,
-              "audioEnd": 81.569
-            },
-            {
-              "text": "He solved the mystery.",
-              "audioStart": 82.528,
-              "audioEnd": 83.847
-            },
-            {
-              "text": "He felt proud that he followed the clues to the end.",
-              "audioStart": 84.806,
-              "audioEnd": 87.528
-            }
-          ]
-        }
-      ],
-      "audio": "audio/a2/st-0060.mp3",
-      "wordTimings": "audio/a2/st-0060.timings.json",
-      "quiz": [
-        {
-          "q": "Where did Leo find the silver key?",
-          "options": [
-            "Inside a book",
-            "On a stone wall",
-            "In the church"
-          ],
-          "answer": 0
-        },
-        {
-          "q": "What did the note say about the key?",
-          "options": [
-            "It opened the park gate",
-            "It belonged to a place where time stood still",
-            "It was for a house far away"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "What was inside the secret room?",
-          "options": [
-            "Old family records and letters",
-            "Money and gold",
-            "New books about the town"
-          ],
-          "answer": 0
-        }
-      ]
-    },
     "A1": {
       "paragraphs": [
         {
@@ -716,6 +209,867 @@
             "On a desk",
             "On a stone wall",
             "Inside the church"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo was a student.",
+              "audioStart": 0.106,
+              "audioEnd": 1.383
+            },
+            {
+              "text": "He liked to spend his quiet afternoon in the old library.",
+              "audioStart": 2.347,
+              "audioEnd": 5.639
+            },
+            {
+              "text": "He read a book about local history.",
+              "audioStart": 6.597,
+              "audioEnd": 8.681
+            },
+            {
+              "text": "He saw something strange between the pages.",
+              "audioStart": 9.639,
+              "audioEnd": 12.236
+            },
+            {
+              "text": "A small silver key was deep inside the paper.",
+              "audioStart": 13.194,
+              "audioEnd": 15.986
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo felt wonder as he looked at the key.",
+              "audioStart": 16.944,
+              "audioEnd": 19.194
+            },
+            {
+              "text": "He decided he must find what the key opened.",
+              "audioStart": 20.153,
+              "audioEnd": 22.694
+            },
+            {
+              "text": "He wanted to do this before the sun went down.",
+              "audioStart": 23.653,
+              "audioEnd": 26.375
+            },
+            {
+              "text": "If he found the right door, he would know the town history.",
+              "audioStart": 27.333,
+              "audioEnd": 30.583
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He walked out into the street.",
+              "audioStart": 31.542,
+              "audioEnd": 33.208
+            },
+            {
+              "text": "The first clue was waiting for him.",
+              "audioStart": 34.167,
+              "audioEnd": 36.181
+            },
+            {
+              "text": "A small note was on a wall near the park.",
+              "audioStart": 37.139,
+              "audioEnd": 39.528
+            },
+            {
+              "text": "The note said the key belonged to a place of time.",
+              "audioStart": 40.486,
+              "audioEnd": 43.167
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo moved quickly toward the old church in the town center.",
+              "audioStart": 44.125,
+              "audioEnd": 47.347
+            },
+            {
+              "text": "The building was silent.",
+              "audioStart": 48.306,
+              "audioEnd": 49.708
+            },
+            {
+              "text": "He saw a small lock on a side door.",
+              "audioStart": 50.667,
+              "audioEnd": 52.861
+            },
+            {
+              "text": "It matched his key perfectly.",
+              "audioStart": 53.819,
+              "audioEnd": 55.653
+            },
+            {
+              "text": "He wondered if he should wait for another sign.",
+              "audioStart": 56.611,
+              "audioEnd": 59.042
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He pushed the key into the lock and turned it.",
+              "audioStart": 60,
+              "audioEnd": 62.347
+            },
+            {
+              "text": "The door opened.",
+              "audioStart": 63.306,
+              "audioEnd": 64.333
+            },
+            {
+              "text": "He saw a room full of old records and letters.",
+              "audioStart": 65.292,
+              "audioEnd": 67.931
+            },
+            {
+              "text": "Leo realized he found his family history in this secret place.",
+              "audioStart": 68.889,
+              "audioEnd": 72.792
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The sun went down behind the mountains.",
+              "audioStart": 73.75,
+              "audioEnd": 75.917
+            },
+            {
+              "text": "He finished his search.",
+              "audioStart": 76.875,
+              "audioEnd": 78.292
+            },
+            {
+              "text": "Everything about his life felt different now.",
+              "audioStart": 79.25,
+              "audioEnd": 81.569
+            },
+            {
+              "text": "He solved the mystery.",
+              "audioStart": 82.528,
+              "audioEnd": 83.847
+            },
+            {
+              "text": "He felt proud that he followed the clues to the end.",
+              "audioStart": 84.806,
+              "audioEnd": 87.528
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0060.mp3",
+      "wordTimings": "audio/a2/st-0060.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo find the silver key?",
+          "options": [
+            "Inside a book",
+            "On a stone wall",
+            "In the church"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the note say about the key?",
+          "options": [
+            "It opened the park gate",
+            "It belonged to a place where time stood still",
+            "It was for a house far away"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What was inside the secret room?",
+          "options": [
+            "Old family records and letters",
+            "Money and gold",
+            "New books about the town"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo was a student.",
+              "audioStart": 0.1,
+              "audioEnd": 1.25
+            },
+            {
+              "text": "He liked to spend his quiet afternoon hours in the old town library.",
+              "audioStart": 2.112,
+              "audioEnd": 5.638
+            },
+            {
+              "text": "He read a book about local history.",
+              "audioStart": 6.5,
+              "audioEnd": 8.375
+            },
+            {
+              "text": "He noticed something strange between the pages.",
+              "audioStart": 9.238,
+              "audioEnd": 11.725
+            },
+            {
+              "text": "A small silver key had been hidden deep inside the paper.",
+              "audioStart": 12.588,
+              "audioEnd": 15.525
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo felt wonder as he looked at the mysterious object.",
+              "audioStart": 16.387,
+              "audioEnd": 19.188
+            },
+            {
+              "text": "He decided that he must find what the key opened before the sun went down.",
+              "audioStart": 20.05,
+              "audioEnd": 23.8
+            },
+            {
+              "text": "If he found the right door, he would finally understand the secret history of the town.",
+              "audioStart": 24.663,
+              "audioEnd": 29.05
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He walked out into the street where the first clue was waiting for him.",
+              "audioStart": 29.913,
+              "audioEnd": 33.225
+            },
+            {
+              "text": "A small note was on a stone wall near the park gate.",
+              "audioStart": 34.087,
+              "audioEnd": 36.837
+            },
+            {
+              "text": "The note suggested that the key belonged to a place where time stood still.",
+              "audioStart": 37.7,
+              "audioEnd": 41.312
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo moved quickly toward the old church at the center of the village.",
+              "audioStart": 42.175,
+              "audioEnd": 45.337
+            },
+            {
+              "text": "The building was silent.",
+              "audioStart": 46.2,
+              "audioEnd": 47.462
+            },
+            {
+              "text": "He noticed a small lock on a side door which matched his key perfectly.",
+              "audioStart": 48.325,
+              "audioEnd": 52
+            },
+            {
+              "text": "He wondered if the key would turn, or if he should wait for another sign.",
+              "audioStart": 52.862,
+              "audioEnd": 56.375
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He pushed the key into the lock and turned it carefully.",
+              "audioStart": 57.237,
+              "audioEnd": 59.888
+            },
+            {
+              "text": "The door opened to reveal a small room full of old records and forgotten letters.",
+              "audioStart": 60.75,
+              "audioEnd": 64.825
+            },
+            {
+              "text": "Leo realized that he had found the true history of his family within this secret place.",
+              "audioStart": 65.688,
+              "audioEnd": 70.138
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The sun was beginning to fall behind the mountains as he finished his search.",
+              "audioStart": 71,
+              "audioEnd": 74.562
+            },
+            {
+              "text": "Everything about his life now felt different because he had solved the mystery.",
+              "audioStart": 75.425,
+              "audioEnd": 79.075
+            },
+            {
+              "text": "He felt proud that he had followed the clues to the very end.",
+              "audioStart": 79.938,
+              "audioEnd": 82.862
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0060.mp3",
+      "wordTimings": "audio/b1/st-0060.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo find the silver key?",
+          "options": [
+            "Inside a book at the library",
+            "Near the park gate",
+            "Behind the old church"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the note near the park suggest?",
+          "options": [
+            "The key belonged to his family",
+            "The key was for a place where time stood still",
+            "He should wait for another sign"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What was inside the room behind the church door?",
+          "options": [
+            "Old silver keys",
+            "Secret family history records",
+            "A hidden mountain map"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo was a student who enjoyed spending his quiet afternoon hours in the old town library.",
+              "audioStart": 0.1,
+              "audioEnd": 4.662
+            },
+            {
+              "text": "While he read a book about local history, he noticed something strange between the pages.",
+              "audioStart": 5.525,
+              "audioEnd": 10.162
+            },
+            {
+              "text": "A small silver key had been hidden deep inside the paper.",
+              "audioStart": 11.025,
+              "audioEnd": 13.963
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo felt a sense of wonder as he looked at the mysterious object.",
+              "audioStart": 14.825,
+              "audioEnd": 18.15
+            },
+            {
+              "text": "He decided that he must discover what the key unlocked before the sun went down.",
+              "audioStart": 19.012,
+              "audioEnd": 23.225
+            },
+            {
+              "text": "If he found the right door, he would finally understand the secret history of the town.",
+              "audioStart": 24.087,
+              "audioEnd": 28.475
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He walked out into the street where the first clue was waiting for him.",
+              "audioStart": 29.337,
+              "audioEnd": 32.65
+            },
+            {
+              "text": "A small note was attached to a stone wall near the park gate.",
+              "audioStart": 33.513,
+              "audioEnd": 36.763
+            },
+            {
+              "text": "The note suggested that the key belonged to a place where time stood still.",
+              "audioStart": 37.625,
+              "audioEnd": 41.237
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo moved quickly toward the old church at the center of the village.",
+              "audioStart": 42.1,
+              "audioEnd": 45.263
+            },
+            {
+              "text": "The building was silent, but he noticed a small lock on a side door which matched his key perfectly.",
+              "audioStart": 46.125,
+              "audioEnd": 51.362
+            },
+            {
+              "text": "He wondered if the key would turn, or if he should wait for another sign.",
+              "audioStart": 52.225,
+              "audioEnd": 55.737
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He pushed the key into the lock and turned it carefully.",
+              "audioStart": 56.6,
+              "audioEnd": 59.25
+            },
+            {
+              "text": "The door opened to reveal a small room full of old records and forgotten letters.",
+              "audioStart": 60.112,
+              "audioEnd": 64.188
+            },
+            {
+              "text": "Leo realized that he had found the true history of his family within this secret place.",
+              "audioStart": 65.05,
+              "audioEnd": 69.5
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The sun was beginning to fall behind the mountains as he finished his search.",
+              "audioStart": 70.362,
+              "audioEnd": 73.925
+            },
+            {
+              "text": "Everything about his life now felt different because he had solved the mystery.",
+              "audioStart": 74.787,
+              "audioEnd": 78.438
+            },
+            {
+              "text": "He felt proud that he had followed the clues to the very end.",
+              "audioStart": 79.3,
+              "audioEnd": 82.225
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0060.mp3",
+      "wordTimings": "audio/b2/st-0060.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo first find the silver key?",
+          "options": [
+            "Inside a park gate",
+            "Hidden within a library book",
+            "Behind a stone wall"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What was the time limit for Leo to solve the mystery?",
+          "options": [
+            "Before sunset",
+            "Before the library closed",
+            "Before the next morning"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What was located behind the door that the key opened?",
+          "options": [
+            "A collection of gold coins",
+            "A hidden room with old records",
+            "A secret garden with flowers"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo, a third-year history student, habitually spent his quiet afternoons in the vaulted silence of the old town library.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The scent of aged paper and dust mingled with a faint hint of pine, a comforting perfume that settled over the wooden tables.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He had opened a thick volume on local folklore, its margins yellowed and its pages whispering stories of forgotten festivals.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Midway through a passage about the town's founding, a glint caught his eye, as if a tiny star had slipped between the fibres.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "There, nestled in the crease of a page, lay a small silver key, its surface polished to a mirror sheen that seemed almost deliberate.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A sudden rush of wonder rose within him, as if the key were a silent invitation to uncover a story that time itself had concealed.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He imagined the lock it might fit, picturing a hidden chamber where the town's forgotten secrets waited, patient as the dust on ancient shelves.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The thought of solving the mystery before the sun slipped behind the distant hills became a quiet vow, a promise to himself.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "If the key unlocked something meaningful, perhaps it would finally illuminate the obscure lineage that had always hovered at the edges of his own identity.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "With a brisk breath, he slipped the book back onto the shelf, pocketed the key, and stepped out into the late-afternoon light.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The cobblestones of the narrow lane glistened after a brief rain, each stone reflecting the amber glow of street lamps that were just beginning to stir.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Near the wrought-iron gate of the small park, a weathered stone wall bore a small, crumpled note pinned with a rusted thumbtack.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The ink, though faded, read: 'The key belongs to a place where time stands still; seek the heart that never beats.'",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "His mind flickered to the old church at the village centre, its tower a silent sentinel that had watched generations rise and fall.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Without lingering, Leo turned left, his steps echoing against the stone as he hurried toward the looming silhouette of the building.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The path to the church wound through a narrow alley lined with ivy-clad bricks, each leaf trembling in the gentle autumn breeze.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Above him, the bell tower rose like a weathered crown, its stone face mottled with lichen, hinting at centuries of whispered prayers.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A faint echo of choir chants drifted from within, a melancholy hymn that seemed to guide his steps toward destiny.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He paused before the heavy oak doors, feeling the coolness of stone seep through the cracks, a reminder that history lingered in every shadow.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Then his eyes caught a small, iron lock set into the side wall of the chapel, its keyhole perfectly matching the curve of his silver find.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A shiver ran down his spine, half from the chill of the stone and half from the thrill of the unknown, as he lifted the key.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He slipped the slender silver piece into the lock, feeling the cold metal greet his fingertips like a long-awaited handshake.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The tumblers inside clicked softly, each sound resonating like a secret pulse, and the lock yielded with a reluctant sigh.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The door creaked open, revealing a narrow stairwell descending into darkness, its walls lined with faded frescoes of saints long forgotten.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo steadied his breath, aware that every step forward was a step deeper into the past that had patiently waited for his curiosity.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At the bottom of the stairwell, a modest wooden door stood ajar, spilling a thin beam of amber light onto a carpet of dust.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Inside, rows of oak cabinets stretched to the ceiling, each drawer labeled in elegant cursive with dates that stretched back to the seventeenth century.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo's fingers brushed over brittle parchment, letters penned in ink that had faded to sepia, recounting deeds, marriages, and tragedies of families long vanished.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Among the stacks he uncovered a leather-bound journal bearing his family's crest, its pages filled with a narrative that traced his ancestry to a forgotten shipwright.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A sudden warmth rose in his chest as he realized that the mystery of the silver key was not merely a puzzle, but a bridge to his own roots.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As he read the final entry, the sun slipped behind the distant mountains, casting long shadows that painted the room in gold and violet.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The fading light seemed to echo the passage of time recorded in the journal, each line a thread weaving past into present.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He felt a profound connection to the men and women whose names were etched in ink, their hopes and fears now reverberating within him.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The realization that the key had unlocked not only a door but also a lineage filled him with a quiet pride that settled deep in his bones.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He tucked the journal into his satchel, aware that the story he now carried would shape the chapters he had yet to write.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leaving the church, Leo stepped back onto the cobbled street, where the evening air was scented with wet stone and distant pine.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The note's cryptic promise lingered in his mind, yet the answer he sought had materialized in the very heart of the town's history.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He understood now that mysteries are not obstacles but invitations, each clue a stepping stone toward a deeper understanding of who we are.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "As the first stars appeared, their faint light seemed to echo the silver glint of the key still hidden in his pocket.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He smiled, feeling that the quiet afternoons he cherished in the library had gained a new dimension-a living story that he now carried forward.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Back in the familiar hush of the library, Leo placed the silver key on the table, its cold surface catching the lamplight like a tiny star.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He opened the same book, now aware that every margin might conceal another secret, and felt the pages breathe beneath his fingertips.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A gentle rustle announced the arrival of the evening caretaker, whose smile hinted that the library itself guarded stories waiting for curious hearts.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "She whispered that the key had been missing for decades, and that its return might awaken memories long dormant within the town's collective soul.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo nodded, realizing that his discovery was both an ending and a beginning, a thread that would tug at future seekers of hidden truths.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Walking home beneath a sky embroidered with the first pale stars, Leo contemplated how a single object could compress centuries into a heartbeat.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He imagined the countless hands that had once turned the same key, each owner imprinting a fragment of their own story upon it.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The notion that history lives not only in grand monuments but also in forgotten pockets of metal gave him a reverent respect for the mundane.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He resolved to document the journal's contents, to share the voices of those ancestors with anyone willing to listen, thereby extending their quiet existence.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "In that promise lay the true reward of his adventure: the transformation of curiosity into stewardship, a duty he would carry forward.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Later, as the library's clocks chimed midnight, Leo slipped the key into his pocket, feeling its weight as a silent oath.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He knew that the town's hidden narratives would continue to surface, each revelation a ripple that reshaped the surface of collective memory.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The mystery of the missing silver key had taught him that every ordinary day holds the potential for extraordinary discovery, if one dares to look.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "And so, with the night draping the village in a velvet hush, Leo returned to his studies, his mind alive with new questions.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The silver key remained a quiet promise lodged between his fingers, reminding him that the past is never truly buried, only waiting to be uncovered.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "wordTimings": null,
+      "quiz": [
+        {
+          "q": "What does the phrase \"the key belonged to a place where time stood still\" most likely suggest about the location Leo seeks?",
+          "options": [
+            "A museum preserving artifacts",
+            "A location untouched by change",
+            "A clock tower"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How does Leo's reaction to discovering the journal reflect his personal growth?",
+          "options": [
+            "He feels superior to others",
+            "He experiences a profound connection to his ancestors",
+            "He decides to abandon his studies"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What theme is highlighted by the final paragraph's description of the silver key as a \"quiet promise\"?",
+          "options": [
+            "The inevitability of death",
+            "The persistence of hidden histories",
+            "The futility of curiosity"
           ],
           "answer": 1
         }

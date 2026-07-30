@@ -5,580 +5,6 @@
   "summary": "Leo finds a mysterious note in a library book every day.",
   "coverScene": "A young man sits on a wooden library floor between high bookshelves, reading a small, worn book while holding a pen.",
   "levels": {
-    "B2": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Leo spent every afternoon in the local library because the silence helped him think.",
-              "audioStart": 0.1,
-              "audioEnd": 4.312
-            },
-            {
-              "text": "One rainy day, he found a small, handwritten note inside a dusty old book.",
-              "audioStart": 5.175,
-              "audioEnd": 9.662
-            },
-            {
-              "text": "The note was about the beauty of life, which made him feel less alone.",
-              "audioStart": 10.525,
-              "audioEnd": 14.125
-            },
-            {
-              "text": "He decided to write a short reply on the same page before he left.",
-              "audioStart": 14.988,
-              "audioEnd": 18.663
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He returned the next day to see if anyone had read his message.",
-              "audioStart": 19.525,
-              "audioEnd": 22.725
-            },
-            {
-              "text": "To his surprise, a new, neat response was waiting for him.",
-              "audioStart": 23.587,
-              "audioEnd": 27.137
-            },
-            {
-              "text": "This became a secret game between the two strangers who shared their favorite stories.",
-              "audioStart": 28,
-              "audioEnd": 32.2
-            },
-            {
-              "text": "They started to leave notes in different books throughout the library.",
-              "audioStart": 33.062,
-              "audioEnd": 36.062
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo became very curious about the identity of the person who wrote back to him.",
-              "audioStart": 36.925,
-              "audioEnd": 41.038
-            },
-            {
-              "text": "He wondered if she was a student or perhaps a teacher at the school nearby.",
-              "audioStart": 41.9,
-              "audioEnd": 45.25
-            },
-            {
-              "text": "She seemed to understand his thoughts better than anyone else he knew.",
-              "audioStart": 46.112,
-              "audioEnd": 49.188
-            },
-            {
-              "text": "They had never met, but their connection through words felt very real and strong.",
-              "audioStart": 50.05,
-              "audioEnd": 54.112
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "One afternoon, Leo arrived at the library to find a new note in his favorite book.",
-              "audioStart": 54.975,
-              "audioEnd": 59.35
-            },
-            {
-              "text": "It invited him to meet at the center table at four o'clock that day.",
-              "audioStart": 60.212,
-              "audioEnd": 63.788
-            },
-            {
-              "text": "He felt nervous but excited as he walked toward the meeting place.",
-              "audioStart": 64.65,
-              "audioEnd": 68.125
-            },
-            {
-              "text": "He saw a girl sitting there with a book in her hand, waiting for someone.",
-              "audioStart": 68.987,
-              "audioEnd": 72.55
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo approached the girl and asked if she was the one who wrote the notes.",
-              "audioStart": 73.412,
-              "audioEnd": 76.888
-            },
-            {
-              "text": "She looked up with a kind smile and held out a piece of paper.",
-              "audioStart": 77.75,
-              "audioEnd": 80.812
-            },
-            {
-              "text": "Her name was Maya, and she had also been looking for a friend who loved stories.",
-              "audioStart": 81.675,
-              "audioEnd": 85.888
-            },
-            {
-              "text": "They spent the rest of the evening talking about the characters they both adored.",
-              "audioStart": 86.75,
-              "audioEnd": 90.4
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "They realized that their love for books had brought them together in such a special way.",
-              "audioStart": 91.263,
-              "audioEnd": 95.375
-            },
-            {
-              "text": "Since that day, they have continued to read and share their ideas together.",
-              "audioStart": 96.237,
-              "audioEnd": 100.075
-            },
-            {
-              "text": "Their friendship grew into something much deeper as they learned more about each other.",
-              "audioStart": 100.938,
-              "audioEnd": 104.838
-            },
-            {
-              "text": "The library became the place where their new life together started.",
-              "audioStart": 105.7,
-              "audioEnd": 108.9
-            }
-          ]
-        }
-      ],
-      "audio": "audio/b2/st-0098.mp3",
-      "wordTimings": "audio/b2/st-0098.timings.json",
-      "quiz": [
-        {
-          "q": "Where did Leo first find the note?",
-          "options": [
-            "Inside a new magazine",
-            "Inside a dusty old book",
-            "On the library table"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "How did Leo and the stranger communicate?",
-          "options": [
-            "By sending emails",
-            "By leaving notes in books",
-            "By talking on the phone"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "Who did Leo meet at the library at four o'clock?",
-          "options": [
-            "A librarian",
-            "His brother",
-            "A girl named Maya"
-          ],
-          "answer": 2
-        }
-      ]
-    },
-    "B1": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Leo spent every afternoon in the local library.",
-              "audioStart": 0.1,
-              "audioEnd": 2.625
-            },
-            {
-              "text": "The silence helped him think.",
-              "audioStart": 3.487,
-              "audioEnd": 5.05
-            },
-            {
-              "text": "One rainy day, he found a small note inside an old book.",
-              "audioStart": 5.912,
-              "audioEnd": 9.175
-            },
-            {
-              "text": "The note was about the beauty of life.",
-              "audioStart": 10.037,
-              "audioEnd": 11.9
-            },
-            {
-              "text": "It made him feel less alone.",
-              "audioStart": 12.762,
-              "audioEnd": 14.387
-            },
-            {
-              "text": "He decided to write a reply on the same page.",
-              "audioStart": 15.25,
-              "audioEnd": 17.812
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He returned the next day to see if anyone had read his message.",
-              "audioStart": 18.675,
-              "audioEnd": 21.875
-            },
-            {
-              "text": "To his surprise, a new response was waiting for him.",
-              "audioStart": 22.738,
-              "audioEnd": 25.613
-            },
-            {
-              "text": "This became a secret game between the two strangers.",
-              "audioStart": 26.475,
-              "audioEnd": 29.225
-            },
-            {
-              "text": "They shared their favorite stories in different books throughout the library.",
-              "audioStart": 30.087,
-              "audioEnd": 33.35
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo became very curious about the person who wrote back.",
-              "audioStart": 34.212,
-              "audioEnd": 37.3
-            },
-            {
-              "text": "He wondered if she was a student or a teacher nearby.",
-              "audioStart": 38.163,
-              "audioEnd": 40.663
-            },
-            {
-              "text": "She seemed to understand his thoughts well.",
-              "audioStart": 41.525,
-              "audioEnd": 43.5
-            },
-            {
-              "text": "They had never met, but their connection through words felt strong.",
-              "audioStart": 44.362,
-              "audioEnd": 47.587
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "One afternoon, Leo found a new note in his favorite book.",
-              "audioStart": 48.45,
-              "audioEnd": 51.575
-            },
-            {
-              "text": "It invited him to meet at the center table at four o'clock.",
-              "audioStart": 52.438,
-              "audioEnd": 55.525
-            },
-            {
-              "text": "He felt nervous but excited as he walked to the meeting place.",
-              "audioStart": 56.388,
-              "audioEnd": 59.638
-            },
-            {
-              "text": "He saw a girl sitting there with a book.",
-              "audioStart": 60.5,
-              "audioEnd": 62.4
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo approached the girl and asked if she wrote the notes.",
-              "audioStart": 63.263,
-              "audioEnd": 66.05
-            },
-            {
-              "text": "She looked up with a kind smile.",
-              "audioStart": 66.912,
-              "audioEnd": 68.55
-            },
-            {
-              "text": "Her name was Maya.",
-              "audioStart": 69.412,
-              "audioEnd": 70.487
-            },
-            {
-              "text": "She had also been looking for a friend who loved stories.",
-              "audioStart": 71.35,
-              "audioEnd": 74.162
-            },
-            {
-              "text": "They spent the evening talking about the characters they both adored.",
-              "audioStart": 75.025,
-              "audioEnd": 78.175
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "They realized that their love for books brought them together.",
-              "audioStart": 79.037,
-              "audioEnd": 81.9
-            },
-            {
-              "text": "Since that day, they have continued to share their ideas.",
-              "audioStart": 82.763,
-              "audioEnd": 85.825
-            },
-            {
-              "text": "Their friendship grew into something deep.",
-              "audioStart": 86.688,
-              "audioEnd": 88.625
-            },
-            {
-              "text": "The library became the place where their new life together started.",
-              "audioStart": 89.487,
-              "audioEnd": 92.688
-            }
-          ]
-        }
-      ],
-      "audio": "audio/b1/st-0098.mp3",
-      "wordTimings": "audio/b1/st-0098.timings.json",
-      "quiz": [
-        {
-          "q": "Why did Leo go to the library every afternoon?",
-          "options": [
-            "To meet his friends",
-            "The silence helped him think",
-            "To study for school"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "How did Leo and Maya start their friendship?",
-          "options": [
-            "By talking on the phone",
-            "By leaving notes in books",
-            "By meeting in class"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "What happened when Leo finally met Maya?",
-          "options": [
-            "They argued about a book",
-            "They talked about characters they both liked",
-            "They decided to stop writing notes"
-          ],
-          "answer": 1
-        }
-      ]
-    },
-    "A2": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Leo spent every afternoon in the local library.",
-              "audioStart": 0.106,
-              "audioEnd": 2.911
-            },
-            {
-              "text": "The silence helped him think.",
-              "audioStart": 3.875,
-              "audioEnd": 5.611
-            },
-            {
-              "text": "One rainy day, he found a note inside an old book.",
-              "audioStart": 6.569,
-              "audioEnd": 9.833
-            },
-            {
-              "text": "The note was about the beauty of life.",
-              "audioStart": 10.792,
-              "audioEnd": 12.861
-            },
-            {
-              "text": "It made him feel less alone.",
-              "audioStart": 13.819,
-              "audioEnd": 15.625
-            },
-            {
-              "text": "He decided to write a reply on the same page.",
-              "audioStart": 16.583,
-              "audioEnd": 19.431
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He returned the next day to see the page.",
-              "audioStart": 20.389,
-              "audioEnd": 22.833
-            },
-            {
-              "text": "A new response was waiting for him.",
-              "audioStart": 23.792,
-              "audioEnd": 25.806
-            },
-            {
-              "text": "This became a secret game between the two strangers.",
-              "audioStart": 26.764,
-              "audioEnd": 29.819
-            },
-            {
-              "text": "They shared their favorite stories.",
-              "audioStart": 30.778,
-              "audioEnd": 32.653
-            },
-            {
-              "text": "They started to leave notes in different books.",
-              "audioStart": 33.611,
-              "audioEnd": 36.028
-            },
-            {
-              "text": "Leo became very curious about the person who wrote back.",
-              "audioStart": 36.986,
-              "audioEnd": 40.417
-            },
-            {
-              "text": "He wondered if she was a student.",
-              "audioStart": 41.375,
-              "audioEnd": 43.111
-            },
-            {
-              "text": "She seemed to understand his thoughts well.",
-              "audioStart": 44.069,
-              "audioEnd": 46.264
-            },
-            {
-              "text": "They never met, but their connection felt very strong.",
-              "audioStart": 47.222,
-              "audioEnd": 50.486
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "One afternoon, Leo found a new note.",
-              "audioStart": 51.444,
-              "audioEnd": 53.889
-            },
-            {
-              "text": "It asked him to meet at the center table at four.",
-              "audioStart": 54.847,
-              "audioEnd": 57.569
-            },
-            {
-              "text": "He felt nervous but excited.",
-              "audioStart": 58.528,
-              "audioEnd": 60.319
-            },
-            {
-              "text": "He walked toward the meeting place.",
-              "audioStart": 61.278,
-              "audioEnd": 63.278
-            },
-            {
-              "text": "He saw a girl sitting there with a book.",
-              "audioStart": 64.236,
-              "audioEnd": 66.347
-            },
-            {
-              "text": "Leo approached the girl and asked about the notes.",
-              "audioStart": 67.306,
-              "audioEnd": 70.083
-            },
-            {
-              "text": "She looked up with a kind smile.",
-              "audioStart": 71.042,
-              "audioEnd": 72.861
-            },
-            {
-              "text": "Her name was Maya.",
-              "audioStart": 73.819,
-              "audioEnd": 75.014
-            },
-            {
-              "text": "She also wanted a friend who loved stories.",
-              "audioStart": 75.972,
-              "audioEnd": 78.556
-            },
-            {
-              "text": "They spent the rest of the evening talking.",
-              "audioStart": 79.514,
-              "audioEnd": 81.792
-            },
-            {
-              "text": "They talked about the characters they both loved.",
-              "audioStart": 82.75,
-              "audioEnd": 85.306
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "They realized that books brought them together.",
-              "audioStart": 86.264,
-              "audioEnd": 88.736
-            },
-            {
-              "text": "Since that day, they continue to read and share ideas.",
-              "audioStart": 89.694,
-              "audioEnd": 93.194
-            },
-            {
-              "text": "Their friendship grew into something deeper.",
-              "audioStart": 94.153,
-              "audioEnd": 96.403
-            },
-            {
-              "text": "The library became the place where their life together started.",
-              "audioStart": 97.361,
-              "audioEnd": 100.736
-            }
-          ]
-        }
-      ],
-      "audio": "audio/a2/st-0098.mp3",
-      "wordTimings": "audio/a2/st-0098.timings.json",
-      "quiz": [
-        {
-          "q": "Where did Leo find the first note?",
-          "options": [
-            "On a table",
-            "Inside an old book",
-            "At the front desk"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "What time did Maya ask Leo to meet her?",
-          "options": [
-            "At three o'clock",
-            "At four o'clock",
-            "At five o'clock"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "How did Leo feel when he walked to the meeting place?",
-          "options": [
-            "Nervous but excited",
-            "Very angry",
-            "Quite bored"
-          ],
-          "answer": 0
-        }
-      ]
-    },
     "A1": {
       "paragraphs": [
         {
@@ -796,6 +222,934 @@
             "Sarah"
           ],
           "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo spent every afternoon in the local library.",
+              "audioStart": 0.106,
+              "audioEnd": 2.911
+            },
+            {
+              "text": "The silence helped him think.",
+              "audioStart": 3.875,
+              "audioEnd": 5.611
+            },
+            {
+              "text": "One rainy day, he found a note inside an old book.",
+              "audioStart": 6.569,
+              "audioEnd": 9.833
+            },
+            {
+              "text": "The note was about the beauty of life.",
+              "audioStart": 10.792,
+              "audioEnd": 12.861
+            },
+            {
+              "text": "It made him feel less alone.",
+              "audioStart": 13.819,
+              "audioEnd": 15.625
+            },
+            {
+              "text": "He decided to write a reply on the same page.",
+              "audioStart": 16.583,
+              "audioEnd": 19.431
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He returned the next day to see the page.",
+              "audioStart": 20.389,
+              "audioEnd": 22.833
+            },
+            {
+              "text": "A new response was waiting for him.",
+              "audioStart": 23.792,
+              "audioEnd": 25.806
+            },
+            {
+              "text": "This became a secret game between the two strangers.",
+              "audioStart": 26.764,
+              "audioEnd": 29.819
+            },
+            {
+              "text": "They shared their favorite stories.",
+              "audioStart": 30.778,
+              "audioEnd": 32.653
+            },
+            {
+              "text": "They started to leave notes in different books.",
+              "audioStart": 33.611,
+              "audioEnd": 36.028
+            },
+            {
+              "text": "Leo became very curious about the person who wrote back.",
+              "audioStart": 36.986,
+              "audioEnd": 40.417
+            },
+            {
+              "text": "He wondered if she was a student.",
+              "audioStart": 41.375,
+              "audioEnd": 43.111
+            },
+            {
+              "text": "She seemed to understand his thoughts well.",
+              "audioStart": 44.069,
+              "audioEnd": 46.264
+            },
+            {
+              "text": "They never met, but their connection felt very strong.",
+              "audioStart": 47.222,
+              "audioEnd": 50.486
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One afternoon, Leo found a new note.",
+              "audioStart": 51.444,
+              "audioEnd": 53.889
+            },
+            {
+              "text": "It asked him to meet at the center table at four.",
+              "audioStart": 54.847,
+              "audioEnd": 57.569
+            },
+            {
+              "text": "He felt nervous but excited.",
+              "audioStart": 58.528,
+              "audioEnd": 60.319
+            },
+            {
+              "text": "He walked toward the meeting place.",
+              "audioStart": 61.278,
+              "audioEnd": 63.278
+            },
+            {
+              "text": "He saw a girl sitting there with a book.",
+              "audioStart": 64.236,
+              "audioEnd": 66.347
+            },
+            {
+              "text": "Leo approached the girl and asked about the notes.",
+              "audioStart": 67.306,
+              "audioEnd": 70.083
+            },
+            {
+              "text": "She looked up with a kind smile.",
+              "audioStart": 71.042,
+              "audioEnd": 72.861
+            },
+            {
+              "text": "Her name was Maya.",
+              "audioStart": 73.819,
+              "audioEnd": 75.014
+            },
+            {
+              "text": "She also wanted a friend who loved stories.",
+              "audioStart": 75.972,
+              "audioEnd": 78.556
+            },
+            {
+              "text": "They spent the rest of the evening talking.",
+              "audioStart": 79.514,
+              "audioEnd": 81.792
+            },
+            {
+              "text": "They talked about the characters they both loved.",
+              "audioStart": 82.75,
+              "audioEnd": 85.306
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They realized that books brought them together.",
+              "audioStart": 86.264,
+              "audioEnd": 88.736
+            },
+            {
+              "text": "Since that day, they continue to read and share ideas.",
+              "audioStart": 89.694,
+              "audioEnd": 93.194
+            },
+            {
+              "text": "Their friendship grew into something deeper.",
+              "audioStart": 94.153,
+              "audioEnd": 96.403
+            },
+            {
+              "text": "The library became the place where their life together started.",
+              "audioStart": 97.361,
+              "audioEnd": 100.736
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0098.mp3",
+      "wordTimings": "audio/a2/st-0098.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo find the first note?",
+          "options": [
+            "On a table",
+            "Inside an old book",
+            "At the front desk"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What time did Maya ask Leo to meet her?",
+          "options": [
+            "At three o'clock",
+            "At four o'clock",
+            "At five o'clock"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Leo feel when he walked to the meeting place?",
+          "options": [
+            "Nervous but excited",
+            "Very angry",
+            "Quite bored"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo spent every afternoon in the local library.",
+              "audioStart": 0.1,
+              "audioEnd": 2.625
+            },
+            {
+              "text": "The silence helped him think.",
+              "audioStart": 3.487,
+              "audioEnd": 5.05
+            },
+            {
+              "text": "One rainy day, he found a small note inside an old book.",
+              "audioStart": 5.912,
+              "audioEnd": 9.175
+            },
+            {
+              "text": "The note was about the beauty of life.",
+              "audioStart": 10.037,
+              "audioEnd": 11.9
+            },
+            {
+              "text": "It made him feel less alone.",
+              "audioStart": 12.762,
+              "audioEnd": 14.387
+            },
+            {
+              "text": "He decided to write a reply on the same page.",
+              "audioStart": 15.25,
+              "audioEnd": 17.812
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He returned the next day to see if anyone had read his message.",
+              "audioStart": 18.675,
+              "audioEnd": 21.875
+            },
+            {
+              "text": "To his surprise, a new response was waiting for him.",
+              "audioStart": 22.738,
+              "audioEnd": 25.613
+            },
+            {
+              "text": "This became a secret game between the two strangers.",
+              "audioStart": 26.475,
+              "audioEnd": 29.225
+            },
+            {
+              "text": "They shared their favorite stories in different books throughout the library.",
+              "audioStart": 30.087,
+              "audioEnd": 33.35
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo became very curious about the person who wrote back.",
+              "audioStart": 34.212,
+              "audioEnd": 37.3
+            },
+            {
+              "text": "He wondered if she was a student or a teacher nearby.",
+              "audioStart": 38.163,
+              "audioEnd": 40.663
+            },
+            {
+              "text": "She seemed to understand his thoughts well.",
+              "audioStart": 41.525,
+              "audioEnd": 43.5
+            },
+            {
+              "text": "They had never met, but their connection through words felt strong.",
+              "audioStart": 44.362,
+              "audioEnd": 47.587
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One afternoon, Leo found a new note in his favorite book.",
+              "audioStart": 48.45,
+              "audioEnd": 51.575
+            },
+            {
+              "text": "It invited him to meet at the center table at four o'clock.",
+              "audioStart": 52.438,
+              "audioEnd": 55.525
+            },
+            {
+              "text": "He felt nervous but excited as he walked to the meeting place.",
+              "audioStart": 56.388,
+              "audioEnd": 59.638
+            },
+            {
+              "text": "He saw a girl sitting there with a book.",
+              "audioStart": 60.5,
+              "audioEnd": 62.4
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo approached the girl and asked if she wrote the notes.",
+              "audioStart": 63.263,
+              "audioEnd": 66.05
+            },
+            {
+              "text": "She looked up with a kind smile.",
+              "audioStart": 66.912,
+              "audioEnd": 68.55
+            },
+            {
+              "text": "Her name was Maya.",
+              "audioStart": 69.412,
+              "audioEnd": 70.487
+            },
+            {
+              "text": "She had also been looking for a friend who loved stories.",
+              "audioStart": 71.35,
+              "audioEnd": 74.162
+            },
+            {
+              "text": "They spent the evening talking about the characters they both adored.",
+              "audioStart": 75.025,
+              "audioEnd": 78.175
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They realized that their love for books brought them together.",
+              "audioStart": 79.037,
+              "audioEnd": 81.9
+            },
+            {
+              "text": "Since that day, they have continued to share their ideas.",
+              "audioStart": 82.763,
+              "audioEnd": 85.825
+            },
+            {
+              "text": "Their friendship grew into something deep.",
+              "audioStart": 86.688,
+              "audioEnd": 88.625
+            },
+            {
+              "text": "The library became the place where their new life together started.",
+              "audioStart": 89.487,
+              "audioEnd": 92.688
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0098.mp3",
+      "wordTimings": "audio/b1/st-0098.timings.json",
+      "quiz": [
+        {
+          "q": "Why did Leo go to the library every afternoon?",
+          "options": [
+            "To meet his friends",
+            "The silence helped him think",
+            "To study for school"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Leo and Maya start their friendship?",
+          "options": [
+            "By talking on the phone",
+            "By leaving notes in books",
+            "By meeting in class"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened when Leo finally met Maya?",
+          "options": [
+            "They argued about a book",
+            "They talked about characters they both liked",
+            "They decided to stop writing notes"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo spent every afternoon in the local library because the silence helped him think.",
+              "audioStart": 0.1,
+              "audioEnd": 4.312
+            },
+            {
+              "text": "One rainy day, he found a small, handwritten note inside a dusty old book.",
+              "audioStart": 5.175,
+              "audioEnd": 9.662
+            },
+            {
+              "text": "The note was about the beauty of life, which made him feel less alone.",
+              "audioStart": 10.525,
+              "audioEnd": 14.125
+            },
+            {
+              "text": "He decided to write a short reply on the same page before he left.",
+              "audioStart": 14.988,
+              "audioEnd": 18.663
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He returned the next day to see if anyone had read his message.",
+              "audioStart": 19.525,
+              "audioEnd": 22.725
+            },
+            {
+              "text": "To his surprise, a new, neat response was waiting for him.",
+              "audioStart": 23.587,
+              "audioEnd": 27.137
+            },
+            {
+              "text": "This became a secret game between the two strangers who shared their favorite stories.",
+              "audioStart": 28,
+              "audioEnd": 32.2
+            },
+            {
+              "text": "They started to leave notes in different books throughout the library.",
+              "audioStart": 33.062,
+              "audioEnd": 36.062
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo became very curious about the identity of the person who wrote back to him.",
+              "audioStart": 36.925,
+              "audioEnd": 41.038
+            },
+            {
+              "text": "He wondered if she was a student or perhaps a teacher at the school nearby.",
+              "audioStart": 41.9,
+              "audioEnd": 45.25
+            },
+            {
+              "text": "She seemed to understand his thoughts better than anyone else he knew.",
+              "audioStart": 46.112,
+              "audioEnd": 49.188
+            },
+            {
+              "text": "They had never met, but their connection through words felt very real and strong.",
+              "audioStart": 50.05,
+              "audioEnd": 54.112
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One afternoon, Leo arrived at the library to find a new note in his favorite book.",
+              "audioStart": 54.975,
+              "audioEnd": 59.35
+            },
+            {
+              "text": "It invited him to meet at the center table at four o'clock that day.",
+              "audioStart": 60.212,
+              "audioEnd": 63.788
+            },
+            {
+              "text": "He felt nervous but excited as he walked toward the meeting place.",
+              "audioStart": 64.65,
+              "audioEnd": 68.125
+            },
+            {
+              "text": "He saw a girl sitting there with a book in her hand, waiting for someone.",
+              "audioStart": 68.987,
+              "audioEnd": 72.55
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo approached the girl and asked if she was the one who wrote the notes.",
+              "audioStart": 73.412,
+              "audioEnd": 76.888
+            },
+            {
+              "text": "She looked up with a kind smile and held out a piece of paper.",
+              "audioStart": 77.75,
+              "audioEnd": 80.812
+            },
+            {
+              "text": "Her name was Maya, and she had also been looking for a friend who loved stories.",
+              "audioStart": 81.675,
+              "audioEnd": 85.888
+            },
+            {
+              "text": "They spent the rest of the evening talking about the characters they both adored.",
+              "audioStart": 86.75,
+              "audioEnd": 90.4
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They realized that their love for books had brought them together in such a special way.",
+              "audioStart": 91.263,
+              "audioEnd": 95.375
+            },
+            {
+              "text": "Since that day, they have continued to read and share their ideas together.",
+              "audioStart": 96.237,
+              "audioEnd": 100.075
+            },
+            {
+              "text": "Their friendship grew into something much deeper as they learned more about each other.",
+              "audioStart": 100.938,
+              "audioEnd": 104.838
+            },
+            {
+              "text": "The library became the place where their new life together started.",
+              "audioStart": 105.7,
+              "audioEnd": 108.9
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0098.mp3",
+      "wordTimings": "audio/b2/st-0098.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo first find the note?",
+          "options": [
+            "Inside a new magazine",
+            "Inside a dusty old book",
+            "On the library table"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Leo and the stranger communicate?",
+          "options": [
+            "By sending emails",
+            "By leaving notes in books",
+            "By talking on the phone"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who did Leo meet at the library at four o'clock?",
+          "options": [
+            "A librarian",
+            "His brother",
+            "A girl named Maya"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo slipped through the library doors each afternoon as if entering a sanctuary where the world outside dissolved into muffled rain.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The high windows, streaked with rivulets, let in a thin gray light that painted the rows of shelves in soft amber.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He liked the hush, the way it pressed against his thoughts like a gentle hand, inviting contemplation.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Books, ancient and new, exhaled a scent of paper and ink that reminded him of his grandmother's study.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "In that quiet, Leo felt the noise of his own doubts recede, replaced by a calm he could barely name.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One drizzling Tuesday, the sky weeping its melancholy over the town, Leo reached for a volume bound in cracked leather, its spine dusted with neglect.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "When he opened it, a folded scrap of paper slipped out, as if the book had been holding its breath.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The note, written in a shy, looping hand, spoke of sunrise over a quiet river and the simple joy of breathing.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Reading those lines, Leo felt an unexpected warmth blossom in his chest, as though someone had reached across the silence to say he was not alone.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He lingered, fingertips tracing the ink, and imagined the author perched somewhere nearby, sharing the same reverent awe for ordinary miracles.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Compelled by that fleeting connection, Leo slipped a thin sheet of notebook paper into the same hollow, his own hand trembling slightly.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He wrote, not a long essay but a brief reply, thanking the mysterious voice for reminding him that life, even in its quiet corners, held splendor.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "His words were simple, yet each sentence carried the echo of his own yearning, a quiet invitation to continue the dialogue.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He placed the note back, feeling as if he had set a stone upon a still pond, hoping ripples would reach an unseen shore.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Before leaving, he glanced at the rain-splattered windows, grateful for the secret companionship that seemed to bloom between the pages.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The following morning, Leo returned before the clock struck ten, his heart beating a little faster than usual.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He scanned the same shelf, his eyes catching a fresh ink trail that glistened like dew on a leaf.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A neat, cursive reply lay beside his own, replying to his gratitude with a poem about moonlit gardens and whispered promises.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "From that moment, an unspoken game unfolded, each of them leaving notes tucked inside books they imagined the other would someday discover.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The library, once merely a refuge, now felt like a stage where two strangers performed a silent duet of thoughts.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo found himself lingering longer among the aisles, his imagination painting pictures of the author's life with each new line.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Was she a university student, eyes bright with ambition, or perhaps a teacher who cherished quiet afternoons as much as he did?",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He sensed, without evidence, that she understood his inner restlessness better than any friend he had ever known.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Each returned note seemed to echo his own hidden feelings, as if she could read the margins of his soul.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The mystery, rather than frighten him, wrapped around his curiosity like a warm scarf, urging him to discover the person behind the ink.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Days turned into weeks, and their correspondence blossomed across the library's vast collection, from poetry anthologies to travelogues.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Sometimes Leo would find his reply tucked inside a novel he had never intended to read, its pages suddenly alive with a stranger's presence.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Other times, Maya-though he still only knew the name-left a small sketch of a feather beside a classic tale, a silent signature of her imagination.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The notes grew more daring, shifting from simple gratitude to shared confessions about childhood dreams and unspoken fears.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Yet, despite the growing intimacy, each message still arrived folded neatly, preserving the ritual that made their secret connection feel sacred.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One bright afternoon, as sunlight streamed through the high windows and illuminated dust motes like tiny stars, Leo discovered a fresh note in his favorite novel.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The paper bore a simple invitation: meet me at the central table at four o'clock, and bring a book you love.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A rush of nerves and excitement flooded him, each heartbeat echoing the fluttering pages of a story about to begin.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He spent the next hour choosing a well-worn copy of a romance novel, its cover softened by countless readings, as if it could carry his anticipation.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "When the clock struck three fifty-nine, he slipped the book into his bag, feeling the weight of both paper and promise.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At four o'clock, Leo entered the library's central hall, the scent of polished wood and old paper mingling with the faint perfume of rain-soaked coats.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The table, a sturdy oak slab, was already occupied by a girl whose profile was outlined by the soft light, a book balanced delicately in her hands.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "She looked up as Leo approached, her eyes bright with curiosity, and a smile spread across her face like sunrise over calm water.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo's throat tightened, but he managed a polite, 'Are you the one who writes the notes?'",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "She nodded, lifted a thin card from beneath her book, and placed it gently on the table, as if offering a treasure.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The card read simply, 'Maya,' followed by a short line: 'I, too, have been searching for a companion who cherishes stories as much as I do.'",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo felt a surge of relief, as if a hidden door had finally opened, revealing the face behind the ink.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "They spoke for hours, their voices weaving between the rustle of pages, exchanging favorite characters and the moments that had moved them most.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Maya confessed that she had discovered the notes while looking for a quiet corner to study, and the mystery of the stranger's words had drawn her in.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Their conversation drifted from literary analysis to personal dreams, each revelation deepening the sense that their bond was forged not by chance, but by shared reverence.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the library's closing bell tolled, they lingered, reluctant to part, because the building itself seemed to cradle their newfound intimacy.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo realized that the silent dialogue they had cultivated over weeks had become a language of affection, each note a stanza in their private poem.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Maya smiled, her eyes reflecting the amber glow of the lamps, and whispered that the library would forever be the place where their story began.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "From that moment onward, they met regularly, not merely to exchange notes, but to explore each other's worlds, both fictional and real.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Their friendship, rooted in ink and paper, blossomed into something deeper, a quiet love that thrummed like the steady heartbeat of the library itself.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Years later, Leo would still recall that rain-soaked afternoon as the moment when a simple note turned a solitary routine into a shared destiny.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The library, with its endless rows of stories, remained the backdrop of their lives, a sanctuary where love was written in margins and whispered between shelves.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Even after they moved beyond the confines of the building, they carried with them the habit of leaving small tokens for one another, a reminder of where it all began.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "In the quiet corners of their homes, the scent of old paper still drifted, and the echo of their first conversation lingered, soft as a whispered promise.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Thus, the library not only housed books, but also cradled the beginnings of a love story that continues to grow, page by page, forever.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "wordTimings": null,
+      "quiz": [
+        {
+          "q": "What does the recurring motif of \"silence\" and \"ink\" suggest about Leo's relationship with the stranger?",
+          "options": [
+            "It indicates a professional partnership.",
+            "It symbolizes a deep, unspoken emotional connection.",
+            "It shows they are competing for library resources."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How does Maya's description of the library in her final whisper reflect the theme of the story?",
+          "options": [
+            "It emphasizes the library as a neutral backdrop for random meetings.",
+            "It portrays the library as a living entity that nurtures their bond.",
+            "It suggests that the library will eventually close, ending their story."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following best captures the transformation in Leo's perception of the library over the course of the narrative?",
+          "options": [
+            "From a noisy distraction to a place of solitude.",
+            "From a purely functional refuge to a stage for intimate exchange.",
+            "From a location of academic study to a commercial venue."
+          ],
+          "answer": 1
         }
       ]
     }

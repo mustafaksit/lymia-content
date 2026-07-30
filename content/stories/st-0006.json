@@ -5,344 +5,880 @@
   "summary": "Ben moves to an old house with a mysterious well.",
   "coverScene": "An old stone well with a broken wooden cover sits in a dark, overgrown garden behind a quiet country house under the evening sky.",
   "levels": {
-    "B2": {
+    "A1": {
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Ben had recently moved into a beautiful old house, which was situated near a quiet, dark forest far from the city.",
-              "audioStart": 0.1,
-              "audioEnd": 6.425
+              "text": "Ben moves to a very old house.",
+              "audioStart": 0.106,
+              "audioEnd": 2.078
             },
             {
-              "text": "Although the house itself was wonderful, he spent most of his time exploring the large, wild garden behind the property.",
-              "audioStart": 7.287,
-              "audioEnd": 13.762
+              "text": "It is far from the city.",
+              "audioStart": 3.042,
+              "audioEnd": 4.5
             },
             {
-              "text": "One afternoon, while he was clearing some thick plants, he discovered a deep stone well hidden under a wooden cover.",
-              "audioStart": 14.625,
-              "audioEnd": 20.587
+              "text": "He finds a well under a cover.",
+              "audioStart": 5.458,
+              "audioEnd": 7.292
             },
             {
-              "text": "If the cover had not been so old, it would have prevented him from looking inside the dark hole.",
-              "audioStart": 21.45,
-              "audioEnd": 26.087
+              "text": "Ben takes the cover off.",
+              "audioStart": 8.25,
+              "audioEnd": 9.819
             },
             {
-              "text": "He carefully removed the wet wood and looked down into the black water that lay silent at the very bottom.",
-              "audioStart": 26.95,
-              "audioEnd": 32.075
+              "text": "He looks down into the black water.",
+              "audioStart": 10.778,
+              "audioEnd": 12.708
             },
             {
-              "text": "A cold wind seemed to rise from the depth, which made him feel quite nervous but also extremely curious.",
-              "audioStart": 32.938,
-              "audioEnd": 38.675
+              "text": "He feels something bad.",
+              "audioStart": 13.667,
+              "audioEnd": 15.125
+            },
+            {
+              "text": "But he wants to know more.",
+              "audioStart": 16.083,
+              "audioEnd": 17.514
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "To test the depth of the old well, Ben decided to shout a simple greeting down into the darkness.",
-              "audioStart": 39.538,
-              "audioEnd": 44.587
+              "text": "Ben calls into the well.",
+              "audioStart": 18.472,
+              "audioEnd": 19.903
             },
             {
-              "text": "\"Hello!\" he cried, expecting to hear his own voice returned to him after a brief moment of silence.",
-              "audioStart": 45.45,
-              "audioEnd": 51.013
+              "text": "'Who is there?' he asks.",
+              "audioStart": 20.861,
+              "audioEnd": 22.736
             },
             {
-              "text": "Instead of a normal echo, a quiet whisper arose from the bottom, sounding like dry paper moving on the ground.",
-              "audioStart": 51.875,
-              "audioEnd": 57.7
+              "text": "He wants his own sound back.",
+              "audioStart": 23.694,
+              "audioEnd": 25.403
             },
             {
-              "text": "\"I hear you,\" the voice said, which was clearly not the word that Ben had spoken into the well.",
-              "audioStart": 58.562,
-              "audioEnd": 63.5
+              "text": "But a low sound comes up.",
+              "audioStart": 26.361,
+              "audioEnd": 27.861
             },
             {
-              "text": "He stood completely still, wondering if his mind was playing a trick on him during this silent afternoon.",
-              "audioStart": 64.362,
-              "audioEnd": 69.688
+              "text": "It says, 'I hear you.'",
+              "audioStart": 28.819,
+              "audioEnd": 30.528
             },
             {
-              "text": "If he had been wiser, he would have covered the well immediately and walked back to his house.",
-              "audioStart": 70.55,
-              "audioEnd": 75.263
+              "text": "Ben does not say that.",
+              "audioStart": 31.486,
+              "audioEnd": 32.889
+            },
+            {
+              "text": "He stands very still.",
+              "audioStart": 33.847,
+              "audioEnd": 35.347
+            },
+            {
+              "text": "He should put the cover back.",
+              "audioStart": 36.306,
+              "audioEnd": 37.889
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "The next morning, Ben was drawn back to the garden by an intense desire to hear the voice again.",
-              "audioStart": 76.125,
-              "audioEnd": 81.213
+              "text": "Next morning, Ben goes back.",
+              "audioStart": 38.847,
+              "audioEnd": 40.944
             },
             {
-              "text": "He leaned over the stone edge, which was cold against his hands, and called out another question.",
-              "audioStart": 82.075,
-              "audioEnd": 86.888
+              "text": "He asks another question.",
+              "audioStart": 41.903,
+              "audioEnd": 43.528
             },
             {
-              "text": "\"Who is down there?\" he asked, his heart beating fast as he waited for the strange response.",
-              "audioStart": 87.75,
-              "audioEnd": 92.9
+              "text": "'Who are you?' Ben asks.",
+              "audioStart": 44.486,
+              "audioEnd": 47.208
             },
             {
-              "text": "A soft sigh came from the black water, followed by a message that was whispered with a terrible tone.",
-              "audioStart": 93.763,
-              "audioEnd": 98.825
+              "text": "A low sound comes from the water.",
+              "audioStart": 48.167,
+              "audioEnd": 50
             },
             {
-              "text": "\"I am the one who waits in the dark, and I am getting warmer,\" the voice replied.",
-              "audioStart": 99.688,
-              "audioEnd": 103.9
+              "text": "'I wait under you,' it says.",
+              "audioStart": 50.958,
+              "audioEnd": 52.917
             },
             {
-              "text": "Although the message frightened him, he could not stop thinking about the unknown person who lived under the earth.",
-              "audioStart": 104.763,
-              "audioEnd": 109.95
+              "text": "'I am getting close.'",
+              "audioStart": 53.875,
+              "audioEnd": 55.167
+            },
+            {
+              "text": "Ben feels great fear.",
+              "audioStart": 56.125,
+              "audioEnd": 57.611
+            },
+            {
+              "text": "But he can not stop.",
+              "audioStart": 58.569,
+              "audioEnd": 59.847
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "On the next day, Ben noticed a significant change in the sound of the whispers coming from the well.",
-              "audioStart": 110.812,
-              "audioEnd": 115.812
+              "text": "The next day, the sound changes.",
+              "audioStart": 60.806,
+              "audioEnd": 63.167
             },
             {
-              "text": "When he shouted, \"What do you want?\" the reply did not seem to come from the very bottom anymore.",
-              "audioStart": 116.675,
-              "audioEnd": 121.438
+              "text": "Ben asks, 'What do you want?'",
+              "audioStart": 64.125,
+              "audioEnd": 66.056
             },
             {
-              "text": "Instead, the words were whispered from a position that was several meters higher than the cold, dark water.",
-              "audioStart": 122.3,
-              "audioEnd": 127.787
+              "text": "The sound is much higher now.",
+              "audioStart": 67.014,
+              "audioEnd": 68.694
             },
             {
-              "text": "\"I want to feel the sun, which I have not seen for a hundred years,\" the voice whispered back.",
-              "audioStart": 128.65,
-              "audioEnd": 133.45
+              "text": "It says, 'I want the light.'",
+              "audioStart": 69.653,
+              "audioEnd": 71.597
             },
             {
-              "text": "Ben took a step back, realizing that whatever was inside the well was actively climbing toward the light.",
-              "audioStart": 134.312,
-              "audioEnd": 139.838
+              "text": "'I do not see light for years.'",
+              "audioStart": 72.556,
+              "audioEnd": 74.403
             },
             {
-              "text": "If he had possessed any sense of safety, he would have run away and never returned to that garden.",
-              "audioStart": 140.7,
-              "audioEnd": 145.588
+              "text": "Ben steps back.",
+              "audioStart": 75.361,
+              "audioEnd": 76.528
+            },
+            {
+              "text": "The thing is coming up.",
+              "audioStart": 77.486,
+              "audioEnd": 78.764
+            },
+            {
+              "text": "Ben should run.",
+              "audioStart": 79.722,
+              "audioEnd": 80.681
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "That evening, filled with fear, Ben decided that the well must be closed to protect himself from danger.",
-              "audioStart": 146.45,
-              "audioEnd": 151.988
+              "text": "Before night, Ben feels fear.",
+              "audioStart": 81.639,
+              "audioEnd": 83.778
             },
             {
-              "text": "He gathered several heavy stones from around the yard and began to drop them onto the old wooden cover.",
-              "audioStart": 152.85,
-              "audioEnd": 157.875
+              "text": "He puts many things on the cover.",
+              "audioStart": 84.736,
+              "audioEnd": 86.681
             },
             {
-              "text": "As each stone was placed, a low laugh was heard from the narrow gaps between the rough pieces of wood.",
-              "audioStart": 158.738,
-              "audioEnd": 163.775
+              "text": "A low sound comes from it.",
+              "audioStart": 87.639,
+              "audioEnd": 89.167
             },
             {
-              "text": "\"Stones cannot hold me back, because I am already too close to the top,\" the voice whispered softly.",
-              "audioStart": 164.637,
-              "audioEnd": 169.938
+              "text": "It says, 'You can not hold me.'",
+              "audioStart": 90.125,
+              "audioEnd": 92.139
             },
             {
-              "text": "The sound was so near that Ben could almost feel the cold breath of the speaker on his face.",
-              "audioStart": 170.8,
-              "audioEnd": 175.238
+              "text": "'I am near the top.'",
+              "audioStart": 93.097,
+              "audioEnd": 94.278
             },
             {
-              "text": "He dropped his last stone and ran inside his house, locking the door behind him with shaking hands.",
-              "audioStart": 176.1,
-              "audioEnd": 181.425
+              "text": "The sound is very near.",
+              "audioStart": 95.236,
+              "audioEnd": 96.694
+            },
+            {
+              "text": "Ben runs to his house.",
+              "audioStart": 97.653,
+              "audioEnd": 99.167
+            },
+            {
+              "text": "He closes the door.",
+              "audioStart": 100.125,
+              "audioEnd": 101.417
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "That night, Ben could not sleep, as his mind was filled with images of the thing in the well.",
-              "audioStart": 182.287,
-              "audioEnd": 186.988
+              "text": "At night, Ben can not close his eyes.",
+              "audioStart": 102.375,
+              "audioEnd": 104.903
             },
             {
-              "text": "He lay in his dark bedroom, listening to the wind that blew through the trees outside his window.",
-              "audioStart": 187.85,
-              "audioEnd": 192.525
+              "text": "He is in his black room.",
+              "audioStart": 105.861,
+              "audioEnd": 107.361
             },
             {
-              "text": "Suddenly, a sound arose that was not the wind; it was a familiar whisper coming from the floor.",
-              "audioStart": 193.387,
-              "audioEnd": 198.463
+              "text": "He hears a low sound on his floor.",
+              "audioStart": 108.319,
+              "audioEnd": 110.403
             },
             {
-              "text": "\"I am just outside your door, Ben,\" the voice said, sounding much clearer than it had before.",
-              "audioStart": 199.325,
-              "audioEnd": 204.562
+              "text": "It says, 'I am outside your door.'",
+              "audioStart": 111.361,
+              "audioEnd": 113.569
             },
             {
-              "text": "He covered his ears with his sheet, wishing that he had never bought this terrible, old country house.",
-              "audioStart": 205.425,
-              "audioEnd": 210.575
+              "text": "Ben covers his face.",
+              "audioStart": 114.528,
+              "audioEnd": 116.056
             },
             {
-              "text": "If he had listened to the warnings of the neighbors, he would have moved to a different town.",
-              "audioStart": 211.438,
-              "audioEnd": 215.525
+              "text": "He wants to leave now.",
+              "audioStart": 117.014,
+              "audioEnd": 118.333
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "When morning finally came, the bright sun provided some comfort, but Ben knew he was not safe.",
-              "audioStart": 216.387,
-              "audioEnd": 221.963
+              "text": "In the morning, there is light.",
+              "audioStart": 119.292,
+              "audioEnd": 121.125
             },
             {
-              "text": "He walked slowly into the garden to examine the well, expecting to find the heavy stones still in place.",
-              "audioStart": 222.825,
-              "audioEnd": 228.412
+              "text": "Ben goes outside to see the well.",
+              "audioStart": 122.083,
+              "audioEnd": 123.875
             },
             {
-              "text": "To his shock, the stones had been pushed aside, and the wooden cover was completely broken into pieces.",
-              "audioStart": 229.275,
-              "audioEnd": 234.875
+              "text": "The cover is in pieces.",
+              "audioStart": 124.833,
+              "audioEnd": 126.417
             },
             {
-              "text": "A dark trail of wet ground led from the open hole toward the back door of his house.",
-              "audioStart": 235.738,
-              "audioEnd": 240.037
+              "text": "He sees water on the ground.",
+              "audioStart": 127.375,
+              "audioEnd": 129.083
             },
             {
-              "text": "It was clear that whatever had been living in the deep well was now walking on the grass.",
-              "audioStart": 240.9,
-              "audioEnd": 246.062
+              "text": "The water goes to his door.",
+              "audioStart": 130.042,
+              "audioEnd": 131.639
             },
             {
-              "text": "If he had looked closer, he would have seen the wet marks that stopped right at his kitchen door.",
-              "audioStart": 246.925,
-              "audioEnd": 251.637
+              "text": "Something is out of the well.",
+              "audioStart": 132.597,
+              "audioEnd": 134.083
+            },
+            {
+              "text": "It is now near his house.",
+              "audioStart": 135.042,
+              "audioEnd": 136.569
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Ben realized that he had to leave immediately, before the sun went down and darkness returned to the valley.",
-              "audioStart": 252.5,
-              "audioEnd": 258.062
+              "text": "Ben knows he must leave.",
+              "audioStart": 137.528,
+              "audioEnd": 139.042
             },
             {
-              "text": "He ran to his bedroom, threw some clothes into a bag, and grabbed his car keys from the table.",
-              "audioStart": 258.925,
-              "audioEnd": 264.012
+              "text": "He runs to his room.",
+              "audioStart": 140,
+              "audioEnd": 141.389
             },
             {
-              "text": "As he was preparing to run out the front door, he heard a soft sound coming from the kitchen.",
-              "audioStart": 264.875,
-              "audioEnd": 269.562
+              "text": "He takes his things and his car.",
+              "audioStart": 142.347,
+              "audioEnd": 144.333
             },
             {
-              "text": "It was the slow, wet sound of something heavy dragging itself across the wooden floor toward the hall.",
-              "audioStart": 270.425,
-              "audioEnd": 275.512
+              "text": "Then, he hears a sound.",
+              "audioStart": 145.292,
+              "audioEnd": 147.083
             },
             {
-              "text": "Then, he watched in fear as the handle of the kitchen door began to turn slowly.",
-              "audioStart": 276.375,
-              "audioEnd": 280.675
+              "text": "Something is moving on the floor.",
+              "audioStart": 148.042,
+              "audioEnd": 149.861
             },
             {
-              "text": "A voice, which was now extremely close, whispered his name from the other side of the wood.",
-              "audioStart": 281.538,
-              "audioEnd": 286.325
+              "text": "The door starts to turn.",
+              "audioStart": 150.819,
+              "audioEnd": 152.319
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "\"Ben,\" the voice whispered, sounding like a wet throat trying to speak after a long period of silence.",
-              "audioStart": 287.188,
-              "audioEnd": 292.712
+              "text": "A low sound speaks his name.",
+              "audioStart": 153.278,
+              "audioEnd": 155.014
             },
             {
-              "text": "\"If you opened the door, we could finally look at each other in the beautiful light.\"",
-              "audioStart": 293.575,
-              "audioEnd": 297.525
+              "text": "'Ben,' it says.",
+              "audioStart": 155.972,
+              "audioEnd": 157.403
             },
             {
-              "text": "Ben did not wait to see what was behind the door; he jumped through the open living room window instead.",
-              "audioStart": 298.387,
-              "audioEnd": 303.45
+              "text": "'Open the door.'",
+              "audioStart": 158.361,
+              "audioEnd": 159.333
             },
             {
-              "text": "He ran to his car, started the engine, and drove away from the house without looking back even once.",
-              "audioStart": 304.312,
-              "audioEnd": 309.925
+              "text": "'We can look at each other.'",
+              "audioStart": 160.292,
+              "audioEnd": 161.639
             },
             {
-              "text": "Now, he lives in a busy city, but he always locks his doors and avoids any place with a well.",
-              "audioStart": 310.788,
-              "audioEnd": 316.163
+              "text": "Ben does not open the door.",
+              "audioStart": 162.597,
+              "audioEnd": 164.167
             },
             {
-              "text": "Sometimes, when it rains, he still hears that wet whisper coming from the pipes under his floor.",
-              "audioStart": 317.025,
-              "audioEnd": 322.188
+              "text": "He goes out of the window.",
+              "audioStart": 165.125,
+              "audioEnd": 166.528
+            },
+            {
+              "text": "He runs to his car.",
+              "audioStart": 167.486,
+              "audioEnd": 168.903
+            },
+            {
+              "text": "He drives away.",
+              "audioStart": 169.861,
+              "audioEnd": 170.903
+            },
+            {
+              "text": "Now, he lives in a city.",
+              "audioStart": 171.861,
+              "audioEnd": 173.708
+            },
+            {
+              "text": "But he still hears that sound.",
+              "audioStart": 174.667,
+              "audioEnd": 176.403
+            },
+            {
+              "text": "When there is water, he hears it.",
+              "audioStart": 177.361,
+              "audioEnd": 179.458
             }
           ]
         }
       ],
-      "audio": "audio/b2/st-0006.mp3",
-      "wordTimings": "audio/b2/st-0006.timings.json",
+      "audio": "audio/a1/st-0006.mp3",
+      "wordTimings": "audio/a1/st-0006.timings.json",
       "quiz": [
         {
-          "q": "What did Ben find hidden under the wooden cover in his garden?",
+          "q": "What does Ben find outside?",
           "options": [
-            "A hidden box of old letters.",
-            "A deep stone well.",
-            "A secret path to the forest."
-          ],
-          "answer": 1
-        },
-        {
-          "q": "How did the voice in the well change after the first few days?",
-          "options": [
-            "It sounded closer to the top of the well.",
-            "It stopped replying to Ben's questions.",
-            "It became much louder and more angry."
+            "A well under a cover.",
+            "A new car.",
+            "A black book."
           ],
           "answer": 0
         },
         {
-          "q": "What did Ben do when he heard the voice outside his kitchen door?",
+          "q": "What does the sound want?",
           "options": [
-            "He opened the door to see who was there.",
-            "He ran to the well to throw more stones in.",
-            "He jumped through the living room window and drove away."
+            "To go to the city.",
+            "To see the light.",
+            "To play a game."
           ],
-          "answer": 2
+          "answer": 1
+        },
+        {
+          "q": "How does Ben leave the house?",
+          "options": [
+            "He goes out of the window.",
+            "He goes out of the door.",
+            "He does not leave."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ben recently moved into a beautiful old house.",
+              "audioStart": 0.106,
+              "audioEnd": 2.772
+            },
+            {
+              "text": "It was near some dark trees.",
+              "audioStart": 3.736,
+              "audioEnd": 5.528
+            },
+            {
+              "text": "He spent his time in the large garden.",
+              "audioStart": 6.486,
+              "audioEnd": 8.597
+            },
+            {
+              "text": "One afternoon, he found a deep well.",
+              "audioStart": 9.556,
+              "audioEnd": 11.889
+            },
+            {
+              "text": "An old cover was over it.",
+              "audioStart": 12.847,
+              "audioEnd": 14.431
+            },
+            {
+              "text": "Ben removed the old cover.",
+              "audioStart": 15.389,
+              "audioEnd": 16.931
+            },
+            {
+              "text": "He looked inside.",
+              "audioStart": 17.889,
+              "audioEnd": 19.083
+            },
+            {
+              "text": "He saw black water at the bottom.",
+              "audioStart": 20.042,
+              "audioEnd": 21.931
+            },
+            {
+              "text": "Cold air came up.",
+              "audioStart": 22.889,
+              "audioEnd": 24.042
+            },
+            {
+              "text": "He felt fear, but he also had interest.",
+              "audioStart": 25,
+              "audioEnd": 27.764
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ben wanted to test the deep well.",
+              "audioStart": 28.722,
+              "audioEnd": 30.653
+            },
+            {
+              "text": "He called, \"I am here!\" into the dark.",
+              "audioStart": 31.611,
+              "audioEnd": 34.347
+            },
+            {
+              "text": "He expected to hear his voice return.",
+              "audioStart": 35.306,
+              "audioEnd": 37.583
+            },
+            {
+              "text": "Instead, a quiet voice came from the bottom.",
+              "audioStart": 38.542,
+              "audioEnd": 41.236
+            },
+            {
+              "text": "It sounded like old paper on the ground.",
+              "audioStart": 42.194,
+              "audioEnd": 44.514
+            },
+            {
+              "text": "\"I hear you,\" the voice said.",
+              "audioStart": 45.472,
+              "audioEnd": 47.417
+            },
+            {
+              "text": "Ben stood very still.",
+              "audioStart": 48.375,
+              "audioEnd": 49.764
+            },
+            {
+              "text": "Was his mind playing a game?",
+              "audioStart": 50.722,
+              "audioEnd": 52.278
+            },
+            {
+              "text": "He should have covered the well immediately.",
+              "audioStart": 53.236,
+              "audioEnd": 55.375
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The next morning, Ben went back to the garden.",
+              "audioStart": 56.333,
+              "audioEnd": 58.972
+            },
+            {
+              "text": "He wanted to hear the voice again.",
+              "audioStart": 59.931,
+              "audioEnd": 61.819
+            },
+            {
+              "text": "He put his hands on the cold side.",
+              "audioStart": 62.778,
+              "audioEnd": 64.806
+            },
+            {
+              "text": "\"Who is down there?\" he asked.",
+              "audioStart": 65.764,
+              "audioEnd": 67.847
+            },
+            {
+              "text": "His heart beat fast.",
+              "audioStart": 68.806,
+              "audioEnd": 70.278
+            },
+            {
+              "text": "A low sound came from the black water.",
+              "audioStart": 71.236,
+              "audioEnd": 73.333
+            },
+            {
+              "text": "Then, a quiet voice spoke.",
+              "audioStart": 74.292,
+              "audioEnd": 76.208
+            },
+            {
+              "text": "\"I wait in the dark,\" the voice said.",
+              "audioStart": 77.167,
+              "audioEnd": 79.417
+            },
+            {
+              "text": "\"I am getting stronger.\"",
+              "audioStart": 80.375,
+              "audioEnd": 81.722
+            },
+            {
+              "text": "Ben felt fear.",
+              "audioStart": 82.681,
+              "audioEnd": 83.764
+            },
+            {
+              "text": "He could not stop thinking about it.",
+              "audioStart": 84.722,
+              "audioEnd": 86.708
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The next day, the voice sounded different.",
+              "audioStart": 87.667,
+              "audioEnd": 90.208
+            },
+            {
+              "text": "It was closer to the top now.",
+              "audioStart": 91.167,
+              "audioEnd": 92.972
+            },
+            {
+              "text": "Ben asked, \"What do you want?\"",
+              "audioStart": 93.931,
+              "audioEnd": 95.861
+            },
+            {
+              "text": "The voice replied, \"I want to feel the light.\"",
+              "audioStart": 96.819,
+              "audioEnd": 99.486
+            },
+            {
+              "text": "\"I have not seen it for a hundred years.\"",
+              "audioStart": 100.444,
+              "audioEnd": 102.667
+            },
+            {
+              "text": "Ben took a step back.",
+              "audioStart": 103.625,
+              "audioEnd": 105.042
+            },
+            {
+              "text": "The thing was moving up.",
+              "audioStart": 106,
+              "audioEnd": 107.306
+            },
+            {
+              "text": "He should have run away.",
+              "audioStart": 108.264,
+              "audioEnd": 109.542
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "That evening, Ben decided to close the well.",
+              "audioStart": 110.5,
+              "audioEnd": 113.194
+            },
+            {
+              "text": "He put heavy things on the old cover.",
+              "audioStart": 114.153,
+              "audioEnd": 116.306
+            },
+            {
+              "text": "Suddenly, a low laugh came from the cover.",
+              "audioStart": 117.264,
+              "audioEnd": 119.889
+            },
+            {
+              "text": "\"These things cannot hold me,\" the voice said.",
+              "audioStart": 120.847,
+              "audioEnd": 123.431
+            },
+            {
+              "text": "\"I am too close to the top.\"",
+              "audioStart": 124.389,
+              "audioEnd": 126
+            },
+            {
+              "text": "The voice was very near.",
+              "audioStart": 126.958,
+              "audioEnd": 128.5
+            },
+            {
+              "text": "Ben felt cold air on his face.",
+              "audioStart": 129.458,
+              "audioEnd": 131.458
+            },
+            {
+              "text": "He ran inside his house.",
+              "audioStart": 132.417,
+              "audioEnd": 134.083
+            },
+            {
+              "text": "He closed the door with his key.",
+              "audioStart": 135.042,
+              "audioEnd": 136.875
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ben could not sleep that night.",
+              "audioStart": 137.833,
+              "audioEnd": 139.542
+            },
+            {
+              "text": "He lay in his dark bedroom.",
+              "audioStart": 140.5,
+              "audioEnd": 142.167
+            },
+            {
+              "text": "He listened to the trees outside.",
+              "audioStart": 143.125,
+              "audioEnd": 144.958
+            },
+            {
+              "text": "Suddenly, he heard a quiet voice from the floor.",
+              "audioStart": 145.917,
+              "audioEnd": 148.847
+            },
+            {
+              "text": "\"I am just outside your door, Ben,\" it said.",
+              "audioStart": 149.806,
+              "audioEnd": 152.764
+            },
+            {
+              "text": "Ben covered his head in his bed.",
+              "audioStart": 153.722,
+              "audioEnd": 155.583
+            },
+            {
+              "text": "He wished he had never bought this house.",
+              "audioStart": 156.542,
+              "audioEnd": 158.75
+            },
+            {
+              "text": "He should have listened to his friends.",
+              "audioStart": 159.708,
+              "audioEnd": 161.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the morning, Ben went to the garden.",
+              "audioStart": 162.583,
+              "audioEnd": 164.736
+            },
+            {
+              "text": "The heavy things were pushed away.",
+              "audioStart": 165.694,
+              "audioEnd": 167.486
+            },
+            {
+              "text": "The old cover was broken.",
+              "audioStart": 168.444,
+              "audioEnd": 170.042
+            },
+            {
+              "text": "A dark track of water led to the house.",
+              "audioStart": 171,
+              "audioEnd": 173.333
+            },
+            {
+              "text": "Something from the well was walking on the ground.",
+              "audioStart": 174.292,
+              "audioEnd": 176.833
+            },
+            {
+              "text": "Water marks stopped at his back door.",
+              "audioStart": 177.792,
+              "audioEnd": 179.972
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ben knew he had to leave.",
+              "audioStart": 180.931,
+              "audioEnd": 182.5
+            },
+            {
+              "text": "He threw clothes into a box.",
+              "audioStart": 183.458,
+              "audioEnd": 185.319
+            },
+            {
+              "text": "He took his car keys.",
+              "audioStart": 186.278,
+              "audioEnd": 187.819
+            },
+            {
+              "text": "Then, he heard a sound from the other room.",
+              "audioStart": 188.778,
+              "audioEnd": 191.306
+            },
+            {
+              "text": "It was a slow, heavy pulling sound.",
+              "audioStart": 192.264,
+              "audioEnd": 194.681
+            },
+            {
+              "text": "The door began to move.",
+              "audioStart": 195.639,
+              "audioEnd": 197.208
+            },
+            {
+              "text": "A voice spoke his name.",
+              "audioStart": 198.167,
+              "audioEnd": 199.639
+            },
+            {
+              "text": "\"Ben,\" it said.",
+              "audioStart": 200.597,
+              "audioEnd": 201.889
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "\"Open the door,\" the voice said.",
+              "audioStart": 202.847,
+              "audioEnd": 204.875
+            },
+            {
+              "text": "\"We can look at each other in the light.\"",
+              "audioStart": 205.833,
+              "audioEnd": 207.75
+            },
+            {
+              "text": "Ben did not wait.",
+              "audioStart": 208.708,
+              "audioEnd": 209.889
+            },
+            {
+              "text": "He ran through the open window.",
+              "audioStart": 210.847,
+              "audioEnd": 212.569
+            },
+            {
+              "text": "He ran to his car.",
+              "audioStart": 213.528,
+              "audioEnd": 214.889
+            },
+            {
+              "text": "He drove away and never looked back.",
+              "audioStart": 215.847,
+              "audioEnd": 218.056
+            },
+            {
+              "text": "Now, Ben lives in a busy city.",
+              "audioStart": 219.014,
+              "audioEnd": 221.25
+            },
+            {
+              "text": "He always closes his doors with his key.",
+              "audioStart": 222.208,
+              "audioEnd": 224.625
+            },
+            {
+              "text": "Sometimes, in the dark, he hears voices from the walls.",
+              "audioStart": 225.583,
+              "audioEnd": 229.361
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0006.mp3",
+      "wordTimings": "audio/a2/st-0006.timings.json",
+      "quiz": [
+        {
+          "q": "What did Ben find in his garden?",
+          "options": [
+            "A dark forest",
+            "A deep well",
+            "An old box"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the voice in the well want to feel?",
+          "options": [
+            "The light",
+            "The cold water",
+            "The heavy stones"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did Ben escape from his house at the end?",
+          "options": [
+            "He ran through the open window.",
+            "He walked out the back door.",
+            "He waited for his friends."
+          ],
+          "answer": 0
         }
       ]
     },
@@ -812,878 +1348,696 @@
         }
       ]
     },
-    "A2": {
+    "B2": {
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Ben recently moved into a beautiful old house.",
-              "audioStart": 0.106,
-              "audioEnd": 2.772
+              "text": "Ben had recently moved into a beautiful old house, which was situated near a quiet, dark forest far from the city.",
+              "audioStart": 0.1,
+              "audioEnd": 6.425
             },
             {
-              "text": "It was near some dark trees.",
-              "audioStart": 3.736,
-              "audioEnd": 5.528
+              "text": "Although the house itself was wonderful, he spent most of his time exploring the large, wild garden behind the property.",
+              "audioStart": 7.287,
+              "audioEnd": 13.762
             },
             {
-              "text": "He spent his time in the large garden.",
-              "audioStart": 6.486,
-              "audioEnd": 8.597
+              "text": "One afternoon, while he was clearing some thick plants, he discovered a deep stone well hidden under a wooden cover.",
+              "audioStart": 14.625,
+              "audioEnd": 20.587
             },
             {
-              "text": "One afternoon, he found a deep well.",
-              "audioStart": 9.556,
-              "audioEnd": 11.889
+              "text": "If the cover had not been so old, it would have prevented him from looking inside the dark hole.",
+              "audioStart": 21.45,
+              "audioEnd": 26.087
             },
             {
-              "text": "An old cover was over it.",
-              "audioStart": 12.847,
-              "audioEnd": 14.431
+              "text": "He carefully removed the wet wood and looked down into the black water that lay silent at the very bottom.",
+              "audioStart": 26.95,
+              "audioEnd": 32.075
             },
             {
-              "text": "Ben removed the old cover.",
-              "audioStart": 15.389,
-              "audioEnd": 16.931
-            },
-            {
-              "text": "He looked inside.",
-              "audioStart": 17.889,
-              "audioEnd": 19.083
-            },
-            {
-              "text": "He saw black water at the bottom.",
-              "audioStart": 20.042,
-              "audioEnd": 21.931
-            },
-            {
-              "text": "Cold air came up.",
-              "audioStart": 22.889,
-              "audioEnd": 24.042
-            },
-            {
-              "text": "He felt fear, but he also had interest.",
-              "audioStart": 25,
-              "audioEnd": 27.764
+              "text": "A cold wind seemed to rise from the depth, which made him feel quite nervous but also extremely curious.",
+              "audioStart": 32.938,
+              "audioEnd": 38.675
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Ben wanted to test the deep well.",
-              "audioStart": 28.722,
-              "audioEnd": 30.653
+              "text": "To test the depth of the old well, Ben decided to shout a simple greeting down into the darkness.",
+              "audioStart": 39.538,
+              "audioEnd": 44.587
             },
             {
-              "text": "He called, \"I am here!\" into the dark.",
-              "audioStart": 31.611,
-              "audioEnd": 34.347
+              "text": "\"Hello!\" he cried, expecting to hear his own voice returned to him after a brief moment of silence.",
+              "audioStart": 45.45,
+              "audioEnd": 51.013
             },
             {
-              "text": "He expected to hear his voice return.",
-              "audioStart": 35.306,
-              "audioEnd": 37.583
+              "text": "Instead of a normal echo, a quiet whisper arose from the bottom, sounding like dry paper moving on the ground.",
+              "audioStart": 51.875,
+              "audioEnd": 57.7
             },
             {
-              "text": "Instead, a quiet voice came from the bottom.",
-              "audioStart": 38.542,
-              "audioEnd": 41.236
+              "text": "\"I hear you,\" the voice said, which was clearly not the word that Ben had spoken into the well.",
+              "audioStart": 58.562,
+              "audioEnd": 63.5
             },
             {
-              "text": "It sounded like old paper on the ground.",
-              "audioStart": 42.194,
-              "audioEnd": 44.514
+              "text": "He stood completely still, wondering if his mind was playing a trick on him during this silent afternoon.",
+              "audioStart": 64.362,
+              "audioEnd": 69.688
             },
             {
-              "text": "\"I hear you,\" the voice said.",
-              "audioStart": 45.472,
-              "audioEnd": 47.417
-            },
-            {
-              "text": "Ben stood very still.",
-              "audioStart": 48.375,
-              "audioEnd": 49.764
-            },
-            {
-              "text": "Was his mind playing a game?",
-              "audioStart": 50.722,
-              "audioEnd": 52.278
-            },
-            {
-              "text": "He should have covered the well immediately.",
-              "audioStart": 53.236,
-              "audioEnd": 55.375
+              "text": "If he had been wiser, he would have covered the well immediately and walked back to his house.",
+              "audioStart": 70.55,
+              "audioEnd": 75.263
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "The next morning, Ben went back to the garden.",
-              "audioStart": 56.333,
-              "audioEnd": 58.972
+              "text": "The next morning, Ben was drawn back to the garden by an intense desire to hear the voice again.",
+              "audioStart": 76.125,
+              "audioEnd": 81.213
             },
             {
-              "text": "He wanted to hear the voice again.",
-              "audioStart": 59.931,
-              "audioEnd": 61.819
+              "text": "He leaned over the stone edge, which was cold against his hands, and called out another question.",
+              "audioStart": 82.075,
+              "audioEnd": 86.888
             },
             {
-              "text": "He put his hands on the cold side.",
-              "audioStart": 62.778,
-              "audioEnd": 64.806
+              "text": "\"Who is down there?\" he asked, his heart beating fast as he waited for the strange response.",
+              "audioStart": 87.75,
+              "audioEnd": 92.9
             },
             {
-              "text": "\"Who is down there?\" he asked.",
-              "audioStart": 65.764,
-              "audioEnd": 67.847
+              "text": "A soft sigh came from the black water, followed by a message that was whispered with a terrible tone.",
+              "audioStart": 93.763,
+              "audioEnd": 98.825
             },
             {
-              "text": "His heart beat fast.",
-              "audioStart": 68.806,
-              "audioEnd": 70.278
+              "text": "\"I am the one who waits in the dark, and I am getting warmer,\" the voice replied.",
+              "audioStart": 99.688,
+              "audioEnd": 103.9
             },
             {
-              "text": "A low sound came from the black water.",
-              "audioStart": 71.236,
-              "audioEnd": 73.333
-            },
-            {
-              "text": "Then, a quiet voice spoke.",
-              "audioStart": 74.292,
-              "audioEnd": 76.208
-            },
-            {
-              "text": "\"I wait in the dark,\" the voice said.",
-              "audioStart": 77.167,
-              "audioEnd": 79.417
-            },
-            {
-              "text": "\"I am getting stronger.\"",
-              "audioStart": 80.375,
-              "audioEnd": 81.722
-            },
-            {
-              "text": "Ben felt fear.",
-              "audioStart": 82.681,
-              "audioEnd": 83.764
-            },
-            {
-              "text": "He could not stop thinking about it.",
-              "audioStart": 84.722,
-              "audioEnd": 86.708
+              "text": "Although the message frightened him, he could not stop thinking about the unknown person who lived under the earth.",
+              "audioStart": 104.763,
+              "audioEnd": 109.95
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "The next day, the voice sounded different.",
-              "audioStart": 87.667,
-              "audioEnd": 90.208
+              "text": "On the next day, Ben noticed a significant change in the sound of the whispers coming from the well.",
+              "audioStart": 110.812,
+              "audioEnd": 115.812
             },
             {
-              "text": "It was closer to the top now.",
-              "audioStart": 91.167,
-              "audioEnd": 92.972
+              "text": "When he shouted, \"What do you want?\" the reply did not seem to come from the very bottom anymore.",
+              "audioStart": 116.675,
+              "audioEnd": 121.438
             },
             {
-              "text": "Ben asked, \"What do you want?\"",
-              "audioStart": 93.931,
-              "audioEnd": 95.861
+              "text": "Instead, the words were whispered from a position that was several meters higher than the cold, dark water.",
+              "audioStart": 122.3,
+              "audioEnd": 127.787
             },
             {
-              "text": "The voice replied, \"I want to feel the light.\"",
-              "audioStart": 96.819,
-              "audioEnd": 99.486
+              "text": "\"I want to feel the sun, which I have not seen for a hundred years,\" the voice whispered back.",
+              "audioStart": 128.65,
+              "audioEnd": 133.45
             },
             {
-              "text": "\"I have not seen it for a hundred years.\"",
-              "audioStart": 100.444,
-              "audioEnd": 102.667
+              "text": "Ben took a step back, realizing that whatever was inside the well was actively climbing toward the light.",
+              "audioStart": 134.312,
+              "audioEnd": 139.838
             },
             {
-              "text": "Ben took a step back.",
-              "audioStart": 103.625,
-              "audioEnd": 105.042
-            },
-            {
-              "text": "The thing was moving up.",
-              "audioStart": 106,
-              "audioEnd": 107.306
-            },
-            {
-              "text": "He should have run away.",
-              "audioStart": 108.264,
-              "audioEnd": 109.542
+              "text": "If he had possessed any sense of safety, he would have run away and never returned to that garden.",
+              "audioStart": 140.7,
+              "audioEnd": 145.588
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "That evening, Ben decided to close the well.",
-              "audioStart": 110.5,
-              "audioEnd": 113.194
+              "text": "That evening, filled with fear, Ben decided that the well must be closed to protect himself from danger.",
+              "audioStart": 146.45,
+              "audioEnd": 151.988
             },
             {
-              "text": "He put heavy things on the old cover.",
-              "audioStart": 114.153,
-              "audioEnd": 116.306
+              "text": "He gathered several heavy stones from around the yard and began to drop them onto the old wooden cover.",
+              "audioStart": 152.85,
+              "audioEnd": 157.875
             },
             {
-              "text": "Suddenly, a low laugh came from the cover.",
-              "audioStart": 117.264,
-              "audioEnd": 119.889
+              "text": "As each stone was placed, a low laugh was heard from the narrow gaps between the rough pieces of wood.",
+              "audioStart": 158.738,
+              "audioEnd": 163.775
             },
             {
-              "text": "\"These things cannot hold me,\" the voice said.",
-              "audioStart": 120.847,
-              "audioEnd": 123.431
+              "text": "\"Stones cannot hold me back, because I am already too close to the top,\" the voice whispered softly.",
+              "audioStart": 164.637,
+              "audioEnd": 169.938
             },
             {
-              "text": "\"I am too close to the top.\"",
-              "audioStart": 124.389,
-              "audioEnd": 126
+              "text": "The sound was so near that Ben could almost feel the cold breath of the speaker on his face.",
+              "audioStart": 170.8,
+              "audioEnd": 175.238
             },
             {
-              "text": "The voice was very near.",
-              "audioStart": 126.958,
-              "audioEnd": 128.5
-            },
-            {
-              "text": "Ben felt cold air on his face.",
-              "audioStart": 129.458,
-              "audioEnd": 131.458
-            },
-            {
-              "text": "He ran inside his house.",
-              "audioStart": 132.417,
-              "audioEnd": 134.083
-            },
-            {
-              "text": "He closed the door with his key.",
-              "audioStart": 135.042,
-              "audioEnd": 136.875
+              "text": "He dropped his last stone and ran inside his house, locking the door behind him with shaking hands.",
+              "audioStart": 176.1,
+              "audioEnd": 181.425
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Ben could not sleep that night.",
-              "audioStart": 137.833,
-              "audioEnd": 139.542
+              "text": "That night, Ben could not sleep, as his mind was filled with images of the thing in the well.",
+              "audioStart": 182.287,
+              "audioEnd": 186.988
             },
             {
-              "text": "He lay in his dark bedroom.",
-              "audioStart": 140.5,
-              "audioEnd": 142.167
+              "text": "He lay in his dark bedroom, listening to the wind that blew through the trees outside his window.",
+              "audioStart": 187.85,
+              "audioEnd": 192.525
             },
             {
-              "text": "He listened to the trees outside.",
-              "audioStart": 143.125,
-              "audioEnd": 144.958
+              "text": "Suddenly, a sound arose that was not the wind; it was a familiar whisper coming from the floor.",
+              "audioStart": 193.387,
+              "audioEnd": 198.463
             },
             {
-              "text": "Suddenly, he heard a quiet voice from the floor.",
-              "audioStart": 145.917,
-              "audioEnd": 148.847
+              "text": "\"I am just outside your door, Ben,\" the voice said, sounding much clearer than it had before.",
+              "audioStart": 199.325,
+              "audioEnd": 204.562
             },
             {
-              "text": "\"I am just outside your door, Ben,\" it said.",
-              "audioStart": 149.806,
-              "audioEnd": 152.764
+              "text": "He covered his ears with his sheet, wishing that he had never bought this terrible, old country house.",
+              "audioStart": 205.425,
+              "audioEnd": 210.575
             },
             {
-              "text": "Ben covered his head in his bed.",
-              "audioStart": 153.722,
-              "audioEnd": 155.583
-            },
-            {
-              "text": "He wished he had never bought this house.",
-              "audioStart": 156.542,
-              "audioEnd": 158.75
-            },
-            {
-              "text": "He should have listened to his friends.",
-              "audioStart": 159.708,
-              "audioEnd": 161.625
+              "text": "If he had listened to the warnings of the neighbors, he would have moved to a different town.",
+              "audioStart": 211.438,
+              "audioEnd": 215.525
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "In the morning, Ben went to the garden.",
-              "audioStart": 162.583,
-              "audioEnd": 164.736
+              "text": "When morning finally came, the bright sun provided some comfort, but Ben knew he was not safe.",
+              "audioStart": 216.387,
+              "audioEnd": 221.963
             },
             {
-              "text": "The heavy things were pushed away.",
-              "audioStart": 165.694,
-              "audioEnd": 167.486
+              "text": "He walked slowly into the garden to examine the well, expecting to find the heavy stones still in place.",
+              "audioStart": 222.825,
+              "audioEnd": 228.412
             },
             {
-              "text": "The old cover was broken.",
-              "audioStart": 168.444,
-              "audioEnd": 170.042
+              "text": "To his shock, the stones had been pushed aside, and the wooden cover was completely broken into pieces.",
+              "audioStart": 229.275,
+              "audioEnd": 234.875
             },
             {
-              "text": "A dark track of water led to the house.",
-              "audioStart": 171,
-              "audioEnd": 173.333
+              "text": "A dark trail of wet ground led from the open hole toward the back door of his house.",
+              "audioStart": 235.738,
+              "audioEnd": 240.037
             },
             {
-              "text": "Something from the well was walking on the ground.",
-              "audioStart": 174.292,
-              "audioEnd": 176.833
+              "text": "It was clear that whatever had been living in the deep well was now walking on the grass.",
+              "audioStart": 240.9,
+              "audioEnd": 246.062
             },
             {
-              "text": "Water marks stopped at his back door.",
-              "audioStart": 177.792,
-              "audioEnd": 179.972
+              "text": "If he had looked closer, he would have seen the wet marks that stopped right at his kitchen door.",
+              "audioStart": 246.925,
+              "audioEnd": 251.637
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Ben knew he had to leave.",
-              "audioStart": 180.931,
-              "audioEnd": 182.5
+              "text": "Ben realized that he had to leave immediately, before the sun went down and darkness returned to the valley.",
+              "audioStart": 252.5,
+              "audioEnd": 258.062
             },
             {
-              "text": "He threw clothes into a box.",
-              "audioStart": 183.458,
-              "audioEnd": 185.319
+              "text": "He ran to his bedroom, threw some clothes into a bag, and grabbed his car keys from the table.",
+              "audioStart": 258.925,
+              "audioEnd": 264.012
             },
             {
-              "text": "He took his car keys.",
-              "audioStart": 186.278,
-              "audioEnd": 187.819
+              "text": "As he was preparing to run out the front door, he heard a soft sound coming from the kitchen.",
+              "audioStart": 264.875,
+              "audioEnd": 269.562
             },
             {
-              "text": "Then, he heard a sound from the other room.",
-              "audioStart": 188.778,
-              "audioEnd": 191.306
+              "text": "It was the slow, wet sound of something heavy dragging itself across the wooden floor toward the hall.",
+              "audioStart": 270.425,
+              "audioEnd": 275.512
             },
             {
-              "text": "It was a slow, heavy pulling sound.",
-              "audioStart": 192.264,
-              "audioEnd": 194.681
+              "text": "Then, he watched in fear as the handle of the kitchen door began to turn slowly.",
+              "audioStart": 276.375,
+              "audioEnd": 280.675
             },
             {
-              "text": "The door began to move.",
-              "audioStart": 195.639,
-              "audioEnd": 197.208
-            },
-            {
-              "text": "A voice spoke his name.",
-              "audioStart": 198.167,
-              "audioEnd": 199.639
-            },
-            {
-              "text": "\"Ben,\" it said.",
-              "audioStart": 200.597,
-              "audioEnd": 201.889
+              "text": "A voice, which was now extremely close, whispered his name from the other side of the wood.",
+              "audioStart": 281.538,
+              "audioEnd": 286.325
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "\"Open the door,\" the voice said.",
-              "audioStart": 202.847,
-              "audioEnd": 204.875
+              "text": "\"Ben,\" the voice whispered, sounding like a wet throat trying to speak after a long period of silence.",
+              "audioStart": 287.188,
+              "audioEnd": 292.712
             },
             {
-              "text": "\"We can look at each other in the light.\"",
-              "audioStart": 205.833,
-              "audioEnd": 207.75
+              "text": "\"If you opened the door, we could finally look at each other in the beautiful light.\"",
+              "audioStart": 293.575,
+              "audioEnd": 297.525
             },
             {
-              "text": "Ben did not wait.",
-              "audioStart": 208.708,
-              "audioEnd": 209.889
+              "text": "Ben did not wait to see what was behind the door; he jumped through the open living room window instead.",
+              "audioStart": 298.387,
+              "audioEnd": 303.45
             },
             {
-              "text": "He ran through the open window.",
-              "audioStart": 210.847,
-              "audioEnd": 212.569
+              "text": "He ran to his car, started the engine, and drove away from the house without looking back even once.",
+              "audioStart": 304.312,
+              "audioEnd": 309.925
             },
             {
-              "text": "He ran to his car.",
-              "audioStart": 213.528,
-              "audioEnd": 214.889
+              "text": "Now, he lives in a busy city, but he always locks his doors and avoids any place with a well.",
+              "audioStart": 310.788,
+              "audioEnd": 316.163
             },
             {
-              "text": "He drove away and never looked back.",
-              "audioStart": 215.847,
-              "audioEnd": 218.056
-            },
-            {
-              "text": "Now, Ben lives in a busy city.",
-              "audioStart": 219.014,
-              "audioEnd": 221.25
-            },
-            {
-              "text": "He always closes his doors with his key.",
-              "audioStart": 222.208,
-              "audioEnd": 224.625
-            },
-            {
-              "text": "Sometimes, in the dark, he hears voices from the walls.",
-              "audioStart": 225.583,
-              "audioEnd": 229.361
+              "text": "Sometimes, when it rains, he still hears that wet whisper coming from the pipes under his floor.",
+              "audioStart": 317.025,
+              "audioEnd": 322.188
             }
           ]
         }
       ],
-      "audio": "audio/a2/st-0006.mp3",
-      "wordTimings": "audio/a2/st-0006.timings.json",
+      "audio": "audio/b2/st-0006.mp3",
+      "wordTimings": "audio/b2/st-0006.timings.json",
       "quiz": [
         {
-          "q": "What did Ben find in his garden?",
+          "q": "What did Ben find hidden under the wooden cover in his garden?",
           "options": [
-            "A dark forest",
-            "A deep well",
-            "An old box"
+            "A hidden box of old letters.",
+            "A deep stone well.",
+            "A secret path to the forest."
           ],
           "answer": 1
         },
         {
-          "q": "What did the voice in the well want to feel?",
+          "q": "How did the voice in the well change after the first few days?",
           "options": [
-            "The light",
-            "The cold water",
-            "The heavy stones"
+            "It sounded closer to the top of the well.",
+            "It stopped replying to Ben's questions.",
+            "It became much louder and more angry."
           ],
           "answer": 0
         },
         {
-          "q": "How did Ben escape from his house at the end?",
+          "q": "What did Ben do when he heard the voice outside his kitchen door?",
           "options": [
-            "He ran through the open window.",
-            "He walked out the back door.",
-            "He waited for his friends."
+            "He opened the door to see who was there.",
+            "He ran to the well to throw more stones in.",
+            "He jumped through the living room window and drove away."
           ],
-          "answer": 0
+          "answer": 2
         }
       ]
     },
-    "A1": {
+    "C1": {
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Ben moves to a very old house.",
-              "audioStart": 0.106,
-              "audioEnd": 2.078
+              "text": "Ben had just settled into a grand, weather-worn manor that perched on the edge of a silent, shadowy forest far from the city's bustle.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "It is far from the city.",
-              "audioStart": 3.042,
-              "audioEnd": 4.5
+              "text": "The house, with its cracked plaster and ivy-clad towers, exuded a melancholy beauty that both intrigued and unnerved him.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "He finds a well under a cover.",
-              "audioStart": 5.458,
-              "audioEnd": 7.292
+              "text": "Every afternoon he wandered the overgrown garden, where tangled hedges and wild grasses seemed to guard secret paths.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "Ben takes the cover off.",
-              "audioStart": 8.25,
-              "audioEnd": 9.819
+              "text": "The garden stretched far behind the house, a tangled maze of ancient oaks and forgotten stone statues.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "He looks down into the black water.",
-              "audioStart": 10.778,
-              "audioEnd": 12.708
-            },
-            {
-              "text": "He feels something bad.",
-              "audioStart": 13.667,
-              "audioEnd": 15.125
-            },
-            {
-              "text": "But he wants to know more.",
-              "audioStart": 16.083,
-              "audioEnd": 17.514
+              "text": "Ben felt a strange pull toward the deepest, most concealed corners, as if the land itself whispered his name.",
+              "audioStart": 0,
+              "audioEnd": 0
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Ben calls into the well.",
-              "audioStart": 18.472,
-              "audioEnd": 19.903
+              "text": "One humid afternoon, while hacking away at a thicket of brambles, his shovel struck a cold, rounded stone hidden beneath a rotting wooden lid.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "'Who is there?' he asks.",
-              "audioStart": 20.861,
-              "audioEnd": 22.736
+              "text": "The lid, swollen with damp and time, had warped into a seamless disc that concealed the darkness below.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "He wants his own sound back.",
-              "audioStart": 23.694,
-              "audioEnd": 25.403
+              "text": "He lifted the soggy timber, and a faint, stale breath seemed to rise from the abyss, chilling his skin.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "But a low sound comes up.",
-              "audioStart": 26.361,
-              "audioEnd": 27.861
+              "text": "The well yawned like a black mouth, its stone walls slick with moss and the faint echo of distant water.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "It says, 'I hear you.'",
-              "audioStart": 28.819,
-              "audioEnd": 30.528
-            },
-            {
-              "text": "Ben does not say that.",
-              "audioStart": 31.486,
-              "audioEnd": 32.889
-            },
-            {
-              "text": "He stands very still.",
-              "audioStart": 33.847,
-              "audioEnd": 35.347
-            },
-            {
-              "text": "He should put the cover back.",
-              "audioStart": 36.306,
-              "audioEnd": 37.889
+              "text": "A sudden gust, as if summoned from the depths, brushed his face, filling him with both dread and an irresistible curiosity.",
+              "audioStart": 0,
+              "audioEnd": 0
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Next morning, Ben goes back.",
-              "audioStart": 38.847,
-              "audioEnd": 40.944
+              "text": "Ben crouched at the rim, his fingertips tingling against the cold stone, and peered into the inky void that swallowed any hint of light.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "He asks another question.",
-              "audioStart": 41.903,
-              "audioEnd": 43.528
+              "text": "He imagined the well as a portal to another world, a silent witness to centuries of forgotten prayers.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "'Who are you?' Ben asks.",
-              "audioStart": 44.486,
-              "audioEnd": 47.208
+              "text": "A thin ribbon of wind curled upward, carrying with it the faint scent of damp earth and distant pine.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "A low sound comes from the water.",
-              "audioStart": 48.167,
-              "audioEnd": 50
+              "text": "The sound of his own breathing seemed amplified, as though the well itself were listening.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "'I wait under you,' it says.",
-              "audioStart": 50.958,
-              "audioEnd": 52.917
-            },
-            {
-              "text": "'I am getting close.'",
-              "audioStart": 53.875,
-              "audioEnd": 55.167
-            },
-            {
-              "text": "Ben feels great fear.",
-              "audioStart": 56.125,
-              "audioEnd": 57.611
-            },
-            {
-              "text": "But he can not stop.",
-              "audioStart": 58.569,
-              "audioEnd": 59.847
+              "text": "A shiver ran down his spine, half warning, half invitation, and he could not resist testing the darkness.",
+              "audioStart": 0,
+              "audioEnd": 0
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "The next day, the sound changes.",
-              "audioStart": 60.806,
-              "audioEnd": 63.167
+              "text": "Summoning courage, Ben shouted a simple greeting into the abyss, his voice echoing off the stone like a thrown stone.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "Ben asks, 'What do you want?'",
-              "audioStart": 64.125,
-              "audioEnd": 66.056
+              "text": "He waited, ears straining for the familiar bounce of his own words, but the silence that follows felt heavier than any echo.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "The sound is much higher now.",
-              "audioStart": 67.014,
-              "audioEnd": 68.694
+              "text": "Instead, a faint rustle rose from the bottom, resembling dry paper sliding across a wooden floor.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "It says, 'I want the light.'",
-              "audioStart": 69.653,
-              "audioEnd": 71.597
+              "text": "\"I hear you,\" whispered a voice that was neither his own nor any sound he could name.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "'I do not see light for years.'",
-              "audioStart": 72.556,
-              "audioEnd": 74.403
-            },
-            {
-              "text": "Ben steps back.",
-              "audioStart": 75.361,
-              "audioEnd": 76.528
-            },
-            {
-              "text": "The thing is coming up.",
-              "audioStart": 77.486,
-              "audioEnd": 78.764
-            },
-            {
-              "text": "Ben should run.",
-              "audioStart": 79.722,
-              "audioEnd": 80.681
+              "text": "Ben froze, heart thudding against his ribs, wondering whether his mind had conjured the phantom reply.",
+              "audioStart": 0,
+              "audioEnd": 0
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Before night, Ben feels fear.",
-              "audioStart": 81.639,
-              "audioEnd": 83.778
+              "text": "The following morning, an inexplicable pull drew him back to the well before sunrise had even painted the sky.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "He puts many things on the cover.",
-              "audioStart": 84.736,
-              "audioEnd": 86.681
+              "text": "He pressed his cold palms against the stone rim, feeling the chill seep into his bones.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "A low sound comes from it.",
-              "audioStart": 87.639,
-              "audioEnd": 89.167
+              "text": "\"Who is down there?\" he called, his voice trembling like a candle in a draft.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "It says, 'You can not hold me.'",
-              "audioStart": 90.125,
-              "audioEnd": 92.139
+              "text": "A soft sigh rose from the black water, followed by a voice tinged with a terrible, ancient weariness.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "'I am near the top.'",
-              "audioStart": 93.097,
-              "audioEnd": 94.278
-            },
-            {
-              "text": "The sound is very near.",
-              "audioStart": 95.236,
-              "audioEnd": 96.694
-            },
-            {
-              "text": "Ben runs to his house.",
-              "audioStart": 97.653,
-              "audioEnd": 99.167
-            },
-            {
-              "text": "He closes the door.",
-              "audioStart": 100.125,
-              "audioEnd": 101.417
+              "text": "\"I am the one who waits in the dark, and I am getting warmer,\" it murmured, sending a cold shiver through the garden.",
+              "audioStart": 0,
+              "audioEnd": 0
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "At night, Ben can not close his eyes.",
-              "audioStart": 102.375,
-              "audioEnd": 104.903
+              "text": "On the third day, curiosity had become a gnawing obsession, and Ben approached the well with a fierce determination.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "He is in his black room.",
-              "audioStart": 105.861,
-              "audioEnd": 107.361
+              "text": "He shouted, \"What do you want?\" and waited as the darkness seemed to pulse in answer.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "He hears a low sound on his floor.",
-              "audioStart": 108.319,
-              "audioEnd": 110.403
+              "text": "The reply did not echo from the abyssal bottom but rose from a point several meters above the stagnant water.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "It says, 'I am outside your door.'",
-              "audioStart": 111.361,
-              "audioEnd": 113.569
+              "text": "\"I want to feel the sun, which I have not seen for a hundred years,\" the voice whispered, trembling with longing.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "Ben covers his face.",
-              "audioStart": 114.528,
-              "audioEnd": 116.056
-            },
-            {
-              "text": "He wants to leave now.",
-              "audioStart": 117.014,
-              "audioEnd": 118.333
+              "text": "A sudden dread washed over Ben as he realized the entity was climbing toward the surface, inch by inch.",
+              "audioStart": 0,
+              "audioEnd": 0
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "In the morning, there is light.",
-              "audioStart": 119.292,
-              "audioEnd": 121.125
+              "text": "That evening, trembling hands gathered heavy stones from the garden, each slab slick with moss and the scent of rain.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "Ben goes outside to see the well.",
-              "audioStart": 122.083,
-              "audioEnd": 123.875
+              "text": "He lifted the stones one by one, placing them atop the rotting cover as if building a barrier against the unseen.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "The cover is in pieces.",
-              "audioStart": 124.833,
-              "audioEnd": 126.417
+              "text": "Each impact produced a low, resonant thud, and between the cracks a faint, mocking laugh slipped out.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "He sees water on the ground.",
-              "audioStart": 127.375,
-              "audioEnd": 129.083
+              "text": "\"Stones cannot hold me back, because I am already too close to the top,\" the voice hissed, breath cold on his ear.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "The water goes to his door.",
-              "audioStart": 130.042,
-              "audioEnd": 131.639
-            },
-            {
-              "text": "Something is out of the well.",
-              "audioStart": 132.597,
-              "audioEnd": 134.083
-            },
-            {
-              "text": "It is now near his house.",
-              "audioStart": 135.042,
-              "audioEnd": 136.569
+              "text": "A shiver ran along his spine as the whisper brushed his cheek, and he scrambled inside, slamming the door behind him.",
+              "audioStart": 0,
+              "audioEnd": 0
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Ben knows he must leave.",
-              "audioStart": 137.528,
-              "audioEnd": 139.042
+              "text": "Night settled like a thick blanket, and Ben lay in his dim bedroom, the wind sighing through the trees outside.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "He runs to his room.",
-              "audioStart": 140,
-              "audioEnd": 141.389
+              "text": "His thoughts swirled like autumn leaves, each one a memory of the well's echoing promise.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "He takes his things and his car.",
-              "audioStart": 142.347,
-              "audioEnd": 144.333
+              "text": "Suddenly, a sound rose that was not the wind; a familiar whisper slipped from the floorboards.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "Then, he hears a sound.",
-              "audioStart": 145.292,
-              "audioEnd": 147.083
+              "text": "\"I am just outside your door, Ben,\" it breathed, clearer than any previous murmur, as if standing beside him.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "Something is moving on the floor.",
-              "audioStart": 148.042,
-              "audioEnd": 149.861
-            },
-            {
-              "text": "The door starts to turn.",
-              "audioStart": 150.819,
-              "audioEnd": 152.319
+              "text": "He clutched the sheet, his heart hammering, wishing he had heeded the warnings of the village folk.",
+              "audioStart": 0,
+              "audioEnd": 0
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "A low sound speaks his name.",
-              "audioStart": 153.278,
-              "audioEnd": 155.014
+              "text": "When dawn finally broke, its pale light spilled over the garden, offering a brief respite from the night's terror.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "'Ben,' it says.",
-              "audioStart": 155.972,
-              "audioEnd": 157.403
+              "text": "Ben hurried to the well, expecting the stones he had piled to still lie in place.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "'Open the door.'",
-              "audioStart": 158.361,
-              "audioEnd": 159.333
+              "text": "To his horror, the stones lay scattered, the wooden cover shattered into splinters as if smashed by invisible fists.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "'We can look at each other.'",
-              "audioStart": 160.292,
-              "audioEnd": 161.639
+              "text": "A dark, wet trail of earth stretched from the open mouth of the well toward the back door of the house.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "Ben does not open the door.",
-              "audioStart": 162.597,
-              "audioEnd": 164.167
+              "text": "Ben realized, with a sudden, icy clarity, that whatever lingered within the well had already begun its climb onto the grass.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Panic surged; he flung a bag of clothes onto a chair, snatched his car keys, and raced toward the front door.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "He goes out of the window.",
-              "audioStart": 165.125,
-              "audioEnd": 166.528
+              "text": "From the kitchen, a wet, dragging sound crept across the floorboards, slow and deliberate, as if something heavy were being pulled.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "He runs to his car.",
-              "audioStart": 167.486,
-              "audioEnd": 168.903
+              "text": "He turned, heart pounding, to see the kitchen door's handle turning slowly, inch by inch, under an unseen force.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "He drives away.",
-              "audioStart": 169.861,
-              "audioEnd": 170.903
+              "text": "A voice, now close enough to brush his cheek, whispered his name with a wet, guttural tone.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "Now, he lives in a city.",
-              "audioStart": 171.861,
-              "audioEnd": 173.708
+              "text": "\"Ben,\" it hissed, \"if you open the door, we shall finally meet in the beautiful light.\" The terror forced him to leap through the living-room window.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He scrambled onto the porch, slammed the car door, and drove away without glancing back, the house receding like a nightmare.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "But he still hears that sound.",
-              "audioStart": 174.667,
-              "audioEnd": 176.403
+              "text": "Now he lives in a bustling city, where the clamor of traffic masks any whisper of wind.",
+              "audioStart": 0,
+              "audioEnd": 0
             },
             {
-              "text": "When there is water, he hears it.",
-              "audioStart": 177.361,
-              "audioEnd": 179.458
+              "text": "He double-locks every door, avoids any place with an old well, and feels a lingering chill whenever rain taps his windows.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Sometimes, on stormy nights, a wet murmur seeps through the pipes beneath his floor, reminding him of that dark water.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He never forgets the lesson that some secrets are better left buried, lest they rise again to whisper your name.",
+              "audioStart": 0,
+              "audioEnd": 0
             }
           ]
         }
       ],
-      "audio": "audio/a1/st-0006.mp3",
-      "wordTimings": "audio/a1/st-0006.timings.json",
+      "audio": null,
+      "wordTimings": null,
       "quiz": [
         {
-          "q": "What does Ben find outside?",
+          "q": "What does Ben's reaction to the first whisper reveal about his mental state?",
           "options": [
-            "A well under a cover.",
-            "A new car.",
-            "A black book."
-          ],
-          "answer": 0
-        },
-        {
-          "q": "What does the sound want?",
-          "options": [
-            "To go to the city.",
-            "To see the light.",
-            "To play a game."
+            "He feels confident and in control.",
+            "He doubts his own perception and feels unsettled.",
+            "He is indifferent to the strange occurrence."
           ],
           "answer": 1
         },
         {
-          "q": "How does Ben leave the house?",
+          "q": "Why does Ben decide to stone the well, and what does this action suggest about his view of the threat?",
           "options": [
-            "He goes out of the window.",
-            "He goes out of the door.",
-            "He does not leave."
+            "He wants to protect the garden from insects.",
+            "He believes a physical barrier can stop the entity, showing his desperation.",
+            "He hopes to appease the spirit by offering it a gift."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "At the story's end, what is the significance of the wet murmurs Ben hears in the city?",
+          "options": [
+            "They are a reminder that the well's entity may have followed him.",
+            "They are merely the sound of rain on the windows.",
+            "They signal that Ben has finally found peace."
           ],
           "answer": 0
         }

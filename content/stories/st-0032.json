@@ -5,321 +5,206 @@
   "summary": "Leo and Mia find an old map in a library book suddenly.",
   "coverScene": "A young boy and a girl sit on the floor of an old library, illuminated by a warm lamp while examining a dusty, yellowed map spread out between them.",
   "levels": {
-    "B2": {
+    "A1": {
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Leo and Mia were students who loved to visit the local library after school.",
-              "audioStart": 0.1,
-              "audioEnd": 4
+              "text": "Leo and Mia are students.",
+              "audioStart": 0.106,
+              "audioEnd": 1.856
             },
             {
-              "text": "One rainy afternoon, they found an old, dusty book which contained a hidden mountain map.",
-              "audioStart": 4.862,
-              "audioEnd": 9.488
+              "text": "They visit the library.",
+              "audioStart": 2.819,
+              "audioEnd": 4.194
             },
             {
-              "text": "The map showed a secret cave that was located high in the mountains.",
-              "audioStart": 10.35,
-              "audioEnd": 13.65
+              "text": "They find an old book.",
+              "audioStart": 5.153,
+              "audioEnd": 6.472
             },
             {
-              "text": "It had been placed there by someone many years ago.",
-              "audioStart": 14.512,
-              "audioEnd": 16.988
+              "text": "The book has a map.",
+              "audioStart": 7.431,
+              "audioEnd": 8.653
+            },
+            {
+              "text": "The map shows a cave.",
+              "audioStart": 9.611,
+              "audioEnd": 11.014
+            },
+            {
+              "text": "The cave is very high.",
+              "audioStart": 11.972,
+              "audioEnd": 13.333
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "They knew that they should find the cave before the sun went down.",
-              "audioStart": 17.85,
-              "audioEnd": 20.85
+              "text": "They need to find it.",
+              "audioStart": 14.292,
+              "audioEnd": 15.514
             },
             {
-              "text": "If they arrived late, it would be impossible to see the path.",
-              "audioStart": 21.712,
-              "audioEnd": 24.825
+              "text": "The sun is going down.",
+              "audioStart": 16.472,
+              "audioEnd": 17.903
             },
             {
-              "text": "They walked quickly through the forest and climbed the steep mountain.",
-              "audioStart": 25.688,
-              "audioEnd": 28.788
+              "text": "They walk through the forest.",
+              "audioStart": 18.861,
+              "audioEnd": 20.417
             },
             {
-              "text": "Leo and Mia were excited because they felt like real explorers.",
-              "audioStart": 29.65,
-              "audioEnd": 33.05
+              "text": "They climb the high mountain.",
+              "audioStart": 21.375,
+              "audioEnd": 22.792
+            },
+            {
+              "text": "They feel like explorers.",
+              "audioStart": 23.75,
+              "audioEnd": 25.361
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "The mountain was very high, but they continued to climb with great care.",
-              "audioStart": 33.913,
-              "audioEnd": 37.562
+              "text": "The mountain is very high.",
+              "audioStart": 26.319,
+              "audioEnd": 27.847
             },
             {
-              "text": "As they went higher, the air became cold and the light began to fade.",
-              "audioStart": 38.425,
-              "audioEnd": 42.163
+              "text": "They climb with great care.",
+              "audioStart": 28.806,
+              "audioEnd": 30.403
             },
             {
-              "text": "They could see a small, dark opening that was hidden behind a large tree.",
-              "audioStart": 43.025,
-              "audioEnd": 46.7
+              "text": "The air is cold.",
+              "audioStart": 31.361,
+              "audioEnd": 32.472
             },
             {
-              "text": "It seemed that this was the entrance to the secret cave.",
-              "audioStart": 47.562,
-              "audioEnd": 50.225
+              "text": "The light is away.",
+              "audioStart": 33.431,
+              "audioEnd": 34.569
+            },
+            {
+              "text": "They see a small cave.",
+              "audioStart": 35.528,
+              "audioEnd": 36.931
+            },
+            {
+              "text": "It is behind a tree.",
+              "audioStart": 37.889,
+              "audioEnd": 39.222
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Leo moved the branches aside so that they could enter the dark space.",
-              "audioStart": 51.087,
-              "audioEnd": 54.475
+              "text": "Leo moves the branches.",
+              "audioStart": 40.181,
+              "audioEnd": 41.75
             },
             {
-              "text": "Inside the cave, there was a small box which had been left on the ground.",
-              "audioStart": 55.337,
-              "audioEnd": 59.05
+              "text": "They go into the cave.",
+              "audioStart": 42.708,
+              "audioEnd": 44.028
             },
             {
-              "text": "They opened the box and saw that it contained ancient coins and a letter.",
-              "audioStart": 59.913,
-              "audioEnd": 63.425
+              "text": "They see a small box.",
+              "audioStart": 44.986,
+              "audioEnd": 46.444
             },
             {
-              "text": "The letter was written by a man who had lived there long ago.",
-              "audioStart": 64.287,
-              "audioEnd": 67.025
+              "text": "They open the box.",
+              "audioStart": 47.403,
+              "audioEnd": 48.625
+            },
+            {
+              "text": "It has old money.",
+              "audioStart": 49.583,
+              "audioEnd": 50.681
+            },
+            {
+              "text": "It has a letter.",
+              "audioStart": 51.639,
+              "audioEnd": 52.667
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "They read the letter and learned that the treasure was meant for brave people.",
-              "audioStart": 67.888,
-              "audioEnd": 71.162
+              "text": "They read the letter.",
+              "audioStart": 53.625,
+              "audioEnd": 54.722
             },
             {
-              "text": "If they had not followed the map, they would never have found this place.",
-              "audioStart": 72.025,
-              "audioEnd": 75.412
+              "text": "The treasure is for them.",
+              "audioStart": 55.681,
+              "audioEnd": 57.028
             },
             {
-              "text": "The sun was almost down, so they decided to return home with the treasure.",
-              "audioStart": 76.275,
-              "audioEnd": 80.05
+              "text": "They follow the map.",
+              "audioStart": 57.986,
+              "audioEnd": 59.153
             },
             {
-              "text": "They were very happy because they had finished their great adventure.",
-              "audioStart": 80.912,
-              "audioEnd": 83.987
+              "text": "They find the place.",
+              "audioStart": 60.111,
+              "audioEnd": 61.431
+            },
+            {
+              "text": "The sun is down.",
+              "audioStart": 62.389,
+              "audioEnd": 63.528
+            },
+            {
+              "text": "They return home.",
+              "audioStart": 64.486,
+              "audioEnd": 65.597
+            },
+            {
+              "text": "They are very happy.",
+              "audioStart": 66.556,
+              "audioEnd": 67.792
             }
           ]
         }
       ],
-      "audio": "audio/b2/st-0032.mp3",
-      "wordTimings": "audio/b2/st-0032.timings.json",
+      "audio": "audio/a1/st-0032.mp3",
+      "wordTimings": "audio/a1/st-0032.timings.json",
       "quiz": [
         {
-          "q": "Where did Leo and Mia find the map?",
+          "q": "Where do Leo and Mia find the map?",
           "options": [
-            "Inside a secret cave",
-            "In a library book",
-            "Under a large tree"
+            "In a cave",
+            "In the library",
+            "In the forest"
           ],
           "answer": 1
         },
         {
-          "q": "Why was it important to find the cave before sunset?",
+          "q": "What is inside the box?",
           "options": [
-            "Because the cave would disappear",
-            "Because the path would be hard to see",
-            "Because their parents wanted them home"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "What was inside the box in the cave?",
-          "options": [
-            "Ancient coins and a letter",
-            "Old tools and a map",
-            "A golden ring and food"
-          ],
-          "answer": 0
-        }
-      ]
-    },
-    "B1": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Leo and Mia were students who loved to visit the library after school.",
-              "audioStart": 0.1,
-              "audioEnd": 3.65
-            },
-            {
-              "text": "One rainy afternoon, they found an old, dusty book.",
-              "audioStart": 4.513,
-              "audioEnd": 7.5
-            },
-            {
-              "text": "It contained a hidden mountain map.",
-              "audioStart": 8.363,
-              "audioEnd": 9.975
-            },
-            {
-              "text": "The map showed a secret cave that was high in the mountains.",
-              "audioStart": 10.838,
-              "audioEnd": 13.613
-            },
-            {
-              "text": "Someone had put the map there many years ago.",
-              "audioStart": 14.475,
-              "audioEnd": 16.613
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "They knew they should find the cave before the sun went down.",
-              "audioStart": 17.475,
-              "audioEnd": 20.288
-            },
-            {
-              "text": "If they arrived late, it would be impossible to see the path.",
-              "audioStart": 21.15,
-              "audioEnd": 24.262
-            },
-            {
-              "text": "They walked quickly through the forest and climbed the steep mountain.",
-              "audioStart": 25.125,
-              "audioEnd": 28.225
-            },
-            {
-              "text": "Leo and Mia were happy because they felt like real explorers.",
-              "audioStart": 29.087,
-              "audioEnd": 32.337
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The mountain was very high, but they continued to climb with care.",
-              "audioStart": 33.2,
-              "audioEnd": 36.538
-            },
-            {
-              "text": "As they went higher, the air became cold.",
-              "audioStart": 37.4,
-              "audioEnd": 39.75
-            },
-            {
-              "text": "The light began to fade.",
-              "audioStart": 40.612,
-              "audioEnd": 42
-            },
-            {
-              "text": "They saw a small, dark opening hidden behind a large tree.",
-              "audioStart": 42.862,
-              "audioEnd": 46.075
-            },
-            {
-              "text": "It seemed that this was the entrance to the secret cave.",
-              "audioStart": 46.938,
-              "audioEnd": 49.6
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo moved the branches so they could enter the dark space.",
-              "audioStart": 50.462,
-              "audioEnd": 53.225
-            },
-            {
-              "text": "Inside the cave, there was a small box on the ground.",
-              "audioStart": 54.087,
-              "audioEnd": 56.962
-            },
-            {
-              "text": "They opened the box and saw ancient coins and a letter.",
-              "audioStart": 57.825,
-              "audioEnd": 60.65
-            },
-            {
-              "text": "The letter was from a man who had lived there long ago.",
-              "audioStart": 61.513,
-              "audioEnd": 63.975
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "They read the letter and learned the treasure was for brave people.",
-              "audioStart": 64.838,
-              "audioEnd": 67.787
-            },
-            {
-              "text": "If they had not followed the map, they would never have found this place.",
-              "audioStart": 68.65,
-              "audioEnd": 72.037
-            },
-            {
-              "text": "The sun was almost down, so they went home with the treasure.",
-              "audioStart": 72.9,
-              "audioEnd": 75.912
-            },
-            {
-              "text": "They were very happy because they had finished their great adventure.",
-              "audioStart": 76.775,
-              "audioEnd": 79.85
-            }
-          ]
-        }
-      ],
-      "audio": "audio/b1/st-0032.mp3",
-      "wordTimings": "audio/b1/st-0032.timings.json",
-      "quiz": [
-        {
-          "q": "Where did Leo and Mia find the map?",
-          "options": [
-            "In a secret cave",
-            "In an old, dusty book",
-            "At their school"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "Why did they need to hurry up the mountain?",
-          "options": [
-            "Because the sun was going down",
-            "Because they wanted to get home for dinner",
-            "Because the mountain was too cold"
+            "Old money and a letter",
+            "A new map and a book",
+            "Food and water"
           ],
           "answer": 0
         },
         {
-          "q": "What did they find inside the box?",
+          "q": "Why do they return home?",
           "options": [
-            "A new map and some gold",
-            "Ancient coins and a letter",
-            "Food and a letter"
+            "They are tired",
+            "The sun is down",
+            "They lose the map"
           ],
           "answer": 1
         }
@@ -535,206 +420,675 @@
         }
       ]
     },
-    "A1": {
+    "B1": {
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Leo and Mia are students.",
-              "audioStart": 0.106,
-              "audioEnd": 1.856
+              "text": "Leo and Mia were students who loved to visit the library after school.",
+              "audioStart": 0.1,
+              "audioEnd": 3.65
             },
             {
-              "text": "They visit the library.",
-              "audioStart": 2.819,
-              "audioEnd": 4.194
+              "text": "One rainy afternoon, they found an old, dusty book.",
+              "audioStart": 4.513,
+              "audioEnd": 7.5
             },
             {
-              "text": "They find an old book.",
-              "audioStart": 5.153,
-              "audioEnd": 6.472
+              "text": "It contained a hidden mountain map.",
+              "audioStart": 8.363,
+              "audioEnd": 9.975
             },
             {
-              "text": "The book has a map.",
-              "audioStart": 7.431,
-              "audioEnd": 8.653
+              "text": "The map showed a secret cave that was high in the mountains.",
+              "audioStart": 10.838,
+              "audioEnd": 13.613
             },
             {
-              "text": "The map shows a cave.",
-              "audioStart": 9.611,
-              "audioEnd": 11.014
-            },
-            {
-              "text": "The cave is very high.",
-              "audioStart": 11.972,
-              "audioEnd": 13.333
+              "text": "Someone had put the map there many years ago.",
+              "audioStart": 14.475,
+              "audioEnd": 16.613
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "They need to find it.",
-              "audioStart": 14.292,
-              "audioEnd": 15.514
+              "text": "They knew they should find the cave before the sun went down.",
+              "audioStart": 17.475,
+              "audioEnd": 20.288
             },
             {
-              "text": "The sun is going down.",
-              "audioStart": 16.472,
-              "audioEnd": 17.903
+              "text": "If they arrived late, it would be impossible to see the path.",
+              "audioStart": 21.15,
+              "audioEnd": 24.262
             },
             {
-              "text": "They walk through the forest.",
-              "audioStart": 18.861,
-              "audioEnd": 20.417
+              "text": "They walked quickly through the forest and climbed the steep mountain.",
+              "audioStart": 25.125,
+              "audioEnd": 28.225
             },
             {
-              "text": "They climb the high mountain.",
-              "audioStart": 21.375,
-              "audioEnd": 22.792
-            },
-            {
-              "text": "They feel like explorers.",
-              "audioStart": 23.75,
-              "audioEnd": 25.361
+              "text": "Leo and Mia were happy because they felt like real explorers.",
+              "audioStart": 29.087,
+              "audioEnd": 32.337
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "The mountain is very high.",
-              "audioStart": 26.319,
-              "audioEnd": 27.847
+              "text": "The mountain was very high, but they continued to climb with care.",
+              "audioStart": 33.2,
+              "audioEnd": 36.538
             },
             {
-              "text": "They climb with great care.",
-              "audioStart": 28.806,
-              "audioEnd": 30.403
+              "text": "As they went higher, the air became cold.",
+              "audioStart": 37.4,
+              "audioEnd": 39.75
             },
             {
-              "text": "The air is cold.",
-              "audioStart": 31.361,
-              "audioEnd": 32.472
+              "text": "The light began to fade.",
+              "audioStart": 40.612,
+              "audioEnd": 42
             },
             {
-              "text": "The light is away.",
-              "audioStart": 33.431,
-              "audioEnd": 34.569
+              "text": "They saw a small, dark opening hidden behind a large tree.",
+              "audioStart": 42.862,
+              "audioEnd": 46.075
             },
             {
-              "text": "They see a small cave.",
-              "audioStart": 35.528,
-              "audioEnd": 36.931
-            },
-            {
-              "text": "It is behind a tree.",
-              "audioStart": 37.889,
-              "audioEnd": 39.222
+              "text": "It seemed that this was the entrance to the secret cave.",
+              "audioStart": 46.938,
+              "audioEnd": 49.6
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Leo moves the branches.",
-              "audioStart": 40.181,
-              "audioEnd": 41.75
+              "text": "Leo moved the branches so they could enter the dark space.",
+              "audioStart": 50.462,
+              "audioEnd": 53.225
             },
             {
-              "text": "They go into the cave.",
-              "audioStart": 42.708,
-              "audioEnd": 44.028
+              "text": "Inside the cave, there was a small box on the ground.",
+              "audioStart": 54.087,
+              "audioEnd": 56.962
             },
             {
-              "text": "They see a small box.",
-              "audioStart": 44.986,
-              "audioEnd": 46.444
+              "text": "They opened the box and saw ancient coins and a letter.",
+              "audioStart": 57.825,
+              "audioEnd": 60.65
             },
             {
-              "text": "They open the box.",
-              "audioStart": 47.403,
-              "audioEnd": 48.625
-            },
-            {
-              "text": "It has old money.",
-              "audioStart": 49.583,
-              "audioEnd": 50.681
-            },
-            {
-              "text": "It has a letter.",
-              "audioStart": 51.639,
-              "audioEnd": 52.667
+              "text": "The letter was from a man who had lived there long ago.",
+              "audioStart": 61.513,
+              "audioEnd": 63.975
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "They read the letter.",
-              "audioStart": 53.625,
-              "audioEnd": 54.722
+              "text": "They read the letter and learned the treasure was for brave people.",
+              "audioStart": 64.838,
+              "audioEnd": 67.787
             },
             {
-              "text": "The treasure is for them.",
-              "audioStart": 55.681,
-              "audioEnd": 57.028
+              "text": "If they had not followed the map, they would never have found this place.",
+              "audioStart": 68.65,
+              "audioEnd": 72.037
             },
             {
-              "text": "They follow the map.",
-              "audioStart": 57.986,
-              "audioEnd": 59.153
+              "text": "The sun was almost down, so they went home with the treasure.",
+              "audioStart": 72.9,
+              "audioEnd": 75.912
             },
             {
-              "text": "They find the place.",
-              "audioStart": 60.111,
-              "audioEnd": 61.431
-            },
-            {
-              "text": "The sun is down.",
-              "audioStart": 62.389,
-              "audioEnd": 63.528
-            },
-            {
-              "text": "They return home.",
-              "audioStart": 64.486,
-              "audioEnd": 65.597
-            },
-            {
-              "text": "They are very happy.",
-              "audioStart": 66.556,
-              "audioEnd": 67.792
+              "text": "They were very happy because they had finished their great adventure.",
+              "audioStart": 76.775,
+              "audioEnd": 79.85
             }
           ]
         }
       ],
-      "audio": "audio/a1/st-0032.mp3",
-      "wordTimings": "audio/a1/st-0032.timings.json",
+      "audio": "audio/b1/st-0032.mp3",
+      "wordTimings": "audio/b1/st-0032.timings.json",
       "quiz": [
         {
-          "q": "Where do Leo and Mia find the map?",
+          "q": "Where did Leo and Mia find the map?",
           "options": [
-            "In a cave",
-            "In the library",
-            "In the forest"
+            "In a secret cave",
+            "In an old, dusty book",
+            "At their school"
           ],
           "answer": 1
         },
         {
-          "q": "What is inside the box?",
+          "q": "Why did they need to hurry up the mountain?",
           "options": [
-            "Old money and a letter",
-            "A new map and a book",
-            "Food and water"
+            "Because the sun was going down",
+            "Because they wanted to get home for dinner",
+            "Because the mountain was too cold"
           ],
           "answer": 0
         },
         {
-          "q": "Why do they return home?",
+          "q": "What did they find inside the box?",
           "options": [
-            "They are tired",
-            "The sun is down",
-            "They lose the map"
+            "A new map and some gold",
+            "Ancient coins and a letter",
+            "Food and a letter"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo and Mia were students who loved to visit the local library after school.",
+              "audioStart": 0.1,
+              "audioEnd": 4
+            },
+            {
+              "text": "One rainy afternoon, they found an old, dusty book which contained a hidden mountain map.",
+              "audioStart": 4.862,
+              "audioEnd": 9.488
+            },
+            {
+              "text": "The map showed a secret cave that was located high in the mountains.",
+              "audioStart": 10.35,
+              "audioEnd": 13.65
+            },
+            {
+              "text": "It had been placed there by someone many years ago.",
+              "audioStart": 14.512,
+              "audioEnd": 16.988
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They knew that they should find the cave before the sun went down.",
+              "audioStart": 17.85,
+              "audioEnd": 20.85
+            },
+            {
+              "text": "If they arrived late, it would be impossible to see the path.",
+              "audioStart": 21.712,
+              "audioEnd": 24.825
+            },
+            {
+              "text": "They walked quickly through the forest and climbed the steep mountain.",
+              "audioStart": 25.688,
+              "audioEnd": 28.788
+            },
+            {
+              "text": "Leo and Mia were excited because they felt like real explorers.",
+              "audioStart": 29.65,
+              "audioEnd": 33.05
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The mountain was very high, but they continued to climb with great care.",
+              "audioStart": 33.913,
+              "audioEnd": 37.562
+            },
+            {
+              "text": "As they went higher, the air became cold and the light began to fade.",
+              "audioStart": 38.425,
+              "audioEnd": 42.163
+            },
+            {
+              "text": "They could see a small, dark opening that was hidden behind a large tree.",
+              "audioStart": 43.025,
+              "audioEnd": 46.7
+            },
+            {
+              "text": "It seemed that this was the entrance to the secret cave.",
+              "audioStart": 47.562,
+              "audioEnd": 50.225
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo moved the branches aside so that they could enter the dark space.",
+              "audioStart": 51.087,
+              "audioEnd": 54.475
+            },
+            {
+              "text": "Inside the cave, there was a small box which had been left on the ground.",
+              "audioStart": 55.337,
+              "audioEnd": 59.05
+            },
+            {
+              "text": "They opened the box and saw that it contained ancient coins and a letter.",
+              "audioStart": 59.913,
+              "audioEnd": 63.425
+            },
+            {
+              "text": "The letter was written by a man who had lived there long ago.",
+              "audioStart": 64.287,
+              "audioEnd": 67.025
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They read the letter and learned that the treasure was meant for brave people.",
+              "audioStart": 67.888,
+              "audioEnd": 71.162
+            },
+            {
+              "text": "If they had not followed the map, they would never have found this place.",
+              "audioStart": 72.025,
+              "audioEnd": 75.412
+            },
+            {
+              "text": "The sun was almost down, so they decided to return home with the treasure.",
+              "audioStart": 76.275,
+              "audioEnd": 80.05
+            },
+            {
+              "text": "They were very happy because they had finished their great adventure.",
+              "audioStart": 80.912,
+              "audioEnd": 83.987
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0032.mp3",
+      "wordTimings": "audio/b2/st-0032.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo and Mia find the map?",
+          "options": [
+            "Inside a secret cave",
+            "In a library book",
+            "Under a large tree"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why was it important to find the cave before sunset?",
+          "options": [
+            "Because the cave would disappear",
+            "Because the path would be hard to see",
+            "Because their parents wanted them home"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What was inside the box in the cave?",
+          "options": [
+            "Ancient coins and a letter",
+            "Old tools and a map",
+            "A golden ring and food"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "When the clouds pressed low over the town, Leo and Mia slipped into the quiet library, their usual refuge after the last school bell rang.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Rain tapped a steady rhythm on the stained-glass windows, turning the aisles into a soft, amber-lit tunnel that seemed to invite hidden discoveries.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Between the towering shelves they spotted a leather-bound volume, its spine cracked and dust motes dancing in the slanted light.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "When they opened it, a brittle map fell out, its ink faded but the lines unmistakably traced a route up the distant mountains.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A faint scribble on the margin promised a secret cave hidden high above, placed there by an unknown hand many years before.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The map was drawn in trembling ink, each contour of the ridge rendered with a care that suggested reverence rather than mere curiosity.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A tiny emblem, resembling a pinecone crossed with a star, marked the entrance, as if the cartographer had wanted future seekers to recognize the spot.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo traced the route with his fingertip, feeling the raised fibers of the parchment rise like a pulse under his skin.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Mia, eyes bright, imagined the wind whipping around a hidden opening, the echo of distant waterfalls guiding the way.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Together they sensed that the map was not a mere curiosity, but a silent invitation to prove themselves worthy of an ancient promise.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They agreed that the cave must be reached before dusk, for once the sun slipped below the peaks the trail would dissolve into shadow.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Mia slipped her jacket tighter around her shoulders, feeling the chill that hinted the mountain's altitude even before they had begun the ascent.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo packed a small rucksack with a water bottle, a flashlight, and a notebook, each item a quiet reassurance against the unknown.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The forest path ahead was a tangled carpet of moss and fallen leaves, the scent of pine mingling with the earthy perfume of rain.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "With hearts thudding like drums, they stepped onto the trail, aware that every footfall was a promise to the mystery that waited above.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The slope rose sharply, a slab of stone that seemed to test their resolve with each precarious step.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo's breath came out in short clouds, the air thin enough to taste metal, yet his mind stayed fixed on the hidden entrance.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Mia, though winded, kept her gaze forward, noting the way the sun's rays filtered through the trees like golden filaments.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Every now and then a small bird burst into song, a fleeting reminder that life continued even in such a demanding climb.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Their excitement grew with each meter gained, for the sensation of becoming real explorers outweighed the fatigue that pressed against their limbs.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At the summit, a sudden wind whispered through the crags, carrying a scent of cold stone and distant snow.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The sky, once a bright blue, now wore a thin veil of amber as the sun began its slow descent.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A faint glow illuminated a narrow crevice hidden behind a massive, gnarled oak, its bark scarred by time.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Mia's breath hitched as she recognized the shape of the entrance described on the map, a perfect match to the drawing's crooked line.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo brushed aside a curtain of hanging moss, revealing the dark mouth of the cave that seemed to inhale the waning light.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The interior was cool, a hush that wrapped around them like a woolen cloak, muffling every footstep.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A faint drip echoed from deeper shadows, each drop a metronome marking the passage of time within stone.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo's flashlight cut a thin cone of light, revealing a small wooden box perched on a stone slab as if waiting.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The box was unadorned, its lid slightly ajar, and the air around it carried a faint metallic scent.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Mia reached out, her hand trembling not from fear but from the thrill of uncovering something long concealed.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Inside lay a handful of tarnished coins, each stamped with symbols that hinted at a forgotten civilization.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Beside the coins rested a vellum parchment, its edges curled like the leaves of an ancient book.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The parchment bore a careful script, each line flowing with a rhythm that seemed to echo the cave's own heartbeat.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "At the top of the letter, a seal of wax bore the same pinecone-star emblem that marked the map's entrance.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The ink, though faded, still glimmered faintly, as if reluctant to surrender its secrets to the dim light.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo unfolded the parchment slowly, his eyes scanning the words that spoke of a guardian who had hidden the treasure for generations.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The letter declared that the riches were reserved for those who proved courage, curiosity, and respect for the land that bore them.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "It warned that the map would lead only to the entrance; the true test lay within, in the willingness to cherish what was found.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Mia felt a shiver run down her spine, not from cold but from the realization that they had been chosen by chance and destiny alike.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Together they whispered a quiet thanks to the unseen guardian, their voices mingling with the distant drip of water.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The sun, now a thin crimson slash on the horizon, reminded them that night would soon cloak the mountain in darkness.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "They tucked the coins into the rucksack, feeling their weight as a tangible reminder of the adventure's reward.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo rolled the parchment carefully, sealing it inside a waterproof sleeve to protect the fragile script from the evening damp.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Mia glanced back at the cave's mouth, its darkness now seeming less threatening and more like a secret kept safe.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "With the treasure secured, they began the descent, each step a promise to return one day and share the story.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The forest seemed to watch them, leaves rustling in a rhythm that matched the beating of their hearts.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "As they emerged onto the familiar path leading back to town, the sky darkened, sprinkling the world with twinkling stars.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo felt a quiet pride, realizing that the map had been a catalyst, not just a guide, for their growth.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Mia smiled, thinking that the true treasure might be the memory of the climb, the shared wonder, and the promise of future quests.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "They walked home under the night sky, the constellations above a silent audience to their whispered plans.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When they reached the library's stone steps, the rain had stopped, leaving puddles that reflected the lanterns' warm glow.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "They placed the coins on a table, their metallic clink resonating like a promise fulfilled.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The letter was folded and tucked into a notebook, a secret they would cherish and perhaps one day share with other seekers.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "As the library's clock chimed midnight, Leo and Mia exchanged a look that said adventure was only beginning.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The hidden mountain map, now a treasured relic, rested on the shelf, waiting for the next curious hearts to discover its secret.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "wordTimings": null,
+      "quiz": [
+        {
+          "q": "What does the narrator suggest about the role of the map in Leo and Mia's personal development?",
+          "options": [
+            "It served merely as a direction to find treasure.",
+            "It acted as a catalyst that prompted growth beyond the physical journey.",
+            "It was a test of their ability to follow instructions."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why is the pinecone-star emblem significant in the story?",
+          "options": [
+            "It identifies the cartographer's family crest.",
+            "It links the map's entrance to the hidden cave, confirming authenticity.",
+            "It is a decorative element with no deeper meaning."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What underlying theme is conveyed by the description of the treasure and the letter?",
+          "options": [
+            "Material wealth is the ultimate reward for bravery.",
+            "True value lies in the virtues of courage, curiosity, and respect for nature.",
+            "Secrets should remain hidden to preserve mystery."
           ],
           "answer": 1
         }

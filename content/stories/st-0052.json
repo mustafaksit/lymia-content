@@ -5,372 +5,213 @@
   "summary": "Leo finds a strange mirror in the attic of his new house.",
   "coverScene": "A lonely, dust-covered antique mirror stands in the center of a dark attic, reflecting the empty room behind it while the silhouette of a man stands frozen in the glass.",
   "levels": {
-    "B2": {
+    "A1": {
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Leo moved into the old house on a cold autumn evening.",
-              "audioStart": 0.1,
-              "audioEnd": 2.7
+              "text": "Leo moves into a new house.",
+              "audioStart": 0.106,
+              "audioEnd": 1.883
             },
             {
-              "text": "The building was large and quiet, with a long history that he did not yet know.",
-              "audioStart": 3.562,
-              "audioEnd": 7.588
+              "text": "The house is very old.",
+              "audioStart": 2.847,
+              "audioEnd": 4.264
+            },
+            {
+              "text": "It is a cold night.",
+              "audioStart": 5.222,
+              "audioEnd": 6.444
+            },
+            {
+              "text": "Leo is alone.",
+              "audioStart": 7.403,
+              "audioEnd": 8.569
+            },
+            {
+              "text": "The house is quiet.",
+              "audioStart": 9.528,
+              "audioEnd": 10.792
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "He decided to explore the attic after he finished unpacking his boxes.",
-              "audioStart": 8.45,
-              "audioEnd": 12.475
+              "text": "Leo walks to the attic.",
+              "audioStart": 11.75,
+              "audioEnd": 13.306
             },
             {
-              "text": "The space was dark and smelled of dust, but he found a beautiful mirror standing in the corner.",
-              "audioStart": 13.338,
-              "audioEnd": 18.1
+              "text": "The attic is dark.",
+              "audioStart": 14.264,
+              "audioEnd": 15.514
+            },
+            {
+              "text": "It smells like dust.",
+              "audioStart": 16.472,
+              "audioEnd": 17.903
+            },
+            {
+              "text": "He finds a big mirror.",
+              "audioStart": 18.861,
+              "audioEnd": 20.292
+            },
+            {
+              "text": "It is in the corner.",
+              "audioStart": 21.25,
+              "audioEnd": 22.389
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Leo walked toward the mirror to look at his face.",
-              "audioStart": 18.962,
-              "audioEnd": 21.475
+              "text": "Leo walks to the mirror.",
+              "audioStart": 23.347,
+              "audioEnd": 24.833
             },
             {
-              "text": "He noticed that the glass was very clear, although it was covered in age and dirt.",
-              "audioStart": 22.337,
-              "audioEnd": 26.525
+              "text": "He looks at his face.",
+              "audioStart": 25.792,
+              "audioEnd": 27.208
+            },
+            {
+              "text": "The glass is very clear.",
+              "audioStart": 28.167,
+              "audioEnd": 29.792
+            },
+            {
+              "text": "He moves his head.",
+              "audioStart": 30.75,
+              "audioEnd": 31.931
+            },
+            {
+              "text": "His reflection does not move.",
+              "audioStart": 32.889,
+              "audioEnd": 34.736
+            },
+            {
+              "text": "The man in the mirror stands still.",
+              "audioStart": 35.694,
+              "audioEnd": 37.667
+            },
+            {
+              "text": "He stares at Leo.",
+              "audioStart": 38.625,
+              "audioEnd": 39.931
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "When he moved his head to the left, his reflection did not move at all.",
-              "audioStart": 27.387,
-              "audioEnd": 30.975
+              "text": "Leo feels a great fear.",
+              "audioStart": 40.889,
+              "audioEnd": 42.556
             },
             {
-              "text": "He stood still as he watched the man in the mirror staring back at him.",
-              "audioStart": 31.837,
-              "audioEnd": 35.25
+              "text": "He wants to leave now.",
+              "audioStart": 43.514,
+              "audioEnd": 44.833
+            },
+            {
+              "text": "He turns around.",
+              "audioStart": 45.792,
+              "audioEnd": 46.931
+            },
+            {
+              "text": "He walks to the door.",
+              "audioStart": 47.889,
+              "audioEnd": 49.194
+            },
+            {
+              "text": "His heart beats fast.",
+              "audioStart": 50.153,
+              "audioEnd": 51.653
+            },
+            {
+              "text": "He feels eyes on his back.",
+              "audioStart": 52.611,
+              "audioEnd": 54.306
+            },
+            {
+              "text": "He does not look back.",
+              "audioStart": 55.264,
+              "audioEnd": 56.597
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "If he had been a brave man, he might have stayed there to see what happened.",
-              "audioStart": 36.112,
-              "audioEnd": 39.562
+              "text": "Leo closes the heavy door.",
+              "audioStart": 57.556,
+              "audioEnd": 59.292
             },
             {
-              "text": "However, Leo felt a great fear and decided that he should leave the room immediately.",
-              "audioStart": 40.425,
-              "audioEnd": 44.75
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He turned around and walked toward the attic door while his heart beat fast.",
-              "audioStart": 45.612,
-              "audioEnd": 49.325
+              "text": "He locks the door tight.",
+              "audioStart": 60.25,
+              "audioEnd": 61.806
             },
             {
-              "text": "He did not look back, but he could feel the eyes of the reflection on his back.",
-              "audioStart": 50.188,
-              "audioEnd": 54.062
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo closed the heavy door and locked it tight behind him.",
-              "audioStart": 54.925,
-              "audioEnd": 57.788
+              "text": "He looks through the keyhole.",
+              "audioStart": 62.764,
+              "audioEnd": 64.139
             },
             {
-              "text": "He wanted to be sure that nothing could follow him out of that dark attic.",
-              "audioStart": 58.65,
-              "audioEnd": 62.062
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He then looked through the keyhole and saw the mirror clearly.",
-              "audioStart": 62.925,
-              "audioEnd": 65.688
+              "text": "He sees the mirror.",
+              "audioStart": 65.097,
+              "audioEnd": 66.319
             },
             {
-              "text": "His reflection was still standing there, watching the door with a cold and hungry look.",
-              "audioStart": 66.55,
-              "audioEnd": 71.037
+              "text": "The reflection is still there.",
+              "audioStart": 67.278,
+              "audioEnd": 68.931
+            },
+            {
+              "text": "It watches the door.",
+              "audioStart": 69.889,
+              "audioEnd": 71.125
+            },
+            {
+              "text": "It has a hungry look.",
+              "audioStart": 72.083,
+              "audioEnd": 73.444
             }
           ]
         }
       ],
-      "audio": "audio/b2/st-0052.mp3",
-      "wordTimings": "audio/b2/st-0052.timings.json",
+      "audio": "audio/a1/st-0052.mp3",
+      "wordTimings": "audio/a1/st-0052.timings.json",
       "quiz": [
         {
-          "q": "What did Leo find in the attic?",
+          "q": "Where does Leo find the mirror?",
           "options": [
-            "An old mirror",
-            "A collection of boxes",
-            "A locked door"
-          ],
-          "answer": 0
-        },
-        {
-          "q": "What happened when Leo moved his head?",
-          "options": [
-            "The mirror broke",
-            "The reflection did not move",
-            "The reflection turned around"
+            "In the bedroom",
+            "In the attic",
+            "In the kitchen"
           ],
           "answer": 1
         },
         {
-          "q": "How did Leo feel when he looked at the mirror?",
+          "q": "What happens when Leo moves his head?",
           "options": [
-            "He felt very happy",
-            "He felt curious but calm",
-            "He felt a great fear"
+            "His reflection moves too",
+            "His reflection closes its eyes",
+            "His reflection does not move"
           ],
           "answer": 2
-        }
-      ]
-    },
-    "B1": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Leo moved into the old house on a cold autumn evening.",
-              "audioStart": 0.1,
-              "audioEnd": 2.7
-            },
-            {
-              "text": "The house was big and very quiet.",
-              "audioStart": 3.562,
-              "audioEnd": 5.438
-            },
-            {
-              "text": "It had a long history, but Leo did not know it yet.",
-              "audioStart": 6.3,
-              "audioEnd": 9.275
-            }
-          ]
         },
         {
-          "sentences": [
-            {
-              "text": "Leo finished his work with the boxes.",
-              "audioStart": 10.137,
-              "audioEnd": 12.213
-            },
-            {
-              "text": "He decided to explore the attic.",
-              "audioStart": 13.075,
-              "audioEnd": 14.95
-            },
-            {
-              "text": "The space was dark and smelled of dust.",
-              "audioStart": 15.812,
-              "audioEnd": 17.95
-            },
-            {
-              "text": "He found a beautiful mirror in the corner.",
-              "audioStart": 18.812,
-              "audioEnd": 20.725
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo walked toward the mirror to look at his face.",
-              "audioStart": 21.587,
-              "audioEnd": 24.1
-            },
-            {
-              "text": "The glass was very clear.",
-              "audioStart": 24.962,
-              "audioEnd": 26.462
-            },
-            {
-              "text": "It was not covered in dirt or age.",
-              "audioStart": 27.325,
-              "audioEnd": 29.163
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo moved his head to the left.",
-              "audioStart": 30.025,
-              "audioEnd": 31.65
-            },
-            {
-              "text": "His reflection did not move at all.",
-              "audioStart": 32.513,
-              "audioEnd": 34.35
-            },
-            {
-              "text": "He stood still.",
-              "audioStart": 35.212,
-              "audioEnd": 36.2
-            },
-            {
-              "text": "He watched the man in the mirror.",
-              "audioStart": 37.062,
-              "audioEnd": 38.638
-            },
-            {
-              "text": "The man in the mirror stared back at him.",
-              "audioStart": 39.5,
-              "audioEnd": 41.462
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo felt a great fear.",
-              "audioStart": 42.325,
-              "audioEnd": 43.75
-            },
-            {
-              "text": "He decided that he should leave the room immediately.",
-              "audioStart": 44.612,
-              "audioEnd": 46.987
-            },
-            {
-              "text": "If he had been a brave man, he would have stayed.",
-              "audioStart": 47.85,
-              "audioEnd": 50.163
-            },
-            {
-              "text": "But he was not brave.",
-              "audioStart": 51.025,
-              "audioEnd": 52.2
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He turned and walked toward the attic door.",
-              "audioStart": 53.062,
-              "audioEnd": 55.25
-            },
-            {
-              "text": "His heart beat fast.",
-              "audioStart": 56.112,
-              "audioEnd": 57.438
-            },
-            {
-              "text": "He did not look back.",
-              "audioStart": 58.3,
-              "audioEnd": 59.513
-            },
-            {
-              "text": "He felt the eyes of the reflection on his back.",
-              "audioStart": 60.375,
-              "audioEnd": 62.675
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Leo closed the heavy door.",
-              "audioStart": 63.538,
-              "audioEnd": 65.013
-            },
-            {
-              "text": "He locked it tight.",
-              "audioStart": 65.875,
-              "audioEnd": 67.025
-            },
-            {
-              "text": "He wanted to be sure that nothing could follow him out.",
-              "audioStart": 67.888,
-              "audioEnd": 70.463
-            },
-            {
-              "text": "He had worked hard to get away.",
-              "audioStart": 71.325,
-              "audioEnd": 72.875
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He looked through the keyhole.",
-              "audioStart": 73.737,
-              "audioEnd": 75.025
-            },
-            {
-              "text": "He saw the mirror clearly.",
-              "audioStart": 75.888,
-              "audioEnd": 77.338
-            },
-            {
-              "text": "His reflection was still standing there.",
-              "audioStart": 78.2,
-              "audioEnd": 80.263
-            },
-            {
-              "text": "It watched the door with a cold and hungry look.",
-              "audioStart": 81.125,
-              "audioEnd": 83.463
-            }
-          ]
-        }
-      ],
-      "audio": "audio/b1/st-0052.mp3",
-      "wordTimings": "audio/b1/st-0052.timings.json",
-      "quiz": [
-        {
-          "q": "What did Leo find in the attic?",
+          "q": "How does Leo feel at the end?",
           "options": [
-            "A box of old clothes",
-            "A beautiful mirror",
-            "A dark room with no windows"
+            "He feels very happy",
+            "He feels a great fear",
+            "He feels very tired"
           ],
           "answer": 1
-        },
-        {
-          "q": "What did the reflection do when Leo moved his head?",
-          "options": [
-            "It followed his movement",
-            "It stayed still",
-            "It walked away"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "What happened after Leo locked the door?",
-          "options": [
-            "He looked through the keyhole",
-            "He went to sleep",
-            "He left the house"
-          ],
-          "answer": 0
         }
       ]
     },
@@ -601,211 +442,695 @@
         }
       ]
     },
-    "A1": {
+    "B1": {
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Leo moves into a new house.",
-              "audioStart": 0.106,
-              "audioEnd": 1.883
+              "text": "Leo moved into the old house on a cold autumn evening.",
+              "audioStart": 0.1,
+              "audioEnd": 2.7
             },
             {
-              "text": "The house is very old.",
-              "audioStart": 2.847,
-              "audioEnd": 4.264
+              "text": "The house was big and very quiet.",
+              "audioStart": 3.562,
+              "audioEnd": 5.438
             },
             {
-              "text": "It is a cold night.",
-              "audioStart": 5.222,
-              "audioEnd": 6.444
-            },
-            {
-              "text": "Leo is alone.",
-              "audioStart": 7.403,
-              "audioEnd": 8.569
-            },
-            {
-              "text": "The house is quiet.",
-              "audioStart": 9.528,
-              "audioEnd": 10.792
+              "text": "It had a long history, but Leo did not know it yet.",
+              "audioStart": 6.3,
+              "audioEnd": 9.275
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Leo walks to the attic.",
-              "audioStart": 11.75,
-              "audioEnd": 13.306
+              "text": "Leo finished his work with the boxes.",
+              "audioStart": 10.137,
+              "audioEnd": 12.213
             },
             {
-              "text": "The attic is dark.",
-              "audioStart": 14.264,
-              "audioEnd": 15.514
+              "text": "He decided to explore the attic.",
+              "audioStart": 13.075,
+              "audioEnd": 14.95
             },
             {
-              "text": "It smells like dust.",
-              "audioStart": 16.472,
-              "audioEnd": 17.903
+              "text": "The space was dark and smelled of dust.",
+              "audioStart": 15.812,
+              "audioEnd": 17.95
             },
             {
-              "text": "He finds a big mirror.",
-              "audioStart": 18.861,
-              "audioEnd": 20.292
-            },
-            {
-              "text": "It is in the corner.",
-              "audioStart": 21.25,
-              "audioEnd": 22.389
+              "text": "He found a beautiful mirror in the corner.",
+              "audioStart": 18.812,
+              "audioEnd": 20.725
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Leo walks to the mirror.",
-              "audioStart": 23.347,
-              "audioEnd": 24.833
+              "text": "Leo walked toward the mirror to look at his face.",
+              "audioStart": 21.587,
+              "audioEnd": 24.1
             },
             {
-              "text": "He looks at his face.",
-              "audioStart": 25.792,
-              "audioEnd": 27.208
+              "text": "The glass was very clear.",
+              "audioStart": 24.962,
+              "audioEnd": 26.462
             },
             {
-              "text": "The glass is very clear.",
-              "audioStart": 28.167,
-              "audioEnd": 29.792
-            },
-            {
-              "text": "He moves his head.",
-              "audioStart": 30.75,
-              "audioEnd": 31.931
-            },
-            {
-              "text": "His reflection does not move.",
-              "audioStart": 32.889,
-              "audioEnd": 34.736
-            },
-            {
-              "text": "The man in the mirror stands still.",
-              "audioStart": 35.694,
-              "audioEnd": 37.667
-            },
-            {
-              "text": "He stares at Leo.",
-              "audioStart": 38.625,
-              "audioEnd": 39.931
+              "text": "It was not covered in dirt or age.",
+              "audioStart": 27.325,
+              "audioEnd": 29.163
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Leo feels a great fear.",
-              "audioStart": 40.889,
-              "audioEnd": 42.556
+              "text": "Leo moved his head to the left.",
+              "audioStart": 30.025,
+              "audioEnd": 31.65
             },
             {
-              "text": "He wants to leave now.",
-              "audioStart": 43.514,
-              "audioEnd": 44.833
+              "text": "His reflection did not move at all.",
+              "audioStart": 32.513,
+              "audioEnd": 34.35
             },
             {
-              "text": "He turns around.",
-              "audioStart": 45.792,
-              "audioEnd": 46.931
+              "text": "He stood still.",
+              "audioStart": 35.212,
+              "audioEnd": 36.2
             },
             {
-              "text": "He walks to the door.",
-              "audioStart": 47.889,
-              "audioEnd": 49.194
+              "text": "He watched the man in the mirror.",
+              "audioStart": 37.062,
+              "audioEnd": 38.638
             },
             {
-              "text": "His heart beats fast.",
-              "audioStart": 50.153,
-              "audioEnd": 51.653
-            },
-            {
-              "text": "He feels eyes on his back.",
-              "audioStart": 52.611,
-              "audioEnd": 54.306
-            },
-            {
-              "text": "He does not look back.",
-              "audioStart": 55.264,
-              "audioEnd": 56.597
+              "text": "The man in the mirror stared back at him.",
+              "audioStart": 39.5,
+              "audioEnd": 41.462
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Leo closes the heavy door.",
-              "audioStart": 57.556,
-              "audioEnd": 59.292
+              "text": "Leo felt a great fear.",
+              "audioStart": 42.325,
+              "audioEnd": 43.75
             },
             {
-              "text": "He locks the door tight.",
-              "audioStart": 60.25,
-              "audioEnd": 61.806
+              "text": "He decided that he should leave the room immediately.",
+              "audioStart": 44.612,
+              "audioEnd": 46.987
             },
             {
-              "text": "He looks through the keyhole.",
-              "audioStart": 62.764,
-              "audioEnd": 64.139
+              "text": "If he had been a brave man, he would have stayed.",
+              "audioStart": 47.85,
+              "audioEnd": 50.163
             },
             {
-              "text": "He sees the mirror.",
-              "audioStart": 65.097,
-              "audioEnd": 66.319
+              "text": "But he was not brave.",
+              "audioStart": 51.025,
+              "audioEnd": 52.2
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He turned and walked toward the attic door.",
+              "audioStart": 53.062,
+              "audioEnd": 55.25
             },
             {
-              "text": "The reflection is still there.",
-              "audioStart": 67.278,
-              "audioEnd": 68.931
+              "text": "His heart beat fast.",
+              "audioStart": 56.112,
+              "audioEnd": 57.438
             },
             {
-              "text": "It watches the door.",
-              "audioStart": 69.889,
-              "audioEnd": 71.125
+              "text": "He did not look back.",
+              "audioStart": 58.3,
+              "audioEnd": 59.513
             },
             {
-              "text": "It has a hungry look.",
-              "audioStart": 72.083,
-              "audioEnd": 73.444
+              "text": "He felt the eyes of the reflection on his back.",
+              "audioStart": 60.375,
+              "audioEnd": 62.675
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo closed the heavy door.",
+              "audioStart": 63.538,
+              "audioEnd": 65.013
+            },
+            {
+              "text": "He locked it tight.",
+              "audioStart": 65.875,
+              "audioEnd": 67.025
+            },
+            {
+              "text": "He wanted to be sure that nothing could follow him out.",
+              "audioStart": 67.888,
+              "audioEnd": 70.463
+            },
+            {
+              "text": "He had worked hard to get away.",
+              "audioStart": 71.325,
+              "audioEnd": 72.875
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He looked through the keyhole.",
+              "audioStart": 73.737,
+              "audioEnd": 75.025
+            },
+            {
+              "text": "He saw the mirror clearly.",
+              "audioStart": 75.888,
+              "audioEnd": 77.338
+            },
+            {
+              "text": "His reflection was still standing there.",
+              "audioStart": 78.2,
+              "audioEnd": 80.263
+            },
+            {
+              "text": "It watched the door with a cold and hungry look.",
+              "audioStart": 81.125,
+              "audioEnd": 83.463
             }
           ]
         }
       ],
-      "audio": "audio/a1/st-0052.mp3",
-      "wordTimings": "audio/a1/st-0052.timings.json",
+      "audio": "audio/b1/st-0052.mp3",
+      "wordTimings": "audio/b1/st-0052.timings.json",
       "quiz": [
         {
-          "q": "Where does Leo find the mirror?",
+          "q": "What did Leo find in the attic?",
           "options": [
-            "In the bedroom",
-            "In the attic",
-            "In the kitchen"
+            "A box of old clothes",
+            "A beautiful mirror",
+            "A dark room with no windows"
           ],
           "answer": 1
         },
         {
-          "q": "What happens when Leo moves his head?",
+          "q": "What did the reflection do when Leo moved his head?",
           "options": [
-            "His reflection moves too",
-            "His reflection closes its eyes",
-            "His reflection does not move"
+            "It followed his movement",
+            "It stayed still",
+            "It walked away"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened after Leo locked the door?",
+          "options": [
+            "He looked through the keyhole",
+            "He went to sleep",
+            "He left the house"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo moved into the old house on a cold autumn evening.",
+              "audioStart": 0.1,
+              "audioEnd": 2.7
+            },
+            {
+              "text": "The building was large and quiet, with a long history that he did not yet know.",
+              "audioStart": 3.562,
+              "audioEnd": 7.588
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He decided to explore the attic after he finished unpacking his boxes.",
+              "audioStart": 8.45,
+              "audioEnd": 12.475
+            },
+            {
+              "text": "The space was dark and smelled of dust, but he found a beautiful mirror standing in the corner.",
+              "audioStart": 13.338,
+              "audioEnd": 18.1
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo walked toward the mirror to look at his face.",
+              "audioStart": 18.962,
+              "audioEnd": 21.475
+            },
+            {
+              "text": "He noticed that the glass was very clear, although it was covered in age and dirt.",
+              "audioStart": 22.337,
+              "audioEnd": 26.525
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When he moved his head to the left, his reflection did not move at all.",
+              "audioStart": 27.387,
+              "audioEnd": 30.975
+            },
+            {
+              "text": "He stood still as he watched the man in the mirror staring back at him.",
+              "audioStart": 31.837,
+              "audioEnd": 35.25
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "If he had been a brave man, he might have stayed there to see what happened.",
+              "audioStart": 36.112,
+              "audioEnd": 39.562
+            },
+            {
+              "text": "However, Leo felt a great fear and decided that he should leave the room immediately.",
+              "audioStart": 40.425,
+              "audioEnd": 44.75
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He turned around and walked toward the attic door while his heart beat fast.",
+              "audioStart": 45.612,
+              "audioEnd": 49.325
+            },
+            {
+              "text": "He did not look back, but he could feel the eyes of the reflection on his back.",
+              "audioStart": 50.188,
+              "audioEnd": 54.062
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo closed the heavy door and locked it tight behind him.",
+              "audioStart": 54.925,
+              "audioEnd": 57.788
+            },
+            {
+              "text": "He wanted to be sure that nothing could follow him out of that dark attic.",
+              "audioStart": 58.65,
+              "audioEnd": 62.062
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He then looked through the keyhole and saw the mirror clearly.",
+              "audioStart": 62.925,
+              "audioEnd": 65.688
+            },
+            {
+              "text": "His reflection was still standing there, watching the door with a cold and hungry look.",
+              "audioStart": 66.55,
+              "audioEnd": 71.037
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0052.mp3",
+      "wordTimings": "audio/b2/st-0052.timings.json",
+      "quiz": [
+        {
+          "q": "What did Leo find in the attic?",
+          "options": [
+            "An old mirror",
+            "A collection of boxes",
+            "A locked door"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened when Leo moved his head?",
+          "options": [
+            "The mirror broke",
+            "The reflection did not move",
+            "The reflection turned around"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Leo feel when he looked at the mirror?",
+          "options": [
+            "He felt very happy",
+            "He felt curious but calm",
+            "He felt a great fear"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo arrived at the old house on a cold autumn evening, the wind rattling the loose shutters like distant applause.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The building loomed, its timber bones creaking under the weight of forgotten years, and an uneasy silence settled in every empty hallway.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo had heard rumors of the house's long history, yet none of them prepared him for the chill that seemed to seep from the very walls.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He placed his suitcase on the worn front step, feeling the floorboards groan beneath his weight as if the house were inhaling.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A faint smell of damp pine and old paper hung in the air, hinting at stories that had never been spoken aloud.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After hours of shuffling boxes and arranging furniture, Leo finally felt the living room take shape, its dim lamps casting amber pools on the faded carpet.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The house, still echoing with the soft sighs of settling timber, seemed to reward his effort with a tentative calm.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Curiosity, however, pressed against his chest like a persistent drumbeat, urging him toward the narrow staircase that vanished into darkness.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He remembered the attic, spoken of in hushed tones by the previous tenant, as a place where dust whispered and secrets lingered.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "With a tentative breath, he pulled the attic door open, the hinges protesting with a long, metallic sigh.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The attic greeted him with a thick, stale darkness that seemed to swallow the weak beam of his flashlight.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Cobwebs hung from the low ceiling like delicate curtains, and the floor was a patchwork of uneven boards that creaked under each cautious step.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A sour, metallic odor rose from piles of forgotten belongings, mingling with the faint perfume of old wood and long-forgotten incense.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Among the clutter, a tall, ornate mirror stood in the far corner, its frame gilded with tarnished leaves that caught the trembling light.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "It seemed out of place, as if a portal had been dropped into the attic by accident, inviting a hesitant gaze.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo approached the glass, his breath fogging the surface momentarily before the surrounding dust settled like a thin veil.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Despite the grime that clung to its edges, the mirror's surface was startlingly clear, reflecting the attic with a precision that defied its age.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "His own silhouette appeared, framed by the faint glow of the flashlight, yet the image seemed unnervingly crisp, as if the glass were a window rather than a pane.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He lifted his right hand, watching the reflection mimic the motion with perfect fidelity, each finger articulated like a puppet obeying an unseen puppeteer.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A sudden, inexplicable chill ran down his spine, and for an instant he wondered whether the mirror might be more than mere glass.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When Leo turned his head to the left, expecting his reflection to follow, the image remained stubbornly still, its eyes fixed on his own.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The silence in the attic seemed to thicken, each breath he drew echoing louder than the last, as if the room itself were holding its breath.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He stared back at the fixed figure, feeling the uncanny sensation that the mirror was watching him, not merely reflecting him.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A thin line of doubt crept along his spine, whispering that the stillness was a warning, a silent command to remain unmoving.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Yet the urge to understand, to test the boundary between reality and illusion, tugged at his curiosity like a moth to flame.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "If bravery had taken root in his heart, he might have lingered, daring the mirror to reveal its secret.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Instead, a surge of primal fear rose, hot and sudden, flooding his thoughts with images of unseen eyes and silent predators.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He imagined the reflection stepping out, its cold stare carving a path through the thin veil that separated worlds.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A shiver ran along his arms, and the notion of staying any longer felt like an invitation to danger.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "With a breath that tasted of iron, Leo made the decisive choice to retreat, his feet moving before his mind could protest.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He spun on his heel, the flashlight flickering as if hesitant to follow his sudden departure.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Each step toward the attic door resonated like a drumbeat against the wooden planks, amplifying the rapid thud of his own heart.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He could not shake the sensation that unseen eyes lingered behind him, their gaze lingering on his back as if measuring his resolve.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The attic seemed to close in, the shadows deepening, while the faint echo of his own breathing filled the cramped space.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Yet he forced himself forward, each breath a visible puff of vapor, his determination a thin thread against the looming dread.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Reaching the heavy oak door, Leo grasped the tarnished knob, feeling the cold metal seep into his palm.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He pulled it shut with a weighty thud that resonated through the attic, as if the house itself exhaled a sigh of relief.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The lock clicked into place, its metallic sound echoing like a promise that nothing could follow him out of that darkness.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He pressed his palm against the wood, feeling the vibrations of his own heartbeat travel through the grain.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A thin veil of safety settled over him, though the lingering presence in the attic made the air feel heavy with unspoken warning.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Leo knelt before the door, aligning his eye with the narrow keyhole, and peered into the dim interior.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The flashlight's beam, now a thin line, illuminated the mirror's surface, revealing the stubborn figure still poised within.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Its reflection stared back, eyes cold and hungry, as if the glass had become a portal to a waiting predator.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A ripple of dread spread through Leo's chest, the sensation of being observed intensifying with each silent second.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He realized that the mirror's gaze was not a mere reflection but a sentient stare that might reach beyond the glass at any moment.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Without daring another glance, he turned away, the weight of the locked door anchoring his resolve like a fragile shield.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The attic's darkness seemed to pulse, each shadow whispering a promise that the mirror would wait for his return.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Outside, the wind howled louder, rattling the shutters and reminding Leo that the world beyond still moved, indifferent to his terror.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He descended the staircase, each step echoing a final farewell to the unseen watcher that lingered above.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Yet, as the house settled behind him, a faint glimmer caught his eye from the attic window, a reminder that some mirrors never truly close.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "wordTimings": null,
+      "quiz": [
+        {
+          "q": "Which observation most strongly indicates that the mirror is not an ordinary reflective surface?",
+          "options": [
+            "Its surface is clear despite age and dirt.",
+            "It is placed in the far corner of the attic.",
+            "The reflection remains unmoving when Leo turns his head."
           ],
           "answer": 2
         },
         {
-          "q": "How does Leo feel at the end?",
+          "q": "What motivates Leo to finally leave the attic?",
           "options": [
-            "He feels very happy",
-            "He feels a great fear",
-            "He feels very tired"
+            "A sudden, inexplicable chill runs down his spine.",
+            "The mirror cracks with a loud sound.",
+            "He hears footsteps from the floor below."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the faint glimmer from the attic window at the end suggest?",
+          "options": [
+            "The house will collapse soon.",
+            "Some mirrors never truly close.",
+            "Leo will return soon."
           ],
           "answer": 1
         }

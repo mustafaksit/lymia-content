@@ -5,366 +5,182 @@
   "summary": "Leo finds a mysterious note in a library book one rainy day.",
   "coverScene": "A young man sits on a wooden library floor, holding an old book with a small, folded piece of paper tucked inside.",
   "levels": {
-    "B2": {
+    "A1": {
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Leo loved the quiet atmosphere of the local library.",
-              "audioStart": 0.1,
-              "audioEnd": 2.763
+              "text": "Leo loves the local library.",
+              "audioStart": 0.106,
+              "audioEnd": 1.981
             },
             {
-              "text": "He spent every afternoon there, surrounded by tall shelves of books.",
-              "audioStart": 3.625,
-              "audioEnd": 7.338
+              "text": "He spends every afternoon there.",
+              "audioStart": 2.944,
+              "audioEnd": 4.861
             },
             {
-              "text": "One rainy Tuesday, he found a small, handwritten note inside a dusty novel.",
-              "audioStart": 8.2,
-              "audioEnd": 12.725
+              "text": "One rainy Tuesday he finds a note.",
+              "audioStart": 5.819,
+              "audioEnd": 8.028
             },
             {
-              "text": "The message was simple, asking if anyone else enjoyed the beauty of old stories.",
-              "audioStart": 13.588,
-              "audioEnd": 17.788
+              "text": "It is inside a dusty book.",
+              "audioStart": 8.986,
+              "audioEnd": 10.694
             },
             {
-              "text": "Leo felt a strange spark of excitement as he read the words.",
-              "audioStart": 18.65,
-              "audioEnd": 21.762
+              "text": "The note asks about old stories.",
+              "audioStart": 11.653,
+              "audioEnd": 13.611
+            },
+            {
+              "text": "Leo feels very happy.",
+              "audioStart": 14.569,
+              "audioEnd": 16.153
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "He decided that he would write a reply to the unknown reader.",
-              "audioStart": 22.625,
-              "audioEnd": 25.475
+              "text": "He decides to write a reply.",
+              "audioStart": 17.111,
+              "audioEnd": 18.944
             },
             {
-              "text": "He placed his response within the same book before returning it to the shelf.",
-              "audioStart": 26.337,
-              "audioEnd": 30.238
+              "text": "He puts it in the book.",
+              "audioStart": 19.903,
+              "audioEnd": 21.236
             },
             {
-              "text": "The next day, Leo returned to the library with a hopeful heart.",
-              "audioStart": 31.1,
-              "audioEnd": 34.487
+              "text": "He returns the next day.",
+              "audioStart": 22.194,
+              "audioEnd": 23.778
             },
             {
-              "text": "He checked the book again, wondering if the stranger had seen his note.",
-              "audioStart": 35.35,
-              "audioEnd": 38.913
+              "text": "A new letter is there.",
+              "audioStart": 24.736,
+              "audioEnd": 26.028
             },
             {
-              "text": "To his surprise, a new letter was waiting for him.",
-              "audioStart": 39.775,
-              "audioEnd": 42.438
+              "text": "They continue this for weeks.",
+              "audioStart": 26.986,
+              "audioEnd": 28.722
+            },
+            {
+              "text": "They share details about life.",
+              "audioStart": 29.681,
+              "audioEnd": 31.597
+            },
+            {
+              "text": "Leo wants to meet her.",
+              "audioStart": 32.556,
+              "audioEnd": 33.944
+            },
+            {
+              "text": "He fears the magic ends.",
+              "audioStart": 34.903,
+              "audioEnd": 36.611
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "They continued this secret exchange for several weeks.",
-              "audioStart": 43.3,
-              "audioEnd": 46.125
+              "text": "Leo stays late one afternoon.",
+              "audioStart": 37.569,
+              "audioEnd": 39.542
             },
             {
-              "text": "Each note revealed a new detail about their lives and their favorite characters.",
-              "audioStart": 46.987,
-              "audioEnd": 50.987
+              "text": "He waits near the book.",
+              "audioStart": 40.5,
+              "audioEnd": 41.875
             },
             {
-              "text": "Leo began to imagine what the person might look like.",
-              "audioStart": 51.85,
-              "audioEnd": 54.625
+              "text": "A young woman walks to him.",
+              "audioStart": 42.833,
+              "audioEnd": 44.458
             },
             {
-              "text": "He wanted to meet them, but he feared that the magic would disappear.",
-              "audioStart": 55.487,
-              "audioEnd": 58.938
+              "text": "She reaches for the book.",
+              "audioStart": 45.417,
+              "audioEnd": 46.847
             },
             {
-              "text": "If he spoke to them, would the mystery remain as special as it was now?",
-              "audioStart": 59.8,
-              "audioEnd": 63.175
+              "text": "Leo steps out from behind.",
+              "audioStart": 47.806,
+              "audioEnd": 49.528
+            },
+            {
+              "text": "His heart beats very fast.",
+              "audioStart": 50.486,
+              "audioEnd": 52.389
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "One afternoon, Leo decided to stay late near the bookshelf.",
-              "audioStart": 64.037,
-              "audioEnd": 67.287
+              "text": "The woman looks up.",
+              "audioStart": 53.347,
+              "audioEnd": 54.528
             },
             {
-              "text": "He waited in the shadows, watching the entrance of the library.",
-              "audioStart": 68.15,
-              "audioEnd": 71.25
+              "text": "Her eyes are very wide.",
+              "audioStart": 55.486,
+              "audioEnd": 56.958
             },
             {
-              "text": "A young woman walked toward the shelf where they kept their notes.",
-              "audioStart": 72.112,
-              "audioEnd": 75.062
+              "text": "She holds the book tightly.",
+              "audioStart": 57.917,
+              "audioEnd": 59.458
             },
             {
-              "text": "She reached for the book, and Leo realized that he had to say something.",
-              "audioStart": 75.925,
-              "audioEnd": 79.638
+              "text": "Leo says he writes the notes.",
+              "audioStart": 60.417,
+              "audioEnd": 62.333
             },
             {
-              "text": "His heart beat fast as he stepped out from behind the corner.",
-              "audioStart": 80.5,
-              "audioEnd": 83.5
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The woman looked up, her eyes wide with surprise.",
-              "audioStart": 84.362,
-              "audioEnd": 87.138
+              "text": "She gives a soft laugh.",
+              "audioStart": 63.292,
+              "audioEnd": 64.792
             },
             {
-              "text": "She held the book tightly, not knowing if she should smile or run away.",
-              "audioStart": 88,
-              "audioEnd": 91.65
-            },
-            {
-              "text": "Leo explained that he was the person who wrote the notes.",
-              "audioStart": 92.513,
-              "audioEnd": 95.275
-            },
-            {
-              "text": "A soft, nervous laugh escaped her lips as she recognized him.",
-              "audioStart": 96.138,
-              "audioEnd": 99.625
-            },
-            {
-              "text": "Finally, they began to talk, and the story of their friendship truly started.",
-              "audioStart": 100.487,
-              "audioEnd": 104.763
+              "text": "They talk and start a friendship.",
+              "audioStart": 65.75,
+              "audioEnd": 67.472
             }
           ]
         }
       ],
-      "audio": "audio/b2/st-0088.mp3",
-      "wordTimings": "audio/b2/st-0088.timings.json",
+      "audio": "audio/a1/st-0088.mp3",
+      "wordTimings": "audio/a1/st-0088.timings.json",
       "quiz": [
         {
-          "q": "Where did Leo find the first note?",
+          "q": "Where does Leo find the first note?",
           "options": [
-            "On a library table",
-            "Inside a borrowed book",
-            "Next to the library door"
+            "On a table",
+            "Inside a book",
+            "Near the door"
           ],
           "answer": 1
         },
         {
-          "q": "How did Leo feel about meeting the unknown reader?",
+          "q": "How do they talk to each other?",
           "options": [
-            "He was afraid it would ruin the mystery",
-            "He was angry about the secret",
-            "He was not interested in meeting"
+            "Through notes",
+            "On the phone",
+            "In person"
           ],
           "answer": 0
         },
         {
-          "q": "What happened when Leo finally decided to wait for the person?",
+          "q": "What does the woman do when she sees Leo?",
           "options": [
-            "He saw the librarian",
-            "He found a new note instead",
-            "He saw the woman and spoke to her"
-          ],
-          "answer": 2
-        }
-      ]
-    },
-    "B1": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Leo loved the quiet library.",
-              "audioStart": 0.1,
-              "audioEnd": 1.725
-            },
-            {
-              "text": "He spent every afternoon there among the tall book shelves.",
-              "audioStart": 2.587,
-              "audioEnd": 5.45
-            },
-            {
-              "text": "One rainy Tuesday, he found a small, handwritten note inside a dusty novel.",
-              "audioStart": 6.312,
-              "audioEnd": 10.838
-            },
-            {
-              "text": "The note asked if anyone else enjoyed the beauty of old stories.",
-              "audioStart": 11.7,
-              "audioEnd": 14.875
-            },
-            {
-              "text": "Leo felt a strange excitement when he read the words.",
-              "audioStart": 15.738,
-              "audioEnd": 18.425
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He decided that he would write a reply to the reader.",
-              "audioStart": 19.288,
-              "audioEnd": 21.725
-            },
-            {
-              "text": "He put his response inside the same book.",
-              "audioStart": 22.587,
-              "audioEnd": 24.825
-            },
-            {
-              "text": "He returned the book to the shelf.",
-              "audioStart": 25.688,
-              "audioEnd": 27.363
-            },
-            {
-              "text": "The next day, Leo returned to the library with a hopeful heart.",
-              "audioStart": 28.225,
-              "audioEnd": 31.613
-            },
-            {
-              "text": "He checked the book again to see if the stranger had seen his note.",
-              "audioStart": 32.475,
-              "audioEnd": 35.587
-            },
-            {
-              "text": "To his surprise, a new letter was waiting for him.",
-              "audioStart": 36.45,
-              "audioEnd": 39.112
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "They continued this secret exchange for several weeks.",
-              "audioStart": 39.975,
-              "audioEnd": 42.8
-            },
-            {
-              "text": "Each note revealed a new detail about their lives and favorite characters.",
-              "audioStart": 43.663,
-              "audioEnd": 47.5
-            },
-            {
-              "text": "Leo began to imagine what the person might look like.",
-              "audioStart": 48.362,
-              "audioEnd": 51.138
-            },
-            {
-              "text": "He wanted to meet them, but he feared the magic would disappear.",
-              "audioStart": 52,
-              "audioEnd": 55.288
-            },
-            {
-              "text": "If he spoke to them, would the mystery remain as special as it was now?",
-              "audioStart": 56.15,
-              "audioEnd": 59.525
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "One afternoon, Leo decided to stay late near the bookshelf.",
-              "audioStart": 60.388,
-              "audioEnd": 63.638
-            },
-            {
-              "text": "He waited in the shadows, watching the entrance of the library.",
-              "audioStart": 64.5,
-              "audioEnd": 67.6
-            },
-            {
-              "text": "A young woman walked toward the shelf where they kept their notes.",
-              "audioStart": 68.463,
-              "audioEnd": 71.412
-            },
-            {
-              "text": "She reached for the book, and Leo realized he had to say something.",
-              "audioStart": 72.275,
-              "audioEnd": 75.8
-            },
-            {
-              "text": "His heart beat fast as he stepped out from behind the corner.",
-              "audioStart": 76.662,
-              "audioEnd": 79.662
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The woman looked up, her eyes wide with surprise.",
-              "audioStart": 80.525,
-              "audioEnd": 83.3
-            },
-            {
-              "text": "She held the book tightly, not knowing if she should smile or run away.",
-              "audioStart": 84.162,
-              "audioEnd": 87.812
-            },
-            {
-              "text": "Leo explained that he was the person who wrote the notes.",
-              "audioStart": 88.675,
-              "audioEnd": 91.438
-            },
-            {
-              "text": "A soft, nervous laugh escaped her lips as she recognized him.",
-              "audioStart": 92.3,
-              "audioEnd": 95.787
-            },
-            {
-              "text": "Finally, they began to talk, and the story of their friendship truly started.",
-              "audioStart": 96.65,
-              "audioEnd": 100.925
-            }
-          ]
-        }
-      ],
-      "audio": "audio/b1/st-0088.mp3",
-      "wordTimings": "audio/b1/st-0088.timings.json",
-      "quiz": [
-        {
-          "q": "Where did Leo find the first note?",
-          "options": [
-            "On the library table",
-            "Inside a dusty novel",
-            "Behind the library door"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "Why did Leo wait near the bookshelf?",
-          "options": [
-            "He wanted to find the person who wrote the notes",
-            "He wanted to hide from the library staff",
-            "He wanted to read more books"
-          ],
-          "answer": 0
-        },
-        {
-          "q": "How did the woman feel when she first saw Leo?",
-          "options": [
-            "She was very angry",
-            "She was surprised",
-            "She was already waiting for him"
+            "She runs away",
+            "She laughs softly",
+            "She feels very angry"
           ],
           "answer": 1
         }
@@ -571,182 +387,744 @@
         }
       ]
     },
-    "A1": {
+    "B1": {
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Leo loves the local library.",
-              "audioStart": 0.106,
-              "audioEnd": 1.981
+              "text": "Leo loved the quiet library.",
+              "audioStart": 0.1,
+              "audioEnd": 1.725
             },
             {
-              "text": "He spends every afternoon there.",
-              "audioStart": 2.944,
-              "audioEnd": 4.861
+              "text": "He spent every afternoon there among the tall book shelves.",
+              "audioStart": 2.587,
+              "audioEnd": 5.45
             },
             {
-              "text": "One rainy Tuesday he finds a note.",
-              "audioStart": 5.819,
-              "audioEnd": 8.028
+              "text": "One rainy Tuesday, he found a small, handwritten note inside a dusty novel.",
+              "audioStart": 6.312,
+              "audioEnd": 10.838
             },
             {
-              "text": "It is inside a dusty book.",
-              "audioStart": 8.986,
-              "audioEnd": 10.694
+              "text": "The note asked if anyone else enjoyed the beauty of old stories.",
+              "audioStart": 11.7,
+              "audioEnd": 14.875
             },
             {
-              "text": "The note asks about old stories.",
-              "audioStart": 11.653,
-              "audioEnd": 13.611
-            },
-            {
-              "text": "Leo feels very happy.",
-              "audioStart": 14.569,
-              "audioEnd": 16.153
+              "text": "Leo felt a strange excitement when he read the words.",
+              "audioStart": 15.738,
+              "audioEnd": 18.425
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "He decides to write a reply.",
-              "audioStart": 17.111,
-              "audioEnd": 18.944
+              "text": "He decided that he would write a reply to the reader.",
+              "audioStart": 19.288,
+              "audioEnd": 21.725
             },
             {
-              "text": "He puts it in the book.",
-              "audioStart": 19.903,
-              "audioEnd": 21.236
+              "text": "He put his response inside the same book.",
+              "audioStart": 22.587,
+              "audioEnd": 24.825
             },
             {
-              "text": "He returns the next day.",
-              "audioStart": 22.194,
-              "audioEnd": 23.778
+              "text": "He returned the book to the shelf.",
+              "audioStart": 25.688,
+              "audioEnd": 27.363
             },
             {
-              "text": "A new letter is there.",
-              "audioStart": 24.736,
-              "audioEnd": 26.028
+              "text": "The next day, Leo returned to the library with a hopeful heart.",
+              "audioStart": 28.225,
+              "audioEnd": 31.613
             },
             {
-              "text": "They continue this for weeks.",
-              "audioStart": 26.986,
-              "audioEnd": 28.722
+              "text": "He checked the book again to see if the stranger had seen his note.",
+              "audioStart": 32.475,
+              "audioEnd": 35.587
             },
             {
-              "text": "They share details about life.",
-              "audioStart": 29.681,
-              "audioEnd": 31.597
-            },
-            {
-              "text": "Leo wants to meet her.",
-              "audioStart": 32.556,
-              "audioEnd": 33.944
-            },
-            {
-              "text": "He fears the magic ends.",
-              "audioStart": 34.903,
-              "audioEnd": 36.611
+              "text": "To his surprise, a new letter was waiting for him.",
+              "audioStart": 36.45,
+              "audioEnd": 39.112
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Leo stays late one afternoon.",
-              "audioStart": 37.569,
-              "audioEnd": 39.542
+              "text": "They continued this secret exchange for several weeks.",
+              "audioStart": 39.975,
+              "audioEnd": 42.8
             },
             {
-              "text": "He waits near the book.",
-              "audioStart": 40.5,
-              "audioEnd": 41.875
+              "text": "Each note revealed a new detail about their lives and favorite characters.",
+              "audioStart": 43.663,
+              "audioEnd": 47.5
             },
             {
-              "text": "A young woman walks to him.",
-              "audioStart": 42.833,
-              "audioEnd": 44.458
+              "text": "Leo began to imagine what the person might look like.",
+              "audioStart": 48.362,
+              "audioEnd": 51.138
             },
             {
-              "text": "She reaches for the book.",
-              "audioStart": 45.417,
-              "audioEnd": 46.847
+              "text": "He wanted to meet them, but he feared the magic would disappear.",
+              "audioStart": 52,
+              "audioEnd": 55.288
             },
             {
-              "text": "Leo steps out from behind.",
-              "audioStart": 47.806,
-              "audioEnd": 49.528
-            },
-            {
-              "text": "His heart beats very fast.",
-              "audioStart": 50.486,
-              "audioEnd": 52.389
+              "text": "If he spoke to them, would the mystery remain as special as it was now?",
+              "audioStart": 56.15,
+              "audioEnd": 59.525
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "The woman looks up.",
-              "audioStart": 53.347,
-              "audioEnd": 54.528
+              "text": "One afternoon, Leo decided to stay late near the bookshelf.",
+              "audioStart": 60.388,
+              "audioEnd": 63.638
             },
             {
-              "text": "Her eyes are very wide.",
-              "audioStart": 55.486,
-              "audioEnd": 56.958
+              "text": "He waited in the shadows, watching the entrance of the library.",
+              "audioStart": 64.5,
+              "audioEnd": 67.6
             },
             {
-              "text": "She holds the book tightly.",
-              "audioStart": 57.917,
-              "audioEnd": 59.458
+              "text": "A young woman walked toward the shelf where they kept their notes.",
+              "audioStart": 68.463,
+              "audioEnd": 71.412
             },
             {
-              "text": "Leo says he writes the notes.",
-              "audioStart": 60.417,
-              "audioEnd": 62.333
+              "text": "She reached for the book, and Leo realized he had to say something.",
+              "audioStart": 72.275,
+              "audioEnd": 75.8
             },
             {
-              "text": "She gives a soft laugh.",
-              "audioStart": 63.292,
-              "audioEnd": 64.792
+              "text": "His heart beat fast as he stepped out from behind the corner.",
+              "audioStart": 76.662,
+              "audioEnd": 79.662
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The woman looked up, her eyes wide with surprise.",
+              "audioStart": 80.525,
+              "audioEnd": 83.3
             },
             {
-              "text": "They talk and start a friendship.",
-              "audioStart": 65.75,
-              "audioEnd": 67.472
+              "text": "She held the book tightly, not knowing if she should smile or run away.",
+              "audioStart": 84.162,
+              "audioEnd": 87.812
+            },
+            {
+              "text": "Leo explained that he was the person who wrote the notes.",
+              "audioStart": 88.675,
+              "audioEnd": 91.438
+            },
+            {
+              "text": "A soft, nervous laugh escaped her lips as she recognized him.",
+              "audioStart": 92.3,
+              "audioEnd": 95.787
+            },
+            {
+              "text": "Finally, they began to talk, and the story of their friendship truly started.",
+              "audioStart": 96.65,
+              "audioEnd": 100.925
             }
           ]
         }
       ],
-      "audio": "audio/a1/st-0088.mp3",
-      "wordTimings": "audio/a1/st-0088.timings.json",
+      "audio": "audio/b1/st-0088.mp3",
+      "wordTimings": "audio/b1/st-0088.timings.json",
       "quiz": [
         {
-          "q": "Where does Leo find the first note?",
+          "q": "Where did Leo find the first note?",
           "options": [
-            "On a table",
-            "Inside a book",
-            "Near the door"
+            "On the library table",
+            "Inside a dusty novel",
+            "Behind the library door"
           ],
           "answer": 1
         },
         {
-          "q": "How do they talk to each other?",
+          "q": "Why did Leo wait near the bookshelf?",
           "options": [
-            "Through notes",
-            "On the phone",
-            "In person"
+            "He wanted to find the person who wrote the notes",
+            "He wanted to hide from the library staff",
+            "He wanted to read more books"
           ],
           "answer": 0
         },
         {
-          "q": "What does the woman do when she sees Leo?",
+          "q": "How did the woman feel when she first saw Leo?",
           "options": [
-            "She runs away",
-            "She laughs softly",
-            "She feels very angry"
+            "She was very angry",
+            "She was surprised",
+            "She was already waiting for him"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo loved the quiet atmosphere of the local library.",
+              "audioStart": 0.1,
+              "audioEnd": 2.763
+            },
+            {
+              "text": "He spent every afternoon there, surrounded by tall shelves of books.",
+              "audioStart": 3.625,
+              "audioEnd": 7.338
+            },
+            {
+              "text": "One rainy Tuesday, he found a small, handwritten note inside a dusty novel.",
+              "audioStart": 8.2,
+              "audioEnd": 12.725
+            },
+            {
+              "text": "The message was simple, asking if anyone else enjoyed the beauty of old stories.",
+              "audioStart": 13.588,
+              "audioEnd": 17.788
+            },
+            {
+              "text": "Leo felt a strange spark of excitement as he read the words.",
+              "audioStart": 18.65,
+              "audioEnd": 21.762
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He decided that he would write a reply to the unknown reader.",
+              "audioStart": 22.625,
+              "audioEnd": 25.475
+            },
+            {
+              "text": "He placed his response within the same book before returning it to the shelf.",
+              "audioStart": 26.337,
+              "audioEnd": 30.238
+            },
+            {
+              "text": "The next day, Leo returned to the library with a hopeful heart.",
+              "audioStart": 31.1,
+              "audioEnd": 34.487
+            },
+            {
+              "text": "He checked the book again, wondering if the stranger had seen his note.",
+              "audioStart": 35.35,
+              "audioEnd": 38.913
+            },
+            {
+              "text": "To his surprise, a new letter was waiting for him.",
+              "audioStart": 39.775,
+              "audioEnd": 42.438
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They continued this secret exchange for several weeks.",
+              "audioStart": 43.3,
+              "audioEnd": 46.125
+            },
+            {
+              "text": "Each note revealed a new detail about their lives and their favorite characters.",
+              "audioStart": 46.987,
+              "audioEnd": 50.987
+            },
+            {
+              "text": "Leo began to imagine what the person might look like.",
+              "audioStart": 51.85,
+              "audioEnd": 54.625
+            },
+            {
+              "text": "He wanted to meet them, but he feared that the magic would disappear.",
+              "audioStart": 55.487,
+              "audioEnd": 58.938
+            },
+            {
+              "text": "If he spoke to them, would the mystery remain as special as it was now?",
+              "audioStart": 59.8,
+              "audioEnd": 63.175
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One afternoon, Leo decided to stay late near the bookshelf.",
+              "audioStart": 64.037,
+              "audioEnd": 67.287
+            },
+            {
+              "text": "He waited in the shadows, watching the entrance of the library.",
+              "audioStart": 68.15,
+              "audioEnd": 71.25
+            },
+            {
+              "text": "A young woman walked toward the shelf where they kept their notes.",
+              "audioStart": 72.112,
+              "audioEnd": 75.062
+            },
+            {
+              "text": "She reached for the book, and Leo realized that he had to say something.",
+              "audioStart": 75.925,
+              "audioEnd": 79.638
+            },
+            {
+              "text": "His heart beat fast as he stepped out from behind the corner.",
+              "audioStart": 80.5,
+              "audioEnd": 83.5
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The woman looked up, her eyes wide with surprise.",
+              "audioStart": 84.362,
+              "audioEnd": 87.138
+            },
+            {
+              "text": "She held the book tightly, not knowing if she should smile or run away.",
+              "audioStart": 88,
+              "audioEnd": 91.65
+            },
+            {
+              "text": "Leo explained that he was the person who wrote the notes.",
+              "audioStart": 92.513,
+              "audioEnd": 95.275
+            },
+            {
+              "text": "A soft, nervous laugh escaped her lips as she recognized him.",
+              "audioStart": 96.138,
+              "audioEnd": 99.625
+            },
+            {
+              "text": "Finally, they began to talk, and the story of their friendship truly started.",
+              "audioStart": 100.487,
+              "audioEnd": 104.763
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0088.mp3",
+      "wordTimings": "audio/b2/st-0088.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Leo find the first note?",
+          "options": [
+            "On a library table",
+            "Inside a borrowed book",
+            "Next to the library door"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Leo feel about meeting the unknown reader?",
+          "options": [
+            "He was afraid it would ruin the mystery",
+            "He was angry about the secret",
+            "He was not interested in meeting"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened when Leo finally decided to wait for the person?",
+          "options": [
+            "He saw the librarian",
+            "He found a new note instead",
+            "He saw the woman and spoke to her"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leo cherished the hushed reverence that settled over the municipal library each afternoon.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The rows of towering shelves, dusted with the faint perfume of old paper, seemed to breathe stories into the still air.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Sunlight filtered through tall windows, painting amber patterns on the worn wooden floor, while the distant ticking of the clock marked time with deliberate patience.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo settled into his favorite corner, a narrow alcove beside a window, and opened a volume whose spine bore a faded gold title.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A sudden drizzle blurred the city outside, and the rhythmic patter against the glass added a private soundtrack to his reading.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "While turning a page, Leo felt a crisp slip of paper hidden between the yellowed leaves of a neglected novel.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He lifted the fragment carefully, its edges frayed, and read the handwritten words that trembled with a quiet curiosity.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "\"Do you, too, find beauty in the stories that have long been whispered between these covers?\" the note asked, its ink slightly smudged by time.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A sudden spark of excitement flared within Leo, as though the anonymous voice had reached across the centuries to touch him.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He lingered, feeling the paper's faint warmth, and imagined a stranger whose thoughts resonated with his own love for forgotten narratives.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Without hesitation, Leo retrieved a clean slip from his pocket, its surface smooth from countless drafts.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He wrote a brief reply, acknowledging the shared appreciation and asking whether the reader might reveal a favorite character.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "With deliberate care, he slipped the note back into the same worn book, feeling the weight of an unseen conversation beginning.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Closing the cover, he placed the volume gently on the shelf, as if setting a fragile promise among the rows.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The following morning, Leo arrived with a hopeful heart, the rain having ceased and the sky painted a pale gray.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He walked directly to the same aisle, his footsteps echoing softly against the polished floor, and retrieved the novel.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Opening it, he turned to the page where his note had rested, anticipation tightening his chest like a drawn bow.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "There, nestled between the same yellowed leaves, lay a fresh scrap of paper, its ink crisp and eager.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The stranger had replied, sharing a memory of a childhood night spent under a blanket of stars, reading the same story.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "For the next several weeks, the library became a silent stage for their clandestine correspondence, each note a small beacon of intimacy.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo learned that the unknown writer cherished the melancholy of tragic heroines, yet found solace in the resilience of quiet protagonists.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "In return, he confessed his own fascination with stories where the setting itself seemed to breathe, like the library's own vaulted rooms.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Each exchange revealed a new fragment of personality, a favorite novel, a fleeting emotion, weaving an invisible tapestry between two strangers.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo began to picture the writer's face, imagining dark curls, thoughtful eyes, and a smile that lingered like ink on parchment.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Yet a quiet anxiety gnawed at him, for he feared that meeting the voice might dissolve the delicate magic they had cultivated.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Would the mystery evaporate the moment their eyes met, leaving only ordinary conversation and the loss of wonder?",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He rehearsed countless scenarios in his mind, each one ending with either awkward silence or an unexpected burst of laughter.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The paradox of longing and dread settled like dust on the shelves, invisible yet palpable.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Still, the pull of the unknown grew stronger, urging him toward a confrontation he could no longer postpone.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One rainy afternoon, determined to bridge the gap, Leo arrived early, intent on staying after closing hours.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He chose a secluded spot beside the shelf that housed the exchanged books, a shadowed nook where whispers seemed to linger.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The library's lights dimmed, and the distant hum of the heating system became the only soundtrack to his waiting.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Minutes stretched, each tick of the clock a reminder that time itself was a participant in their secret dialogue.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "At last, the heavy wooden doors opened, and a figure slipped inside, moving purposefully toward the familiar shelf.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was a young woman, her hair a dark river cascading over a simple sweater, eyes alight with curiosity.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "She reached for the novel, her fingers brushing the worn cover as if greeting an old friend.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo felt his pulse thud in his throat, a sudden heat spreading across his cheeks.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Instinctively, he stepped from the shadows, his shadow merging with hers as he emerged into the dim light.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The air seemed to hold its breath, waiting for the moment when two strangers would finally speak.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She looked up, startled, her eyes widening for an instant before softening into a tentative smile.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The book trembled in her grasp, as if aware that the secret it contained was about to be revealed.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo raised his hands slowly, his voice low, and confessed, \"I am the one who has been writing those notes.\"",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "A nervous laugh escaped her lips, bright and uneasy, as recognition flickered across her face.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "She placed the book gently on the table between them, as if laying down a bridge built of paper.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Words poured out then, no longer confined to the margins of a page but spilling into the space between them.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "She spoke of her love for poetry, of evenings spent in cafes listening to rain, and of a favorite character named Eliza.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo listened, feeling the distance between them dissolve, each revelation a thread weaving them closer.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He shared his own secret habit of returning to the library at twilight, seeking the comfort of quiet stories.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Their conversation, at once tentative and intimate, unfolded like a novel whose chapters they were just beginning to write.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As the library lights dimmed further, casting long shadows across the floor, they realized that the story they had imagined was now real.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "The notes that once fluttered like secret birds between pages now lay silent, their purpose fulfilled.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo felt a gentle warmth spread through his chest, a feeling that blended anticipation with contentment.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He glanced at the woman, noticing the faint smile that lingered at the corners of her mouth.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "In that moment, the library ceased to be merely a building; it became a sanctuary where two hearts could meet.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They promised to return, not just for the notes, but for the shared silence that felt like a promise.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Each future visit would add another line to their story, a living testament to the power of quiet connection.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "And as the rain began again outside, the soft patter echoed the rhythm of their newly begun friendship.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "Leo smiled, feeling that the library had handed him not only books, but a chapter of his own life.",
+              "audioStart": 0,
+              "audioEnd": 0
+            },
+            {
+              "text": "He turned the page, ready for whatever story waited on the next leaf.",
+              "audioStart": 0,
+              "audioEnd": 0
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "wordTimings": null,
+      "quiz": [
+        {
+          "q": "What does the repeated motif of the library's atmosphere suggest about Leo's inner world?",
+          "options": [
+            "He feels trapped by routine.",
+            "He finds the library a sanctuary that mirrors his desire for quiet connection.",
+            "He dislikes the smell of old books."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How does the author use the exchange of notes to develop the theme of unseen connections?",
+          "options": [
+            "By showing that written words can replace spoken dialogue entirely.",
+            "By illustrating that anonymity allows imagination to fill in personal details, deepening intimacy.",
+            "By emphasizing that secret notes are a form of deception."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In the final paragraph, what is the significance of Leo turning the page?",
+          "options": [
+            "It signals his intention to leave the library.",
+            "It metaphorically represents his openness to new experiences with the woman.",
+            "It indicates that he will stop writing notes."
           ],
           "answer": 1
         }
