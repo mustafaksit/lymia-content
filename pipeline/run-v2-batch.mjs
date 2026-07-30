@@ -117,7 +117,7 @@ async function main() {
 
     // 2 validate-level --fix  (A1-B2)  — rejected olursa story dosyası taşınır
     if (entry.steps.validate !== 'done') {
-      const ok = step('2 validate-level --fix', NODE, ['pipeline/validate-level.mjs', '--story', storyPath, '--fix']);
+      const ok = step('2 validate-level --fix --keep', NODE, ['pipeline/validate-level.mjs', '--story', storyPath, '--fix', '--keep']);
       if (!ok || !existsSync(storyPath)) { mark('validate', false); failed.push(id); continue; }
       mark('validate', true);
     } else console.log('    2 validate-level ... atlandı');

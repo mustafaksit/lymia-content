@@ -149,6 +149,18 @@ async function main() {
     failing = Object.entries(reports).filter(([, r]) => !r.ok);
   }
 
+  if (failing.length > 0 && args.keep) {
+    // --keep: düzeltmeler denendi ama küçük seviye sapması kaldı; hikayeyi
+    // rejected'a ATMA, iyileştirilmiş halini yerinde bırak. Gerçek geçit audit
+    // (schema + 4+ güvenlik); kapsam/uzunluk sapması orada uyarı olarak görünür.
+    writeFileSync(storyPath, JSON.stringify(story, null, 2) + '\n');
+    console.warn(
+      `\n[--keep] ${failing.length} seviye kuralı tam geçmedi ama hikaye korundu (audit uyarı olarak raporlar):`,
+    );
+    for (const [level, r] of failing) console.warn(formatReport(level, r));
+    return;
+  }
+
   if (failing.length > 0) {
     mkdirSync(REJECTED_DIR, { recursive: true });
     const rejectedPath = path.join(REJECTED_DIR, path.basename(storyPath));
