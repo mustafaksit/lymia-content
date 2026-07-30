@@ -34,9 +34,13 @@ function normalize(str) {
 }
 
 const check = process.argv.includes('--check');
+const storyIdx = process.argv.indexOf('--story');
+const onlyStory = storyIdx >= 0 ? process.argv[storyIdx + 1] : null;
 
 function run() {
-  const files = readdirSync(STORIES_DIR).filter((f) => /^st-\d{4}\.json$/.test(f)).sort();
+  const files = onlyStory
+    ? [path.basename(onlyStory)]
+    : readdirSync(STORIES_DIR).filter((f) => /^st-\d{4}\.json$/.test(f)).sort();
   let changed = 0;
   const remaining = [];
   for (const f of files) {

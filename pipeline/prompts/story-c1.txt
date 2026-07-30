@@ -16,7 +16,7 @@ HARD RULES (an automatic validator rejects violations):
 2. Sentence length: maximum {{maxSentenceWords}} words in any single sentence.
 3. Content must be safe for a 4+ age rating: no explicit violence, no gore, no sexuality, no profanity, no drugs. Unsettling or suspenseful is fine; graphic is not. No brands, real people, or politics.
 4. Structure: 10-12 paragraphs, each 4-6 sentences. At about {{targetWords}} words this fits comfortably.
-5. Also write 3 comprehension quiz questions at C1 difficulty (inference and nuance, not just surface facts) with 3 options each; exactly one correct; wrong options must be plausible.
+5. Also write 3 comprehension quiz questions at C1 difficulty with 3 options each; exactly one correct; wrong options must be plausible. They may require inference from the events, but must test what HAPPENED in the story (facts, events, characters, cause and effect, a character's decision) — NOT the author, themes, symbols, metaphors, tone, or literary devices. No "What does X symbolize" or "How does the author..." questions.
 6. Punctuation: use only straight ASCII punctuation. No em dash or en dash.
 
 Return JSON only, in this exact shape:

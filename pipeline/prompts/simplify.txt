@@ -12,7 +12,7 @@ HARD RULES (violations get the story rejected by an automatic validator):
 3. Story length: between {{minWords}} and {{maxWords}} words in total.
 4. Grammar scope: {{grammar}}
 5. Keep the same number of scenes; you may merge or shorten descriptions, but every plot beat stays.
-6. Also write 3 comprehension quiz questions for THIS level with 3 options each; exactly one correct; wrong options plausible.
+6. Also write 3 comprehension quiz questions for THIS level with 3 options each; exactly one correct; wrong options plausible. Questions must test what HAPPENED (facts, events, characters, cause and effect), NOT the author, themes, symbols, or literary devices.
 
 ALLOWED WORD LIST:
 {{pool}}

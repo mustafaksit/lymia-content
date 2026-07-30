@@ -146,7 +146,15 @@ async function main() {
     title = title ?? gutenbergTitle(raw);
   }
 
-  if (!sourceText && (args.auto || !title || !concept)) {
+  // Retell (klasik yeniden anlatım) modunda title + plot dışarıdan gelir; konsept üretilmez.
+  const retell = Boolean(args.retell);
+  const plot = typeof args.plot === 'string' ? args.plot : '';
+  if (retell && (!title || !plot)) {
+    console.error('--retell için --title ve --plot zorunlu');
+    process.exit(1);
+  }
+
+  if (!retell && !sourceText && (args.auto || !title || !concept)) {
     console.log('Konsept üretiliyor (Gemini)...');
     const conceptPrompt = fillTemplate(loadPrompt('concept.txt'), { genre });
     const conceptData = parseJsonResponse(await callGemini(conceptPrompt, { json: true }));
@@ -161,12 +169,14 @@ async function main() {
   // 1) B2 tam hikaye (özgün veya Gutenberg sadeleştirmesi)
   const b2Rule = LEVEL_RULES.B2;
   console.log('B2 hikaye üretiliyor...');
+  const b2Prompt = retell ? 'story-classic.txt' : sourceText ? 'story-gutenberg.txt' : 'story-b2.txt';
   const b2 = await generateLevel(
-    sourceText ? 'story-gutenberg.txt' : 'story-b2.txt',
+    b2Prompt,
     {
       genre,
       title,
       concept: concept ?? '',
+      plot,
       sourceText: sourceText ?? '',
       maxSentenceWords: b2Rule.maxSentenceWords,
       minWords: b2Rule.minWords,

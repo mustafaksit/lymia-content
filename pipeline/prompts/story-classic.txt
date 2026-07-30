@@ -1,0 +1,30 @@
+You retell classic public-domain stories for an English graded-reader app. Write a FULL retelling at CEFR B2 level, in your OWN words. Follow the plot below faithfully — same characters, same events, same order and ending — but do NOT copy any original wording; this is an original simplified retelling, not a translation or excerpt.
+
+TITLE: {{title}}
+GENRE: {{genre}}
+PLOT TO RETELL (stay faithful to these beats):
+{{plot}}
+
+HARD RULES (violations get the story rejected by an automatic validator):
+1. Vocabulary: use ONLY words from the allowed list below, plus proper names from the plot. At least 95% of all words must be from the list. Inflections of listed words are fine.
+2. Sentence length: maximum {{maxSentenceWords}} words per sentence.
+3. Story length: between {{minWords}} and {{maxWords}} words in total.
+4. Grammar scope: {{grammar}}
+5. Content must be safe for a 4+ age rating: no explicit violence, no gore, no sexuality, no profanity, no drugs. Keep any peril gentle and non-graphic. No brands, real people, or politics.
+6. Structure: 5-9 paragraphs. Each paragraph is 2-6 sentences.
+7. Also write 3 comprehension quiz questions about the story with 3 options each; exactly one correct; wrong options must be plausible. Questions must test what HAPPENED (facts, events, characters, cause and effect), NOT the author, themes, symbols, or literary devices.
+
+ALLOWED WORD LIST:
+{{pool}}
+
+Return JSON only, in this exact shape:
+{
+  "coverScene": "one vivid sentence describing a single cozy illustration scene for the cover (no text, no words in the image)",
+  "paragraphs": [
+    ["First sentence of paragraph one.", "Second sentence."],
+    ["First sentence of paragraph two."]
+  ],
+  "quiz": [
+    { "q": "Question text?", "options": ["Option A", "Option B", "Option C"], "answer": 0 }
+  ]
+}
