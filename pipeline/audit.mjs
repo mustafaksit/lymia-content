@@ -26,12 +26,31 @@ import { readFileSync, readdirSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import { READING_WPM } from './lib/levels.mjs';
+import { READING_WPM, LEVEL_RULES } from './lib/levels.mjs';
+import { findTitleCollision } from './lib/title-similarity.mjs';
 import { scanStory } from './lib/content-safety.mjs';
 import { validateSchema } from './lib/schema.mjs';
 import { formatReport, validateStory } from './lib/validate.mjs';
 
 const STORIES_DIR = fileURLToPath(new URL('../content/stories/', import.meta.url));
+
+/**
+ * Uzunluk tavani (hardMaxWords) kurali YENI uretim icindir. Kural konmadan
+ * ONCE uretilmis ve tavani asan hikaye-seviye ciftleri burada muaf tutulur;
+ * yenileri bu listede olmadigindan tavani asarsa hard-fail olur.
+ * (2026-08 olculdu; yeni giris EKLENMEZ, aksi tavan kurali anlamsizlasir.)
+ */
+const GRANDFATHERED_OVER_CEILING = new Set(['st-0014:B2', 'st-0023:B1', 'st-0092:B2', 'st-0121:B2']);
+
+/** Tum katalog basliklari [{id,title}] - baslik cakisma denetimi icin. */
+function loadAllTitles() {
+  return readdirSync(STORIES_DIR)
+    .filter((f) => f.endsWith('.json'))
+    .map((f) => {
+      const d = JSON.parse(readFileSync(path.join(STORIES_DIR, f), 'utf8'));
+      return { id: d.id, title: d.title };
+    });
+}
 
 function parseArgs(argv) {
   const args = { flags: new Set() };
@@ -48,7 +67,7 @@ function readingMinutes(words) {
 }
 
 /** Audits one parsed story. Returns { id, errors, warnings, safety, levels }. */
-function auditStory(story, { strict }) {
+function auditStory(story, { strict, allTitles }) {
   const errors = [];
   const warnings = [];
 
@@ -77,6 +96,28 @@ function auditStory(story, { strict }) {
     if (!report.ok) bucket.push(`level ${level}: ${formatReport(level, report).trim()}`);
     const mins = readingMinutes(report.wordCount);
     if (mins < 0.75) warnings.push(`level ${level}: very short (${mins.toFixed(1)} min @ ${READING_WPM} wpm)`);
+
+    // Uzunluk TAVANI (hardMaxWords): asilmasi HARD-FAIL, grandfather haric.
+    const hardMax = LEVEL_RULES[level]?.hardMaxWords;
+    if (hardMax != null && report.wordCount > hardMax) {
+      const key = `${story.id}:${level}`;
+      if (GRANDFATHERED_OVER_CEILING.has(key)) {
+        warnings.push(`level ${level}: tavan asimi ${report.wordCount}>${hardMax} (grandfather, muaf)`);
+      } else {
+        errors.push(`level ${level}: UZUNLUK TAVANI asildi ${report.wordCount} > ${hardMax} kelime`);
+      }
+    }
+  }
+
+  // Baslik tekrari (IS 1b): exact/hard cakisma -> hard-fail; soft -> uyari
+  // (strict'te hard-fail). allTitles tum katalogdur; kendini atlar.
+  if (allTitles && story.title) {
+    const hit = findTitleCollision(story.title, allTitles, story.id);
+    if (hit) {
+      const msg = `baslik cakismasi [${hit.level}] "${story.title}" ~ ${hit.otherId} "${hit.otherTitle}" (jaccard ${hit.jaccard.toFixed(2)}, ortak: ${hit.shared.join('/')})`;
+      if (hit.level === 'exact' || hit.level === 'hard') errors.push(msg);
+      else (strict ? errors : warnings).push(msg);
+    }
   }
 
   return { id: story.id ?? '(no id)', errors, warnings, safety, tier2Terms, reports };
@@ -100,8 +141,9 @@ function main() {
   const args = parseArgs(process.argv);
   const strict = args.flags.has('strict');
   const files = loadStoryFiles(args);
+  const allTitles = loadAllTitles();
 
-  const results = files.map(({ story }) => auditStory(story, { strict }));
+  const results = files.map(({ story }) => auditStory(story, { strict, allTitles }));
 
   if (args.flags.has('json')) {
     const failed = results.filter((r) => r.errors.length > 0);

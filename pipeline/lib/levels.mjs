@@ -7,6 +7,14 @@
  * Reading-time standard: 200 words/min. Duration bands per level below are
  * derived from the word-count bands at that speed and drive the "X min" chip.
  */
+/**
+ * Uzunluk TAVANLARI (v2 strateji, 2026-08): asilmasi HARD-FAIL'dir (audit).
+ * `maxWords` kalite bandinin ust ucudur (uyari); `hardMaxWords` mutlak tavandir.
+ *   A1 400  A2 600  B1 900  B2 1200  C1 2400 (hedef bant 1400-2400).
+ * Kural YENI uretim icindir; tavani asan mevcut hikayeler audit'te grandfather
+ * listesiyle muaf tutulur (pipeline/audit.mjs > GRANDFATHERED_OVER_CEILING).
+ * Zorla siskirme yasak: hikaye ne tasiyorsa o kadar.
+ */
 export const MIN_COVERAGE = 0.95;
 
 /** Reading speed used to derive minute bands from word counts. */
@@ -34,6 +42,7 @@ export const LEVEL_RULES = {
     maxSentenceWords: 8,
     minWords: 250,
     maxWords: 400,
+    hardMaxWords: 400,
     minCoverage: 0.95,
     minutes: '1-2 min',
     grammar: 'Present simple and present continuous only.',
@@ -44,6 +53,7 @@ export const LEVEL_RULES = {
     maxSentenceWords: 12,
     minWords: 400,
     maxWords: 600,
+    hardMaxWords: 600,
     minCoverage: 0.95,
     minutes: '2-3 min',
     grammar: 'Adds past simple and "going to" future.',
@@ -54,6 +64,7 @@ export const LEVEL_RULES = {
     maxSentenceWords: 16,
     minWords: 600,
     maxWords: 900,
+    hardMaxWords: 900,
     minCoverage: 0.95,
     minutes: '3-4 min',
     grammar: 'Adds present perfect and first conditional.',
@@ -64,6 +75,7 @@ export const LEVEL_RULES = {
     maxSentenceWords: 22,
     minWords: 900,
     maxWords: 1400,
+    hardMaxWords: 1200,
     minCoverage: 0.95,
     minutes: '4-5 min',
     grammar: 'Adds passive voice, second/third conditionals, relative clauses.',
@@ -82,6 +94,7 @@ export const LEVEL_RULES = {
     maxSentenceWords: 32,
     minWords: 1000,
     maxWords: 1700,
+    hardMaxWords: 2400,
     minCoverage: 0.9,
     minutes: '5-8 min',
     grammar:

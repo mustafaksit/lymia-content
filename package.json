@@ -5,7 +5,8 @@
   "scripts": {
     "audit": "node pipeline/audit.mjs",
     "audit:strict": "node pipeline/audit.mjs --strict",
-    "test": "node pipeline/audit.mjs"
+    "test": "node --test 'pipeline/lib/*.test.mjs' && node pipeline/audit.mjs",
+    "test:unit": "node --test 'pipeline/lib/*.test.mjs'"
   },
   "keywords": [],
   "author": "",
