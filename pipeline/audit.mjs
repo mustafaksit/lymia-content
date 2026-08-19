@@ -28,6 +28,7 @@ import { fileURLToPath } from 'node:url';
 
 import { READING_WPM, LEVEL_RULES } from './lib/levels.mjs';
 import { findTitleCollision } from './lib/title-similarity.mjs';
+import { levelAgreementCount } from './lib/agreement.mjs';
 import { scanStory } from './lib/content-safety.mjs';
 import { validateSchema } from './lib/schema.mjs';
 import { formatReport, validateStory } from './lib/validate.mjs';
@@ -96,6 +97,11 @@ function auditStory(story, { strict, allTitles }) {
     if (!report.ok) bucket.push(`level ${level}: ${formatReport(level, report).trim()}`);
     const mins = readingMinutes(report.wordCount);
     if (mins < 0.75) warnings.push(`level ${level}: very short (${mins.toFixed(1)} min @ ${READING_WPM} wpm)`);
+
+    // Ozne-yuklem uyumu (yuksek hassasiyetli gate): normalde uyari, --strict'te
+    // hata. Yeni PD-retold uretimi (--strict) uyum hatasiyla kataloga giremez.
+    const agr = story.levels?.[level] ? levelAgreementCount(story.levels[level]) : 0;
+    if (agr > 0) (strict ? errors : warnings).push(`level ${level}: ${agr} uyum hatasi (ozne-yuklem/a-an)`);
 
     // Uzunluk TAVANI (hardMaxWords): asilmasi HARD-FAIL, grandfather haric.
     const hardMax = LEVEL_RULES[level]?.hardMaxWords;
