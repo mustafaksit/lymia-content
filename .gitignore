@@ -10,3 +10,5 @@ pipeline/.v2-batch-state.json
 pipeline/v2-originals.draft.json
 .venv/
 .grammar-fixes.log
+.env*
+!.env.example
