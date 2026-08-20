@@ -51,6 +51,24 @@ function args() {
   return a;
 }
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+/** 429/503 kota/gecici hatalarda bekleyip yeniden dener (kendini pace eder). */
+async function callWithBackoff(prompt, tries = 5) {
+  let wait = 20000;
+  for (let i = 1; i <= tries; i++) {
+    try {
+      return await callGemini(prompt, { json: true });
+    } catch (e) {
+      const msg = String(e.message);
+      const transient = msg.includes('429') || msg.includes('503') || msg.includes('kota');
+      if (!transient || i === tries) throw e;
+      process.stdout.write(`    (kota/gecici hata; ${wait / 1000}sn bekleniyor, deneme ${i}/${tries})\n`);
+      await sleep(wait);
+      wait = Math.min(wait * 2, 120000);
+    }
+  }
+}
+
 const fill = (tpl, o) => tpl.replace(/\{(\w+)\}/g, (_, k) => (k in o ? o[k] : `{${k}}`));
 const words = (s) => s.toLowerCase().match(/[a-z']+/g) || [];
 function editRatio(a, b) {
@@ -73,7 +91,7 @@ async function fixLevel(level, levelData, promptTpl) {
     tenseRule: TENSE[level] ?? 'Preserve the original tense.',
     sentences: JSON.stringify(before, null, 0),
   });
-  const data = parseJsonResponse(await callGemini(prompt, { json: true }));
+  const data = parseJsonResponse(await callWithBackoff(prompt));
   const fixed = data.sentences;
   if (!Array.isArray(fixed) || fixed.length !== before.length) {
     return { changed: false, reason: `cumle sayisi uyumsuz ${fixed?.length}!=${before.length}` };
