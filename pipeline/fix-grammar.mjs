@@ -26,7 +26,7 @@ import { readFileSync, writeFileSync, appendFileSync, readdirSync } from 'node:f
 import path from 'node:path';
 
 import { STORIES_DIR, REPO_ROOT } from './lib/env.mjs';
-import { callGemini, parseJsonResponse } from './lib/gemini.mjs';
+import { callGemini, parseJsonResponse, poolStatus, geminiKeyCount } from './lib/gemini.mjs';
 import { agreementIssues, levelAgreementCount } from './lib/agreement.mjs';
 
 const TENSE = {
@@ -161,6 +161,12 @@ async function main() {
   console.log(`\n${a.flags.has('dry') ? '[DRY] ' : ''}${done} hikaye islendi. Sesi yenilenecek seviyeler (${touchedLevels.length}):`);
   console.log(touchedLevels.join(' '));
   if (touchedLevels.length) console.log(`\nDiff log: ${LOG}`);
+  // Anahtar/uc kullanimi (kota takibi)
+  const used = poolStatus().filter((e) => e.calls > 0 || e.dead);
+  if (used.length) {
+    console.log(`\nLLM uc kullanimi (${geminiKeyCount()} Gemini anahtari yuklu):`);
+    for (const e of used) console.log(`  ${e.id}: ${e.calls} cagri${e.dead ? ' [kota doldu]' : ''}`);
+  }
 }
 
 main();

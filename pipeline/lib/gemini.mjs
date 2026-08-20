@@ -39,9 +39,27 @@ const OPENAI_PROVIDERS = [
   { name: 'github', env: 'GITHUB_MODELS_TOKEN', baseUrl: 'https://models.inference.ai.azure.com', models: ['gpt-4o', 'gpt-4o-mini'] },
 ];
 
-/** Etkin uç noktaları (provider+model+key) sıralı havuz olarak kur. */
+/** GEMINI_API_KEYS (virgullu) > GEMINI_API_KEY. Bos/tekrar ayiklanir. */
+function geminiKeys() {
+  const raw = process.env.GEMINI_API_KEYS || process.env.GEMINI_API_KEY || '';
+  return [...new Set(raw.split(',').map((k) => k.trim()).filter(Boolean))];
+}
+
+/**
+ * Etkin uc noktalari havuz olarak kur. SIRA: once Gemini (her anahtar x her
+ * model), sonra OpenAI-uyumlu saglayicilar (YEDEK kanal). Coklu Gemini anahtari
+ * round-robin ile denenir (callGemini); bir anahtar-model gunluk kotayi doldurunca
+ * o uc olur, digerleri calismaya devam eder. Ucretli API YOK.
+ */
 function buildPool() {
   const pool = [];
+  const gkeys = geminiKeys();
+  gkeys.forEach((key, ki) => {
+    for (const model of GEMINI_MODELS) {
+      // anahtar#N etiketi: loglarda hangi anahtar oldugu gorunur (deger gizli)
+      pool.push({ id: `gemini#${ki + 1}:${model}`, type: 'gemini', key, model, provider: 'gemini', keyIdx: ki + 1 });
+    }
+  });
   for (const p of OPENAI_PROVIDERS) {
     const key = process.env[p.env];
     if (!key) continue;
@@ -49,18 +67,23 @@ function buildPool() {
       pool.push({ id: `${p.name}:${model}`, type: 'openai', baseUrl: p.baseUrl, key, model, provider: p.name });
     }
   }
-  const gkey = process.env.GEMINI_API_KEY;
-  if (gkey) {
-    for (const model of GEMINI_MODELS) {
-      pool.push({ id: `gemini:${model}`, type: 'gemini', key: gkey, model, provider: 'gemini' });
-    }
-  }
   return pool;
 }
 
 const POOL = buildPool();
+const RR = { i: 0 };
 const dead = new Set();
 const noJson = new Set(); // response_format desteklemeyen uçlar
+
+/** Anahtar/uc basina kullanim ozeti (kota takibi). */
+export function poolStatus() {
+  return POOL.map((e) => ({ id: e.id, calls: e._calls || 0, dead: dead.has(e.id) }));
+}
+
+/** Kac Gemini anahtari yuklu (loglama icin). */
+export function geminiKeyCount() {
+  return geminiKeys().length;
+}
 
 export function requireApiKey() {
   if (POOL.length === 0) {
@@ -153,8 +176,12 @@ export async function callGemini(prompt, { json = false } = {}) {
   let guard = 0;
   const maxSteps = POOL.length * 3 + 6;
   while (guard++ < maxSteps) {
-    const ep = POOL.find((e) => !dead.has(e.id));
-    if (!ep) throw new Error('Gemini HTTP 429: tüm sağlayıcılar kotayı tüketti (quota)');
+    // Round-robin: canli uclar arasinda donerek sec (dakika limitini coklu
+    // anahtara yay, tek anahtari ust uste yorma).
+    const live = POOL.filter((e) => !dead.has(e.id));
+    if (!live.length) throw new Error('Gemini HTTP 429: tüm sağlayıcılar kotayı tüketti (quota)');
+    const ep = live[RR.i++ % live.length];
+    ep._calls = (ep._calls || 0) + 1;
     let out;
     try {
       out = ep.type === 'openai' ? await callOpenAI(ep, prompt, json) : await callGeminiEndpoint(ep, prompt, json);
