@@ -145,14 +145,17 @@ async function callGeminiEndpoint(ep, prompt, json) {
     body: JSON.stringify(body),
   });
   if (res.status === 429) {
-    // günlük kota -> öldür; dakika kotası -> geçici
-    let perDay = true;
+    // Yalnizca ACIKCA gunluk (PerDay) kota -> uc oldurulur. Belirsiz/dakika
+    // (PerMinute) 429 -> GECICI: backoff + rotasyon ile toparlanir. Coklu
+    // anahtarda dakika-limitini per-day sanip anahtari oldurmek havuzu
+    // gereksiz cokertiyordu; varsayilan artik gecici.
+    let perDay = false;
     try {
       const b = await res.json();
       const ids = (b.error?.details || []).flatMap((d) => d.violations || []).map((v) => v.quotaId || '');
-      if (ids.length && !ids.some((id) => /PerDay/i.test(id))) perDay = false;
+      if (ids.some((id) => /PerDay/i.test(id))) perDay = true;
     } catch {
-      /* güvenli tarafta günlük */
+      /* belirsiz -> gecici say */
     }
     return { retriable: perDay ? 'quota' : 'rate', status: 429 };
   }
@@ -192,7 +195,7 @@ export async function callGemini(prompt, { json = false } = {}) {
       continue;
     }
     if (out.text) {
-      if (out.text.trim()) return out.text;
+      if (out.text.trim()) { ep._fails = 0; return out.text; }
       lastError = new Error(`${ep.id} boş yanıt`);
       dead.add(ep.id);
       continue;
@@ -212,7 +215,7 @@ export async function callGemini(prompt, { json = false } = {}) {
         dead.add(ep.id);
         console.log(`  ${ep.id} sürekli 429 -> bırakılıyor`);
       } else {
-        await sleep(12000);
+        await sleep(8000);
       }
     } else {
       // sunucu hatası: kısa eşik
