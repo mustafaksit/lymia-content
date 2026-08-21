@@ -98,6 +98,18 @@ export function requireApiKey() {
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+const FETCH_TIMEOUT_MS = 45000;
+/** Asili baglantiya karsi: 45sn'de iptal eder (aksi halde tum kosu donar). */
+async function fetchWithTimeout(url, opts) {
+  const ac = new AbortController();
+  const t = setTimeout(() => ac.abort(), FETCH_TIMEOUT_MS);
+  try {
+    return await fetch(url, { ...opts, signal: ac.signal });
+  } finally {
+    clearTimeout(t);
+  }
+}
+
 async function callOpenAI(ep, prompt, json) {
   const body = {
     model: ep.model,
@@ -110,7 +122,7 @@ async function callOpenAI(ep, prompt, json) {
     headers['HTTP-Referer'] = 'https://github.com/mustafaksit/taleup-content';
     headers['X-Title'] = 'TaleUp Content Pipeline';
   }
-  const res = await fetch(`${ep.baseUrl}/chat/completions`, {
+  const res = await fetchWithTimeout(`${ep.baseUrl}/chat/completions`, {
     method: 'POST',
     headers,
     body: JSON.stringify(body),
@@ -139,7 +151,7 @@ async function callGeminiEndpoint(ep, prompt, json) {
     contents: [{ parts: [{ text: prompt }] }],
     generationConfig: { temperature: 0.8, ...(json ? { responseMimeType: 'application/json' } : {}) },
   };
-  const res = await fetch(`${GEMINI_BASE}/${ep.model}:generateContent?key=${ep.key}`, {
+  const res = await fetchWithTimeout(`${GEMINI_BASE}/${ep.model}:generateContent?key=${ep.key}`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(body),

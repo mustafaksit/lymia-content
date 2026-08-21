@@ -16,7 +16,7 @@
 // -s / gecmis olsaydi eslesmezdi; bu liste present-tense uyum hatasina odakli.
 const BARE_VERBS =
   '(say|go|see|make|take|have|want|need|like|feel|live|work|look|walk|talk|find|tell|ask|' +
-  'help|keep|hold|turn|call|run|come|give|know|think|become|leave|meet|write|read|play|' +
+  'help|keep|hold|turn|call|run|come|give|know|think|become|leave|meet|write|play|' +
   'show|sell|buy|move|open|close|grow|stay|reach|lead|point|carry|follow|build|sit|stand|' +
   'eat|drink|sleep|speak|send|bring|wear|learn|teach|plan|hope|wish|visit|enter|climb)';
 
@@ -32,11 +32,10 @@ const SINGULAR_NOUNS =
 
 const RULES = [
   { re: new RegExp(`\\b(He|She|It)\\s+${BARE_VERBS}\\b`, 'g'), label: '3.tekil ozne + ciplak fiil' },
-  { re: new RegExp(`\\b(is|was)\\s+${BARE_VERBS}\\b`, 'g'), label: 'yardimci + ciplak fiil' },
   { re: /\ba\s+(?=[aeiou])/gi, cond: (m, text, idx) => new RegExp(`^a\\s+${VOWEL_WORDS}\\b`, 'i').test(text.slice(idx)), label: 'a + sesli (an olmali)' },
   { re: new RegExp(`\\bare\\s+${SINGULAR_NOUNS}\\b`, 'gi'), label: 'are + tekil isim' },
-  { re: new RegExp(`\\bmany\\s+${SINGULAR_NOUNS}\\b(?!s)`, 'gi'), label: 'many + tekil isim' },
-  { re: /\b(\w+)\s+be\s+(clear|calm|far|near|ready|happy|sad|big|small|old|new|full|empty|good|bad)\b/g, label: '"be" ciplak (is/was olmali)' },
+  { re: new RegExp(`\\bmany\\s+${SINGULAR_NOUNS}\\b(?!s)(?!\\s+\\w+s\\b)`, 'gi'), label: 'many + tekil isim' },
+  { re: /(?<!\b(?:to|not|be|been|being|can|could|may|might|would|should|will|must|shall|let|make|help|see|hear|watch)\s)\b(sky|map|door|air|path|room|house|water|light|city|island|book|key|garden|boat|river|wall|shop|market|weather|night|day|sea|land|place|world|story|word)\s+be\s+(clear|calm|far|near|ready|happy|sad|big|small|old|new|full|empty|good|bad|quiet|dark|bright|cold|warm)\b/g, label: '"be" ciplak (is/was olmali)' },
 ];
 
 /** Metindeki uyum hatalarini dondurur: [{label, match}]. */

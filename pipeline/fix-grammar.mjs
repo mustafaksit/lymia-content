@@ -1,49 +1,31 @@
 #!/usr/bin/env node
 /**
- * Dilbilgisi DUZELTME re-pass'i (v2, IS 1) — yeniden yazma DEGIL.
+ * Dilbilgisi DUZELTME re-pass'i (v2, IS 1) - yeniden yazma DEGIL.
+ * HIKAYE BASINA TEK CAGRI (tum hatali seviyeler birlikte) -> cagri sayisi
+ * ~140'tan ~37'ye duser (ucretsiz rate-limit'e cok daha dayanikli).
  *
- * LLM ile sadelestirilen metinlerde sistematik ozne-yuklem/artikel uyum
- * hatalari var (bkz. pipeline/lib/agreement.mjs). Bu script her seviyeyi
- * cumle-cumle modele gonderir, SADECE gramer duzeltir; seviye-tensini korur
- * (A1/A2 present-simple, B1 present/perfect, B2/C1 past narration).
- *
- * GUVENLIK KILITLERI (sessiz yeniden yazmaya karsi):
- *   - cikti cumle SAYISI girdiyle ayni olmali, yoksa seviye atlanir
- *   - cumle basina degisim orani sinirli (MAX_EDIT_RATIO); asan cumle
- *     ORIJINALINDE birakilir ve loglanir (model fazla degistirmis demektir)
- *   - duzeltme sonrasi agreementIssues DUSMELI; artiyorsa seviye atlanir
- * Etkilenen seviyeler .grammar-fixes.log'a diff olarak yazilir.
- * Ses YENILENMEZ; bu script metni + index'i gunceller, sesi ayrica
- * generate-audio.py --levels ile yenile (degisen seviyeler log'da).
- *
- * Kullanim:
- *   node pipeline/fix-grammar.mjs --dry --ids st-0113           # sadece diff, yazma yok
- *   node pipeline/fix-grammar.mjs --ids st-0113,st-0117         # belirli hikayeler
- *   node pipeline/fix-grammar.mjs --min-issues 1                # uyum hatasi olan tum hikayeler
- *   node pipeline/fix-grammar.mjs --limit 5                     # kota icin parcali (resumable)
+ * Seviye-tensi korunur (A1/A2/B1 present, B2/C1 past). Guvenlik kilitleri:
+ *   - her seviyenin cikti dizisi girdiyle AYNI uzunlukta olmali
+ *   - cumle basina max %50 kelime degisimi (asan cumle ORIJINAL kalir)
+ *   - duzeltme sonrasi uyum hatasi ARTMAMALI (artarsa o seviye atlanir)
+ * Ses YENILENMEZ; degisen seviyeler log sonunda listelenir (generate-audio.py).
+ * Kullanim: node pipeline/fix-grammar.mjs [--dry] [--ids a,b] [--limit N] [--min-issues N]
  */
 import { readFileSync, writeFileSync, appendFileSync, readdirSync } from 'node:fs';
 import path from 'node:path';
-
 import { STORIES_DIR, REPO_ROOT } from './lib/env.mjs';
-import { callGemini, parseJsonResponse, poolStatus, geminiKeyCount } from './lib/gemini.mjs';
-import { agreementIssues, levelAgreementCount } from './lib/agreement.mjs';
+import { callGemini, parseJsonResponse, poolStatus } from './lib/gemini.mjs';
+import { agreementIssues } from './lib/agreement.mjs';
 
-const TENSE = {
-  A1: 'Present simple. Third-person singular takes -s. Do not use past tense.',
-  A2: 'Mostly present simple (+ some past simple). Third-person singular takes -s.',
-  B1: 'Present simple / present perfect narration. Third-person singular takes -s.',
-  B2: 'Past-tense narration. Use past simple ("walked", "was"), NOT bare or -s forms.',
-  C1: 'Past-tense literary narration. Use correct past/perfect forms.',
-};
-const MAX_EDIT_RATIO = 0.5; // bir cumlede kelimelerin en fazla yarisi degisebilir
 const LOG = path.join(REPO_ROOT, '.grammar-fixes.log');
+const MAX_EDIT_RATIO = 0.5;
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-function args() {
-  const a = { flags: new Set(), ids: null, limit: Infinity, minIssues: 1 };
+function parseArgs() {
+  const a = { dry: false, ids: null, limit: Infinity, minIssues: 1 };
   const v = process.argv.slice(2);
   for (let i = 0; i < v.length; i++) {
-    if (v[i] === '--dry') a.flags.add('dry');
+    if (v[i] === '--dry') a.dry = true;
     else if (v[i] === '--ids') a.ids = v[++i].split(',');
     else if (v[i] === '--limit') a.limit = Number(v[++i]);
     else if (v[i] === '--min-issues') a.minIssues = Number(v[++i]);
@@ -51,123 +33,94 @@ function args() {
   return a;
 }
 
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-/** 429/503 kota/gecici hatalarda bekleyip yeniden dener (kendini pace eder). */
-async function callWithBackoff(prompt, tries = 10) {
-  // Dakika-limiti penceresi ~60sn'de acilir; pes etmek yerine pencereyi bekle.
-  let wait = 15000;
-  for (let i = 1; i <= tries; i++) {
-    try {
-      return await callGemini(prompt, { json: true });
-    } catch (e) {
-      const msg = String(e.message);
-      const transient = msg.includes('429') || msg.includes('503') || msg.includes('kota');
-      if (!transient || i === tries) throw e;
-      process.stdout.write(`    (dakika-limiti/gecici; ${wait / 1000}sn bekleniyor, deneme ${i}/${tries})\n`);
-      await sleep(wait);
-      wait = Math.min(wait + 15000, 60000); // 15->30->45->60->60... (dakika penceresi)
-    }
-  }
-}
-
-const fill = (tpl, o) => tpl.replace(/\{(\w+)\}/g, (_, k) => (k in o ? o[k] : `{${k}}`));
-const words = (s) => s.toLowerCase().match(/[a-z']+/g) || [];
+const words = (s) => (s.toLowerCase().match(/[a-z']+/g) || []);
 function editRatio(a, b) {
-  const A = words(a), B = words(b);
-  const setB = new Set(B);
-  let common = 0;
-  for (const w of A) if (setB.has(w)) common += 1;
-  const maxLen = Math.max(A.length, B.length) || 1;
-  return 1 - common / maxLen;
+  const A = words(a), B = new Set(words(b));
+  let common = 0; for (const w of A) if (B.has(w)) common++;
+  return 1 - common / (Math.max(A.length, words(b).length) || 1);
 }
+const levelSentences = (L) => L.paragraphs.flatMap((p) => p.sentences);
+const levelIssues = (L) => levelSentences(L).reduce((n, s) => n + agreementIssues(s.text).length, 0);
 
-async function fixLevel(level, levelData, promptTpl) {
-  const sents = levelData.paragraphs.flatMap((p) => p.sentences);
-  const before = sents.map((s) => s.text);
-  const beforeIssues = before.reduce((n, t) => n + agreementIssues(t).length, 0);
-  if (beforeIssues === 0) return { changed: false, reason: 'zaten temiz' };
-
-  const prompt = fill(promptTpl, {
-    level,
-    tenseRule: TENSE[level] ?? 'Preserve the original tense.',
-    sentences: JSON.stringify(before, null, 0),
-  });
-  const data = parseJsonResponse(await callWithBackoff(prompt));
-  const fixed = data.sentences;
-  if (!Array.isArray(fixed) || fixed.length !== before.length) {
-    return { changed: false, reason: `cumle sayisi uyumsuz ${fixed?.length}!=${before.length}` };
-  }
-
-  // Guard: fazla degisen cumleyi ORIJINALINDE birak
-  const applied = before.map((orig, i) => {
-    const cand = String(fixed[i] ?? '').trim();
-    if (!cand) return orig;
-    if (editRatio(orig, cand) > MAX_EDIT_RATIO) return orig; // yeniden yazma reddi
-    return cand;
-  });
-  const afterIssues = applied.reduce((n, t) => n + agreementIssues(t).length, 0);
-  if (afterIssues > beforeIssues) return { changed: false, reason: `uyum artti ${beforeIssues}->${afterIssues}` };
-
-  // uygula
-  let k = 0;
-  const diffs = [];
-  for (const p of levelData.paragraphs) {
-    for (const s of p.sentences) {
-      if (s.text !== applied[k]) diffs.push([s.text, applied[k]]);
-      s.text = applied[k++];
+async function callWithBackoff(prompt) {
+  let wait = 8000;
+  for (let i = 1; i <= 12; i++) {
+    try { return await callGemini(prompt, { json: true }); }
+    catch (e) {
+      const t = /429|503|kota|rate/i.test(String(e.message));
+      if (!t || i === 12) throw e;
+      process.stdout.write(`    (rate/gecici; ${wait / 1000}sn; deneme ${i})\n`);
+      await sleep(wait); wait = Math.min(wait + 8000, 40000);
     }
   }
-  return { changed: diffs.length > 0, diffs, beforeIssues, afterIssues };
+}
+
+/** Bir hikayenin hatali seviyelerini SEVIYE-BASINA tek cagrida duzeltir
+ *  (kucuk prompt = hizli, ~4s; tum seviyeleri birlestirmek yaniti sisiriyordu). */
+async function fixStory(story, tpl) {
+  const touched = [];
+  const diffs = [];
+  for (const [lvl, L] of Object.entries(story.levels)) {
+    if (levelIssues(L) === 0) continue;
+    const orig = levelSentences(L).map((s) => s.text);
+    const prompt = tpl.replace('{levels}', JSON.stringify({ [lvl]: orig }, null, 0));
+    let data;
+    try { data = parseJsonResponse(await callWithBackoff(prompt)); }
+    catch (e) { process.stdout.write(`[${lvl} hata] `); continue; }
+    const fixed = Array.isArray(data[lvl]) ? data[lvl] : data.sentences;
+    if (!Array.isArray(fixed) || fixed.length !== orig.length) { process.stdout.write(`[${lvl} uzunluk] `); continue; }
+    const applied = orig.map((o, k) => {
+      const c = String(fixed[k] ?? '').trim();
+      return (!c || editRatio(o, c) > MAX_EDIT_RATIO) ? o : c;
+    });
+    const before = orig.reduce((n, t) => n + agreementIssues(t).length, 0);
+    const after = applied.reduce((n, t) => n + agreementIssues(t).length, 0);
+    if (after > before) { process.stdout.write(`[${lvl} atlandi] `); continue; }
+    const sents = levelSentences(L);
+    let ch = 0;
+    sents.forEach((s, k) => { if (s.text !== applied[k]) { diffs.push([lvl, s.text, applied[k]]); ch++; } s.text = applied[k]; });
+    if (ch > 0) touched.push({ lvl, ch, before, after });
+  }
+  return { changed: touched.length > 0, touched, diffs };
 }
 
 async function main() {
-  const a = args();
+  const args = parseArgs();
   const tpl = readFileSync(path.join(REPO_ROOT, 'pipeline/prompts/fix-grammar.txt'), 'utf8');
   let files = readdirSync(STORIES_DIR).filter((f) => f.endsWith('.json')).sort();
-  if (a.ids) files = files.filter((f) => a.ids.includes(f.replace('.json', '')));
+  if (args.ids) files = files.filter((f) => args.ids.includes(f.replace('.json', '')));
 
-  let done = 0;
-  const touchedLevels = [];
+  const targets = [];
   for (const f of files) {
-    if (done >= a.limit) break;
-    const p = path.join(STORIES_DIR, f);
-    const story = JSON.parse(readFileSync(p, 'utf8'));
-    const total = Object.values(story.levels).reduce((n, L) => n + levelAgreementCount(L), 0);
-    if (total < a.minIssues) continue;
+    const story = JSON.parse(readFileSync(path.join(STORIES_DIR, f), 'utf8'));
+    const tot = Object.values(story.levels).reduce((n, L) => n + levelIssues(L), 0);
+    if (tot >= args.minIssues) targets.push({ f, story, tot });
+  }
+  console.log(`Hedef: ${targets.length} hikaye (uyum hatasi olan). Batch: hikaye basina 1 cagri.\n`);
 
-    console.log(`\n${story.id} — ${story.title} (${total} uyum hatasi)`);
-    let anyChange = false;
-    for (const level of Object.keys(story.levels)) {
-      let res;
-      try {
-        res = await fixLevel(level, story.levels[level], tpl);
-      } catch (e) {
-        console.log(`  ${level}: HATA ${String(e.message).slice(0, 70)}`);
-        continue;
-      }
-      if (res.changed) {
-        anyChange = true;
-        touchedLevels.push(`${story.id}:${level}`);
-        console.log(`  ${level}: ${res.diffs.length} cumle duzeltildi (uyum ${res.beforeIssues}->${res.afterIssues})`);
-        appendFileSync(LOG, `\n## ${story.id} ${level}\n` + res.diffs.map(([o, n]) => `- ${o}\n+ ${n}`).join('\n') + '\n');
-      } else if (res.reason && res.reason !== 'zaten temiz') {
-        console.log(`  ${level}: atlandi (${res.reason})`);
-      }
+  const touchedLevels = [];
+  let done = 0, idx = 0;
+  for (const { f, story, tot } of targets) {
+    if (done >= args.limit) break;
+    idx++;
+    process.stdout.write(`[${idx}/${targets.length}] ${story.id} (${tot} hata)... `);
+    let res;
+    try { res = await fixStory(story, tpl); }
+    catch (e) { console.log(`HATA ${String(e.message).slice(0, 60)}`); continue; }
+    if (res.changed) {
+      done++;
+      const p = path.join(STORIES_DIR, f);
+      if (!args.dry) writeFileSync(p, JSON.stringify(story, null, 2) + '\n');
+      for (const t of res.touched) touchedLevels.push(`${story.id}:${t.lvl}`);
+      console.log(res.touched.map((t) => `${t.lvl} ${t.ch}c ${t.before}->${t.after}`).join('  '));
+      appendFileSync(LOG, `\n## ${story.id}\n` + res.diffs.map(([l, o, n]) => `[${l}] - ${o}\n[${l}] + ${n}`).join('\n') + '\n');
+    } else {
+      console.log('degisiklik yok');
     }
-    if (anyChange && !a.flags.has('dry')) {
-      writeFileSync(p, JSON.stringify(story, null, 2) + '\n');
-    }
-    if (anyChange) done += 1;
   }
-  console.log(`\n${a.flags.has('dry') ? '[DRY] ' : ''}${done} hikaye islendi. Sesi yenilenecek seviyeler (${touchedLevels.length}):`);
-  console.log(touchedLevels.join(' '));
-  if (touchedLevels.length) console.log(`\nDiff log: ${LOG}`);
-  // Anahtar/uc kullanimi (kota takibi)
-  const used = poolStatus().filter((e) => e.calls > 0 || e.dead);
-  if (used.length) {
-    console.log(`\nLLM uc kullanimi (${geminiKeyCount()} Gemini anahtari yuklu):`);
-    for (const e of used) console.log(`  ${e.id}: ${e.calls} cagri${e.dead ? ' [kota doldu]' : ''}`);
-  }
+  console.log(`\n${args.dry ? '[DRY] ' : ''}${done}/${targets.length} hikaye duzeltildi.`);
+  console.log(`Sesi yenilenecek seviyeler (${touchedLevels.length}): ${touchedLevels.join(' ')}`);
+  const used = poolStatus().filter((e) => e.calls > 0);
+  if (used.length) console.log('Uc kullanimi: ' + used.map((e) => `${e.id}:${e.calls}${e.dead ? '[dead]' : ''}`).join(' '));
 }
-
 main();
