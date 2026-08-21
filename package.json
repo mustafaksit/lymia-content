@@ -7,7 +7,8 @@
     "audit:strict": "node pipeline/audit.mjs --strict",
     "test": "node --test 'pipeline/lib/*.test.mjs' && node pipeline/audit.mjs",
     "test:unit": "node --test 'pipeline/lib/*.test.mjs'",
-    "health": "node pipeline/health-check.mjs"
+    "health": "node pipeline/health-check.mjs",
+    "samples": "node pipeline/grammar-samples.mjs"
   },
   "keywords": [],
   "author": "",
