@@ -53,8 +53,9 @@ function args() {
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 /** 429/503 kota/gecici hatalarda bekleyip yeniden dener (kendini pace eder). */
-async function callWithBackoff(prompt, tries = 5) {
-  let wait = 20000;
+async function callWithBackoff(prompt, tries = 10) {
+  // Dakika-limiti penceresi ~60sn'de acilir; pes etmek yerine pencereyi bekle.
+  let wait = 15000;
   for (let i = 1; i <= tries; i++) {
     try {
       return await callGemini(prompt, { json: true });
@@ -62,9 +63,9 @@ async function callWithBackoff(prompt, tries = 5) {
       const msg = String(e.message);
       const transient = msg.includes('429') || msg.includes('503') || msg.includes('kota');
       if (!transient || i === tries) throw e;
-      process.stdout.write(`    (kota/gecici hata; ${wait / 1000}sn bekleniyor, deneme ${i}/${tries})\n`);
+      process.stdout.write(`    (dakika-limiti/gecici; ${wait / 1000}sn bekleniyor, deneme ${i}/${tries})\n`);
       await sleep(wait);
-      wait = Math.min(wait * 2, 120000);
+      wait = Math.min(wait + 15000, 60000); // 15->30->45->60->60... (dakika penceresi)
     }
   }
 }
