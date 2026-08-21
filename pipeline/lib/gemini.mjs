@@ -31,7 +31,7 @@ const GEMINI_MODELS = (
 // OpenAI-uyumlu ücretsiz sağlayıcılar (hepsi /chat/completions). Ücretsiz ve
 // cömert olanlar önce; Gemini (en dar günlük kota) en sona konur.
 const OPENAI_PROVIDERS = [
-  { name: 'groq', env: 'GROQ_API_KEY', baseUrl: 'https://api.groq.com/openai/v1', models: ['openai/gpt-oss-120b', 'qwen/qwen3.6-27b'] },
+  { name: 'groq', env: 'GROQ_API_KEY', baseUrl: 'https://api.groq.com/openai/v1', models: ['openai/gpt-oss-120b'] },
   { name: 'cerebras', env: 'CEREBRAS_API_KEY', baseUrl: 'https://api.cerebras.ai/v1', models: ['gpt-oss-120b', 'gemma-4-31b'] },
   { name: 'together', env: 'TOGETHER_API_KEY', baseUrl: 'https://api.together.xyz/v1', models: ['meta-llama/Llama-3.3-70B-Instruct-Turbo-Free'] },
   { name: 'mistral', env: 'MISTRAL_API_KEY', baseUrl: 'https://api.mistral.ai/v1', models: ['mistral-large-latest'] },
@@ -232,9 +232,15 @@ export async function callGemini(prompt, { json = false } = {}) {
 
 /** Parses a JSON response, tolerating markdown code fences. */
 export function parseJsonResponse(text) {
-  const cleaned = text
+  let cleaned = text
+    .replace(/<think>[\s\S]*?<\/think>/gi, '') // reasoning etiketleri
     .trim()
     .replace(/^```(?:json)?\s*/i, '')
-    .replace(/```\s*$/, '');
+    .replace(/```\s*$/, '')
+    .trim();
+  // Ilk { ile son } arasini al (JSON disi on/son ekleri at)
+  const a = cleaned.indexOf('{');
+  const b = cleaned.lastIndexOf('}');
+  if (a > 0 || (b >= 0 && b < cleaned.length - 1)) cleaned = cleaned.slice(a, b + 1);
   return JSON.parse(cleaned);
 }
