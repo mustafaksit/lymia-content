@@ -177,7 +177,7 @@ export async function callGemini(prompt, { json = false } = {}) {
   requireApiKey();
   let lastError;
   let guard = 0;
-  const maxSteps = POOL.length * 3 + 6;
+  const maxSteps = Math.max(POOL.length * 3, 40) + 6; // tek uc + backoff icin yeterli
   while (guard++ < maxSteps) {
     // Round-robin: canli uclar arasinda donerek sec (dakika limitini coklu
     // anahtara yay, tek anahtari ust uste yorma).
@@ -209,23 +209,11 @@ export async function callGemini(prompt, { json = false } = {}) {
     }
     lastError = new Error(`${ep.id} HTTP ${out.status}`);
     ep._fails = (ep._fails || 0) + 1;
-    if (out.retriable === 'rate') {
-      // dakika limiti: uzun eşik, backoff (pencere açılınca düzelir)
-      if (ep._fails >= 10) {
-        dead.add(ep.id);
-        console.log(`  ${ep.id} sürekli 429 -> bırakılıyor`);
-      } else {
-        await sleep(8000);
-      }
-    } else {
-      // sunucu hatası: kısa eşik
-      if (ep._fails >= 3) {
-        dead.add(ep.id);
-        console.log(`  ${ep.id} tekrarlayan ${out.status} -> bırakılıyor`);
-      } else {
-        await sleep(6000);
-      }
-    }
+    // Gecici hata (rate/server): ucu OLDURME (tek-uc havuzu bosaltmasin);
+    // backoff ile ayni ucta yeniden dene. Pencere acilinca duzelir.
+    // Kalici kota (quota/402) yukarida zaten dead + sonraki uca gecti.
+    const wait = out.retriable === 'rate' ? Math.min(5000 + ep._fails * 3000, 30000) : 5000;
+    await sleep(wait);
   }
   throw lastError ?? new Error('LLM çağrısı başarısız');
 }
