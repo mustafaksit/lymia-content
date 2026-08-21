@@ -31,8 +31,8 @@ const GEMINI_MODELS = (
 // OpenAI-uyumlu ücretsiz sağlayıcılar (hepsi /chat/completions). Ücretsiz ve
 // cömert olanlar önce; Gemini (en dar günlük kota) en sona konur.
 const OPENAI_PROVIDERS = [
-  { name: 'groq', env: 'GROQ_API_KEY', baseUrl: 'https://api.groq.com/openai/v1', models: ['llama-3.3-70b-versatile'] },
-  { name: 'cerebras', env: 'CEREBRAS_API_KEY', baseUrl: 'https://api.cerebras.ai/v1', models: ['gpt-oss-120b', 'zai-glm-4.7'] },
+  { name: 'groq', env: 'GROQ_API_KEY', baseUrl: 'https://api.groq.com/openai/v1', models: ['openai/gpt-oss-120b', 'qwen/qwen3.6-27b'] },
+  { name: 'cerebras', env: 'CEREBRAS_API_KEY', baseUrl: 'https://api.cerebras.ai/v1', models: ['gpt-oss-120b', 'gemma-4-31b'] },
   { name: 'together', env: 'TOGETHER_API_KEY', baseUrl: 'https://api.together.xyz/v1', models: ['meta-llama/Llama-3.3-70B-Instruct-Turbo-Free'] },
   { name: 'mistral', env: 'MISTRAL_API_KEY', baseUrl: 'https://api.mistral.ai/v1', models: ['mistral-large-latest'] },
   { name: 'openrouter', env: 'OPENROUTER_API_KEY', baseUrl: 'https://openrouter.ai/api/v1', models: ['meta-llama/llama-3.3-70b-instruct:free', 'deepseek/deepseek-chat-v3.1:free'] },
