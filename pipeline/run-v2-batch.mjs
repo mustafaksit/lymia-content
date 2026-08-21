@@ -66,7 +66,10 @@ function step(label, cmd, args) {
 
 function loadSpecs(args) {
   if (args.kind === 'classics') {
-    const all = JSON.parse(readFileSync(path.join(REPO_ROOT, 'pipeline', 'v2-classics.json'), 'utf8'));
+    const specPath = typeof args.spec === 'string'
+      ? path.resolve(args.spec)
+      : path.join(REPO_ROOT, 'pipeline', 'v2-classics.json');
+    const all = JSON.parse(readFileSync(specPath, 'utf8'));
     return all.map((c) => ({ ...c, kind: 'classic' }));
   }
   if (args.kind === 'originals') {
@@ -138,8 +141,13 @@ async function main() {
     step('5 normalize-c1', NODE, ['pipeline/normalize-c1.mjs', '--story', storyPath]);
     mark('normalize', true);
 
-    // 6 audit (hard-fail geçidi)
-    if (!step('6 audit', NODE, ['pipeline/audit.mjs', '--story', storyPath])) {
+    // 5b gramer duzeltme (DETERMINISTIK, LLM yok): uretilen metindeki
+    //     ozne-yuklem/artikel uyum hatalarini kurala baglar (gramer dersi).
+    step('5b grammar-fix (kural)', NODE, ['pipeline/fix-grammar-rules.mjs', '--ids', id]);
+
+    // 6 audit STRICT (hard-fail gecidi): yeni uretim uyum/baslik/tavan
+    //    kapilarindan gecmeden kataloga giremez.
+    if (!step('6 audit --strict', NODE, ['pipeline/audit.mjs', '--story', storyPath, '--strict'])) {
       mark('audit', false); failed.push(id); continue;
     }
     mark('audit', true);
