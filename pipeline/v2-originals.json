@@ -1,26 +1,146 @@
 [
-  { "title": "Robot Friends Forever", "genre": "scifi", "center": "A1", "concept": "A lonely new boy in town befriends a small, curious helper robot, and their growing friendship helps him feel at home." },
-  { "title": "The Little Weather Station", "genre": "scifi", "center": "A2", "concept": "A girl builds a small rooftop weather station with simple sensors and learns to warn her neighbors before storms arrive." },
-  { "title": "The Invention Convention", "genre": "scifi", "center": "B1", "concept": "A group of young inventors design clever, useful gadgets to help their community and present them at a lively school fair." },
-  { "title": "Alien Pen Pals", "genre": "scifi", "center": "B2", "concept": "Emily exchanges friendly messages across space with a kind young alien, and they teach each other about their very different worlds." },
-  { "title": "Signals from the Deep", "genre": "scifi", "center": "C1", "concept": "A young researcher joins a submarine team and patiently learns to decode the clicks and songs of whales to understand what they are saying." },
-  { "title": "The Rooftop Observatory", "genre": "scifi", "center": "A2", "concept": "Two friends restore an old telescope, map the night sky night after night, and spot a comet nobody else had noticed." },
-  { "title": "The Floating City", "genre": "scifi", "center": "B1", "concept": "Ava visits a magnificent city that floats gently in the sky, kept aloft and powered entirely by clean, inventive technology." },
-  { "title": "The Solar Kite", "genre": "scifi", "center": "A1", "concept": "A child builds a kite covered in tiny solar cells that glows in the sun, and uses its light to signal a friend across the valley." },
-  { "title": "The Intergalactic Cook-Off", "genre": "scifi", "center": "B2", "concept": "A talented young cook enters a friendly cosmic cooking contest, sharing dishes and swapping ingredients with chefs from many planets." },
-  { "title": "Starlight Serenade", "genre": "romance", "center": "A2", "concept": "A shy boy quietly learns to play the guitar so he can find the courage to perform for the girl he likes at the town fair." },
-  { "title": "Two Tickets to the Clouds", "genre": "romance", "center": "B1", "concept": "Two nervous children seated side by side on their very first airplane trip calm each other's fears and become close friends before they land." },
-  { "title": "The Art of Heart", "genre": "romance", "center": "B2", "concept": "A young artist and a quiet classmate secretly paint a mural together across a summer, and their friendship slowly turns to first love." },
-  { "title": "Snowflake Surprise", "genre": "romance", "center": "A1", "concept": "A boy and a girl team up to build a snowman and discover a small, sweet surprise hidden inside it." },
-  { "title": "Grandmother's Recipe Book", "genre": "romance", "center": "C1", "concept": "A teenager and the quiet new boy at school cook their way through her grandmother's treasured recipe book, growing closer with every dish." },
-  { "title": "The Forgotten Playground", "genre": "horror", "center": "A2", "concept": "A group of children discover a spooky, long-abandoned playground at night and sense they are not entirely alone." },
-  { "title": "The Lighthouse Secret", "genre": "horror", "center": "B2", "concept": "A family visiting an old lighthouse uncovers strange messages that seem to lead them somewhere no one has been in years." },
-  { "title": "The Strange Portrait Gallery", "genre": "horror", "center": "C1", "concept": "Teenagers exploring an eerie old mansion find a gallery of portraits that seem to whisper and watch their every move." },
-  { "title": "The Night Sounds", "genre": "horror", "center": "A1", "concept": "Friends camping in the woods hear weird noises in the dark and set out to find where they are coming from." },
-  { "title": "New Friend Next Door", "genre": "daily", "center": "A2", "concept": "A young boy slowly befriends the shy child who has just moved in next door." },
-  { "title": "The Big Sister's Help", "genre": "daily", "center": "B2", "concept": "An older sister patiently teaches her little brother how to make breakfast so they can surprise their parents." },
-  { "title": "The Street Cat Colony", "genre": "daily", "center": "A1", "concept": "A little girl and the neighborhood children look after a family of stray cats on their street, giving them names and a cozy box." },
-  { "title": "The Missing Paints", "genre": "mystery", "center": "A2", "concept": "When a young artist's paints vanish before the school show, she follows the clues to find out who took them." },
-  { "title": "The Old Clock's Secret", "genre": "mystery", "center": "B2", "concept": "When the town clock keeps stopping at the very same minute each day, a curious child investigates and uncovers a forgotten message hidden inside it." },
-  { "title": "The Night Train North", "genre": "adventure", "center": "A2", "concept": "A child travels alone on an overnight train to visit family and shares small adventures with the passengers and kind conductor before dawn." }
+ {
+  "title": "Robot Friends Forever",
+  "genre": "scifi",
+  "center": "A1",
+  "concept": "A lonely new boy in town befriends a small, curious helper robot, and their growing friendship helps him feel at home."
+ },
+ {
+  "title": "The Little Weather Station",
+  "genre": "scifi",
+  "center": "A2",
+  "concept": "A girl builds a small rooftop weather station with simple sensors and learns to warn her neighbors before storms arrive."
+ },
+ {
+  "title": "The Invention Convention",
+  "genre": "scifi",
+  "center": "B1",
+  "concept": "A group of young inventors design clever, useful gadgets to help their community and present them at a lively school fair."
+ },
+ {
+  "title": "Alien Pen Pals",
+  "genre": "scifi",
+  "center": "B2",
+  "concept": "Emily exchanges friendly messages across space with a kind young alien, and they teach each other about their very different worlds."
+ },
+ {
+  "title": "Signals from the Deep",
+  "genre": "scifi",
+  "center": "C1",
+  "concept": "A young researcher joins a submarine team and patiently learns to decode the clicks and songs of whales to understand what they are saying."
+ },
+ {
+  "title": "The Rooftop Observatory",
+  "genre": "scifi",
+  "center": "A2",
+  "concept": "Two friends restore an old telescope, map the night sky night after night, and spot a comet nobody else had noticed."
+ },
+ {
+  "title": "The Floating City",
+  "genre": "scifi",
+  "center": "B1",
+  "concept": "Ava visits a magnificent city that floats gently in the sky, kept aloft and powered entirely by clean, inventive technology."
+ },
+ {
+  "title": "The Solar Kite",
+  "genre": "scifi",
+  "center": "A1",
+  "concept": "A child builds a kite covered in tiny solar cells that glows in the sun, and uses its light to signal a friend across the valley."
+ },
+ {
+  "title": "The Intergalactic Cook-Off",
+  "genre": "scifi",
+  "center": "B2",
+  "concept": "A talented young cook enters a friendly cosmic cooking contest, sharing dishes and swapping ingredients with chefs from many planets."
+ },
+ {
+  "title": "Starlight Serenade",
+  "genre": "romance",
+  "center": "A2",
+  "concept": "A shy boy quietly learns to play the guitar so he can find the courage to perform for the girl he likes at the town fair."
+ },
+ {
+  "title": "Two Tickets to the Clouds",
+  "genre": "romance",
+  "center": "B1",
+  "concept": "Two nervous children seated side by side on their very first airplane trip calm each other's fears and become close friends before they land."
+ },
+ {
+  "title": "The Art of Heart",
+  "genre": "romance",
+  "center": "B2",
+  "concept": "A young artist and a quiet classmate secretly paint a mural together across a summer, and their friendship slowly turns to first love."
+ },
+ {
+  "title": "Snowflake Surprise",
+  "genre": "romance",
+  "center": "A1",
+  "concept": "A boy and a girl team up to build a snowman and discover a small, sweet surprise hidden inside it."
+ },
+ {
+  "title": "Grandmother's Recipe Book",
+  "genre": "romance",
+  "center": "C1",
+  "concept": "A teenager and the quiet new boy at school cook their way through her grandmother's treasured recipe book, growing closer with every dish."
+ },
+ {
+  "title": "The Forgotten Playground",
+  "genre": "horror",
+  "center": "A2",
+  "concept": "A group of children discover a spooky, long-abandoned playground at night and sense they are not entirely alone."
+ },
+ {
+  "title": "The Lighthouse Secret",
+  "genre": "horror",
+  "center": "B2",
+  "concept": "A family visiting an old lighthouse uncovers strange messages that seem to lead them somewhere no one has been in years."
+ },
+ {
+  "title": "The Strange Portrait Gallery",
+  "genre": "horror",
+  "center": "C1",
+  "concept": "Teenagers exploring an eerie old mansion find a gallery of portraits that seem to whisper and watch their every move."
+ },
+ {
+  "title": "The Night Sounds",
+  "genre": "horror",
+  "center": "A1",
+  "concept": "Friends camping in the woods hear weird noises in the dark and set out to find where they are coming from."
+ },
+ {
+  "title": "New Friend Next Door",
+  "genre": "daily",
+  "center": "A2",
+  "concept": "A young boy slowly befriends the shy child who has just moved in next door."
+ },
+ {
+  "title": "The Big Sister's Help",
+  "genre": "daily",
+  "center": "B2",
+  "concept": "An older sister patiently teaches her little brother how to make breakfast so they can surprise their parents."
+ },
+ {
+  "title": "The Street Cat Colony",
+  "genre": "daily",
+  "center": "A1",
+  "concept": "A little girl and the neighborhood children look after a family of stray cats on their street, giving them names and a cozy box."
+ },
+ {
+  "title": "The Missing Paints",
+  "genre": "mystery",
+  "center": "A2",
+  "concept": "When a young artist's paints vanish before the school show, she follows the clues to find out who took them."
+ },
+ {
+  "title": "The Clock That Would Not Stop",
+  "genre": "mystery",
+  "center": "B2",
+  "concept": "When the town clock keeps stopping at the very same minute each day, a curious child investigates and uncovers a forgotten message hidden inside it."
+ },
+ {
+  "title": "The Night Train North",
+  "genre": "adventure",
+  "center": "A2",
+  "concept": "A child travels alone on an overnight train to visit family and shares small adventures with the passengers and kind conductor before dawn."
+ }
 ]

@@ -26,7 +26,7 @@ import path from 'node:path';
 import { REPO_ROOT, STORIES_DIR } from './lib/env.mjs';
 
 const NODE = process.execPath;
-const PY = path.join(REPO_ROOT, 'pipeline', '.venv', 'bin', 'python');
+const PY = path.join(REPO_ROOT, '.venv', 'bin', 'python');
 const MANIFEST = path.join(REPO_ROOT, 'pipeline', '.v2-batch-state.json');
 
 function parseArgs(argv) {

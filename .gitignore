@@ -12,3 +12,4 @@ pipeline/v2-originals.draft.json
 .grammar-fixes.log
 .env*
 !.env.example
+.autopilot.log
