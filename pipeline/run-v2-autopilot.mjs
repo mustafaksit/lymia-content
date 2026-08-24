@@ -200,7 +200,12 @@ async function main() {
     if (!success) {
       state.failureCounts[lastReason] = (state.failureCounts[lastReason] || 0) + 1;
       log(`RED ${item.title} - ${MAX_RETRY_PER_STORY} denemede basarisiz (${lastReason}). Sirada devam.`);
-      if (state.failureCounts[lastReason] >= SYSTEMIC_THRESHOLD) {
+      // llm-quota / llm-server-busy: KOTA/SUNUCU YUKU tekrarlamasi kullanicinin
+      // kendi kurali geregi durma sebebi DEGIL ("kota icin durup sorma, gece
+      // boyu isle") - sadece GERCEK kod/icerik hatalari (uyum, baslik,
+      // tavan, ses, unknown) sistematik durmayi tetikler.
+      const EXEMPT_FROM_SYSTEMIC = new Set(['llm-quota', 'llm-server-busy', 'llm-too-large']);
+      if (!EXEMPT_FROM_SYSTEMIC.has(lastReason) && state.failureCounts[lastReason] >= SYSTEMIC_THRESHOLD) {
         log(`\n!!! SISTEMATIK HATA: "${lastReason}" ${state.failureCounts[lastReason]} FARKLI hikayede tekrar etti. OTOPILOT DURDU. !!!\n`);
         saveState({ ...state, doneTitles: [...doneTitles], sinceCheckpoint, checkpointSeq });
         process.exit(3);
