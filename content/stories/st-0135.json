@@ -1,0 +1,1593 @@
+{
+  "id": "st-0135",
+  "title": "The Milkmaid and Her Pail",
+  "genre": "classic",
+  "summary": "A girl walks to market with big dreams and a heavy pail of water.",
+  "coverScene": "A young milkmaid walks down a sunny path, balancing a bucket of fresh white milk on her head.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A young girl gets up early today.",
+              "audioStart": 0.106,
+              "audioEnd": 1.981
+            },
+            {
+              "text": "She carries water to the market now.",
+              "audioStart": 2.944,
+              "audioEnd": 5.028
+            },
+            {
+              "text": "She puts it on her head right here.",
+              "audioStart": 5.986,
+              "audioEnd": 7.903
+            },
+            {
+              "text": "She feels very good in her mind.",
+              "audioStart": 8.861,
+              "audioEnd": 10.764
+            },
+            {
+              "text": "She walks along the country way.",
+              "audioStart": 11.722,
+              "audioEnd": 13.597
+            },
+            {
+              "text": "She thinks about her big plans.",
+              "audioStart": 14.556,
+              "audioEnd": 16.542
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She will sell water for money.",
+              "audioStart": 17.5,
+              "audioEnd": 19.167
+            },
+            {
+              "text": "She plans to buy many small things.",
+              "audioStart": 20.125,
+              "audioEnd": 22.403
+            },
+            {
+              "text": "Those things will become little life.",
+              "audioStart": 23.361,
+              "audioEnd": 25.403
+            },
+            {
+              "text": "She will grow them on family land.",
+              "audioStart": 26.361,
+              "audioEnd": 28.347
+            },
+            {
+              "text": "She will sell them at market later.",
+              "audioStart": 29.306,
+              "audioEnd": 31.167
+            },
+            {
+              "text": "She will buy a new house too.",
+              "audioStart": 32.125,
+              "audioEnd": 33.75
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She thinks about being at a party.",
+              "audioStart": 34.708,
+              "audioEnd": 36.556
+            },
+            {
+              "text": "People will look at her very much.",
+              "audioStart": 37.514,
+              "audioEnd": 39.403
+            },
+            {
+              "text": "She sees herself moving right then.",
+              "audioStart": 40.361,
+              "audioEnd": 42.444
+            },
+            {
+              "text": "Other people try to get her view.",
+              "audioStart": 43.403,
+              "audioEnd": 45.25
+            },
+            {
+              "text": "Then she moves her head up high.",
+              "audioStart": 46.208,
+              "audioEnd": 47.931
+            },
+            {
+              "text": "She says no to them with a look.",
+              "audioStart": 48.889,
+              "audioEnd": 50.667
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She gives a smile to those people.",
+              "audioStart": 51.625,
+              "audioEnd": 53.569
+            },
+            {
+              "text": "She moves her head back down now.",
+              "audioStart": 54.528,
+              "audioEnd": 56.361
+            },
+            {
+              "text": "The water goes off down the way.",
+              "audioStart": 57.319,
+              "audioEnd": 59.014
+            },
+            {
+              "text": "It falls hard on the dark land.",
+              "audioStart": 59.972,
+              "audioEnd": 61.847
+            },
+            {
+              "text": "All white food spills out of it.",
+              "audioStart": 62.806,
+              "audioEnd": 64.653
+            },
+            {
+              "text": "The food is gone from her hand.",
+              "audioStart": 65.611,
+              "audioEnd": 67.333
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Her big plans go away from her.",
+              "audioStart": 68.292,
+              "audioEnd": 70.278
+            },
+            {
+              "text": "She stands by the way right now.",
+              "audioStart": 71.236,
+              "audioEnd": 73.069
+            },
+            {
+              "text": "She looks down with much hurt.",
+              "audioStart": 74.028,
+              "audioEnd": 75.75
+            },
+            {
+              "text": "She learns a very hard thing today.",
+              "audioStart": 76.708,
+              "audioEnd": 78.708
+            },
+            {
+              "text": "She walks home to family again.",
+              "audioStart": 79.667,
+              "audioEnd": 81.597
+            },
+            {
+              "text": "She has no money in her hand.",
+              "audioStart": 82.556,
+              "audioEnd": 84.292
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She thinks about the hard problem.",
+              "audioStart": 85.25,
+              "audioEnd": 87.069
+            },
+            {
+              "text": "She will be more good next time.",
+              "audioStart": 88.028,
+              "audioEnd": 89.861
+            },
+            {
+              "text": "She learns from her big mistake.",
+              "audioStart": 90.819,
+              "audioEnd": 92.667
+            },
+            {
+              "text": "She walks home with her family.",
+              "audioStart": 93.625,
+              "audioEnd": 95.417
+            },
+            {
+              "text": "She knows life is long for her.",
+              "audioStart": 96.375,
+              "audioEnd": 98.181
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0135.mp3",
+      "wordTimings": "audio/a1/st-0135.timings.json",
+      "quiz": [
+        {
+          "q": "What does the girl carry toward the market?",
+          "options": [
+            "A pail of milk",
+            "A basket of eggs",
+            "A box of chickens"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does she plan to buy after selling the milk?",
+          "options": [
+            "A new car",
+            "Many eggs",
+            "A silk house"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happens to the milk at the end?",
+          "options": [
+            "It spills on the ground",
+            "She drinks it all",
+            "She sells it for gold"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "One young girl got up early one morning.",
+              "audioStart": 0.106,
+              "audioEnd": 2.411
+            },
+            {
+              "text": "She carried something on her head.",
+              "audioStart": 3.375,
+              "audioEnd": 5.222
+            },
+            {
+              "text": "It was a large thing with food inside.",
+              "audioStart": 6.181,
+              "audioEnd": 8.347
+            },
+            {
+              "text": "She walked down the road to market.",
+              "audioStart": 9.306,
+              "audioEnd": 11.25
+            },
+            {
+              "text": "She felt very good about her future.",
+              "audioStart": 12.208,
+              "audioEnd": 14.319
+            },
+            {
+              "text": "Her mind began to dream about money.",
+              "audioStart": 15.278,
+              "audioEnd": 17.486
+            },
+            {
+              "text": "She thought about money from the food.",
+              "audioStart": 18.444,
+              "audioEnd": 20.389
+            },
+            {
+              "text": "She planned to buy little things soon.",
+              "audioStart": 21.347,
+              "audioEnd": 23.319
+            },
+            {
+              "text": "Then she wanted to buy some small things.",
+              "audioStart": 24.278,
+              "audioEnd": 26.625
+            },
+            {
+              "text": "Those things would grow up on a land.",
+              "audioStart": 27.583,
+              "audioEnd": 29.542
+            },
+            {
+              "text": "She would sell the big things at market.",
+              "audioStart": 30.5,
+              "audioEnd": 32.653
+            },
+            {
+              "text": "That money would buy a fine nice dress.",
+              "audioStart": 33.611,
+              "audioEnd": 35.917
+            },
+            {
+              "text": "She imagined wearing the dress to a party.",
+              "audioStart": 36.875,
+              "audioEnd": 39.208
+            },
+            {
+              "text": "She would look good while people watched.",
+              "audioStart": 40.167,
+              "audioEnd": 42.25
+            },
+            {
+              "text": "The girl pictured herself dancing with boys.",
+              "audioStart": 43.208,
+              "audioEnd": 45.875
+            },
+            {
+              "text": "She would move her head and say no.",
+              "audioStart": 46.833,
+              "audioEnd": 48.708
+            },
+            {
+              "text": "She forgot about the thing on her head.",
+              "audioStart": 49.667,
+              "audioEnd": 51.75
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, she moved her head back.",
+              "audioStart": 52.708,
+              "audioEnd": 54.875
+            },
+            {
+              "text": "The thing moved off her head.",
+              "audioStart": 55.833,
+              "audioEnd": 57.361
+            },
+            {
+              "text": "It fell hard down to the ground.",
+              "audioStart": 58.319,
+              "audioEnd": 60.069
+            },
+            {
+              "text": "All the food went out.",
+              "audioStart": 61.028,
+              "audioEnd": 62.403
+            },
+            {
+              "text": "Nothing remained in the container.",
+              "audioStart": 63.361,
+              "audioEnd": 65.111
+            },
+            {
+              "text": "Her great plans went away in a second.",
+              "audioStart": 66.069,
+              "audioEnd": 68.444
+            },
+            {
+              "text": "She stood alone by the road in deep sadness.",
+              "audioStart": 69.403,
+              "audioEnd": 72.069
+            },
+            {
+              "text": "She learned a hard task that day.",
+              "audioStart": 73.028,
+              "audioEnd": 74.972
+            },
+            {
+              "text": "Nobody should trust things before they happen.",
+              "audioStart": 75.931,
+              "audioEnd": 78.375
+            },
+            {
+              "text": "She was very sorry about her wrong act.",
+              "audioStart": 79.333,
+              "audioEnd": 81.653
+            },
+            {
+              "text": "She walked back home to her family.",
+              "audioStart": 82.611,
+              "audioEnd": 84.681
+            },
+            {
+              "text": "Her mother told her to be careful.",
+              "audioStart": 85.639,
+              "audioEnd": 87.542
+            },
+            {
+              "text": "The girl understood the task well.",
+              "audioStart": 88.5,
+              "audioEnd": 90.431
+            },
+            {
+              "text": "She would never make that wrong act again.",
+              "audioStart": 91.389,
+              "audioEnd": 93.625
+            },
+            {
+              "text": "She planned to work hard every day.",
+              "audioStart": 94.583,
+              "audioEnd": 96.625
+            },
+            {
+              "text": "Her future would be good and fine.",
+              "audioStart": 97.583,
+              "audioEnd": 99.458
+            },
+            {
+              "text": "She would save money for real needs.",
+              "audioStart": 100.417,
+              "audioEnd": 102.569
+            },
+            {
+              "text": "She would always keep her mind clear.",
+              "audioStart": 103.528,
+              "audioEnd": 105.569
+            },
+            {
+              "text": "Life went on for the young girl.",
+              "audioStart": 106.528,
+              "audioEnd": 108.25
+            },
+            {
+              "text": "She is going to be fine now.",
+              "audioStart": 109.208,
+              "audioEnd": 110.806
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0135.mp3",
+      "wordTimings": "audio/a2/st-0135.timings.json",
+      "quiz": [
+        {
+          "q": "What did the girl carry on her head?",
+          "options": [
+            "A pail of milk",
+            "A basket of eggs",
+            "A box of chickens"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did she plan to buy first with the milk money?",
+          "options": [
+            "A silk dress",
+            "Some eggs",
+            "A new house"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened to the milk in the end?",
+          "options": [
+            "She sold it at the market",
+            "She drank it all",
+            "It spilled onto the ground"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A young girl woke up early one bright morning.",
+              "audioStart": 0.1,
+              "audioEnd": 2.45
+            },
+            {
+              "text": "She carried a heavy metal container of milk toward the market.",
+              "audioStart": 3.312,
+              "audioEnd": 6.45
+            },
+            {
+              "text": "She placed the container carefully upon her head.",
+              "audioStart": 7.312,
+              "audioEnd": 9.85
+            },
+            {
+              "text": "She felt very proud of the fresh white food inside.",
+              "audioStart": 10.713,
+              "audioEnd": 13.35
+            },
+            {
+              "text": "She walked along the quiet country road.",
+              "audioStart": 14.213,
+              "audioEnd": 16.25
+            },
+            {
+              "text": "Her mind began to move into nice thoughts about her future.",
+              "audioStart": 17.113,
+              "audioEnd": 20.087
+            },
+            {
+              "text": "She thought about how much money she would receive.",
+              "audioStart": 20.95,
+              "audioEnd": 23.2
+            },
+            {
+              "text": "She planned to sell all the milk to people in town.",
+              "audioStart": 24.062,
+              "audioEnd": 26.7
+            },
+            {
+              "text": "With that money, she would buy a large number of eggs.",
+              "audioStart": 27.562,
+              "audioEnd": 30.312
+            },
+            {
+              "text": "Those eggs would soon grow into many small birds.",
+              "audioStart": 31.175,
+              "audioEnd": 33.763
+            },
+            {
+              "text": "She would feed and grow them on her family farm.",
+              "audioStart": 34.625,
+              "audioEnd": 37.013
+            },
+            {
+              "text": "She has always dreamed about a wonderful life.",
+              "audioStart": 37.875,
+              "audioEnd": 40.263
+            },
+            {
+              "text": "If she sells the milk, she will buy the eggs.",
+              "audioStart": 41.125,
+              "audioEnd": 43.587
+            },
+            {
+              "text": "She has worked hard for this great goal.",
+              "audioStart": 44.45,
+              "audioEnd": 46.525
+            },
+            {
+              "text": "Every single day brings new hope to her heart.",
+              "audioStart": 47.388,
+              "audioEnd": 49.712
+            },
+            {
+              "text": "She walks slowly while thinking about her future.",
+              "audioStart": 50.575,
+              "audioEnd": 53.075
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Once the birds were big enough, she would sell them.",
+              "audioStart": 53.938,
+              "audioEnd": 56.587
+            },
+            {
+              "text": "She would get a much higher price at the busy market.",
+              "audioStart": 57.45,
+              "audioEnd": 60.15
+            },
+            {
+              "text": "That extra money would allow her to buy a beautiful new dress.",
+              "audioStart": 61.013,
+              "audioEnd": 64.062
+            },
+            {
+              "text": "The dress would be made of fine material.",
+              "audioStart": 64.925,
+              "audioEnd": 66.95
+            },
+            {
+              "text": "She imagined wearing that fine material to the next village party.",
+              "audioStart": 67.812,
+              "audioEnd": 71.287
+            },
+            {
+              "text": "Everyone would look at her in wonder.",
+              "audioStart": 72.15,
+              "audioEnd": 73.838
+            },
+            {
+              "text": "The young girl pictured herself dancing happily.",
+              "audioStart": 74.7,
+              "audioEnd": 77.125
+            },
+            {
+              "text": "Young boys would try to catch her attention.",
+              "audioStart": 77.987,
+              "audioEnd": 80.213
+            },
+            {
+              "text": "She imagined that she would push her head proudly in the air.",
+              "audioStart": 81.075,
+              "audioEnd": 83.912
+            },
+            {
+              "text": "She would say no to them with a smile.",
+              "audioStart": 84.775,
+              "audioEnd": 86.6
+            },
+            {
+              "text": "She forgot about the heavy container resting on her head.",
+              "audioStart": 87.463,
+              "audioEnd": 90.338
+            },
+            {
+              "text": "She has imagined this scene many times before.",
+              "audioStart": 91.2,
+              "audioEnd": 93.713
+            },
+            {
+              "text": "If she meets the boys, she will smile at them.",
+              "audioStart": 94.575,
+              "audioEnd": 97.088
+            },
+            {
+              "text": "She has kept her balance for a long time.",
+              "audioStart": 97.95,
+              "audioEnd": 100.088
+            },
+            {
+              "text": "The market is full of people waiting today.",
+              "audioStart": 100.95,
+              "audioEnd": 103.013
+            },
+            {
+              "text": "She feels very happy about her good plan.",
+              "audioStart": 103.875,
+              "audioEnd": 106.075
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, she actually pushed her head back.",
+              "audioStart": 106.938,
+              "audioEnd": 109.425
+            },
+            {
+              "text": "The heavy container slipped off right then.",
+              "audioStart": 110.287,
+              "audioEnd": 112.35
+            },
+            {
+              "text": "It crashed hard onto the ground below.",
+              "audioStart": 113.213,
+              "audioEnd": 115.213
+            },
+            {
+              "text": "All the white milk went out across the earth.",
+              "audioStart": 116.075,
+              "audioEnd": 118.188
+            },
+            {
+              "text": "Nothing remained inside the empty metal container.",
+              "audioStart": 119.05,
+              "audioEnd": 121.625
+            },
+            {
+              "text": "If she had not moved her head, she would have kept the milk.",
+              "audioStart": 122.487,
+              "audioEnd": 125.287
+            },
+            {
+              "text": "With the milk gone, all her great plans went away.",
+              "audioStart": 126.15,
+              "audioEnd": 128.938
+            },
+            {
+              "text": "She stood alone by the road.",
+              "audioStart": 129.8,
+              "audioEnd": 131.262
+            },
+            {
+              "text": "She stared down at the ground with deep trouble and worry.",
+              "audioStart": 132.125,
+              "audioEnd": 134.787
+            },
+            {
+              "text": "She learned a hard lesson that day.",
+              "audioStart": 135.65,
+              "audioEnd": 137.438
+            },
+            {
+              "text": "Nobody should ever count on things before they actually happen.",
+              "audioStart": 138.3,
+              "audioEnd": 141.4
+            },
+            {
+              "text": "She has lost everything in one single moment.",
+              "audioStart": 142.262,
+              "audioEnd": 144.65
+            },
+            {
+              "text": "If she had stayed still, she would have succeeded.",
+              "audioStart": 145.512,
+              "audioEnd": 147.938
+            },
+            {
+              "text": "She has learned a very important life lesson.",
+              "audioStart": 148.8,
+              "audioEnd": 150.963
+            },
+            {
+              "text": "Now she stands by the road with deep sadness.",
+              "audioStart": 151.825,
+              "audioEnd": 154.338
+            },
+            {
+              "text": "她的 big dreams have gone into thin air.",
+              "audioStart": 155.2,
+              "audioEnd": 157.0
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0135.mp3",
+      "wordTimings": "audio/b1/st-0135.timings.json",
+      "quiz": [
+        {
+          "q": "What did the girl carry on her head?",
+          "options": [
+            "A heavy pail of milk",
+            "A basket of eggs",
+            "A box of chickens"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did she plan to buy first with the money from the milk?",
+          "options": [
+            "A silk dress",
+            "A large number of eggs",
+            "A new house"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened to the milk at the end of the story?",
+          "options": [
+            "She sold it all at the market",
+            "She drank it by the road",
+            "It spilled out across the earth"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A young girl woke up early one bright morning.",
+              "audioStart": 0.1,
+              "audioEnd": 2.45
+            },
+            {
+              "text": "She carried a heavy metal container of fresh white liquid toward the market.",
+              "audioStart": 3.312,
+              "audioEnd": 7.175
+            },
+            {
+              "text": "She placed the metal container carefully upon her head.",
+              "audioStart": 8.037,
+              "audioEnd": 10.9
+            },
+            {
+              "text": "She felt very proud of the fresh white liquid inside.",
+              "audioStart": 11.762,
+              "audioEnd": 14.463
+            },
+            {
+              "text": "As she walked along the quiet country road, her mind began to wander.",
+              "audioStart": 15.325,
+              "audioEnd": 19.025
+            },
+            {
+              "text": "She had pleasant thoughts about her future.",
+              "audioStart": 19.887,
+              "audioEnd": 21.938
+            },
+            {
+              "text": "She thought about how much money she would receive.",
+              "audioStart": 22.8,
+              "audioEnd": 25.05
+            },
+            {
+              "text": "She would sell all the liquid to people in town.",
+              "audioStart": 25.913,
+              "audioEnd": 28.325
+            },
+            {
+              "text": "With that money, she planned to buy a large number of eggs.",
+              "audioStart": 29.188,
+              "audioEnd": 32.225
+            },
+            {
+              "text": "A local farmer would sell those eggs to her.",
+              "audioStart": 33.087,
+              "audioEnd": 35.3
+            },
+            {
+              "text": "Those eggs would soon grow into many small chickens.",
+              "audioStart": 36.163,
+              "audioEnd": 38.888
+            },
+            {
+              "text": "She would feed and grow them on her family farm.",
+              "audioStart": 39.75,
+              "audioEnd": 42.138
+            },
+            {
+              "text": "Once the chickens were big enough, she would sell them.",
+              "audioStart": 43.0,
+              "audioEnd": 45.8
+            },
+            {
+              "text": "She would get a much higher price at the busy market.",
+              "audioStart": 46.663,
+              "audioEnd": 49.362
+            },
+            {
+              "text": "That extra money would allow her to buy a beautiful new dress.",
+              "audioStart": 50.225,
+              "audioEnd": 53.275
+            },
+            {
+              "text": "The dress would be made of fine material.",
+              "audioStart": 54.138,
+              "audioEnd": 56.163
+            },
+            {
+              "text": "She imagined wearing that wonderful clothing to the next village party.",
+              "audioStart": 57.025,
+              "audioEnd": 60.513
+            },
+            {
+              "text": "Everyone would look at her in wonder.",
+              "audioStart": 61.375,
+              "audioEnd": 63.062
+            },
+            {
+              "text": "The young girl pictured herself dancing happily.",
+              "audioStart": 63.925,
+              "audioEnd": 66.35
+            },
+            {
+              "text": "The young boys would try to catch her attention.",
+              "audioStart": 67.213,
+              "audioEnd": 69.513
+            },
+            {
+              "text": "She imagined that she would move her head proudly in the air.",
+              "audioStart": 70.375,
+              "audioEnd": 73.188
+            },
+            {
+              "text": "She would say no to them with a smile.",
+              "audioStart": 74.05,
+              "audioEnd": 75.875
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Lost entirely inside this wonderful dream, she forgot about the heavy container.",
+              "audioStart": 76.737,
+              "audioEnd": 81.237
+            },
+            {
+              "text": "It was resting balanced on her head.",
+              "audioStart": 82.1,
+              "audioEnd": 83.975
+            },
+            {
+              "text": "Suddenly, she actually moved her head back.",
+              "audioStart": 84.838,
+              "audioEnd": 87.338
+            },
+            {
+              "text": "She had done that exact thing in her mind.",
+              "audioStart": 88.2,
+              "audioEnd": 90.375
+            },
+            {
+              "text": "The heavy metal container slipped off immediately.",
+              "audioStart": 91.237,
+              "audioEnd": 93.812
+            },
+            {
+              "text": "It crashed hard onto the dirty ground below.",
+              "audioStart": 94.675,
+              "audioEnd": 96.95
+            },
+            {
+              "text": "All the white liquid fell out across the earth.",
+              "audioStart": 97.812,
+              "audioEnd": 100.062
+            },
+            {
+              "text": "Nothing was left behind in the empty metal container.",
+              "audioStart": 100.925,
+              "audioEnd": 103.65
+            },
+            {
+              "text": "With the liquid gone forever, all her brilliant plans disappeared.",
+              "audioStart": 104.513,
+              "audioEnd": 107.95
+            },
+            {
+              "text": "They vanished into thin air within a single second.",
+              "audioStart": 108.812,
+              "audioEnd": 111.388
+            },
+            {
+              "text": "She stood alone by the road.",
+              "audioStart": 112.25,
+              "audioEnd": 113.713
+            },
+            {
+              "text": "She stared down at the wet ground with deep regret.",
+              "audioStart": 114.575,
+              "audioEnd": 117.15
+            },
+            {
+              "text": "She learned a hard lesson that day.",
+              "audioStart": 118.013,
+              "audioEnd": 119.8
+            },
+            {
+              "text": "She realized that nobody should ever count on things before they actually happen.",
+              "audioStart": 120.662,
+              "audioEnd": 124.688
+            },
+            {
+              "text": "She walked home slowly.",
+              "audioStart": 125.55,
+              "audioEnd": 126.925
+            },
+            {
+              "text": "She was thinking about her mistakes.",
+              "audioStart": 127.787,
+              "audioEnd": 129.662
+            },
+            {
+              "text": "The sun was shining brightly in the sky.",
+              "audioStart": 130.525,
+              "audioEnd": 132.613
+            },
+            {
+              "text": "However, she felt very cold inside.",
+              "audioStart": 133.475,
+              "audioEnd": 135.7
+            },
+            {
+              "text": "Her mother would surely ask about the empty metal container.",
+              "audioStart": 136.562,
+              "audioEnd": 139.575
+            },
+            {
+              "text": "What would she tell her family?",
+              "audioStart": 140.438,
+              "audioEnd": 141.863
+            },
+            {
+              "text": "She had lost everything in a single moment.",
+              "audioStart": 142.725,
+              "audioEnd": 144.95
+            },
+            {
+              "text": "That loss happened because of her silly imagination.",
+              "audioStart": 145.812,
+              "audioEnd": 148.537
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Life is full of strange turns.",
+              "audioStart": 149.4,
+              "audioEnd": 151.137
+            },
+            {
+              "text": "People must remain careful.",
+              "audioStart": 152.0,
+              "audioEnd": 153.5
+            },
+            {
+              "text": "If she had kept her mind on the road, the liquid would have reached the market.",
+              "audioStart": 154.363,
+              "audioEnd": 158.137
+            },
+            {
+              "text": "It would have arrived safely.",
+              "audioStart": 159.0,
+              "audioEnd": 160.425
+            },
+            {
+              "text": "Instead, she lost both the liquid and her future plans at the exact same time.",
+              "audioStart": 161.287,
+              "audioEnd": 165.875
+            },
+            {
+              "text": "Many other young people make similar mistakes every single day.",
+              "audioStart": 166.738,
+              "audioEnd": 170.062
+            },
+            {
+              "text": "They build huge dreams upon foundations that do not yet exist.",
+              "audioStart": 170.925,
+              "audioEnd": 174.463
+            },
+            {
+              "text": "Experience is often the best teacher that anyone can ever find.",
+              "audioStart": 175.325,
+              "audioEnd": 178.825
+            },
+            {
+              "text": "She promised herself that she would never act so silly again.",
+              "audioStart": 179.688,
+              "audioEnd": 182.887
+            },
+            {
+              "text": "From that morning forward, she decided to focus only on reality.",
+              "audioStart": 183.75,
+              "audioEnd": 187.35
+            },
+            {
+              "text": "She would avoid empty dreams.",
+              "audioStart": 188.213,
+              "audioEnd": 189.838
+            },
+            {
+              "text": "The road ahead was long.",
+              "audioStart": 190.7,
+              "audioEnd": 192.0
+            },
+            {
+              "text": "She knew that hard work would bring success eventually.",
+              "audioStart": 192.863,
+              "audioEnd": 195.575
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She arrived home with an empty container and a heavy heart.",
+              "audioStart": 196.438,
+              "audioEnd": 199.463
+            },
+            {
+              "text": "Her mother looked at her with concern.",
+              "audioStart": 200.325,
+              "audioEnd": 202.125
+            },
+            {
+              "text": "She asked what had happened on the way.",
+              "audioStart": 202.988,
+              "audioEnd": 204.838
+            },
+            {
+              "text": "The girl explained everything honestly.",
+              "audioStart": 205.7,
+              "audioEnd": 207.787
+            },
+            {
+              "text": "She held back her tears with great effort.",
+              "audioStart": 208.65,
+              "audioEnd": 210.738
+            },
+            {
+              "text": "Her mother smiled gently.",
+              "audioStart": 211.6,
+              "audioEnd": 213.037
+            },
+            {
+              "text": "She told her not to worry too much about the past.",
+              "audioStart": 213.9,
+              "audioEnd": 216.488
+            },
+            {
+              "text": "Mistakes happen to everyone.",
+              "audioStart": 217.35,
+              "audioEnd": 218.875
+            },
+            {
+              "text": "Knowledge is gained through such difficult trials.",
+              "audioStart": 219.738,
+              "audioEnd": 222.125
+            },
+            {
+              "text": "With strong power, the young girl started to plan for another day.",
+              "audioStart": 222.988,
+              "audioEnd": 226.4
+            },
+            {
+              "text": "She knew that tomorrow would bring new opportunities.",
+              "audioStart": 227.262,
+              "audioEnd": 229.725
+            },
+            {
+              "text": "She needed to stay focused and work hard.",
+              "audioStart": 230.588,
+              "audioEnd": 232.725
+            },
+            {
+              "text": "The country road remained quiet.",
+              "audioStart": 233.588,
+              "audioEnd": 235.387
+            },
+            {
+              "text": "The afternoon sun began to fall slowly behind the hills.",
+              "audioStart": 236.25,
+              "audioEnd": 239.35
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She sat down by the window.",
+              "audioStart": 240.213,
+              "audioEnd": 241.775
+            },
+            {
+              "text": "She watched the birds fly across the open sky.",
+              "audioStart": 242.637,
+              "audioEnd": 245.137
+            },
+            {
+              "text": "Her mind was clear now.",
+              "audioStart": 246.0,
+              "audioEnd": 247.325
+            },
+            {
+              "text": "It was free from all the previous silly thoughts.",
+              "audioStart": 248.188,
+              "audioEnd": 250.463
+            },
+            {
+              "text": "She understood that real success requires care and attention.",
+              "audioStart": 251.325,
+              "audioEnd": 254.625
+            },
+            {
+              "text": "Constant work is also necessary.",
+              "audioStart": 255.488,
+              "audioEnd": 257.438
+            },
+            {
+              "text": "Every step she took from that moment forward was guided by reason.",
+              "audioStart": 258.3,
+              "audioEnd": 261.6
+            },
+            {
+              "text": "Common sense also guided her path.",
+              "audioStart": 262.462,
+              "audioEnd": 264.512
+            },
+            {
+              "text": "She would always remember the lesson learned on that bright morning.",
+              "audioStart": 265.375,
+              "audioEnd": 268.337
+            },
+            {
+              "text": "Life would bring many other challenges.",
+              "audioStart": 269.2,
+              "audioEnd": 271.175
+            },
+            {
+              "text": "She was ready to face them with an open mind.",
+              "audioStart": 272.038,
+              "audioEnd": 274.325
+            },
+            {
+              "text": "Her family would support her through every single difficulty.",
+              "audioStart": 275.188,
+              "audioEnd": 279.35
+            },
+            {
+              "text": "She looked out at the garden.",
+              "audioStart": 280.212,
+              "audioEnd": 281.462
+            },
+            {
+              "text": "The green plants were growing tall in the warm sun.",
+              "audioStart": 282.325,
+              "audioEnd": 284.863
+            },
+            {
+              "text": "There was still much work to do before the end of the year.",
+              "audioStart": 285.725,
+              "audioEnd": 288.4
+            },
+            {
+              "text": "She took a deep breath and smiled at the future.",
+              "audioStart": 289.262,
+              "audioEnd": 291.725
+            },
+            {
+              "text": "Nothing could stop her from achieving her goals.",
+              "audioStart": 292.587,
+              "audioEnd": 294.925
+            },
+            {
+              "text": "She remained dedicated and focused on her path.",
+              "audioStart": 295.788,
+              "audioEnd": 298.4
+            },
+            {
+              "text": "The dark clouds of the past had cleared away completely.",
+              "audioStart": 299.262,
+              "audioEnd": 302.163
+            },
+            {
+              "text": "They left only bright hope for tomorrow.",
+              "audioStart": 303.025,
+              "audioEnd": 305.038
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0135.mp3",
+      "wordTimings": "audio/b2/st-0135.timings.json",
+      "quiz": [
+        {
+          "q": "What was inside the pail that the milkmaid carried to market?",
+          "options": [
+            "Fresh milk",
+            "Many eggs",
+            "Small chickens"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the milkmaid plan to buy first after selling her milk?",
+          "options": [
+            "A fine dress",
+            "Some eggs",
+            "A new house"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the milk spill onto the ground?",
+          "options": [
+            "A dog ran into her legs.",
+            "She tossed her head in a daydream.",
+            "The heavy metal container broke apart."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The morning broke with a crisp, amber clarity over the dew-drenched meadows, promising a day of relentless heat and industrious motion.",
+              "audioStart": 0.1,
+              "audioEnd": 7.237
+            },
+            {
+              "text": "Patty stepped across the threshold of her modest cottage before the sun had fully cleared the eastern ridge, her mind already tethered to the bustling marketplace miles away.",
+              "audioStart": 8.1,
+              "audioEnd": 16.95
+            },
+            {
+              "text": "Balanced securely upon the crown of her head rested a heavy galvanized pail, filled to its brim with rich, foaming milk freshly drawn from the family's prized cow.",
+              "audioStart": 17.812,
+              "audioEnd": 26.725
+            },
+            {
+              "text": "She felt a quiet surge of pride as she adjusted her posture, acutely aware of the precious cargo and the potential it represented for her household.",
+              "audioStart": 27.587,
+              "audioEnd": 35.337
+            },
+            {
+              "text": "The country road stretched before her like a pale ribbon, flanked by rustling hedgerows and silent fields waiting for the touch of noon.",
+              "audioStart": 36.2,
+              "audioEnd": 42.975
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As her boots crunched rhythmically against the gravel, the solitude of the lane invited her thoughts to drift inward toward grander horizons.",
+              "audioStart": 43.837,
+              "audioEnd": 51.263
+            },
+            {
+              "text": "She began to calculate the exact sum the milk would fetch once she handed it over to the eager merchants in the town square.",
+              "audioStart": 52.125,
+              "audioEnd": 58.288
+            },
+            {
+              "text": "With those coins safely tucked into her apron pocket, she would immediately seek out the local poultry farmer whose yard was known for the healthiest breeds.",
+              "audioStart": 59.15,
+              "audioEnd": 67.062
+            },
+            {
+              "text": "A generous portion of her earnings would exchange hands, securing a dozen speckled eggs that she would hatch under the watchful eye of an old brooding hen.",
+              "audioStart": 67.925,
+              "audioEnd": 75.438
+            },
+            {
+              "text": "Before long, those delicate shells would crack to reveal a bustling flock of yellow chicks peeping eagerly in the straw.",
+              "audioStart": 76.3,
+              "audioEnd": 82.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She pictured herself tending to the growing brood behind the barn, mixing grain and water through the long afternoons of early summer.",
+              "audioStart": 83.487,
+              "audioEnd": 90.388
+            },
+            {
+              "text": "Once fully matured, those very birds would command a formidable price at the autumn fair when townspeople gathered to stock their winter larders.",
+              "audioStart": 91.25,
+              "audioEnd": 98.525
+            },
+            {
+              "text": "The profit from such a sale would dwarf her initial earnings, opening the door to desires she had previously only dared to whisper in the dark.",
+              "audioStart": 99.388,
+              "audioEnd": 106.787
+            },
+            {
+              "text": "With that substantial wealth, she resolved to commission the village tailor to craft a magnificent dress from fine, imported silk.",
+              "audioStart": 107.65,
+              "audioEnd": 114.825
+            },
+            {
+              "text": "The material would shimmer softly in the candlelight of the upcoming autumn festival, catching the gaze of every villager who crossed her path.",
+              "audioStart": 115.688,
+              "audioEnd": 123.0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Lost entirely within the intoxicating warmth of this daydream, she forgot the physical reality of the metallic weight resting upon her brow.",
+              "audioStart": 123.862,
+              "audioEnd": 131.475
+            },
+            {
+              "text": "She imagined the swelling cadence of the village fiddles, the whirl of dancers moving in graceful patterns across the wooden floorboards.",
+              "audioStart": 132.338,
+              "audioEnd": 139.2
+            },
+            {
+              "text": "Young men of good standing would undoubtedly approach, whispering flattering words and seeking to claim her hand for the next lively reel.",
+              "audioStart": 140.062,
+              "audioEnd": 146.95
+            },
+            {
+              "text": "In the theater of her mind, she felt a sudden surge of playful arrogance, lifting her chin with a haughty toss of her dark curls.",
+              "audioStart": 147.812,
+              "audioEnd": 154.588
+            },
+            {
+              "text": "To complete the vivid performance of her imagination, she jerked her head backward in a sharp gesture of elegant refusal, murmuring a decisive word of dismissal.",
+              "audioStart": 155.45,
+              "audioEnd": 164.062
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The phantom motion shattered the delicate equilibrium that kept the heavy pail balanced safely atop her head.",
+              "audioStart": 164.925,
+              "audioEnd": 170.412
+            },
+            {
+              "text": "With a sudden, sickening metallic scrape, the container pitched sideways and slipped from its precarious perch into the open air.",
+              "audioStart": 171.275,
+              "audioEnd": 177.938
+            },
+            {
+              "text": "It struck the unforgiving stones of the road with a resounding crash that echoed sharply against the quiet hillsides.",
+              "audioStart": 178.8,
+              "audioEnd": 184.613
+            },
+            {
+              "text": "Within a single fraction of a second, the rich white milk spilled in a wide, foaming torrent across the dusty earth.",
+              "audioStart": 185.475,
+              "audioEnd": 191.637
+            },
+            {
+              "text": "Nothing remained within the dented iron vessel save for a few stray drops that clung stubbornly to the scratched interior walls.",
+              "audioStart": 192.5,
+              "audioEnd": 199.088
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Stunned by the abrupt silence that followed the crash, Patty stood motionless beside the spreading puddle of spilled livelihood.",
+              "audioStart": 199.95,
+              "audioEnd": 206.338
+            },
+            {
+              "text": "She stared down at the wet soil where her ambitious financial empire had vanished into the porous ground without a trace.",
+              "audioStart": 207.2,
+              "audioEnd": 213.412
+            },
+            {
+              "text": "The vivid imagery of silk dresses and dancing fiddles dissolved like morning mist beneath the harsh glare of the climbing sun.",
+              "audioStart": 214.275,
+              "audioEnd": 220.65
+            },
+            {
+              "text": "A profound sense of grief washed over her, heavy and cold, replacing the buoyant optimism that had filled her chest only moments before.",
+              "audioStart": 221.512,
+              "audioEnd": 228.988
+            },
+            {
+              "text": "She realized with a bitter sting that her premature calculations had blinded her to the immediate responsibilities of the present moment.",
+              "audioStart": 229.85,
+              "audioEnd": 237.769
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Slowly, she retrieved the empty pail from the grass, its metallic clatter sounding remarkably hollow in the vast, indifferent countryside.",
+              "audioStart": 238.632,
+              "audioEnd": 246.332
+            },
+            {
+              "text": "The return journey was agonizingly long, each step back toward the cottage weighed down by the burden of her foolish imagination.",
+              "audioStart": 247.195,
+              "audioEnd": 253.919
+            },
+            {
+              "text": "She watched the sunlight glinting off distant roofs, feeling the sharp contrast between the bright exterior world and her own gloomy thoughts.",
+              "audioStart": 254.782,
+              "audioEnd": 262.032
+            },
+            {
+              "text": "Her mother would inevitably demand an explanation for the ruined morning and the empty vessel clutched in her trembling hands.",
+              "audioStart": 262.894,
+              "audioEnd": 269.157
+            },
+            {
+              "text": "How could she confess that a nonexistent flock of chickens and a nonexistent ballgown had caused the loss of their most urgent asset?",
+              "audioStart": 270.019,
+              "audioEnd": 276.607
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Upon crossing the threshold, her tear-stained face and silent posture communicated the disaster before she even uttered a single word.",
+              "audioStart": 277.469,
+              "audioEnd": 284.657
+            },
+            {
+              "text": "Her mother looked up from the wooden table, her eyes softening with immediate compassion as she surveyed the dented tin container.",
+              "audioStart": 285.519,
+              "audioEnd": 291.82
+            },
+            {
+              "text": "With a halting voice, Patty recounted the entire sequence of events, sparing herself none of the blame for her reckless daydreaming.",
+              "audioStart": 292.682,
+              "audioEnd": 299.82
+            },
+            {
+              "text": "She braced herself for a stern rebuke, expecting harsh words to match the severity of the financial loss inflicted upon the household.",
+              "audioStart": 300.682,
+              "audioEnd": 307.882
+            },
+            {
+              "text": "Instead, her mother merely sighed, extending a comforting hand to steady the trembling shoulders of the chastened girl.",
+              "audioStart": 308.745,
+              "audioEnd": 314.894
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Experience, the older woman remarked gently, is a stern master that exacts high tuition for the lessons it imparts.",
+              "audioStart": 315.757,
+              "audioEnd": 322.232
+            },
+            {
+              "text": "She reminded Patty that counting upon future fortunes before they are secured is a trap that has snared many an eager mind.",
+              "audioStart": 323.094,
+              "audioEnd": 329.445
+            },
+            {
+              "text": "The spilled milk could not be coaxed back into the pail, nor could yesterday's errors be undone by the simple shedding of tears.",
+              "audioStart": 330.307,
+              "audioEnd": 336.995
+            },
+            {
+              "text": "Absorbing these words like dry earth drinking rain, Patty felt the initial panic subside into a resolute, if sober, acceptance.",
+              "audioStart": 337.857,
+              "audioEnd": 345.307
+            },
+            {
+              "text": "She resolved to root her ambitions firmly in the tangible reality of the farm rather than the fleeting shadows of fancy.",
+              "audioStart": 346.17,
+              "audioEnd": 352.094
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Later that afternoon, she sat by the cottage window watching the swallows swoop low across the cultivated rows of the vegetable garden.",
+              "audioStart": 352.957,
+              "audioEnd": 359.832
+            },
+            {
+              "text": "The interior world of her mind was remarkably quiet now, stripped of the elaborate fantasies that had proved so disastrously fragile.",
+              "audioStart": 360.695,
+              "audioEnd": 368.07
+            },
+            {
+              "text": "She understood that sustainable success demanded continuous vigilance, patient labor, and an unwavering focus on the task directly at hand.",
+              "audioStart": 368.932,
+              "audioEnd": 376.957
+            },
+            {
+              "text": "Every movement from that day forward would be guided by common sense and a healthy respect for the unpredictability of fortune.",
+              "audioStart": 377.82,
+              "audioEnd": 384.094
+            },
+            {
+              "text": "The road to the market would test her patience again tomorrow, but she knew she would walk it with a steadier and wiser tread.",
+              "audioStart": 384.957,
+              "audioEnd": 391.007
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0135.mp3",
+      "wordTimings": "audio/c1/st-0135.timings.json",
+      "quiz": [
+        {
+          "q": "What specific item did Patty plan to buy first with the money earned from selling the milk?",
+          "options": [
+            "A silk dress",
+            "A dozen eggs",
+            "A young cow"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What physical action directly caused the pail of milk to fall from her head?",
+          "options": [
+            "She stumbled on a stone.",
+            "She tripped over a stray dog.",
+            "She jerked her head backward."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "How did Patty's mother react when she heard the explanation for the lost milk?",
+          "options": [
+            "She offered comforting words and a lesson.",
+            "She sent her away without any supper.",
+            "She immediately scolded her harshly."
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  }
+}

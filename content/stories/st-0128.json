@@ -1,0 +1,1500 @@
+{
+  "id": "st-0128",
+  "title": "The Fox and the Grapes",
+  "genre": "classic",
+  "summary": "A hungry man tries to reach some high food but cannot get it.",
+  "coverScene": "A clever fox looks up with desire at a rich bunch of purple grapes hanging high on a green vine.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "One day, a man walks.",
+              "audioStart": 0.106,
+              "audioEnd": 2.008
+            },
+            {
+              "text": "He looks for food.",
+              "audioStart": 2.972,
+              "audioEnd": 4.167
+            },
+            {
+              "text": "His body feels very bad.",
+              "audioStart": 5.125,
+              "audioEnd": 6.903
+            },
+            {
+              "text": "He wants something good to eat.",
+              "audioStart": 7.861,
+              "audioEnd": 9.528
+            },
+            {
+              "text": "Then he sees a tall plant.",
+              "audioStart": 10.486,
+              "audioEnd": 12.097
+            },
+            {
+              "text": "A number of things stay high.",
+              "audioStart": 13.056,
+              "audioEnd": 14.681
+            },
+            {
+              "text": "The food looks very good.",
+              "audioStart": 15.639,
+              "audioEnd": 17.278
+            },
+            {
+              "text": "The man runs toward the plant.",
+              "audioStart": 18.236,
+              "audioEnd": 20.042
+            },
+            {
+              "text": "He wants to get those things.",
+              "audioStart": 21.0,
+              "audioEnd": 22.792
+            },
+            {
+              "text": "He moves up with all force.",
+              "audioStart": 23.75,
+              "audioEnd": 25.528
+            },
+            {
+              "text": "He cannot reach the food.",
+              "audioStart": 26.486,
+              "audioEnd": 28.014
+            },
+            {
+              "text": "His hand lets go of the plant.",
+              "audioStart": 28.972,
+              "audioEnd": 30.861
+            },
+            {
+              "text": "He falls back down to land.",
+              "audioStart": 31.819,
+              "audioEnd": 33.569
+            },
+            {
+              "text": "He sits on the floor.",
+              "audioStart": 34.528,
+              "audioEnd": 35.917
+            },
+            {
+              "text": "He looks up at the food again.",
+              "audioStart": 36.875,
+              "audioEnd": 38.5
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man does not give up.",
+              "audioStart": 39.458,
+              "audioEnd": 40.903
+            },
+            {
+              "text": "He steps back and tries again.",
+              "audioStart": 41.861,
+              "audioEnd": 43.764
+            },
+            {
+              "text": "He moves as high as possible.",
+              "audioStart": 44.722,
+              "audioEnd": 46.5
+            },
+            {
+              "text": "The things remain too high up.",
+              "audioStart": 47.458,
+              "audioEnd": 49.194
+            },
+            {
+              "text": "He still cannot get any thing.",
+              "audioStart": 50.153,
+              "audioEnd": 51.958
+            },
+            {
+              "text": "The man stops moving and stands.",
+              "audioStart": 52.917,
+              "audioEnd": 55.028
+            },
+            {
+              "text": "He feels bad now.",
+              "audioStart": 55.986,
+              "audioEnd": 57.25
+            },
+            {
+              "text": "He uses so much force.",
+              "audioStart": 58.208,
+              "audioEnd": 59.958
+            },
+            {
+              "text": "He looks up one last time.",
+              "audioStart": 60.917,
+              "audioEnd": 62.681
+            },
+            {
+              "text": "He sees the result is not possible.",
+              "audioStart": 63.639,
+              "audioEnd": 65.806
+            },
+            {
+              "text": "His body really feels bad now.",
+              "audioStart": 66.764,
+              "audioEnd": 68.792
+            },
+            {
+              "text": "He stays right there for a minute.",
+              "audioStart": 69.75,
+              "audioEnd": 71.542
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man turns away from the plant.",
+              "audioStart": 72.5,
+              "audioEnd": 74.444
+            },
+            {
+              "text": "He walks down a long way.",
+              "audioStart": 75.403,
+              "audioEnd": 76.986
+            },
+            {
+              "text": "He tells himself a little story.",
+              "audioStart": 77.944,
+              "audioEnd": 79.903
+            },
+            {
+              "text": "He says the things are bad.",
+              "audioStart": 80.861,
+              "audioEnd": 82.417
+            },
+            {
+              "text": "He thinks he never wants them.",
+              "audioStart": 83.375,
+              "audioEnd": 85.083
+            },
+            {
+              "text": "He knows the food is not good.",
+              "audioStart": 86.042,
+              "audioEnd": 87.833
+            },
+            {
+              "text": "He walks away into the day.",
+              "audioStart": 88.792,
+              "audioEnd": 90.375
+            },
+            {
+              "text": "He looks for other food now.",
+              "audioStart": 91.333,
+              "audioEnd": 92.944
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0128.mp3",
+      "wordTimings": "audio/a1/st-0128.timings.json",
+      "quiz": [
+        {
+          "q": "What does the fox look for in the field?",
+          "options": [
+            "Water",
+            "Food",
+            "A home"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Where do the grapes hang?",
+          "options": [
+            "High on a green vine",
+            "Low on the ground",
+            "Inside a little house"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the fox say about the grapes at the end?",
+          "options": [
+            "They are very sweet",
+            "They are probably sour",
+            "They are too big"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "One fine day, a certain animal walked through a field.",
+              "audioStart": 0.106,
+              "audioEnd": 3.328
+            },
+            {
+              "text": "He looked for food because his body felt quite low.",
+              "audioStart": 4.292,
+              "audioEnd": 7.333
+            },
+            {
+              "text": "Suddenly, he saw a beautiful group of fine food.",
+              "audioStart": 8.292,
+              "audioEnd": 11.333
+            },
+            {
+              "text": "The food stayed high upon a green plant.",
+              "audioStart": 12.292,
+              "audioEnd": 14.667
+            },
+            {
+              "text": "The good food made him really want to eat.",
+              "audioStart": 15.625,
+              "audioEnd": 17.972
+            },
+            {
+              "text": "The animal ran toward the plant to get the food.",
+              "audioStart": 18.931,
+              "audioEnd": 21.653
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He tried to get up with all his power.",
+              "audioStart": 22.611,
+              "audioEnd": 24.75
+            },
+            {
+              "text": "However, he could not reach the food.",
+              "audioStart": 25.708,
+              "audioEnd": 27.986
+            },
+            {
+              "text": "His hand missed the plant completely.",
+              "audioStart": 28.944,
+              "audioEnd": 31.111
+            },
+            {
+              "text": "Then he fell back down to the ground.",
+              "audioStart": 32.069,
+              "audioEnd": 34.014
+            },
+            {
+              "text": "The animal did not give up yet.",
+              "audioStart": 34.972,
+              "audioEnd": 36.833
+            },
+            {
+              "text": "He stepped back and tried again and again.",
+              "audioStart": 37.792,
+              "audioEnd": 40.167
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He tried as high as possible.",
+              "audioStart": 41.125,
+              "audioEnd": 42.917
+            },
+            {
+              "text": "The food remained too high above him.",
+              "audioStart": 43.875,
+              "audioEnd": 45.986
+            },
+            {
+              "text": "After many hard tries, he still could not get them.",
+              "audioStart": 46.944,
+              "audioEnd": 50.139
+            },
+            {
+              "text": "Down and low, the animal stopped playing.",
+              "audioStart": 51.097,
+              "audioEnd": 53.792
+            },
+            {
+              "text": "He stood upon the ground.",
+              "audioStart": 54.75,
+              "audioEnd": 56.264
+            },
+            {
+              "text": "He felt completely done from his hard effort.",
+              "audioStart": 57.222,
+              "audioEnd": 59.75
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Looking up one last time, he realized success was out of reach.",
+              "audioStart": 60.708,
+              "audioEnd": 64.847
+            },
+            {
+              "text": "His foot and body felt bad.",
+              "audioStart": 65.806,
+              "audioEnd": 67.597
+            },
+            {
+              "text": "Quickly, the person turned away from the plant.",
+              "audioStart": 68.556,
+              "audioEnd": 71.333
+            },
+            {
+              "text": "He began walking down the road.",
+              "audioStart": 72.292,
+              "audioEnd": 74.153
+            },
+            {
+              "text": "He told himself a story to feel better.",
+              "audioStart": 75.111,
+              "audioEnd": 77.417
+            },
+            {
+              "text": "He said that the food was probably very bad.",
+              "audioStart": 78.375,
+              "audioEnd": 80.986
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He thought he never wanted them anyway.",
+              "audioStart": 81.944,
+              "audioEnd": 83.972
+            },
+            {
+              "text": "The day was long and hard.",
+              "audioStart": 84.931,
+              "audioEnd": 86.528
+            },
+            {
+              "text": "He will go home now.",
+              "audioStart": 87.486,
+              "audioEnd": 88.722
+            },
+            {
+              "text": "He will find other food to eat.",
+              "audioStart": 89.681,
+              "audioEnd": 91.514
+            },
+            {
+              "text": "Every animal has bad days like this.",
+              "audioStart": 92.472,
+              "audioEnd": 94.847
+            },
+            {
+              "text": "He will try again another time.",
+              "audioStart": 95.806,
+              "audioEnd": 97.639
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0128.mp3",
+      "wordTimings": "audio/a2/st-0128.timings.json",
+      "quiz": [
+        {
+          "q": "What did the fox find in the field?",
+          "options": [
+            "A bunch of ripe grapes",
+            "A small green tree",
+            "Some cold water"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why could the fox not reach the fruit?",
+          "options": [
+            "The grapes hung too high.",
+            "The branch broke down.",
+            "A big dog stopped him."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the fox say at the end?",
+          "options": [
+            "The grapes were probably sour.",
+            "He would come back tomorrow.",
+            "The fruit was very sweet."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "One fine day, a certain animal walked through a warm field looking for food.",
+              "audioStart": 0.1,
+              "audioEnd": 4.125
+            },
+            {
+              "text": "His inner body felt quite empty, and he really wanted something good to eat.",
+              "audioStart": 4.987,
+              "audioEnd": 8.988
+            },
+            {
+              "text": "Suddenly, he saw a beautiful collection of fine food hanging high on a green plant.",
+              "audioStart": 9.85,
+              "audioEnd": 14.512
+            },
+            {
+              "text": "The fruit looked very sweet and full of water, which made him even more ready.",
+              "audioStart": 15.375,
+              "audioEnd": 19.425
+            },
+            {
+              "text": "The animal ran toward the plant because he wanted to get those wonderful things.",
+              "audioStart": 20.288,
+              "audioEnd": 24.3
+            },
+            {
+              "text": "He jumped up with all his power, but he could not reach the fruit.",
+              "audioStart": 25.163,
+              "audioEnd": 28.4
+            },
+            {
+              "text": "If he had been tall, he might have touched them on the first try.",
+              "audioStart": 29.262,
+              "audioEnd": 32.587
+            },
+            {
+              "text": "Instead, his feet missed the branch completely, and he fell back down to the ground.",
+              "audioStart": 33.45,
+              "audioEnd": 38.087
+            },
+            {
+              "text": "Not giving up yet, the smart animal stepped back and tried again and again.",
+              "audioStart": 38.95,
+              "audioEnd": 42.9
+            },
+            {
+              "text": "He jumped as high as possible, reaching out his front feet with every single effort.",
+              "audioStart": 43.763,
+              "audioEnd": 48.062
+            },
+            {
+              "text": "However, the food remained too high above him, hanging safely out of his reach.",
+              "audioStart": 48.925,
+              "audioEnd": 53.388
+            },
+            {
+              "text": "After many hard tries, he still could not get even one single piece.",
+              "audioStart": 54.25,
+              "audioEnd": 58.175
+            },
+            {
+              "text": "Tired and angry, the animal stopped jumping and stood quietly on the ground.",
+              "audioStart": 59.038,
+              "audioEnd": 63.05
+            },
+            {
+              "text": "He was completely tired out because he had spent so much energy.",
+              "audioStart": 63.913,
+              "audioEnd": 67.287
+            },
+            {
+              "text": "He had spent that energy trying to win the award.",
+              "audioStart": 68.15,
+              "audioEnd": 70.588
+            },
+            {
+              "text": "Looking up one last time at the high plant, he realized that success was impossible.",
+              "audioStart": 71.45,
+              "audioEnd": 76.112
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His tired legs hurt, and his breath came fast from the difficult exercise.",
+              "audioStart": 76.975,
+              "audioEnd": 81.325
+            },
+            {
+              "text": "Slowly, the sad animal turned away from the plant and began walking down the road.",
+              "audioStart": 82.188,
+              "audioEnd": 86.513
+            },
+            {
+              "text": "To make himself feel better about failing, he told himself a little story.",
+              "audioStart": 87.375,
+              "audioEnd": 91.338
+            },
+            {
+              "text": "He spoke low that the food was probably very bad and not worth eating anyway.",
+              "audioStart": 92.2,
+              "audioEnd": 96.175
+            },
+            {
+              "text": "The animal acted like he never wanted them.",
+              "audioStart": 97.037,
+              "audioEnd": 99.263
+            },
+            {
+              "text": "He showed how people often hate what they cannot have.",
+              "audioStart": 100.125,
+              "audioEnd": 102.8
+            },
+            {
+              "text": "He had lived in the country for many years and knew how things worked.",
+              "audioStart": 103.662,
+              "audioEnd": 107.075
+            },
+            {
+              "text": "Every single morning, he went out to search for something nice.",
+              "audioStart": 107.938,
+              "audioEnd": 111.162
+            },
+            {
+              "text": "Today was no different from any other time in his long life.",
+              "audioStart": 112.025,
+              "audioEnd": 115.138
+            },
+            {
+              "text": "The sun shone brightly down upon the green fields and tall trees.",
+              "audioStart": 116.0,
+              "audioEnd": 119.525
+            },
+            {
+              "text": "Birds flew high across the blue sky while the wind blew softly.",
+              "audioStart": 120.388,
+              "audioEnd": 123.588
+            },
+            {
+              "text": "He walked past several houses and small shops on his way.",
+              "audioStart": 124.45,
+              "audioEnd": 127.65
+            },
+            {
+              "text": "Nobody was outside on the street during those quiet hours.",
+              "audioStart": 128.512,
+              "audioEnd": 131.55
+            },
+            {
+              "text": "The air felt warm and nice against his face as he moved forward.",
+              "audioStart": 132.412,
+              "audioEnd": 135.613
+            },
+            {
+              "text": "He always hoped that today would bring him a wonderful meal.",
+              "audioStart": 136.475,
+              "audioEnd": 139.338
+            },
+            {
+              "text": "Instead, he only found trouble and a high plant that troubled him.",
+              "audioStart": 140.2,
+              "audioEnd": 143.787
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He had already tried everything within his power to reach the top.",
+              "audioStart": 144.65,
+              "audioEnd": 147.925
+            },
+            {
+              "text": "His heart beat fast against his body from all the hard jumping.",
+              "audioStart": 148.787,
+              "audioEnd": 151.925
+            },
+            {
+              "text": "If he had longer legs, the story would have ended differently.",
+              "audioStart": 152.787,
+              "audioEnd": 155.912
+            },
+            {
+              "text": "He might have walked away with a full body and a happy mind.",
+              "audioStart": 156.775,
+              "audioEnd": 159.775
+            },
+            {
+              "text": "Now he only had empty feelings and sore feet to show for his work.",
+              "audioStart": 160.637,
+              "audioEnd": 164.225
+            },
+            {
+              "text": "The afternoon sun began to drop low behind the far hills.",
+              "audioStart": 165.088,
+              "audioEnd": 168.375
+            },
+            {
+              "text": "Dark shapes grew long across the land path where he stood alone.",
+              "audioStart": 169.238,
+              "audioEnd": 172.525
+            },
+            {
+              "text": "He took one last look at the hanging food high above him.",
+              "audioStart": 173.387,
+              "audioEnd": 176.275
+            },
+            {
+              "text": "The green leaves shook slightly in the calm evening wind.",
+              "audioStart": 177.137,
+              "audioEnd": 179.762
+            },
+            {
+              "text": "He turned his back on the plant for good and started his journey home.",
+              "audioStart": 180.625,
+              "audioEnd": 183.938
+            },
+            {
+              "text": "The long road stretched out before him in the light.",
+              "audioStart": 184.8,
+              "audioEnd": 187.325
+            },
+            {
+              "text": "He promised himself that he would find food somewhere else tomorrow.",
+              "audioStart": 188.188,
+              "audioEnd": 191.363
+            },
+            {
+              "text": "Life must go on even when things do not go the right way.",
+              "audioStart": 192.225,
+              "audioEnd": 195.0
+            },
+            {
+              "text": "He walked slowly into the night until he was completely gone from sight.",
+              "audioStart": 195.863,
+              "audioEnd": 199.512
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0128.mp3",
+      "wordTimings": "audio/b1/st-0128.timings.json",
+      "quiz": [
+        {
+          "q": "What did the fox see hanging high on a green vine?",
+          "options": [
+            "A beautiful bunch of ripe grapes",
+            "A sweet green apple",
+            "Some yellow food"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened when the fox jumped up to reach the fruit?",
+          "options": [
+            "He caught the branch",
+            "He missed and fell back down to the ground",
+            "He climbed up the tree"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the fox tell himself about the grapes at the end?",
+          "options": [
+            "They were sweet and delicious",
+            "They were probably very sour and not worth eating",
+            "They were too high to care about"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "One fine day, a certain animal walked through a warm field looking for food.",
+              "audioStart": 0.1,
+              "audioEnd": 4.125
+            },
+            {
+              "text": "His stomach felt quite empty, and he really wanted something good to eat.",
+              "audioStart": 4.987,
+              "audioEnd": 8.762
+            },
+            {
+              "text": "Suddenly, he saw a beautiful bunch of sweet fruit hanging high on a green plant.",
+              "audioStart": 9.625,
+              "audioEnd": 13.988
+            },
+            {
+              "text": "The food looked very nice and full of water, which made him even more interested.",
+              "audioStart": 14.85,
+              "audioEnd": 19.15
+            },
+            {
+              "text": "The animal ran toward the plant because he wanted to get those fine things.",
+              "audioStart": 20.012,
+              "audioEnd": 23.8
+            },
+            {
+              "text": "He jumped up with all his power, but he could not reach the fruit.",
+              "audioStart": 24.663,
+              "audioEnd": 27.9
+            },
+            {
+              "text": "If he had been taller, he might have touched them on the first try.",
+              "audioStart": 28.762,
+              "audioEnd": 32.062
+            },
+            {
+              "text": "Instead, his hands missed the branch completely, and he fell back down to the ground.",
+              "audioStart": 32.925,
+              "audioEnd": 37.587
+            },
+            {
+              "text": "Not giving up yet, the smart creature stepped back and tried again and again.",
+              "audioStart": 38.45,
+              "audioEnd": 42.475
+            },
+            {
+              "text": "He jumped as high as possible, reaching out his front hands with every single effort.",
+              "audioStart": 43.337,
+              "audioEnd": 47.65
+            },
+            {
+              "text": "However, the sweet fruit remained too high above him, hanging safely out of his reach.",
+              "audioStart": 48.513,
+              "audioEnd": 53.212
+            },
+            {
+              "text": "After many hard tries, he still could not get even one single piece.",
+              "audioStart": 54.075,
+              "audioEnd": 58.0
+            },
+            {
+              "text": "Tired and sad, the animal stopped jumping and stood quietly on the ground.",
+              "audioStart": 58.862,
+              "audioEnd": 62.913
+            },
+            {
+              "text": "He was completely exhausted because he had spent so much energy trying to win the prize.",
+              "audioStart": 63.775,
+              "audioEnd": 68.388
+            },
+            {
+              "text": "Looking up one last time at the high plant, he realized that success was impossible.",
+              "audioStart": 69.25,
+              "audioEnd": 73.912
+            },
+            {
+              "text": "His tired legs hurt, and his breath came fast from the difficult exercise.",
+              "audioStart": 74.775,
+              "audioEnd": 79.125
+            },
+            {
+              "text": "Slowly, the sad animal turned away from the plant and began walking down the road.",
+              "audioStart": 79.987,
+              "audioEnd": 84.312
+            },
+            {
+              "text": "To make himself feel better about failing, he told himself a little story.",
+              "audioStart": 85.175,
+              "audioEnd": 89.138
+            },
+            {
+              "text": "He said that the sweet fruit was probably very bad and not worth eating anyway.",
+              "audioStart": 90.0,
+              "audioEnd": 94.0
+            },
+            {
+              "text": "The animal pretended he never wanted them, showing how people often look down on what they cannot have.",
+              "audioStart": 94.862,
+              "audioEnd": 100.013
+            },
+            {
+              "text": "Many hours passed while he walked across the large field in the warm sun.",
+              "audioStart": 100.875,
+              "audioEnd": 104.65
+            },
+            {
+              "text": "He thought about the wonderful plant and the sweet food hanging above his head.",
+              "audioStart": 105.513,
+              "audioEnd": 109.3
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "It seemed very strange that such a fine prize could remain completely out of reach.",
+              "audioStart": 110.162,
+              "audioEnd": 114.375
+            },
+            {
+              "text": "Perhaps another day might bring better luck if he returned to the same place.",
+              "audioStart": 115.237,
+              "audioEnd": 119.037
+            },
+            {
+              "text": "However, the animal knew deep inside that success would require much more height.",
+              "audioStart": 119.9,
+              "audioEnd": 124.3
+            },
+            {
+              "text": "His body felt weak from all the hard jumping and the long walk.",
+              "audioStart": 125.162,
+              "audioEnd": 128.312
+            },
+            {
+              "text": "Therefore, he decided to continue his journey toward home without looking back.",
+              "audioStart": 129.175,
+              "audioEnd": 133.387
+            },
+            {
+              "text": "The afternoon sun slowly moved across the blue sky as evening began to approach.",
+              "audioStart": 134.25,
+              "audioEnd": 138.7
+            },
+            {
+              "text": "Small birds flew quietly between the trees while the wind blew gently through the grass.",
+              "audioStart": 139.562,
+              "audioEnd": 143.838
+            },
+            {
+              "text": "Everything around the tired traveler became quiet and still as night started to fall.",
+              "audioStart": 144.7,
+              "audioEnd": 149.062
+            },
+            {
+              "text": "He found a safe place to rest his tired body until the morning light returned.",
+              "audioStart": 149.925,
+              "audioEnd": 154.037
+            },
+            {
+              "text": "Even though he had failed, the experience taught him something about human nature and desire.",
+              "audioStart": 154.9,
+              "audioEnd": 159.463
+            },
+            {
+              "text": "People often pretend that things they cannot achieve are simply not worth having.",
+              "audioStart": 160.325,
+              "audioEnd": 164.2
+            },
+            {
+              "text": "This smart trick of the mind helps individuals deal with trouble and failure.",
+              "audioStart": 165.062,
+              "audioEnd": 168.887
+            },
+            {
+              "text": "Throughout history, stories like this one have been shared across many different cultures.",
+              "audioStart": 169.75,
+              "audioEnd": 174.137
+            },
+            {
+              "text": "Children and adults together learn valuable lessons from the actions of animals in tales.",
+              "audioStart": 175.0,
+              "audioEnd": 179.688
+            },
+            {
+              "text": "The animal in the story chose to protect his pride rather than accept his limitation.",
+              "audioStart": 180.55,
+              "audioEnd": 184.912
+            },
+            {
+              "text": "By convincing himself that the sweet fruit was bad, he felt better about his loss.",
+              "audioStart": 185.775,
+              "audioEnd": 190.137
+            },
+            {
+              "text": "Such behavior can be observed in everyday life when individuals miss important opportunities.",
+              "audioStart": 191.0,
+              "audioEnd": 195.925
+            },
+            {
+              "text": "When a goal proves too difficult, people frequently invent excuses to hide their fear.",
+              "audioStart": 196.787,
+              "audioEnd": 201.4
+            },
+            {
+              "text": "This psychological defense mechanism allows everyone to maintain a positive self-image despite problems.",
+              "audioStart": 202.262,
+              "audioEnd": 207.938
+            },
+            {
+              "text": "The warm field remained empty as the stars slowly appeared in the night sky above.",
+              "audioStart": 208.8,
+              "audioEnd": 212.9
+            },
+            {
+              "text": "No other creatures came to disturb the quiet place where the high plant grew.",
+              "audioStart": 213.762,
+              "audioEnd": 217.512
+            },
+            {
+              "text": "The sweet fruit stayed safely on its branch through the long hours of darkness.",
+              "audioStart": 218.375,
+              "audioEnd": 222.125
+            },
+            {
+              "text": "Morning would soon arrive with a new day and fresh challenges for all living things.",
+              "audioStart": 222.988,
+              "audioEnd": 227.175
+            },
+            {
+              "text": "Until then, the world rested in deep silence under the bright light.",
+              "audioStart": 228.037,
+              "audioEnd": 231.675
+            },
+            {
+              "text": "The tale of the animal and the high plant remains a famous example of human knowledge.",
+              "audioStart": 232.537,
+              "audioEnd": 236.8
+            },
+            {
+              "text": "People often pretend that things they cannot achieve are simply not worth having.",
+              "audioStart": 237.662,
+              "audioEnd": 241.537
+            },
+            {
+              "text": "This smart trick of the mind helps individuals deal with trouble and failure.",
+              "audioStart": 242.4,
+              "audioEnd": 246.225
+            },
+            {
+              "text": "Throughout history, stories like this one have been shared across many different cultures.",
+              "audioStart": 247.088,
+              "audioEnd": 252.643
+            },
+            {
+              "text": "Children and adults learn valuable lessons from the actions of animals in tales.",
+              "audioStart": 253.506,
+              "audioEnd": 257.719
+            },
+            {
+              "text": "The animal in the story chose to protect his pride rather than accept his limitation.",
+              "audioStart": 258.581,
+              "audioEnd": 262.943
+            },
+            {
+              "text": "By convincing himself that the sweet fruit was bad, he felt better about his loss.",
+              "audioStart": 263.806,
+              "audioEnd": 268.168
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Such behavior can be observed in everyday life when individuals miss important opportunities.",
+              "audioStart": 269.031,
+              "audioEnd": 273.956
+            },
+            {
+              "text": "When a goal proves too difficult, people frequently invent excuses to hide their fear.",
+              "audioStart": 274.818,
+              "audioEnd": 279.431
+            },
+            {
+              "text": "This psychological defense mechanism allows everyone to maintain a positive self-image despite problems.",
+              "audioStart": 280.293,
+              "audioEnd": 285.969
+            },
+            {
+              "text": "The warm field remained empty as the stars slowly appeared in the night sky above.",
+              "audioStart": 286.831,
+              "audioEnd": 290.931
+            },
+            {
+              "text": "No other creatures came to disturb the quiet place where the high plant grew.",
+              "audioStart": 291.793,
+              "audioEnd": 295.543
+            },
+            {
+              "text": "The sweet fruit stayed safely on its branch through the long hours of darkness.",
+              "audioStart": 296.406,
+              "audioEnd": 300.156
+            },
+            {
+              "text": "Morning would soon arrive with a new day and fresh challenges for all living things.",
+              "audioStart": 301.019,
+              "audioEnd": 305.206
+            },
+            {
+              "text": "Until then, the world rested in deep silence under the bright light.",
+              "audioStart": 306.068,
+              "audioEnd": 309.706
+            },
+            {
+              "text": "The tale of the animal and the high plant remains a famous example of human knowledge.",
+              "audioStart": 310.568,
+              "audioEnd": 314.831
+            },
+            {
+              "text": "People often pretend that things they cannot achieve are simply not worth having.",
+              "audioStart": 315.693,
+              "audioEnd": 319.568
+            },
+            {
+              "text": "This smart trick of the mind helps individuals deal with trouble and failure.",
+              "audioStart": 320.431,
+              "audioEnd": 324.256
+            },
+            {
+              "text": "Throughout history, stories like this one have been shared across many different cultures.",
+              "audioStart": 325.118,
+              "audioEnd": 329.506
+            },
+            {
+              "text": "Children and adults learn valuable lessons from the actions of animals in tales.",
+              "audioStart": 330.368,
+              "audioEnd": 334.581
+            },
+            {
+              "text": "The animal in the story chose to protect his pride rather than accept his limitation.",
+              "audioStart": 335.443,
+              "audioEnd": 339.806
+            },
+            {
+              "text": "By convincing himself that the sweet fruit was bad, he felt better about his loss.",
+              "audioStart": 340.668,
+              "audioEnd": 345.031
+            },
+            {
+              "text": "Such behavior can be observed in everyday life when individuals miss important opportunities.",
+              "audioStart": 345.894,
+              "audioEnd": 350.818
+            },
+            {
+              "text": "When a goal proves too difficult, people frequently invent excuses to hide their fear.",
+              "audioStart": 351.681,
+              "audioEnd": 356.293
+            },
+            {
+              "text": "This psychological defense mechanism allows everyone to maintain a positive self-image despite problems.",
+              "audioStart": 357.156,
+              "audioEnd": 362.831
+            },
+            {
+              "text": "The warm field remained empty as the stars slowly appeared in the night sky above.",
+              "audioStart": 363.693,
+              "audioEnd": 367.793
+            },
+            {
+              "text": "No other creatures came to disturb the quiet place where the high plant grew.",
+              "audioStart": 368.656,
+              "audioEnd": 372.406
+            },
+            {
+              "text": "The sweet fruit stayed safely on its branch through the long hours of darkness.",
+              "audioStart": 373.269,
+              "audioEnd": 377.019
+            },
+            {
+              "text": "Morning would soon arrive with a new day and fresh challenges for all living things.",
+              "audioStart": 377.881,
+              "audioEnd": 382.068
+            },
+            {
+              "text": "Until then, the world rested in deep silence under the bright light.",
+              "audioStart": 382.931,
+              "audioEnd": 386.568
+            },
+            {
+              "text": "The tale of the animal and the high plant remains a famous example of human knowledge.",
+              "audioStart": 387.431,
+              "audioEnd": 391.693
+            },
+            {
+              "text": "People often pretend that things they cannot achieve are simply not worth having.",
+              "audioStart": 392.556,
+              "audioEnd": 396.431
+            },
+            {
+              "text": "This smart trick of the mind helps individuals deal with trouble and failure.",
+              "audioStart": 397.293,
+              "audioEnd": 401.118
+            },
+            {
+              "text": "Throughout history, stories like this one have been shared across many different cultures.",
+              "audioStart": 401.981,
+              "audioEnd": 406.368
+            },
+            {
+              "text": "Children and adults learn valuable lessons from the actions of animals in tales.",
+              "audioStart": 407.231,
+              "audioEnd": 411.443
+            },
+            {
+              "text": "The animal in the story chose to protect his pride rather than accept his limitation.",
+              "audioStart": 412.306,
+              "audioEnd": 416.668
+            },
+            {
+              "text": "By convincing himself that the sweet fruit was bad, he felt better about his loss.",
+              "audioStart": 417.531,
+              "audioEnd": 421.894
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0128.mp3",
+      "wordTimings": "audio/b2/st-0128.timings.json",
+      "quiz": [
+        {
+          "q": "What did the fox see hanging high on a vine?",
+          "options": [
+            "A bunch of ripe grapes",
+            "Some fresh green apples",
+            "A sweet red fruit"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened when the fox jumped for the fruit?",
+          "options": [
+            "He caught them easily",
+            "He could not reach them",
+            "The vine broke down"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the fox tell himself as he walked away?",
+          "options": [
+            "The grapes were probably sour",
+            "He would come back tomorrow",
+            "Someone else had stolen them"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "One fine afternoon, a solitary fox padded softly through a sun-drenched field, his amber eyes scanning the tall grass in search of sustenance.",
+              "audioStart": 0.1,
+              "audioEnd": 8.025
+            },
+            {
+              "text": "His belly felt hollow, a dull ache reminding him that hours had passed since his last meal, and his palate craved something rich and rewarding.",
+              "audioStart": 8.887,
+              "audioEnd": 16.525
+            },
+            {
+              "text": "As he rounded a cluster of wild shrubs, a sudden flash of vibrant green caught his attention against the pale expanse of the meadow.",
+              "audioStart": 17.387,
+              "audioEnd": 24.262
+            },
+            {
+              "text": "Dangling from a heavy, leafy vine were clusters of magnificent fruit, swollen with sweet juices and glowing like dark jewels in the slanted sunlight.",
+              "audioStart": 25.125,
+              "audioEnd": 33.112
+            },
+            {
+              "text": "The sight instantly quickened his pulse, flooding his senses with an intense desire to claim those luscious morsels for himself.",
+              "audioStart": 33.975,
+              "audioEnd": 40.763
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Impelled by sudden hunger, the fox sprinted across the dry earth toward the trellis, his paws kicking up small clouds of dust.",
+              "audioStart": 41.625,
+              "audioEnd": 48.65
+            },
+            {
+              "text": "He leaped upward with explosive power, extending his sharp black claws to catch the lowest hanging branch of the laden vine.",
+              "audioStart": 49.513,
+              "audioEnd": 55.962
+            },
+            {
+              "text": "Yet, despite his fierce momentum, his paws swept through empty air, missing the foliage entirely by a matter of agonizing inches.",
+              "audioStart": 56.825,
+              "audioEnd": 64.6
+            },
+            {
+              "text": "Gravity reclaimed him swiftly, dropping him back onto the hard soil with a sharp thud that rattled his bones.",
+              "audioStart": 65.463,
+              "audioEnd": 71.287
+            },
+            {
+              "text": "Had he possessed even a few more inches of height, his initial bound might have secured the prize on the very first attempt.",
+              "audioStart": 72.15,
+              "audioEnd": 78.675
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Refusing to yield to discouragement, the clever creature backed away, took a deep breath, and calculated a fresh approach.",
+              "audioStart": 79.537,
+              "audioEnd": 86.275
+            },
+            {
+              "text": "He launched himself into the air once more, his muscles bunching and stretching to their absolute limits as he fought upward.",
+              "audioStart": 87.138,
+              "audioEnd": 93.575
+            },
+            {
+              "text": "Every fiber of his agile body strained toward the target, his front paws batting frantically at the mocking green leaves.",
+              "audioStart": 94.438,
+              "audioEnd": 100.812
+            },
+            {
+              "text": "Nevertheless, the sweet fruit remained tantalizingly aloft, swaying gently out of reach as if indifferent to his desperate efforts.",
+              "audioStart": 101.675,
+              "audioEnd": 108.513
+            },
+            {
+              "text": "No matter how high he projected his frame, the distance proved insurmountable, keeping the feast securely guarded by empty air.",
+              "audioStart": 109.375,
+              "audioEnd": 116.2
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After countless exhausting leaps, the fox finally abandoned his assault, sliding back to the dirt with slumped shoulders and heavy breathing.",
+              "audioStart": 117.062,
+              "audioEnd": 124.513
+            },
+            {
+              "text": "He stood motionless on the parched ground, his chest heaving rapidly as he tried to drag cool oxygen into his burning lungs.",
+              "audioStart": 125.375,
+              "audioEnd": 132.2
+            },
+            {
+              "text": "The sheer physical exertion had drained his reserves, leaving his legs trembling and his joints aching from the repetitive impacts.",
+              "audioStart": 133.062,
+              "audioEnd": 139.725
+            },
+            {
+              "text": "Tilting his head upward one final time, he gazed at the unreachable clusters with a mixture of disbelief and profound fatigue.",
+              "audioStart": 140.588,
+              "audioEnd": 147.4
+            },
+            {
+              "text": "He understood with stark clarity that persistence alone could not alter the cruel geometry of his physical limitations.",
+              "audioStart": 148.262,
+              "audioEnd": 154.4
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Slowly, the weary animal turned his back upon the vine and began his long trudge down the dusty path leading away from the field.",
+              "audioStart": 155.262,
+              "audioEnd": 162.113
+            },
+            {
+              "text": "The warm afternoon sun beat down relentlessly upon his fur, amplifying the discomfort of his empty stomach and sore limbs.",
+              "audioStart": 162.975,
+              "audioEnd": 169.65
+            },
+            {
+              "text": "As he walked, a quiet frustration gnawed at his composure, making the bitter taste of failure even harder to swallow.",
+              "audioStart": 170.512,
+              "audioEnd": 176.838
+            },
+            {
+              "text": "To soothe the sharp sting of his wounded pride, his mind began to weave a comforting narrative to mask the reality of his defeat.",
+              "audioStart": 177.7,
+              "audioEnd": 184.162
+            },
+            {
+              "text": "He murmured softly to himself that the grapes were undoubtedly sour, ruined by rot and utterly unfit for any refined palate.",
+              "audioStart": 185.025,
+              "audioEnd": 192.1
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He convinced himself that consuming such unwholesome fruit would have brought him sickness rather than satisfaction.",
+              "audioStart": 192.963,
+              "audioEnd": 198.613
+            },
+            {
+              "text": "This mental fabrication allowed him to reframe his defeat, transforming an embarrassing inability into a wise and deliberate choice.",
+              "audioStart": 199.475,
+              "audioEnd": 206.825
+            },
+            {
+              "text": "By dismissing the object of his desire as worthless, he successfully shielded his ego from the painful admission of weakness.",
+              "audioStart": 207.688,
+              "audioEnd": 214.425
+            },
+            {
+              "text": "Hours drifted by as he continued his solitary journey across the sprawling landscape under the shifting afternoon light.",
+              "audioStart": 215.287,
+              "audioEnd": 221.387
+            },
+            {
+              "text": "The memory of the gleaming fruit lingered at the edge of his consciousness, a symbol of a goal that proved simply too high.",
+              "audioStart": 222.25,
+              "audioEnd": 228.137
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "It struck him as peculiar that such a magnificent prize could exist merely to mock the ambitions of passing travelers.",
+              "audioStart": 229.0,
+              "audioEnd": 235.387
+            },
+            {
+              "text": "He briefly wondered if returning at dawn might yield better fortune, perhaps when his muscles had recovered their lost vigor.",
+              "audioStart": 236.25,
+              "audioEnd": 242.463
+            },
+            {
+              "text": "Yet deep inside, he knew that wishing for longer legs was entirely futile and that no amount of morning light would change reality.",
+              "audioStart": 243.325,
+              "audioEnd": 251.521
+            },
+            {
+              "text": "His weakened frame argued strongly against such foolish optimism, urging him to press onward toward the safety of his den.",
+              "audioStart": 252.383,
+              "audioEnd": 258.784
+            },
+            {
+              "text": "With a final, resigned sigh, he quickened his pace, determined to leave both the field and the frustrating memory behind.",
+              "audioStart": 259.646,
+              "audioEnd": 266.246
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The golden sun began its slow descent toward the western horizon, casting long, dramatic shadows across the quiet meadows.",
+              "audioStart": 267.108,
+              "audioEnd": 274.209
+            },
+            {
+              "text": "A gentle breeze rustled the treetops, carrying the cool scent of approaching evening through the darkening grass.",
+              "audioStart": 275.071,
+              "audioEnd": 280.571
+            },
+            {
+              "text": "Small birds drifted silently between the branches, seeking shelter as the vibrant colors of the day faded into twilight.",
+              "audioStart": 281.433,
+              "audioEnd": 287.946
+            },
+            {
+              "text": "The entire landscape grew still and hushed, wrapping the weary traveler in a profound and restorative blanket of silence.",
+              "audioStart": 288.808,
+              "audioEnd": 295.259
+            },
+            {
+              "text": "He discovered a secluded hollow beneath a sheltering thicket, perfectly suited for resting his aching joints until morning.",
+              "audioStart": 296.121,
+              "audioEnd": 302.308
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Curling his tail tightly around his nose, the fox settled into the dry leaves and closed his heavy eyelids against the gathering dark.",
+              "audioStart": 303.171,
+              "audioEnd": 310.196
+            },
+            {
+              "text": "Though his stomach remained empty, his mind felt strangely lighter, comforted by the clever fiction he had constructed about the grapes.",
+              "audioStart": 311.058,
+              "audioEnd": 318.146
+            },
+            {
+              "text": "This subtle defense mechanism of the intellect demonstrated how easily living creatures protect their pride from the sting of disappointment.",
+              "audioStart": 319.009,
+              "audioEnd": 325.983
+            },
+            {
+              "text": "People and animals alike often disparage what they cannot attain, shielding their self-image from the harsh friction of failure.",
+              "audioStart": 326.846,
+              "audioEnd": 333.121
+            },
+            {
+              "text": "As the first pale stars pierced the velvet expanse of the night sky, the solitary creature drifted into a deep and dreamless sleep.",
+              "audioStart": 333.983,
+              "audioEnd": 340.983
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The warm field remained entirely deserted, bathed in the soft, silvery illumination of a rising moon that touched every leaf and blade.",
+              "audioStart": 341.846,
+              "audioEnd": 349.183
+            },
+            {
+              "text": "No other creatures wandered past the quiet spot where the heavy vine still clung to its sturdy wooden support.",
+              "audioStart": 350.046,
+              "audioEnd": 355.496
+            },
+            {
+              "text": "The sweet fruit remained untouched on the branch, enduring the long hours of darkness without a single disturbance.",
+              "audioStart": 356.358,
+              "audioEnd": 362.034
+            },
+            {
+              "text": "Morning would soon arrive with a fresh dawn, bringing new trials and opportunities for every living soul across the land.",
+              "audioStart": 362.896,
+              "audioEnd": 369.246
+            },
+            {
+              "text": "Until that awakening, the world rested in absolute peace, wrapped in the quiet wisdom of an ancient and timeless lesson.",
+              "audioStart": 370.108,
+              "audioEnd": 376.771
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0128.mp3",
+      "wordTimings": "audio/c1/st-0128.timings.json",
+      "quiz": [
+        {
+          "q": "What physical action did the fox take immediately after his first failed attempt to reach the grapes?",
+          "options": [
+            "He lay down in the grass to sleep.",
+            "He backed away and tried jumping again.",
+            "He climbed the vine to reach the top."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the fox justify his failure to himself as he walked away down the path?",
+          "options": [
+            "He decided the grapes were probably sour and unfit to eat.",
+            "He blamed the harsh sunlight for blinding his eyes.",
+            "He believed another animal had stolen the best fruit."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where did the fox finally decide to rest as night began to fall?",
+          "options": [
+            "In an abandoned wooden barn near the field",
+            "Inside a hollow beneath a sheltering thicket",
+            "Directly beneath the vine holding the grapes"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}
