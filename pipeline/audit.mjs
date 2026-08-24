@@ -93,7 +93,14 @@ function auditStory(story, { strict, allTitles }) {
     }
   }
   for (const [level, report] of Object.entries(reports)) {
-    const bucket = strict ? errors : warnings;
+    // NOT: level-rule (kapsam/cumle uzunlugu/kelime sayisi) sapmalari
+    // --strict'ten BAGIMSIZ hep UYARI kalir. Bu, validate-level.mjs --keep'in
+    // tasarim niyetiyle uyumlu ("kucuk sapmada rejected'a atma"). --strict
+    // yalnizca YENI kurallari (uyum, baslik cakismasi) hard-fail yapar
+    // (asagida). Bu ayrim yapilmadan once tum sapmalar strict'te hataya
+    // donuyor ve validate-level'in tolere ettigi hikayeler audit'te
+    // gereksiz reddediliyordu.
+    const bucket = warnings;
     if (!report.ok) bucket.push(`level ${level}: ${formatReport(level, report).trim()}`);
     const mins = readingMinutes(report.wordCount);
     if (mins < 0.75) warnings.push(`level ${level}: very short (${mins.toFixed(1)} min @ ${READING_WPM} wpm)`);

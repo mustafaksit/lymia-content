@@ -98,7 +98,7 @@ export function requireApiKey() {
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-const FETCH_TIMEOUT_MS = 45000;
+const FETCH_TIMEOUT_MS = 150000; // gpt-oss-120b gibi agir reasoning modelleri icin
 /** Asili baglantiya karsi: 45sn'de iptal eder (aksi halde tum kosu donar). */
 async function fetchWithTimeout(url, opts) {
   const ac = new AbortController();
@@ -202,7 +202,22 @@ export async function callGemini(prompt, { json = false } = {}) {
       out = ep.type === 'openai' ? await callOpenAI(ep, prompt, json) : await callGeminiEndpoint(ep, prompt, json);
     } catch (e) {
       lastError = e;
-      dead.add(ep.id); // kalıcı hata -> bu ucu bırak
+      const transient = e.name === 'AbortError' || /timeout|network|fetch failed|ECONNRESET/i.test(e.message);
+      if (transient) {
+        // Zaman asimi/ag hatasi GECICI: agir reasoning modelleri (gpt-oss-120b)
+        // bazen 150sn'yi de asabilir. Havuzda TEK uc varsa oldurmek onu
+        // kalici olarak devre disi birakir. Backoff + ayni ucta tekrar dene.
+        ep._fails = (ep._fails || 0) + 1;
+        console.log(`  ${ep.id} zaman asimi/ag hatasi (deneme ${ep._fails}) -> kisa bekleyip tekrar`);
+        if (ep._fails >= 6) {
+          dead.add(ep.id);
+          console.log(`  ${ep.id} tekrarlayan zaman asimi -> bırakılıyor`);
+        } else {
+          await sleep(3000);
+        }
+        continue;
+      }
+      dead.add(ep.id); // gercekten kalici hata (auth/model-not-found vb.)
       console.log(`  ${ep.id} hata: ${e.message.slice(0, 80)} -> sıradaki sağlayıcı`);
       continue;
     }
