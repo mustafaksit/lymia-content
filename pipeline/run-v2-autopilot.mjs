@@ -90,6 +90,7 @@ function classifyFailure(output) {
   if (/HTTP 503/.test(output)) return 'llm-server-busy';
   if (/generate-audio.*HATA/.test(output)) return 'audio-error';
   if (/KALDI/.test(output)) return 'level-rule-fail';
+  if (/BA[Şş]AR[Iı]S[Iı]Z.*[cç]ok k[ıi]sa/i.test(output)) return 'c1-too-short';
   return 'unknown';
 }
 
