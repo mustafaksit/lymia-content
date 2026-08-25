@@ -91,6 +91,7 @@ function classifyFailure(output) {
   if (/generate-audio.*HATA/.test(output)) return 'audio-error';
   if (/KALDI/.test(output)) return 'level-rule-fail';
   if (/BA[Şş]AR[Iı]S[Iı]Z.*[cç]ok k[ıi]sa/i.test(output)) return 'c1-too-short';
+  if (/uzun c[üu]mle/i.test(output)) return 'sentence-too-long';
   return 'unknown';
 }
 
