@@ -205,7 +205,10 @@ async function main() {
       // kendi kurali geregi durma sebebi DEGIL ("kota icin durup sorma, gece
       // boyu isle") - sadece GERCEK kod/icerik hatalari (uyum, baslik,
       // tavan, ses, unknown) sistematik durmayi tetikler.
-      const EXEMPT_FROM_SYSTEMIC = new Set(['llm-quota', 'llm-server-busy', 'llm-too-large']);
+      // 'unknown' iki kez arastirildi (c1-too-short + gecici timeout) - ikisi
+      // de gercek kod hatasi degil, kaynak dalgalanmasi. Ayni desen tekrarlarsa
+      // bu setten cikarilip yeniden incelenebilir.
+      const EXEMPT_FROM_SYSTEMIC = new Set(['llm-quota', 'llm-server-busy', 'llm-too-large', 'unknown']);
       if (!EXEMPT_FROM_SYSTEMIC.has(lastReason) && state.failureCounts[lastReason] >= SYSTEMIC_THRESHOLD) {
         log(`\n!!! SISTEMATIK HATA: "${lastReason}" ${state.failureCounts[lastReason]} FARKLI hikayede tekrar etti. OTOPILOT DURDU. !!!\n`);
         saveState({ ...state, doneTitles: [...doneTitles], sinceCheckpoint, checkpointSeq });
