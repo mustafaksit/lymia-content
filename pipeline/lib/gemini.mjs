@@ -61,11 +61,17 @@ function buildPool() {
     }
   });
   for (const p of OPENAI_PROVIDERS) {
-    const key = process.env[p.env];
-    if (!key) continue;
-    for (const model of p.models) {
-      pool.push({ id: `${p.name}:${model}`, type: 'openai', baseUrl: p.baseUrl, key, model, provider: p.name });
-    }
+    // <PROVIDER>_API_KEYS (virgullu, coklu) > tekil <PROVIDER>_API_KEY.
+    // Ayni saglayicidan farkli hesap anahtarlari = ayri rate-limit havuzu.
+    const plural = p.env.replace(/_API_KEY$/, '_API_KEYS');
+    const raw = process.env[plural] || process.env[p.env] || '';
+    const keys = [...new Set(raw.split(',').map((k) => k.trim()).filter(Boolean))];
+    keys.forEach((key, ki) => {
+      for (const model of p.models) {
+        const id = keys.length > 1 ? `${p.name}#${ki + 1}:${model}` : `${p.name}:${model}`;
+        pool.push({ id, type: 'openai', baseUrl: p.baseUrl, key, model, provider: p.name });
+      }
+    });
   }
   return pool;
 }
