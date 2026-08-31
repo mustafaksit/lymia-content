@@ -1,0 +1,1320 @@
+{
+  "id": "st-0204",
+  "title": "Why the Sea Is Salt",
+  "genre": "classic",
+  "summary": "A poor man receives a mysterious gift that changes his fortunes, sparking greed.",
+  "coverScene": "A magical hand turns a small stone mill on a wooden table while white salt pours out into the sea.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, two men live near water.",
+              "audioStart": 0.106,
+              "audioEnd": 2.467
+            },
+            {
+              "text": "One man is bad.",
+              "audioStart": 3.431,
+              "audioEnd": 4.681
+            },
+            {
+              "text": "The other man is kind.",
+              "audioStart": 5.639,
+              "audioEnd": 7.097
+            },
+            {
+              "text": "He has no money.",
+              "audioStart": 8.056,
+              "audioEnd": 9.222
+            },
+            {
+              "text": "He has no food.",
+              "audioStart": 10.181,
+              "audioEnd": 11.403
+            },
+            {
+              "text": "He is very low in spirit.",
+              "audioStart": 12.361,
+              "audioEnd": 14.083
+            },
+            {
+              "text": "The year is not good.",
+              "audioStart": 15.042,
+              "audioEnd": 16.319
+            },
+            {
+              "text": "The man has no food at all.",
+              "audioStart": 17.278,
+              "audioEnd": 19.0
+            },
+            {
+              "text": "He goes to his bad other man.",
+              "audioStart": 19.958,
+              "audioEnd": 21.667
+            },
+            {
+              "text": "He asks him for food.",
+              "audioStart": 22.625,
+              "audioEnd": 24.042
+            },
+            {
+              "text": "The bad man give him a small present.",
+              "audioStart": 25.0,
+              "audioEnd": 27.25
+            },
+            {
+              "text": "It is a small thing.",
+              "audioStart": 28.208,
+              "audioEnd": 29.472
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Little old men appear in the land.",
+              "audioStart": 30.431,
+              "audioEnd": 32.333
+            },
+            {
+              "text": "They want the small present.",
+              "audioStart": 33.292,
+              "audioEnd": 34.847
+            },
+            {
+              "text": "It is an old hand thing.",
+              "audioStart": 35.806,
+              "audioEnd": 37.208
+            },
+            {
+              "text": "The less fortunate man give it to them.",
+              "audioStart": 38.167,
+              "audioEnd": 40.292
+            },
+            {
+              "text": "They give him food.",
+              "audioStart": 41.25,
+              "audioEnd": 42.403
+            },
+            {
+              "text": "Then he see the thing make money.",
+              "audioStart": 43.361,
+              "audioEnd": 45.139
+            },
+            {
+              "text": "His family life become very good now.",
+              "audioStart": 46.097,
+              "audioEnd": 48.486
+            },
+            {
+              "text": "The bad man hear about the thing.",
+              "audioStart": 49.444,
+              "audioEnd": 51.347
+            },
+            {
+              "text": "He wants the thing too.",
+              "audioStart": 52.306,
+              "audioEnd": 53.708
+            },
+            {
+              "text": "He takes the thing at night.",
+              "audioStart": 54.667,
+              "audioEnd": 56.278
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He goes to his small house.",
+              "audioStart": 57.236,
+              "audioEnd": 58.875
+            },
+            {
+              "text": "Then he take it to water.",
+              "audioStart": 59.833,
+              "audioEnd": 61.25
+            },
+            {
+              "text": "He goes far from land.",
+              "audioStart": 62.208,
+              "audioEnd": 63.694
+            },
+            {
+              "text": "He turns it to make food.",
+              "audioStart": 64.653,
+              "audioEnd": 66.264
+            },
+            {
+              "text": "The thing make money and food.",
+              "audioStart": 67.222,
+              "audioEnd": 68.931
+            },
+            {
+              "text": "Then he turn it to make white food.",
+              "audioStart": 69.889,
+              "audioEnd": 71.875
+            },
+            {
+              "text": "He turns it for white food every day.",
+              "audioStart": 72.833,
+              "audioEnd": 75.167
+            },
+            {
+              "text": "He do not know how to stop it.",
+              "audioStart": 76.125,
+              "audioEnd": 77.861
+            },
+            {
+              "text": "The thing make more white food.",
+              "audioStart": 78.819,
+              "audioEnd": 80.639
+            },
+            {
+              "text": "The place on water go down.",
+              "audioStart": 81.597,
+              "audioEnd": 83.278
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The place go under water.",
+              "audioStart": 84.236,
+              "audioEnd": 85.722
+            },
+            {
+              "text": "The man is not able to stop it.",
+              "audioStart": 86.681,
+              "audioEnd": 88.625
+            },
+            {
+              "text": "The place go down into the water.",
+              "audioStart": 89.583,
+              "audioEnd": 91.403
+            },
+            {
+              "text": "The thing stay down in the water.",
+              "audioStart": 92.361,
+              "audioEnd": 94.056
+            },
+            {
+              "text": "It makes white food every day.",
+              "audioStart": 95.014,
+              "audioEnd": 96.944
+            },
+            {
+              "text": "This is why the big water is different.",
+              "audioStart": 97.903,
+              "audioEnd": 100.111
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0204.mp3",
+      "wordTimings": "audio/a1/st-0204.timings.json",
+      "quiz": [
+        {
+          "q": "Who is kind and poor?",
+          "options": [
+            "One brother",
+            "The old men",
+            "The rich man"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the magic mill make first?",
+          "options": [
+            "Salt",
+            "Gold and food",
+            "Bread only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why does the boat sink?",
+          "options": [
+            "It is too heavy with salt",
+            "Big fish hit the boat",
+            "Water is too cold"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, two brothers lived near the water.",
+              "audioStart": 0.106,
+              "audioEnd": 2.856
+            },
+            {
+              "text": "One brother had much money and wanted more.",
+              "audioStart": 3.819,
+              "audioEnd": 6.417
+            },
+            {
+              "text": "The other brother was poor and kind.",
+              "audioStart": 7.375,
+              "audioEnd": 9.472
+            },
+            {
+              "text": "The poor man always tried to help people every day.",
+              "audioStart": 10.431,
+              "audioEnd": 13.333
+            },
+            {
+              "text": "During a cold week, he had no food at all.",
+              "audioStart": 14.292,
+              "audioEnd": 17.0
+            },
+            {
+              "text": "He went to his rich brother for help.",
+              "audioStart": 17.958,
+              "audioEnd": 19.958
+            },
+            {
+              "text": "The rich man grew very bad toward him.",
+              "audioStart": 20.917,
+              "audioEnd": 23.236
+            },
+            {
+              "text": "He threw a small present at the brother.",
+              "audioStart": 24.194,
+              "audioEnd": 26.278
+            },
+            {
+              "text": "The poor man walked into the dark forest.",
+              "audioStart": 27.236,
+              "audioEnd": 29.75
+            },
+            {
+              "text": "Suddenly, little old men appeared around him.",
+              "audioStart": 30.708,
+              "audioEnd": 33.403
+            },
+            {
+              "text": "They wanted the unusual present back.",
+              "audioStart": 34.361,
+              "audioEnd": 36.542
+            },
+            {
+              "text": "It was a special small machine.",
+              "audioStart": 37.5,
+              "audioEnd": 39.319
+            },
+            {
+              "text": "He traded the item for food.",
+              "audioStart": 40.278,
+              "audioEnd": 42.083
+            },
+            {
+              "text": "Soon he learned the machine was full of power.",
+              "audioStart": 43.042,
+              "audioEnd": 45.514
+            },
+            {
+              "text": "When he turned it, food and money came out.",
+              "audioStart": 46.472,
+              "audioEnd": 49.0
+            },
+            {
+              "text": "Their lives became much better each day.",
+              "audioStart": 49.958,
+              "audioEnd": 52.333
+            },
+            {
+              "text": "The bad brother heard about the machine.",
+              "audioStart": 53.292,
+              "audioEnd": 55.361
+            },
+            {
+              "text": "He decided to take it at night.",
+              "audioStart": 56.319,
+              "audioEnd": 58.167
+            },
+            {
+              "text": "He took the machine to his small ship.",
+              "audioStart": 59.125,
+              "audioEnd": 61.236
+            },
+            {
+              "text": "Then he went away across the water.",
+              "audioStart": 62.194,
+              "audioEnd": 64.167
+            },
+            {
+              "text": "Far from land, he wanted water with taste.",
+              "audioStart": 65.125,
+              "audioEnd": 68.014
+            },
+            {
+              "text": "He turned the handle on the machine.",
+              "audioStart": 68.972,
+              "audioEnd": 70.833
+            },
+            {
+              "text": "He did not know how to stop it.",
+              "audioStart": 71.792,
+              "audioEnd": 73.528
+            },
+            {
+              "text": "Water with taste came out until the ship went down.",
+              "audioStart": 74.486,
+              "audioEnd": 77.375
+            },
+            {
+              "text": "The power machine remains at the lowest part.",
+              "audioStart": 78.333,
+              "audioEnd": 80.972
+            },
+            {
+              "text": "It turns without end and makes water with taste.",
+              "audioStart": 81.931,
+              "audioEnd": 84.722
+            },
+            {
+              "text": "Because of this, the sea water is full of taste.",
+              "audioStart": 85.681,
+              "audioEnd": 88.639
+            },
+            {
+              "text": "People still tell this story today.",
+              "audioStart": 89.597,
+              "audioEnd": 91.569
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many years ago, people told stories about this machine.",
+              "audioStart": 92.528,
+              "audioEnd": 95.958
+            },
+            {
+              "text": "Families talked about the poor brother and the bad brother.",
+              "audioStart": 96.917,
+              "audioEnd": 100.028
+            },
+            {
+              "text": "The story passed from parent to child.",
+              "audioStart": 100.986,
+              "audioEnd": 103.167
+            },
+            {
+              "text": "Everyone in the town knew the tale well.",
+              "audioStart": 104.125,
+              "audioEnd": 106.264
+            },
+            {
+              "text": "The poor man lived a good life until the end.",
+              "audioStart": 107.222,
+              "audioEnd": 109.792
+            },
+            {
+              "text": "His family never had to worry about food again.",
+              "audioStart": 110.75,
+              "audioEnd": 113.472
+            },
+            {
+              "text": "They always shared their meals with other people.",
+              "audioStart": 114.431,
+              "audioEnd": 116.986
+            },
+            {
+              "text": "The bad brother never came back home.",
+              "audioStart": 117.944,
+              "audioEnd": 120.097
+            },
+            {
+              "text": "His ship went down in the deep water.",
+              "audioStart": 121.056,
+              "audioEnd": 123.111
+            },
+            {
+              "text": "No one saw him again after that night.",
+              "audioStart": 124.069,
+              "audioEnd": 126.361
+            },
+            {
+              "text": "The machine stayed under the sea.",
+              "audioStart": 127.319,
+              "audioEnd": 129.125
+            },
+            {
+              "text": "It kept working day and night.",
+              "audioStart": 130.083,
+              "audioEnd": 131.847
+            },
+            {
+              "text": "The water with taste spread across the world.",
+              "audioStart": 132.806,
+              "audioEnd": 135.306
+            },
+            {
+              "text": "Children grew up listening to this old story.",
+              "audioStart": 136.264,
+              "audioEnd": 138.611
+            },
+            {
+              "text": "They learned to be kind to everyone.",
+              "audioStart": 139.569,
+              "audioEnd": 141.417
+            },
+            {
+              "text": "Being greedy brings bad results in the end.",
+              "audioStart": 142.375,
+              "audioEnd": 144.875
+            },
+            {
+              "text": "Being good brings happiness and help from friends.",
+              "audioStart": 145.833,
+              "audioEnd": 148.681
+            },
+            {
+              "text": "The old story remains important today.",
+              "audioStart": 149.639,
+              "audioEnd": 151.792
+            },
+            {
+              "text": "People remember the lesson of the two brothers.",
+              "audioStart": 152.75,
+              "audioEnd": 155.306
+            },
+            {
+              "text": "They teach it to new generations every year.",
+              "audioStart": 156.264,
+              "audioEnd": 158.847
+            },
+            {
+              "text": "Life can change quickly for anyone.",
+              "audioStart": 159.806,
+              "audioEnd": 161.972
+            },
+            {
+              "text": "We should always try to help those in need.",
+              "audioStart": 162.931,
+              "audioEnd": 165.125
+            },
+            {
+              "text": "That is the true message of the tale.",
+              "audioStart": 166.083,
+              "audioEnd": 168.083
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0204.mp3",
+      "wordTimings": "audio/a2/st-0204.timings.json",
+      "quiz": [
+        {
+          "q": "What did the rich brother give to the poor brother?",
+          "options": [
+            "A small machine",
+            "A piece of bread",
+            "A lot of gold"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the magic machine produce when the poor man turned it?",
+          "options": [
+            "Water and salt",
+            "Gold and delicious food",
+            "Cold winter clothes"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why did the rich man's boat sink?",
+          "options": [
+            "It hit a big rock",
+            "The weather was too cold",
+            "Too much salt made it heavy"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, two brothers lived near the sea.",
+              "audioStart": 0.1,
+              "audioEnd": 2.625
+            },
+            {
+              "text": "One brother was rich and very hard.",
+              "audioStart": 3.487,
+              "audioEnd": 5.425
+            },
+            {
+              "text": "The other brother was poor and kind.",
+              "audioStart": 6.287,
+              "audioEnd": 8.175
+            },
+            {
+              "text": "The poor brother always tried to help people in need.",
+              "audioStart": 9.037,
+              "audioEnd": 11.625
+            },
+            {
+              "text": "He had a good heart and shared what little he had.",
+              "audioStart": 12.488,
+              "audioEnd": 14.812
+            },
+            {
+              "text": "Many people liked him because he showed care and support.",
+              "audioStart": 15.675,
+              "audioEnd": 18.613
+            },
+            {
+              "text": "His brother only cared about money and business.",
+              "audioStart": 19.475,
+              "audioEnd": 22.012
+            },
+            {
+              "text": "The rich man never shared his gold with anyone.",
+              "audioStart": 22.875,
+              "audioEnd": 25.25
+            },
+            {
+              "text": "He wanted more and more property each year.",
+              "audioStart": 26.113,
+              "audioEnd": 28.312
+            },
+            {
+              "text": "He did not care if other people suffered.",
+              "audioStart": 29.175,
+              "audioEnd": 31.163
+            },
+            {
+              "text": "They had lived in the same village for a long time.",
+              "audioStart": 32.025,
+              "audioEnd": 34.487
+            },
+            {
+              "text": "Everyone knew that the rich man was very unfair.",
+              "audioStart": 35.35,
+              "audioEnd": 37.962
+            },
+            {
+              "text": "He always kept his gold inside a big box.",
+              "audioStart": 38.825,
+              "audioEnd": 41.225
+            },
+            {
+              "text": "The poor man worked hard every single day.",
+              "audioStart": 42.087,
+              "audioEnd": 44.438
+            },
+            {
+              "text": "He had little food, but he always smiled.",
+              "audioStart": 45.3,
+              "audioEnd": 47.688
+            },
+            {
+              "text": "His family was happy despite having very little money.",
+              "audioStart": 48.55,
+              "audioEnd": 51.413
+            },
+            {
+              "text": "The rich man had everything, yet he wanted more.",
+              "audioStart": 52.275,
+              "audioEnd": 55.05
+            },
+            {
+              "text": "He never gave anything to poor people in the town.",
+              "audioStart": 55.913,
+              "audioEnd": 58.462
+            },
+            {
+              "text": "He thought only of his business and his gold.",
+              "audioStart": 59.325,
+              "audioEnd": 61.45
+            },
+            {
+              "text": "Life went on this way for many months.",
+              "audioStart": 62.312,
+              "audioEnd": 64.312
+            },
+            {
+              "text": "Then a cold winter came to the small town.",
+              "audioStart": 65.175,
+              "audioEnd": 67.263
+            },
+            {
+              "text": "The weather was bad, and snow fell everywhere.",
+              "audioStart": 68.125,
+              "audioEnd": 70.688
+            },
+            {
+              "text": "People stayed inside their houses to stay warm.",
+              "audioStart": 71.55,
+              "audioEnd": 73.987
+            },
+            {
+              "text": "The poor man had no food left for his family.",
+              "audioStart": 74.85,
+              "audioEnd": 77.487
+            },
+            {
+              "text": "He needed help, so he visited his rich brother.",
+              "audioStart": 78.35,
+              "audioEnd": 81.0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During a cold winter week, the poor man had no food.",
+              "audioStart": 81.862,
+              "audioEnd": 84.925
+            },
+            {
+              "text": "He went to his rich brother for food.",
+              "audioStart": 85.787,
+              "audioEnd": 87.638
+            },
+            {
+              "text": "The rich man grew angry and threw a small gift at him.",
+              "audioStart": 88.5,
+              "audioEnd": 91.287
+            },
+            {
+              "text": "He told the poor man to leave his house immediately.",
+              "audioStart": 92.15,
+              "audioEnd": 94.675
+            },
+            {
+              "text": "The poor man took the strange gift into the dark forest.",
+              "audioStart": 95.537,
+              "audioEnd": 98.513
+            },
+            {
+              "text": "Suddenly, little old men appeared around him.",
+              "audioStart": 99.375,
+              "audioEnd": 101.8
+            },
+            {
+              "text": "They wanted the gift, which was a special small machine.",
+              "audioStart": 102.662,
+              "audioEnd": 105.55
+            },
+            {
+              "text": "The poor man traded the item for food.",
+              "audioStart": 106.412,
+              "audioEnd": 108.525
+            },
+            {
+              "text": "Soon, he learned that the machine was wonderful.",
+              "audioStart": 109.388,
+              "audioEnd": 111.912
+            },
+            {
+              "text": "When he turned the handle, the machine produced gold and food.",
+              "audioStart": 112.775,
+              "audioEnd": 115.787
+            },
+            {
+              "text": "Their lives became much better each day.",
+              "audioStart": 116.65,
+              "audioEnd": 118.787
+            },
+            {
+              "text": "They have lived happily since that time.",
+              "audioStart": 119.65,
+              "audioEnd": 121.562
+            },
+            {
+              "text": "The poor man thanked the little men for their help.",
+              "audioStart": 122.425,
+              "audioEnd": 124.838
+            },
+            {
+              "text": "He brought the wonderful machine back to his home.",
+              "audioStart": 125.7,
+              "audioEnd": 128.025
+            },
+            {
+              "text": "His family was amazed by what the machine could do.",
+              "audioStart": 128.887,
+              "audioEnd": 131.463
+            },
+            {
+              "text": "It made delicious food and bright gold pieces.",
+              "audioStart": 132.325,
+              "audioEnd": 134.8
+            },
+            {
+              "text": "They never worried about money or hunger again.",
+              "audioStart": 135.662,
+              "audioEnd": 137.963
+            },
+            {
+              "text": "They bought a new house and nice clothes.",
+              "audioStart": 138.825,
+              "audioEnd": 140.7
+            },
+            {
+              "text": "They also shared their food with other poor people.",
+              "audioStart": 141.562,
+              "audioEnd": 144.05
+            },
+            {
+              "text": "The rich brother heard about the wonderful machine.",
+              "audioStart": 144.912,
+              "audioEnd": 147.238
+            },
+            {
+              "text": "He decided to steal the machine while the family slept.",
+              "audioStart": 148.1,
+              "audioEnd": 150.775
+            },
+            {
+              "text": "He took the machine to his boat and went away.",
+              "audioStart": 151.637,
+              "audioEnd": 153.812
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Far from land, the rich man wanted the machine to make white water.",
+              "audioStart": 154.675,
+              "audioEnd": 158.338
+            },
+            {
+              "text": "He turned the handle, but he did not know how to stop it.",
+              "audioStart": 159.2,
+              "audioEnd": 162.062
+            },
+            {
+              "text": "The white water came out until the boat went down into the water.",
+              "audioStart": 162.925,
+              "audioEnd": 165.963
+            },
+            {
+              "text": "If he had known how to stop it, he would have saved his life.",
+              "audioStart": 166.825,
+              "audioEnd": 169.875
+            },
+            {
+              "text": "The wonderful machine remains at the bottom of the deep water.",
+              "audioStart": 170.738,
+              "audioEnd": 173.637
+            },
+            {
+              "text": "It turns round and makes the sea full of white water today.",
+              "audioStart": 174.5,
+              "audioEnd": 177.4
+            },
+            {
+              "text": "This is why people still tell this story every year.",
+              "audioStart": 178.262,
+              "audioEnd": 180.9
+            },
+            {
+              "text": "Everyone knows that bad actions bring bad results in the end.",
+              "audioStart": 181.762,
+              "audioEnd": 184.975
+            },
+            {
+              "text": "The rich man lost everything because he wanted too much.",
+              "audioStart": 185.838,
+              "audioEnd": 188.825
+            },
+            {
+              "text": "He never returned to his home or his family.",
+              "audioStart": 189.688,
+              "audioEnd": 191.887
+            },
+            {
+              "text": "The boat sank deep into the cold sea.",
+              "audioStart": 192.75,
+              "audioEnd": 194.6
+            },
+            {
+              "text": "The machine stayed at the bottom and kept working.",
+              "audioStart": 195.463,
+              "audioEnd": 197.775
+            },
+            {
+              "text": "It produces white water day after day.",
+              "audioStart": 198.637,
+              "audioEnd": 200.762
+            },
+            {
+              "text": "The sea became full of this white water.",
+              "audioStart": 201.625,
+              "audioEnd": 203.625
+            },
+            {
+              "text": "People remember this lesson when they look at the sea.",
+              "audioStart": 204.488,
+              "audioEnd": 206.988
+            },
+            {
+              "text": "They know that bad people lose everything in the end.",
+              "audioStart": 207.85,
+              "audioEnd": 210.35
+            },
+            {
+              "text": "Kindness brings good rewards to those who help others.",
+              "audioStart": 211.213,
+              "audioEnd": 213.875
+            },
+            {
+              "text": "The poor family lived a long and peaceful life.",
+              "audioStart": 214.738,
+              "audioEnd": 217.325
+            },
+            {
+              "text": "They always remembered the strange machine and the little men.",
+              "audioStart": 218.188,
+              "audioEnd": 221.062
+            },
+            {
+              "text": "The story passed from parents to children through time.",
+              "audioStart": 221.925,
+              "audioEnd": 224.537
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0204.mp3",
+      "wordTimings": "audio/b1/st-0204.timings.json",
+      "quiz": [
+        {
+          "q": "What did the rich brother give the poor brother?",
+          "options": [
+            "A small gift",
+            "A large boat",
+            "Some gold"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What could the magic mill produce when the handle was turned?",
+          "options": [
+            "Only water",
+            "Gold and food",
+            "Cold wind"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why did the rich man's boat sink?",
+          "options": [
+            "A big storm",
+            "Too much salt",
+            "An animal attack"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, two brothers lived in a small village near the sea.",
+              "audioStart": 0.1,
+              "audioEnd": 3.475
+            },
+            {
+              "text": "One brother was rich and wealthy, while the other was poor but very kind.",
+              "audioStart": 4.338,
+              "audioEnd": 8.238
+            },
+            {
+              "text": "Although the poor brother had almost nothing, he always tried to help people who were in need.",
+              "audioStart": 9.1,
+              "audioEnd": 13.65
+            },
+            {
+              "text": "During a cold winter week, the poor man had no food left in his house.",
+              "audioStart": 14.512,
+              "audioEnd": 18.575
+            },
+            {
+              "text": "He went to his rich brother to ask for a piece of bread.",
+              "audioStart": 19.438,
+              "audioEnd": 22.225
+            },
+            {
+              "text": "Instead of helping, the rich man grew angry and threw a small gift at him.",
+              "audioStart": 23.087,
+              "audioEnd": 27.038
+            },
+            {
+              "text": "The poor man took the strange gift and walked away into the dark forest.",
+              "audioStart": 27.9,
+              "audioEnd": 31.6
+            },
+            {
+              "text": "Suddenly, a group of little old men appeared around him with strange energy.",
+              "audioStart": 32.462,
+              "audioEnd": 36.312
+            },
+            {
+              "text": "They wanted the gift, which was a special small machine that could make anything.",
+              "audioStart": 37.175,
+              "audioEnd": 41.163
+            },
+            {
+              "text": "The poor man traded the item for food, but soon learned that the machine was special.",
+              "audioStart": 42.025,
+              "audioEnd": 46.35
+            },
+            {
+              "text": "When he turned the handle, the machine produced gold and good food for his family.",
+              "audioStart": 47.212,
+              "audioEnd": 51.225
+            },
+            {
+              "text": "Because the machine was so useful, their lives became much better each day.",
+              "audioStart": 52.087,
+              "audioEnd": 56.112
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The wealthy brother heard about the special machine and came to see it.",
+              "audioStart": 56.975,
+              "audioEnd": 60.288
+            },
+            {
+              "text": "He decided to steal the machine while the poor family was sleeping.",
+              "audioStart": 61.15,
+              "audioEnd": 64.3
+            },
+            {
+              "text": "He took the machine down to his boat and sailed away across the sea.",
+              "audioStart": 65.162,
+              "audioEnd": 68.487
+            },
+            {
+              "text": "Once he was far from land, the rich man wanted the machine to make salt.",
+              "audioStart": 69.35,
+              "audioEnd": 73.287
+            },
+            {
+              "text": "He turned the handle, but he did not know how to stop the machine.",
+              "audioStart": 74.15,
+              "audioEnd": 77.338
+            },
+            {
+              "text": "The salt poured out continuously until the boat became too heavy and sank.",
+              "audioStart": 78.2,
+              "audioEnd": 82.088
+            },
+            {
+              "text": "The special machine remained at the bottom of the ocean, turning forever.",
+              "audioStart": 82.95,
+              "audioEnd": 86.575
+            },
+            {
+              "text": "Because it never stops making salt, the water of the sea is full of salt today.",
+              "audioStart": 87.438,
+              "audioEnd": 91.638
+            },
+            {
+              "text": "This is why people still tell the story of the special machine.",
+              "audioStart": 92.5,
+              "audioEnd": 95.513
+            },
+            {
+              "text": "Many years passed after the boat sank into the deep water.",
+              "audioStart": 96.375,
+              "audioEnd": 99.3
+            },
+            {
+              "text": "People in the village would remember the poor brother and his kind heart.",
+              "audioStart": 100.162,
+              "audioEnd": 103.475
+            },
+            {
+              "text": "They knew that the world could be a difficult place for poor people.",
+              "audioStart": 104.338,
+              "audioEnd": 107.4
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "However, the story of the machine gave them hope for a better life.",
+              "audioStart": 108.263,
+              "audioEnd": 111.775
+            },
+            {
+              "text": "Children listened carefully when their parents told the old story again and again.",
+              "audioStart": 112.638,
+              "audioEnd": 116.487
+            },
+            {
+              "text": "They learned that being kind to others is much better than having a lot of money.",
+              "audioStart": 117.35,
+              "audioEnd": 120.987
+            },
+            {
+              "text": "The rich brother lost everything because he was bad and wanted more than he needed.",
+              "audioStart": 121.85,
+              "audioEnd": 125.775
+            },
+            {
+              "text": "That lesson remained important for every person who lived in the village.",
+              "audioStart": 126.638,
+              "audioEnd": 130.2
+            },
+            {
+              "text": "Even today, parents share this tale to teach young children about life.",
+              "audioStart": 131.062,
+              "audioEnd": 134.812
+            },
+            {
+              "text": "The sea continued to move above the machine at the bottom of the ocean.",
+              "audioStart": 135.675,
+              "audioEnd": 139.012
+            },
+            {
+              "text": "Fish swam around the metal parts while the handle turned day and night.",
+              "audioStart": 139.875,
+              "audioEnd": 143.175
+            },
+            {
+              "text": "No one could reach the bottom where the machine worked without stopping.",
+              "audioStart": 144.037,
+              "audioEnd": 147.238
+            },
+            {
+              "text": "The salt spread through the water and changed the nature of the sea completely.",
+              "audioStart": 148.1,
+              "audioEnd": 151.637
+            },
+            {
+              "text": "Some people wondered if the machine would ever stop making salt.",
+              "audioStart": 152.5,
+              "audioEnd": 155.613
+            },
+            {
+              "text": "Others believed that it would run forever until the end of time.",
+              "audioStart": 156.475,
+              "audioEnd": 159.512
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Whatever the truth was, the sea remained full of salt through all seasons.",
+              "audioStart": 160.375,
+              "audioEnd": 164.238
+            },
+            {
+              "text": "Visitors came from far away to see the blue water and hear the local story.",
+              "audioStart": 165.1,
+              "audioEnd": 168.838
+            },
+            {
+              "text": "They walked along the beach and looked out toward the far edge with wonder.",
+              "audioStart": 169.7,
+              "audioEnd": 172.988
+            },
+            {
+              "text": "Many years went by, and new generations of children grew up in the village.",
+              "audioStart": 173.85,
+              "audioEnd": 177.95
+            },
+            {
+              "text": "They heard the same old tale from their mothers and fathers during long evenings.",
+              "audioStart": 178.812,
+              "audioEnd": 182.637
+            },
+            {
+              "text": "The magical machine stayed hidden deep below the surface where no human eye could see.",
+              "audioStart": 183.5,
+              "audioEnd": 187.662
+            },
+            {
+              "text": "People often thought about the rich brother and how his greed destroyed him completely.",
+              "audioStart": 188.525,
+              "audioEnd": 192.575
+            },
+            {
+              "text": "They understood that money was not the most important thing in this world.",
+              "audioStart": 193.438,
+              "audioEnd": 196.812
+            },
+            {
+              "text": "Kindness and love remained the greatest treasures that anyone could ever hope to find.",
+              "audioStart": 197.675,
+              "audioEnd": 201.688
+            },
+            {
+              "text": "Every person who listened to the story felt a deep sense of peace.",
+              "audioStart": 202.55,
+              "audioEnd": 205.925
+            },
+            {
+              "text": "The blue ocean waves rolled gently against the sandy shore under the bright sun.",
+              "audioStart": 206.787,
+              "audioEnd": 210.738
+            },
+            {
+              "text": "Life in the village went on quietly as the generations changed over time.",
+              "audioStart": 211.6,
+              "audioEnd": 215.488
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0204.mp3",
+      "wordTimings": "audio/b2/st-0204.timings.json",
+      "quiz": [
+        {
+          "q": "What did the rich brother give the poor brother at first?",
+          "options": [
+            "A piece of bread",
+            "A strange gift",
+            "A bag of gold"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the magic mill make for the poor man's family?",
+          "options": [
+            "Gold and food",
+            "Water and salt",
+            "Clothes and wood"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the rich man's boat?",
+          "options": [
+            "It sailed back to land",
+            "It became too heavy with salt and sank",
+            "It broke against the rocks"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In a secluded coastal village where the gray mist clung persistently to the cliffs, two brothers lived starkly contrasting lives. One possessed boundless wealth, accumulating lands and gold through shrewdness and fortunate investments, while the other endured relentless poverty. Despite having virtually nothing to call his own, the poor brother retained a remarkably generous spirit and shared whatever meager scraps he found with those even more destitute. During a particularly merciless winter week, when frost hardened the earth like iron, the poor man exhausted his last provisions and faced starvation. Driven by desperation, he wrapped his thin coat tightly around his shivering frame and walked to the grand estate of his wealthy sibling.",
+              "audioStart": 0.1,
+              "audioEnd": 42.7
+            },
+            {
+              "text": "He knocked timidly on the heavy oak door, hoping that familial ties might evoke a flicker of compassion in his brother's heart. When the wealthy man opened the door, his face twisted into an expression of cold annoyance at the sight of such an impoverished petitioner. Instead of offering the requested piece of bread, the rich man muttered a harsh insult and hurled a small, peculiar object directly at his face. The poor man caught the strange gift instinctively, bowing his head in quiet defeat before turning away into the deepening shadows of the dark forest.",
+              "audioStart": 43.562,
+              "audioEnd": 75.75
+            },
+            {
+              "text": "As he trudged deeper among the towering pines, a sudden shimmering in the twilight air signaled an inexplicable shift in the atmosphere. A group of diminutive, elven figures materialized around him, radiating an otherworldly energy that made the hairs on his arms stand on end. They cast eager glances toward the peculiar object he clutched in his trembling hands, desperately wanting the device back. Sensing an opportunity born of magic, the poor man traded the curious artifact in exchange for a massive abundance of warm food and vital provisions for his starving family.",
+              "audioStart": 76.612,
+              "audioEnd": 109.787
+            },
+            {
+              "text": "To his astonishment, he soon discovered that the traded item was far more than a mere trinket or a clever diversion. When he turned the small metal handle protruding from its side, the device began to produce gleaming gold coins and lavish feasts of the finest food. Day after day, the miraculous machine provided endlessly for his household, lifting them out of the heavy burden of poverty forever. Because the utility of the device was so profound, their lives transformed into a state of comfortable security that they had never dared to imagine.",
+              "audioStart": 110.65,
+              "audioEnd": 141.65
+            },
+            {
+              "text": "Word of this sudden and inexplicable prosperity inevitably traveled across the district until it reached the ears of the wealthy brother. Consumed by bitter jealousy and burning curiosity, the rich man journeyed to the modest cottage to witness the miracle with his own eyes. When he saw the magical machine in action, a dark resolve hardened in his mind, and he determined to steal it while the household slept. Under the cover of a moonless night, he crept into the humble dwelling, seized the precious artifact, and hurried down to his private boat.",
+              "audioStart": 142.512,
+              "audioEnd": 173.188
+            },
+            {
+              "text": "With the stolen treasure safely stowed beneath the wooden deck, he pushed off from the shore and sailed far out across the dark, swelling sea. Once he was completely isolated from the coastline and shrouded in thick ocean fog, the rich man decided he wanted the machine to generate a vast cargo of salt. Eager to profit from this new commodity, he grasped the small handle and began to turn it with greedy enthusiasm. However, in his haste, he had neglected to learn the specific mechanism required to halt the process, leaving him completely helpless as the machine whirred to life.",
+              "audioStart": 174.05,
+              "audioEnd": 207.725
+            },
+            {
+              "text": "Instantly, pristine white salt began to pour out in a thick, continuous stream, covering the deck and filling the hold with blinding speed. Panic gripped the wealthy merchant as he frantically twisted the handle backward and forward, but the relentless device ignored his desperate commands. The salt accumulated endlessly, growing heavier by the minute until the wooden boat lost its buoyancy and began to list dangerously to one side. Within moments, the overloaded vessel slipped beneath the dark waves, dragging the greedy man and his stolen prize down into the freezing abyss.",
+              "audioStart": 208.588,
+              "audioEnd": 242.607
+            },
+            {
+              "text": "The magical machine remained resting firmly at the bottom of the ocean, turning its hidden handle forever in the silent darkness. Because it never ceases its relentless production, the vast waters of the sea remain permanently saturated with salt to this very day. This is the reason why villagers still gather by the shore to recount the legend of the miraculous device and its fateful journey. Long years passed after the tragic sinking of the boat, yet the memory of the poor brother and his enduring kindness never faded from the community's heart.",
+              "audioStart": 243.47,
+              "audioEnd": 274.007
+            },
+            {
+              "text": "The villagers understood deeply that the world could be a remarkably harsh place for those who lacked material wealth or influence. Yet, the story of the magical machine offered a persistent glimmer of hope that honesty and virtue might ultimately prevail. Children sat in wide-eyed silence, listening intently as their parents repeated the ancient tale through the long, howling evenings of winter. They absorbed the fundamental lesson that possessing a compassionate heart far outweighed the hollow value of accumulating excessive riches.",
+              "audioStart": 274.87,
+              "audioEnd": 304.782
+            },
+            {
+              "text": "Meanwhile, far beneath the churning surface, the sea continued its timeless dance above the hidden machinery at the ocean floor. Schools of silver fish glided effortlessly around the metallic parts while the handle turned ceaselessly through day and night, untouched by human hands. No mortal swimmer could ever descend to that crushing depth to witness the tireless labor of the submerged artifact. The salt diffused steadily through the vast marine currents, altering the very chemistry of the deep ocean in a permanent, silent transformation.",
+              "audioStart": 305.644,
+              "audioEnd": 336.007
+            },
+            {
+              "text": "Generations came and went like the rolling tide, but the blue waters retained their saline taste through every shifting season of the world. Visitors from distant lands frequently walked along the sandy beaches, gazing out toward the horizon while local guides shared the timeless narrative. They pondered the fate of the wealthy brother, recognizing how unchecked avarice had paved the path to his ultimate destruction. Kindness and love remained the most precious treasures any human being could hope to cultivate during their brief existence.",
+              "audioStart": 336.87,
+              "audioEnd": 366.482
+            },
+            {
+              "text": "As the golden sun dipped below the horizon, gentle waves washed rhythmically against the shore, whispering secrets of the deep to the attentive land. Life in the village flowed onward in a tranquil rhythm, untouched by the passage of decades and the unending turning of the hidden handle. Every person who heard the tale felt a profound sense of quiet reassurance settling deep within their souls. The enduring legend stood as a timeless reminder that true wealth resides not in gold, but in the enduring grace of a generous spirit.",
+              "audioStart": 367.344,
+              "audioEnd": 397.032
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0204.mp3",
+      "wordTimings": "audio/c1/st-0204.timings.json",
+      "quiz": [
+        {
+          "q": "What did the poor brother originally trade the magical machine for?",
+          "options": [
+            "A large sum of gold coins",
+            "Food and provisions for his family",
+            "A safe passage across the sea"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why was the wealthy brother unable to stop the machine from producing salt?",
+          "options": [
+            "He did not know how to operate the halting mechanism.",
+            "The handle broke off in his hand during the storm.",
+            "The machine only stopped when submerged in deep water."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the wealthy brother after he took the machine onto his boat?",
+          "options": [
+            "He successfully sold the salt in a distant port city.",
+            "His boat became too heavy from the salt and sank.",
+            "He returned the machine to the forest elves out of guilt."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

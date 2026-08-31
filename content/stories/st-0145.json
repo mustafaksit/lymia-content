@@ -1,0 +1,1510 @@
+{
+  "id": "st-0145",
+  "title": "The Open Road",
+  "genre": "adventure",
+  "summary": "Water Rat and Mr Toad take a trip with a horse and a cart.",
+  "coverScene": "Mole and Water Rat sit happily beside a painted caravan with a horse on a sunny road.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Water Rat goes to visit Mr. Toad.",
+              "audioStart": 0.106,
+              "audioEnd": 2.383
+            },
+            {
+              "text": "His friend goes too.",
+              "audioStart": 3.347,
+              "audioEnd": 4.736
+            },
+            {
+              "text": "Mr. Toad has a lot of money.",
+              "audioStart": 5.694,
+              "audioEnd": 7.556
+            },
+            {
+              "text": "He is very happy now.",
+              "audioStart": 8.514,
+              "audioEnd": 9.917
+            },
+            {
+              "text": "He does not like water.",
+              "audioStart": 10.875,
+              "audioEnd": 12.278
+            },
+            {
+              "text": "He does not like boats.",
+              "audioStart": 13.236,
+              "audioEnd": 14.708
+            },
+            {
+              "text": "He loves a small house on land.",
+              "audioStart": 15.667,
+              "audioEnd": 17.569
+            },
+            {
+              "text": "Toad wants his friends to go.",
+              "audioStart": 18.528,
+              "audioEnd": 20.222
+            },
+            {
+              "text": "They move on the open land.",
+              "audioStart": 21.181,
+              "audioEnd": 22.708
+            },
+            {
+              "text": "They have a large horse and a small cart.",
+              "audioStart": 23.667,
+              "audioEnd": 26.042
+            },
+            {
+              "text": "They stop and talk every day.",
+              "audioStart": 27,
+              "audioEnd": 28.75
+            },
+            {
+              "text": "The sun is clear.",
+              "audioStart": 29.708,
+              "audioEnd": 30.917
+            },
+            {
+              "text": "They look around the place.",
+              "audioStart": 31.875,
+              "audioEnd": 33.417
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A big car comes past them.",
+              "audioStart": 34.375,
+              "audioEnd": 36.25
+            },
+            {
+              "text": "The car is very big and quick.",
+              "audioStart": 37.208,
+              "audioEnd": 39.111
+            },
+            {
+              "text": "The big car makes a very big sound.",
+              "audioStart": 40.069,
+              "audioEnd": 42.333
+            },
+            {
+              "text": "The sound scares the large horse.",
+              "audioStart": 43.292,
+              "audioEnd": 45.333
+            },
+            {
+              "text": "The small cart falls down.",
+              "audioStart": 46.292,
+              "audioEnd": 47.972
+            },
+            {
+              "text": "It goes right into a low place with water.",
+              "audioStart": 48.931,
+              "audioEnd": 51.264
+            },
+            {
+              "text": "Toad sits on the ground.",
+              "audioStart": 52.222,
+              "audioEnd": 53.694
+            },
+            {
+              "text": "He looks at the big car.",
+              "audioStart": 54.653,
+              "audioEnd": 56.167
+            },
+            {
+              "text": "He loves the big car now.",
+              "audioStart": 57.125,
+              "audioEnd": 58.736
+            },
+            {
+              "text": "He wants a car of his own.",
+              "audioStart": 59.694,
+              "audioEnd": 61.264
+            },
+            {
+              "text": "He thinks about the car all day.",
+              "audioStart": 62.222,
+              "audioEnd": 64.139
+            },
+            {
+              "text": "He has no interest in anything else.",
+              "audioStart": 65.097,
+              "audioEnd": 67.306
+            },
+            {
+              "text": "Toad is very happy.",
+              "audioStart": 68.264,
+              "audioEnd": 69.569
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The car is very quick.",
+              "audioStart": 70.528,
+              "audioEnd": 72
+            },
+            {
+              "text": "The cart is in the water.",
+              "audioStart": 72.958,
+              "audioEnd": 74.333
+            },
+            {
+              "text": "Water Rat helps his friend.",
+              "audioStart": 75.292,
+              "audioEnd": 77.069
+            },
+            {
+              "text": "They look at the car.",
+              "audioStart": 78.028,
+              "audioEnd": 79.222
+            },
+            {
+              "text": "Toad wants to drive.",
+              "audioStart": 80.181,
+              "audioEnd": 81.5
+            },
+            {
+              "text": "He thinks about the car every day.",
+              "audioStart": 82.458,
+              "audioEnd": 84.486
+            },
+            {
+              "text": "He wants to move fast.",
+              "audioStart": 85.444,
+              "audioEnd": 86.972
+            },
+            {
+              "text": "He looks at the road.",
+              "audioStart": 87.931,
+              "audioEnd": 89.153
+            },
+            {
+              "text": "He feels very good now.",
+              "audioStart": 90.111,
+              "audioEnd": 91.569
+            },
+            {
+              "text": "The friends stand by the water.",
+              "audioStart": 92.528,
+              "audioEnd": 94.208
+            },
+            {
+              "text": "Toad smiles at everyone.",
+              "audioStart": 95.167,
+              "audioEnd": 96.722
+            },
+            {
+              "text": "He wants a new car today.",
+              "audioStart": 97.681,
+              "audioEnd": 99.236
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0145.mp3",
+      "wordTimings": "audio/a1/st-0145.timings.json",
+      "quiz": [
+        {
+          "q": "What does Mr. Toad love now?",
+          "options": [
+            "A gypsy caravan",
+            "A big boat",
+            "A deep water well"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What frightens the horse?",
+          "options": [
+            "A loud motor car",
+            "A little cart",
+            "A friendly dog"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where does the little cart go?",
+          "options": [
+            "Into a deep ditch",
+            "Into the big house",
+            "Into the small room"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "One day, a small friend went to visit his water friend.",
+              "audioStart": 0.106,
+              "audioEnd": 3.439
+            },
+            {
+              "text": "They went to see a very major man named Toad.",
+              "audioStart": 4.403,
+              "audioEnd": 6.944
+            },
+            {
+              "text": "Toad grew quite bored of his old water travel.",
+              "audioStart": 7.903,
+              "audioEnd": 10.542
+            },
+            {
+              "text": "He fell in love with a red color box house.",
+              "audioStart": 11.5,
+              "audioEnd": 14.208
+            },
+            {
+              "text": "This house stood upon several large things.",
+              "audioStart": 15.167,
+              "audioEnd": 17.806
+            },
+            {
+              "text": "This painted house was a fine thing to see today.",
+              "audioStart": 18.764,
+              "audioEnd": 21.486
+            },
+            {
+              "text": "Toad wanted the two friends to travel with him now.",
+              "audioStart": 22.444,
+              "audioEnd": 25.125
+            },
+            {
+              "text": "They set off down a country road with a strong animal.",
+              "audioStart": 26.083,
+              "audioEnd": 28.903
+            },
+            {
+              "text": "The animal pulled the house along the way every day.",
+              "audioStart": 29.861,
+              "audioEnd": 32.681
+            },
+            {
+              "text": "They spent time singing songs in the light.",
+              "audioStart": 33.639,
+              "audioEnd": 36.042
+            },
+            {
+              "text": "All was well until a fast car came down the road.",
+              "audioStart": 37,
+              "audioEnd": 39.875
+            },
+            {
+              "text": "The bad car made a big sound near them.",
+              "audioStart": 40.833,
+              "audioEnd": 43.153
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The poor animal felt bad and tried to run away.",
+              "audioStart": 44.111,
+              "audioEnd": 46.875
+            },
+            {
+              "text": "The fast movement made the house turn over completely.",
+              "audioStart": 47.833,
+              "audioEnd": 50.931
+            },
+            {
+              "text": "The little house fell down into a deep water place.",
+              "audioStart": 51.889,
+              "audioEnd": 54.889
+            },
+            {
+              "text": "Toad sat in the road and felt quite happy.",
+              "audioStart": 55.847,
+              "audioEnd": 58.403
+            },
+            {
+              "text": "He could think of nothing else in the world now.",
+              "audioStart": 59.361,
+              "audioEnd": 61.653
+            },
+            {
+              "text": "He wanted to own a car right then.",
+              "audioStart": 62.611,
+              "audioEnd": 64.528
+            },
+            {
+              "text": "More trouble was going to come to them very soon.",
+              "audioStart": 65.486,
+              "audioEnd": 68.153
+            },
+            {
+              "text": "Toad would face many problems because of this new car idea.",
+              "audioStart": 69.111,
+              "audioEnd": 72.458
+            },
+            {
+              "text": "His friends tried to tell him to be good.",
+              "audioStart": 73.417,
+              "audioEnd": 75.597
+            },
+            {
+              "text": "However, Toad did not want to listen to them at all.",
+              "audioStart": 76.556,
+              "audioEnd": 79.486
+            },
+            {
+              "text": "The friends tried to help him see the fact.",
+              "audioStart": 80.444,
+              "audioEnd": 82.778
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Toad only wanted to sit in his new car.",
+              "audioStart": 83.736,
+              "audioEnd": 86.097
+            },
+            {
+              "text": "He did not care about the trouble he caused.",
+              "audioStart": 87.056,
+              "audioEnd": 89.5
+            },
+            {
+              "text": "His friends felt bad because he did not listen.",
+              "audioStart": 90.458,
+              "audioEnd": 93.153
+            },
+            {
+              "text": "Life went on for the animals in the country.",
+              "audioStart": 94.111,
+              "audioEnd": 96.528
+            },
+            {
+              "text": "Toad dreamed about driving fast on every street.",
+              "audioStart": 97.486,
+              "audioEnd": 100.417
+            },
+            {
+              "text": "He wanted to buy another car very soon.",
+              "audioStart": 101.375,
+              "audioEnd": 103.75
+            },
+            {
+              "text": "His mind was full of cars all the time.",
+              "audioStart": 104.708,
+              "audioEnd": 107.194
+            },
+            {
+              "text": "Nothing else could make him feel so happy.",
+              "audioStart": 108.153,
+              "audioEnd": 110.542
+            },
+            {
+              "text": "The story of Toad and his cars would continue.",
+              "audioStart": 111.5,
+              "audioEnd": 114.028
+            },
+            {
+              "text": "He would always want to drive fast cars.",
+              "audioStart": 114.986,
+              "audioEnd": 117.361
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0145.mp3",
+      "wordTimings": "audio/a2/st-0145.timings.json",
+      "quiz": [
+        {
+          "q": "Who did Mole and Water Rat go to visit?",
+          "options": [
+            "Mr. Toad",
+            "A gypsy",
+            "A horse"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did Mr. Toad fall in love with?",
+          "options": [
+            "A motor-car",
+            "A painted caravan",
+            "A boat"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What made the cart tip into a ditch?",
+          "options": [
+            "A roaring motor-car",
+            "A deep hole",
+            "A tired horse"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "One day, a small animal named Water Rat went to visit Mr. Toad.",
+              "audioStart": 0.1,
+              "audioEnd": 3.775
+            },
+            {
+              "text": "Mr. Toad had grown very bored of boats recently.",
+              "audioStart": 4.638,
+              "audioEnd": 7.362
+            },
+            {
+              "text": "Instead, he had fallen completely in love with a painted vehicle.",
+              "audioStart": 8.225,
+              "audioEnd": 11.85
+            },
+            {
+              "text": "Toad happily invited the two friends to travel with him.",
+              "audioStart": 12.713,
+              "audioEnd": 15.55
+            },
+            {
+              "text": "They set off together with a strong horse and a small vehicle.",
+              "audioStart": 16.413,
+              "audioEnd": 19.488
+            },
+            {
+              "text": "Camping and singing filled their days along the path.",
+              "audioStart": 20.35,
+              "audioEnd": 22.913
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The sun looked down on them during the journey.",
+              "audioStart": 23.775,
+              "audioEnd": 25.812
+            },
+            {
+              "text": "All was happy until a fast machine moved past them very quickly.",
+              "audioStart": 26.675,
+              "audioEnd": 30.2
+            },
+            {
+              "text": "The large vehicle made their poor horse feel bad.",
+              "audioStart": 31.062,
+              "audioEnd": 33.575
+            },
+            {
+              "text": "Then, the movement tipped the little vehicle right into a deep hole.",
+              "audioStart": 34.438,
+              "audioEnd": 37.8
+            },
+            {
+              "text": "Toad sat in the road and felt glad instead of sad.",
+              "audioStart": 38.663,
+              "audioEnd": 41.487
+            },
+            {
+              "text": "From that single moment, he could think of nothing else.",
+              "audioStart": 42.35,
+              "audioEnd": 45.237
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He wanted nothing more than owning a car of his own.",
+              "audioStart": 46.1,
+              "audioEnd": 48.625
+            },
+            {
+              "text": "His friend watched him with care and doubt.",
+              "audioStart": 49.487,
+              "audioEnd": 51.538
+            },
+            {
+              "text": "Toad had a big dream about the machine.",
+              "audioStart": 52.4,
+              "audioEnd": 54.312
+            },
+            {
+              "text": "He would buy one if he could find a way.",
+              "audioStart": 55.175,
+              "audioEnd": 57.075
+            },
+            {
+              "text": "The day was long and full of light.",
+              "audioStart": 57.938,
+              "audioEnd": 59.775
+            },
+            {
+              "text": "They had started their trip early in the morning.",
+              "audioStart": 60.638,
+              "audioEnd": 62.737
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every moment felt special to Toad.",
+              "audioStart": 63.6,
+              "audioEnd": 65.475
+            },
+            {
+              "text": "He did not care about the accident at all.",
+              "audioStart": 66.338,
+              "audioEnd": 68.463
+            },
+            {
+              "text": "His mind was fixed on the new vehicle.",
+              "audioStart": 69.325,
+              "audioEnd": 71.375
+            },
+            {
+              "text": "Water Rat tried to speak to him.",
+              "audioStart": 72.237,
+              "audioEnd": 73.987
+            },
+            {
+              "text": "Toad did not listen to any advice.",
+              "audioStart": 74.85,
+              "audioEnd": 76.763
+            },
+            {
+              "text": "He wanted to drive a car down every street.",
+              "audioStart": 77.625,
+              "audioEnd": 79.9
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The friends walked back home together after the event.",
+              "audioStart": 80.763,
+              "audioEnd": 83.525
+            },
+            {
+              "text": "Toad talked about the car the whole way.",
+              "audioStart": 84.388,
+              "audioEnd": 86.275
+            },
+            {
+              "text": "He could not stop smiling at the thought.",
+              "audioStart": 87.138,
+              "audioEnd": 89.188
+            },
+            {
+              "text": "His heart was full of hope and joy.",
+              "audioStart": 90.05,
+              "audioEnd": 91.838
+            },
+            {
+              "text": "The experience changed him completely.",
+              "audioStart": 92.7,
+              "audioEnd": 94.75
+            },
+            {
+              "text": "Boats were no longer important to him.",
+              "audioStart": 95.612,
+              "audioEnd": 97.487
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Only cars mattered in his mind now.",
+              "audioStart": 98.35,
+              "audioEnd": 100.213
+            },
+            {
+              "text": "He would spend all his money on a car soon.",
+              "audioStart": 101.075,
+              "audioEnd": 103.275
+            },
+            {
+              "text": "That was his only plan for the future.",
+              "audioStart": 104.138,
+              "audioEnd": 106.138
+            },
+            {
+              "text": "Water Rat knew that trouble would come.",
+              "audioStart": 107,
+              "audioEnd": 108.938
+            },
+            {
+              "text": "Toad was too excited to listen to reason.",
+              "audioStart": 109.8,
+              "audioEnd": 111.938
+            },
+            {
+              "text": "They finally reached home as the sun went down.",
+              "audioStart": 112.8,
+              "audioEnd": 115.3
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Night came over the small village.",
+              "audioStart": 116.162,
+              "audioEnd": 117.85
+            },
+            {
+              "text": "Toad went to bed with great dreams.",
+              "audioStart": 118.713,
+              "audioEnd": 120.55
+            },
+            {
+              "text": "He saw cars moving fast in his sleep.",
+              "audioStart": 121.412,
+              "audioEnd": 123.575
+            },
+            {
+              "text": "The next morning, Toad woke up early.",
+              "audioStart": 124.438,
+              "audioEnd": 126.588
+            },
+            {
+              "text": "He had made up his mind about the future.",
+              "audioStart": 127.45,
+              "audioEnd": 129.512
+            },
+            {
+              "text": "He would find a car dealer in town.",
+              "audioStart": 130.375,
+              "audioEnd": 132.238
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Nothing could stop him from his goal.",
+              "audioStart": 133.1,
+              "audioEnd": 134.875
+            },
+            {
+              "text": "His friends hoped he would forget the idea.",
+              "audioStart": 135.738,
+              "audioEnd": 137.838
+            },
+            {
+              "text": "However, Toad never forgot anything he loved.",
+              "audioStart": 138.7,
+              "audioEnd": 141.275
+            },
+            {
+              "text": "His strong feeling grew stronger with each passing day.",
+              "audioStart": 142.137,
+              "audioEnd": 144.85
+            },
+            {
+              "text": "The painted vehicle was forgotten now.",
+              "audioStart": 145.713,
+              "audioEnd": 147.637
+            },
+            {
+              "text": "Only the car mattered to him.",
+              "audioStart": 148.5,
+              "audioEnd": 150.012
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Life would never be the same again.",
+              "audioStart": 150.875,
+              "audioEnd": 152.575
+            },
+            {
+              "text": "He looked forward to his next trip.",
+              "audioStart": 153.438,
+              "audioEnd": 155.325
+            },
+            {
+              "text": "The road called his name in the distance.",
+              "audioStart": 156.188,
+              "audioEnd": 158.137
+            },
+            {
+              "text": "He wanted to see the world from a car.",
+              "audioStart": 159,
+              "audioEnd": 160.912
+            },
+            {
+              "text": "Every day would bring a new chance to drive.",
+              "audioStart": 161.775,
+              "audioEnd": 163.887
+            },
+            {
+              "text": "He knew that he would be happy.",
+              "audioStart": 164.75,
+              "audioEnd": 166.175
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Water Rat stayed at home and shook his head.",
+              "audioStart": 167.037,
+              "audioEnd": 169.3
+            },
+            {
+              "text": "He worried about his silly friend.",
+              "audioStart": 170.162,
+              "audioEnd": 171.838
+            },
+            {
+              "text": "Toad did not care about any warning.",
+              "audioStart": 172.7,
+              "audioEnd": 174.55
+            },
+            {
+              "text": "He packed his bag for the road.",
+              "audioStart": 175.412,
+              "audioEnd": 177.037
+            },
+            {
+              "text": "The bright sun rose high in the sky.",
+              "audioStart": 177.9,
+              "audioEnd": 179.8
+            },
+            {
+              "text": "Toad started his new life with a smile.",
+              "audioStart": 180.662,
+              "audioEnd": 182.637
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0145.mp3",
+      "wordTimings": "audio/b1/st-0145.timings.json",
+      "quiz": [
+        {
+          "q": "What had Mr. Toad recently grown very bored of?",
+          "options": [
+            "Boats",
+            "Cars",
+            "Horses"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What animal pulled the small cart on their trip?",
+          "options": [
+            "A dog",
+            "A strong horse",
+            "A large cat"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What frightened the horse and tipped the cart into a ditch?",
+          "options": [
+            "A loud train",
+            "A roaring motor-car",
+            "A bad storm"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The friend known as Rat and his good friend went to visit a wealthy man.",
+              "audioStart": 0.1,
+              "audioEnd": 3.462
+            },
+            {
+              "text": "This man had a big house near the river.",
+              "audioStart": 4.325,
+              "audioEnd": 6.375
+            },
+            {
+              "text": "His name was Toad.",
+              "audioStart": 7.237,
+              "audioEnd": 8.35
+            },
+            {
+              "text": "Toad had grown very bored of small boats during recent months.",
+              "audioStart": 9.213,
+              "audioEnd": 12.375
+            },
+            {
+              "text": "Instead, he had fallen completely in love with a large, beautiful vehicle.",
+              "audioStart": 13.238,
+              "audioEnd": 17.575
+            },
+            {
+              "text": "This vehicle was painted in many bright colors.",
+              "audioStart": 18.438,
+              "audioEnd": 20.988
+            },
+            {
+              "text": "It was a house on wheels which people usually pull with a strong horse.",
+              "audioStart": 21.85,
+              "audioEnd": 25.275
+            },
+            {
+              "text": "Toad happily persuaded his two friends to take to the open road with him.",
+              "audioStart": 26.137,
+              "audioEnd": 29.762
+            },
+            {
+              "text": "They set off together with a strong horse and a small van.",
+              "audioStart": 30.625,
+              "audioEnd": 33.538
+            },
+            {
+              "text": "Camping and singing filled their days as they traveled along the bright country path.",
+              "audioStart": 34.4,
+              "audioEnd": 38.438
+            },
+            {
+              "text": "All was happy until a fast machine passed them very quickly.",
+              "audioStart": 39.3,
+              "audioEnd": 42.562
+            },
+            {
+              "text": "The loud vehicle frightened their poor horse significantly.",
+              "audioStart": 43.425,
+              "audioEnd": 46.212
+            },
+            {
+              "text": "Then, the sudden movement tipped the little van right into a deep hole beside the path.",
+              "audioStart": 47.075,
+              "audioEnd": 51.675
+            },
+            {
+              "text": "Rather than being upset, Toad sat in the middle of the road completely happy and full of interest.",
+              "audioStart": 52.538,
+              "audioEnd": 57.638
+            },
+            {
+              "text": "From that single moment, he could think of nothing else.",
+              "audioStart": 58.5,
+              "audioEnd": 61.388
+            },
+            {
+              "text": "He wanted nothing more than owning a fast machine of his own.",
+              "audioStart": 62.25,
+              "audioEnd": 65.162
+            },
+            {
+              "text": "He gave a small hint about the trouble still to come in the future.",
+              "audioStart": 66.025,
+              "audioEnd": 69.162
+            },
+            {
+              "text": "The open road was calling him toward new adventures.",
+              "audioStart": 70.025,
+              "audioEnd": 72.688
+            },
+            {
+              "text": "He knew that his life would change forever.",
+              "audioStart": 73.55,
+              "audioEnd": 75.575
+            },
+            {
+              "text": "His friends looked at Toad while he sat on the ground.",
+              "audioStart": 76.438,
+              "audioEnd": 78.963
+            },
+            {
+              "text": "They knew that something strange had happened to him.",
+              "audioStart": 79.825,
+              "audioEnd": 82.062
+            },
+            {
+              "text": "Toad did not care about the broken van at all.",
+              "audioStart": 82.925,
+              "audioEnd": 85.213
+            },
+            {
+              "text": "He only thought about the fast machine that had passed them.",
+              "audioStart": 86.075,
+              "audioEnd": 88.9
+            },
+            {
+              "text": "The beautiful vehicle had gone away down the road.",
+              "audioStart": 89.763,
+              "audioEnd": 92.125
+            },
+            {
+              "text": "Toad stayed in the same place for a long time.",
+              "audioStart": 92.987,
+              "audioEnd": 95.388
+            },
+            {
+              "text": "His friends tried to talk to him, but he did not listen.",
+              "audioStart": 96.25,
+              "audioEnd": 99.2
+            },
+            {
+              "text": "He dreamed about the road and the fast machines.",
+              "audioStart": 100.062,
+              "audioEnd": 102.575
+            },
+            {
+              "text": "Life would never be the same for him again.",
+              "audioStart": 103.438,
+              "audioEnd": 105.438
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They had to leave the broken van behind them.",
+              "audioStart": 106.3,
+              "audioEnd": 108.362
+            },
+            {
+              "text": "Walking back home took many hours.",
+              "audioStart": 109.225,
+              "audioEnd": 111.225
+            },
+            {
+              "text": "During the walk, Toad spoke only about fast machines.",
+              "audioStart": 112.088,
+              "audioEnd": 115.25
+            },
+            {
+              "text": "He decided that he must buy one as soon as possible.",
+              "audioStart": 116.112,
+              "audioEnd": 118.838
+            },
+            {
+              "text": "His friends tried to stop him from having such ideas.",
+              "audioStart": 119.7,
+              "audioEnd": 122.487
+            },
+            {
+              "text": "They knew that fast machines brought danger and trouble.",
+              "audioStart": 123.35,
+              "audioEnd": 126
+            },
+            {
+              "text": "However, Toad would not listen to any advice.",
+              "audioStart": 126.862,
+              "audioEnd": 129.45
+            },
+            {
+              "text": "His mind was completely changed by that single afternoon.",
+              "audioStart": 130.312,
+              "audioEnd": 133.488
+            },
+            {
+              "text": "Days passed, and Toad stayed inside his large house.",
+              "audioStart": 134.35,
+              "audioEnd": 137.363
+            },
+            {
+              "text": "He refused to see any visitors or friends.",
+              "audioStart": 138.225,
+              "audioEnd": 140.625
+            },
+            {
+              "text": "Everyone in the village wondered what had happened to him.",
+              "audioStart": 141.488,
+              "audioEnd": 144.025
+            },
+            {
+              "text": "The truth was simple.",
+              "audioStart": 144.887,
+              "audioEnd": 146.062
+            },
+            {
+              "text": "Toad was planning to buy a fast machine.",
+              "audioStart": 146.925,
+              "audioEnd": 148.988
+            },
+            {
+              "text": "He had already written letters to several people who sold such vehicles.",
+              "audioStart": 149.85,
+              "audioEnd": 153.4
+            },
+            {
+              "text": "Money was not a problem for a wealthy man like him.",
+              "audioStart": 154.262,
+              "audioEnd": 156.85
+            },
+            {
+              "text": "Soon, a large delivery would arrive at his front door.",
+              "audioStart": 157.713,
+              "audioEnd": 160.575
+            },
+            {
+              "text": "The quiet life of the river bank was about to end.",
+              "audioStart": 161.438,
+              "audioEnd": 163.912
+            },
+            {
+              "text": "New adventures waited for them just around the corner.",
+              "audioStart": 164.775,
+              "audioEnd": 167.287
+            },
+            {
+              "text": "Toad would soon discover the power of the open road.",
+              "audioStart": 168.15,
+              "audioEnd": 170.537
+            },
+            {
+              "text": "Nothing could stop him from reaching his new goal.",
+              "audioStart": 171.4,
+              "audioEnd": 173.7
+            },
+            {
+              "text": "The sun shone down upon the green fields while he planned his future.",
+              "audioStart": 174.562,
+              "audioEnd": 177.988
+            },
+            {
+              "text": "He imagined himself driving very fast across the whole country.",
+              "audioStart": 178.85,
+              "audioEnd": 182.287
+            },
+            {
+              "text": "His friends hoped that he might change his mind again.",
+              "audioStart": 183.15,
+              "audioEnd": 185.713
+            },
+            {
+              "text": "Yet they knew that hope was entirely dead.",
+              "audioStart": 186.575,
+              "audioEnd": 188.762
+            },
+            {
+              "text": "Toad wanted only speed and excitement.",
+              "audioStart": 189.625,
+              "audioEnd": 191.7
+            },
+            {
+              "text": "No power on earth could hold him back now.",
+              "audioStart": 192.562,
+              "audioEnd": 194.7
+            },
+            {
+              "text": "The wonderful car would soon become his most prized possession.",
+              "audioStart": 195.562,
+              "audioEnd": 198.637
+            },
+            {
+              "text": "He smiled at the thought of the coming journey.",
+              "audioStart": 199.5,
+              "audioEnd": 201.537
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0145.mp3",
+      "wordTimings": "audio/b2/st-0145.timings.json",
+      "quiz": [
+        {
+          "q": "What vehicle did Mr. Toad fall in love with?",
+          "options": [
+            "A gaily painted gypsy caravan",
+            "A fast motor-car",
+            "A small wooden boat"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to their cart when the motor-car sped past?",
+          "options": [
+            "It broke into many pieces",
+            "It tipped into a ditch",
+            "It drove away by itself"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Toad feel after the cart tipped over?",
+          "options": [
+            "Very angry and upset",
+            "Scared and sad",
+            "Utterly enchanted"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The morning air carried the crisp scent of damp earth and river reeds as the Rat and his companion made their way across the green meadows.",
+              "audioStart": 0.1,
+              "audioEnd": 6.737
+            },
+            {
+              "text": "They were bound for the grand estate of their wealthy acquaintance, a restless individual known to all as Toad.",
+              "audioStart": 7.6,
+              "audioEnd": 13.1
+            },
+            {
+              "text": "Toad possessed a magnificent house situated conveniently near the winding river, yet his temper was notoriously fickle.",
+              "audioStart": 13.963,
+              "audioEnd": 20.312
+            },
+            {
+              "text": "During the preceding months, he had grown profoundly weary of small river craft and ordinary boating excursions.",
+              "audioStart": 21.175,
+              "audioEnd": 27.375
+            },
+            {
+              "text": "A sudden and total infatuation had seized his imagination, displacing every prior hobby with absolute finality.",
+              "audioStart": 28.238,
+              "audioEnd": 34.987
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "This new obsession took the physical form of a remarkably large and colorful vehicle parked near the stables.",
+              "audioStart": 35.85,
+              "audioEnd": 41.625
+            },
+            {
+              "text": "Painted in brilliant hues of yellow and red, it resembled a miniature house mounted securely upon heavy wooden wheels.",
+              "audioStart": 42.487,
+              "audioEnd": 48.587
+            },
+            {
+              "text": "Such conveyances were ordinarily utilized by travelers and were designed to be drawn at a steady pace by a robust draught horse.",
+              "audioStart": 49.45,
+              "audioEnd": 56.513
+            },
+            {
+              "text": "Toad had already acquired the necessary animal along with the gleaming van, leaving only companions missing from his grand design.",
+              "audioStart": 57.375,
+              "audioEnd": 64.138
+            },
+            {
+              "text": "With characteristic enthusiasm, he immediately set about persuading his two visitors to abandon their quiet routines for the open road.",
+              "audioStart": 65,
+              "audioEnd": 72.287
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Not without a degree of quiet apprehension, the friends allowed themselves to be convinced by his energetic rhetoric.",
+              "audioStart": 73.15,
+              "audioEnd": 79.237
+            },
+            {
+              "text": "They set off together on a bright morning, the strong horse stepping out willingly while the painted van creaked behind them.",
+              "audioStart": 80.1,
+              "audioEnd": 86.088
+            },
+            {
+              "text": "Days of unalloyed pleasure followed as they meandered along sunlit country lanes beneath a vast and cloudless sky.",
+              "audioStart": 86.95,
+              "audioEnd": 92.713
+            },
+            {
+              "text": "Cooking over open fires and singing traditional songs filled their afternoons with a rustic charm that felt entirely timeless.",
+              "audioStart": 93.575,
+              "audioEnd": 100.388
+            },
+            {
+              "text": "Had any observer asked, they would have declared this nomadic existence to be the very pinnacle of earthly contentment.",
+              "audioStart": 101.25,
+              "audioEnd": 107.362
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "All such idyllic notions, however, were shattered in less than a single breathless second by the approach of modernity.",
+              "audioStart": 108.225,
+              "audioEnd": 114.475
+            },
+            {
+              "text": "A monstrous machine came roaring around a sharp bend in the lane, moving with terrifying speed and a deafening mechanical howl.",
+              "audioStart": 115.338,
+              "audioEnd": 121.888
+            },
+            {
+              "text": "Before anyone could issue a warning, the magnificent vehicle rushed past in a dense cloud of dust and acrid blue smoke.",
+              "audioStart": 122.75,
+              "audioEnd": 129.338
+            },
+            {
+              "text": "The massive draft horse reared violently in sheer terror, its eyes wide with panic as it threatened to snap the heavy traces.",
+              "audioStart": 130.2,
+              "audioEnd": 136.85
+            },
+            {
+              "text": "The sudden, chaotic movement proved fatal to their peaceful journey, tipping the little van completely onto its side.",
+              "audioStart": 137.713,
+              "audioEnd": 143.863
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "There it lay, ignominiously tilted into a deep drainage ditch beside the road, its cheerful paint scratched and dull.",
+              "audioStart": 144.725,
+              "audioEnd": 150.975
+            },
+            {
+              "text": "Yet it was not the damage to his prized possession that occupied the owner's wandering attention at this critical juncture.",
+              "audioStart": 151.838,
+              "audioEnd": 157.85
+            },
+            {
+              "text": "Far from being upset or dismayed, Toad sat squarely in the middle of the dusty road with a vacant, beatific smile upon his face.",
+              "audioStart": 158.713,
+              "audioEnd": 166
+            },
+            {
+              "text": "He remained utterly transfixed, his entire soul absorbed by the vanishing cloud of dust left behind by the mechanical apparition.",
+              "audioStart": 166.863,
+              "audioEnd": 174.137
+            },
+            {
+              "text": "From that single, defining moment, his capacity for rational thought was entirely captured by the concept of velocity.",
+              "audioStart": 175,
+              "audioEnd": 181.95
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He could think of nothing else, desiring above all else to possess a powerful motor car of his own design and speed.",
+              "audioStart": 182.812,
+              "audioEnd": 188.9
+            },
+            {
+              "text": "As he gazed down the empty lane, he let slip a vague hint concerning the profound trouble that awaited them all in the future.",
+              "audioStart": 189.762,
+              "audioEnd": 196
+            },
+            {
+              "text": "The open road was no longer a pleasant path for camping; it was now a summoning call toward untried and dangerous adventures.",
+              "audioStart": 196.863,
+              "audioEnd": 203.7
+            },
+            {
+              "text": "Deep down, he understood with absolute certainty that his quiet existence had altered irreversibly within the space of a heartbeat.",
+              "audioStart": 204.562,
+              "audioEnd": 211.387
+            },
+            {
+              "text": "His friends stood watching him from the grass, recognizing instantly that some fundamental shift had occurred within his volatile mind.",
+              "audioStart": 212.25,
+              "audioEnd": 219.062
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Toad showed not the slightest concern for the ruined van or the cargo scattered haphazardly across the grassy verge.",
+              "audioStart": 219.925,
+              "audioEnd": 225.775
+            },
+            {
+              "text": "He remained seated in the dirt long after his companions began urging him to stand and inspect the structural damage.",
+              "audioStart": 226.637,
+              "audioEnd": 232.675
+            },
+            {
+              "text": "To all spoken questions and practical suggestions, he offered only silence, lost entirely in feverish daydreams of grease and horsepower.",
+              "audioStart": 233.537,
+              "audioEnd": 241.55
+            },
+            {
+              "text": "Life along the peaceful river bank would never resume its familiar rhythm once this fever had taken root in his spirit.",
+              "audioStart": 242.412,
+              "audioEnd": 249.582
+            },
+            {
+              "text": "With heavy hearts, the two friends realized they had no choice but to abandon the broken vehicle right where it had fallen.",
+              "audioStart": 250.445,
+              "audioEnd": 256.857
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The long walk back to the river bank occupied many hours, punctuated only by Toad's incessant monologue concerning gears and acceleration.",
+              "audioStart": 257.719,
+              "audioEnd": 265.407
+            },
+            {
+              "text": "He had already decided that a proper machine must be purchased before the current week drew to its inevitable close.",
+              "audioStart": 266.269,
+              "audioEnd": 272.082
+            },
+            {
+              "text": "Knowing his impulsive nature intimately, his companions attempted to inject doses of caution and common sense into the conversation.",
+              "audioStart": 272.945,
+              "audioEnd": 280.207
+            },
+            {
+              "text": "They pointed out the obvious hazards, the exorbitant costs, and the general unreliability of such complicated mechanical contrivances.",
+              "audioStart": 281.07,
+              "audioEnd": 288.807
+            },
+            {
+              "text": "Not a single word of their prudent advice registered upon a mind completely sealed by the glamour of sudden speed.",
+              "audioStart": 289.67,
+              "audioEnd": 295.307
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Days bled into one another, and Toad remained strictly confined within the high walls of his expansive country house.",
+              "audioStart": 296.17,
+              "audioEnd": 302.245
+            },
+            {
+              "text": "He steadfastly refused to admit visitors, barring even his closest friends from entering the grand front doors.",
+              "audioStart": 303.107,
+              "audioEnd": 309.17
+            },
+            {
+              "text": "Throughout the neighboring village, speculation ran rampant regarding the mysterious seclusion of the local squire.",
+              "audioStart": 310.032,
+              "audioEnd": 315.87
+            },
+            {
+              "text": "The reality, of course, was far more mundane than the rumors suggested; Toad was simply engrossed in correspondence with vehicle manufacturers.",
+              "audioStart": 316.732,
+              "audioEnd": 324.807
+            },
+            {
+              "text": "He had already dispatched urgent letters backed by substantial deposits of money to various dealers operating in distant cities.",
+              "audioStart": 325.67,
+              "audioEnd": 332.32
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "For a man of his vast financial resources, acquisition was merely a matter of writing the correct figures upon heavy paper.",
+              "audioStart": 333.182,
+              "audioEnd": 340.007
+            },
+            {
+              "text": "Soon enough, a massive delivery would rattle up the gravel driveway, changing the domestic atmosphere of the estate forever.",
+              "audioStart": 340.87,
+              "audioEnd": 347.37
+            },
+            {
+              "text": "The tranquil, predictable days of the river bank were drawing to a close, replaced by the imminent roar of cylinders.",
+              "audioStart": 348.232,
+              "audioEnd": 354.594
+            },
+            {
+              "text": "New and turbulent adventures waited just around the corner, promising excitement that would surely test the patience of everyone involved.",
+              "audioStart": 355.457,
+              "audioEnd": 362.432
+            },
+            {
+              "text": "Nothing on earth possessed the power to halt his headlong rush toward this glittering, mechanical obsession.",
+              "audioStart": 363.295,
+              "audioEnd": 368.695
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Outside his study window, the afternoon sun cast long golden shadows across the impeccably manicured lawns and green fields.",
+              "audioStart": 369.557,
+              "audioEnd": 376.745
+            },
+            {
+              "text": "Inside, Toad smiled broadly as he imagined himself hurtling across the countryside at speeds that would shock the local farmers.",
+              "audioStart": 377.607,
+              "audioEnd": 384.42
+            },
+            {
+              "text": "Though his friends privately hoped that exhaustion might cause him to abandon his reckless scheme, they knew such hope was entirely futile.",
+              "audioStart": 385.282,
+              "audioEnd": 392.269
+            },
+            {
+              "text": "Speed had become his new religion, eclipsing every other interest he had ever cultivated during his comfortable life.",
+              "audioStart": 393.132,
+              "audioEnd": 399.382
+            },
+            {
+              "text": "The magnificent car would soon arrive to become his most cherished possession, setting the stage for chaos upon the highway.",
+              "audioStart": 400.245,
+              "audioEnd": 406.657
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0145.mp3",
+      "wordTimings": "audio/c1/st-0145.timings.json",
+      "quiz": [
+        {
+          "q": "What caused the van to tip into the deep hole beside the path?",
+          "options": [
+            "A fast motor car frightened their horse.",
+            "The heavy rain made the road collapse.",
+            "The draft horse stumbled on a large rock."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did Toad react immediately after the accident happened?",
+          "options": [
+            "He cried about the broken van.",
+            "He sat in the middle of the road smiling and dreaming of fast machines.",
+            "He ran after the car to catch the driver."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did Toad do during the days following their return home?",
+          "options": [
+            "He traveled abroad to study engineering.",
+            "He stayed inside his house writing letters to buy a fast machine.",
+            "He sold his estate and moved to the city."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

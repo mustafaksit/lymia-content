@@ -1,0 +1,1578 @@
+{
+  "id": "st-0251",
+  "title": "Androcles and the Lion",
+  "genre": "classic",
+  "summary": "A poor man named Androcles helps a wounded lion and they become friends.",
+  "coverScene": "A kind man carefully pulls a sharp thorn from a large, resting lion's foot in a quiet green forest.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, Androcles lives far away.",
+              "audioStart": 0.106,
+              "audioEnd": 2.703
+            },
+            {
+              "text": "His life is very hard.",
+              "audioStart": 3.667,
+              "audioEnd": 5.167
+            },
+            {
+              "text": "He runs from his owner.",
+              "audioStart": 6.125,
+              "audioEnd": 7.5
+            },
+            {
+              "text": "He walks to a little forest.",
+              "audioStart": 8.458,
+              "audioEnd": 10.236
+            },
+            {
+              "text": "He does not have any money.",
+              "audioStart": 11.194,
+              "audioEnd": 12.764
+            },
+            {
+              "text": "He is very bad and little.",
+              "audioStart": 13.722,
+              "audioEnd": 15.333
+            },
+            {
+              "text": "He feels low every day.",
+              "audioStart": 16.292,
+              "audioEnd": 17.847
+            },
+            {
+              "text": "He does not smile now.",
+              "audioStart": 18.806,
+              "audioEnd": 20.236
+            },
+            {
+              "text": "He walks in the place.",
+              "audioStart": 21.194,
+              "audioEnd": 22.681
+            },
+            {
+              "text": "He thinks about his past.",
+              "audioStart": 23.639,
+              "audioEnd": 25.292
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He hears a big sound.",
+              "audioStart": 26.25,
+              "audioEnd": 27.667
+            },
+            {
+              "text": "He hears something speak.",
+              "audioStart": 28.625,
+              "audioEnd": 30.097
+            },
+            {
+              "text": "He sees a large creature.",
+              "audioStart": 31.056,
+              "audioEnd": 32.653
+            },
+            {
+              "text": "A high point is in its foot.",
+              "audioStart": 33.611,
+              "audioEnd": 35.319
+            },
+            {
+              "text": "The creature asks for help.",
+              "audioStart": 36.278,
+              "audioEnd": 37.889
+            },
+            {
+              "text": "Androcles is a kind man.",
+              "audioStart": 38.847,
+              "audioEnd": 40.528
+            },
+            {
+              "text": "তিনি takes the foot.",
+              "audioStart": 41.486,
+              "audioEnd": 42.514
+            },
+            {
+              "text": "He gets the high point out.",
+              "audioStart": 43.472,
+              "audioEnd": 45.069
+            },
+            {
+              "text": "The creature feels much better.",
+              "audioStart": 46.028,
+              "audioEnd": 47.847
+            },
+            {
+              "text": "They stay together now.",
+              "audioStart": 48.806,
+              "audioEnd": 50.181
+            },
+            {
+              "text": "The creature brings food every day.",
+              "audioStart": 51.139,
+              "audioEnd": 53.25
+            },
+            {
+              "text": "They live in a little room.",
+              "audioStart": 54.208,
+              "audioEnd": 55.639
+            },
+            {
+              "text": "They are good friends.",
+              "audioStart": 56.597,
+              "audioEnd": 57.847
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many people find Androcles.",
+              "audioStart": 58.806,
+              "audioEnd": 60.75
+            },
+            {
+              "text": "They take him to the city.",
+              "audioStart": 61.708,
+              "audioEnd": 63.125
+            },
+            {
+              "text": "They put him in an open area.",
+              "audioStart": 64.083,
+              "audioEnd": 65.75
+            },
+            {
+              "text": "A big creature runs out.",
+              "audioStart": 66.708,
+              "audioEnd": 68.347
+            },
+            {
+              "text": "The people watch the man.",
+              "audioStart": 69.306,
+              "audioEnd": 70.778
+            },
+            {
+              "text": "The large creature stops.",
+              "audioStart": 71.736,
+              "audioEnd": 73.375
+            },
+            {
+              "text": "It looks at the man.",
+              "audioStart": 74.333,
+              "audioEnd": 75.542
+            },
+            {
+              "text": "It knows the man well.",
+              "audioStart": 76.5,
+              "audioEnd": 77.792
+            },
+            {
+              "text": "It looks at Androcles like a friend.",
+              "audioStart": 78.75,
+              "audioEnd": 80.875
+            },
+            {
+              "text": "The people are very different.",
+              "audioStart": 81.833,
+              "audioEnd": 83.5
+            },
+            {
+              "text": "The leader hears this story.",
+              "audioStart": 84.458,
+              "audioEnd": 85.986
+            },
+            {
+              "text": "Androcles tells him everything.",
+              "audioStart": 86.944,
+              "audioEnd": 88.861
+            },
+            {
+              "text": "The leader gives him a free life.",
+              "audioStart": 89.819,
+              "audioEnd": 91.667
+            },
+            {
+              "text": "The creature goes back home.",
+              "audioStart": 92.625,
+              "audioEnd": 94.222
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0251.mp3",
+      "wordTimings": "audio/a1/st-0251.timings.json",
+      "quiz": [
+        {
+          "q": "Why does Androcles run away?",
+          "options": [
+            "His master treats him badly",
+            "He wants to live in the forest",
+            "He likes wild animals"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is wrong with the lion?",
+          "options": [
+            "A thorn is in its foot",
+            "It is very hungry",
+            "It cannot see anything"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the ruler do at the end?",
+          "options": [
+            "Gives Androcles his freedom",
+            "Puts Androcles in prison",
+            "Sends the lion away"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, a poor man named Androcles lived far away.",
+              "audioStart": 0.106,
+              "audioEnd": 3.703
+            },
+            {
+              "text": "His life was very hard.",
+              "audioStart": 4.667,
+              "audioEnd": 6.194
+            },
+            {
+              "text": "He ran away from his bad owner.",
+              "audioStart": 7.153,
+              "audioEnd": 8.958
+            },
+            {
+              "text": "He walked for many days to a big forest.",
+              "audioStart": 9.917,
+              "audioEnd": 12.5
+            },
+            {
+              "text": "He walked through the green trees.",
+              "audioStart": 13.458,
+              "audioEnd": 15.361
+            },
+            {
+              "text": "He heard a large animal making a sound.",
+              "audioStart": 16.319,
+              "audioEnd": 18.597
+            },
+            {
+              "text": "The sound was about trouble.",
+              "audioStart": 19.556,
+              "audioEnd": 21.167
+            },
+            {
+              "text": "He saw a huge animal on the ground.",
+              "audioStart": 22.125,
+              "audioEnd": 24.236
+            },
+            {
+              "text": "The poor person could not stand up.",
+              "audioStart": 25.194,
+              "audioEnd": 27.264
+            },
+            {
+              "text": "A big part was inside its foot.",
+              "audioStart": 28.222,
+              "audioEnd": 30.278
+            },
+            {
+              "text": "The animal looked at him and made a nice sound.",
+              "audioStart": 31.236,
+              "audioEnd": 33.736
+            },
+            {
+              "text": "Androcles was a good person.",
+              "audioStart": 34.694,
+              "audioEnd": 36.5
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He walked toward the big animal.",
+              "audioStart": 37.458,
+              "audioEnd": 39.222
+            },
+            {
+              "text": "He took the foot in his hands.",
+              "audioStart": 40.181,
+              "audioEnd": 41.917
+            },
+            {
+              "text": "He pulled the part out.",
+              "audioStart": 42.875,
+              "audioEnd": 44.194
+            },
+            {
+              "text": "The animal felt much better.",
+              "audioStart": 45.153,
+              "audioEnd": 46.875
+            },
+            {
+              "text": "It gave a happy sound.",
+              "audioStart": 47.833,
+              "audioEnd": 49.25
+            },
+            {
+              "text": "The animal stayed with his new human friend.",
+              "audioStart": 50.208,
+              "audioEnd": 52.681
+            },
+            {
+              "text": "The animal found food every day.",
+              "audioStart": 53.639,
+              "audioEnd": 55.736
+            },
+            {
+              "text": "It brought food for Androcles to eat.",
+              "audioStart": 56.694,
+              "audioEnd": 58.972
+            },
+            {
+              "text": "They lived together in peace for several months.",
+              "audioStart": 59.931,
+              "audioEnd": 62.611
+            },
+            {
+              "text": "Some men found Androcles.",
+              "audioStart": 63.569,
+              "audioEnd": 65.347
+            },
+            {
+              "text": "They took him back to the city.",
+              "audioStart": 66.306,
+              "audioEnd": 67.931
+            },
+            {
+              "text": "He was a person in a small room.",
+              "audioStart": 68.889,
+              "audioEnd": 70.833
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Men who ran away faced bad action.",
+              "audioStart": 71.792,
+              "audioEnd": 74.153
+            },
+            {
+              "text": "They put Androcles into a large open area.",
+              "audioStart": 75.111,
+              "audioEnd": 77.694
+            },
+            {
+              "text": "A big animal was there too.",
+              "audioStart": 78.653,
+              "audioEnd": 80.319
+            },
+            {
+              "text": "The group watched from their seats.",
+              "audioStart": 81.278,
+              "audioEnd": 83.153
+            },
+            {
+              "text": "They expected the poor man to die quickly.",
+              "audioStart": 84.111,
+              "audioEnd": 86.569
+            },
+            {
+              "text": "The animal ran out toward the person.",
+              "audioStart": 87.528,
+              "audioEnd": 89.542
+            },
+            {
+              "text": "It made a strong sound.",
+              "audioStart": 90.5,
+              "audioEnd": 91.958
+            },
+            {
+              "text": "The animal came close and stopped.",
+              "audioStart": 92.917,
+              "audioEnd": 94.972
+            },
+            {
+              "text": "It knew the man.",
+              "audioStart": 95.931,
+              "audioEnd": 96.944
+            },
+            {
+              "text": "The animal began to touch Androcles like a dog.",
+              "audioStart": 97.903,
+              "audioEnd": 100.736
+            },
+            {
+              "text": "Everyone in the group was very surprised.",
+              "audioStart": 101.694,
+              "audioEnd": 104.208
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The leader of the city heard about this event.",
+              "audioStart": 105.167,
+              "audioEnd": 107.528
+            },
+            {
+              "text": "He called the person to him.",
+              "audioStart": 108.486,
+              "audioEnd": 110.069
+            },
+            {
+              "text": "Androcles told the story about the foot.",
+              "audioStart": 111.028,
+              "audioEnd": 113.278
+            },
+            {
+              "text": "The leader was very happy.",
+              "audioStart": 114.236,
+              "audioEnd": 115.778
+            },
+            {
+              "text": "He gave the man his free life.",
+              "audioStart": 116.736,
+              "audioEnd": 118.611
+            },
+            {
+              "text": "The great animal went back to the forest.",
+              "audioStart": 119.569,
+              "audioEnd": 121.847
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0251.mp3",
+      "wordTimings": "audio/a2/st-0251.timings.json",
+      "quiz": [
+        {
+          "q": "Why did Androcles run away from his master?",
+          "options": [
+            "Because he was treated badly.",
+            "Because he wanted to live in the city.",
+            "Because he lost his money."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What was wrong with the lion when Androcles first saw it?",
+          "options": [
+            "It was hungry.",
+            "A big thorn was in its foot.",
+            "It had a broken arm."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the ruler do after seeing the lion and Androcles together?",
+          "options": [
+            "He put Androcles back in prison.",
+            "He gave the man his freedom.",
+            "He took the lion home."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, a poor man named Androcles lived in a country far away.",
+              "audioStart": 0.1,
+              "audioEnd": 3.875
+            },
+            {
+              "text": "His life was hard, and he ran away from his master.",
+              "audioStart": 4.737,
+              "audioEnd": 7.662
+            },
+            {
+              "text": "He walked for many days until he reached a wild, empty forest.",
+              "audioStart": 8.525,
+              "audioEnd": 12.062
+            },
+            {
+              "text": "While he walked through the trees, he heard an animal crying in pain.",
+              "audioStart": 12.925,
+              "audioEnd": 16.337
+            },
+            {
+              "text": "He saw a huge cat resting on the ground.",
+              "audioStart": 17.2,
+              "audioEnd": 19.462
+            },
+            {
+              "text": "A big plant part was stuck deep inside its foot, so it could not stand up.",
+              "audioStart": 20.325,
+              "audioEnd": 24.4
+            },
+            {
+              "text": "The animal looked at him and made a soft sound for help.",
+              "audioStart": 25.262,
+              "audioEnd": 28.038
+            },
+            {
+              "text": "Androcles was good, so he slowly walked toward the big animal.",
+              "audioStart": 28.9,
+              "audioEnd": 32.337
+            },
+            {
+              "text": "He took the heavy foot in his hands and pulled the sharp plant part out.",
+              "audioStart": 33.2,
+              "audioEnd": 36.587
+            },
+            {
+              "text": "The animal felt much better immediately and made a happy sound.",
+              "audioStart": 37.45,
+              "audioEnd": 40.725
+            },
+            {
+              "text": "From that day, the animal stayed with his new human friend.",
+              "audioStart": 41.587,
+              "audioEnd": 44.75
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The animal searched food every day and brought meat for Androcles.",
+              "audioStart": 45.612,
+              "audioEnd": 49.125
+            },
+            {
+              "text": "They lived together in peace for several months in the deep forest.",
+              "audioStart": 49.987,
+              "audioEnd": 53.425
+            },
+            {
+              "text": "However, some soldiers found Androcles and took him back to the city as a prisoner.",
+              "audioStart": 54.288,
+              "audioEnd": 58.675
+            },
+            {
+              "text": "In those days, men who ran away faced bad action in public.",
+              "audioStart": 59.538,
+              "audioEnd": 63.138
+            },
+            {
+              "text": "They put Androcles into a large open area with a wild, low energy animal.",
+              "audioStart": 64.0,
+              "audioEnd": 68.188
+            },
+            {
+              "text": "The crowd watched from their seats, expecting the poor man to die quickly.",
+              "audioStart": 69.05,
+              "audioEnd": 72.9
+            },
+            {
+              "text": "The strong animal ran out toward the prisoner with a high sound.",
+              "audioStart": 73.763,
+              "audioEnd": 76.662
+            },
+            {
+              "text": "When the animal came close, it stopped and recognized the man.",
+              "audioStart": 77.525,
+              "audioEnd": 80.787
+            },
+            {
+              "text": "Instead of attacking, the animal began to touch Androcles like a friendly dog.",
+              "audioStart": 81.65,
+              "audioEnd": 85.9
+            },
+            {
+              "text": "Everyone in the audience was very surprised.",
+              "audioStart": 86.763,
+              "audioEnd": 89.088
+            },
+            {
+              "text": "He knew that if he helped the animal, it would remember his support that day.",
+              "audioStart": 89.95,
+              "audioEnd": 93.475
+            },
+            {
+              "text": "He has lived through many tests since he left his master.",
+              "audioStart": 94.338,
+              "audioEnd": 97.362
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The ruler of the city heard about this and called the prisoner.",
+              "audioStart": 98.225,
+              "audioEnd": 101.062
+            },
+            {
+              "text": "Androcles told the story about the plant part in the forest.",
+              "audioStart": 101.925,
+              "audioEnd": 104.938
+            },
+            {
+              "text": "The leader was so happy that he gave the man his freedom.",
+              "audioStart": 105.8,
+              "audioEnd": 108.513
+            },
+            {
+              "text": "He also let the great animal go back to the wild.",
+              "audioStart": 109.375,
+              "audioEnd": 111.912
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0251.mp3",
+      "wordTimings": "audio/b1/st-0251.timings.json",
+      "quiz": [
+        {
+          "q": "Why did Androcles run away from his master?",
+          "options": [
+            "Because he was treated badly",
+            "Because he wanted to visit the city",
+            "Because he had too much money"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What was wrong with the lion when Androcles first found it?",
+          "options": [
+            "It was very hungry and angry",
+            "A big thorn was stuck in its foot",
+            "It was running away from soldiers"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the ruler do after Androcles told his story?",
+          "options": [
+            "He put Androcles back in prison",
+            "He gave the man his freedom",
+            "He made the lion live in the city"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, a poor man named Androcles lived in a country far away.",
+              "audioStart": 0.1,
+              "audioEnd": 3.875
+            },
+            {
+              "text": "His life was very hard, and he had to run away from his master.",
+              "audioStart": 4.737,
+              "audioEnd": 8.238
+            },
+            {
+              "text": "He was treated badly by his master.",
+              "audioStart": 9.1,
+              "audioEnd": 11.137
+            },
+            {
+              "text": "He walked for many days.",
+              "audioStart": 12,
+              "audioEnd": 13.463
+            },
+            {
+              "text": "Finally, he reached a wild, empty forest.",
+              "audioStart": 14.325,
+              "audioEnd": 17.188
+            },
+            {
+              "text": "No other people lived in this forest.",
+              "audioStart": 18.05,
+              "audioEnd": 20.062
+            },
+            {
+              "text": "While he was walking through the green trees, he suddenly heard a large animal crying in pain.",
+              "audioStart": 20.925,
+              "audioEnd": 25.625
+            },
+            {
+              "text": "Androcles was afraid at first.",
+              "audioStart": 26.488,
+              "audioEnd": 28.275
+            },
+            {
+              "text": "Then he saw a huge animal on the ground.",
+              "audioStart": 29.137,
+              "audioEnd": 31.2
+            },
+            {
+              "text": "The poor creature could not stand up.",
+              "audioStart": 32.062,
+              "audioEnd": 33.913
+            },
+            {
+              "text": "A big point was stuck deep inside its foot.",
+              "audioStart": 34.775,
+              "audioEnd": 37.212
+            },
+            {
+              "text": "The animal looked at the man and made a soft sound.",
+              "audioStart": 38.075,
+              "audioEnd": 40.638
+            },
+            {
+              "text": "It was as if the animal was asking for help.",
+              "audioStart": 41.5,
+              "audioEnd": 43.7
+            },
+            {
+              "text": "Androcles stayed near the place because he wanted to understand the situation.",
+              "audioStart": 44.562,
+              "audioEnd": 48.375
+            },
+            {
+              "text": "He knew that the creature needed care.",
+              "audioStart": 49.237,
+              "audioEnd": 51.05
+            },
+            {
+              "text": "He looked around the forest to find some water.",
+              "audioStart": 51.913,
+              "audioEnd": 54.3
+            },
+            {
+              "text": "He brought water to the animal.",
+              "audioStart": 55.163,
+              "audioEnd": 56.7
+            },
+            {
+              "text": "The animal drank the water and felt slightly better.",
+              "audioStart": 57.562,
+              "audioEnd": 60.138
+            },
+            {
+              "text": "Androcles hoped that he could do more.",
+              "audioStart": 61,
+              "audioEnd": 62.9
+            },
+            {
+              "text": "The great giant watched him with large eyes.",
+              "audioStart": 63.763,
+              "audioEnd": 66.088
+            },
+            {
+              "text": "There was no doubt that the animal felt great pain.",
+              "audioStart": 66.95,
+              "audioEnd": 69.463
+            },
+            {
+              "text": "Androcles decided to approach the giant very slowly.",
+              "audioStart": 70.325,
+              "audioEnd": 73.225
+            },
+            {
+              "text": "He did not want to cause any trouble.",
+              "audioStart": 74.088,
+              "audioEnd": 75.875
+            },
+            {
+              "text": "He spoke in a soft voice to calm the creature down.",
+              "audioStart": 76.737,
+              "audioEnd": 79.375
+            },
+            {
+              "text": "The giant listened carefully to the human.",
+              "audioStart": 80.237,
+              "audioEnd": 82.287
+            },
+            {
+              "text": "It seemed that the animal understood the kind words.",
+              "audioStart": 83.15,
+              "audioEnd": 85.662
+            },
+            {
+              "text": "Androcles felt a deep sense of quiet.",
+              "audioStart": 86.525,
+              "audioEnd": 88.713
+            },
+            {
+              "text": "He knew that he must help his new friend.",
+              "audioStart": 89.575,
+              "audioEnd": 91.537
+            },
+            {
+              "text": "The forest was quiet around them.",
+              "audioStart": 92.4,
+              "audioEnd": 94.138
+            },
+            {
+              "text": "Only the wind moved through the leaves.",
+              "audioStart": 95,
+              "audioEnd": 96.85
+            },
+            {
+              "text": "Androcles prepared himself for the task ahead.",
+              "audioStart": 97.713,
+              "audioEnd": 100.15
+            },
+            {
+              "text": "He knew it might take some time.",
+              "audioStart": 101.013,
+              "audioEnd": 102.638
+            },
+            {
+              "text": "He was ready to spend hours if necessary.",
+              "audioStart": 103.5,
+              "audioEnd": 105.775
+            },
+            {
+              "text": "The animal made another soft sound.",
+              "audioStart": 106.638,
+              "audioEnd": 108.537
+            },
+            {
+              "text": "It was a clear sign of trust.",
+              "audioStart": 109.4,
+              "audioEnd": 111.025
+            },
+            {
+              "text": "Androcles smiled at the giant.",
+              "audioStart": 111.888,
+              "audioEnd": 113.537
+            },
+            {
+              "text": "He took a deep breath before he began.",
+              "audioStart": 114.4,
+              "audioEnd": 116.475
+            },
+            {
+              "text": "Every single moment mattered now.",
+              "audioStart": 117.338,
+              "audioEnd": 119.05
+            },
+            {
+              "text": "He wanted everything to go well.",
+              "audioStart": 119.912,
+              "audioEnd": 121.638
+            },
+            {
+              "text": "The giant creature lay still on the grass.",
+              "audioStart": 122.5,
+              "audioEnd": 124.638
+            },
+            {
+              "text": "Androcles sat beside the huge foot.",
+              "audioStart": 125.5,
+              "audioEnd": 127.525
+            },
+            {
+              "text": "He placed his hands on the thick skin.",
+              "audioStart": 128.387,
+              "audioEnd": 130.4
+            },
+            {
+              "text": "The animal did not move at all.",
+              "audioStart": 131.262,
+              "audioEnd": 132.838
+            },
+            {
+              "text": "It trusted the man completely.",
+              "audioStart": 133.7,
+              "audioEnd": 135.387
+            },
+            {
+              "text": "Androcles pulled the sharp point with care.",
+              "audioStart": 136.25,
+              "audioEnd": 138.4
+            },
+            {
+              "text": "The giant gave a loud cry of pain.",
+              "audioStart": 139.262,
+              "audioEnd": 141.25
+            },
+            {
+              "text": "However, the point came out of the foot at last.",
+              "audioStart": 142.113,
+              "audioEnd": 144.675
+            },
+            {
+              "text": "The animal felt much better immediately.",
+              "audioStart": 145.537,
+              "audioEnd": 147.7
+            },
+            {
+              "text": "It gave a happy little sound.",
+              "audioStart": 148.562,
+              "audioEnd": 150.088
+            },
+            {
+              "text": "From that day, the creature remembered the good act and stayed with his new human friend.",
+              "audioStart": 150.95,
+              "audioEnd": 155.325
+            },
+            {
+              "text": "The animal hunted food every day.",
+              "audioStart": 156.188,
+              "audioEnd": 158.188
+            },
+            {
+              "text": "It brought meat for Androcles to eat.",
+              "audioStart": 159.05,
+              "audioEnd": 160.963
+            },
+            {
+              "text": "They lived together in quiet for several months.",
+              "audioStart": 161.825,
+              "audioEnd": 164.3
+            },
+            {
+              "text": "They shared a quiet life in the deep forest.",
+              "audioStart": 165.162,
+              "audioEnd": 167.412
+            },
+            {
+              "text": "They spent many hours together under the green trees.",
+              "audioStart": 168.275,
+              "audioEnd": 171.15
+            },
+            {
+              "text": "The giant protected Androcles from other wild creatures.",
+              "audioStart": 172.012,
+              "audioEnd": 175.025
+            },
+            {
+              "text": "Androcles shared his food and water with the giant.",
+              "audioStart": 175.887,
+              "audioEnd": 178.4
+            },
+            {
+              "text": "They became very close friends over time.",
+              "audioStart": 179.262,
+              "audioEnd": 181.5
+            },
+            {
+              "text": "The man taught the animal many things about living in the woods.",
+              "audioStart": 182.363,
+              "audioEnd": 185.475
+            },
+            {
+              "text": "The animal learned how to find the best water.",
+              "audioStart": 186.338,
+              "audioEnd": 188.5
+            },
+            {
+              "text": "They walked together every morning.",
+              "audioStart": 189.363,
+              "audioEnd": 191.15
+            },
+            {
+              "text": "The sun shone brightly through the branches.",
+              "audioStart": 192.012,
+              "audioEnd": 194.15
+            },
+            {
+              "text": "Life in the forest was simple and good.",
+              "audioStart": 195.012,
+              "audioEnd": 197.025
+            },
+            {
+              "text": "They had no worries during those months.",
+              "audioStart": 197.887,
+              "audioEnd": 199.775
+            },
+            {
+              "text": "The animal was always happy to see Androcles.",
+              "audioStart": 200.637,
+              "audioEnd": 203.137
+            },
+            {
+              "text": "Androcles loved his animal friend dearly.",
+              "audioStart": 204,
+              "audioEnd": 206.287
+            },
+            {
+              "text": "They trusted each other without any doubt.",
+              "audioStart": 207.15,
+              "audioEnd": 209.188
+            },
+            {
+              "text": "The forest felt like a real home to them.",
+              "audioStart": 210.05,
+              "audioEnd": 212.2
+            },
+            {
+              "text": "Nothing could disturb their quiet days.",
+              "audioStart": 213.062,
+              "audioEnd": 215.05
+            },
+            {
+              "text": "They were safe among the tall trees.",
+              "audioStart": 215.912,
+              "audioEnd": 217.775
+            },
+            {
+              "text": "However, some soldiers eventually found Androcles.",
+              "audioStart": 218.637,
+              "audioEnd": 221.637
+            },
+            {
+              "text": "They took him back to the city as a prisoner.",
+              "audioStart": 222.5,
+              "audioEnd": 224.588
+            },
+            {
+              "text": "The journey back to the city was long and hard.",
+              "audioStart": 225.45,
+              "audioEnd": 227.688
+            },
+            {
+              "text": "Androcles felt very sad about leaving the forest.",
+              "audioStart": 228.55,
+              "audioEnd": 231.262
+            },
+            {
+              "text": "He missed his animal friend every single moment.",
+              "audioStart": 232.125,
+              "audioEnd": 234.688
+            },
+            {
+              "text": "The soldiers brought him to a dark room.",
+              "audioStart": 235.55,
+              "audioEnd": 237.488
+            },
+            {
+              "text": "He had to stay there until the final day.",
+              "audioStart": 238.35,
+              "audioEnd": 240.35
+            },
+            {
+              "text": "In those days, men who ran away were often brought to a public place.",
+              "audioStart": 241.213,
+              "audioEnd": 245.137
+            },
+            {
+              "text": "They were treated very badly there.",
+              "audioStart": 246,
+              "audioEnd": 247.7
+            },
+            {
+              "text": "They put Androcles into a large open area.",
+              "audioStart": 248.562,
+              "audioEnd": 250.887
+            },
+            {
+              "text": "There was a wild animal with him.",
+              "audioStart": 251.75,
+              "audioEnd": 253.425
+            },
+            {
+              "text": "This animal had not eaten for days.",
+              "audioStart": 254.287,
+              "audioEnd": 256.212
+            },
+            {
+              "text": "The crowd watched from their seats.",
+              "audioStart": 257.075,
+              "audioEnd": 258.825
+            },
+            {
+              "text": "They expected the poor man to die very quickly.",
+              "audioStart": 259.688,
+              "audioEnd": 262.25
+            },
+            {
+              "text": "The dangerous animal ran out toward the prisoner with a loud, frightening sound.",
+              "audioStart": 263.113,
+              "audioEnd": 267.1
+            },
+            {
+              "text": "When the animal came close, it suddenly stopped.",
+              "audioStart": 267.962,
+              "audioEnd": 270.637
+            },
+            {
+              "text": "It recognized the man.",
+              "audioStart": 271.5,
+              "audioEnd": 272.775
+            },
+            {
+              "text": "Instead of attacking him, the animal began to touch Androcles with its head.",
+              "audioStart": 273.637,
+              "audioEnd": 277.613
+            },
+            {
+              "text": "It was like a friendly dog.",
+              "audioStart": 278.475,
+              "audioEnd": 279.938
+            },
+            {
+              "text": "Everyone in the audience was very surprised to see such a strange sight.",
+              "audioStart": 280.8,
+              "audioEnd": 284.45
+            },
+            {
+              "text": "The people in the crowd whispered to each other.",
+              "audioStart": 285.312,
+              "audioEnd": 288.755
+            },
+            {
+              "text": "They could not believe what they were seeing.",
+              "audioStart": 289.617,
+              "audioEnd": 291.417
+            },
+            {
+              "text": "The ruler of the city stood up from his seat.",
+              "audioStart": 292.279,
+              "audioEnd": 294.417
+            },
+            {
+              "text": "He watched the strange event with great interest.",
+              "audioStart": 295.279,
+              "audioEnd": 297.68
+            },
+            {
+              "text": "He wanted to know how this was possible.",
+              "audioStart": 298.542,
+              "audioEnd": 300.517
+            },
+            {
+              "text": "The ruler of the city heard about this wonderful event.",
+              "audioStart": 301.38,
+              "audioEnd": 303.942
+            },
+            {
+              "text": "He called the prisoner to him.",
+              "audioStart": 304.805,
+              "audioEnd": 306.229
+            },
+            {
+              "text": "Androcles told the whole story about the point.",
+              "audioStart": 307.092,
+              "audioEnd": 309.442
+            },
+            {
+              "text": "He explained how they had lived together in the forest.",
+              "audioStart": 310.305,
+              "audioEnd": 313.005
+            },
+            {
+              "text": "The leader was so happy that he gave the man his freedom.",
+              "audioStart": 313.867,
+              "audioEnd": 316.579
+            },
+            {
+              "text": "He also let the great creature go back to the wild.",
+              "audioStart": 317.442,
+              "audioEnd": 320.017
+            },
+            {
+              "text": "Androcles thanked the ruler for his great kindness.",
+              "audioStart": 320.88,
+              "audioEnd": 323.542
+            },
+            {
+              "text": "The crowd shouted for the man and the giant.",
+              "audioStart": 324.404,
+              "audioEnd": 326.579
+            },
+            {
+              "text": "Everyone was happy that the story ended well.",
+              "audioStart": 327.442,
+              "audioEnd": 329.692
+            },
+            {
+              "text": "Androcles walked out of the city as a free person.",
+              "audioStart": 330.555,
+              "audioEnd": 333.204
+            },
+            {
+              "text": "The giant animal returned to the green forest.",
+              "audioStart": 334.067,
+              "audioEnd": 336.454
+            },
+            {
+              "text": "They never forgot the time they spent together.",
+              "audioStart": 337.317,
+              "audioEnd": 339.579
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0251.mp3",
+      "wordTimings": "audio/b2/st-0251.timings.json",
+      "quiz": [
+        {
+          "q": "Why did Androcles have to run away into the forest?",
+          "options": [
+            "Because he was treated badly by his master",
+            "Because he wanted to find a hidden treasure",
+            "Because he lost his house in a fire"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What was wrong with the lion when Androcles first found it?",
+          "options": [
+            "It was very hungry after days of running",
+            "A big thorn was stuck deep inside its foot",
+            "It had a bad injury on its head"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the ruler of the city do after hearing the story?",
+          "options": [
+            "He gave the man his freedom and freed the lion",
+            "He sent Androcles back to prison forever",
+            "He took the lion to live in his own house"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In a remote province far from the marble and noise of the empire, a wretched man named Androcles endured a life of perpetual shadow.",
+              "audioStart": 0.1,
+              "audioEnd": 6.888
+            },
+            {
+              "text": "Bound to a cruel master whose temper was as volatile as a summer storm, Androcles found his existence reduced to endless toil and silent suffering.",
+              "audioStart": 7.75,
+              "audioEnd": 15.688
+            },
+            {
+              "text": "Driven by a desperate longing for dignity, he finally resolved to flee the heavy chains of his servitude under the cover of a moonless night.",
+              "audioStart": 16.55,
+              "audioEnd": 23.587
+            },
+            {
+              "text": "For many days he wandered blindly through unfamiliar terrain, his spirit bruised and his body weary from relentless flight.",
+              "audioStart": 24.45,
+              "audioEnd": 30.938
+            },
+            {
+              "text": "At last, seeking refuge from the relentless sun, he crossed the boundary into a wild, untouched forest where no human footstep had ever fallen.",
+              "audioStart": 31.8,
+              "audioEnd": 39.987
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "While navigating the dense thicket of emerald leaves, he was startled by a low, agonizing moan that vibrated through the quiet air.",
+              "audioStart": 40.85,
+              "audioEnd": 47.763
+            },
+            {
+              "text": "Androcles froze, his heart hammering against his ribs as fear whispered warnings of predatory beasts.",
+              "audioStart": 48.625,
+              "audioEnd": 54.325
+            },
+            {
+              "text": "Cautiously peering past a curtain of ferns, he discovered a colossal lion collapsed upon the moss, its massive frame trembling with distress.",
+              "audioStart": 55.188,
+              "audioEnd": 63.038
+            },
+            {
+              "text": "The proud creature was entirely unable to rise, its breath coming in ragged gasps of pure torment.",
+              "audioStart": 63.9,
+              "audioEnd": 69.537
+            },
+            {
+              "text": "Upon closer inspection, Androcles saw that a massive wooden thorn was deeply embedded within the thick pad of the animal's paw.",
+              "audioStart": 70.4,
+              "audioEnd": 77.037
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Instead of fleeing the potential danger, the runaway felt a profound surge of empathy eclipse his initial terror.",
+              "audioStart": 77.9,
+              "audioEnd": 83.725
+            },
+            {
+              "text": "Knowing the creature desperately required relief, he searched the undergrowth until he found a clear stream, cupping cool water in his palms.",
+              "audioStart": 84.588,
+              "audioEnd": 91.95
+            },
+            {
+              "text": "He returned to the giant beast and offered the moisture, watching as the lion drank eagerly and relaxed its powerful muscles slightly.",
+              "audioStart": 92.812,
+              "audioEnd": 99.825
+            },
+            {
+              "text": "The great golden eyes locked onto Androcles, communicating a plea for mercy that transcended the barriers between species.",
+              "audioStart": 100.688,
+              "audioEnd": 107.275
+            },
+            {
+              "text": "Murmuring soothing, melodic phrases to calm the trembling giant, Androcles prepared himself for the delicate and perilous operation ahead.",
+              "audioStart": 108.138,
+              "audioEnd": 115.513
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "With infinite patience, he seated himself beside the enormous limb, resting his bare hands against the coarse, tawny fur.",
+              "audioStart": 116.375,
+              "audioEnd": 123.3
+            },
+            {
+              "text": "The lion remained utterly still, granting its absolute trust to the fragile human who knelt before it.",
+              "audioStart": 124.162,
+              "audioEnd": 129.713
+            },
+            {
+              "text": "Taking a deep, steadying breath, Androcles grasped the jagged point and pulled with sudden, calculated firmness.",
+              "audioStart": 130.575,
+              "audioEnd": 137.1
+            },
+            {
+              "text": "A deafening roar of pain shook the canopy, yet the offending thorn slid free at last from the swollen flesh.",
+              "audioStart": 137.963,
+              "audioEnd": 143.95
+            },
+            {
+              "text": "Instantly relieved of its agony, the majestic beast let out a soft, contented purr and brushed its massive head affectionately against Androcles.",
+              "audioStart": 144.812,
+              "audioEnd": 152.713
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From that transformative morning onward, the lion refused to part from the man who had delivered it from suffering.",
+              "audioStart": 153.575,
+              "audioEnd": 159.287
+            },
+            {
+              "text": "Acting as both provider and guardian, the noble creature hunted diligently through the dense woods and brought fresh meat to their shared camp.",
+              "audioStart": 160.15,
+              "audioEnd": 167.025
+            },
+            {
+              "text": "They spent several peaceful months together beneath the verdant branches, establishing a harmonious rhythm far removed from civilization.",
+              "audioStart": 167.887,
+              "audioEnd": 175.05
+            },
+            {
+              "text": "Androcles shared his meager rations and taught the animal the safest paths to fresh springs, their bond deepening with every passing season.",
+              "audioStart": 175.912,
+              "audioEnd": 183.4
+            },
+            {
+              "text": "Enclosed by the whispering trees, they existed in a tranquil sanctuary where neither fear nor cruelty could reach them.",
+              "audioStart": 184.262,
+              "audioEnd": 190.475
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Alas, this idyllic isolation could not endure indefinitely against the relentless reach of imperial authority.",
+              "audioStart": 191.338,
+              "audioEnd": 197.363
+            },
+            {
+              "text": "Imperial soldiers, scouring the countryside for runaways, eventually tracked Androcles to his hidden forest haven.",
+              "audioStart": 198.225,
+              "audioEnd": 204.787
+            },
+            {
+              "text": "Torn mercilessly from his sanctuary, he was dragged back toward the bustling city in heavy irons, his heart weighed down by profound grief.",
+              "audioStart": 205.65,
+              "audioEnd": 213.35
+            },
+            {
+              "text": "The journey was long and dreary, filled with the bitter knowledge that he would never see his fierce companion again.",
+              "audioStart": 214.213,
+              "audioEnd": 219.537
+            },
+            {
+              "text": "Upon arrival, they cast him into a damp, windowless cell to await the public games where escaped slaves met their grim fates.",
+              "audioStart": 220.4,
+              "audioEnd": 227.4
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The arena was a vast, sunlit bowl of stone surrounded by thousands of baying spectators eager for bloodshed.",
+              "audioStart": 228.262,
+              "audioEnd": 234.113
+            },
+            {
+              "text": "Dragged into the center of the sandy floor, Androcles stood alone, waiting for the release of the starving beast that would end his life.",
+              "audioStart": 234.975,
+              "audioEnd": 241.988
+            },
+            {
+              "text": "A heavy iron gate groaned open across the yard, and a massive lion surged into the light with a terrifying roar.",
+              "audioStart": 242.85,
+              "audioEnd": 250.114
+            },
+            {
+              "text": "It was the very same creature from the forest, starved and desperate, charging fiercely toward the defenseless prisoner.",
+              "audioStart": 250.977,
+              "audioEnd": 256.94
+            },
+            {
+              "text": "The crowd leaned forward in breathless anticipation, waiting for the inevitable tragedy to unfold upon the crimson sand.",
+              "audioStart": 257.802,
+              "audioEnd": 264.277
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Yet, as the great beast closed the distance, its fierce momentum suddenly vanished into thin air.",
+              "audioStart": 265.139,
+              "audioEnd": 270.677
+            },
+            {
+              "text": "Recognizing the familiar scent and silhouette of its benefactor, the lion skidded to a halt mere paces away.",
+              "audioStart": 271.539,
+              "audioEnd": 277.477
+            },
+            {
+              "text": "Instead of tearing into the helpless man, the giant creature began to nuzzle Androcles with gentle affection, wagging its tail like a loyal puppy.",
+              "audioStart": 278.339,
+              "audioEnd": 286.289
+            },
+            {
+              "text": "A stunned silence fell over the amphitheater as the roaring monster dissolved into a picture of domestic devotion.",
+              "audioStart": 287.152,
+              "audioEnd": 292.877
+            },
+            {
+              "text": "Whispers of disbelief rippled through the staggered crowd while the ruler of the city stood up to observe the impossible scene.",
+              "audioStart": 293.74,
+              "audioEnd": 299.627
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Summoned before the ruler's elevated box, Androcles recounted the entire tale of the forest and the thorn with remarkable humility.",
+              "audioStart": 300.49,
+              "audioEnd": 307.727
+            },
+            {
+              "text": "He described how they had shared meals, shelter, and companionship through the long, quiet months under the green leaves.",
+              "audioStart": 308.589,
+              "audioEnd": 315.102
+            },
+            {
+              "text": "Moved profoundly by the loyalty between man and beast, the ruler declared that such a miracle deserved a greater reward than mere survival.",
+              "audioStart": 315.964,
+              "audioEnd": 323.115
+            },
+            {
+              "text": "With a wave of his royal hand, he granted Androcles his full freedom and ordered that the magnificent lion be returned safely to the wild.",
+              "audioStart": 323.977,
+              "audioEnd": 331.139
+            },
+            {
+              "text": "A tremendous cheer erupted from the assembled masses, celebrating a rare mercy that transcended the harsh laws of the empire.",
+              "audioStart": 332.002,
+              "audioEnd": 338.714
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Androcles stepped out of the grand arena gates as a completely free man, breathing the crisp air of liberty once more.",
+              "audioStart": 339.577,
+              "audioEnd": 345.552
+            },
+            {
+              "text": "The great lion loped beside him through the city streets before turning its gaze toward the distant, beckoning horizon of the green forest.",
+              "audioStart": 346.414,
+              "audioEnd": 353.502
+            },
+            {
+              "text": "With a final, lingering look of deep affection, the giant creature bounded away into its native home among the tall trees.",
+              "audioStart": 354.365,
+              "audioEnd": 360.889
+            },
+            {
+              "text": "Though their paths diverged that afternoon, neither man nor beast ever forgot the profound bond forged in the quiet heart of the wilderness.",
+              "audioStart": 361.752,
+              "audioEnd": 368.902
+            },
+            {
+              "text": "Androcles lived out his remaining years in peace, carrying the memory of that forest sanctuary like a precious treasure within his soul.",
+              "audioStart": 369.764,
+              "audioEnd": 376.714
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0251.mp3",
+      "wordTimings": "audio/c1/st-0251.timings.json",
+      "quiz": [
+        {
+          "q": "Why did Androcles initially flee into the forest?",
+          "options": [
+            "To escape from a cruel master who treated him badly",
+            "To hunt for wild animals and gather rare plants",
+            "To join a group of soldiers stationed near the mountains"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What caused the lion to scream in agony when Androcles first found it?",
+          "options": [
+            "A deep wound from a fight with another animal",
+            "A large wooden thorn stuck firmly inside its paw",
+            "A severe illness caused by drinking bad water"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the ruler of the city react when he heard Androcles' story?",
+          "options": [
+            "He ordered both the man and the lion to be locked in prison forever",
+            "He demanded that the lion be used again in the next public games",
+            "He granted Androcles his freedom and let the lion return to the wild"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  }
+}

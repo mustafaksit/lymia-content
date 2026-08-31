@@ -1,0 +1,1461 @@
+{
+  "id": "st-0168",
+  "title": "Little Red Riding Hood",
+  "genre": "classic",
+  "summary": "A young girl walks through the woods and talks to a big wolf.",
+  "coverScene": "A young girl in a red dress walks through a green forest toward a small house.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A little girl live with her mother.",
+              "audioStart": 0.106,
+              "audioEnd": 1.883
+            },
+            {
+              "text": "People call her Little Red Riding Hood.",
+              "audioStart": 2.847,
+              "audioEnd": 4.986
+            },
+            {
+              "text": "She has a color thing on.",
+              "audioStart": 5.944,
+              "audioEnd": 7.486
+            },
+            {
+              "text": "Her mother give her food.",
+              "audioStart": 8.444,
+              "audioEnd": 9.944
+            },
+            {
+              "text": "She must bring food to her old friend.",
+              "audioStart": 10.903,
+              "audioEnd": 13.097
+            },
+            {
+              "text": "Old friend live down in the big area.",
+              "audioStart": 14.056,
+              "audioEnd": 16.153
+            },
+            {
+              "text": "Mother tell her to stay on one way.",
+              "audioStart": 17.111,
+              "audioEnd": 19.083
+            },
+            {
+              "text": "Mother say do not talk to people.",
+              "audioStart": 20.042,
+              "audioEnd": 21.958
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Little Red Riding Hood walks through big wood.",
+              "audioStart": 22.917,
+              "audioEnd": 25.333
+            },
+            {
+              "text": "A big wolf appear on way.",
+              "audioStart": 26.292,
+              "audioEnd": 27.889
+            },
+            {
+              "text": "He asks where she go.",
+              "audioStart": 28.847,
+              "audioEnd": 30.306
+            },
+            {
+              "text": "She does not know he is bad.",
+              "audioStart": 31.264,
+              "audioEnd": 32.958
+            },
+            {
+              "text": "She tells him about house.",
+              "audioStart": 33.917,
+              "audioEnd": 35.569
+            },
+            {
+              "text": "The big wolf tell her to get color thing.",
+              "audioStart": 36.528,
+              "audioEnd": 38.944
+            },
+            {
+              "text": "The wolf says get color thing now.",
+              "audioStart": 39.903,
+              "audioEnd": 41.931
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She get color thing in the forest.",
+              "audioStart": 42.889,
+              "audioEnd": 44.917
+            },
+            {
+              "text": "The wolf runs to the house.",
+              "audioStart": 45.875,
+              "audioEnd": 47.528
+            },
+            {
+              "text": "He comes into the small room.",
+              "audioStart": 48.486,
+              "audioEnd": 50.125
+            },
+            {
+              "text": "He put old friend in a small room.",
+              "audioStart": 51.083,
+              "audioEnd": 53.083
+            },
+            {
+              "text": "He put on her things.",
+              "audioStart": 54.042,
+              "audioEnd": 55.486
+            },
+            {
+              "text": "He wait in bed.",
+              "audioStart": 56.444,
+              "audioEnd": 57.556
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Little Red Riding Hood comes to house.",
+              "audioStart": 58.514,
+              "audioEnd": 60.722
+            },
+            {
+              "text": "She sees old friend in bed.",
+              "audioStart": 61.681,
+              "audioEnd": 63.375
+            },
+            {
+              "text": "Something looks very different.",
+              "audioStart": 64.333,
+              "audioEnd": 66.028
+            },
+            {
+              "text": "She asks about big eye and face.",
+              "audioStart": 66.986,
+              "audioEnd": 68.986
+            },
+            {
+              "text": "The bad wolf move up fast.",
+              "audioStart": 69.944,
+              "audioEnd": 71.847
+            },
+            {
+              "text": "He says face is for eating her.",
+              "audioStart": 72.806,
+              "audioEnd": 74.667
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The little girl cry and run.",
+              "audioStart": 75.625,
+              "audioEnd": 77.236
+            },
+            {
+              "text": "The wolf runs after her.",
+              "audioStart": 78.194,
+              "audioEnd": 79.75
+            },
+            {
+              "text": "A good man hear the sound.",
+              "audioStart": 80.708,
+              "audioEnd": 82.264
+            },
+            {
+              "text": "He comes to the house.",
+              "audioStart": 83.222,
+              "audioEnd": 84.653
+            },
+            {
+              "text": "He helps the little girl.",
+              "audioStart": 85.611,
+              "audioEnd": 87.0
+            },
+            {
+              "text": "The big wolf run away.",
+              "audioStart": 87.958,
+              "audioEnd": 89.431
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She let old friend out of small room.",
+              "audioStart": 90.389,
+              "audioEnd": 92.472
+            },
+            {
+              "text": "They thank the good man.",
+              "audioStart": 93.431,
+              "audioEnd": 94.736
+            },
+            {
+              "text": "She learns an important thing.",
+              "audioStart": 95.694,
+              "audioEnd": 97.306
+            },
+            {
+              "text": "She stays on the right way.",
+              "audioStart": 98.264,
+              "audioEnd": 99.819
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0168.mp3",
+      "wordTimings": "audio/a1/st-0168.timings.json",
+      "quiz": [
+        {
+          "q": "What does Little Red Riding Hood wear?",
+          "options": [
+            "A blue dress",
+            "A red dress",
+            "A black coat"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Where does grandmother live?",
+          "options": [
+            "Deep in the woods",
+            "In a big city",
+            "Near the school"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who saves the little girl?",
+          "options": [
+            "Her mother",
+            "A brave hunter",
+            "The big wolf"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a little girl lived near a big forest.",
+              "audioStart": 0.106,
+              "audioEnd": 3.578
+            },
+            {
+              "text": "She wore a red dress.",
+              "audioStart": 4.542,
+              "audioEnd": 6.042
+            },
+            {
+              "text": "People called her Little Red Riding Hood.",
+              "audioStart": 7,
+              "audioEnd": 9.167
+            },
+            {
+              "text": "One morning, her mother gave her food for her old family member.",
+              "audioStart": 10.125,
+              "audioEnd": 13.958
+            },
+            {
+              "text": "That family member lived deep in the area.",
+              "audioStart": 14.917,
+              "audioEnd": 17.319
+            },
+            {
+              "text": "Her mother told her to stay on the track.",
+              "audioStart": 18.278,
+              "audioEnd": 20.514
+            },
+            {
+              "text": "Her mother told her not to talk to people.",
+              "audioStart": 21.472,
+              "audioEnd": 23.736
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Little Red Riding Hood walked through the trees.",
+              "audioStart": 24.694,
+              "audioEnd": 27.236
+            },
+            {
+              "text": "She enjoyed the morning light.",
+              "audioStart": 28.194,
+              "audioEnd": 29.917
+            },
+            {
+              "text": "Soon, a big animal appeared on the track.",
+              "audioStart": 30.875,
+              "audioEnd": 33.514
+            },
+            {
+              "text": "He asked where she was going.",
+              "audioStart": 34.472,
+              "audioEnd": 36.167
+            },
+            {
+              "text": "She did not know the animal was bad.",
+              "audioStart": 37.125,
+              "audioEnd": 39.153
+            },
+            {
+              "text": "Then she told him about the house.",
+              "audioStart": 40.111,
+              "audioEnd": 41.958
+            },
+            {
+              "text": "The animal suggested that she look at lovely plants.",
+              "audioStart": 42.917,
+              "audioEnd": 46
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The little girl picked plants in the forest.",
+              "audioStart": 46.958,
+              "audioEnd": 49.361
+            },
+            {
+              "text": "The animal ran to the house.",
+              "audioStart": 50.319,
+              "audioEnd": 52.056
+            },
+            {
+              "text": "He hit the door and entered the room.",
+              "audioStart": 53.014,
+              "audioEnd": 54.972
+            },
+            {
+              "text": "He put the poor old woman in a small room.",
+              "audioStart": 55.931,
+              "audioEnd": 58.347
+            },
+            {
+              "text": "Then he put on her clothes.",
+              "audioStart": 59.306,
+              "audioEnd": 60.889
+            },
+            {
+              "text": "He waited patiently in the bed.",
+              "audioStart": 61.847,
+              "audioEnd": 63.736
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After some time, Little Red Riding Hood arrived at the house.",
+              "audioStart": 64.694,
+              "audioEnd": 68.236
+            },
+            {
+              "text": "She hit the door.",
+              "audioStart": 69.194,
+              "audioEnd": 70.292
+            },
+            {
+              "text": "She walked inside and saw her family member in bed.",
+              "audioStart": 71.25,
+              "audioEnd": 74.389
+            },
+            {
+              "text": "Her face seemed very strange.",
+              "audioStart": 75.347,
+              "audioEnd": 77.278
+            },
+            {
+              "text": "She asked why her family member had big eyes, side parts of the head, and face parts.",
+              "audioStart": 78.236,
+              "audioEnd": 83.792
+            },
+            {
+              "text": "The bad animal moved quickly out of the bed.",
+              "audioStart": 84.75,
+              "audioEnd": 87.25
+            },
+            {
+              "text": "He said those face parts were for eating her.",
+              "audioStart": 88.208,
+              "audioEnd": 90.667
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The girl felt worry and ran around the room.",
+              "audioStart": 91.625,
+              "audioEnd": 94.097
+            },
+            {
+              "text": "The animal ran after her.",
+              "audioStart": 95.056,
+              "audioEnd": 96.625
+            },
+            {
+              "text": "A strong man heard the high sound.",
+              "audioStart": 97.583,
+              "audioEnd": 99.569
+            },
+            {
+              "text": "He came to the house and saw the issue.",
+              "audioStart": 100.528,
+              "audioEnd": 102.792
+            },
+            {
+              "text": "He helped the little girl and saved her.",
+              "audioStart": 103.75,
+              "audioEnd": 105.875
+            },
+            {
+              "text": "The animal ran away into the dark forest.",
+              "audioStart": 106.833,
+              "audioEnd": 109.333
+            },
+            {
+              "text": "He never returned to trouble anyone again.",
+              "audioStart": 110.292,
+              "audioEnd": 112.708
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Little Red Riding Hood opened the small room.",
+              "audioStart": 113.667,
+              "audioEnd": 116.056
+            },
+            {
+              "text": "She let her happy family member out.",
+              "audioStart": 117.014,
+              "audioEnd": 119.236
+            },
+            {
+              "text": "They thanked the strong man for his help.",
+              "audioStart": 120.194,
+              "audioEnd": 122.361
+            },
+            {
+              "text": "The little girl learned an important study point.",
+              "audioStart": 123.319,
+              "audioEnd": 125.875
+            },
+            {
+              "text": "She learned about listening to her mother and staying safe.",
+              "audioStart": 126.833,
+              "audioEnd": 129.972
+            },
+            {
+              "text": "From that day, she always followed the right track.",
+              "audioStart": 130.931,
+              "audioEnd": 133.958
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0168.mp3",
+      "wordTimings": "audio/a2/st-0168.timings.json",
+      "quiz": [
+        {
+          "q": "What did Little Red Riding Hood's mother tell her to do before leaving?",
+          "options": [
+            "Stay on the path and avoid strangers",
+            "Pick as many flowers as possible",
+            "Run fast to the grandmother's house"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the wolf do to the grandmother when he arrived at her house?",
+          "options": [
+            "He ate her immediately",
+            "He locked her in a closet",
+            "He sent her into the dark forest"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who saved Little Red Riding Hood from the wolf?",
+          "options": [
+            "Her mother",
+            "A brave hunter",
+            "Her grandmother"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a little girl lived near a big forest with her mother.",
+              "audioStart": 0.1,
+              "audioEnd": 3.875
+            },
+            {
+              "text": "She always wore a red dress.",
+              "audioStart": 4.737,
+              "audioEnd": 6.425
+            },
+            {
+              "text": "People called her Little Red Riding Hood.",
+              "audioStart": 7.287,
+              "audioEnd": 9.238
+            },
+            {
+              "text": "One morning, her mother gave her some food.",
+              "audioStart": 10.1,
+              "audioEnd": 12.488
+            },
+            {
+              "text": "She had to bring food to her old parent.",
+              "audioStart": 13.35,
+              "audioEnd": 15.412
+            },
+            {
+              "text": "This parent lived deep in the woods.",
+              "audioStart": 16.275,
+              "audioEnd": 18.087
+            },
+            {
+              "text": "Before leaving, the mother told the child to stay on the path.",
+              "audioStart": 18.95,
+              "audioEnd": 22.125
+            },
+            {
+              "text": "She told her to avoid talking to people she did not know.",
+              "audioStart": 22.988,
+              "audioEnd": 25.8
+            },
+            {
+              "text": "Little Red Riding Hood walked happily through the trees.",
+              "audioStart": 26.663,
+              "audioEnd": 29.375
+            },
+            {
+              "text": "She enjoyed the bright morning sun.",
+              "audioStart": 30.238,
+              "audioEnd": 32.05
+            },
+            {
+              "text": "Soon, a big animal appeared on the path.",
+              "audioStart": 32.913,
+              "audioEnd": 35.275
+            },
+            {
+              "text": "He asked where she was going.",
+              "audioStart": 36.138,
+              "audioEnd": 37.663
+            },
+            {
+              "text": "Because she did not know that the animal was dangerous, she spoke to him.",
+              "audioStart": 38.525,
+              "audioEnd": 42.025
+            },
+            {
+              "text": "She told him about her family house.",
+              "audioStart": 42.888,
+              "audioEnd": 44.812
+            },
+            {
+              "text": "The smart animal suggested that she look at the lovely flowers growing nearby.",
+              "audioStart": 45.675,
+              "audioEnd": 49.612
+            },
+            {
+              "text": "While the little girl picked flowers in the forest, the fast animal ran directly to the house.",
+              "audioStart": 50.475,
+              "audioEnd": 55.35
+            },
+            {
+              "text": "He knocked on the door and entered the small room without any trouble.",
+              "audioStart": 56.212,
+              "audioEnd": 59.5
+            },
+            {
+              "text": "The animal quickly locked the poor old woman in a small room.",
+              "audioStart": 60.362,
+              "audioEnd": 63.487
+            },
+            {
+              "text": "He did this so that she would not make any noise.",
+              "audioStart": 64.35,
+              "audioEnd": 66.737
+            },
+            {
+              "text": "Then he put on her clothes and waited calmly in the bed.",
+              "audioStart": 67.6,
+              "audioEnd": 70.412
+            },
+            {
+              "text": "After some time, Little Red Riding Hood arrived at the house.",
+              "audioStart": 71.275,
+              "audioEnd": 74.463
+            },
+            {
+              "text": "She knocked on the hard door.",
+              "audioStart": 75.325,
+              "audioEnd": 76.7
+            },
+            {
+              "text": "She walked inside and saw her family in bed.",
+              "audioStart": 77.562,
+              "audioEnd": 80.075
+            },
+            {
+              "text": "Something about the face seemed very strange.",
+              "audioStart": 80.938,
+              "audioEnd": 83.25
+            },
+            {
+              "text": "She asked why her family had such big eyes.",
+              "audioStart": 84.112,
+              "audioEnd": 86.6
+            },
+            {
+              "text": "She asked why her family had such big ears.",
+              "audioStart": 87.463,
+              "audioEnd": 89.95
+            },
+            {
+              "text": "She asked why her family had such big mouths.",
+              "audioStart": 90.812,
+              "audioEnd": 93.362
+            },
+            {
+              "text": "The bad animal jumped out of the bed.",
+              "audioStart": 94.225,
+              "audioEnd": 96.088
+            },
+            {
+              "text": "He said that those parts were for eating her.",
+              "audioStart": 96.95,
+              "audioEnd": 99.062
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The scared girl cried and ran around the room.",
+              "audioStart": 99.925,
+              "audioEnd": 102.275
+            },
+            {
+              "text": "The animal ran after her.",
+              "audioStart": 103.138,
+              "audioEnd": 104.55
+            },
+            {
+              "text": "A good hunter who was working nearby heard the strong noise.",
+              "audioStart": 105.412,
+              "audioEnd": 108.362
+            },
+            {
+              "text": "He came to the house quickly.",
+              "audioStart": 109.225,
+              "audioEnd": 110.737
+            },
+            {
+              "text": "He saw the danger.",
+              "audioStart": 111.6,
+              "audioEnd": 112.688
+            },
+            {
+              "text": "He helped the little girl.",
+              "audioStart": 113.55,
+              "audioEnd": 114.8
+            },
+            {
+              "text": "He saved her from the bad animal.",
+              "audioStart": 115.662,
+              "audioEnd": 117.3
+            },
+            {
+              "text": "The animal ran away into the dark forest.",
+              "audioStart": 118.162,
+              "audioEnd": 120.412
+            },
+            {
+              "text": "He never returned to trouble anyone again.",
+              "audioStart": 121.275,
+              "audioEnd": 123.45
+            },
+            {
+              "text": "Little Red Riding Hood opened the small room and let her happy family out.",
+              "audioStart": 124.312,
+              "audioEnd": 127.963
+            },
+            {
+              "text": "They thanked the good hunter for his wonderful help and support.",
+              "audioStart": 128.825,
+              "audioEnd": 131.725
+            },
+            {
+              "text": "The little girl learned an important lesson about listening to her mother.",
+              "audioStart": 132.588,
+              "audioEnd": 135.938
+            },
+            {
+              "text": "She learned about staying safe.",
+              "audioStart": 136.8,
+              "audioEnd": 138.488
+            },
+            {
+              "text": "From that day forward, she always followed the right path through the woods.",
+              "audioStart": 139.35,
+              "audioEnd": 143.062
+            },
+            {
+              "text": "If she walked carefully, she would never meet another bad animal again.",
+              "audioStart": 143.925,
+              "audioEnd": 147.475
+            },
+            {
+              "text": "She has understood that safety is important.",
+              "audioStart": 148.338,
+              "audioEnd": 150.55
+            },
+            {
+              "text": "Her mother has been very proud of her ever since that day.",
+              "audioStart": 151.412,
+              "audioEnd": 154.287
+            },
+            {
+              "text": "They have lived quietly in their home near the woods.",
+              "audioStart": 155.15,
+              "audioEnd": 157.562
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0168.mp3",
+      "wordTimings": "audio/b1/st-0168.timings.json",
+      "quiz": [
+        {
+          "q": "What did the mother tell Little Red Riding Hood before she left?",
+          "options": [
+            "To stay on the path and avoid talking to strangers",
+            "To pick flowers in the dark forest",
+            "To run fast to the hunter house"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the wolf do to the grandmother when he arrived at her house?",
+          "options": [
+            "He gave her some food",
+            "He locked her in a closet",
+            "He helped her make noise"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who saved Little Red Riding Hood from the wolf?",
+          "options": [
+            "Her mother",
+            "A brave hunter",
+            "The old grandmother"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a little girl lived near a big forest with her mother.",
+              "audioStart": 0.1,
+              "audioEnd": 3.875
+            },
+            {
+              "text": "She always wore a red dress, which made people call her Little Red Riding Hood.",
+              "audioStart": 4.737,
+              "audioEnd": 8.912
+            },
+            {
+              "text": "One morning, her mother gave her some food to bring to her old grandmother who lived deep in the woods.",
+              "audioStart": 9.775,
+              "audioEnd": 14.85
+            },
+            {
+              "text": "Before leaving, the mother told the child to stay on the path and to avoid talking to strangers.",
+              "audioStart": 15.713,
+              "audioEnd": 20.7
+            },
+            {
+              "text": "Little Red Riding Hood walked happily through the trees, enjoying the bright morning sun.",
+              "audioStart": 21.562,
+              "audioEnd": 26.038
+            },
+            {
+              "text": "Soon, a big animal appeared on the path and asked where she was going.",
+              "audioStart": 26.9,
+              "audioEnd": 30.6
+            },
+            {
+              "text": "Because she did not know that the creature was dangerous, she told him about her grandmother house.",
+              "audioStart": 31.462,
+              "audioEnd": 36.038
+            },
+            {
+              "text": "The smart animal suggested that she look at the lovely flowers growing nearby.",
+              "audioStart": 36.9,
+              "audioEnd": 40.837
+            },
+            {
+              "text": "While the little girl picked flowers in the forest, the fast animal ran directly to the grandmother house.",
+              "audioStart": 41.7,
+              "audioEnd": 47.062
+            },
+            {
+              "text": "He knocked on the door and entered the small room without any trouble.",
+              "audioStart": 47.925,
+              "audioEnd": 51.212
+            },
+            {
+              "text": "The animal quickly locked the poor old woman in a room so that she would not make any noise.",
+              "audioStart": 52.075,
+              "audioEnd": 56.575
+            },
+            {
+              "text": "Then he put on her clothes and waited patiently in the bed.",
+              "audioStart": 57.438,
+              "audioEnd": 60.4
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After some time, Little Red Riding Hood arrived at the house and knocked on the wooden door.",
+              "audioStart": 61.263,
+              "audioEnd": 65.775
+            },
+            {
+              "text": "She walked inside and saw her grandmother in bed, but something about the face seemed very strange.",
+              "audioStart": 66.638,
+              "audioEnd": 71.838
+            },
+            {
+              "text": "She asked why her grandmother had such big eyes, big ears, and big teeth.",
+              "audioStart": 72.7,
+              "audioEnd": 77.025
+            },
+            {
+              "text": "The bad animal jumped out of the bed and said that those teeth were for eating her.",
+              "audioStart": 77.888,
+              "audioEnd": 81.763
+            },
+            {
+              "text": "The frightened girl screamed and ran around the room while the animal chased her.",
+              "audioStart": 82.625,
+              "audioEnd": 86.237
+            },
+            {
+              "text": "A good hunter who was working nearby heard the loud noise and came to the house.",
+              "audioStart": 87.1,
+              "audioEnd": 91
+            },
+            {
+              "text": "He saw the danger, quickly helped the little girl, and saved her from the bad animal.",
+              "audioStart": 91.862,
+              "audioEnd": 96.263
+            },
+            {
+              "text": "The animal ran away into the dark forest and never returned to trouble anyone again.",
+              "audioStart": 97.125,
+              "audioEnd": 101.487
+            },
+            {
+              "text": "Little Red Riding Hood opened the room and let her happy grandmother out.",
+              "audioStart": 102.35,
+              "audioEnd": 105.838
+            },
+            {
+              "text": "They thanked the good hunter for his wonderful help and support.",
+              "audioStart": 106.7,
+              "audioEnd": 109.6
+            },
+            {
+              "text": "The little girl learned an important lesson about listening to her mother and staying safe.",
+              "audioStart": 110.463,
+              "audioEnd": 114.75
+            },
+            {
+              "text": "From that day forward, she always followed the right path through the woods.",
+              "audioStart": 115.612,
+              "audioEnd": 119.325
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The sun was shining brightly as the child walked home with her family member.",
+              "audioStart": 120.188,
+              "audioEnd": 124.013
+            },
+            {
+              "text": "They spoke about the strange events of the morning while they moved along the quiet road.",
+              "audioStart": 124.875,
+              "audioEnd": 128.75
+            },
+            {
+              "text": "The mother was waiting near the garden when she saw them coming back.",
+              "audioStart": 129.613,
+              "audioEnd": 132.725
+            },
+            {
+              "text": "She held her daughter tightly because she was so glad that everything was fine.",
+              "audioStart": 133.588,
+              "audioEnd": 137.463
+            },
+            {
+              "text": "The grandmother made a nice meal for everyone to share in the evening.",
+              "audioStart": 138.325,
+              "audioEnd": 141.575
+            },
+            {
+              "text": "They sat together around the table and enjoyed the good food.",
+              "audioStart": 142.438,
+              "audioEnd": 145.525
+            },
+            {
+              "text": "The little girl promised that she would never speak to strangers again.",
+              "audioStart": 146.387,
+              "audioEnd": 149.688
+            },
+            {
+              "text": "Her mother smiled and told her that listening was the best way to stay safe.",
+              "audioStart": 150.55,
+              "audioEnd": 154.4
+            },
+            {
+              "text": "The hunter went back to his work in the deep woods, feeling happy about his good work.",
+              "audioStart": 155.262,
+              "audioEnd": 159.575
+            },
+            {
+              "text": "The bad animal never came back to bother the village or the people living there.",
+              "audioStart": 160.438,
+              "audioEnd": 164.275
+            },
+            {
+              "text": "Years passed, but the story was remembered by everyone in the community.",
+              "audioStart": 165.137,
+              "audioEnd": 168.988
+            },
+            {
+              "text": "Children were told the tale so that they would always follow the right path.",
+              "audioStart": 169.85,
+              "audioEnd": 173.225
+            },
+            {
+              "text": "Life continued well near the big forest, and everyone lived without any further fear.",
+              "audioStart": 174.088,
+              "audioEnd": 178.725
+            },
+            {
+              "text": "The red dress remained the favorite clothing of the young girl as she grew older.",
+              "audioStart": 179.588,
+              "audioEnd": 183.338
+            },
+            {
+              "text": "She always remembered the lesson she learned on that important day.",
+              "audioStart": 184.2,
+              "audioEnd": 187.262
+            },
+            {
+              "text": "Whenever she walked through the trees, she looked around carefully to ensure everything was secure.",
+              "audioStart": 188.125,
+              "audioEnd": 192.975
+            },
+            {
+              "text": "The birds were singing lovely songs high above the green branches.",
+              "audioStart": 193.838,
+              "audioEnd": 197.213
+            },
+            {
+              "text": "Nature seemed quiet and welcoming after the strange adventure.",
+              "audioStart": 198.075,
+              "audioEnd": 201.175
+            },
+            {
+              "text": "The wind blew softly through the leaves, making a quiet and pleasant sound.",
+              "audioStart": 202.037,
+              "audioEnd": 205.938
+            },
+            {
+              "text": "Little Red Riding Hood smiled to herself and thought about her wonderful grandmother.",
+              "audioStart": 206.8,
+              "audioEnd": 210.662
+            },
+            {
+              "text": "She knew that care was an important part of growing up.",
+              "audioStart": 211.525,
+              "audioEnd": 214.012
+            },
+            {
+              "text": "The memory of the event stayed with her throughout her entire life.",
+              "audioStart": 214.875,
+              "audioEnd": 218.062
+            },
+            {
+              "text": "She never forgot the help provided by the friendly hunter in her time of need.",
+              "audioStart": 218.925,
+              "audioEnd": 222.713
+            },
+            {
+              "text": "Every time she visited the old woman, they shared stories and drank warm tea together.",
+              "audioStart": 223.575,
+              "audioEnd": 228.012
+            },
+            {
+              "text": "The bond between them became even stronger after that morning.",
+              "audioStart": 228.875,
+              "audioEnd": 232.037
+            },
+            {
+              "text": "Nothing could ever disturb their quiet days in the little house near the woods.",
+              "audioStart": 232.9,
+              "audioEnd": 236.6
+            },
+            {
+              "text": "And so, the story became a famous lesson that was passed down through generations.",
+              "audioStart": 237.463,
+              "audioEnd": 241.8
+            },
+            {
+              "text": "People everywhere learned to value safety and listen to the advice of their parents.",
+              "audioStart": 242.662,
+              "audioEnd": 247.892
+            },
+            {
+              "text": "The path through the forest remained open for anyone who wished to travel safely.",
+              "audioStart": 248.754,
+              "audioEnd": 252.879
+            },
+            {
+              "text": "Little Red Riding Hood grew into a wise person who always made good choices.",
+              "audioStart": 253.742,
+              "audioEnd": 257.817
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0168.mp3",
+      "wordTimings": "audio/b2/st-0168.timings.json",
+      "quiz": [
+        {
+          "q": "What did the mother give Little Red Riding Hood to bring to her grandmother?",
+          "options": [
+            "Some food",
+            "Some books",
+            "Some money"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where did the wolf put the grandmother after he entered the house?",
+          "options": [
+            "Under the bed",
+            "In a closet",
+            "Outside the door"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who helped Little Red Riding Hood when the wolf chased her?",
+          "options": [
+            "A hunter",
+            "Her mother",
+            "Another wolf"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nestled on the rugged periphery of an ancient, brooding forest, a modest cottage sheltered a young girl and her devoted mother.",
+              "audioStart": 0.1,
+              "audioEnd": 6.612
+            },
+            {
+              "text": "Because she invariably wore a vibrant cloak of scarlet wool complete with an attached hood, the villagers universally referred to her as Little Red Riding Hood.",
+              "audioStart": 7.475,
+              "audioEnd": 15.5
+            },
+            {
+              "text": "One crisp morning, her mother arranged a small basket laden with freshly baked bread and a jar of sweet butter.",
+              "audioStart": 16.363,
+              "audioEnd": 22.325
+            },
+            {
+              "text": "She instructed her daughter to carry these provisions to her ailing grandmother, whose dwelling lay deep within the tangled labyrinth of the woods.",
+              "audioStart": 23.188,
+              "audioEnd": 30.25
+            },
+            {
+              "text": "Before the child departed, her mother offered a stern caution, reminding her to remain strictly upon the established path and to ignore the temptations of strangers.",
+              "audioStart": 31.113,
+              "audioEnd": 39.85
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Stepping out into the crisp morning air, the girl felt the warm sunlight filtering through the dense canopy of emerald leaves.",
+              "audioStart": 40.712,
+              "audioEnd": 46.925
+            },
+            {
+              "text": "She hummed a cheerful melody, her spirits light as she navigated the winding dirt track that cut through the towering timber.",
+              "audioStart": 47.788,
+              "audioEnd": 54.038
+            },
+            {
+              "text": "Seldom had she ventured this far alone, and the sheer vitality of the forest intoxicated her youthful senses.",
+              "audioStart": 54.9,
+              "audioEnd": 61.138
+            },
+            {
+              "text": "Without warning, a large silhouette materialized upon the narrow path, blocking her advance with an air of deceptive casualness.",
+              "audioStart": 62,
+              "audioEnd": 69.05
+            },
+            {
+              "text": "It was a cunning wolf, though the naive child perceived no menace in his gleaming eyes or polished posture.",
+              "audioStart": 69.912,
+              "audioEnd": 75.487
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "With a voice as smooth as polished stone, the creature inquired where her hurried journey might be taking her.",
+              "audioStart": 76.35,
+              "audioEnd": 81.75
+            },
+            {
+              "text": "Oblivious to the peril lurking beneath his polite exterior, the trusting girl divulged the exact destination of her elderly grandmother.",
+              "audioStart": 82.612,
+              "audioEnd": 90.125
+            },
+            {
+              "text": "Scarcely had she spoken when the calculating animal suggested that she pause to admire the radiant wildflowers blooming just off the path.",
+              "audioStart": 90.987,
+              "audioEnd": 98.287
+            },
+            {
+              "text": "He painted a vivid picture of the sunlit clearing nearby, urging her to gather a fragrant bouquet for the ailing woman.",
+              "audioStart": 99.15,
+              "audioEnd": 105.213
+            },
+            {
+              "text": "Captivated by the notion, the girl immediately abandoned the safety of the trail and plunged into the underbrush in search of blossoms.",
+              "audioStart": 106.075,
+              "audioEnd": 113.112
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Seizing the opportunity, the swift predator sprinted through the dense undergrowth with ruthless efficiency.",
+              "audioStart": 113.975,
+              "audioEnd": 119.213
+            },
+            {
+              "text": "He bypassed the winding trail entirely, racing directly toward the secluded cottage of the unsuspecting grandmother.",
+              "audioStart": 120.075,
+              "audioEnd": 126.263
+            },
+            {
+              "text": "Upon reaching the rustic wooden door, he rapped his sharp claws against the timber and slipped inside without encountering the slightest resistance.",
+              "audioStart": 127.125,
+              "audioEnd": 134.787
+            },
+            {
+              "text": "The terrified elderly woman barely had time to react before the intruder overpowered her, confining her securely within a small adjoining pantry.",
+              "audioStart": 135.65,
+              "audioEnd": 143.662
+            },
+            {
+              "text": "Intent upon his deception, the cunning animal donned her nightcap and spectacles, settling into the feather bed to await his primary target.",
+              "audioStart": 144.525,
+              "audioEnd": 152.312
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Not long afterward, Little Red Riding Hood emerged from the trees and approached the familiar threshold of her grandmother's cottage.",
+              "audioStart": 153.175,
+              "audioEnd": 159.762
+            },
+            {
+              "text": "Finding the front door standing slightly ajar, she stepped cautiously into the dim interior, calling out a gentle greeting.",
+              "audioStart": 160.625,
+              "audioEnd": 167.15
+            },
+            {
+              "text": "Receiving no clear response, she drew closer to the bed, struck instantly by a profound and unsettling dissonance.",
+              "audioStart": 168.012,
+              "audioEnd": 174.5
+            },
+            {
+              "text": "Her grandmother appeared remarkably altered, possessing features far coarser and more exaggerated than the child remembered.",
+              "audioStart": 175.363,
+              "audioEnd": 181.588
+            },
+            {
+              "text": "Trembling slightly, the girl questioned why her relative possessed such unusually large eyes, such remarkably long ears, and such terrifyingly sharp teeth.",
+              "audioStart": 182.45,
+              "audioEnd": 191.4
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "With a sudden burst of violent motion, the impostor cast off the bedclothes and sprang toward the terrified child.",
+              "audioStart": 192.262,
+              "audioEnd": 198.275
+            },
+            {
+              "text": "He declared in a booming, mocking tone that those formidable teeth were intended specifically to consume her whole.",
+              "audioStart": 199.137,
+              "audioEnd": 204.887
+            },
+            {
+              "text": "Panic overriding her senses, the young girl shrieked in terror, darting wildly around the cramped quarters as the predator pursued her.",
+              "audioStart": 205.75,
+              "audioEnd": 212.875
+            },
+            {
+              "text": "Desperation fueled her flight, yet the agile beast closed the distance with terrifying speed, threatening to seal her fate.",
+              "audioStart": 213.738,
+              "audioEnd": 220.613
+            },
+            {
+              "text": "Just as the situation reached its absolute zenith of despair, the heavy oak door creaked open to reveal a local woodcutter.",
+              "audioStart": 221.475,
+              "audioEnd": 228.225
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The vigilant hunter had been working nearby when the sharp sounds of distress penetrated the heavy timber walls.",
+              "audioStart": 229.088,
+              "audioEnd": 234.688
+            },
+            {
+              "text": "Recognizing the unmistakable aura of danger, he had rushed to the cottage with his heavy axe held firmly in his grasp.",
+              "audioStart": 235.55,
+              "audioEnd": 243.197
+            },
+            {
+              "text": "Taking in the chaotic scene at a single glance, he intervened decisively, driving the aggressive beast away from the trembling child.",
+              "audioStart": 244.06,
+              "audioEnd": 251.235
+            },
+            {
+              "text": "Realizing that he was severely outmatched, the cowardly predator abandoned his prize and bolted through the open doorway.",
+              "audioStart": 252.097,
+              "audioEnd": 258.435
+            },
+            {
+              "text": "He vanished into the shadowy depths of the forest, retreating hastily from the wrath of the armed protector.",
+              "audioStart": 259.298,
+              "audioEnd": 264.822
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Once the immediate peril had subsided, the brave girl hurried to unlock the pantry door and release her trembling grandmother.",
+              "audioStart": 265.685,
+              "audioEnd": 272.035
+            },
+            {
+              "text": "The two embraced fiercely, shedding tears of relief as the profound magnitude of their narrow escape settled over them.",
+              "audioStart": 272.897,
+              "audioEnd": 278.835
+            },
+            {
+              "text": "Turning to their rescuer, they expressed their deepest gratitude, thanking him profusely for his timely and courageous intervention.",
+              "audioStart": 279.697,
+              "audioEnd": 286.56
+            },
+            {
+              "text": "The woodcutter offered a reassuring smile before departing quietly back to his labor among the towering trees.",
+              "audioStart": 287.423,
+              "audioEnd": 293.072
+            },
+            {
+              "text": "Standing amidst the wreckage of the cottage, the young girl absorbed the bitter weight of the lesson she had just learned.",
+              "audioStart": 293.935,
+              "audioEnd": 299.685
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As the afternoon sun began its slow descent, the child walked homeward in the company of her cherished relative.",
+              "audioStart": 300.548,
+              "audioEnd": 306.36
+            },
+            {
+              "text": "They conversed in hushed tones about the harrowing events that had transformed their quiet morning into a waking nightmare.",
+              "audioStart": 307.223,
+              "audioEnd": 312.923
+            },
+            {
+              "text": "Waiting anxiously by the garden gate, the mother caught sight of them approaching and rushed forward with open arms.",
+              "audioStart": 313.785,
+              "audioEnd": 319.51
+            },
+            {
+              "text": "She enveloped her daughter in a crushing embrace, weeping with sheer thankfulness that the ordeal had ended in safety.",
+              "audioStart": 320.373,
+              "audioEnd": 326.173
+            },
+            {
+              "text": "That very evening, the grandmother prepared a hearty meal, and the family gathered around the wooden table to restore their shattered equilibrium.",
+              "audioStart": 327.035,
+              "audioEnd": 334.21
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The young girl offered a solemn vow that she would never again converse with strangers or stray from the designated route.",
+              "audioStart": 335.072,
+              "audioEnd": 340.848
+            },
+            {
+              "text": "Her mother nodded approvingly, emphasizing that obedience and vigilance formed the twin pillars of personal safety.",
+              "audioStart": 341.71,
+              "audioEnd": 347.635
+            },
+            {
+              "text": "Years drifted by, yet the cautionary tale remained indelibly etched into the collective memory of the entire village.",
+              "audioStart": 348.498,
+              "audioEnd": 354.723
+            },
+            {
+              "text": "Whenever the growing maiden walked beneath the leafy canopy, she maintained a vigilant watch over her surroundings.",
+              "audioStart": 355.585,
+              "audioEnd": 361.373
+            },
+            {
+              "text": "The vibrant red cloak remained her favorite garment, serving as a permanent reminder of the day she nearly lost everything.",
+              "audioStart": 362.235,
+              "audioEnd": 368.498
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "No longer naive, she understood that the world beyond the village boundary required both respect and caution.",
+              "audioStart": 369.36,
+              "audioEnd": 375.072
+            },
+            {
+              "text": "The forest retained its breathtaking beauty, but it was now viewed through a lens of profound maturity and awareness.",
+              "audioStart": 375.935,
+              "audioEnd": 381.848
+            },
+            {
+              "text": "She frequently visited her grandmother, sharing warm tea and endless conversations that deepened their familial bond.",
+              "audioStart": 382.71,
+              "audioEnd": 388.947
+            },
+            {
+              "text": "Peace returned permanently to the cottage near the woods, undisturbed by the shadow of the departed beast.",
+              "audioStart": 389.81,
+              "audioEnd": 395.072
+            },
+            {
+              "text": "Thus, the legendary event became a timeless heritage, passed down through generations to ensure that children would always heed the wisdom of their parents.",
+              "audioStart": 395.935,
+              "audioEnd": 404.11
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0168.mp3",
+      "wordTimings": "audio/c1/st-0168.timings.json",
+      "quiz": [
+        {
+          "q": "What specific item did Little Red Riding Hood's mother give her at the beginning of the story?",
+          "options": [
+            "A basket containing fresh bread and sweet butter",
+            "A bundle of firewood and a warm wool blanket",
+            "A jar of honey and a bouquet of wildflowers"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the wolf manage to enter the grandmother's cottage without any resistance?",
+          "options": [
+            "He picked the lock while the grandmother was asleep.",
+            "He knocked on the door and entered without trouble.",
+            "He climbed down through the stone chimney."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who ultimately intervened and saved the young girl from the wolf?",
+          "options": [
+            "Her mother, who had followed her secretly",
+            "A local woodcutter working nearby",
+            "A village guard on patrol"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1258 @@
+{
+  "id": "st-0207",
+  "title": "The Fool of the World and the Flying Ship",
+  "genre": "classic",
+  "summary": "A kind young man builds a flying ship and faces hard tests to win a princess.",
+  "coverScene": "A young man proudly steers a strange wooden ship through the bright blue sky, surrounded by several unusual friends.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "There is a young man.",
+              "audioStart": 0.106,
+              "audioEnd": 1.286
+            },
+            {
+              "text": "People call him a bad name.",
+              "audioStart": 2.25,
+              "audioEnd": 3.875
+            },
+            {
+              "text": "His family think he is little.",
+              "audioStart": 4.833,
+              "audioEnd": 6.653
+            },
+            {
+              "text": "He always have a kind hand.",
+              "audioStart": 7.611,
+              "audioEnd": 9.306
+            },
+            {
+              "text": "The man wants a great boat.",
+              "audioStart": 10.264,
+              "audioEnd": 11.917
+            },
+            {
+              "text": "The man will give his child.",
+              "audioStart": 12.875,
+              "audioEnd": 14.431
+            },
+            {
+              "text": "The young man try his way.",
+              "audioStart": 15.389,
+              "audioEnd": 16.972
+            },
+            {
+              "text": "His mother give him food.",
+              "audioStart": 17.931,
+              "audioEnd": 19.486
+            },
+            {
+              "text": "He walks into the wide land.",
+              "audioStart": 20.444,
+              "audioEnd": 22.167
+            },
+            {
+              "text": "An old man ask for food.",
+              "audioStart": 23.125,
+              "audioEnd": 24.806
+            },
+            {
+              "text": "The young man share his food.",
+              "audioStart": 25.764,
+              "audioEnd": 27.486
+            },
+            {
+              "text": "The old man help him.",
+              "audioStart": 28.444,
+              "audioEnd": 29.875
+            },
+            {
+              "text": "He builds a boat.",
+              "audioStart": 30.833,
+              "audioEnd": 31.972
+            },
+            {
+              "text": "He moves high in the air.",
+              "audioStart": 32.931,
+              "audioEnd": 34.403
+            },
+            {
+              "text": "He sees other men.",
+              "audioStart": 35.361,
+              "audioEnd": 36.597
+            },
+            {
+              "text": "They need help from him.",
+              "audioStart": 37.556,
+              "audioEnd": 38.792
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He meets a man with good side.",
+              "audioStart": 39.75,
+              "audioEnd": 41.569
+            },
+            {
+              "text": "He finds a good person.",
+              "audioStart": 42.528,
+              "audioEnd": 44.069
+            },
+            {
+              "text": "They take good men.",
+              "audioStart": 45.028,
+              "audioEnd": 46.236
+            },
+            {
+              "text": "They take water.",
+              "audioStart": 47.194,
+              "audioEnd": 48.264
+            },
+            {
+              "text": "They carry big wood.",
+              "audioStart": 49.222,
+              "audioEnd": 50.514
+            },
+            {
+              "text": "The boat comes at the house.",
+              "audioStart": 51.472,
+              "audioEnd": 53.028
+            },
+            {
+              "text": "The man is very bad.",
+              "audioStart": 53.986,
+              "audioEnd": 55.389
+            },
+            {
+              "text": "The man do not want him.",
+              "audioStart": 56.347,
+              "audioEnd": 57.806
+            },
+            {
+              "text": "The man gives hard work.",
+              "audioStart": 58.764,
+              "audioEnd": 60.292
+            },
+            {
+              "text": "The man wants them to eat food.",
+              "audioStart": 61.25,
+              "audioEnd": 63.097
+            },
+            {
+              "text": "The man eats all food.",
+              "audioStart": 64.056,
+              "audioEnd": 65.486
+            },
+            {
+              "text": "The man wants water.",
+              "audioStart": 66.444,
+              "audioEnd": 67.736
+            },
+            {
+              "text": "The good man bring water.",
+              "audioStart": 68.694,
+              "audioEnd": 70.153
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man test them again.",
+              "audioStart": 71.111,
+              "audioEnd": 72.708
+            },
+            {
+              "text": "They stay in a bad room.",
+              "audioStart": 73.667,
+              "audioEnd": 75.042
+            },
+            {
+              "text": "They stay good all night.",
+              "audioStart": 76.0,
+              "audioEnd": 77.375
+            },
+            {
+              "text": "The man can no longer say no.",
+              "audioStart": 78.333,
+              "audioEnd": 80.278
+            },
+            {
+              "text": "The family takes the young man.",
+              "audioStart": 81.236,
+              "audioEnd": 83.056
+            },
+            {
+              "text": "A big party start now.",
+              "audioStart": 84.014,
+              "audioEnd": 85.569
+            },
+            {
+              "text": "They live good together.",
+              "audioStart": 86.528,
+              "audioEnd": 87.889
+            },
+            {
+              "text": "They are very glad.",
+              "audioStart": 88.847,
+              "audioEnd": 90.069
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0207.mp3",
+      "wordTimings": "audio/a1/st-0207.timings.json",
+      "quiz": [
+        {
+          "q": "What do people call the young man?",
+          "options": [
+            "A fool",
+            "A king",
+            "A hunter"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the king want?",
+          "options": [
+            "A flying ship",
+            "A big house",
+            "More food"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who helps the fool build the ship?",
+          "options": [
+            "His mother",
+            "An old man",
+            "The king"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once, a simple young man lived with his family.",
+              "audioStart": 0.106,
+              "audioEnd": 3.036
+            },
+            {
+              "text": "Everyone called him a bad name.",
+              "audioStart": 4,
+              "audioEnd": 5.792
+            },
+            {
+              "text": "His family thought he was not good.",
+              "audioStart": 6.75,
+              "audioEnd": 8.806
+            },
+            {
+              "text": "He always had a good heart.",
+              "audioStart": 9.764,
+              "audioEnd": 11.319
+            },
+            {
+              "text": "The man in charge said that anyone could win his daughter.",
+              "audioStart": 12.278,
+              "audioEnd": 15.236
+            },
+            {
+              "text": "They must bring him a flying machine.",
+              "audioStart": 16.194,
+              "audioEnd": 18.181
+            },
+            {
+              "text": "The young man decided to try his chance.",
+              "audioStart": 19.139,
+              "audioEnd": 21.514
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His mother gave him food before he left home.",
+              "audioStart": 22.472,
+              "audioEnd": 25.236
+            },
+            {
+              "text": "He met an old person in the trees.",
+              "audioStart": 26.194,
+              "audioEnd": 28.292
+            },
+            {
+              "text": "The person asked for food.",
+              "audioStart": 29.25,
+              "audioEnd": 30.889
+            },
+            {
+              "text": "The young man shared everything with him.",
+              "audioStart": 31.847,
+              "audioEnd": 34.014
+            },
+            {
+              "text": "The old person told him how to build a machine.",
+              "audioStart": 34.972,
+              "audioEnd": 37.486
+            },
+            {
+              "text": "A great machine appeared before him.",
+              "audioStart": 38.444,
+              "audioEnd": 40.458
+            },
+            {
+              "text": "He went inside and started his trip high up.",
+              "audioStart": 41.417,
+              "audioEnd": 44.028
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He flew through the air.",
+              "audioStart": 44.986,
+              "audioEnd": 46.319
+            },
+            {
+              "text": "He saw several different men who needed help.",
+              "audioStart": 47.278,
+              "audioEnd": 49.736
+            },
+            {
+              "text": "First, he met a man who could hear the ground.",
+              "audioStart": 50.694,
+              "audioEnd": 53.403
+            },
+            {
+              "text": "This man could hear everything across the world.",
+              "audioStart": 54.361,
+              "audioEnd": 56.944
+            },
+            {
+              "text": "Next, he found a person with a strong tool.",
+              "audioStart": 57.903,
+              "audioEnd": 60.694
+            },
+            {
+              "text": "The tool could hit any target far away.",
+              "audioStart": 61.653,
+              "audioEnd": 63.958
+            },
+            {
+              "text": "Then, he picked up men who could run fast.",
+              "audioStart": 64.917,
+              "audioEnd": 67.75
+            },
+            {
+              "text": "Others could drink water or carry huge trees.",
+              "audioStart": 68.708,
+              "audioEnd": 71.694
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The flying machine finally arrived at the official house.",
+              "audioStart": 72.653,
+              "audioEnd": 75.903
+            },
+            {
+              "text": "The man in charge was very sad.",
+              "audioStart": 76.861,
+              "audioEnd": 78.889
+            },
+            {
+              "text": "The man in charge did not want a poor boy.",
+              "audioStart": 79.847,
+              "audioEnd": 82.236
+            },
+            {
+              "text": "He gave them many difficult tasks.",
+              "audioStart": 83.194,
+              "audioEnd": 85.361
+            },
+            {
+              "text": "First, they must eat a big amount of food.",
+              "audioStart": 86.319,
+              "audioEnd": 88.875
+            },
+            {
+              "text": "The man who could drink took everything easily.",
+              "audioStart": 89.833,
+              "audioEnd": 92.361
+            },
+            {
+              "text": "Next, the man in charge demanded water from the end of the world.",
+              "audioStart": 93.319,
+              "audioEnd": 97.264
+            },
+            {
+              "text": "The fast runner brought back the water in time.",
+              "audioStart": 98.222,
+              "audioEnd": 100.833
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Finally, the man in charge tested them in a hot room.",
+              "audioStart": 101.792,
+              "audioEnd": 105.153
+            },
+            {
+              "text": "The group stayed fine and good all night.",
+              "audioStart": 106.111,
+              "audioEnd": 108.403
+            },
+            {
+              "text": "The man in charge could no longer say no.",
+              "audioStart": 109.361,
+              "audioEnd": 111.833
+            },
+            {
+              "text": "The family accepted the young man.",
+              "audioStart": 112.792,
+              "audioEnd": 114.806
+            },
+            {
+              "text": "A big party began.",
+              "audioStart": 115.764,
+              "audioEnd": 117.181
+            },
+            {
+              "text": "The good young man and his true friends lived happily.",
+              "audioStart": 118.139,
+              "audioEnd": 121.028
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0207.mp3",
+      "wordTimings": "audio/a2/st-0207.timings.json",
+      "quiz": [
+        {
+          "q": "What did the king want in exchange for his daughter?",
+          "options": [
+            "A flying ship",
+            "A huge forest",
+            "A magical water"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who did the fool meet first in the forest?",
+          "options": [
+            "A fast runner",
+            "An old man",
+            "A hunter"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What was the final test given by the king?",
+          "options": [
+            "Eating a mountain of food",
+            "Running across the sea",
+            "Staying inside a hot bathhouse"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "There once lived a simple young man whom everyone called a child.",
+              "audioStart": 0.1,
+              "audioEnd": 3.188
+            },
+            {
+              "text": "His family considered him strange.",
+              "audioStart": 4.05,
+              "audioEnd": 6.0
+            },
+            {
+              "text": "However, he always kept a kind heart.",
+              "audioStart": 6.862,
+              "audioEnd": 9.175
+            },
+            {
+              "text": "The king announced that any person could win his daughter.",
+              "audioStart": 10.037,
+              "audioEnd": 12.725
+            },
+            {
+              "text": "This person only needed to bring him a flying ship.",
+              "audioStart": 13.588,
+              "audioEnd": 16.275
+            },
+            {
+              "text": "Therefore, the young man decided to try.",
+              "audioStart": 17.137,
+              "audioEnd": 19.512
+            },
+            {
+              "text": "Before leaving home, his mother gave him some dry food for the road.",
+              "audioStart": 20.375,
+              "audioEnd": 24.0
+            },
+            {
+              "text": "He packed everything into a small bag and walked out.",
+              "audioStart": 24.863,
+              "audioEnd": 27.625
+            },
+            {
+              "text": "He had never traveled far from his village before.",
+              "audioStart": 28.488,
+              "audioEnd": 31.137
+            },
+            {
+              "text": "He hoped that his luck would change soon.",
+              "audioStart": 32.0,
+              "audioEnd": 33.975
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On his way into the forest, he met an old man.",
+              "audioStart": 34.837,
+              "audioEnd": 37.425
+            },
+            {
+              "text": "The old man asked for food.",
+              "audioStart": 38.288,
+              "audioEnd": 39.875
+            },
+            {
+              "text": "The young man shared everything he had with him.",
+              "audioStart": 40.737,
+              "audioEnd": 43.05
+            },
+            {
+              "text": "In return, the old man told him how to build a flying ship.",
+              "audioStart": 43.913,
+              "audioEnd": 47.225
+            },
+            {
+              "text": "With a little hard work, a wonderful machine appeared before him.",
+              "audioStart": 48.087,
+              "audioEnd": 51.375
+            },
+            {
+              "text": "He climbed inside and started his journey high above the ground.",
+              "audioStart": 52.237,
+              "audioEnd": 55.375
+            },
+            {
+              "text": "As he flew through the sky, he noticed several strange people who needed help.",
+              "audioStart": 56.237,
+              "audioEnd": 60.288
+            },
+            {
+              "text": "First, he met a man with an ear on the ground.",
+              "audioStart": 61.15,
+              "audioEnd": 63.688
+            },
+            {
+              "text": "This man could hear everything across the world.",
+              "audioStart": 64.55,
+              "audioEnd": 66.875
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Next, he found a hunter whose gun could hit any target from very far away.",
+              "audioStart": 67.737,
+              "audioEnd": 71.912
+            },
+            {
+              "text": "Then, he picked up men who could run faster than the wind.",
+              "audioStart": 72.775,
+              "audioEnd": 75.875
+            },
+            {
+              "text": "They could drink rivers of water.",
+              "audioStart": 76.737,
+              "audioEnd": 78.312
+            },
+            {
+              "text": "They could carry huge forests on their backs.",
+              "audioStart": 79.175,
+              "audioEnd": 81.575
+            },
+            {
+              "text": "When the flying ship finally arrived at the king house, the king was very angry.",
+              "audioStart": 82.438,
+              "audioEnd": 86.625
+            },
+            {
+              "text": "The king did not want his daughter to marry a poor country boy.",
+              "audioStart": 87.487,
+              "audioEnd": 90.45
+            },
+            {
+              "text": "Therefore, the king gave them many difficult tasks to complete.",
+              "audioStart": 91.312,
+              "audioEnd": 94.875
+            },
+            {
+              "text": "He wanted this before he would agree to the marriage.",
+              "audioStart": 95.737,
+              "audioEnd": 98.237
+            },
+            {
+              "text": "He thought that if they finished all tasks, the king would let them stay.",
+              "audioStart": 99.1,
+              "audioEnd": 102.713
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "First, the king told them to eat an enormous mountain of food in one night.",
+              "audioStart": 103.575,
+              "audioEnd": 107.525
+            },
+            {
+              "text": "The man who could drink everything took all the food and water without any trouble.",
+              "audioStart": 108.388,
+              "audioEnd": 112.188
+            },
+            {
+              "text": "Next, the king demanded that they bring water from the end of the world.",
+              "audioStart": 113.05,
+              "audioEnd": 116.65
+            },
+            {
+              "text": "The fast runner quickly ran across land and sea.",
+              "audioStart": 117.513,
+              "audioEnd": 120.2
+            },
+            {
+              "text": "He brought back the special water in time.",
+              "audioStart": 121.062,
+              "audioEnd": 123.2
+            },
+            {
+              "text": "Finally, the king tested them by telling them to survive inside a hot metal house.",
+              "audioStart": 124.062,
+              "audioEnd": 128.637
+            },
+            {
+              "text": "The group used their good skills to stay safe and comfortable all night long.",
+              "audioStart": 129.5,
+              "audioEnd": 133.25
+            },
+            {
+              "text": "After all these trials, the king could no longer say no.",
+              "audioStart": 134.113,
+              "audioEnd": 137.275
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The family finally accepted the young man, and a big party began.",
+              "audioStart": 138.137,
+              "audioEnd": 141.787
+            },
+            {
+              "text": "The good young man and his true friends lived happily ever after.",
+              "audioStart": 142.65,
+              "audioEnd": 145.963
+            },
+            {
+              "text": "They have shared many great adventures together since that day.",
+              "audioStart": 146.825,
+              "audioEnd": 149.863
+            },
+            {
+              "text": "If anyone asked about the story, they would remember the flying ship.",
+              "audioStart": 150.725,
+              "audioEnd": 154.175
+            },
+            {
+              "text": "Life has become much better for the entire family now.",
+              "audioStart": 155.037,
+              "audioEnd": 157.887
+            },
+            {
+              "text": "The young man has proven that a good heart can win any battle.",
+              "audioStart": 158.75,
+              "audioEnd": 161.775
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0207.mp3",
+      "wordTimings": "audio/b1/st-0207.timings.json",
+      "quiz": [
+        {
+          "q": "What did the old man give the fool in return for food?",
+          "options": [
+            "Instructions on how to build a flying ship",
+            "A magical golden ring",
+            "A fast running horse"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What was the first task the king gave the travelers?",
+          "options": [
+            "To bring water from the end of the world",
+            "To eat an enormous mountain of food in one night",
+            "To survive inside a hot iron bathhouse"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who helped bring back the magical water in time?",
+          "options": [
+            "The hunter with the special gun",
+            "The man who could hear everything",
+            "The fast runner"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "There once lived a simple young man whom everyone called a fool.",
+              "audioStart": 0.1,
+              "audioEnd": 3.175
+            },
+            {
+              "text": "His family considered him silly, but he always kept a good heart.",
+              "audioStart": 4.037,
+              "audioEnd": 7.6
+            },
+            {
+              "text": "When the ruler announced that any person who could bring him a flying vessel would win his daughter, the fool decided to try his luck.",
+              "audioStart": 8.463,
+              "audioEnd": 15.062
+            },
+            {
+              "text": "Before leaving home, his mother gave him some dry food for the road.",
+              "audioStart": 15.925,
+              "audioEnd": 19.55
+            },
+            {
+              "text": "On his way into the forest, he met an old man who asked for food.",
+              "audioStart": 20.413,
+              "audioEnd": 24.075
+            },
+            {
+              "text": "The fool shared everything he had, and in return, the old man told him how to build a wonderful flying vessel.",
+              "audioStart": 24.938,
+              "audioEnd": 30.887
+            },
+            {
+              "text": "With a little hard work, a wonderful vessel appeared before him.",
+              "audioStart": 31.75,
+              "audioEnd": 35.112
+            },
+            {
+              "text": "He climbed inside and started his journey high above the ground.",
+              "audioStart": 35.975,
+              "audioEnd": 39.112
+            },
+            {
+              "text": "As he flew through the sky, he noticed several strange people who needed help.",
+              "audioStart": 39.975,
+              "audioEnd": 44.025
+            },
+            {
+              "text": "First, he met a man with an ear to the ground who could hear everything across the world.",
+              "audioStart": 44.888,
+              "audioEnd": 49.263
+            },
+            {
+              "text": "Next, he found a hunter whose gun could hit any target from very far away.",
+              "audioStart": 50.125,
+              "audioEnd": 54.3
+            },
+            {
+              "text": "Then, he picked up men who could run faster than the wind.",
+              "audioStart": 55.163,
+              "audioEnd": 58.263
+            },
+            {
+              "text": "These men could also drink rivers of water and carry huge forests on their backs.",
+              "audioStart": 59.125,
+              "audioEnd": 63.587
+            },
+            {
+              "text": "When the flying vessel finally arrived at the royal castle, the king was very sad.",
+              "audioStart": 64.45,
+              "audioEnd": 68.975
+            },
+            {
+              "text": "The king did not want his daughter to marry a poor country boy.",
+              "audioStart": 69.838,
+              "audioEnd": 72.8
+            },
+            {
+              "text": "Therefore, the king gave them many difficult tasks to complete before he would agree to the marriage.",
+              "audioStart": 73.662,
+              "audioEnd": 78.85
+            },
+            {
+              "text": "First, the king told them to eat an enormous mountain of food in one night.",
+              "audioStart": 79.713,
+              "audioEnd": 83.662
+            },
+            {
+              "text": "The man who could drink everything easily drank all the food and water without any trouble.",
+              "audioStart": 84.525,
+              "audioEnd": 88.912
+            },
+            {
+              "text": "Next, the king demanded that they bring water from the end of the world.",
+              "audioStart": 89.775,
+              "audioEnd": 93.375
+            },
+            {
+              "text": "The fast runner quickly ran across land and sea to bring back the cool water in time.",
+              "audioStart": 94.237,
+              "audioEnd": 98.688
+            },
+            {
+              "text": "Finally, the king tested them by telling them to survive inside a hot iron room.",
+              "audioStart": 99.55,
+              "audioEnd": 103.987
+            },
+            {
+              "text": "The group used their good skills to stay safe and comfortable all night long.",
+              "audioStart": 104.85,
+              "audioEnd": 108.6
+            },
+            {
+              "text": "After all these trials, the king could no longer say no.",
+              "audioStart": 109.463,
+              "audioEnd": 112.625
+            },
+            {
+              "text": "The royal family finally accepted the young man, and a big celebration began.",
+              "audioStart": 113.487,
+              "audioEnd": 117.925
+            },
+            {
+              "text": "The smart fool and his true friends lived happily ever after.",
+              "audioStart": 118.787,
+              "audioEnd": 122.05
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The sun shone brightly upon the castle grounds while everyone danced and sang songs of joy.",
+              "audioStart": 122.912,
+              "audioEnd": 127.675
+            },
+            {
+              "text": "Many people came from distant towns to watch the special event.",
+              "audioStart": 128.537,
+              "audioEnd": 131.75
+            },
+            {
+              "text": "The young man looked at his wonderful partner and felt complete peace in his heart.",
+              "audioStart": 132.613,
+              "audioEnd": 136.6
+            },
+            {
+              "text": "No one ever called him a simple fool again because he had proved his worth through heart and truth.",
+              "audioStart": 137.463,
+              "audioEnd": 141.988
+            },
+            {
+              "text": "The old man who had given him the advice was also invited to the grand dinner.",
+              "audioStart": 142.85,
+              "audioEnd": 146.7
+            },
+            {
+              "text": "He sat near the king and shared stories about the long journey across the land.",
+              "audioStart": 147.562,
+              "audioEnd": 151.438
+            },
+            {
+              "text": "Every single guest enjoyed the fine food and wine that flowed freely throughout the evening.",
+              "audioStart": 152.3,
+              "audioEnd": 156.762
+            },
+            {
+              "text": "Children played games in the gardens while musicians filled the air with lovely music.",
+              "audioStart": 157.625,
+              "audioEnd": 161.812
+            },
+            {
+              "text": "The young woman wore a dress made of fine material and gold strings that shone under the lights.",
+              "audioStart": 162.675,
+              "audioEnd": 167.387
+            },
+            {
+              "text": "It was truly a moment that none of them would ever forget for the rest of their lives.",
+              "audioStart": 168.25,
+              "audioEnd": 172.325
+            },
+            {
+              "text": "As the night grew deeper, the stars shone like small stars in the dark sky.",
+              "audioStart": 173.188,
+              "audioEnd": 177.113
+            },
+            {
+              "text": "The newly married couple walked together toward their new home inside the royal walls.",
+              "audioStart": 177.975,
+              "audioEnd": 182.275
+            },
+            {
+              "text": "They knew that challenges might arise in the future, but they were ready to face anything hand in hand.",
+              "audioStart": 183.137,
+              "audioEnd": 188.175
+            },
+            {
+              "text": "Their strong bond would protect them against any problem that could possibly appear along their path.",
+              "audioStart": 189.037,
+              "audioEnd": 193.975
+            },
+            {
+              "text": "Thus, the story of the strong young man became a story told across generations.",
+              "audioStart": 194.838,
+              "audioEnd": 199.325
+            },
+            {
+              "text": "People would remember how truth and a pure heart could change a life forever.",
+              "audioStart": 200.188,
+              "audioEnd": 203.938
+            },
+            {
+              "text": "Even the smallest person can achieve great things when help is given without any delay.",
+              "audioStart": 204.8,
+              "audioEnd": 209.137
+            },
+            {
+              "text": "And so the land entered a calm era of happiness for all its citizens.",
+              "audioStart": 210,
+              "audioEnd": 213.613
+            },
+            {
+              "text": "Every corner of the country grew under the gentle rule of the king and his dear daughter.",
+              "audioStart": 214.475,
+              "audioEnd": 218.5
+            },
+            {
+              "text": "The flying vessel remained parked in the royal gardens as a reminder of their grand adventure.",
+              "audioStart": 219.363,
+              "audioEnd": 223.988
+            },
+            {
+              "text": "Visitors often came just to touch the sides of the vessel and imagine flying high above the clouds.",
+              "audioStart": 224.85,
+              "audioEnd": 230.05
+            },
+            {
+              "text": "Life went on with quiet joy, bringing new hope to every family living within those ancient borders.",
+              "audioStart": 230.912,
+              "audioEnd": 236.125
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Morning came again with new light shining upon the palace and the green gardens below.",
+              "audioStart": 236.988,
+              "audioEnd": 241.375
+            },
+            {
+              "text": "The birds sang sweet songs from the tall trees that grew near the river.",
+              "audioStart": 242.238,
+              "audioEnd": 245.613
+            },
+            {
+              "text": "The young man walked outside to breathe the fresh air and look at the blue sky.",
+              "audioStart": 246.475,
+              "audioEnd": 251.346
+            },
+            {
+              "text": "He remembered the long road he had traveled before finding his true path in life.",
+              "audioStart": 252.209,
+              "audioEnd": 256.372
+            },
+            {
+              "text": "His mother came out of the house to see how her son was doing today.",
+              "audioStart": 257.234,
+              "audioEnd": 260.447
+            },
+            {
+              "text": "She smiled at him with so much love in her eyes.",
+              "audioStart": 261.309,
+              "audioEnd": 263.859
+            },
+            {
+              "text": "They talked about the past and how everything had changed for their family.",
+              "audioStart": 264.721,
+              "audioEnd": 268.309
+            },
+            {
+              "text": "No one in the village ever doubted the young man again.",
+              "audioStart": 269.171,
+              "audioEnd": 271.684
+            },
+            {
+              "text": "Instead, people looked up to him as a true hero of the land.",
+              "audioStart": 272.546,
+              "audioEnd": 275.709
+            },
+            {
+              "text": "The king also visited them often to share a cup of tea and talk about state matters.",
+              "audioStart": 276.572,
+              "audioEnd": 281.022
+            },
+            {
+              "text": "The princess was very happy with her husband and spent her days painting and reading books.",
+              "audioStart": 281.884,
+              "audioEnd": 286.372
+            },
+            {
+              "text": "Sometimes they walked through the market to buy fresh fruit and talk with local people.",
+              "audioStart": 287.234,
+              "audioEnd": 291.309
+            },
+            {
+              "text": "Everyone greeted them with warm smiles and kind words of respect.",
+              "audioStart": 292.171,
+              "audioEnd": 295.734
+            },
+            {
+              "text": "The friends who had helped the fool during his journey also stayed near the castle.",
+              "audioStart": 296.596,
+              "audioEnd": 300.372
+            },
+            {
+              "text": "The fast runner built a small house close to the river and lived a quiet life.",
+              "audioStart": 301.234,
+              "audioEnd": 305.209
+            },
+            {
+              "text": "The man with the sharp ears worked as a royal guard to keep everyone safe from danger.",
+              "audioStart": 306.072,
+              "audioEnd": 310.322
+            },
+            {
+              "text": "Nothing could ever surprise them because they were always ready for anything.",
+              "audioStart": 311.184,
+              "audioEnd": 314.796
+            },
+            {
+              "text": "Years passed by, but the magical vessel still sat in the garden for all to see.",
+              "audioStart": 315.659,
+              "audioEnd": 320.221
+            },
+            {
+              "text": "Children would climb on top of the ship and imagine exciting trips across the world.",
+              "audioStart": 321.084,
+              "audioEnd": 325.159
+            },
+            {
+              "text": "Teachers brought their students to the castle grounds to learn about the great history of the kingdom.",
+              "audioStart": 326.022,
+              "audioEnd": 330.471
+            },
+            {
+              "text": "The story of the fool became a famous lesson taught in every school across the nation.",
+              "audioStart": 331.334,
+              "audioEnd": 335.772
+            },
+            {
+              "text": "It taught people that kindness and a pure heart were more valuable than gold or silver.",
+              "audioStart": 336.634,
+              "audioEnd": 340.909
+            },
+            {
+              "text": "Even when things seemed impossible, hope could always find a way forward.",
+              "audioStart": 341.772,
+              "audioEnd": 345.409
+            },
+            {
+              "text": "The land remained safe and prosperous under the wise rule of the royal family.",
+              "audioStart": 346.272,
+              "audioEnd": 350.096
+            },
+            {
+              "text": "And so the simple young man who was once called a fool found his true place in history.",
+              "audioStart": 350.959,
+              "audioEnd": 355.221
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0207.mp3",
+      "wordTimings": "audio/b2/st-0207.timings.json",
+      "quiz": [
+        {
+          "q": "What did the king promise to the person who could bring him a flying ship?",
+          "options": [
+            "A large bag of gold",
+            "His daughter's hand in marriage",
+            "Half of the kingdom"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Whom did the fool meet first on his way into the forest?",
+          "options": [
+            "An old man asking for food",
+            "A fast runner",
+            "The king's daughter"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the travelers complete the food challenge?",
+          "options": [
+            "They hid the food in the forest.",
+            "They shared it with the king.",
+            "The man who could drink everything swallowed all the food and water."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "There once lived a simple young man whom everyone in the village called a fool, for his mind seemed untethered from practical ambition. Though his family considered him hopelessly naive, he possessed an innate goodness and a quiet, steadfast heart that never faltered. When the sovereign announced a royal decree promising his daughter's hand to any man who could present a flying vessel, the youth decided to test his fortune. Before he departed from the humble cottage, his anxious mother handed him a small pouch of dry crusts for the perilous road ahead. Stepping out into the crisp morning air, he began his long journey toward the dense, whispering forest.",
+              "audioStart": 0.1,
+              "audioEnd": 37.425
+            },
+            {
+              "text": "Deep within the shadowy trails of the woods, he encountered an ancient traveler bent with age and leaning upon a gnarled staff. The old man raised a trembling hand and asked if the youth might share a morsel of food to ease his hunger. Without a moment of hesitation, the boy offered the entirety of his meager provisions, holding nothing back for himself. Touched by this profound generosity, the mysterious elder revealed the secret of how to construct a wondrous flying ship. With a few hours of diligent labor and a touch of unforeseen grace, a magnificent timber vessel materialized before him. He climbed eagerly through the hatch, settled into the polished cockpit, and propelled himself into the boundless sky.",
+              "audioStart": 38.288,
+              "audioEnd": 79.562
+            },
+            {
+              "text": "As he soared high above the patchwork fields and winding rivers, his sharp eyes scanned the vast landscape below him. He soon noticed several peculiar individuals whose extraordinary talents drew his immediate attention and sympathy. First, he spotted a solitary figure lying flat upon the earth with one ear pressed firmly against the soil to listen to the whispers of the world. Next, he observed a skilled hunter whose formidable rifle could strike any distant target with unerring precision across miles of empty air. Not long after, he welcomed men who could run faster than the wildest gale, drink entire rivers dry in a single breath, and carry immense forests upon their shoulders. Each of these eccentric wanderers joined his airborne crew, transforming a lonely flight into a fellowship of wonders.",
+              "audioStart": 80.425,
+              "audioEnd": 127.588
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the flying vessel finally descended upon the marble courtyards of the royal castle, the king felt a cold wave of dismay wash over him. The monarch had envisioned a proud prince for his beloved daughter, not a rustic youth arriving in a contraption built from common wood. Desperate to find a pretext for refusal, the king devised a series of seemingly impossible trials that would surely break their spirit. First, he commanded them to consume an enormous mountain of bread and meat during a single night without leaving a single crumb behind. The companion who possessed the boundless thirst stepped forward and effortlessly swallowed the entire mountain of food along with gallons of water. Stunned by this feat, the court murmured anxiously while the king plotted his next desperate obstacle to protect his royal pride.",
+              "audioStart": 128.45,
+              "audioEnd": 174.775
+            },
+            {
+              "text": "Undeterred by the first failure, the monarch demanded that they procure pure, refreshing water from the literal ends of the earth before the morning bell. The swift runner instantly bolted across continents and oceans, returning in mere moments with a brimming vessel of cool water just as the dawn approached. Refusing to yield, the king devised a final, treacherous test and ordered them to spend the night inside a red-hot iron bathhouse. The oppressive heat radiated through the heavy metal doors, threatening to scorch anything trapped within its burning embrace. Yet, by pooling their unique abilities and keeping their cool resolve, the companions navigated the blistering temperature with remarkable ease and comfort. When morning arrived, the guards unlocked the heavy doors to find the young man and his friends resting peacefully, entirely unharmed by the furnace.",
+              "audioStart": 175.637,
+              "audioEnd": 225.425
+            },
+            {
+              "text": "Faced with undeniable proof of their resourcefulness, the king could no longer withhold his royal consent or invent further cruel delays. The royal family officially accepted the young man into their lineage, and preparations for a grand celebration began across the kingdom. The sun shone brightly upon the manicured castle grounds while crowds danced and sang songs of joyous triumph under the open sky. Many travelers arrived from distant towns to witness the historic event and partake in the royal festivities. The young man looked across the festive courtyard toward his radiant partner and felt a profound peace settle deep within his spirit. No one in the realm ever dared to call him a simple fool again, for he had proven his true worth through courage and honesty.",
+              "audioStart": 226.287,
+              "audioEnd": 270.88
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The mysterious old man who had originally guided him was also honored as a guest of distinction at the lavish banquet table. He sat near the throne and shared lively tales of the long, winding road that had brought them all together under one roof. Every single guest enjoyed the fine food and rich wine that flowed freely throughout the warm evening hours. Children chased one another through the blossoming gardens while talented musicians filled the evening air with sweet, melodic strings. The princess wore a stunning gown woven from delicate silk and threads of gold that caught the flickering torchlight. It was a breathtaking moment that none of the attendees would ever forget for the remainder of their days.",
+              "audioStart": 271.743,
+              "audioEnd": 311.318
+            },
+            {
+              "text": "As the shadows lengthened and the stars emerged like scattered diamonds across the velvet sky, the newlyweds strolled together toward their new quarters. They understood that future challenges might occasionally test their patience, but they faced tomorrow hand in hand with absolute confidence. Their unbreakable bond would serve as a powerful shield against any hardship that dared to cross their path in the years to come. Thus, the legend of the gentle-hearted youth blossomed into a cherished tale told across generations in every corner of the realm. People whispered with admiration about how truth and a pure spirit could alter the course of a destiny forever. Even the humblest soul could achieve greatness when assistance was offered freely and without hesitation.",
+              "audioStart": 312.18,
+              "audioEnd": 355.13
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Morning arrived once more with brilliant sunlight washing over the palace turrets and the dew-kissed gardens below. Sweet melodies echoed from the robins nesting in the tall weeping willows near the rushing riverbank. The young man stepped outside to breathe the invigorating air and gaze up at the clear, boundless blue expanse above. He paused to reflect upon the arduous journey he had traversed before finally discovering his true purpose. His mother stepped out onto the porch to greet him with a warm, proud smile that mirrored her deep affection. They spoke softly of bygone days and marveled at how profoundly their modest lives had shifted.",
+              "audioStart": 355.993,
+              "audioEnd": 392.731
+            },
+            {
+              "text": "The king frequently visited their apartments to share a quiet cup of tea and discuss matters of state with his clever son-in-law. The princess spent her sunlit hours painting landscapes in the courtyard and reading ancient volumes from the royal library. Whenever they wandered through the bustling market stalls, local merchants and townspeople greeted them with genuine respect and affection. The faithful companions who had aided the fool during his quest chose to remain close to the castle grounds. The swift runner constructed a cozy timber cottage by the river and settled into a peaceful, unhurried routine. Meanwhile, the man with the exceptional hearing accepted a position as the chief royal guard to protect the realm from hidden dangers.",
+              "audioStart": 393.593,
+              "audioEnd": 435.268
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Decades slipped away quietly, yet the marvelous flying vessel remained parked in the palace gardens as a permanent monument to their grand adventure. Curious children frequently climbed upon its weathered wooden hull to imagine soaring across oceans and drifting among distant clouds. Instructors brought groups of eager students to the castle grounds to study the rich history and folklore of the kingdom. The narrative of the humble youth endured as a core lesson taught in every schoolhouse throughout the nation. It reminded every citizen that genuine kindness held far more intrinsic value than chests of gold or silver coins. Even when circumstances appeared entirely hopeless, perseverance and an open heart could always carve out a pathway to a better tomorrow. The land remained remarkably secure and prosperous under the wise, compassionate guidance of the royal family. And thus the simple young man who was once dismissed as a fool secured his rightful place among the legends of history.",
+              "audioStart": 436.13,
+              "audioEnd": 494.361
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0207.mp3",
+      "wordTimings": "audio/c1/st-0207.timings.json",
+      "quiz": [
+        {
+          "q": "What did the young man give the old traveler in the forest?",
+          "options": [
+            "A heavy pouch of silver coins",
+            "The entirety of his meager food",
+            "A warm woolen winter cloak"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which companion helped them secure water from the end of the world in time?",
+          "options": [
+            "The exceptionally fast runner",
+            "The hunter with the precise rifle",
+            "The man who could hear every sound"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What final test did the king devise to challenge the young man and his friends inside the castle?",
+          "options": [
+            "Crossing a deep, crocodile-infested river",
+            "Spending a night inside a red-hot iron room",
+            "Climbing a steep mountain without any ropes"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

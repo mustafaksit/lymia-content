@@ -1,0 +1,1269 @@
+{
+  "id": "st-0260",
+  "title": "The Mitten",
+  "genre": "classic",
+  "summary": "An old man loses a tiny item, drawing curious creatures into a cramped home.",
+  "coverScene": "A lonely red mitten lies on a snowy ground while various little animals look inside it with wonder.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "An old man walks.",
+              "audioStart": 0.106,
+              "audioEnd": 1.481
+            },
+            {
+              "text": "He walks through a place.",
+              "audioStart": 2.444,
+              "audioEnd": 3.944
+            },
+            {
+              "text": "He loses a little thing.",
+              "audioStart": 4.903,
+              "audioEnd": 6.417
+            },
+            {
+              "text": "He loses it on the land.",
+              "audioStart": 7.375,
+              "audioEnd": 8.944
+            },
+            {
+              "text": "A small person sees it.",
+              "audioStart": 9.903,
+              "audioEnd": 11.542
+            },
+            {
+              "text": "The small person is a little one.",
+              "audioStart": 12.5,
+              "audioEnd": 14.472
+            },
+            {
+              "text": "The little one lives in it.",
+              "audioStart": 15.431,
+              "audioEnd": 16.889
+            },
+            {
+              "text": "A little one comes too.",
+              "audioStart": 17.847,
+              "audioEnd": 19.333
+            },
+            {
+              "text": "The one asks to join.",
+              "audioStart": 20.292,
+              "audioEnd": 21.722
+            },
+            {
+              "text": "The first one lets the other in.",
+              "audioStart": 22.681,
+              "audioEnd": 24.569
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They share a room.",
+              "audioStart": 25.528,
+              "audioEnd": 26.639
+            },
+            {
+              "text": "Another one runs by.",
+              "audioStart": 27.597,
+              "audioEnd": 29.125
+            },
+            {
+              "text": "The one stops.",
+              "audioStart": 30.083,
+              "audioEnd": 31.236
+            },
+            {
+              "text": "He sees the little home.",
+              "audioStart": 32.194,
+              "audioEnd": 33.653
+            },
+            {
+              "text": "He asks for a place.",
+              "audioStart": 34.611,
+              "audioEnd": 36.125
+            },
+            {
+              "text": "They let him come in.",
+              "audioStart": 37.083,
+              "audioEnd": 38.347
+            },
+            {
+              "text": "Another person comes next.",
+              "audioStart": 39.306,
+              "audioEnd": 41.208
+            },
+            {
+              "text": "She wants a home.",
+              "audioStart": 42.167,
+              "audioEnd": 43.278
+            },
+            {
+              "text": "She gets in too.",
+              "audioStart": 44.236,
+              "audioEnd": 45.403
+            },
+            {
+              "text": "A big person appears.",
+              "audioStart": 46.361,
+              "audioEnd": 47.903
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He wants to come in.",
+              "audioStart": 48.861,
+              "audioEnd": 50.125
+            },
+            {
+              "text": "The others feel a bit bad.",
+              "audioStart": 51.083,
+              "audioEnd": 52.653
+            },
+            {
+              "text": "They make a place for him.",
+              "audioStart": 53.611,
+              "audioEnd": 55.083
+            },
+            {
+              "text": "A big bear walks up.",
+              "audioStart": 56.042,
+              "audioEnd": 57.528
+            },
+            {
+              "text": "He sees the little home.",
+              "audioStart": 58.486,
+              "audioEnd": 59.944
+            },
+            {
+              "text": "He wants to be there.",
+              "audioStart": 60.903,
+              "audioEnd": 62.139
+            },
+            {
+              "text": "The bear gets in now.",
+              "audioStart": 63.097,
+              "audioEnd": 64.417
+            },
+            {
+              "text": "The small home get big.",
+              "audioStart": 65.375,
+              "audioEnd": 66.819
+            },
+            {
+              "text": "A little animal come down.",
+              "audioStart": 67.778,
+              "audioEnd": 69.403
+            },
+            {
+              "text": "It sits on top.",
+              "audioStart": 70.361,
+              "audioEnd": 71.528
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The home is very full.",
+              "audioStart": 72.486,
+              "audioEnd": 73.931
+            },
+            {
+              "text": "The little animal does a thing.",
+              "audioStart": 74.889,
+              "audioEnd": 76.611
+            },
+            {
+              "text": "The home fall down.",
+              "audioStart": 77.569,
+              "audioEnd": 78.833
+            },
+            {
+              "text": "All people fall out.",
+              "audioStart": 79.792,
+              "audioEnd": 81.167
+            },
+            {
+              "text": "They watch the home fall.",
+              "audioStart": 82.125,
+              "audioEnd": 83.694
+            },
+            {
+              "text": "The old man comes back.",
+              "audioStart": 84.653,
+              "audioEnd": 86.236
+            },
+            {
+              "text": "He looks for his thing.",
+              "audioStart": 87.194,
+              "audioEnd": 88.528
+            },
+            {
+              "text": "He only sees some part.",
+              "audioStart": 89.486,
+              "audioEnd": 91.097
+            },
+            {
+              "text": "The people run away.",
+              "audioStart": 92.056,
+              "audioEnd": 93.333
+            },
+            {
+              "text": "The land is not bad now.",
+              "audioStart": 94.292,
+              "audioEnd": 95.847
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0260.mp3",
+      "wordTimings": "audio/a1/st-0260.timings.json",
+      "quiz": [
+        {
+          "q": "What does the old man lose in the forest?",
+          "options": [
+            "A little mitten",
+            "A warm hat",
+            "A small shoe"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which animal is the very first to live inside the mitten?",
+          "options": [
+            "A frog",
+            "A mouse",
+            "A rabbit"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What causes the mitten to break apart at the end?",
+          "options": [
+            "A heavy bear",
+            "A tiny bug",
+            "The old man"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "An old man walked through a cold forest.",
+              "audioStart": 0.106,
+              "audioEnd": 2.453
+            },
+            {
+              "text": "He lost his little hand item on the ground.",
+              "audioStart": 3.417,
+              "audioEnd": 5.847
+            },
+            {
+              "text": "A small animal saw the thing.",
+              "audioStart": 6.806,
+              "audioEnd": 8.556
+            },
+            {
+              "text": "She decided to live inside it.",
+              "audioStart": 9.514,
+              "audioEnd": 11.375
+            },
+            {
+              "text": "Soon a little animal moved toward the item.",
+              "audioStart": 12.333,
+              "audioEnd": 14.667
+            },
+            {
+              "text": "She asked if she could join.",
+              "audioStart": 15.625,
+              "audioEnd": 17.278
+            },
+            {
+              "text": "The small animal told the other animal that she could enter.",
+              "audioStart": 18.236,
+              "audioEnd": 21.319
+            },
+            {
+              "text": "They shared the small space together.",
+              "audioStart": 22.278,
+              "audioEnd": 24.278
+            },
+            {
+              "text": "After a short time a fast animal came running.",
+              "audioStart": 25.236,
+              "audioEnd": 27.889
+            },
+            {
+              "text": "He stopped by the item.",
+              "audioStart": 28.847,
+              "audioEnd": 30.306
+            },
+            {
+              "text": "He asked if there was room for him.",
+              "audioStart": 31.264,
+              "audioEnd": 33.111
+            },
+            {
+              "text": "The others allowed him to fit inside.",
+              "audioStart": 34.069,
+              "audioEnd": 36.222
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Next a good animal arrived.",
+              "audioStart": 37.181,
+              "audioEnd": 38.917
+            },
+            {
+              "text": "She wanted to protect herself from the bad cold.",
+              "audioStart": 39.875,
+              "audioEnd": 42.542
+            },
+            {
+              "text": "The item was already getting full.",
+              "audioStart": 43.5,
+              "audioEnd": 45.514
+            },
+            {
+              "text": "The animal managed to fit inside with the rest.",
+              "audioStart": 46.472,
+              "audioEnd": 49.292
+            },
+            {
+              "text": "Then a big animal appeared.",
+              "audioStart": 50.25,
+              "audioEnd": 51.75
+            },
+            {
+              "text": "He also asked to enter the big little space.",
+              "audioStart": 52.708,
+              "audioEnd": 55.319
+            },
+            {
+              "text": "The animals were worried because the animal was huge.",
+              "audioStart": 56.278,
+              "audioEnd": 59.167
+            },
+            {
+              "text": "They made a place for him anyway.",
+              "audioStart": 60.125,
+              "audioEnd": 61.889
+            },
+            {
+              "text": "Suddenly a strong animal walked out from the trees.",
+              "audioStart": 62.847,
+              "audioEnd": 65.819
+            },
+            {
+              "text": "He saw the item.",
+              "audioStart": 66.778,
+              "audioEnd": 67.889
+            },
+            {
+              "text": "The item could not hold such a large animal.",
+              "audioStart": 68.847,
+              "audioEnd": 71.278
+            },
+            {
+              "text": "However the bear forced his way in.",
+              "audioStart": 72.236,
+              "audioEnd": 74.319
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The small space went until it was about to break.",
+              "audioStart": 75.278,
+              "audioEnd": 78.042
+            },
+            {
+              "text": "At that moment a small insect landed on the item.",
+              "audioStart": 79,
+              "audioEnd": 81.944
+            },
+            {
+              "text": "It sat on top.",
+              "audioStart": 82.903,
+              "audioEnd": 84.069
+            },
+            {
+              "text": "The item was already full.",
+              "audioStart": 85.028,
+              "audioEnd": 86.75
+            },
+            {
+              "text": "A small insect landing on top caused the space to break.",
+              "audioStart": 87.708,
+              "audioEnd": 91.181
+            },
+            {
+              "text": "All the animals fell out on the cold ground.",
+              "audioStart": 92.139,
+              "audioEnd": 94.472
+            },
+            {
+              "text": "They watched the item break into pieces.",
+              "audioStart": 95.431,
+              "audioEnd": 97.75
+            },
+            {
+              "text": "The old man later returned to find his lost clothes.",
+              "audioStart": 98.708,
+              "audioEnd": 101.861
+            },
+            {
+              "text": "He only found pieces of broken material.",
+              "audioStart": 102.819,
+              "audioEnd": 105.389
+            },
+            {
+              "text": "The animals ran away into the forest.",
+              "audioStart": 106.347,
+              "audioEnd": 108.625
+            },
+            {
+              "text": "The ground was still again.",
+              "audioStart": 109.583,
+              "audioEnd": 111.153
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0260.mp3",
+      "wordTimings": "audio/a2/st-0260.timings.json",
+      "quiz": [
+        {
+          "q": "What animal entered the mitten first?",
+          "options": [
+            "A small mouse",
+            "A little frog",
+            "A fast rabbit"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did the animals worry when the wolf arrived?",
+          "options": [
+            "Because he was huge",
+            "Because he was fast",
+            "Because he was cold"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What caused the mitten to tear apart completely?",
+          "options": [
+            "The heavy bear forcing his way in",
+            "A tiny bug landing on top",
+            "The old man pulling it apart"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "An old man walked through a cold winter forest.",
+              "audioStart": 0.1,
+              "audioEnd": 2.575
+            },
+            {
+              "text": "He lost his warm little thing on the white snow.",
+              "audioStart": 3.438,
+              "audioEnd": 5.838
+            },
+            {
+              "text": "A small mouse saw the soft item and decided to live inside it.",
+              "audioStart": 6.7,
+              "audioEnd": 9.912
+            },
+            {
+              "text": "Soon, a little animal moved toward the thing and asked if she could join.",
+              "audioStart": 10.775,
+              "audioEnd": 14.6
+            },
+            {
+              "text": "The mouse told the animal that she could enter.",
+              "audioStart": 15.463,
+              "audioEnd": 17.6
+            },
+            {
+              "text": "They shared the small space together.",
+              "audioStart": 18.462,
+              "audioEnd": 20.262
+            },
+            {
+              "text": "After a short time, a fast animal came running across the cold land.",
+              "audioStart": 21.125,
+              "audioEnd": 24.8
+            },
+            {
+              "text": "He stopped by the thing and asked if there was room for him.",
+              "audioStart": 25.663,
+              "audioEnd": 28.5
+            },
+            {
+              "text": "The others allowed him to fit inside.",
+              "audioStart": 29.363,
+              "audioEnd": 31.3
+            },
+            {
+              "text": "Next, a bright animal arrived and wanted to protect herself from the freezing weather.",
+              "audioStart": 32.163,
+              "audioEnd": 36.6
+            },
+            {
+              "text": "Although the thing was already getting full, the animal managed to stay inside with the rest.",
+              "audioStart": 37.462,
+              "audioEnd": 42.175
+            },
+            {
+              "text": "Then a big animal appeared, and he also asked to enter the crowded little cover.",
+              "audioStart": 43.038,
+              "audioEnd": 47.075
+            },
+            {
+              "text": "The animals were worried because the animal was huge.",
+              "audioStart": 47.938,
+              "audioEnd": 50.538
+            },
+            {
+              "text": "They made a place for him anyway.",
+              "audioStart": 51.4,
+              "audioEnd": 52.987
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, a heavy animal walked out from the trees and saw the warm thing.",
+              "audioStart": 53.85,
+              "audioEnd": 57.7
+            },
+            {
+              "text": "Although the thing could not hold such a large animal, the animal forced his way in.",
+              "audioStart": 58.562,
+              "audioEnd": 62.712
+            },
+            {
+              "text": "The small cover stretched until it was about to break under so much pressure.",
+              "audioStart": 63.575,
+              "audioEnd": 67.35
+            },
+            {
+              "text": "At that moment, a tiny little animal landed on the thing and sat on top.",
+              "audioStart": 68.213,
+              "audioEnd": 72.35
+            },
+            {
+              "text": "Because the thing was already full, the extra weight caused the cover to tear apart completely.",
+              "audioStart": 73.213,
+              "audioEnd": 78.037
+            },
+            {
+              "text": "All the animals fell out onto the cold snow and watched the thing break into pieces.",
+              "audioStart": 78.9,
+              "audioEnd": 83.037
+            },
+            {
+              "text": "The old man later returned to find his lost thing.",
+              "audioStart": 83.9,
+              "audioEnd": 86.5
+            },
+            {
+              "text": "He only found pieces of torn cover.",
+              "audioStart": 87.362,
+              "audioEnd": 89.375
+            },
+            {
+              "text": "The animals ran away into the forest, leaving the winter ground quiet again.",
+              "audioStart": 90.237,
+              "audioEnd": 94.25
+            },
+            {
+              "text": "They have found new homes.",
+              "audioStart": 95.112,
+              "audioEnd": 96.425
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Winter is a very difficult season for every single wild animal in the forest.",
+              "audioStart": 97.287,
+              "audioEnd": 101.475
+            },
+            {
+              "text": "The snow covers the ground with white ice and makes food hard to find.",
+              "audioStart": 102.338,
+              "audioEnd": 105.9
+            },
+            {
+              "text": "Many living things must search for a warm place to rest during the long night.",
+              "audioStart": 106.763,
+              "audioEnd": 110.713
+            },
+            {
+              "text": "Sometimes they share a small space because no one wants to freeze outside.",
+              "audioStart": 111.575,
+              "audioEnd": 115.35
+            },
+            {
+              "text": "Sharing a home is a good idea when the weather gets too cold.",
+              "audioStart": 116.213,
+              "audioEnd": 119.2
+            },
+            {
+              "text": "The mouse learned that lesson quickly when she found the abandoned cover.",
+              "audioStart": 120.062,
+              "audioEnd": 123.388
+            },
+            {
+              "text": "Other animals watched her live inside the soft material.",
+              "audioStart": 124.25,
+              "audioEnd": 127.263
+            },
+            {
+              "text": "They realized that they could also join if they asked nicely.",
+              "audioStart": 128.125,
+              "audioEnd": 131.113
+            },
+            {
+              "text": "Good heart matters more than size when the wind blows hard through the trees.",
+              "audioStart": 131.975,
+              "audioEnd": 135.65
+            },
+            {
+              "text": "Even a bear and a mouse can try to live together for a brief moment.",
+              "audioStart": 136.512,
+              "audioEnd": 139.988
+            },
+            {
+              "text": "However, a small cover cannot support too many heavy bodies at the same time.",
+              "audioStart": 140.85,
+              "audioEnd": 145.137
+            },
+            {
+              "text": "Science always wins against a weak piece of paper in the end.",
+              "audioStart": 146.0,
+              "audioEnd": 149.125
+            },
+            {
+              "text": "The old man never expected to lose his favorite winter cover during a simple walk.",
+              "audioStart": 149.988,
+              "audioEnd": 154.213
+            },
+            {
+              "text": "He will remember this strange afternoon for a long time.",
+              "audioStart": 155.075,
+              "audioEnd": 157.8
+            },
+            {
+              "text": "The forest returned to its normal peace after all the guests left.",
+              "audioStart": 158.662,
+              "audioEnd": 162.088
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0260.mp3",
+      "wordTimings": "audio/b1/st-0260.timings.json",
+      "quiz": [
+        {
+          "q": "What animal was the first to find the mitten on the snow?",
+          "options": [
+            "A small mouse",
+            "A little frog",
+            "A fast rabbit"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which animal came right after the fox?",
+          "options": [
+            "A big wolf",
+            "A heavy bear",
+            "A tiny little bug"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What caused the mitten to tear apart completely at the end?",
+          "options": [
+            "A tiny little bug landing on top",
+            "The heavy bear forcing his way in",
+            "The old man cutting the cloth"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "An old man walked through a cold winter forest and lost his warm little clothing on the white snow.",
+              "audioStart": 0.1,
+              "audioEnd": 5.013
+            },
+            {
+              "text": "A small mouse saw the soft thing and decided to live inside it.",
+              "audioStart": 5.875,
+              "audioEnd": 9.15
+            },
+            {
+              "text": "Soon, a little animal moved toward the clothing and asked if she could join.",
+              "audioStart": 10.012,
+              "audioEnd": 13.863
+            },
+            {
+              "text": "The mouse told the animal that she could enter, so they shared the small space together.",
+              "audioStart": 14.725,
+              "audioEnd": 18.887
+            },
+            {
+              "text": "After a short time, a fast runner came running across the cold land and stopped by the clothing.",
+              "audioStart": 19.75,
+              "audioEnd": 24.688
+            },
+            {
+              "text": "He asked if there was room for him, and the others allowed him to push inside.",
+              "audioStart": 25.55,
+              "audioEnd": 29.387
+            },
+            {
+              "text": "Next, a smart animal arrived and wanted to protect herself from the freezing weather.",
+              "audioStart": 30.25,
+              "audioEnd": 34.7
+            },
+            {
+              "text": "Although the clothing was already getting full, the animal managed to fit inside with the rest.",
+              "audioStart": 35.562,
+              "audioEnd": 40.438
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Then a big creature appeared, and he also asked to enter the crowded little cover.",
+              "audioStart": 41.3,
+              "audioEnd": 45.413
+            },
+            {
+              "text": "The animals were worried because the creature was huge, but they made a place for him anyway.",
+              "audioStart": 46.275,
+              "audioEnd": 50.7
+            },
+            {
+              "text": "Suddenly, a heavy bear walked out from the trees and saw the warm clothing.",
+              "audioStart": 51.562,
+              "audioEnd": 55.413
+            },
+            {
+              "text": "Even though the clothing could not possibly hold such a large creature, the bear forced his way in.",
+              "audioStart": 56.275,
+              "audioEnd": 61.188
+            },
+            {
+              "text": "The small cover stretched until it was about to break under so much pressure.",
+              "audioStart": 62.05,
+              "audioEnd": 65.825
+            },
+            {
+              "text": "At that exact moment, a tiny little creature landed on the clothing and sat on top.",
+              "audioStart": 66.688,
+              "audioEnd": 71.375
+            },
+            {
+              "text": "Because the clothing was already full, the extra weight caused the cover to tear apart completely.",
+              "audioStart": 72.237,
+              "audioEnd": 77.225
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "All the animals fell out onto the cold snow and watched the clothing break into pieces.",
+              "audioStart": 78.088,
+              "audioEnd": 82.388
+            },
+            {
+              "text": "The old man later returned to find his lost clothing, but he only found pieces of torn cover.",
+              "audioStart": 83.25,
+              "audioEnd": 88.388
+            },
+            {
+              "text": "The animals ran away into the forest, leaving the winter ground quiet again.",
+              "audioStart": 89.25,
+              "audioEnd": 93.263
+            },
+            {
+              "text": "Every single season brings change to the natural world.",
+              "audioStart": 94.125,
+              "audioEnd": 96.888
+            },
+            {
+              "text": "People often walk through these trees when the weather gets cold.",
+              "audioStart": 97.75,
+              "audioEnd": 100.662
+            },
+            {
+              "text": "They wear heavy coats to protect themselves from the freezing wind.",
+              "audioStart": 101.525,
+              "audioEnd": 104.775
+            },
+            {
+              "text": "Sometimes they drop small items on the white ground.",
+              "audioStart": 105.638,
+              "audioEnd": 108.325
+            },
+            {
+              "text": "Animals live in the forest and look for places to stay warm.",
+              "audioStart": 109.188,
+              "audioEnd": 112.3
+            },
+            {
+              "text": "Winter is a difficult time for every creature.",
+              "audioStart": 113.162,
+              "audioEnd": 115.562
+            },
+            {
+              "text": "Food is hard to find beneath the heavy snow.",
+              "audioStart": 116.425,
+              "audioEnd": 118.588
+            },
+            {
+              "text": "Trees stand empty against the gray sky.",
+              "audioStart": 119.45,
+              "audioEnd": 121.625
+            },
+            {
+              "text": "Water turns to ice in the small streams.",
+              "audioStart": 122.487,
+              "audioEnd": 124.713
+            },
+            {
+              "text": "Birds fly south where the air is warm.",
+              "audioStart": 125.575,
+              "audioEnd": 127.625
+            },
+            {
+              "text": "Other animals sleep through the long months.",
+              "audioStart": 128.488,
+              "audioEnd": 130.525
+            },
+            {
+              "text": "They build safe homes under the earth.",
+              "audioStart": 131.387,
+              "audioEnd": 133.213
+            },
+            {
+              "text": "The forest remains quiet until spring arrives.",
+              "audioStart": 134.075,
+              "audioEnd": 136.637
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the warm weather returns, the snow goes away.",
+              "audioStart": 137.5,
+              "audioEnd": 140.2
+            },
+            {
+              "text": "Green plants begin to grow in the soft soil.",
+              "audioStart": 141.062,
+              "audioEnd": 143.475
+            },
+            {
+              "text": "New life appears across the entire region.",
+              "audioStart": 144.338,
+              "audioEnd": 146.7
+            },
+            {
+              "text": "The old man might never know what happened to his lost clothing.",
+              "audioStart": 147.562,
+              "audioEnd": 150.675
+            },
+            {
+              "text": "However, the story of the crowded cover remains known to everyone who hears it.",
+              "audioStart": 151.537,
+              "audioEnd": 155.662
+            },
+            {
+              "text": "Children love to listen to this tale during the long winter nights.",
+              "audioStart": 156.525,
+              "audioEnd": 159.688
+            },
+            {
+              "text": "They imagine all the animals sharing that tiny space together.",
+              "audioStart": 160.55,
+              "audioEnd": 163.75
+            },
+            {
+              "text": "It makes them smile and think about the wonders of nature.",
+              "audioStart": 164.613,
+              "audioEnd": 167.463
+            },
+            {
+              "text": "Many people read books about these animals every single year.",
+              "audioStart": 168.325,
+              "audioEnd": 171.525
+            },
+            {
+              "text": "The forest is a wonderful place where nature shows its power.",
+              "audioStart": 172.387,
+              "audioEnd": 175.55
+            },
+            {
+              "text": "Every animal tries to find food before the cold weather starts again.",
+              "audioStart": 176.412,
+              "audioEnd": 180
+            },
+            {
+              "text": "We can learn many important lessons from these stories about nature.",
+              "audioStart": 180.863,
+              "audioEnd": 184.175
+            },
+            {
+              "text": "Life in the wild is never easy during those hard months.",
+              "audioStart": 185.037,
+              "audioEnd": 187.9
+            },
+            {
+              "text": "Animals must work together when things get difficult for them.",
+              "audioStart": 188.762,
+              "audioEnd": 191.75
+            },
+            {
+              "text": "That is why stories like this one remain popular among children.",
+              "audioStart": 192.613,
+              "audioEnd": 196.025
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Winter brings cold air and deep snow to the trees.",
+              "audioStart": 196.887,
+              "audioEnd": 199.613
+            },
+            {
+              "text": "Many creatures try to find safe places before the dark night begins.",
+              "audioStart": 200.475,
+              "audioEnd": 204.287
+            },
+            {
+              "text": "If the old man had checked his path, he would not have lost his clothing.",
+              "audioStart": 205.15,
+              "audioEnd": 208.863
+            },
+            {
+              "text": "When the little mouse found the soft item, she decided that it was a good home.",
+              "audioStart": 209.725,
+              "audioEnd": 213.5
+            },
+            {
+              "text": "Other animals came because they wanted to share the warm space.",
+              "audioStart": 214.363,
+              "audioEnd": 217.45
+            },
+            {
+              "text": "The bear was too large, but he still pushed inside the cover.",
+              "audioStart": 218.312,
+              "audioEnd": 221.625
+            },
+            {
+              "text": "If the tiny bug had not landed on top, the cover might not have broken.",
+              "audioStart": 222.488,
+              "audioEnd": 226.475
+            },
+            {
+              "text": "Because the weight was too great, the material tore apart completely.",
+              "audioStart": 227.338,
+              "audioEnd": 230.938
+            },
+            {
+              "text": "The old man was sad when he found only pieces of cloth on the snow.",
+              "audioStart": 231.8,
+              "audioEnd": 235.3
+            },
+            {
+              "text": "Nature is full of surprises for anyone who looks closely at the world.",
+              "audioStart": 236.162,
+              "audioEnd": 239.688
+            },
+            {
+              "text": "Animals must help each other if they want to survive the winter.",
+              "audioStart": 240.55,
+              "audioEnd": 243.5
+            },
+            {
+              "text": "Stories teach us how to care for our friends during hard times.",
+              "audioStart": 244.363,
+              "audioEnd": 247.5
+            },
+            {
+              "text": "Children read these books and learn valuable lessons about life.",
+              "audioStart": 248.363,
+              "audioEnd": 251.7
+            },
+            {
+              "text": "The forest stands quietly while the snow covers the ground.",
+              "audioStart": 252.562,
+              "audioEnd": 255.562
+            },
+            {
+              "text": "Spring will return soon and bring new green plants to the region.",
+              "audioStart": 256.425,
+              "audioEnd": 260.838
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "People enjoy walking through the trees when the weather is nice.",
+              "audioStart": 261.7,
+              "audioEnd": 264.688
+            },
+            {
+              "text": "They often talk about the animals that live in the wild.",
+              "audioStart": 265.55,
+              "audioEnd": 268.226
+            },
+            {
+              "text": "If you listen carefully, you can hear the birds singing in the air.",
+              "audioStart": 269.088,
+              "audioEnd": 272.325
+            },
+            {
+              "text": "Nature provides food and shelter for every living creature.",
+              "audioStart": 273.188,
+              "audioEnd": 276.238
+            },
+            {
+              "text": "Sometimes the wind blows hard against the branches of the tall trees.",
+              "audioStart": 277.101,
+              "audioEnd": 280.588
+            },
+            {
+              "text": "Animals know how to find food beneath the thick layers of ice.",
+              "audioStart": 281.45,
+              "audioEnd": 284.613
+            },
+            {
+              "text": "They work hard every single day to stay safe and warm.",
+              "audioStart": 285.476,
+              "audioEnd": 288.438
+            },
+            {
+              "text": "The old man went back to his house after he lost his item.",
+              "audioStart": 289.3,
+              "audioEnd": 292.388
+            },
+            {
+              "text": "He wondered where the clothing could have gone in the cold snow.",
+              "audioStart": 293.25,
+              "audioEnd": 295.938
+            },
+            {
+              "text": "He never expected that so many animals had used it as a home.",
+              "audioStart": 296.8,
+              "audioEnd": 300.05
+            },
+            {
+              "text": "This funny tale has been told to many generations of children.",
+              "audioStart": 300.913,
+              "audioEnd": 304.101
+            },
+            {
+              "text": "Everyone loves to imagine the animals crowded inside the small space.",
+              "audioStart": 304.963,
+              "audioEnd": 308.713
+            },
+            {
+              "text": "It makes people smile whenever they think about the wonderful story.",
+              "audioStart": 309.575,
+              "audioEnd": 312.863
+            },
+            {
+              "text": "Books about forest animals remain popular all over the world.",
+              "audioStart": 313.726,
+              "audioEnd": 317.038
+            },
+            {
+              "text": "We should always remember to respect nature and its many creatures.",
+              "audioStart": 317.901,
+              "audioEnd": 321.363
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0260.mp3",
+      "wordTimings": "audio/b2/st-0260.timings.json",
+      "quiz": [
+        {
+          "q": "What did the old man lose in the winter forest?",
+          "options": [
+            "A warm little mitten",
+            "A heavy winter coat",
+            "A small wooden box"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which animal was the very last one to join the others inside the mitten?",
+          "options": [
+            "A little frog",
+            "A tiny bug",
+            "A clever fox"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened to the mitten at the end of the story?",
+          "options": [
+            "It tore apart completely",
+            "The old man found it safe",
+            "It became a warm house"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "An elderly man walked purposefully through the crystalline silence of a deep winter forest, his boots crunching against the frozen crust of snow. Scarcely noticing the bitter draft that bit at his cheeks, he pressed onward until he unknowingly dropped one of his warm wool mittens onto the pristine white ground. Not long after his departure, a field mouse scurried across the snow, her whiskers twitching as she investigated the soft, discarded fabric. Recognizing immediately that the woolen interior offered a reprieve from the relentless cold, she burrowed inside to claim it as her private refuge.",
+              "audioStart": 0.1,
+              "audioEnd": 34.038
+            },
+            {
+              "text": "Scarcely had the mouse settled into the cozy fibers when a sleek frog hopped toward the mitten, inquiring politely if there was room for another weary traveler. The mouse peered out from the entrance and welcomed her companion into the snug enclosure, where they shared the limited warmth together. Before long, a swift hare bounded across the freezing landscape, his long ears pinned back against the whistling wind. He halted abruptly beside the knitted marvel, asking if he might squeeze inside with the others. Although the interior was already growing remarkably crowded, the original inhabitants made space and allowed him to push his way in.",
+              "audioStart": 34.9,
+              "audioEnd": 71.2
+            },
+            {
+              "text": "Next came a cunning fox, who had been hunting fruitlessly across the barren terrain and desperately needed shelter from the plunging temperatures. Even though the mitten was already strained to its absolute limits, the fox managed to contort her clever frame and wedge herself among the existing occupants. Each animal now breathed in unison, creating a fragile pocket of heat that stood in stark defiance of the winter night. Yet the forest held even larger inhabitants, and the creaking fabric was soon approached by a heavy wolf whose breath plumed heavily in the frosty air. The smaller creatures felt a shiver of genuine apprehension as the massive beast requested entry into their precarious sanctuary.",
+              "audioStart": 72.062,
+              "audioEnd": 112
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Despite their profound misgivings, the animals collectively shifted and managed to accommodate the enormous creature, testing the elastic wool far beyond its intended design. Then, with a slow and deliberate tread, a massive bear emerged from the dense shadows of the pines, his thick fur dusted with frost. Having spotted the peculiar woolen hillock on the snow, the bear decided without hesitation that he too required shelter from the biting cold. Had the mitten been made of ordinary leather, it would have burst instantly, but the resilient wool stretched and groaned under the immense pressure. Every single occupant held their breath as the giant forced his formidable bulk into the already bursting enclosure.",
+              "audioStart": 112.862,
+              "audioEnd": 153.463
+            },
+            {
+              "text": "At that exact, precarious moment, a tiny cricket fluttered down from an overhead branch and landed delicately on the very top of the mitten. Because the delicate knitted structure was already stretched to its absolute breaking point, the microscopic addition of the insect's weight proved to be catastrophic. With a sharp, sudden sound that echoed through the quiet clearing, the wool finally tore completely apart, sending all the occupants tumbling out onto the cold snow. They sat in stunned silence for a brief second, watching the ruined pieces of the mitten scatter across the white landscape before scampering quickly into the safety of the dark forest.",
+              "audioStart": 154.325,
+              "audioEnd": 191.3
+            },
+            {
+              "text": "The old man retraced his steps later that evening, hoping against hope that he might recover his lost garment, but he found only shredded yarn resting on the snow. The forest returned to its profound, wintry quiet, leaving the white ground undisturbed save for the wind. Every single season unfailingly brings profound transformation to the natural world, shifting the rhythm of life across the silent wilderness. People frequently walk through these very trees when the temperature plummets, bundling themselves in heavy coats to ward off the freezing gusts. Yet it is the wild creatures that bear the true brunt of the season, continually searching for hidden places to endure the long months.",
+              "audioStart": 192.162,
+              "audioEnd": 231.613
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Winter remains a formidable test for every living thing, as sustenance grows increasingly scarce beneath the heavy layers of snow that blanket the earth. Towering trees stand stark and empty against a pale gray sky, while small streams harden into impenetrable sheets of ice. Many birds migrate southward toward warmer regions, whereas other animals retreat deep beneath the frozen soil to sleep through the bitter months. They construct hidden, insulated chambers far below the frost line, ensuring they remain secure until the eventual arrival of spring. Until then, the forest maintains its hushed vigil, wrapped tightly in the austere beauty of winter.",
+              "audioStart": 232.475,
+              "audioEnd": 272.509
+            },
+            {
+              "text": "When the warm weather eventually returns, the stubborn snow slowly melts away, revealing the damp, dark soil beneath. Delicate green plants begin to sprout across the entire region, signaling the triumphant return of new life to the wilderness. The old man will likely never discover the true fate of his lost mitten, yet the whimsical tale of the crowded refuge endures among those who tell it. Children listen eagerly to this narrative during long winter nights, imagining the improbable gathering of animals sharing that tiny, woolen room. It invariably brings a gentle smile to their faces, reminding them of the quiet wonders that animate the natural world.",
+              "audioStart": 273.371,
+              "audioEnd": 311.834
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many people revisit books about forest animals year after year, finding endless delight in the timeless adventures of the wild. The forest serves as a powerful reminder of nature's delicate balance, where every creature must constantly adapt to survive the changing elements. We can extract meaningful lessons from these traditional stories, recognizing that even the most difficult hardships can be managed through cooperation and shared warmth. Life in the wild is undeniably harsh during the freezing months, requiring patience and resourcefulness from every resident of the woods. That is precisely why such enduring tales continue to captivate generation after generation of young readers.",
+              "audioStart": 312.696,
+              "audioEnd": 353.321
+            },
+            {
+              "text": "As the sun dips below the horizon and the evening temperature plummets once again, the forest settles into its familiar nocturnal rhythm. Had the old man been more attentive to his belongings, he would never have started the chain of events that unfolded in the snow. The tiny mouse made a remarkably astute choice when she claimed the soft mitten as her initial fortress against the cold. Each subsequent animal recognized the value of community, squeezing tighter and tighter until the physical limits of the fabric were catastrophically exceeded. The final arrival of the cricket proved that even the most negligible force can alter a seemingly impossible situation.",
+              "audioStart": 354.183,
+              "audioEnd": 391.759
+            },
+            {
+              "text": "Generations of children have chuckled at the thought of a massive bear squeezing into a space meant for a single human hand. These stories quietly reinforce the idea that nature is full of unexpected surprises for anyone observant enough to look closely at their surroundings. If we listen carefully to the wind rustling through the frozen branches, we can almost hear the faint echoes of the animals whispering in the dark. The forest stands resilient beneath its heavy blanket of snow, patiently waiting for the cycle of seasons to turn once more. Soon enough, the ice will yield to the gentle rains of spring, bringing vibrant new life back to the towering trees and quiet streams.",
+              "audioStart": 392.621,
+              "audioEnd": 431.046
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0260.mp3",
+      "wordTimings": "audio/c1/st-0260.timings.json",
+      "quiz": [
+        {
+          "q": "Which animal arrived immediately after the field mouse claimed the mitten?",
+          "options": [
+            "A swift hare",
+            "A sleek frog",
+            "A cunning fox"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What specific event caused the mitten to finally tear apart completely?",
+          "options": [
+            "The massive bear forcing his way inside",
+            "The heavy wind pulling the fabric apart",
+            "A tiny cricket landing on top of it"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What did the old man find when he eventually returned to look for his lost garment?",
+          "options": [
+            "Shredded pieces of yarn scattered on the snow",
+            "The mitten packed tightly with sleeping animals",
+            "His missing clothing hanging from a tree branch"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  }
+}

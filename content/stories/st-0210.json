@@ -1,0 +1,1502 @@
+{
+  "id": "st-0210",
+  "title": "The Little Red Hen",
+  "genre": "classic",
+  "summary": "A diligent hen asks her friends for help growing food, but they refuse.",
+  "coverScene": "A little red hen stands in a sunny farm field next to some wheat.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once, a little friend lives in a place.",
+              "audioStart": 0.106,
+              "audioEnd": 2.633
+            },
+            {
+              "text": "She has one small friend.",
+              "audioStart": 3.597,
+              "audioEnd": 5.236
+            },
+            {
+              "text": "She has another small friend.",
+              "audioStart": 6.194,
+              "audioEnd": 7.958
+            },
+            {
+              "text": "She has a big friend too.",
+              "audioStart": 8.917,
+              "audioEnd": 10.486
+            },
+            {
+              "text": "They play games every day.",
+              "audioStart": 11.444,
+              "audioEnd": 13.056
+            },
+            {
+              "text": "They do not work.",
+              "audioStart": 14.014,
+              "audioEnd": 15.139
+            },
+            {
+              "text": "They stay in the house.",
+              "audioStart": 16.097,
+              "audioEnd": 17.403
+            },
+            {
+              "text": "She finds some little things.",
+              "audioStart": 18.361,
+              "audioEnd": 20.125
+            },
+            {
+              "text": "They are under the land.",
+              "audioStart": 21.083,
+              "audioEnd": 22.361
+            },
+            {
+              "text": "She wants food now.",
+              "audioStart": 23.319,
+              "audioEnd": 24.514
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She asks for help from each friend.",
+              "audioStart": 25.472,
+              "audioEnd": 27.472
+            },
+            {
+              "text": "The friend says no.",
+              "audioStart": 28.431,
+              "audioEnd": 29.736
+            },
+            {
+              "text": "The other friend says no.",
+              "audioStart": 30.694,
+              "audioEnd": 32.264
+            },
+            {
+              "text": "The big friend says no.",
+              "audioStart": 33.222,
+              "audioEnd": 34.764
+            },
+            {
+              "text": "She puts the little things down.",
+              "audioStart": 35.722,
+              "audioEnd": 37.528
+            },
+            {
+              "text": "She works by herself.",
+              "audioStart": 38.486,
+              "audioEnd": 39.972
+            },
+            {
+              "text": "She puts water on them.",
+              "audioStart": 40.931,
+              "audioEnd": 42.361
+            },
+            {
+              "text": "The little things grow up.",
+              "audioStart": 43.319,
+              "audioEnd": 44.75
+            },
+            {
+              "text": "They get long and high.",
+              "audioStart": 45.708,
+              "audioEnd": 47.069
+            },
+            {
+              "text": "She asks for help again.",
+              "audioStart": 48.028,
+              "audioEnd": 49.583
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The friends say no again.",
+              "audioStart": 50.542,
+              "audioEnd": 52.056
+            },
+            {
+              "text": "They do not want to work.",
+              "audioStart": 53.014,
+              "audioEnd": 54.417
+            },
+            {
+              "text": "She cuts the long things down.",
+              "audioStart": 55.375,
+              "audioEnd": 57.236
+            },
+            {
+              "text": "She takes them to the town.",
+              "audioStart": 58.194,
+              "audioEnd": 59.764
+            },
+            {
+              "text": "She makes them into food.",
+              "audioStart": 60.722,
+              "audioEnd": 62.25
+            },
+            {
+              "text": "She brings the food home.",
+              "audioStart": 63.208,
+              "audioEnd": 64.681
+            },
+            {
+              "text": "She asks them to help her.",
+              "audioStart": 65.639,
+              "audioEnd": 67.167
+            },
+            {
+              "text": "They say no again.",
+              "audioStart": 68.125,
+              "audioEnd": 69.347
+            },
+            {
+              "text": "She makes the food by herself.",
+              "audioStart": 70.306,
+              "audioEnd": 72.194
+            },
+            {
+              "text": "She puts it into the room.",
+              "audioStart": 73.153,
+              "audioEnd": 74.653
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A good thing comes out.",
+              "audioStart": 75.611,
+              "audioEnd": 77
+            },
+            {
+              "text": "Her friends run into the house.",
+              "audioStart": 77.958,
+              "audioEnd": 79.792
+            },
+            {
+              "text": "They want the food now.",
+              "audioStart": 80.75,
+              "audioEnd": 82
+            },
+            {
+              "text": "She asks who helps her work.",
+              "audioStart": 82.958,
+              "audioEnd": 84.681
+            },
+            {
+              "text": "They say no one helps her.",
+              "audioStart": 85.639,
+              "audioEnd": 87.208
+            },
+            {
+              "text": "They know she works by herself.",
+              "audioStart": 88.167,
+              "audioEnd": 90
+            },
+            {
+              "text": "She eats the food by herself.",
+              "audioStart": 90.958,
+              "audioEnd": 92.792
+            },
+            {
+              "text": "The friend gets nothing.",
+              "audioStart": 93.75,
+              "audioEnd": 95.194
+            },
+            {
+              "text": "The other friend gets nothing.",
+              "audioStart": 96.153,
+              "audioEnd": 97.889
+            },
+            {
+              "text": "The big friend gets nothing too.",
+              "audioStart": 98.847,
+              "audioEnd": 100.806
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0210.mp3",
+      "wordTimings": "audio/a1/st-0210.timings.json",
+      "quiz": [
+        {
+          "q": "Who finds the wheat seeds?",
+          "options": [
+            "The little red hen",
+            "The big pig",
+            "The cat"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What do the animals do when she asks for help?",
+          "options": [
+            "They help her",
+            "They say no",
+            "They plant seeds"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who eats the bread at the end?",
+          "options": [
+            "All the animals",
+            "The cat and dog",
+            "The little red hen"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once, a little red animal lived in a nice place.",
+              "audioStart": 0.106,
+              "audioEnd": 3.272
+            },
+            {
+              "text": "She lived with a dog, a big animal, and another animal.",
+              "audioStart": 4.236,
+              "audioEnd": 7.819
+            },
+            {
+              "text": "She was very busy every single day.",
+              "audioStart": 8.778,
+              "audioEnd": 11.042
+            },
+            {
+              "text": "Her lazy friends preferred to play games and sleep.",
+              "audioStart": 12,
+              "audioEnd": 14.917
+            },
+            {
+              "text": "One fine morning, the little red animal found some small food seeds on the ground.",
+              "audioStart": 15.875,
+              "audioEnd": 20.75
+            },
+            {
+              "text": "She wanted to grow food.",
+              "audioStart": 21.708,
+              "audioEnd": 23.25
+            },
+            {
+              "text": "She asked her friends to help plant the seeds.",
+              "audioStart": 24.208,
+              "audioEnd": 26.847
+            },
+            {
+              "text": "The lazy dog said no.",
+              "audioStart": 27.806,
+              "audioEnd": 29.431
+            },
+            {
+              "text": "The big animal also said no.",
+              "audioStart": 30.389,
+              "audioEnd": 32.333
+            },
+            {
+              "text": "The little red animal planted the seeds by herself.",
+              "audioStart": 33.292,
+              "audioEnd": 36.389
+            },
+            {
+              "text": "She worked hard in the dirt.",
+              "audioStart": 37.347,
+              "audioEnd": 38.889
+            },
+            {
+              "text": "She watered the ground every day.",
+              "audioStart": 39.847,
+              "audioEnd": 41.736
+            },
+            {
+              "text": "The green plant grew up under the summer sun.",
+              "audioStart": 42.694,
+              "audioEnd": 45.167
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The little red animal asked her friends to help cut the plant.",
+              "audioStart": 46.125,
+              "audioEnd": 49.639
+            },
+            {
+              "text": "She asked them to take it to the town market.",
+              "audioStart": 50.597,
+              "audioEnd": 53.056
+            },
+            {
+              "text": "The dog and the big animal said no to work.",
+              "audioStart": 54.014,
+              "audioEnd": 56.569
+            },
+            {
+              "text": "They were too slow and lazy.",
+              "audioStart": 57.528,
+              "audioEnd": 59.333
+            },
+            {
+              "text": "The hard worker cut the plant all alone.",
+              "audioStart": 60.292,
+              "audioEnd": 62.611
+            },
+            {
+              "text": "Then she carried the large amount to the building.",
+              "audioStart": 63.569,
+              "audioEnd": 66.042
+            },
+            {
+              "text": "She made fine food and brought it home.",
+              "audioStart": 67,
+              "audioEnd": 69.333
+            },
+            {
+              "text": "She asked her group to help make food.",
+              "audioStart": 70.292,
+              "audioEnd": 72.514
+            },
+            {
+              "text": "They all said no again.",
+              "audioStart": 73.472,
+              "audioEnd": 74.917
+            },
+            {
+              "text": "The little red animal put the food together alone.",
+              "audioStart": 75.875,
+              "audioEnd": 78.625
+            },
+            {
+              "text": "She made a great piece of food in her room.",
+              "audioStart": 79.583,
+              "audioEnd": 81.972
+            },
+            {
+              "text": "Hot food came out of the place.",
+              "audioStart": 82.931,
+              "audioEnd": 84.833
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A good wind went across the room.",
+              "audioStart": 85.792,
+              "audioEnd": 87.694
+            },
+            {
+              "text": "Her lazy friends came running into the house.",
+              "audioStart": 88.653,
+              "audioEnd": 91.222
+            },
+            {
+              "text": "The little red animal looked at them.",
+              "audioStart": 92.181,
+              "audioEnd": 94.069
+            },
+            {
+              "text": "She asked who had planted, cut, and made the food.",
+              "audioStart": 95.028,
+              "audioEnd": 98.347
+            },
+            {
+              "text": "They said she had done everything by herself.",
+              "audioStart": 99.306,
+              "audioEnd": 101.889
+            },
+            {
+              "text": "The good worker told them she would eat alone.",
+              "audioStart": 102.847,
+              "audioEnd": 105.153
+            },
+            {
+              "text": "Those who do not work shall not share the food.",
+              "audioStart": 106.111,
+              "audioEnd": 108.583
+            },
+            {
+              "text": "She ate the hot food by herself.",
+              "audioStart": 109.542,
+              "audioEnd": 111.611
+            },
+            {
+              "text": "Her friends watched her.",
+              "audioStart": 112.569,
+              "audioEnd": 113.958
+            },
+            {
+              "text": "They learned a lesson about work.",
+              "audioStart": 114.917,
+              "audioEnd": 116.639
+            },
+            {
+              "text": "Next time, they would help the little red animal.",
+              "audioStart": 117.597,
+              "audioEnd": 120.319
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0210.mp3",
+      "wordTimings": "audio/a2/st-0210.timings.json",
+      "quiz": [
+        {
+          "q": "What did the little red hen find on the ground?",
+          "options": [
+            "Small wheat seeds",
+            "Some hot bread",
+            "Fine flour"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who helped the little red hen plant the seeds?",
+          "options": [
+            "The cat",
+            "The pig",
+            "Nobody"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What did the hen bake in her kitchen?",
+          "options": [
+            "A loaf of bread",
+            "Some wheat soup",
+            "A big cake"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a little red bird lived on a nice farm.",
+              "audioStart": 0.1,
+              "audioEnd": 3.288
+            },
+            {
+              "text": "She lived with a cat, a dog, and a big animal.",
+              "audioStart": 4.15,
+              "audioEnd": 7.0
+            },
+            {
+              "text": "She was very busy all day long.",
+              "audioStart": 7.862,
+              "audioEnd": 9.7
+            },
+            {
+              "text": "Her friends preferred to play games and sleep in the warm sun.",
+              "audioStart": 10.562,
+              "audioEnd": 13.625
+            },
+            {
+              "text": "One fine morning, the little red bird found some small plant seeds on the ground.",
+              "audioStart": 14.488,
+              "audioEnd": 18.712
+            },
+            {
+              "text": "She wanted to grow food for herself and her friends.",
+              "audioStart": 19.575,
+              "audioEnd": 22.312
+            },
+            {
+              "text": "She walked around the farm to find some help.",
+              "audioStart": 23.175,
+              "audioEnd": 25.375
+            },
+            {
+              "text": "She asked her group who would help her plant the seeds.",
+              "audioStart": 26.238,
+              "audioEnd": 28.913
+            },
+            {
+              "text": "The cat said no.",
+              "audioStart": 29.775,
+              "audioEnd": 30.9
+            },
+            {
+              "text": "The dog said no.",
+              "audioStart": 31.762,
+              "audioEnd": 32.888
+            },
+            {
+              "text": "The big animal also shook his head.",
+              "audioStart": 33.75,
+              "audioEnd": 35.7
+            },
+            {
+              "text": "Since nobody offered any support, the little red bird made a choice.",
+              "audioStart": 36.562,
+              "audioEnd": 40.35
+            },
+            {
+              "text": "She decided that she would plant the seeds by herself.",
+              "audioStart": 41.212,
+              "audioEnd": 43.938
+            },
+            {
+              "text": "She worked hard in the ground from early morning until twelve.",
+              "audioStart": 44.8,
+              "audioEnd": 47.75
+            },
+            {
+              "text": "After some weeks, the green plant grew tall and strong under the bright summer sky.",
+              "audioStart": 48.612,
+              "audioEnd": 53.0
+            },
+            {
+              "text": "The little red bird looked at her crop with a happy smile.",
+              "audioStart": 53.862,
+              "audioEnd": 56.712
+            },
+            {
+              "text": "She has worked very hard on the farm.",
+              "audioStart": 57.575,
+              "audioEnd": 59.513
+            },
+            {
+              "text": "However, she has received no support from her friends so far.",
+              "audioStart": 60.375,
+              "audioEnd": 63.837
+            },
+            {
+              "text": "The little red bird continues to do everything on her own.",
+              "audioStart": 64.7,
+              "audioEnd": 67.6
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The little red bird asked her friends who would help her.",
+              "audioStart": 68.463,
+              "audioEnd": 71.112
+            },
+            {
+              "text": "She wanted someone to cut the ready plant.",
+              "audioStart": 71.975,
+              "audioEnd": 74.088
+            },
+            {
+              "text": "She wanted someone to take it to the town market.",
+              "audioStart": 74.95,
+              "audioEnd": 77.388
+            },
+            {
+              "text": "Once again, the cat, the dog, and the animal refused to do any work.",
+              "audioStart": 78.25,
+              "audioEnd": 82.662
+            },
+            {
+              "text": "They were too tired to help her.",
+              "audioStart": 83.525,
+              "audioEnd": 85.15
+            },
+            {
+              "text": "Therefore, the hard working bird cut the plant all alone.",
+              "audioStart": 86.013,
+              "audioEnd": 89.188
+            },
+            {
+              "text": "She carried the heavy load to the factory.",
+              "audioStart": 90.05,
+              "audioEnd": 92.15
+            },
+            {
+              "text": "She made fine food item from the seed.",
+              "audioStart": 93.013,
+              "audioEnd": 95.1
+            },
+            {
+              "text": "She brought it back to her little home.",
+              "audioStart": 95.963,
+              "audioEnd": 97.688
+            },
+            {
+              "text": "She asked her three friends who would help her cook the food.",
+              "audioStart": 98.55,
+              "audioEnd": 101.287
+            },
+            {
+              "text": "They all said no again.",
+              "audioStart": 102.15,
+              "audioEnd": 103.45
+            },
+            {
+              "text": "Without any help, the little red bird mixed the food item.",
+              "audioStart": 104.312,
+              "audioEnd": 107.35
+            },
+            {
+              "text": "She cooked a wonderful meal of food in her kitchen.",
+              "audioStart": 108.213,
+              "audioEnd": 110.713
+            },
+            {
+              "text": "She has already finished the difficult cooking process.",
+              "audioStart": 111.575,
+              "audioEnd": 114.4
+            },
+            {
+              "text": "If they want food, they must work.",
+              "audioStart": 115.263,
+              "audioEnd": 117.213
+            },
+            {
+              "text": "She has shown them how important hard work is.",
+              "audioStart": 118.075,
+              "audioEnd": 120.362
+            },
+            {
+              "text": "Her friends have done nothing to help her today.",
+              "audioStart": 121.225,
+              "audioEnd": 123.4
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the hot food came out of the hot box, a lovely smell spread through the room.",
+              "audioStart": 124.263,
+              "audioEnd": 128.312
+            },
+            {
+              "text": "Her friends finally came running into the house.",
+              "audioStart": 129.175,
+              "audioEnd": 131.562
+            },
+            {
+              "text": "They wanted to eat the lovely food.",
+              "audioStart": 132.425,
+              "audioEnd": 134.113
+            },
+            {
+              "text": "The little red bird looked at them and asked a question.",
+              "audioStart": 134.975,
+              "audioEnd": 137.625
+            },
+            {
+              "text": "She asked who had planted the seeds.",
+              "audioStart": 138.488,
+              "audioEnd": 140.45
+            },
+            {
+              "text": "She asked who had cut the plant.",
+              "audioStart": 141.312,
+              "audioEnd": 142.988
+            },
+            {
+              "text": "She asked who had cooked the food.",
+              "audioStart": 143.85,
+              "audioEnd": 145.525
+            },
+            {
+              "text": "They admitted that she had done everything by herself.",
+              "audioStart": 146.387,
+              "audioEnd": 149.062
+            },
+            {
+              "text": "They admitted there was no help from them.",
+              "audioStart": 149.925,
+              "audioEnd": 151.775
+            },
+            {
+              "text": "Then the smart bird told them a rule.",
+              "audioStart": 152.637,
+              "audioEnd": 154.45
+            },
+            {
+              "text": "She told them that she would eat the entire meal alone.",
+              "audioStart": 155.312,
+              "audioEnd": 157.9
+            },
+            {
+              "text": "Those who do not work shall not share the reward.",
+              "audioStart": 158.762,
+              "audioEnd": 161.0
+            },
+            {
+              "text": "She has taught them a very big lesson today.",
+              "audioStart": 161.863,
+              "audioEnd": 164.05
+            },
+            {
+              "text": "They have learned that nobody gets food without work.",
+              "audioStart": 164.912,
+              "audioEnd": 167.412
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0210.mp3",
+      "wordTimings": "audio/b1/st-0210.timings.json",
+      "quiz": [
+        {
+          "q": "What did the little red hen find on the ground one fine morning?",
+          "options": [
+            "Some small wheat seeds",
+            "A wonderful loaf of bread",
+            "Fine flour from the mill"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who helped the little red hen plant the seeds in the dirt?",
+          "options": [
+            "The cat, the dog, and the pig",
+            "Nobody offered any support",
+            "Only the big pig"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the little red hen do with the wheat after cutting it?",
+          "options": [
+            "She left it in the warm sun to sleep",
+            "She carried it to the town market to sell",
+            "She carried the heavy load to the mill to make flour"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a little red bird lived on a nice farm.",
+              "audioStart": 0.1,
+              "audioEnd": 3.288
+            },
+            {
+              "text": "She lived there with a cat, a dog, and a big pig.",
+              "audioStart": 4.15,
+              "audioEnd": 7.225
+            },
+            {
+              "text": "She was very busy all day long.",
+              "audioStart": 8.088,
+              "audioEnd": 9.925
+            },
+            {
+              "text": "Her lazy friends preferred to play games and sleep in the warm sun.",
+              "audioStart": 10.787,
+              "audioEnd": 14.213
+            },
+            {
+              "text": "One fine morning, the little red bird found some small seed on the ground.",
+              "audioStart": 15.075,
+              "audioEnd": 18.913
+            },
+            {
+              "text": "She wanted to grow food, so she asked her friends who would help her plant the seed in the earth.",
+              "audioStart": 19.775,
+              "audioEnd": 24.375
+            },
+            {
+              "text": "The lazy cat said no, the tired dog said no, and the big pig also shook his head.",
+              "audioStart": 25.238,
+              "audioEnd": 30.4
+            },
+            {
+              "text": "Since nobody offered any support, the little red bird decided that she would plant the seed by herself.",
+              "audioStart": 31.262,
+              "audioEnd": 36.562
+            },
+            {
+              "text": "After some weeks, the green grass and plant grew tall and strong under the bright summer sky.",
+              "audioStart": 37.425,
+              "audioEnd": 42.337
+            },
+            {
+              "text": "The little red bird asked her friends who would help her cut the ready crop and take it to the town market.",
+              "audioStart": 43.2,
+              "audioEnd": 48.175
+            },
+            {
+              "text": "Once again, the cat, the dog, and the pig refused to do any work, because they were too lazy.",
+              "audioStart": 49.038,
+              "audioEnd": 54.825
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Therefore, the hard-working bird cut the crop all alone and carried the heavy load to the factory.",
+              "audioStart": 55.688,
+              "audioEnd": 60.763
+            },
+            {
+              "text": "She made fine food from the grain and brought it back to her little home.",
+              "audioStart": 61.625,
+              "audioEnd": 65.062
+            },
+            {
+              "text": "She asked her three friends who would help her cook the food, but they all said no again.",
+              "audioStart": 65.925,
+              "audioEnd": 70.213
+            },
+            {
+              "text": "Without any assistance, the little red bird mixed the food and made a wonderful piece of food in her kitchen.",
+              "audioStart": 71.075,
+              "audioEnd": 76.7
+            },
+            {
+              "text": "When the hot food came out of the hot room, a lovely smell spread across the whole room.",
+              "audioStart": 77.562,
+              "audioEnd": 81.912
+            },
+            {
+              "text": "Her lazy friends finally came running into the house, because they wanted to eat the lovely food.",
+              "audioStart": 82.775,
+              "audioEnd": 87.638
+            },
+            {
+              "text": "The little red bird looked at them and asked who had planted, cut, and made the food.",
+              "audioStart": 88.5,
+              "audioEnd": 93.025
+            },
+            {
+              "text": "They admitted that she had done everything by herself without any help from them.",
+              "audioStart": 93.888,
+              "audioEnd": 97.7
+            },
+            {
+              "text": "Then the smart bird told them that she would eat the entire meal alone.",
+              "audioStart": 98.562,
+              "audioEnd": 101.9
+            },
+            {
+              "text": "She added that those who do not work shall not share the reward.",
+              "audioStart": 102.763,
+              "audioEnd": 105.688
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The sun shone brightly over the green fields every single morning.",
+              "audioStart": 106.55,
+              "audioEnd": 109.95
+            },
+            {
+              "text": "The little red bird woke up early to start her daily duties around the farm.",
+              "audioStart": 110.812,
+              "audioEnd": 114.625
+            },
+            {
+              "text": "She never complained about the heavy work that needed to be finished.",
+              "audioStart": 115.487,
+              "audioEnd": 118.787
+            },
+            {
+              "text": "Meanwhile, the cat and the dog found a comfortable spot to rest in the shade.",
+              "audioStart": 119.65,
+              "audioEnd": 123.7
+            },
+            {
+              "text": "The big pig slept near the fence and ignored everything happening around him.",
+              "audioStart": 124.562,
+              "audioEnd": 128.55
+            },
+            {
+              "text": "They did not care about the crops or the future meals that might be prepared.",
+              "audioStart": 129.412,
+              "audioEnd": 133.05
+            },
+            {
+              "text": "Life on the farm continued day after day with the same routine.",
+              "audioStart": 133.912,
+              "audioEnd": 137.225
+            },
+            {
+              "text": "The little red bird believed that hard work would always bring good results in the end.",
+              "audioStart": 138.088,
+              "audioEnd": 142.175
+            },
+            {
+              "text": "She managed her time carefully and made sure that nothing was wasted.",
+              "audioStart": 143.037,
+              "audioEnd": 146.637
+            },
+            {
+              "text": "Every single task was completed with great care and high quality.",
+              "audioStart": 147.5,
+              "audioEnd": 151.113
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the season arrived, the fields looked absolutely amazing.",
+              "audioStart": 151.975,
+              "audioEnd": 155.262
+            },
+            {
+              "text": "The golden plant moved gently in the afternoon wind.",
+              "audioStart": 156.125,
+              "audioEnd": 158.775
+            },
+            {
+              "text": "It was a clear sign that the hard work had finally paid off.",
+              "audioStart": 159.637,
+              "audioEnd": 162.775
+            },
+            {
+              "text": "The little red bird looked at her wonderful crop with a smile on her face.",
+              "audioStart": 163.637,
+              "audioEnd": 167.438
+            },
+            {
+              "text": "She knew that making fine food would require a lot of effort and time.",
+              "audioStart": 168.3,
+              "audioEnd": 171.775
+            },
+            {
+              "text": "Her friends were still sleeping and playing games without a single worry in the world.",
+              "audioStart": 172.637,
+              "audioEnd": 176.625
+            },
+            {
+              "text": "They did not understand how much energy went into growing food and preparing meals.",
+              "audioStart": 177.488,
+              "audioEnd": 181.713
+            },
+            {
+              "text": "If they had helped, things would have been much easier for everyone involved.",
+              "audioStart": 182.575,
+              "audioEnd": 186.238
+            },
+            {
+              "text": "However, they chose to remain lazy and let the little red bird do all the work alone.",
+              "audioStart": 187.1,
+              "audioEnd": 191.613
+            },
+            {
+              "text": "That choice led to a very important lesson about life and responsibility.",
+              "audioStart": 192.475,
+              "audioEnd": 196.35
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Inside the kitchen, the magic of cooking began to take place.",
+              "audioStart": 197.213,
+              "audioEnd": 200.675
+            },
+            {
+              "text": "The wonderful smell of freshly cooked bread filled the entire house.",
+              "audioStart": 201.537,
+              "audioEnd": 205.137
+            },
+            {
+              "text": "It was a good reward for weeks of constant labor and time.",
+              "audioStart": 206,
+              "audioEnd": 208.9
+            },
+            {
+              "text": "The lazy friends could no longer ignore the amazing food coming from the kitchen.",
+              "audioStart": 209.762,
+              "audioEnd": 213.787
+            },
+            {
+              "text": "They ran inside as fast as they could, hoping to get a large piece for themselves.",
+              "audioStart": 214.65,
+              "audioEnd": 219.088
+            },
+            {
+              "text": "Their mouths watered at the sight of the golden bread on the table.",
+              "audioStart": 219.95,
+              "audioEnd": 222.925
+            },
+            {
+              "text": "They expected to share the meal equally with the hard-working bird.",
+              "audioStart": 223.787,
+              "audioEnd": 226.938
+            },
+            {
+              "text": "However, the little red bird reminded them of their earlier choice to not help.",
+              "audioStart": 227.8,
+              "audioEnd": 231.863
+            },
+            {
+              "text": "She explained that the food was meant only for those who worked for it.",
+              "audioStart": 232.725,
+              "audioEnd": 235.9
+            },
+            {
+              "text": "Thus, the little red bird ate the entire meal by herself, leaving nothing for the lazy animals.",
+              "audioStart": 236.762,
+              "audioEnd": 242.188
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Life on the farm went on as usual after that strange day.",
+              "audioStart": 243.05,
+              "audioEnd": 246.2
+            },
+            {
+              "text": "The little red bird continued to work hard and care for her home.",
+              "audioStart": 247.062,
+              "audioEnd": 250.325
+            },
+            {
+              "text": "She always found time to rest and enjoy the beauty of nature.",
+              "audioStart": 251.188,
+              "audioEnd": 255.555
+            },
+            {
+              "text": "The cat, the dog, and the pig learned a very hard lesson about life.",
+              "audioStart": 256.418,
+              "audioEnd": 260.493
+            },
+            {
+              "text": "They understood that doing nothing would never bring any food or happiness.",
+              "audioStart": 261.356,
+              "audioEnd": 265.068
+            },
+            {
+              "text": "Perhaps they would change their behavior when the next season arrived.",
+              "audioStart": 265.93,
+              "audioEnd": 269.143
+            },
+            {
+              "text": "Until then, they stayed away and watched the smart bird live in peace.",
+              "audioStart": 270.005,
+              "audioEnd": 273.731
+            },
+            {
+              "text": "Every animal in the village knew about the famous little red bird.",
+              "audioStart": 274.593,
+              "audioEnd": 277.718
+            },
+            {
+              "text": "Her story became an example of how effort always brings good results.",
+              "audioStart": 278.58,
+              "audioEnd": 282.305
+            },
+            {
+              "text": "And so the happy bird lived well on her wonderful farm forever.",
+              "audioStart": 283.168,
+              "audioEnd": 286.343
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0210.mp3",
+      "wordTimings": "audio/b2/st-0210.timings.json",
+      "quiz": [
+        {
+          "q": "What did the little red hen find on the ground at the beginning of the story?",
+          "options": [
+            "Small wheat seeds",
+            "A piece of bread",
+            "Some fresh water"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who helped the little red hen plant and cut the wheat?",
+          "options": [
+            "The cat, the dog, and the pig",
+            "Nobody",
+            "Only the big pig"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened to the delicious bread at the end?",
+          "options": [
+            "It was shared equally with everyone.",
+            "The little red hen ate it all by herself.",
+            "The lazy friends ate most of it."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, within the gentle boundaries of a pastoral farm, a little red hen made her modest home.",
+              "audioStart": 0.1,
+              "audioEnd": 5.938
+            },
+            {
+              "text": "She shared this rustic space with three companions: a sleek cat, a tired dog, and a remarkably large pig.",
+              "audioStart": 6.8,
+              "audioEnd": 13.275
+            },
+            {
+              "text": "While the morning sun cast long, golden shadows across the dew-kissed fields, the little red hen was already awake and moving.",
+              "audioStart": 14.137,
+              "audioEnd": 20.9
+            },
+            {
+              "text": "Her daily existence was defined by relentless industry, whereas her lounging companions preferred to slumber in the warmth.",
+              "audioStart": 21.762,
+              "audioEnd": 28.238
+            },
+            {
+              "text": "To them, the farm was merely a sprawling bed, and the changing seasons were simply background noise to their endless rest.",
+              "audioStart": 29.1,
+              "audioEnd": 35.862
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One fine morning, as she scratched the rich earth near the barn, the little red hen uncovered a scattering of small seeds.",
+              "audioStart": 36.725,
+              "audioEnd": 43.4
+            },
+            {
+              "text": "Recognizing the potential held within those tiny kernels, she resolved to cultivate them into something nourishing.",
+              "audioStart": 44.263,
+              "audioEnd": 50.075
+            },
+            {
+              "text": "She turned her keen eyes toward her sleeping friends and asked who among them would assist in planting the seeds.",
+              "audioStart": 50.938,
+              "audioEnd": 56.35
+            },
+            {
+              "text": "The sleek cat stretched lazily and refused with a soft yawn, unwilling to dirty his pristine paws in the dirt.",
+              "audioStart": 57.212,
+              "audioEnd": 63.087
+            },
+            {
+              "text": "The tired dog rolled onto his back and declined the invitation, claiming his limbs were far too stiff for labor.",
+              "audioStart": 63.95,
+              "audioEnd": 70.05
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The big pig merely grunted from his shady spot by the fence and shook his heavy head without opening his eyes.",
+              "audioStart": 70.912,
+              "audioEnd": 76.55
+            },
+            {
+              "text": "Faced with universal reluctance, the little red hen did not sigh or curse her solitary lot in the universe.",
+              "audioStart": 77.412,
+              "audioEnd": 83.338
+            },
+            {
+              "text": "Instead, she accepted the burden with quiet determination, knowing that worthwhile endeavors seldom arrive through ease.",
+              "audioStart": 84.2,
+              "audioEnd": 90.45
+            },
+            {
+              "text": "With steady determination, she pecked at the soil, dug tiny trenches, and buried each seed beneath the protective earth.",
+              "audioStart": 91.312,
+              "audioEnd": 98.075
+            },
+            {
+              "text": "She watered the plot with care, tending to the invisible life resting quietly beneath the surface of the ground.",
+              "audioStart": 98.938,
+              "audioEnd": 104.638
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As the weeks passed under the brilliant summer sky, the dormant seeds transformed into tall, strong stalks of grain.",
+              "audioStart": 105.5,
+              "audioEnd": 111.8
+            },
+            {
+              "text": "They rippled like a green ocean whenever a warm breeze swept across the fertile valley.",
+              "audioStart": 112.662,
+              "audioEnd": 116.8
+            },
+            {
+              "text": "The little red hen watched her harvest mature with profound satisfaction, knowing her solitary labor had finally borne fruit.",
+              "audioStart": 117.662,
+              "audioEnd": 124.5
+            },
+            {
+              "text": "When the stalks turned a rich golden brown, signaling that harvest time had arrived, she approached her companions once more.",
+              "audioStart": 125.362,
+              "audioEnd": 131.95
+            },
+            {
+              "text": "She asked who would help her cut the ready crop and transport it to the bustling town market.",
+              "audioStart": 132.812,
+              "audioEnd": 137.287
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Once again, the cat, the dog, and the pig offered nothing but excuses for their continued inertia.",
+              "audioStart": 138.15,
+              "audioEnd": 143.863
+            },
+            {
+              "text": "They were far too comfortable in the afternoon shade to contemplate the physical demands of agricultural labor.",
+              "audioStart": 144.725,
+              "audioEnd": 150.162
+            },
+            {
+              "text": "Undeterred by their selfishness, the hard-working bird seized her sickle and set to work upon the golden field alone.",
+              "audioStart": 151.025,
+              "audioEnd": 157.012
+            },
+            {
+              "text": "She cut the heavy crop stalk by stalk until the entire harvest lay neatly bundled at her feet.",
+              "audioStart": 157.875,
+              "audioEnd": 162.887
+            },
+            {
+              "text": "Without a moment to waste, she loaded the heavy sheaves onto a wooden cart and pushed it toward the village mill.",
+              "audioStart": 163.75,
+              "audioEnd": 169.125
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At the mill, she ground the grain into fine flour, transforming raw seed into a substance of true culinary worth.",
+              "audioStart": 169.988,
+              "audioEnd": 176.463
+            },
+            {
+              "text": "The journey back was long and arduous, but her spirits remained as bright as the afternoon sun overhead.",
+              "audioStart": 177.325,
+              "audioEnd": 182.762
+            },
+            {
+              "text": "Upon returning to her little home, she placed the fine flour upon the kitchen table and considered the final stage.",
+              "audioStart": 183.625,
+              "audioEnd": 189.85
+            },
+            {
+              "text": "She looked at her three companions resting nearby and asked who would volunteer to help knead and bake the bread.",
+              "audioStart": 190.713,
+              "audioEnd": 196.325
+            },
+            {
+              "text": "In unison, as if rehearsed, the cat, the dog, and the pig all shook their heads and refused to assist.",
+              "audioStart": 197.188,
+              "audioEnd": 203.425
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Without a single word of complaint, the little red hen mixed the flour with water, yeast, and a touch of salt.",
+              "audioStart": 204.287,
+              "audioEnd": 210.287
+            },
+            {
+              "text": "She kneaded the dough with practiced rhythm until it was smooth, elastic, and ready for the hot oven.",
+              "audioStart": 211.15,
+              "audioEnd": 216.312
+            },
+            {
+              "text": "When at last she slid the loaf into the baking chamber, a rich and wonderful aroma began to fill the kitchen.",
+              "audioStart": 217.175,
+              "audioEnd": 222.9
+            },
+            {
+              "text": "That magnificent scent drifted through the open windows and rolled across the sunlit yard like an invisible tide.",
+              "audioStart": 223.762,
+              "audioEnd": 229.338
+            },
+            {
+              "text": "It promised warmth, comfort, and the delicious reward of weeks of unyielding perseverance.",
+              "audioStart": 230.2,
+              "audioEnd": 235.088
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Scarcely had the golden crust formed when the atmosphere in the farmyard shifted dramatically.",
+              "audioStart": 235.95,
+              "audioEnd": 240.537
+            },
+            {
+              "text": "The lazy cat woke instantly from his deep slumber and lifted his nose toward the kitchen window.",
+              "audioStart": 241.4,
+              "audioEnd": 247.42
+            },
+            {
+              "text": "The tired dog scrambled to his feet, his tail wagging frantically as his senses absorbed the glorious smell.",
+              "audioStart": 248.282,
+              "audioEnd": 254.257
+            },
+            {
+              "text": "Even the massive pig heaved his heavy body upward and trotted eagerly toward the source of the fragrance.",
+              "audioStart": 255.12,
+              "audioEnd": 260.233
+            },
+            {
+              "text": "They pushed open the kitchen door and crowded inside, their eyes fixed hungrily upon the steaming loaf of bread.",
+              "audioStart": 261.095,
+              "audioEnd": 266.845
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The little red hen turned from the counter, wiping a smudge of flour from her feathered brow.",
+              "audioStart": 267.707,
+              "audioEnd": 272.433
+            },
+            {
+              "text": "She looked at the three animals who had spent the entire season sleeping while she labored in the fields.",
+              "audioStart": 273.295,
+              "audioEnd": 278.17
+            },
+            {
+              "text": "With a calm voice, she asked them who had originally found and planted the tiny seeds in the dirt.",
+              "audioStart": 279.033,
+              "audioEnd": 284.207
+            },
+            {
+              "text": "They shifted uncomfortably on their paws and admitted quietly that she had done it entirely by herself.",
+              "audioStart": 285.07,
+              "audioEnd": 290.533
+            },
+            {
+              "text": "She then reminded them of who had cut the crop, hauled it to the mill, and baked the bread.",
+              "audioStart": 291.395,
+              "audioEnd": 295.92
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "With lowered heads, the trio confessed that no help had been offered at any stage of the process.",
+              "audioStart": 296.783,
+              "audioEnd": 302.045
+            },
+            {
+              "text": "They blinked expectantly, still hoping that the universal rules of fairness might somehow be suspended for them.",
+              "audioStart": 302.908,
+              "audioEnd": 308.495
+            },
+            {
+              "text": "Then the smart bird told them firmly that she would eat the entire meal alone without sharing a single crumb.",
+              "audioStart": 309.358,
+              "audioEnd": 314.67
+            },
+            {
+              "text": "She explained that those who refuse to contribute to the labor shall never share in the reward.",
+              "audioStart": 315.533,
+              "audioEnd": 319.957
+            },
+            {
+              "text": "With that declaration, she sat down to enjoy the feast she had earned through her own steady hands.",
+              "audioStart": 320.82,
+              "audioEnd": 325.908
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Life on the farm resumed its familiar rhythm, though the internal dynamic among the animals had shifted permanently.",
+              "audioStart": 326.77,
+              "audioEnd": 332.707
+            },
+            {
+              "text": "The little red hen continued to manage her daily duties with grace, finding plenty of time to rest and enjoy nature.",
+              "audioStart": 333.57,
+              "audioEnd": 340.082
+            },
+            {
+              "text": "The cat, the dog, and the pig had learned a bitter lesson about the true cost of idleness.",
+              "audioStart": 340.945,
+              "audioEnd": 345.858
+            },
+            {
+              "text": "They understood at last that empty days produced only empty plates, while effort brought genuine security.",
+              "audioStart": 346.72,
+              "audioEnd": 352.57
+            },
+            {
+              "text": "Perhaps, when the next planting season arrived, their newfound wisdom would finally inspire them to lend a hand.",
+              "audioStart": 353.433,
+              "audioEnd": 359.608
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0210.mp3",
+      "wordTimings": "audio/c1/st-0210.timings.json",
+      "quiz": [
+        {
+          "q": "What did the little red hen find on the ground on the fine morning?",
+          "options": [
+            "Some small seeds",
+            "A piece of golden bread",
+            "A small wooden cart"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the cat, the dog, and the pig react when asked to help bake the bread?",
+          "options": [
+            "They helped knead the dough",
+            "They all refused to assist",
+            "They ran to the town market"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the little red hen do with the bread in the end?",
+          "options": [
+            "She shared it equally with the farm animals",
+            " ఆమె ate the entire meal by herself",
+            "She gave it to the miller as payment"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

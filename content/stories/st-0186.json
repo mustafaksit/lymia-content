@@ -1,0 +1,1244 @@
+{
+  "id": "st-0186",
+  "title": "How the Whale Got His Throat",
+  "genre": "classic",
+  "summary": "A giant sea animal follows advice and captures a man who builds a tiny home inside.",
+  "coverScene": "A large whale swims in the deep blue sea near the coast.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once, a big animal lives in water.",
+              "audioStart": 0.106,
+              "audioEnd": 2.425
+            },
+            {
+              "text": "He eats all food every day.",
+              "audioStart": 3.389,
+              "audioEnd": 5.264
+            },
+            {
+              "text": "Only one small animal stays.",
+              "audioStart": 6.222,
+              "audioEnd": 8.278
+            },
+            {
+              "text": "This little animal is very well.",
+              "audioStart": 9.236,
+              "audioEnd": 11.222
+            },
+            {
+              "text": "The good animal goes to him.",
+              "audioStart": 12.181,
+              "audioEnd": 13.75
+            },
+            {
+              "text": "The animal asks a big question.",
+              "audioStart": 14.708,
+              "audioEnd": 16.722
+            },
+            {
+              "text": "He asks about a man.",
+              "audioStart": 17.681,
+              "audioEnd": 19.097
+            },
+            {
+              "text": "The big animal wants to know more.",
+              "audioStart": 20.056,
+              "audioEnd": 21.972
+            },
+            {
+              "text": "The good animal tells him to go.",
+              "audioStart": 22.931,
+              "audioEnd": 24.819
+            },
+            {
+              "text": "The big animal goes to the land.",
+              "audioStart": 25.778,
+              "audioEnd": 27.625
+            },
+            {
+              "text": "A no money man stands there.",
+              "audioStart": 28.583,
+              "audioEnd": 30.389
+            },
+            {
+              "text": "The big animal takes the man.",
+              "audioStart": 31.347,
+              "audioEnd": 33.097
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Right there, the man goes around.",
+              "audioStart": 34.056,
+              "audioEnd": 36.222
+            },
+            {
+              "text": "He makes a little home.",
+              "audioStart": 37.181,
+              "audioEnd": 38.569
+            },
+            {
+              "text": "The home stays in the part.",
+              "audioStart": 39.528,
+              "audioEnd": 41.125
+            },
+            {
+              "text": "The big animal feels very bad now.",
+              "audioStart": 42.083,
+              "audioEnd": 44.25
+            },
+            {
+              "text": "The big animal tries to put him out.",
+              "audioStart": 45.208,
+              "audioEnd": 47.292
+            },
+            {
+              "text": "The home stays in the part.",
+              "audioStart": 48.25,
+              "audioEnd": 49.847
+            },
+            {
+              "text": "He cannot eat big things again.",
+              "audioStart": 50.806,
+              "audioEnd": 52.625
+            },
+            {
+              "text": "He only eats small food now.",
+              "audioStart": 53.583,
+              "audioEnd": 55.361
+            },
+            {
+              "text": "The man stays in the big animal.",
+              "audioStart": 56.319,
+              "audioEnd": 58.125
+            },
+            {
+              "text": "The big animal stays in the water.",
+              "audioStart": 59.083,
+              "audioEnd": 61
+            },
+            {
+              "text": "Every day is the same.",
+              "audioStart": 61.958,
+              "audioEnd": 63.375
+            },
+            {
+              "text": "The man is quite good there.",
+              "audioStart": 64.333,
+              "audioEnd": 65.958
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The big animal looks for more food.",
+              "audioStart": 66.917,
+              "audioEnd": 68.889
+            },
+            {
+              "text": "He only finds small food.",
+              "audioStart": 69.847,
+              "audioEnd": 71.625
+            },
+            {
+              "text": "He cannot eat big things.",
+              "audioStart": 72.583,
+              "audioEnd": 74.306
+            },
+            {
+              "text": "The man stays back his home.",
+              "audioStart": 75.264,
+              "audioEnd": 77.014
+            },
+            {
+              "text": "The big animal does not feel good.",
+              "audioStart": 77.972,
+              "audioEnd": 79.931
+            },
+            {
+              "text": "He always remembers the little home.",
+              "audioStart": 80.889,
+              "audioEnd": 82.889
+            },
+            {
+              "text": "The good animal watches from far.",
+              "audioStart": 83.847,
+              "audioEnd": 85.833
+            },
+            {
+              "text": "Everything is still in the water.",
+              "audioStart": 86.792,
+              "audioEnd": 88.5
+            },
+            {
+              "text": "The man likes his new home.",
+              "audioStart": 89.458,
+              "audioEnd": 91.069
+            },
+            {
+              "text": "The big animal wants to stop.",
+              "audioStart": 92.028,
+              "audioEnd": 93.792
+            },
+            {
+              "text": "He cannot change the same thing.",
+              "audioStart": 94.75,
+              "audioEnd": 96.611
+            },
+            {
+              "text": "Life goes on every day.",
+              "audioStart": 97.569,
+              "audioEnd": 99.056
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0186.mp3",
+      "wordTimings": "audio/a1/st-0186.timings.json",
+      "quiz": [
+        {
+          "q": "What does the big whale eat every day?",
+          "options": [
+            "All fish",
+            "Only small plants",
+            "Big animals"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where does the whale go to find a man?",
+          "options": [
+            "To the land",
+            "To deep water",
+            "To a house"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the man make inside the whale?",
+          "options": [
+            "A small wood fence",
+            "A big house",
+            "A little boat"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a big animal lived in the sea.",
+              "audioStart": 0.106,
+              "audioEnd": 3.106
+            },
+            {
+              "text": "He ate all the fish because he felt very bad inside.",
+              "audioStart": 4.069,
+              "audioEnd": 7.264
+            },
+            {
+              "text": "Only one small fish remained in the water.",
+              "audioStart": 8.222,
+              "audioEnd": 10.694
+            },
+            {
+              "text": "This fish was very fast and smart.",
+              "audioStart": 11.653,
+              "audioEnd": 13.944
+            },
+            {
+              "text": "The smart fish went to the big animal.",
+              "audioStart": 14.903,
+              "audioEnd": 16.931
+            },
+            {
+              "text": "The fish asked a question about life.",
+              "audioStart": 17.889,
+              "audioEnd": 20.139
+            },
+            {
+              "text": "Had the big animal ever eaten a man?",
+              "audioStart": 21.097,
+              "audioEnd": 23.139
+            },
+            {
+              "text": "The animal answered that he had not.",
+              "audioStart": 24.097,
+              "audioEnd": 26.125
+            },
+            {
+              "text": "He wondered what a man might feel like.",
+              "audioStart": 27.083,
+              "audioEnd": 29.264
+            },
+            {
+              "text": "The smart fish told the animal to go near land.",
+              "audioStart": 30.222,
+              "audioEnd": 32.931
+            },
+            {
+              "text": "The animal went to the area near water.",
+              "audioStart": 33.889,
+              "audioEnd": 36.097
+            },
+            {
+              "text": "He found a poor person in blue clothes.",
+              "audioStart": 37.056,
+              "audioEnd": 39.403
+            },
+            {
+              "text": "The huge animal opened his big face.",
+              "audioStart": 40.361,
+              "audioEnd": 42.764
+            },
+            {
+              "text": "He took the man inside his body whole.",
+              "audioStart": 43.722,
+              "audioEnd": 45.944
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Inside the animal, the man danced around a lot.",
+              "audioStart": 46.903,
+              "audioEnd": 49.972
+            },
+            {
+              "text": "The man made a little plant wall from hard material.",
+              "audioStart": 50.931,
+              "audioEnd": 53.917
+            },
+            {
+              "text": "He put this thing deep down inside.",
+              "audioStart": 54.875,
+              "audioEnd": 56.986
+            },
+            {
+              "text": "This little piece caused a big problem.",
+              "audioStart": 57.944,
+              "audioEnd": 60.181
+            },
+            {
+              "text": "The big animal felt very bad and hard to move.",
+              "audioStart": 61.139,
+              "audioEnd": 63.944
+            },
+            {
+              "text": "The animal tried to push the man away.",
+              "audioStart": 64.903,
+              "audioEnd": 67.028
+            },
+            {
+              "text": "The hard thing stayed deep inside.",
+              "audioStart": 67.986,
+              "audioEnd": 69.931
+            },
+            {
+              "text": "Because of this experience, the animal changed completely.",
+              "audioStart": 70.889,
+              "audioEnd": 74.472
+            },
+            {
+              "text": "He could never eat big things again.",
+              "audioStart": 75.431,
+              "audioEnd": 77.431
+            },
+            {
+              "text": "Since that day, he only eats small fish.",
+              "audioStart": 78.389,
+              "audioEnd": 81.236
+            },
+            {
+              "text": "He lives in the sea and is happy now.",
+              "audioStart": 82.194,
+              "audioEnd": 84.333
+            },
+            {
+              "text": "The man went back to his home and family.",
+              "audioStart": 85.292,
+              "audioEnd": 87.528
+            },
+            {
+              "text": "Everyone remembers this story today.",
+              "audioStart": 88.486,
+              "audioEnd": 90.542
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0186.mp3",
+      "wordTimings": "audio/a2/st-0186.timings.json",
+      "quiz": [
+        {
+          "q": "What did the whale eat because he was hungry?",
+          "options": [
+            "All the fish",
+            "Only the clever fish",
+            "Nothing at all"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who did the whale swallow whole?",
+          "options": [
+            "A clever fish",
+            "A poor sailor",
+            "A big monster"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the man make inside the whale?",
+          "options": [
+            "A little wood fence",
+            "A blue house",
+            "A big boat"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, there was a huge animal in the blue sea.",
+              "audioStart": 0.1,
+              "audioEnd": 3.312
+            },
+            {
+              "text": "This big animal lived in the deep water every single day.",
+              "audioStart": 4.175,
+              "audioEnd": 7.2
+            },
+            {
+              "text": "He ate all the fish in the water because he was very tired of small food.",
+              "audioStart": 8.062,
+              "audioEnd": 11.762
+            },
+            {
+              "text": "There was only one small fish left in the huge sea.",
+              "audioStart": 12.625,
+              "audioEnd": 15.412
+            },
+            {
+              "text": "That little fish was very smart and good at swimming.",
+              "audioStart": 16.275,
+              "audioEnd": 18.913
+            },
+            {
+              "text": "The smart fish wanted to save his friends from the huge animal.",
+              "audioStart": 19.775,
+              "audioEnd": 22.85
+            },
+            {
+              "text": "He swam up to the huge animal and asked him a question.",
+              "audioStart": 23.712,
+              "audioEnd": 26.55
+            },
+            {
+              "text": "The fish asked if the animal had ever eaten a man before.",
+              "audioStart": 27.413,
+              "audioEnd": 30.387
+            },
+            {
+              "text": "The huge animal replied that he had not eaten any man yet.",
+              "audioStart": 31.25,
+              "audioEnd": 34.237
+            },
+            {
+              "text": "He wondered what a man actually tasted like.",
+              "audioStart": 35.1,
+              "audioEnd": 37.487
+            },
+            {
+              "text": "If the animal wants food, he can go near the coast now.",
+              "audioStart": 38.35,
+              "audioEnd": 41.175
+            },
+            {
+              "text": "The smart fish told the huge animal to swim near the coast.",
+              "audioStart": 42.038,
+              "audioEnd": 45.138
+            },
+            {
+              "text": "The animal went to the land and found a poor man.",
+              "audioStart": 46.0,
+              "audioEnd": 48.475
+            },
+            {
+              "text": "That poor man wore blue clothes on his body.",
+              "audioStart": 49.337,
+              "audioEnd": 51.725
+            },
+            {
+              "text": "The huge animal opened his big mouth wide.",
+              "audioStart": 52.587,
+              "audioEnd": 54.925
+            },
+            {
+              "text": "He took the poor man and put him inside.",
+              "audioStart": 55.788,
+              "audioEnd": 57.913
+            },
+            {
+              "text": "The huge animal took the man whole.",
+              "audioStart": 58.775,
+              "audioEnd": 60.55
+            },
+            {
+              "text": "Inside the animal, the poor man began to jump around.",
+              "audioStart": 61.413,
+              "audioEnd": 64.463
+            },
+            {
+              "text": "The man made a small house with tree items inside the body.",
+              "audioStart": 65.325,
+              "audioEnd": 68.388
+            },
+            {
+              "text": "He built a small structure using pieces of tree.",
+              "audioStart": 69.25,
+              "audioEnd": 71.825
+            },
+            {
+              "text": "This little structure caused the animal a lot of trouble.",
+              "audioStart": 72.688,
+              "audioEnd": 75.5
+            },
+            {
+              "text": "The huge animal felt very sick inside his body.",
+              "audioStart": 76.362,
+              "audioEnd": 79.013
+            },
+            {
+              "text": "He tried to throw the man out of his mouth.",
+              "audioStart": 79.875,
+              "audioEnd": 81.9
+            },
+            {
+              "text": "However, the small structure stayed inside him.",
+              "audioStart": 82.763,
+              "audioEnd": 85.338
+            },
+            {
+              "text": "Because of this strange experience, the animal felt bad.",
+              "audioStart": 86.2,
+              "audioEnd": 89.287
+            },
+            {
+              "text": "He has never eaten big things again since that day.",
+              "audioStart": 90.15,
+              "audioEnd": 92.775
+            },
+            {
+              "text": "Since that day, the huge animal only eats very small fish.",
+              "audioStart": 93.638,
+              "audioEnd": 97.25
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The huge animal learned a very big lesson.",
+              "audioStart": 98.112,
+              "audioEnd": 100.3
+            },
+            {
+              "text": "If he met a smart fish, he would listen closely.",
+              "audioStart": 101.162,
+              "audioEnd": 103.862
+            },
+            {
+              "text": "The smart fish saved all the other small fish.",
+              "audioStart": 104.725,
+              "audioEnd": 107.3
+            },
+            {
+              "text": "They live happily in the deep blue sea now.",
+              "audioStart": 108.162,
+              "audioEnd": 110.237
+            },
+            {
+              "text": "The poor man also went back to his home safely.",
+              "audioStart": 111.1,
+              "audioEnd": 113.65
+            },
+            {
+              "text": "He told his family about the strange experience.",
+              "audioStart": 114.513,
+              "audioEnd": 117.1
+            },
+            {
+              "text": "No one could believe his funny story at first.",
+              "audioStart": 117.963,
+              "audioEnd": 120.287
+            },
+            {
+              "text": "The man showed them the pieces of tree.",
+              "audioStart": 121.15,
+              "audioEnd": 123.05
+            },
+            {
+              "text": "They knew the story was completely true.",
+              "audioStart": 123.912,
+              "audioEnd": 125.85
+            },
+            {
+              "text": "The huge animal stays far away from the coast now.",
+              "audioStart": 126.713,
+              "audioEnd": 129.262
+            },
+            {
+              "text": "He swims quietly in the deep blue water.",
+              "audioStart": 130.125,
+              "audioEnd": 132.338
+            },
+            {
+              "text": "He finds plenty of tiny fish to eat every day.",
+              "audioStart": 133.2,
+              "audioEnd": 135.863
+            },
+            {
+              "text": "The smart fish watches him from far away.",
+              "audioStart": 136.725,
+              "audioEnd": 138.9
+            },
+            {
+              "text": "Everything is calm and quiet in the sea again.",
+              "audioStart": 139.762,
+              "audioEnd": 142.05
+            },
+            {
+              "text": "The animals have a calm life in the water.",
+              "audioStart": 142.912,
+              "audioEnd": 144.938
+            },
+            {
+              "text": "They remember the day the man built the tree structure.",
+              "audioStart": 145.8,
+              "audioEnd": 148.275
+            },
+            {
+              "text": "The huge animal will always avoid eating men.",
+              "audioStart": 149.137,
+              "audioEnd": 151.562
+            },
+            {
+              "text": "That is how the smart fish saved his friends.",
+              "audioStart": 152.425,
+              "audioEnd": 154.7
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0186.mp3",
+      "wordTimings": "audio/b1/st-0186.timings.json",
+      "quiz": [
+        {
+          "q": "What animal lived in the blue sea and ate all the fish?",
+          "options": [
+            "A huge whale",
+            "A poor sailor",
+            "A clever fish"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who did the whale swallow whole near the shore?",
+          "options": [
+            "A big fish",
+            "A poor sailor",
+            "A clever whale"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the man build inside the whale's throat?",
+          "options": [
+            "A small house",
+            "A blue coat",
+            "A small fence with wood"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, there was a huge animal of the sea.",
+              "audioStart": 0.1,
+              "audioEnd": 3.05
+            },
+            {
+              "text": "He lived in the blue water and ate all the fish.",
+              "audioStart": 3.913,
+              "audioEnd": 6.388
+            },
+            {
+              "text": "Because he was very tired every day, he wanted more food.",
+              "audioStart": 7.25,
+              "audioEnd": 10.6
+            },
+            {
+              "text": "There was only one small fish left in the vast sea.",
+              "audioStart": 11.463,
+              "audioEnd": 14.275
+            },
+            {
+              "text": "That fish was very bright and smart.",
+              "audioStart": 15.137,
+              "audioEnd": 17.163
+            },
+            {
+              "text": "The smart fish swam up to the huge animal.",
+              "audioStart": 18.025,
+              "audioEnd": 20.175
+            },
+            {
+              "text": "The fish asked him a simple question.",
+              "audioStart": 21.038,
+              "audioEnd": 23
+            },
+            {
+              "text": "The fish asked if the animal had ever eaten a man.",
+              "audioStart": 23.863,
+              "audioEnd": 26.387
+            },
+            {
+              "text": "The animal replied that he had not.",
+              "audioStart": 27.25,
+              "audioEnd": 29.137
+            },
+            {
+              "text": "He wondered what a man tasted like.",
+              "audioStart": 30,
+              "audioEnd": 31.9
+            },
+            {
+              "text": "The smart fish told the animal to swim near the shore.",
+              "audioStart": 32.763,
+              "audioEnd": 35.462
+            },
+            {
+              "text": "A man was standing there by the water.",
+              "audioStart": 36.325,
+              "audioEnd": 38.225
+            },
+            {
+              "text": "The huge animal went to the beach.",
+              "audioStart": 39.087,
+              "audioEnd": 40.788
+            },
+            {
+              "text": "He found a poor worker who wore blue clothes.",
+              "audioStart": 41.65,
+              "audioEnd": 43.987
+            },
+            {
+              "text": "The big animal opened his large mouth.",
+              "audioStart": 44.85,
+              "audioEnd": 46.938
+            },
+            {
+              "text": "Then he took the man completely inside his body.",
+              "audioStart": 47.8,
+              "audioEnd": 50.312
+            },
+            {
+              "text": "Inside the animal, the man began to jump around.",
+              "audioStart": 51.175,
+              "audioEnd": 53.938
+            },
+            {
+              "text": "The man danced and moved his feet continuously.",
+              "audioStart": 54.8,
+              "audioEnd": 57.4
+            },
+            {
+              "text": "The man made a small fence with wood inside the throat.",
+              "audioStart": 58.263,
+              "audioEnd": 60.987
+            },
+            {
+              "text": "This little wooden fence caused the animal a lot of trouble.",
+              "audioStart": 61.85,
+              "audioEnd": 64.85
+            },
+            {
+              "text": "Because of this strange experience, the animal felt very sick.",
+              "audioStart": 65.713,
+              "audioEnd": 69.188
+            },
+            {
+              "text": "The animal tried to throw the man out.",
+              "audioStart": 70.05,
+              "audioEnd": 71.862
+            },
+            {
+              "text": "However, the wooden fence stayed in his throat.",
+              "audioStart": 72.725,
+              "audioEnd": 75.125
+            },
+            {
+              "text": "Because of this strange experience, the animal could never eat big things again.",
+              "audioStart": 75.987,
+              "audioEnd": 80.037
+            },
+            {
+              "text": "Since that day, the animal only eats very small fish in the deep sea.",
+              "audioStart": 80.9,
+              "audioEnd": 84.862
+            },
+            {
+              "text": "The animal learned his lesson and stayed calm in the water.",
+              "audioStart": 85.725,
+              "audioEnd": 88.537
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every single day was quiet for the fish and the animal.",
+              "audioStart": 89.4,
+              "audioEnd": 92.138
+            },
+            {
+              "text": "The people on the shore watched the sea with great interest.",
+              "audioStart": 93,
+              "audioEnd": 95.825
+            },
+            {
+              "text": "They knew that the world was full of strange things.",
+              "audioStart": 96.688,
+              "audioEnd": 99.05
+            },
+            {
+              "text": "Life in the ocean continued without any further trouble.",
+              "audioStart": 99.912,
+              "audioEnd": 102.775
+            },
+            {
+              "text": "The smart fish lived a long and happy life.",
+              "audioStart": 103.638,
+              "audioEnd": 106.075
+            },
+            {
+              "text": "The big animal never forgot the wooden fence in his throat.",
+              "audioStart": 106.938,
+              "audioEnd": 109.775
+            },
+            {
+              "text": "He swam through the blue water each day with care.",
+              "audioStart": 110.638,
+              "audioEnd": 113.088
+            },
+            {
+              "text": "He remembered the lesson that he had learned from the small fish.",
+              "audioStart": 113.95,
+              "audioEnd": 116.975
+            },
+            {
+              "text": "No other man was ever taken into his body again.",
+              "audioStart": 117.838,
+              "audioEnd": 120.525
+            },
+            {
+              "text": "The ocean remained deep and blue around them.",
+              "audioStart": 121.388,
+              "audioEnd": 123.513
+            },
+            {
+              "text": "Other fish swam past the huge animal without fear.",
+              "audioStart": 124.375,
+              "audioEnd": 127.175
+            },
+            {
+              "text": "The animal just watched them and let them pass.",
+              "audioStart": 128.037,
+              "audioEnd": 130.55
+            },
+            {
+              "text": "He was happy to eat small food and live in peace.",
+              "audioStart": 131.412,
+              "audioEnd": 134.1
+            },
+            {
+              "text": "The smart fish stayed near him as a good friend.",
+              "audioStart": 134.963,
+              "audioEnd": 137.238
+            },
+            {
+              "text": "They shared the vast sea together for many years.",
+              "audioStart": 138.1,
+              "audioEnd": 140.65
+            },
+            {
+              "text": "People on the shore often talked about the strange event.",
+              "audioStart": 141.512,
+              "audioEnd": 144.3
+            },
+            {
+              "text": "They looked out across the water and wondered about the sea.",
+              "audioStart": 145.162,
+              "audioEnd": 147.8
+            },
+            {
+              "text": "Children grew up hearing the story of the smart fish.",
+              "audioStart": 148.662,
+              "audioEnd": 151.238
+            },
+            {
+              "text": "Everyone in the towns knew the tale very well.",
+              "audioStart": 152.1,
+              "audioEnd": 154.35
+            },
+            {
+              "text": "The big animal lived a long life after that day.",
+              "audioStart": 155.213,
+              "audioEnd": 157.812
+            },
+            {
+              "text": "Nothing like that ever happened to him again.",
+              "audioStart": 158.675,
+              "audioEnd": 160.738
+            },
+            {
+              "text": "The world went on with all its many wonders.",
+              "audioStart": 161.6,
+              "audioEnd": 163.838
+            },
+            {
+              "text": "The sea stayed full of life and mystery.",
+              "audioStart": 164.7,
+              "audioEnd": 166.7
+            },
+            {
+              "text": "Both the fish and the animal were safe at last.",
+              "audioStart": 167.562,
+              "audioEnd": 169.963
+            },
+            {
+              "text": "Their strange adventure became a part of ocean history.",
+              "audioStart": 170.825,
+              "audioEnd": 173.55
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many years passed after that strange event.",
+              "audioStart": 174.412,
+              "audioEnd": 176.812
+            },
+            {
+              "text": "The great animal swam through the deep blue sea.",
+              "audioStart": 177.675,
+              "audioEnd": 180.037
+            },
+            {
+              "text": "He always found small fish to eat each day.",
+              "audioStart": 180.9,
+              "audioEnd": 183.325
+            },
+            {
+              "text": "The smart fish stayed right beside him as a trusted friend.",
+              "audioStart": 184.188,
+              "audioEnd": 187.15
+            },
+            {
+              "text": "They moved together across the vast ocean waters.",
+              "audioStart": 188.012,
+              "audioEnd": 190.65
+            },
+            {
+              "text": "Other sea creatures watched them with great curiosity.",
+              "audioStart": 191.512,
+              "audioEnd": 194.3
+            },
+            {
+              "text": "No one ever tried to disturb their peaceful life.",
+              "audioStart": 195.162,
+              "audioEnd": 197.625
+            },
+            {
+              "text": "The people on the land often remembered the story.",
+              "audioStart": 198.488,
+              "audioEnd": 200.9
+            },
+            {
+              "text": "They looked toward the water during the afternoon hours.",
+              "audioStart": 201.762,
+              "audioEnd": 204.225
+            },
+            {
+              "text": "Parents told the tale to every young child.",
+              "audioStart": 205.088,
+              "audioEnd": 207.262
+            },
+            {
+              "text": "The memory of the wooden fence remained strong.",
+              "audioStart": 208.125,
+              "audioEnd": 210.363
+            },
+            {
+              "text": "The animal never forgot the hard lesson he had learned.",
+              "audioStart": 211.225,
+              "audioEnd": 213.975
+            },
+            {
+              "text": "He stayed away from any large prey forever.",
+              "audioStart": 214.838,
+              "audioEnd": 217.188
+            },
+            {
+              "text": "His health improved greatly because of his new diet.",
+              "audioStart": 218.05,
+              "audioEnd": 220.775
+            },
+            {
+              "text": "The smart fish felt very proud of his clever plan.",
+              "audioStart": 221.637,
+              "audioEnd": 224.325
+            },
+            {
+              "text": "They enjoyed many quiet seasons together in the deep sea.",
+              "audioStart": 225.188,
+              "audioEnd": 228.213
+            },
+            {
+              "text": "The sun shone brightly upon the blue waves every morning.",
+              "audioStart": 229.075,
+              "audioEnd": 232
+            },
+            {
+              "text": "The wind blew softly across the open water.",
+              "audioStart": 232.863,
+              "audioEnd": 235.2
+            },
+            {
+              "text": "Nothing could ever break their strong friendship.",
+              "audioStart": 236.062,
+              "audioEnd": 238.338
+            },
+            {
+              "text": "The ocean remained a wonderful place full of mystery.",
+              "audioStart": 239.2,
+              "audioEnd": 241.838
+            },
+            {
+              "text": "Both friends were happy and secure in their home.",
+              "audioStart": 242.7,
+              "audioEnd": 245.037
+            },
+            {
+              "text": "The tale of the smart fish lived on through time.",
+              "audioStart": 245.9,
+              "audioEnd": 248.262
+            },
+            {
+              "text": "It became one of the most famous stories in the world.",
+              "audioStart": 249.125,
+              "audioEnd": 251.7
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0186.mp3",
+      "wordTimings": "audio/b2/st-0186.timings.json",
+      "quiz": [
+        {
+          "q": "What did the whale eat before meeting the clever fish?",
+          "options": [
+            "All the fish in the water",
+            "Only small green plants",
+            "Nothing at all"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who told the whale about the man on the coast?",
+          "options": [
+            "A clever fish",
+            "A poor sailor",
+            "Another whale"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the man make inside the whale's throat?",
+          "options": [
+            "A small wooden fence",
+            "A big stone house",
+            "A red door"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, within the boundless and shimmering expanse of the sea, there lived a leviathan of immense proportions. He was a creature whose sheer magnitude dominated the blue water, and his insatiable appetite drove him to consume nearly every fish within his reach. Because his colossal body required staggering amounts of sustenance, he found himself perpetually exhausted by the sheer effort of hunting. Each day ended with a hollow ache in his belly, and his relentless hunger only grew more acute with every passing tide.",
+              "audioStart": 0.1,
+              "audioEnd": 30.738
+            },
+            {
+              "text": "As the centuries rolled forward, his relentless consumption reduced the once thriving marine life to a mere shadow of its former self. Eventually, there was only one small fish left in the vast sea, swimming alone through the quiet depths. That solitary creature was remarkably bright and smart, possessing a quick wit that far surpassed his diminutive physical stature. Recognizing the perilous state of his world, the smart fish decided to take a bold and decisive course of action. He swam upward through the cool currents until he confronted the enormous animal directly.",
+              "audioStart": 31.6,
+              "audioEnd": 65.7
+            },
+            {
+              "text": "With a calm demeanor that belied the immense danger of the situation, the tiny fish posed a deceptively simple question to the giant. He asked the behemoth if he had ever tasted the flesh of a man, framing the inquiry as a matter of sophisticated culinary curiosity. The leviathan replied that he had never encountered such a creature, yet his imagination was instantly captured by the novelty of the idea. A deep sense of wonder washed over the giant as he began to speculate on what a man might possibly taste like. He found himself utterly fascinated by the prospect of expanding his palate beyond the familiar scales of the ocean.",
+              "audioStart": 66.562,
+              "audioEnd": 103.6
+            },
+            {
+              "text": "Capitalizing on the giant's sudden curiosity, the smart fish instructed him to swim toward the distant shore without delay. He explained that a lone man was currently standing near the water's edge, entirely unaware of the titanic presence approaching him. Compelled by his growing appetite and the novelty of the suggestion, the huge animal surged forward through the water. He propelled his massive form eagerly across the blue expanse until the golden sands of the beach loomed large before him. There, standing quietly by the crashing waves, he found a poor worker who wore distinctive blue clothes.",
+              "audioStart": 104.463,
+              "audioEnd": 139.113
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Driven by an urgent and reckless hunger, the big animal wasted no time in executing his hasty plan. He opened his cavernous mouth wide, creating a terrifying vortex of rushing water and swirling foam. Without a moment of hesitation, he took the man completely inside his vast body in a single, sweeping gulp. The poor worker plunged headfirst down the dark and winding passages of the giant's throat, landing abruptly in the wet interior. Yet, instead of surrendering to despair, the quick-thinking man immediately began to stir with frantic energy.",
+              "audioStart": 139.975,
+              "audioEnd": 173.963
+            },
+            {
+              "text": "Deep within the suffocating confines of the animal, the man began to jump around with relentless determination. He danced vigorously and moved his feet continuously, striking the soft walls of the throat with sharp, calculated blows. Not content with merely moving about, the resourceful worker searched his pockets and gathered some stray pieces of wood he had been carrying. With astonishing speed and ingenuity, he constructed a small fence made of wood inside the delicate throat. This little wooden fence wedged itself firmly across the passage, causing the enormous animal a tremendous amount of sudden trouble.",
+              "audioStart": 174.825,
+              "audioEnd": 210.588
+            },
+            {
+              "text": "Because of this bizarre and agonizing experience, the giant felt profoundly sick and disoriented. The sharp edges of the improvised wooden barrier scraped against his sensitive flesh with every labored breath he took. Desperate to rid himself of the torment, the animal tried with all his might to cough and throw the man out. However, despite his most violent convulsions and deepest retching, the wooden fence stayed stubbornly lodged in his throat. It refused to budge an inch, remaining a permanent fixture that defied every effort of the distressed leviathan.",
+              "audioStart": 211.45,
+              "audioEnd": 243.65
+            },
+            {
+              "text": "Realizing the futility of his struggle, the giant finally understood the grave consequence of his reckless actions. Because of this strange and painful experience, the animal could never eat big things ever again. The mere thought of swallowing anything larger than a minnow brought a sharp reminder of the wooden fence. Since that fateful day, the animal learned to temper his desires and only eats very small fish in the deep sea. The animal learned his lesson the hard way and resolved to stay calm in the water, abandoning his former greed forever.",
+              "audioStart": 244.512,
+              "audioEnd": 277.298
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every single day that followed was remarkably quiet and peaceful for both the smart fish and the reformed animal. The people living on the shore watched the shimmering sea with great interest, whispering among themselves about the mysterious muffled sounds of the past. They knew instinctively that the world was full of strange and wondrous things beyond human comprehension. Life in the ocean continued smoothly without any further trouble, settling into a predictable and harmonious rhythm. The smart fish lived a long and happy life, basking in the quiet security of his restored environment.",
+              "audioStart": 278.16,
+              "audioEnd": 311.423
+            },
+            {
+              "text": "The big animal never forgot the stubborn wooden fence that remained forever trapped in his throat. He swam through the blue water each day with profound care, mindful of every movement he made. Whenever hunger threatened to cloud his judgment, he remembered the bitter lesson that he had learned from the small fish. No other man was ever taken into his body again, as the giant strictly avoided the shallow coastal waters entirely. He preferred the safety of the open ocean, where temptation could not reach him and where his altered diet kept him safe.",
+              "audioStart": 312.285,
+              "audioEnd": 343.26
+            },
+            {
+              "text": "The ocean remained deep and blue around them, stretching endlessly toward the distant horizons in every direction. Other fish swam past the huge animal without the slightest trace of fear, recognizing that he had changed his ways. The animal just watched them glide past with gentle eyes and let them swim on undisturbed. He was genuinely happy to eat small food and live in absolute peace, far away from the turbulence of his former life. The smart fish stayed near him constantly as a loyal and devoted friend, sharing in the tranquility of the deep.",
+              "audioStart": 344.123,
+              "audioEnd": 376.522
+            },
+            {
+              "text": "They shared the vast sea together for many years, bound by an unusual alliance that had transformed their entire world. People on the shore often talked about the strange event during the warm afternoons, looking out across the endless blue. Children grew up hearing the captivating story of the smart fish and the foolish giant from their elders. Everyone in the coastal towns knew the tale very well, passing it down from generation to generation like a precious heirloom. The big animal lived a long and peaceful life after that eventful day, enjoying every quiet moment beneath the waves.",
+              "audioStart": 377.385,
+              "audioEnd": 411.223
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Nothing like that chaotic event ever happened to him again, and his days passed in a serene and unbroken sequence. The world went on its majestic way, filled with all its many natural wonders and hidden mysteries. The sea stayed full of life and vibrant color, pulsing with the quiet energy of countless creatures. Both the fish and the animal were finally safe at last, resting securely in the rhythms of the deep. Their strange and unlikely adventure naturally became a permanent part of ocean history, whispered among the currents.",
+              "audioStart": 412.085,
+              "audioEnd": 443.41
+            },
+            {
+              "text": "Many years passed peacefully after that strange event, softening the memory of the struggle into a gentle anecdote. The great animal continued to swim through the deep blue sea, gracefully navigating the familiar currents. He always found more than enough small fish to eat each day, satisfying his modest appetite without difficulty. The smart fish stayed right beside him as a trusted and inseparable friend, guiding him through the quiet waters. They moved together across the vast ocean waters in perfect harmony, a testament to the power of wisdom.",
+              "audioStart": 444.272,
+              "audioEnd": 476.835
+            },
+            {
+              "text": "Other sea creatures watched this unusual pair with great curiosity and a deep sense of respect. No one ever tried to disturb their peaceful life, leaving them to enjoy their days in undisturbed solitude. The people living on the land often remembered the story whenever the sea grew calm and glassy. They looked toward the water during the tranquil afternoon hours, letting their imaginations drift across the waves. Parents told the timeless tale to every young child before bedtime, ensuring that the lesson would never fade away.",
+              "audioStart": 477.697,
+              "audioEnd": 509.039
+            },
+            {
+              "text": "The memory of the wooden fence remained strong in the minds of both men and beasts alike. The animal never forgot the hard lesson he had learned through such discomfort and pain. He stayed away from any large prey forever, content with the simple bounty of the deep sea. His health improved greatly because of his new diet, lending strength and vitality to his aging frame. The smart fish felt very proud of his clever plan, knowing that his quick thinking had saved them both.",
+              "audioStart": 509.902,
+              "audioEnd": 537.827
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They enjoyed many quiet seasons together in the deep sea, watching the seasons change above them through the shifting light. The sun shone brightly upon the blue waves every single morning, casting golden rays down into the dark water. The wind blew softly across the open water, carrying the scent of salt and freedom from distant shores. Nothing could ever break their strong and enduring friendship, which had been forged in the crucible of a most peculiar crisis. The ocean remained a wonderful place full of mystery, hiding its countless secrets beneath a calm and deceptive surface.",
+              "audioStart": 538.689,
+              "audioEnd": 572.477
+            },
+            {
+              "text": "Both friends were thoroughly happy and secure in their aquatic home, wanting for nothing in the vast expanse. The tale of the smart fish lived on through time, echoing through the corridors of history with timeless resonance. It became one of the most famous stories in the world, told in whispered tones by sailors and shore-dwellers alike. The giant whale accepted his fate with grace, swimming slowly through the twilight of his days with a light heart. And so they lived out their remaining years in harmony, forever bound by the memory of the day the ocean changed.",
+              "audioStart": 573.34,
+              "audioEnd": 605.352
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0186.mp3",
+      "wordTimings": "audio/c1/st-0186.timings.json",
+      "quiz": [
+        {
+          "q": "What motivated the giant sea animal to approach the shore in the first place?",
+          "options": [
+            "A desire to find a new home in shallow water",
+            "Curiosity sparked by the smart fish about what a man tasted like",
+            "An urgent need to escape a rival sea creature"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the man inside the animal's throat manage to cause him so much trouble?",
+          "options": [
+            "He built a small wooden fence that wedged across the throat.",
+            "He cast a heavy anchor down the animal's gullet.",
+            "He shouted loudly until the animal's head began to ache."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What permanent change did the giant animal make to his diet after this incident?",
+          "options": [
+            "He stopped eating fish altogether and survived only on seaweed.",
+            "He began eating only very small fish in the deep sea.",
+            "He started hunting exclusively along the rocky coastline."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1395 @@
+{
+  "id": "st-0239",
+  "title": "Alice: Through the Looking-Glass (epizod)",
+  "genre": "classic",
+  "summary": "Alice steps through a glass into a strange world where everything feels confusing.",
+  "coverScene": "A young girl steps through a tall glass mirror into a strange room filled with chess pieces.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alice sits by the good light.",
+              "audioStart": 0.106,
+              "audioEnd": 1.814
+            },
+            {
+              "text": "She looks at the large glass.",
+              "audioStart": 2.778,
+              "audioEnd": 4.597
+            },
+            {
+              "text": "Her body passes through the glass.",
+              "audioStart": 5.556,
+              "audioEnd": 7.597
+            },
+            {
+              "text": "The room behind is very different.",
+              "audioStart": 8.556,
+              "audioEnd": 10.486
+            },
+            {
+              "text": "She stands up to look around.",
+              "audioStart": 11.444,
+              "audioEnd": 13.139
+            },
+            {
+              "text": "Alice feels a little bad.",
+              "audioStart": 14.097,
+              "audioEnd": 15.667
+            },
+            {
+              "text": "She walks across the room.",
+              "audioStart": 16.625,
+              "audioEnd": 18.222
+            },
+            {
+              "text": "The room is not right.",
+              "audioStart": 19.181,
+              "audioEnd": 20.486
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She walks down to a place.",
+              "audioStart": 21.444,
+              "audioEnd": 23.153
+            },
+            {
+              "text": "The small things speak to the girl.",
+              "audioStart": 24.111,
+              "audioEnd": 25.875
+            },
+            {
+              "text": "People play a game.",
+              "audioStart": 26.833,
+              "audioEnd": 28.069
+            },
+            {
+              "text": "The white leader talks to Alice.",
+              "audioStart": 29.028,
+              "audioEnd": 30.958
+            },
+            {
+              "text": "The country is a big game.",
+              "audioStart": 31.917,
+              "audioEnd": 33.528
+            },
+            {
+              "text": "Alice wants to become a leader.",
+              "audioStart": 34.486,
+              "audioEnd": 36.236
+            },
+            {
+              "text": "She meets many people.",
+              "audioStart": 37.194,
+              "audioEnd": 38.639
+            },
+            {
+              "text": "Two men tell a story.",
+              "audioStart": 39.597,
+              "audioEnd": 41.042
+            },
+            {
+              "text": "A large person appears.",
+              "audioStart": 42.0,
+              "audioEnd": 43.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The person looks at Alice.",
+              "audioStart": 44.583,
+              "audioEnd": 46.208
+            },
+            {
+              "text": "It moves away step by step.",
+              "audioStart": 47.167,
+              "audioEnd": 49.042
+            },
+            {
+              "text": "Every step brings a new problem.",
+              "audioStart": 50.0,
+              "audioEnd": 51.861
+            },
+            {
+              "text": "Alice walks through the place.",
+              "audioStart": 52.819,
+              "audioEnd": 54.528
+            },
+            {
+              "text": "Nobody can remember any names.",
+              "audioStart": 55.486,
+              "audioEnd": 57.472
+            },
+            {
+              "text": "A white man tries to help.",
+              "audioStart": 58.431,
+              "audioEnd": 60.111
+            },
+            {
+              "text": "He falls off his animal often.",
+              "audioStart": 61.069,
+              "audioEnd": 62.972
+            },
+            {
+              "text": "Alice moves toward the line.",
+              "audioStart": 63.931,
+              "audioEnd": 65.667
+            },
+            {
+              "text": "She wants to return home.",
+              "audioStart": 66.625,
+              "audioEnd": 68.153
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She reaches the end.",
+              "audioStart": 69.111,
+              "audioEnd": 70.389
+            },
+            {
+              "text": "A fine thing is on her.",
+              "audioStart": 71.347,
+              "audioEnd": 72.806
+            },
+            {
+              "text": "The leader becomes a little animal.",
+              "audioStart": 73.764,
+              "audioEnd": 75.625
+            },
+            {
+              "text": "Alice sits up by the light.",
+              "audioStart": 76.583,
+              "audioEnd": 78.25
+            },
+            {
+              "text": "The time is just a story.",
+              "audioStart": 79.208,
+              "audioEnd": 80.819
+            },
+            {
+              "text": "She feels very happy now.",
+              "audioStart": 81.778,
+              "audioEnd": 83.347
+            },
+            {
+              "text": "The morning comes up.",
+              "audioStart": 84.306,
+              "audioEnd": 85.528
+            },
+            {
+              "text": "Alice sits in the room.",
+              "audioStart": 86.486,
+              "audioEnd": 87.847
+            },
+            {
+              "text": "She thinks about the event.",
+              "audioStart": 88.806,
+              "audioEnd": 90.361
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0239.mp3",
+      "wordTimings": "audio/a1/st-0239.timings.json",
+      "quiz": [
+        {
+          "q": "What does Alice pass through at the start?",
+          "options": [
+            "A large mirror",
+            "A dark door",
+            "A warm window"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What kind of game is the country shaped like?",
+          "options": [
+            "A card game",
+            "A game of chess",
+            "A ball game"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does the queen turn into at the end?",
+          "options": [
+            "A white knight",
+            "A little kitten",
+            "A large cat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She sat by the fire during the cold night.",
+              "audioStart": 0.106,
+              "audioEnd": 2.494
+            },
+            {
+              "text": "She looked at the large object above the fire.",
+              "audioStart": 3.458,
+              "audioEnd": 6.042
+            },
+            {
+              "text": "She wondered what was on the other side.",
+              "audioStart": 7.0,
+              "audioEnd": 9.083
+            },
+            {
+              "text": "Suddenly, her body passed through the clear wall.",
+              "audioStart": 10.042,
+              "audioEnd": 13.014
+            },
+            {
+              "text": "The room behind the wall seemed old yet different.",
+              "audioStart": 13.972,
+              "audioEnd": 16.667
+            },
+            {
+              "text": "She walked down and found a garden with speaking plants.",
+              "audioStart": 17.625,
+              "audioEnd": 20.778
+            },
+            {
+              "text": "Then she met game pieces moving around a table.",
+              "audioStart": 21.736,
+              "audioEnd": 24.5
+            },
+            {
+              "text": "A white woman said the country was a huge game.",
+              "audioStart": 25.458,
+              "audioEnd": 28.181
+            },
+            {
+              "text": "She wanted to reach the final line.",
+              "audioStart": 29.139,
+              "audioEnd": 31.167
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She would become a leader herself then.",
+              "audioStart": 32.125,
+              "audioEnd": 34.097
+            },
+            {
+              "text": "During the trip, she met many different characters.",
+              "audioStart": 35.056,
+              "audioEnd": 38.083
+            },
+            {
+              "text": "Two big brothers told a nice story.",
+              "audioStart": 39.042,
+              "audioEnd": 41.153
+            },
+            {
+              "text": "A large animal appeared in a tree and smiled.",
+              "audioStart": 42.111,
+              "audioEnd": 44.722
+            },
+            {
+              "text": "It left into the air.",
+              "audioStart": 45.681,
+              "audioEnd": 47.069
+            },
+            {
+              "text": "Every step forward brought a new problem.",
+              "audioStart": 48.028,
+              "audioEnd": 50.25
+            },
+            {
+              "text": "She walked through a dark forest.",
+              "audioStart": 51.208,
+              "audioEnd": 53.083
+            },
+            {
+              "text": "Nobody could remember any names there.",
+              "audioStart": 54.042,
+              "audioEnd": 56.25
+            },
+            {
+              "text": "A white man tried to help but fell down.",
+              "audioStart": 57.208,
+              "audioEnd": 59.667
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She kept moving forward toward the final line.",
+              "audioStart": 60.625,
+              "audioEnd": 63.361
+            },
+            {
+              "text": "She wanted to finish the game and return home.",
+              "audioStart": 64.319,
+              "audioEnd": 66.778
+            },
+            {
+              "text": "She reached the final part.",
+              "audioStart": 67.736,
+              "audioEnd": 69.417
+            },
+            {
+              "text": "A big and important head cover was placed on her head.",
+              "audioStart": 70.375,
+              "audioEnd": 73.389
+            },
+            {
+              "text": "The leader turned into a little baby.",
+              "audioStart": 74.347,
+              "audioEnd": 76.264
+            },
+            {
+              "text": "She opened her eyes by the fire.",
+              "audioStart": 77.222,
+              "audioEnd": 79.181
+            },
+            {
+              "text": "She realized the whole experience was just a dream.",
+              "audioStart": 80.139,
+              "audioEnd": 83.125
+            },
+            {
+              "text": "She will always remember the big trip.",
+              "audioStart": 84.083,
+              "audioEnd": 86.167
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The game pieces were very interesting to see.",
+              "audioStart": 87.125,
+              "audioEnd": 89.708
+            },
+            {
+              "text": "She felt happy about the whole thing.",
+              "audioStart": 90.667,
+              "audioEnd": 92.722
+            },
+            {
+              "text": "She will play the game again tomorrow.",
+              "audioStart": 93.681,
+              "audioEnd": 95.667
+            },
+            {
+              "text": "The garden plants were able to speak words.",
+              "audioStart": 96.625,
+              "audioEnd": 99.139
+            },
+            {
+              "text": "She liked the white woman and the big animal.",
+              "audioStart": 100.097,
+              "audioEnd": 102.542
+            },
+            {
+              "text": "The dark forest was quite cold during the night.",
+              "audioStart": 103.5,
+              "audioEnd": 106.222
+            },
+            {
+              "text": "She was happy to return home without risk.",
+              "audioStart": 107.181,
+              "audioEnd": 109.681
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0239.mp3",
+      "wordTimings": "audio/a2/st-0239.timings.json",
+      "quiz": [
+        {
+          "q": "What did Alice pass through at the start of the story?",
+          "options": [
+            "A large mirror",
+            "A wooden door",
+            "A dark window"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the white queen say the country was shaped like?",
+          "options": [
+            "A huge game of chess",
+            "A big garden of flowers",
+            "A dark forest"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the queen at the end of the story?",
+          "options": [
+            "She turned into a little kitten",
+            "She disappeared into the air",
+            "She became a white knight"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alice sat by the warm fire while the cold day slowly turned into evening.",
+              "audioStart": 0.1,
+              "audioEnd": 3.862
+            },
+            {
+              "text": "She looked at the big glass hanging above the room.",
+              "audioStart": 4.725,
+              "audioEnd": 7.05
+            },
+            {
+              "text": "She wondered what lay on the other side of the glass.",
+              "audioStart": 7.912,
+              "audioEnd": 10.425
+            },
+            {
+              "text": "To her great surprise, her body began to pass directly through the glass.",
+              "audioStart": 11.287,
+              "audioEnd": 15.45
+            },
+            {
+              "text": "The space behind the glass appeared completely different.",
+              "audioStart": 16.312,
+              "audioEnd": 19.163
+            },
+            {
+              "text": "Yet it was familiar in a strange way.",
+              "audioStart": 20.025,
+              "audioEnd": 21.975
+            },
+            {
+              "text": "She wanted to know if anything else was hiding behind that window.",
+              "audioStart": 22.837,
+              "audioEnd": 26.025
+            },
+            {
+              "text": "Every step forward brought a new feeling which she had to consider carefully.",
+              "audioStart": 26.887,
+              "audioEnd": 30.562
+            },
+            {
+              "text": "The light changed quickly as she moved into the area of the house.",
+              "audioStart": 31.425,
+              "audioEnd": 34.663
+            },
+            {
+              "text": "She felt that something wonderful might happen at any moment during the day.",
+              "audioStart": 35.525,
+              "audioEnd": 39.225
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When she walked down from the wood, she discovered a yard.",
+              "audioStart": 40.087,
+              "audioEnd": 42.9
+            },
+            {
+              "text": "All the plants in this yard could speak.",
+              "audioStart": 43.763,
+              "audioEnd": 45.625
+            },
+            {
+              "text": "The little child also met some strange pieces that were moving around the table.",
+              "audioStart": 46.487,
+              "audioEnd": 50.362
+            },
+            {
+              "text": "A nice lady told her that the whole country was shaped like a huge game.",
+              "audioStart": 51.225,
+              "audioEnd": 54.75
+            },
+            {
+              "text": "If Alice could reach the final square, she would become a leader herself.",
+              "audioStart": 55.612,
+              "audioEnd": 59.375
+            },
+            {
+              "text": "She had never seen anything like this before in her normal life.",
+              "audioStart": 60.237,
+              "audioEnd": 63.562
+            },
+            {
+              "text": "Each plant had a unique voice and talked about the weather.",
+              "audioStart": 64.425,
+              "audioEnd": 67.463
+            },
+            {
+              "text": "Alice listened with great interest to every single word they said.",
+              "audioStart": 68.325,
+              "audioEnd": 71.625
+            },
+            {
+              "text": "The little girl smiled because the plants were so friendly and kind.",
+              "audioStart": 72.487,
+              "audioEnd": 75.888
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During her journey across the strange land, she met many unusual characters along the road.",
+              "audioStart": 76.75,
+              "audioEnd": 81.525
+            },
+            {
+              "text": "Two fat brothers told her a funny story about a fish and some water.",
+              "audioStart": 82.388,
+              "audioEnd": 85.713
+            },
+            {
+              "text": "Later, a large animal appeared in a tree.",
+              "audioStart": 86.575,
+              "audioEnd": 88.9
+            },
+            {
+              "text": "It smiled widely before it slowly disappeared into the air.",
+              "audioStart": 89.763,
+              "audioEnd": 92.8
+            },
+            {
+              "text": "Every step forward brought a new problem which she had to solve quickly.",
+              "audioStart": 93.662,
+              "audioEnd": 97.112
+            },
+            {
+              "text": "She wondered how the animal could go so fast without leaving any sign.",
+              "audioStart": 97.975,
+              "audioEnd": 101.725
+            },
+            {
+              "text": "The brothers kept talking about the fish while walking down the road.",
+              "audioStart": 102.588,
+              "audioEnd": 105.85
+            },
+            {
+              "text": "Alice did not understand the funny story, but she looked up and kept moving.",
+              "audioStart": 106.713,
+              "audioEnd": 110.688
+            },
+            {
+              "text": "The road seemed long under the bright sun, but she did not stop.",
+              "audioStart": 111.55,
+              "audioEnd": 114.95
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She walked through a dark forest where nobody could remember any names.",
+              "audioStart": 115.812,
+              "audioEnd": 119.3
+            },
+            {
+              "text": "A friendly man tried to help her.",
+              "audioStart": 120.162,
+              "audioEnd": 121.975
+            },
+            {
+              "text": "He kept falling off his horse during the ride.",
+              "audioStart": 122.838,
+              "audioEnd": 125.112
+            },
+            {
+              "text": "Despite all the trouble, Alice kept moving forward toward the final square of the board.",
+              "audioStart": 125.975,
+              "audioEnd": 130.4
+            },
+            {
+              "text": "She wanted to finish the game and return home to her warm room.",
+              "audioStart": 131.262,
+              "audioEnd": 134.262
+            },
+            {
+              "text": "The man on the horse tried to explain the rules, but he fell again.",
+              "audioStart": 135.125,
+              "audioEnd": 138.75
+            },
+            {
+              "text": "Alice helped him stand up and thanked him for his good effort.",
+              "audioStart": 139.613,
+              "audioEnd": 142.412
+            },
+            {
+              "text": "The dark forest felt bad, but she did not want to show any fear.",
+              "audioStart": 143.275,
+              "audioEnd": 146.713
+            },
+            {
+              "text": "She knew that her journey would soon lead her to the end.",
+              "audioStart": 147.575,
+              "audioEnd": 150.037
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At last, she reached the final line.",
+              "audioStart": 150.9,
+              "audioEnd": 153.213
+            },
+            {
+              "text": "A heavy yellow hat was placed on her head.",
+              "audioStart": 154.075,
+              "audioEnd": 156.275
+            },
+            {
+              "text": "However, the lady turned into a small baby while she held the piece in her hands.",
+              "audioStart": 157.137,
+              "audioEnd": 161.312
+            },
+            {
+              "text": "Alice woke up by the fire and realized that the whole story had been a dream.",
+              "audioStart": 162.175,
+              "audioEnd": 166.075
+            },
+            {
+              "text": "She looked around the room, wondering which world had been real.",
+              "audioStart": 166.938,
+              "audioEnd": 170.037
+            },
+            {
+              "text": "Her mother walked in and asked if she had slept well by the warm fire.",
+              "audioStart": 170.9,
+              "audioEnd": 174.575
+            },
+            {
+              "text": "Alice smiled at her mother and remembered the wonderful garden behind the glass.",
+              "audioStart": 175.438,
+              "audioEnd": 179.325
+            },
+            {
+              "text": "She knew that she would always keep the memory of that strange trip in her heart.",
+              "audioStart": 180.188,
+              "audioEnd": 183.825
+            },
+            {
+              "text": "It was the best dream she had ever experienced in her whole life.",
+              "audioStart": 184.688,
+              "audioEnd": 188.062
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0239.mp3",
+      "wordTimings": "audio/b1/st-0239.timings.json",
+      "quiz": [
+        {
+          "q": "What happened when Alice looked at the mirror above the fireplace?",
+          "options": [
+            "Her body passed directly through the glass surface.",
+            "The mirror fell down and broke into pieces.",
+            "She saw a white queen inside the room."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the white queen tell Alice about the country?",
+          "options": [
+            "It was shaped like a huge game of chess.",
+            "It was a dangerous place full of wild animals.",
+            "It was only a dream by the fireplace."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did Alice find out when she woke up at the end?",
+          "options": [
+            "She had been sleeping by the fireplace and the adventure was a dream.",
+            "She was still a queen in the strange chess garden.",
+            "The white knight was waiting for her outside the door."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alice sat by the warm place where a bright fire burned while the winter afternoon slowly turned into evening.",
+              "audioStart": 0.1,
+              "audioEnd": 5.4
+            },
+            {
+              "text": "She looked at the large mirror hanging above the heat and wondered what lay on the other side of the glass.",
+              "audioStart": 6.263,
+              "audioEnd": 11.2
+            },
+            {
+              "text": "To her great surprise, her body began to pass directly through the glass surface.",
+              "audioStart": 12.062,
+              "audioEnd": 16.6
+            },
+            {
+              "text": "The room behind the mirror appeared completely different, yet it was familiar in a strange way.",
+              "audioStart": 17.462,
+              "audioEnd": 22.238
+            },
+            {
+              "text": "She wanted to know if the world inside the glass was real.",
+              "audioStart": 23.1,
+              "audioEnd": 25.913
+            },
+            {
+              "text": "Every single moment brought a new adventure which she had to face with strong will.",
+              "audioStart": 26.775,
+              "audioEnd": 30.663
+            },
+            {
+              "text": "The young girl felt that something extraordinary was going to happen in this place.",
+              "audioStart": 31.525,
+              "audioEnd": 35.337
+            },
+            {
+              "text": "She always liked to discover new things when she went outside into unknown areas.",
+              "audioStart": 36.2,
+              "audioEnd": 40.35
+            },
+            {
+              "text": "If she stayed longer, she might find more answers about this wonderful land.",
+              "audioStart": 41.212,
+              "audioEnd": 45.188
+            },
+            {
+              "text": "The winter wind blew outside, but inside the room felt warm and safe.",
+              "audioStart": 46.05,
+              "audioEnd": 50.0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When she walked down from the high shelf, she discovered a garden where all the flowers could speak.",
+              "audioStart": 50.862,
+              "audioEnd": 55.65
+            },
+            {
+              "text": "The little girl also met some strange board pieces that were moving around the table.",
+              "audioStart": 56.513,
+              "audioEnd": 60.538
+            },
+            {
+              "text": "A white lady leader told her that the whole country was shaped like a huge game of board play.",
+              "audioStart": 61.4,
+              "audioEnd": 65.925
+            },
+            {
+              "text": "If Alice could reach the final square, she would become a leader herself.",
+              "audioStart": 66.787,
+              "audioEnd": 70.55
+            },
+            {
+              "text": "The plants talked about many different subjects while the sun shone brightly above them.",
+              "audioStart": 71.412,
+              "audioEnd": 75.7
+            },
+            {
+              "text": "Alice listened carefully because she wanted to understand every single word they said.",
+              "audioStart": 76.562,
+              "audioEnd": 80.787
+            },
+            {
+              "text": "The garden was filled with bright flowers that grew tall and strong.",
+              "audioStart": 81.65,
+              "audioEnd": 84.925
+            },
+            {
+              "text": "Some flowers asked her questions about where she came from and who her family was.",
+              "audioStart": 85.787,
+              "audioEnd": 89.95
+            },
+            {
+              "text": "She answered them very well before she continued her long journey across the land.",
+              "audioStart": 90.812,
+              "audioEnd": 94.9
+            },
+            {
+              "text": "The path ahead seemed long, but she felt ready for whatever came next.",
+              "audioStart": 95.763,
+              "audioEnd": 99.675
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During her journey across the strange land, she met many unusual characters along the road.",
+              "audioStart": 100.537,
+              "audioEnd": 105.312
+            },
+            {
+              "text": "Two fat brothers told her a funny story about a sea animal and some little fish.",
+              "audioStart": 106.175,
+              "audioEnd": 110.2
+            },
+            {
+              "text": "Later, a large cat appeared in a tree, smiling widely before it slowly disappeared into the air.",
+              "audioStart": 111.062,
+              "audioEnd": 116.425
+            },
+            {
+              "text": "Every step forward brought a new problem which she had to solve quickly.",
+              "audioStart": 117.287,
+              "audioEnd": 120.737
+            },
+            {
+              "text": "The two brothers were very funny and made her laugh with their silly words.",
+              "audioStart": 121.6,
+              "audioEnd": 125.25
+            },
+            {
+              "text": "The smiling cat disappeared completely until only its wide grin remained visible in the sky.",
+              "audioStart": 126.112,
+              "audioEnd": 131.162
+            },
+            {
+              "text": "Alice wondered how such a strange thing could ever happen in real life.",
+              "audioStart": 132.025,
+              "audioEnd": 135.662
+            },
+            {
+              "text": "She kept walking along the brown road while the afternoon sun began to drop lower.",
+              "audioStart": 136.525,
+              "audioEnd": 140.85
+            },
+            {
+              "text": "The journey was long and tiring, but she refused to stop or turn back.",
+              "audioStart": 141.713,
+              "audioEnd": 145.463
+            },
+            {
+              "text": "Every new encounter made her realize how different this world was from her home.",
+              "audioStart": 146.325,
+              "audioEnd": 150.1
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She walked through a dark forest where nobody could remember any names.",
+              "audioStart": 150.963,
+              "audioEnd": 154.45
+            },
+            {
+              "text": "A white soldier tried to help her, but he kept falling off his horse during the ride.",
+              "audioStart": 155.312,
+              "audioEnd": 159.588
+            },
+            {
+              "text": "Despite all the confusion, Alice kept moving forward toward the final square of the board.",
+              "audioStart": 160.45,
+              "audioEnd": 165.15
+            },
+            {
+              "text": "She wanted to finish the game and return home to her warm room.",
+              "audioStart": 166.012,
+              "audioEnd": 169.012
+            },
+            {
+              "text": "The trees in the forest were tall and blocked most of the light from the sky.",
+              "audioStart": 169.875,
+              "audioEnd": 173.588
+            },
+            {
+              "text": "The soldier was very kind, even though he was not skilled and kept losing his balance.",
+              "audioStart": 174.45,
+              "audioEnd": 178.95
+            },
+            {
+              "text": "Alice helped him up whenever he fell down from his animal.",
+              "audioStart": 179.812,
+              "audioEnd": 182.588
+            },
+            {
+              "text": "They talked about the game and how important it was to reach the end safely.",
+              "audioStart": 183.45,
+              "audioEnd": 187.012
+            },
+            {
+              "text": "The forest was quiet, and the air smelled like old wood and green leaves.",
+              "audioStart": 187.875,
+              "audioEnd": 191.7
+            },
+            {
+              "text": "She felt glad to have someone to talk to while she walked through the shadows.",
+              "audioStart": 192.562,
+              "audioEnd": 195.938
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At last, she reached the final line and a heavy golden circle was placed on her head.",
+              "audioStart": 196.8,
+              "audioEnd": 201.488
+            },
+            {
+              "text": "However, the lady leader turned into a little baby animal while she held the piece in her hands.",
+              "audioStart": 202.35,
+              "audioEnd": 207.125
+            },
+            {
+              "text": "Alice woke up by the warm place and realized that the whole adventure had been a dream.",
+              "audioStart": 207.988,
+              "audioEnd": 212.2
+            },
+            {
+              "text": "She looked around the room, wondering which world had been real.",
+              "audioStart": 213.062,
+              "audioEnd": 216.162
+            },
+            {
+              "text": "The gold object felt heavy and bright as she balanced it carefully upon her hair.",
+              "audioStart": 217.025,
+              "audioEnd": 221.225
+            },
+            {
+              "text": "Then everything changed in a flash, and she was holding a soft little animal instead.",
+              "audioStart": 222.088,
+              "audioEnd": 226.65
+            },
+            {
+              "text": "Her eyes opened wide as she found herself sitting back in her own comfortable chair.",
+              "audioStart": 227.512,
+              "audioEnd": 231.512
+            },
+            {
+              "text": "The fire was still burning softly, and the room looked exactly as it had before.",
+              "audioStart": 232.375,
+              "audioEnd": 236.838
+            },
+            {
+              "text": "She smiled to herself while she thought about all the amazing things she had seen.",
+              "audioStart": 237.7,
+              "audioEnd": 241.55
+            },
+            {
+              "text": "It was a wonderful dream, but she was also happy to be back home again.",
+              "audioStart": 242.412,
+              "audioEnd": 247.346
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0239.mp3",
+      "wordTimings": "audio/b2/st-0239.timings.json",
+      "quiz": [
+        {
+          "q": "What object did Alice pass through at the start of the story?",
+          "options": [
+            "A large glass mirror",
+            "A wooden front door",
+            "A kitchen window"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the white queen tell Alice about the country?",
+          "options": [
+            "It was shaped like a huge game of chess",
+            "It was a large school for children",
+            "It was an old garden full of red roses"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened at the very end of the story when Alice woke up?",
+          "options": [
+            "She was sitting by the fireplace and realized it was a dream",
+            "She was still walking through the dark forest",
+            "She became the queen of a real city"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alice curled herself comfortably by the hearth, where a bright fire crackled while the winter afternoon slowly dissolved into evening.",
+              "audioStart": 0.1,
+              "audioEnd": 6.838
+            },
+            {
+              "text": "She gazed upward at the large, ornate mirror hanging above the mantelpiece, wondering what peculiar realm might lie hidden on the other side of the glass.",
+              "audioStart": 7.7,
+              "audioEnd": 15.55
+            },
+            {
+              "text": "To her utter astonishment, her body began to pass directly through the solid silvered surface as though it were nothing more than a curtain of mist.",
+              "audioStart": 16.413,
+              "audioEnd": 23.762
+            },
+            {
+              "text": "The room reflected behind the glass appeared completely inverted and unfamiliar, yet it retained a strange, unsettling echo of her own familiar parlor.",
+              "audioStart": 24.625,
+              "audioEnd": 32.862
+            },
+            {
+              "text": "Driven by an insatiable curiosity, she resolved to discover whether this curious world possessed any tangible reality.",
+              "audioStart": 33.725,
+              "audioEnd": 40.337
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every single moment brought a fresh, unexpected adventure which she had to face with a resolute and unwavering will.",
+              "audioStart": 41.2,
+              "audioEnd": 47.062
+            },
+            {
+              "text": "The young girl instinctively felt that something extraordinary was about to unfold within this silent, frozen domain.",
+              "audioStart": 47.925,
+              "audioEnd": 53.9
+            },
+            {
+              "text": "She had always possessed a restless spirit, eagerly seeking to explore uncharted territories whenever the opportunity arose.",
+              "audioStart": 54.763,
+              "audioEnd": 61.4
+            },
+            {
+              "text": "Had she chosen to remain by her fireside, she would never have uncovered the myriad secrets hidden within this enchanted land.",
+              "audioStart": 62.263,
+              "audioEnd": 68.612
+            },
+            {
+              "text": "Outside, the winter wind howled against the windowpanes, but inside the looking-glass room, the air felt strangely still and expectant.",
+              "audioStart": 69.475,
+              "audioEnd": 76.95
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Stepping down carefully from the high mantel shelf, she soon discovered a wondrous garden where all the vibrant flowers possessed the gift of speech.",
+              "audioStart": 77.812,
+              "audioEnd": 85.275
+            },
+            {
+              "text": "Not far away, she also encountered several peculiar chess pieces that were moving purposefully across a large table.",
+              "audioStart": 86.138,
+              "audioEnd": 92.475
+            },
+            {
+              "text": "A stately White Queen informed her that the entire country was laid out in the precise pattern of a gigantic game of chess.",
+              "audioStart": 93.338,
+              "audioEnd": 99.688
+            },
+            {
+              "text": "If only Alice could summon the courage to reach the final square, she would be granted the high honor of becoming a queen herself.",
+              "audioStart": 100.55,
+              "audioEnd": 107.088
+            },
+            {
+              "text": "The surrounding plants babbled animatedly about a multitude of subjects while the sun shone brightly upon their colorful petals.",
+              "audioStart": 107.95,
+              "audioEnd": 114.475
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Alice listened with rapt attention, for she wanted to absorb every single word the articulate blossoms uttered.",
+              "audioStart": 115.338,
+              "audioEnd": 121.075
+            },
+            {
+              "text": "The garden was densely populated with tall, strong flowers that swayed gracefully in the gentle breeze.",
+              "audioStart": 121.938,
+              "audioEnd": 127.588
+            },
+            {
+              "text": "Several curious roses paused to question her about her origins, asking where she had come from and to what family she belonged.",
+              "audioStart": 128.45,
+              "audioEnd": 134.988
+            },
+            {
+              "text": "Having answered their polite inquiries with characteristic grace, she continued her long and arduous journey across the checkerboard landscape.",
+              "audioStart": 135.85,
+              "audioEnd": 143.125
+            },
+            {
+              "text": "Although the path ahead looked daunting, she felt fully prepared for whatever trials awaited her next.",
+              "audioStart": 143.988,
+              "audioEnd": 149.412
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As she traveled further into the strange territory, she encountered numerous eccentric characters roaming along the winding road.",
+              "audioStart": 150.275,
+              "audioEnd": 156.8
+            },
+            {
+              "text": "Two plump brothers crossed her path, cheerfully reciting a nonsensical tale concerning a curious sea creature and a school of tiny fish.",
+              "audioStart": 157.662,
+              "audioEnd": 165.188
+            },
+            {
+              "text": "Shortly after they vanished, a large Cheshire cat materialized in the boughs of an overhead tree, flashing a wide, mischievous grin before slowly fading into the open air.",
+              "audioStart": 166.05,
+              "audioEnd": 175.488
+            },
+            {
+              "text": "Every step forward introduced a fresh enigma that she was forced to navigate with clever resourcefulness.",
+              "audioStart": 176.35,
+              "audioEnd": 181.688
+            },
+            {
+              "text": "The two brothers had been delightfully amusing, leaving her chuckling at their absurd rhymes.",
+              "audioStart": 182.55,
+              "audioEnd": 187.175
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The grinning cat dissolved gradually until nothing remained of its presence save for a lingering, disembodied smile suspended against the sky.",
+              "audioStart": 188.037,
+              "audioEnd": 195.45
+            },
+            {
+              "text": "Alice pondered how such an impossible phenomenon could ever manifest outside the boundaries of a dream.",
+              "audioStart": 196.312,
+              "audioEnd": 201.6
+            },
+            {
+              "text": "She continued walking steadily along the dusty brown road while the afternoon sun began its slow descent toward the horizon.",
+              "audioStart": 202.463,
+              "audioEnd": 208.9
+            },
+            {
+              "text": "Though the journey was physically exhausting, she steadfastly refused to abandon her quest or turn back toward safety.",
+              "audioStart": 209.762,
+              "audioEnd": 216.075
+            },
+            {
+              "text": "Each bizarre encounter served to remind her just how profoundly this surreal domain diverged from her ordinary home.",
+              "audioStart": 216.938,
+              "audioEnd": 222.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Before long, her travels brought her into the shadows of a dense, shadowy forest where memory itself seemed to dissolve into nothingness.",
+              "audioStart": 223.488,
+              "audioEnd": 230.838
+            },
+            {
+              "text": "Within this quiet woodland, no living creature could recall its own proper name.",
+              "audioStart": 231.7,
+              "audioEnd": 235.713
+            },
+            {
+              "text": "A clumsy White Knight soon appeared, attempting to offer assistance, though he repeatedly tumbled headfirst from his mount at the slightest movement.",
+              "audioStart": 236.575,
+              "audioEnd": 245.218
+            },
+            {
+              "text": "Despite the profound confusion that surrounded them, Alice pressed onward, keeping her eyes fixed on the distant final square of the board.",
+              "audioStart": 246.081,
+              "audioEnd": 253.143
+            },
+            {
+              "text": "She desperately desired to complete the game and return safely to her cozy, warm room.",
+              "audioStart": 254.006,
+              "audioEnd": 258.755
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The ancient trees towered overhead, blocking out the majority of the golden sunlight.",
+              "audioStart": 259.618,
+              "audioEnd": 263.981
+            },
+            {
+              "text": "The well-meaning knight proved remarkably inept at remaining upright, yet his gentle disposition made his frequent falls endearing rather than frustrating.",
+              "audioStart": 264.843,
+              "audioEnd": 272.668
+            },
+            {
+              "text": "Whenever he tumbled into the ferns, Alice kindly helped him back into his saddle, dusting off his heavy armor.",
+              "audioStart": 273.531,
+              "audioEnd": 279.43
+            },
+            {
+              "text": "They conversed amiably about the peculiar nature of the giant game and the critical importance of reaching the end unharmed.",
+              "audioStart": 280.293,
+              "audioEnd": 286.243
+            },
+            {
+              "text": "The forest was remarkably hushed, smelling richly of damp earth, old timber, and crushed green leaves.",
+              "audioStart": 287.106,
+              "audioEnd": 293.13
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Finding herself in such tranquil company made the shadowy march feel far less lonely than it might have otherwise.",
+              "audioStart": 293.993,
+              "audioEnd": 299.843
+            },
+            {
+              "text": "At last, after what felt like an eternity of walking, she crossed the threshold of the final line.",
+              "audioStart": 300.705,
+              "audioEnd": 306.068
+            },
+            {
+              "text": "Instantly, a heavy golden crown materialized and was placed gently upon her brow.",
+              "audioStart": 306.93,
+              "audioEnd": 311.505
+            },
+            {
+              "text": "To her utter bewilderment, the dignified White Queen suddenly transformed into a soft, wriggling infant animal while resting in her hands.",
+              "audioStart": 312.368,
+              "audioEnd": 319.755
+            },
+            {
+              "text": "Alice clutched the precious metal object, marveling at the strange alchemy of the moment.",
+              "audioStart": 320.618,
+              "audioEnd": 325.043
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The golden circlet felt surprisingly heavy and bright as she balanced it carefully upon her hair.",
+              "audioStart": 325.906,
+              "audioEnd": 330.818
+            },
+            {
+              "text": "Then, in a blinding flash of light, the heavy metal dissolved into the warm fur of a living creature.",
+              "audioStart": 331.68,
+              "audioEnd": 337.055
+            },
+            {
+              "text": "Her eyes flew wide open as she realized she was no longer standing in a forest, but sitting comfortably in her own armchair.",
+              "audioStart": 337.918,
+              "audioEnd": 344.455
+            },
+            {
+              "text": "The fireplace was still radiating a soft, steady warmth, and the parlor appeared entirely unchanged.",
+              "audioStart": 345.318,
+              "audioEnd": 351.281
+            },
+            {
+              "text": "A quiet smile touched her lips as she reflected upon the remarkable journey she had just completed.",
+              "audioStart": 352.143,
+              "audioEnd": 357.268
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "It had undoubtedly been the most extraordinary dream imaginable, yet a part of her was deeply relieved to be back in the familiar world.",
+              "audioStart": 358.13,
+              "audioEnd": 364.856
+            },
+            {
+              "text": "She stroked the soft fabric of her dress, half expecting a chess piece to leap out from behind the sofa.",
+              "audioStart": 365.718,
+              "audioEnd": 371.393
+            },
+            {
+              "text": "The winter wind still rattled the glass panes outside, but the room felt secure and peaceful.",
+              "audioStart": 372.255,
+              "audioEnd": 377.13
+            },
+            {
+              "text": "She closed her eyes for a brief moment, letting the fading images of the looking-glass realm drift away into sleep.",
+              "audioStart": 377.993,
+              "audioEnd": 383.656
+            },
+            {
+              "text": "Home had never felt quite so sweet.",
+              "audioStart": 384.518,
+              "audioEnd": 386.58
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0239.mp3",
+      "wordTimings": "audio/c1/st-0239.timings.json",
+      "quiz": [
+        {
+          "q": "How does Alice initially enter the strange world behind the mirror?",
+          "options": [
+            "She opens a hidden door behind the fireplace.",
+            "Her body passes directly through the solid glass surface.",
+            "She climbs through the window during a winter storm."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "According to the White Queen, what is the entire country shaped like?",
+          "options": [
+            "A massive maze",
+            "A giant game of chess",
+            "A royal castle"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happens to the White Queen right after Alice reaches the final line?",
+          "options": [
+            "She transforms into a little baby animal.",
+            "She disappears completely into the trees.",
+            "She places a golden crown on Alice's head and vanishes."
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  }
+}

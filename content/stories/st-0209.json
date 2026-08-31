@@ -1,0 +1,1195 @@
+{
+  "id": "st-0209",
+  "title": "The Gingerbread Man",
+  "genre": "classic",
+  "summary": "A freshly baked gingerbread man dashes away, meeting strangers who each try to catch him.",
+  "coverScene": "A little golden cookie with arms and legs runs happily away from an old woman in a green yard.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "An old woman makes food.",
+              "audioStart": 0.106,
+              "audioEnd": 1.731
+            },
+            {
+              "text": "She puts it down.",
+              "audioStart": 2.694,
+              "audioEnd": 3.889
+            },
+            {
+              "text": "She opens the door now.",
+              "audioStart": 4.847,
+              "audioEnd": 6.319
+            },
+            {
+              "text": "The little man runs out.",
+              "audioStart": 7.278,
+              "audioEnd": 8.764
+            },
+            {
+              "text": "He runs away very quick.",
+              "audioStart": 9.722,
+              "audioEnd": 11.444
+            },
+            {
+              "text": "The woman wants him to stop.",
+              "audioStart": 12.403,
+              "audioEnd": 14.014
+            },
+            {
+              "text": "The runner is very good.",
+              "audioStart": 14.972,
+              "audioEnd": 16.403
+            },
+            {
+              "text": "He runs past an old man.",
+              "audioStart": 17.361,
+              "audioEnd": 19.111
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man works in a place.",
+              "audioStart": 20.069,
+              "audioEnd": 21.736
+            },
+            {
+              "text": "The man tries to stop him.",
+              "audioStart": 22.694,
+              "audioEnd": 24.361
+            },
+            {
+              "text": "The runner is too small.",
+              "audioStart": 25.319,
+              "audioEnd": 26.764
+            },
+            {
+              "text": "He meets a person.",
+              "audioStart": 27.722,
+              "audioEnd": 28.944
+            },
+            {
+              "text": "The person wants to eat him.",
+              "audioStart": 29.903,
+              "audioEnd": 31.542
+            },
+            {
+              "text": "The little man says no.",
+              "audioStart": 32.5,
+              "audioEnd": 34.014
+            },
+            {
+              "text": "He runs across land.",
+              "audioStart": 34.972,
+              "audioEnd": 36.431
+            },
+            {
+              "text": "He runs near a large tree.",
+              "audioStart": 37.389,
+              "audioEnd": 39.167
+            },
+            {
+              "text": "He makes a good sound.",
+              "audioStart": 40.125,
+              "audioEnd": 41.528
+            },
+            {
+              "text": "No one can take him now.",
+              "audioStart": 42.486,
+              "audioEnd": 43.958
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His body moves well.",
+              "audioStart": 44.917,
+              "audioEnd": 46.319
+            },
+            {
+              "text": "The runner comes near water.",
+              "audioStart": 47.278,
+              "audioEnd": 48.861
+            },
+            {
+              "text": "A dark person sits by water.",
+              "audioStart": 49.819,
+              "audioEnd": 51.792
+            },
+            {
+              "text": "The person gives help.",
+              "audioStart": 52.75,
+              "audioEnd": 54.083
+            },
+            {
+              "text": "The little man cannot go in water.",
+              "audioStart": 55.042,
+              "audioEnd": 57.056
+            },
+            {
+              "text": "He goes on the back.",
+              "audioStart": 58.014,
+              "audioEnd": 59.236
+            },
+            {
+              "text": "They move into water.",
+              "audioStart": 60.194,
+              "audioEnd": 61.403
+            },
+            {
+              "text": "The person tells him to move up.",
+              "audioStart": 62.361,
+              "audioEnd": 64.167
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They reach the center.",
+              "audioStart": 65.125,
+              "audioEnd": 66.375
+            },
+            {
+              "text": "The person tells him to sit.",
+              "audioStart": 67.333,
+              "audioEnd": 69.111
+            },
+            {
+              "text": "He sits on the head.",
+              "audioStart": 70.069,
+              "audioEnd": 71.292
+            },
+            {
+              "text": "The person asks him to move.",
+              "audioStart": 72.25,
+              "audioEnd": 74.028
+            },
+            {
+              "text": "He goes on the face.",
+              "audioStart": 74.986,
+              "audioEnd": 76.389
+            },
+            {
+              "text": "The little man moves.",
+              "audioStart": 77.347,
+              "audioEnd": 78.653
+            },
+            {
+              "text": "The person opens the body part.",
+              "audioStart": 79.611,
+              "audioEnd": 81.653
+            },
+            {
+              "text": "The person takes him.",
+              "audioStart": 82.611,
+              "audioEnd": 83.931
+            },
+            {
+              "text": "That is the end.",
+              "audioStart": 84.889,
+              "audioEnd": 85.931
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0209.mp3",
+      "wordTimings": "audio/a1/st-0209.timings.json",
+      "quiz": [
+        {
+          "q": "What does the old woman make?",
+          "options": [
+            "A cookie shaped like a little man",
+            "A big house",
+            "A farm animal"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where does the cookie go after running past the man in the garden?",
+          "options": [
+            "He meets a farm animal",
+            "He sits in a room",
+            "He goes to school"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happens at the end of the story?",
+          "options": [
+            "The fox catches and eats the cookie",
+            "The cookie swims across the river",
+            "The old woman catches the runner"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, an old woman made a special food.",
+              "audioStart": 0.106,
+              "audioEnd": 3.314
+            },
+            {
+              "text": "She put the food into a hot place.",
+              "audioStart": 4.278,
+              "audioEnd": 6.417
+            },
+            {
+              "text": "She wanted to make a little man.",
+              "audioStart": 7.375,
+              "audioEnd": 9.153
+            },
+            {
+              "text": "She worked hard in her house every day.",
+              "audioStart": 10.111,
+              "audioEnd": 12.236
+            },
+            {
+              "text": "When she opened the door, the little man moved.",
+              "audioStart": 13.194,
+              "audioEnd": 15.875
+            },
+            {
+              "text": "The little man got up and began to run away fast.",
+              "audioStart": 16.833,
+              "audioEnd": 19.722
+            },
+            {
+              "text": "The old woman was very surprised by this action.",
+              "audioStart": 20.681,
+              "audioEnd": 23.694
+            },
+            {
+              "text": "She did not want him to leave her home.",
+              "audioStart": 24.653,
+              "audioEnd": 26.639
+            },
+            {
+              "text": "She called for him to stop right now.",
+              "audioStart": 27.597,
+              "audioEnd": 29.556
+            },
+            {
+              "text": "The fast runner laughed at her.",
+              "audioStart": 30.514,
+              "audioEnd": 32.278
+            },
+            {
+              "text": "He said he would never return to the house.",
+              "audioStart": 33.236,
+              "audioEnd": 35.486
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He ran past an old man in the garden.",
+              "audioStart": 36.444,
+              "audioEnd": 38.708
+            },
+            {
+              "text": "The man tried to catch him.",
+              "audioStart": 39.667,
+              "audioEnd": 41.25
+            },
+            {
+              "text": "The runner was very fast.",
+              "audioStart": 42.208,
+              "audioEnd": 43.875
+            },
+            {
+              "text": "Next, the happy food met an animal.",
+              "audioStart": 44.833,
+              "audioEnd": 47.292
+            },
+            {
+              "text": "He called out that he ran away from many people.",
+              "audioStart": 48.25,
+              "audioEnd": 50.917
+            },
+            {
+              "text": "He felt good with every step he took.",
+              "audioStart": 51.875,
+              "audioEnd": 54.056
+            },
+            {
+              "text": "He ran across fields and near a dark forest.",
+              "audioStart": 55.014,
+              "audioEnd": 57.917
+            },
+            {
+              "text": "He sang a happy song as he went along.",
+              "audioStart": 58.875,
+              "audioEnd": 61.208
+            },
+            {
+              "text": "No one could catch him today.",
+              "audioStart": 62.167,
+              "audioEnd": 63.792
+            },
+            {
+              "text": "His feet moved faster than the wind.",
+              "audioStart": 64.75,
+              "audioEnd": 66.889
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Soon, the runner came near a deep water.",
+              "audioStart": 67.847,
+              "audioEnd": 70.458
+            },
+            {
+              "text": "A good animal sat by the water.",
+              "audioStart": 71.417,
+              "audioEnd": 73.361
+            },
+            {
+              "text": "The animal offered to help him cross.",
+              "audioStart": 74.319,
+              "audioEnd": 76.5
+            },
+            {
+              "text": "The food went on its back.",
+              "audioStart": 77.458,
+              "audioEnd": 79.111
+            },
+            {
+              "text": "The animal told him to move up.",
+              "audioStart": 80.069,
+              "audioEnd": 81.833
+            },
+            {
+              "text": "They reached the middle of the water.",
+              "audioStart": 82.792,
+              "audioEnd": 84.556
+            },
+            {
+              "text": "The animal told the food to sit upon its head.",
+              "audioStart": 85.514,
+              "audioEnd": 88.181
+            },
+            {
+              "text": "Finally, the animal asked him to move to its face.",
+              "audioStart": 89.139,
+              "audioEnd": 92.444
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The food reached the face of the animal.",
+              "audioStart": 93.403,
+              "audioEnd": 95.542
+            },
+            {
+              "text": "The animal opened its face and caught him.",
+              "audioStart": 96.5,
+              "audioEnd": 98.917
+            },
+            {
+              "text": "That was the end of the little man.",
+              "audioStart": 99.875,
+              "audioEnd": 101.625
+            },
+            {
+              "text": "The old woman never saw him again.",
+              "audioStart": 102.583,
+              "audioEnd": 104.639
+            },
+            {
+              "text": "She stayed in her house alone.",
+              "audioStart": 105.597,
+              "audioEnd": 107.306
+            },
+            {
+              "text": "The animal walked away from the water.",
+              "audioStart": 108.264,
+              "audioEnd": 110.319
+            },
+            {
+              "text": "Everyone in the area knew the story.",
+              "audioStart": 111.278,
+              "audioEnd": 113.25
+            },
+            {
+              "text": "It was a bad day for the small man.",
+              "audioStart": 114.208,
+              "audioEnd": 116.25
+            },
+            {
+              "text": "He should have stayed in the house.",
+              "audioStart": 117.208,
+              "audioEnd": 118.875
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0209.mp3",
+      "wordTimings": "audio/a2/st-0209.timings.json",
+      "quiz": [
+        {
+          "q": "What did the old woman make?",
+          "options": [
+            "A special cookie shaped like a little man",
+            "A big house",
+            "A red car"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who did the cookie meet near the deep river?",
+          "options": [
+            "A clever fox",
+            "An old man in a garden",
+            "Another cookie"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where did the fox catch the cookie?",
+          "options": [
+            "On its nose",
+            "In the garden",
+            "Inside the house"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, an old woman made a special meal shaped like a little man.",
+              "audioStart": 0.1,
+              "audioEnd": 4.138
+            },
+            {
+              "text": "She put the food into a hot machine.",
+              "audioStart": 5,
+              "audioEnd": 6.838
+            },
+            {
+              "text": "When she opened the door, the little man jumped out fast.",
+              "audioStart": 7.7,
+              "audioEnd": 10.688
+            },
+            {
+              "text": "He began to run away from the kitchen.",
+              "audioStart": 11.55,
+              "audioEnd": 13.425
+            },
+            {
+              "text": "The old woman was very surprised.",
+              "audioStart": 14.287,
+              "audioEnd": 16.212
+            },
+            {
+              "text": "She called for him to stop immediately.",
+              "audioStart": 17.075,
+              "audioEnd": 19.025
+            },
+            {
+              "text": "She wanted him to come back to her house.",
+              "audioStart": 19.887,
+              "audioEnd": 21.913
+            },
+            {
+              "text": "She looked at the open door with great shock.",
+              "audioStart": 22.775,
+              "audioEnd": 24.95
+            },
+            {
+              "text": "The fast runner laughed in a high voice.",
+              "audioStart": 25.812,
+              "audioEnd": 27.887
+            },
+            {
+              "text": "He told them he would never return.",
+              "audioStart": 28.75,
+              "audioEnd": 30.438
+            },
+            {
+              "text": "He ran past an old man who was working in the garden.",
+              "audioStart": 31.3,
+              "audioEnd": 34.013
+            },
+            {
+              "text": "He stated that he was too fast for anyone.",
+              "audioStart": 34.875,
+              "audioEnd": 37.225
+            },
+            {
+              "text": "The man tried to catch the little fellow.",
+              "audioStart": 38.087,
+              "audioEnd": 40.1
+            },
+            {
+              "text": "However, the runner was simply too quick.",
+              "audioStart": 40.962,
+              "audioEnd": 43.225
+            },
+            {
+              "text": "Further down the road, the proud meal met a farm animal.",
+              "audioStart": 44.087,
+              "audioEnd": 47.025
+            },
+            {
+              "text": "This farm animal also wanted to eat him.",
+              "audioStart": 47.888,
+              "audioEnd": 50.075
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The meal stated that he had run away from many different people.",
+              "audioStart": 50.938,
+              "audioEnd": 54.038
+            },
+            {
+              "text": "He said he would run away from the animal too.",
+              "audioStart": 54.9,
+              "audioEnd": 57.1
+            },
+            {
+              "text": "With every step he took, he felt more certain about his speed.",
+              "audioStart": 57.962,
+              "audioEnd": 61.175
+            },
+            {
+              "text": "He ran across fields and near a forest while singing a happy song.",
+              "audioStart": 62.038,
+              "audioEnd": 65.638
+            },
+            {
+              "text": "No one could ever catch him because his legs moved fast.",
+              "audioStart": 66.5,
+              "audioEnd": 69.475
+            },
+            {
+              "text": "He felt very happy about his new trip.",
+              "audioStart": 70.338,
+              "audioEnd": 72.375
+            },
+            {
+              "text": "He did not want to stop running at all.",
+              "audioStart": 73.237,
+              "audioEnd": 75.112
+            },
+            {
+              "text": "He thought he was the fastest person in the whole world.",
+              "audioStart": 75.975,
+              "audioEnd": 78.625
+            },
+            {
+              "text": "He passed many trees and small houses along the way.",
+              "audioStart": 79.487,
+              "audioEnd": 82.312
+            },
+            {
+              "text": "Children looked at him from their yards with wide eyes.",
+              "audioStart": 83.175,
+              "audioEnd": 85.725
+            },
+            {
+              "text": "They tried to catch him, but they failed completely.",
+              "audioStart": 86.588,
+              "audioEnd": 89.237
+            },
+            {
+              "text": "He just laughed and kept moving forward.",
+              "audioStart": 90.1,
+              "audioEnd": 92.287
+            },
+            {
+              "text": "His speed was truly amazing.",
+              "audioStart": 93.15,
+              "audioEnd": 94.85
+            },
+            {
+              "text": "Every single person missed him as he passed by.",
+              "audioStart": 95.713,
+              "audioEnd": 98.2
+            },
+            {
+              "text": "He felt like a king.",
+              "audioStart": 99.062,
+              "audioEnd": 100.287
+            },
+            {
+              "text": "If he ran fast, nobody would ever catch him.",
+              "audioStart": 101.15,
+              "audioEnd": 103.838
+            },
+            {
+              "text": "He had already crossed many fields today.",
+              "audioStart": 104.7,
+              "audioEnd": 106.888
+            },
+            {
+              "text": "He had never stopped for anyone.",
+              "audioStart": 107.75,
+              "audioEnd": 109.475
+            },
+            {
+              "text": "He enjoyed his fast journey very much.",
+              "audioStart": 110.338,
+              "audioEnd": 112.525
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Soon, the proud runner came near a deep river.",
+              "audioStart": 113.388,
+              "audioEnd": 115.963
+            },
+            {
+              "text": "A quiet animal was sitting by the water.",
+              "audioStart": 116.825,
+              "audioEnd": 118.862
+            },
+            {
+              "text": "It offered to help the little meal cross safely.",
+              "audioStart": 119.725,
+              "audioEnd": 121.925
+            },
+            {
+              "text": "Because the meal could not swim, he decided to trust the animal.",
+              "audioStart": 122.787,
+              "audioEnd": 126.125
+            },
+            {
+              "text": "He climbed onto its body.",
+              "audioStart": 126.987,
+              "audioEnd": 128.488
+            },
+            {
+              "text": "As they moved into the deep water, the animal spoke.",
+              "audioStart": 129.35,
+              "audioEnd": 132.137
+            },
+            {
+              "text": "The animal told the meal to move up onto its back.",
+              "audioStart": 133,
+              "audioEnd": 135.575
+            },
+            {
+              "text": "When they reached the middle, the animal gave another order.",
+              "audioStart": 136.438,
+              "audioEnd": 139.3
+            },
+            {
+              "text": "The animal told the meal to sit upon its head.",
+              "audioStart": 140.162,
+              "audioEnd": 142.562
+            },
+            {
+              "text": "Finally, the animal asked him to jump onto its face.",
+              "audioStart": 143.425,
+              "audioEnd": 146.562
+            },
+            {
+              "text": "The animal said this would keep him from getting cold.",
+              "audioStart": 147.425,
+              "audioEnd": 149.938
+            },
+            {
+              "text": "The moment the meal reached the face, the animal opened its mouth.",
+              "audioStart": 150.8,
+              "audioEnd": 154.338
+            },
+            {
+              "text": "The animal caught him.",
+              "audioStart": 155.2,
+              "audioEnd": 156.363
+            },
+            {
+              "text": "That was the end of the little man.",
+              "audioStart": 157.225,
+              "audioEnd": 158.8
+            },
+            {
+              "text": "He thought he was too bright for everyone.",
+              "audioStart": 159.662,
+              "audioEnd": 161.662
+            },
+            {
+              "text": "If he had known the truth, he would have stayed away.",
+              "audioStart": 162.525,
+              "audioEnd": 164.988
+            },
+            {
+              "text": "The clever fox had eaten him at last.",
+              "audioStart": 165.85,
+              "audioEnd": 167.988
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0209.mp3",
+      "wordTimings": "audio/b1/st-0209.timings.json",
+      "quiz": [
+        {
+          "q": "What did the old woman make at the beginning of the story?",
+          "options": [
+            "A special cookie shaped like a little man",
+            "A big bowl of hot soup",
+            "A sweet apple pie"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where did the gingerbread man meet the clever fox?",
+          "options": [
+            "By a deep river",
+            "Inside a dark forest",
+            "Near a farm garden"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the gingerbread man at the end of the story?",
+          "options": [
+            "The fox opened its mouth and caught him",
+            "He swam across the river by himself",
+            "The old woman caught him and took him home"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, an old woman made a special food item shaped like a little man.",
+              "audioStart": 0.1,
+              "audioEnd": 4.425
+            },
+            {
+              "text": "She put the food into a hot equipment so that it would become warm properly.",
+              "audioStart": 5.287,
+              "audioEnd": 8.875
+            },
+            {
+              "text": "When she opened the door, the little fellow jumped out quickly and began to run away.",
+              "audioStart": 9.738,
+              "audioEnd": 14.0
+            },
+            {
+              "text": "The old woman was very surprised, and she made a loud sound for him to stop.",
+              "audioStart": 14.863,
+              "audioEnd": 19.05
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "However, the fast runner laughed loudly and told them he would never return.",
+              "audioStart": 19.913,
+              "audioEnd": 23.962
+            },
+            {
+              "text": "He ran past an old man who was working in the garden.",
+              "audioStart": 24.825,
+              "audioEnd": 27.538
+            },
+            {
+              "text": "He made a loud sound that he was too fast for anyone.",
+              "audioStart": 28.4,
+              "audioEnd": 31.238
+            },
+            {
+              "text": "The man tried to catch the little fellow, but the runner was simply too quick.",
+              "audioStart": 32.1,
+              "audioEnd": 36.038
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Further down the road, the proud food item met a farm animal which also wanted to eat him.",
+              "audioStart": 36.9,
+              "audioEnd": 41.513
+            },
+            {
+              "text": "The food item made a loud sound that he had run away from many different people.",
+              "audioStart": 42.375,
+              "audioEnd": 46.263
+            },
+            {
+              "text": "He would run away from the animal too.",
+              "audioStart": 47.125,
+              "audioEnd": 49.0
+            },
+            {
+              "text": "With every step he took, he felt more confident about his speed and his mental ability.",
+              "audioStart": 49.862,
+              "audioEnd": 54.538
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He ran across fields and near a forest while singing a happy little song about his escape.",
+              "audioStart": 55.4,
+              "audioEnd": 60.025
+            },
+            {
+              "text": "No one could ever catch him because his legs moved faster than the wind.",
+              "audioStart": 60.888,
+              "audioEnd": 64.438
+            },
+            {
+              "text": "Soon, the proud runner came near a deep river where his journey had to pause.",
+              "audioStart": 65.3,
+              "audioEnd": 69.338
+            },
+            {
+              "text": "A smart animal was sitting by the water.",
+              "audioStart": 70.2,
+              "audioEnd": 72.175
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "It offered to help the little food item cross safely.",
+              "audioStart": 73.037,
+              "audioEnd": 75.6
+            },
+            {
+              "text": "Because the food item could not swim, he decided to trust the animal.",
+              "audioStart": 76.463,
+              "audioEnd": 80.125
+            },
+            {
+              "text": "He climbed onto its tail.",
+              "audioStart": 80.987,
+              "audioEnd": 82.525
+            },
+            {
+              "text": "As they moved into the deep water, the animal told the food item to move up onto its back.",
+              "audioStart": 83.388,
+              "audioEnd": 87.975
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When they reached the middle of the river, the animal told the food item to sit upon its head.",
+              "audioStart": 88.838,
+              "audioEnd": 93.312
+            },
+            {
+              "text": "Finally, the animal asked the little traveler to jump onto its nose so that he would not get wet.",
+              "audioStart": 94.175,
+              "audioEnd": 99.362
+            },
+            {
+              "text": "The moment the food item reached the nose, the smart animal opened its mouth and caught him.",
+              "audioStart": 100.225,
+              "audioEnd": 104.838
+            },
+            {
+              "text": "That was the end of the little fellow who thought he was too smart for everyone.",
+              "audioStart": 105.7,
+              "audioEnd": 109.35
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many people heard about the amazing escape that happened during that day.",
+              "audioStart": 110.213,
+              "audioEnd": 113.7
+            },
+            {
+              "text": "The old woman felt very sad because her special food item was gone forever.",
+              "audioStart": 114.562,
+              "audioEnd": 118.662
+            },
+            {
+              "text": "She wondered if she would ever make something like that again.",
+              "audioStart": 119.525,
+              "audioEnd": 122.2
+            },
+            {
+              "text": "The journey of the little man became a famous story across the whole country.",
+              "audioStart": 123.062,
+              "audioEnd": 126.725
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Children played near the garden and asked their parents about the fast runner.",
+              "audioStart": 127.588,
+              "audioEnd": 131.262
+            },
+            {
+              "text": "Every person in the town knew the tale by heart.",
+              "audioStart": 132.125,
+              "audioEnd": 134.488
+            },
+            {
+              "text": "They believed that nobody could run as fast as the little man did.",
+              "audioStart": 135.35,
+              "audioEnd": 138.562
+            },
+            {
+              "text": "The river still flows quietly past the green fields where the escape took place.",
+              "audioStart": 139.425,
+              "audioEnd": 143.775
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Animals near the water often look for visitors who might need help.",
+              "audioStart": 144.637,
+              "audioEnd": 147.85
+            },
+            {
+              "text": "However, those animals are not always as friendly as they might appear at first.",
+              "audioStart": 148.713,
+              "audioEnd": 152.863
+            },
+            {
+              "text": "Trust must be given only to those who truly care about your safety.",
+              "audioStart": 153.725,
+              "audioEnd": 157.162
+            },
+            {
+              "text": "The lesson of the story remains important for every young child today.",
+              "audioStart": 158.025,
+              "audioEnd": 161.35
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He ran past an old man who was working in the garden.",
+              "audioStart": 162.213,
+              "audioEnd": 164.925
+            },
+            {
+              "text": "He made a loud sound that he was too fast for anyone.",
+              "audioStart": 165.787,
+              "audioEnd": 168.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He would run away from the animal too.",
+              "audioStart": 169.488,
+              "audioEnd": 171.363
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A smart animal was sitting by the water.",
+              "audioStart": 172.225,
+              "audioEnd": 174.2
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "It offered to help the little food item cross safely.",
+              "audioStart": 175.062,
+              "audioEnd": 177.625
+            },
+            {
+              "text": "He climbed onto its tail.",
+              "audioStart": 178.488,
+              "audioEnd": 180.025
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every person in the town knew the tale by heart.",
+              "audioStart": 180.887,
+              "audioEnd": 183.25
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0209.mp3",
+      "wordTimings": "audio/b2/st-0209.timings.json",
+      "quiz": [
+        {
+          "q": "Who made the gingerbread man at the beginning of the story?",
+          "options": [
+            "An old woman",
+            "A clever fox",
+            "A young child"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened when the oven door was opened?",
+          "options": [
+            "The food was burnt",
+            "The cookie jumped out and ran away",
+            "The woman ate the cookie immediately"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the gingerbread man try to cross the deep river?",
+          "options": [
+            "He swam across by himself",
+            "He used a small boat",
+            "He climbed onto the tail of a fox"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, within a secluded cottage overshadowed by ancient oaks, an old woman measured flour and molasses with trembling hands. She shaped the sweet dough into the distinct silhouette of a little man, pressing currants into the pale surface for eyes and buttons. Eager to see her creation take form, she carefully slid the baking tray into the roaring heat of the iron oven. The kitchen soon filled with the rich, spiced aroma of ginger and burnt sugar as the dough rose to a golden brown. Never did she imagine that the very confection she baked would possess a restless soul of its own.",
+              "audioStart": 0.1,
+              "audioEnd": 34.038
+            },
+            {
+              "text": "When the brass door finally swung open, the little fellow did not wait for the residual heat to cool. With a sudden, astonishing burst of agility, he vaulted across the tiled floor and scrambled toward the open threshold. The old woman stood frozen in utter disbelief, her hands pressed against her apron as the runaway vanished into the morning sun. Panic seizing her breath, she raised her voice in a sharp, urgent cry demanding that he halt his frantic flight. Yet her desperate warnings dissolved harmlessly into the morning air, leaving her stranded in the doorway.",
+              "audioStart": 34.9,
+              "audioEnd": 67.562
+            },
+            {
+              "text": "The fast runner simply laughed, a high, metallic sound that echoed mockingly against the stone walls of the cottage. He shouted back that he had escaped the blazing oven and would never return to the confines of a kitchen. Racing past the vegetable patch, he spotted an old man bent over the soil, weeding the damp earth with a rusted trowel. With reckless abandon, the gingerbread man called out that he possessed a speed far superior to any mortal pursuer. The gardener straightened up in astonishment, lunging forward with outstretched arms, but the nimble confection had already darted beyond his reach.",
+              "audioStart": 68.425,
+              "audioEnd": 103.7
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Further down the dusty country lane, the proud little traveler encountered a heavy farm animal laboring near a wooden fence. The beast paused, its large eyes locking onto the sprinting figure with immediate, predatory interest. Sensing a delectable treat, the animal lowered its head and lunged forward to intercept the runaway. Instead of yielding, the gingerbread man laughed louder still, taunting his new pursuer with the tale of his previous escapes. He boasted that he had outrun both the old woman and the gardener, and that no beast of burden could ever claim him. With every pounding stride across the turf, his confidence swelled into absolute arrogance.",
+              "audioStart": 104.562,
+              "audioEnd": 142.85
+            },
+            {
+              "text": "Across emerald meadows and through the dappled shadows of a whispering pine forest, he maintained his relentless pace. To celebrate his glorious freedom, he composed a cheerful little song about his marvelous evasion, chanting it aloud to the empty woods. Not a single creature in the valley could match his velocity, for his legs felt as swift and untamable as the autumn wind. Yet every journey must eventually confront an obstacle, and soon the proud runner found his path obstructed by a broad, sluggish river. The water rushed deep and dark between steep banks, forcing the arrogant fugitive to skid to an abrupt halt.",
+              "audioStart": 143.713,
+              "audioEnd": 180.05
+            },
+            {
+              "text": "Sitting quietly by the muddy edge was a cunning animal with sleek fur and an observant, calculating gaze. Recognizing the predicament of the breathless runner, the creature offered a smooth and seemingly generous solution to his dilemma. Because the gingerbread man possessed no means of crossing the treacherous current, he foolishly chose to place his trust in the stranger. Without a moment of hesitation, he leaped forward and perched lightly upon the tip of the animal's twitching tail. As they pushed off from the bank and drifted into the swirling water, the animal calmly suggested that the weight might be too much for the tail alone.",
+              "audioStart": 180.912,
+              "audioEnd": 216.537
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Midway across the channel, the current grew visibly stronger, churning into white foam against unseen rocks beneath the surface. True to its calculated strategy, the animal turned its head slightly and advised the traveler to climb higher for safety. The gingerbread man obediently scrambled up the wet spine, settling comfortably between the shoulder blades as the cold spray splashed around them. Yet the water continued to rise, lapping dangerously close to the passenger's delicate sugar crust. With an urgent tone of false concern, the cunning beast insisted that the little man must move yet again to avoid ruin.",
+              "audioStart": 217.4,
+              "audioEnd": 254.981
+            },
+            {
+              "text": "Finally, as they drew agonizingly close to the opposite bank, the animal suggested that the traveler sit directly upon its snout. Only there, the creature argued, would the fragile confection remain completely dry until they stepped ashore. Blinded by his own supreme vanity and desperate to preserve his perfect form, the gingerbread man readily complied. The very second his sugary feet touched the tip of the nose, the clever animal tilted its head back with chilling precision. It opened its wide jaws and snapped them shut, ending the existence of the little fellow who believed he was far too clever for the world.",
+              "audioStart": 255.843,
+              "audioEnd": 292.13
+            },
+            {
+              "text": "News of the astonishing spectacle spread through the surrounding countryside before the sun had even reached its zenith. The old woman received the reports with a heavy heart, mourning the loss of her extraordinary creation with profound grief. She wondered aloud if she would ever possess the inspiration to bake such a wondrous thing again, though deep down she knew the magic was gone. The reckless journey of the little man transformed rapidly from a bizarre morning event into a legendary tale told across the entire province. Children playing near the overgrown garden would pause their games to ask their parents about the legendary runner.",
+              "audioStart": 292.993,
+              "audioEnd": 328.255
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every resident in the neighboring village knew the narrative by heart, repeating the sequence of events with grim fascination. They maintained a steadfast belief that no living creature could ever rival the raw speed of the gingerbread man. Yet the river continued its timeless descent, flowing silently past the green pastures where the dramatic pursuit had originally unfolded. Along those very banks, local wildlife frequently lingered, watching travelers with a quiet, calculating intensity. Those creatures were rarely as benevolent as their outward demeanor might initially suggest to an unsuspecting observer.",
+              "audioStart": 329.118,
+              "audioEnd": 364.555
+            },
+            {
+              "text": "True wisdom, the elders whispered to the rising generation, required far more than mere athletic prowess or blinding speed. Trust should never be granted lightly, especially to strangers offering unsolicited assistance in times of sudden peril. The tragic fate of the little runner served as a permanent reminder that arrogance often blinds us to imminent danger. Even today, parents across the valley recount the cautionary tale to ensure their children remember the hidden perils of the world. Thus, the legacy of the spiced traveler endured, etched forever into the memory of the river valley.",
+              "audioStart": 365.418,
+              "audioEnd": 399.63
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0209.mp3",
+      "wordTimings": "audio/c1/st-0209.timings.json",
+      "quiz": [
+        {
+          "q": "What action did the old woman take immediately after pulling the hot tray from the oven?",
+          "options": [
+            "She tried to catch him as he immediately bolted toward the open door.",
+            "She sat down by the window and wept for her lost creation.",
+            "She offered him a piece of sugar to calm his restless spirit."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did the gingerbread man ultimately decide to trust the animal by the river?",
+          "options": [
+            "He knew the animal from his previous adventures in the woods.",
+            "He needed assistance to cross the deep water safely because he could not swim.",
+            "He wanted to race the animal across the channel to prove his speed."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the animal manage to catch the gingerbread man during the river crossing?",
+          "options": [
+            "It tipped its head back and swallowed him when he moved onto its nose.",
+            "It swam to the bottom of the river until the sugar dissolved completely.",
+            "It grabbed him with its paws when he slipped off its back."
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  }
+}

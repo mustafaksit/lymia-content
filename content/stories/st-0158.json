@@ -1,0 +1,1560 @@
+{
+  "id": "st-0158",
+  "title": "The Three Questions",
+  "genre": "classic",
+  "summary": "A powerful man asks three hard questions and visits a wise old person for help.",
+  "coverScene": "A wise old hermit digs his garden in the green hills while a thoughtful king watches quietly.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A big man has three questions.",
+              "audioStart": 0.106,
+              "audioEnd": 2.175
+            },
+            {
+              "text": "He wants to know the right time.",
+              "audioStart": 3.139,
+              "audioEnd": 4.917
+            },
+            {
+              "text": "He wants to know important people.",
+              "audioStart": 5.875,
+              "audioEnd": 7.681
+            },
+            {
+              "text": "He wants to know important things.",
+              "audioStart": 8.639,
+              "audioEnd": 10.583
+            },
+            {
+              "text": "No one gives a good answer.",
+              "audioStart": 11.542,
+              "audioEnd": 13.125
+            },
+            {
+              "text": "He decides to visit an old man.",
+              "audioStart": 14.083,
+              "audioEnd": 16.056
+            },
+            {
+              "text": "He walks to the little home.",
+              "audioStart": 17.014,
+              "audioEnd": 18.639
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man takes off his good things.",
+              "audioStart": 19.597,
+              "audioEnd": 21.653
+            },
+            {
+              "text": "He puts on old things.",
+              "audioStart": 22.611,
+              "audioEnd": 24.125
+            },
+            {
+              "text": "He walks to the little place.",
+              "audioStart": 25.083,
+              "audioEnd": 26.861
+            },
+            {
+              "text": "The old man works in the land.",
+              "audioStart": 27.819,
+              "audioEnd": 29.667
+            },
+            {
+              "text": "The big man asks his three questions.",
+              "audioStart": 30.625,
+              "audioEnd": 33.097
+            },
+            {
+              "text": "The old man keeps working without speaking.",
+              "audioStart": 34.056,
+              "audioEnd": 36.569
+            },
+            {
+              "text": "The big man takes something to work.",
+              "audioStart": 37.528,
+              "audioEnd": 39.653
+            },
+            {
+              "text": "The big man works in the land.",
+              "audioStart": 40.611,
+              "audioEnd": 42.472
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many hours pass while he works.",
+              "audioStart": 43.431,
+              "audioEnd": 45.5
+            },
+            {
+              "text": "The day goes down.",
+              "audioStart": 46.458,
+              "audioEnd": 47.653
+            },
+            {
+              "text": "A bad man comes from the trees.",
+              "audioStart": 48.611,
+              "audioEnd": 50.611
+            },
+            {
+              "text": "The person holds a bad hand.",
+              "audioStart": 51.569,
+              "audioEnd": 53.278
+            },
+            {
+              "text": "The big man cleans the bad place.",
+              "audioStart": 54.236,
+              "audioEnd": 56.5
+            },
+            {
+              "text": "He puts something on it.",
+              "audioStart": 57.458,
+              "audioEnd": 58.806
+            },
+            {
+              "text": "The man stays down in a room.",
+              "audioStart": 59.764,
+              "audioEnd": 61.514
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The big man sits on the dirt.",
+              "audioStart": 62.472,
+              "audioEnd": 64.306
+            },
+            {
+              "text": "Morning comes to the world.",
+              "audioStart": 65.264,
+              "audioEnd": 66.792
+            },
+            {
+              "text": "The person looks at the big man.",
+              "audioStart": 67.75,
+              "audioEnd": 69.569
+            },
+            {
+              "text": "Water is in his eyes.",
+              "audioStart": 70.528,
+              "audioEnd": 71.986
+            },
+            {
+              "text": "He asks for life back.",
+              "audioStart": 72.944,
+              "audioEnd": 74.514
+            },
+            {
+              "text": "He is a bad person.",
+              "audioStart": 75.472,
+              "audioEnd": 76.819
+            },
+            {
+              "text": "He comes to end the life.",
+              "audioStart": 77.778,
+              "audioEnd": 79.361
+            },
+            {
+              "text": "The big man keeps his life.",
+              "audioStart": 80.319,
+              "audioEnd": 82.222
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The big man is very good.",
+              "audioStart": 83.181,
+              "audioEnd": 84.847
+            },
+            {
+              "text": "They make no war right now.",
+              "audioStart": 85.806,
+              "audioEnd": 87.375
+            },
+            {
+              "text": "He gives land back.",
+              "audioStart": 88.333,
+              "audioEnd": 89.611
+            },
+            {
+              "text": "He asks the old man again.",
+              "audioStart": 90.569,
+              "audioEnd": 92.25
+            },
+            {
+              "text": "The old man gives the answers.",
+              "audioStart": 93.208,
+              "audioEnd": 95.139
+            },
+            {
+              "text": "The most important time is now.",
+              "audioStart": 96.097,
+              "audioEnd": 97.889
+            },
+            {
+              "text": "The most important person is here.",
+              "audioStart": 98.847,
+              "audioEnd": 100.819
+            },
+            {
+              "text": "The most important thing is good.",
+              "audioStart": 101.778,
+              "audioEnd": 103.611
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0158.mp3",
+      "wordTimings": "audio/a1/st-0158.timings.json",
+      "quiz": [
+        {
+          "q": "What does the king want to know?",
+          "options": [
+            "Three important questions",
+            "How to make money",
+            "Where to buy food"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who comes out of the woods?",
+          "options": [
+            "A hurt stranger",
+            "An old hermit",
+            "A little child"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is the most important time?",
+          "options": [
+            "Yesterday",
+            "Now",
+            "Tomorrow"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a great leader wanted three important things.",
+              "audioStart": 0.106,
+              "audioEnd": 3.939
+            },
+            {
+              "text": "He wanted to know the right time for every action.",
+              "audioStart": 4.903,
+              "audioEnd": 7.681
+            },
+            {
+              "text": "He wanted to know the most important people.",
+              "audioStart": 8.639,
+              "audioEnd": 11
+            },
+            {
+              "text": "He wanted to know the most important task.",
+              "audioStart": 11.958,
+              "audioEnd": 14.389
+            },
+            {
+              "text": "No one could give him a good answer.",
+              "audioStart": 15.347,
+              "audioEnd": 17.194
+            },
+            {
+              "text": "He decided to visit an old person in the high land.",
+              "audioStart": 18.153,
+              "audioEnd": 21.028
+            },
+            {
+              "text": "The man put on simple clothes and walked alone to the garden.",
+              "audioStart": 21.986,
+              "audioEnd": 25.375
+            },
+            {
+              "text": "The old person worked hard and did not speak.",
+              "audioStart": 26.333,
+              "audioEnd": 28.986
+            },
+            {
+              "text": "The leader saw that the old man was low on power.",
+              "audioStart": 29.944,
+              "audioEnd": 32.722
+            },
+            {
+              "text": "The leader took the hand tool and began working in the garden.",
+              "audioStart": 33.681,
+              "audioEnd": 36.861
+            },
+            {
+              "text": "He wanted to show good will to the old man.",
+              "audioStart": 37.819,
+              "audioEnd": 40.097
+            },
+            {
+              "text": "The old man watched him work for a long time.",
+              "audioStart": 41.056,
+              "audioEnd": 43.792
+            },
+            {
+              "text": "The leader did not stop his work.",
+              "audioStart": 44.75,
+              "audioEnd": 46.625
+            },
+            {
+              "text": "He kept moving his hands and digging the earth.",
+              "audioStart": 47.583,
+              "audioEnd": 50.111
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hours passed while the leader worked.",
+              "audioStart": 51.069,
+              "audioEnd": 53.153
+            },
+            {
+              "text": "Soon the light went down behind the high land.",
+              "audioStart": 54.111,
+              "audioEnd": 56.569
+            },
+            {
+              "text": "A person came out from the trees.",
+              "audioStart": 57.528,
+              "audioEnd": 59.5
+            },
+            {
+              "text": "The man held his arm.",
+              "audioStart": 60.458,
+              "audioEnd": 61.833
+            },
+            {
+              "text": "The leader went over and cleaned the problem.",
+              "audioStart": 62.792,
+              "audioEnd": 65.028
+            },
+            {
+              "text": "He put something on it and helped the man lie down inside.",
+              "audioStart": 65.986,
+              "audioEnd": 69.111
+            },
+            {
+              "text": "The leader fell down on the floor.",
+              "audioStart": 70.069,
+              "audioEnd": 71.986
+            },
+            {
+              "text": "When he opened his eyes, the man looked at him.",
+              "audioStart": 72.944,
+              "audioEnd": 75.625
+            },
+            {
+              "text": "Water was in his eyes.",
+              "audioStart": 76.583,
+              "audioEnd": 78.056
+            },
+            {
+              "text": "The man asked for help.",
+              "audioStart": 79.014,
+              "audioEnd": 80.431
+            },
+            {
+              "text": "He was against the leader and came to kill him.",
+              "audioStart": 81.389,
+              "audioEnd": 83.944
+            },
+            {
+              "text": "The leader saved his life during the dark night.",
+              "audioStart": 84.903,
+              "audioEnd": 87.486
+            },
+            {
+              "text": "The stranger felt surprise when the leader helped him.",
+              "audioStart": 88.444,
+              "audioEnd": 91.236
+            },
+            {
+              "text": "The leader gave him food and water to drink.",
+              "audioStart": 92.194,
+              "audioEnd": 94.681
+            },
+            {
+              "text": "The man felt very weak from his hurt arm.",
+              "audioStart": 95.639,
+              "audioEnd": 98.028
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The leader gave help and saved his life.",
+              "audioStart": 98.986,
+              "audioEnd": 101.347
+            },
+            {
+              "text": "The leader was very happy to make good terms.",
+              "audioStart": 102.306,
+              "audioEnd": 104.875
+            },
+            {
+              "text": "He promised to give back all lands.",
+              "audioStart": 105.833,
+              "audioEnd": 107.958
+            },
+            {
+              "text": "Before leaving, the leader asked his three questions one last time.",
+              "audioStart": 108.917,
+              "audioEnd": 113.097
+            },
+            {
+              "text": "The old person explained the answers.",
+              "audioStart": 114.056,
+              "audioEnd": 116.319
+            },
+            {
+              "text": "The most important time is now.",
+              "audioStart": 117.278,
+              "audioEnd": 119.069
+            },
+            {
+              "text": "The most important person is the one you are with.",
+              "audioStart": 120.028,
+              "audioEnd": 122.778
+            },
+            {
+              "text": "The most important thing is to do that person good.",
+              "audioStart": 123.736,
+              "audioEnd": 126.556
+            },
+            {
+              "text": "The leader went home with a new mind.",
+              "audioStart": 127.514,
+              "audioEnd": 129.514
+            },
+            {
+              "text": "He understood many things after this long day.",
+              "audioStart": 130.472,
+              "audioEnd": 133.181
+            },
+            {
+              "text": "The experience changed his whole life.",
+              "audioStart": 134.139,
+              "audioEnd": 136.389
+            },
+            {
+              "text": "He planned to rule his country with care.",
+              "audioStart": 137.347,
+              "audioEnd": 139.681
+            },
+            {
+              "text": "He wanted to help every person in need.",
+              "audioStart": 140.639,
+              "audioEnd": 142.806
+            },
+            {
+              "text": "The old man smiled as the leader walked away.",
+              "audioStart": 143.764,
+              "audioEnd": 146.389
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0158.mp3",
+      "wordTimings": "audio/a2/st-0158.timings.json",
+      "quiz": [
+        {
+          "q": "What did the king wear when he went to see the hermit?",
+          "options": [
+            "Plain clothes",
+            "His royal crown",
+            "A soldier uniform"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who came out of the woods with a bleeding arm?",
+          "options": [
+            "A wise hermit",
+            "A hurt stranger",
+            "The king's brother"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What was the stranger's original plan against the king?",
+          "options": [
+            "To take his money",
+            "To kill the king",
+            "To ask for land"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a powerful king wanted to know three important things.",
+              "audioStart": 0.1,
+              "audioEnd": 4.062
+            },
+            {
+              "text": "He wanted to know the right time to begin each action.",
+              "audioStart": 4.925,
+              "audioEnd": 7.55
+            },
+            {
+              "text": "He wanted to know who the most important people were.",
+              "audioStart": 8.412,
+              "audioEnd": 10.887
+            },
+            {
+              "text": "He wanted to know what the most important task was.",
+              "audioStart": 11.75,
+              "audioEnd": 14.375
+            },
+            {
+              "text": "Because no one could give him a good answer, he decided to visit an old man.",
+              "audioStart": 15.238,
+              "audioEnd": 19.012
+            },
+            {
+              "text": "The old man lived in a garden near the forest.",
+              "audioStart": 19.875,
+              "audioEnd": 22.262
+            },
+            {
+              "text": "Many people came to see him for advice.",
+              "audioStart": 23.125,
+              "audioEnd": 25.212
+            },
+            {
+              "text": "The king dressed in plain clothes and walked alone until he reached the garden.",
+              "audioStart": 26.075,
+              "audioEnd": 29.887
+            },
+            {
+              "text": "When the king asked his questions, the old man kept working without speaking.",
+              "audioStart": 30.75,
+              "audioEnd": 34.812
+            },
+            {
+              "text": "Seeing that the old man was tired, the king took the tool and continued working.",
+              "audioStart": 35.675,
+              "audioEnd": 39.938
+            },
+            {
+              "text": "Hours passed while the king worked, and the sun began to go down.",
+              "audioStart": 40.8,
+              "audioEnd": 44.413
+            },
+            {
+              "text": "Suddenly, a bad stranger came out of the woods with a hurt arm.",
+              "audioStart": 45.275,
+              "audioEnd": 48.525
+            },
+            {
+              "text": "The man was losing blood fast.",
+              "audioStart": 49.388,
+              "audioEnd": 51.237
+            },
+            {
+              "text": "The king rushed over, cleaned the wound, and covered it carefully.",
+              "audioStart": 52.1,
+              "audioEnd": 55.638
+            },
+            {
+              "text": "Tired from the hard labor, the king fell into bed on the floor.",
+              "audioStart": 56.5,
+              "audioEnd": 59.888
+            },
+            {
+              "text": "When he woke up, the stranger looked at him with deep sadness.",
+              "audioStart": 60.75,
+              "audioEnd": 63.938
+            },
+            {
+              "text": "The man explained that he was an enemy who had come to kill the king.",
+              "audioStart": 64.8,
+              "audioEnd": 68.15
+            },
+            {
+              "text": "The king was glad to make peace and promised to give back all lands.",
+              "audioStart": 69.013,
+              "audioEnd": 72.412
+            },
+            {
+              "text": "Before leaving, the king asked the old man one final time for the answers.",
+              "audioStart": 73.275,
+              "audioEnd": 77.575
+            },
+            {
+              "text": "The old man explained that the most important time is now.",
+              "audioStart": 78.438,
+              "audioEnd": 81.237
+            },
+            {
+              "text": "The person you are with is the most important person.",
+              "audioStart": 82.1,
+              "audioEnd": 84.537
+            },
+            {
+              "text": "The good thing to do is to help that person.",
+              "audioStart": 85.4,
+              "audioEnd": 87.575
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The king thought about these words for a long time.",
+              "audioStart": 88.438,
+              "audioEnd": 90.95
+            },
+            {
+              "text": "He understood that life is short and very valuable.",
+              "audioStart": 91.812,
+              "audioEnd": 94.487
+            },
+            {
+              "text": "Every day brings new chances to do good things for others.",
+              "audioStart": 95.35,
+              "audioEnd": 98.312
+            },
+            {
+              "text": "The king had learned a great lesson from the old man.",
+              "audioStart": 99.175,
+              "audioEnd": 101.675
+            },
+            {
+              "text": "He walked back to his big house with a calm mind.",
+              "audioStart": 102.537,
+              "audioEnd": 105.075
+            },
+            {
+              "text": "His heart was full of love for all people.",
+              "audioStart": 105.938,
+              "audioEnd": 108.125
+            },
+            {
+              "text": "From that day on, the king tried to live a better life.",
+              "audioStart": 108.987,
+              "audioEnd": 111.987
+            },
+            {
+              "text": "He always made sure to help anyone in need.",
+              "audioStart": 112.85,
+              "audioEnd": 115.1
+            },
+            {
+              "text": "If a problem came up, he stayed calm and thought carefully.",
+              "audioStart": 115.963,
+              "audioEnd": 119.088
+            },
+            {
+              "text": "He never forgot the important lesson he learned in the garden.",
+              "audioStart": 119.95,
+              "audioEnd": 122.763
+            },
+            {
+              "text": "The country grew strong and calm under his rule.",
+              "audioStart": 123.625,
+              "audioEnd": 125.95
+            },
+            {
+              "text": "People from far away came to hear his wonderful stories.",
+              "audioStart": 126.812,
+              "audioEnd": 129.825
+            },
+            {
+              "text": "They wanted to know how he became such a good leader.",
+              "audioStart": 130.688,
+              "audioEnd": 133.113
+            },
+            {
+              "text": "The king always told them about the old man in the garden.",
+              "audioStart": 133.975,
+              "audioEnd": 136.738
+            },
+            {
+              "text": "He told them that the present moment is all we really have.",
+              "audioStart": 137.6,
+              "audioEnd": 140.412
+            },
+            {
+              "text": "We must use our time well and always be kind to others.",
+              "audioStart": 141.275,
+              "audioEnd": 144.225
+            },
+            {
+              "text": "This is the secret to a happy and good life.",
+              "audioStart": 145.088,
+              "audioEnd": 147.387
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many years passed after that special day in the garden.",
+              "audioStart": 148.25,
+              "audioEnd": 150.988
+            },
+            {
+              "text": "The king ruled his land with great care and constant attention.",
+              "audioStart": 151.85,
+              "audioEnd": 155.1
+            },
+            {
+              "text": "If anyone had a serious problem, the king listened to them directly.",
+              "audioStart": 155.963,
+              "audioEnd": 159.575
+            },
+            {
+              "text": "He walked among the citizens to see their daily lives.",
+              "audioStart": 160.438,
+              "audioEnd": 163.262
+            },
+            {
+              "text": "Children played in the streets while adults worked in shops.",
+              "audioStart": 164.125,
+              "audioEnd": 167.012
+            },
+            {
+              "text": "No one suffered from hunger because the king shared food freely.",
+              "audioStart": 167.875,
+              "audioEnd": 171.025
+            },
+            {
+              "text": "The army stayed strong, but peace remained the main goal.",
+              "audioStart": 171.887,
+              "audioEnd": 174.925
+            },
+            {
+              "text": "Visitors from foreign countries arrived to study the system.",
+              "audioStart": 175.787,
+              "audioEnd": 178.762
+            },
+            {
+              "text": "They could not believe how well the community operated.",
+              "audioStart": 179.625,
+              "audioEnd": 182.088
+            },
+            {
+              "text": "The king always shared his personal story with the guests.",
+              "audioStart": 182.95,
+              "audioEnd": 185.825
+            },
+            {
+              "text": "He told every new generation about the wise old man.",
+              "audioStart": 186.688,
+              "audioEnd": 189.463
+            },
+            {
+              "text": "The future depends on what we do right now.",
+              "audioStart": 190.325,
+              "audioEnd": 192.4
+            },
+            {
+              "text": "Therefore, the king kept his heart open to every person.",
+              "audioStart": 193.262,
+              "audioEnd": 196.412
+            },
+            {
+              "text": "He ensured that kindness guided every single action he took.",
+              "audioStart": 197.275,
+              "audioEnd": 200.488
+            },
+            {
+              "text": "His name became a symbol of hope and proper leadership.",
+              "audioStart": 201.35,
+              "audioEnd": 204.075
+            },
+            {
+              "text": "Even when difficult challenges appeared, he remained completely steady.",
+              "audioStart": 204.938,
+              "audioEnd": 208.575
+            },
+            {
+              "text": "The country thrived and remained secure through all seasons.",
+              "audioStart": 209.438,
+              "audioEnd": 212.412
+            },
+            {
+              "text": "Every single citizen felt safe and deeply respected.",
+              "audioStart": 213.275,
+              "audioEnd": 216.25
+            },
+            {
+              "text": "The king smiled as he watched his people live well.",
+              "audioStart": 217.113,
+              "audioEnd": 219.6
+            },
+            {
+              "text": "He knew that helping others brought true satisfaction.",
+              "audioStart": 220.463,
+              "audioEnd": 223.088
+            },
+            {
+              "text": "His final years were filled with quiet strength and dignity.",
+              "audioStart": 223.95,
+              "audioEnd": 227.0
+            },
+            {
+              "text": "When the king finally passed away, the whole nation mourned.",
+              "audioStart": 227.863,
+              "audioEnd": 230.988
+            },
+            {
+              "text": "They remembered his fair laws and his gentle nature.",
+              "audioStart": 231.85,
+              "audioEnd": 234.5
+            },
+            {
+              "text": "Statues were built to honor his memory in the capital.",
+              "audioStart": 235.363,
+              "audioEnd": 238.05
+            },
+            {
+              "text": "Children learned about his wonderful rule in school.",
+              "audioStart": 238.912,
+              "audioEnd": 241.387
+            },
+            {
+              "text": "The lesson of the garden lived on through the years.",
+              "audioStart": 242.25,
+              "audioEnd": 244.562
+            },
+            {
+              "text": "People understood that the present moment is truly everything.",
+              "audioStart": 245.425,
+              "audioEnd": 248.425
+            },
+            {
+              "text": "If we treat each other well, the world improves.",
+              "audioStart": 249.287,
+              "audioEnd": 251.762
+            },
+            {
+              "text": "This simple truth remained the greatest guide for everyone.",
+              "audioStart": 252.625,
+              "audioEnd": 255.537
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0158.mp3",
+      "wordTimings": "audio/b1/st-0158.timings.json",
+      "quiz": [
+        {
+          "q": "Who did the king visit to get answers to his questions?",
+          "options": [
+            "A wise old hermit",
+            "A powerful enemy",
+            "An injured stranger"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the king do when he saw that the hermit was tired?",
+          "options": [
+            "He went to sleep on the floor.",
+            "He took the tool and continued working.",
+            "He left the garden and walked home."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why had the injured stranger come to the king?",
+          "options": [
+            "To ask for help in the garden",
+            "To bring important information",
+            "To kill the king"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a powerful king became convinced that he would never fail if he knew three important things.",
+              "audioStart": 0.1,
+              "audioEnd": 5.963
+            },
+            {
+              "text": "He wanted to know the right time to begin each action.",
+              "audioStart": 6.825,
+              "audioEnd": 9.45
+            },
+            {
+              "text": "He wanted to know who the most important people were.",
+              "audioStart": 10.312,
+              "audioEnd": 12.787
+            },
+            {
+              "text": "He wanted to know what the most important task was.",
+              "audioStart": 13.65,
+              "audioEnd": 16.275
+            },
+            {
+              "text": "Because no one at court could give him a good answer, he decided to visit a wise old person.",
+              "audioStart": 17.137,
+              "audioEnd": 21.85
+            },
+            {
+              "text": "This person lived simply in the hills.",
+              "audioStart": 22.712,
+              "audioEnd": 24.775
+            },
+            {
+              "text": "The wise person was known by many people as a man who understood the world.",
+              "audioStart": 25.637,
+              "audioEnd": 29.363
+            },
+            {
+              "text": "The king dressed in plain clothes and left his horse behind.",
+              "audioStart": 30.225,
+              "audioEnd": 33.35
+            },
+            {
+              "text": "He walked alone until he reached the small garden where the wise man worked every single day.",
+              "audioStart": 34.212,
+              "audioEnd": 38.837
+            },
+            {
+              "text": "When the king asked his three questions, the old man listened carefully.",
+              "audioStart": 39.7,
+              "audioEnd": 43.438
+            },
+            {
+              "text": "The man kept digging his earth without speaking a single word to the ruler.",
+              "audioStart": 44.3,
+              "audioEnd": 47.925
+            },
+            {
+              "text": "Seeing that the old person was tired, the king took the tool from him.",
+              "audioStart": 48.788,
+              "audioEnd": 52.362
+            },
+            {
+              "text": "The king continued working in the garden for a long time.",
+              "audioStart": 53.225,
+              "audioEnd": 56.087
+            },
+            {
+              "text": "Hours passed while the king dug the earth under the warm sun.",
+              "audioStart": 56.95,
+              "audioEnd": 60.013
+            },
+            {
+              "text": "Soon the sun began to sink behind the hills in the late afternoon.",
+              "audioStart": 60.875,
+              "audioEnd": 64.213
+            },
+            {
+              "text": "Suddenly, a hurt and exhausted stranger ran out of the woods.",
+              "audioStart": 65.075,
+              "audioEnd": 68.425
+            },
+            {
+              "text": "The stranger was holding his injured arm with both hands while dark blood ran down.",
+              "audioStart": 69.287,
+              "audioEnd": 73.325
+            },
+            {
+              "text": "The king rushed over to the man without any delay.",
+              "audioStart": 74.188,
+              "audioEnd": 76.75
+            },
+            {
+              "text": "The king cleaned the wound and wrapped it carefully with clean material.",
+              "audioStart": 77.612,
+              "audioEnd": 81.062
+            },
+            {
+              "text": "Then the king helped the injured person lie down on a bed inside the small room.",
+              "audioStart": 81.925,
+              "audioEnd": 85.775
+            },
+            {
+              "text": "Exhausted from the hard labor and the long day, the king fell down on the floor.",
+              "audioStart": 86.638,
+              "audioEnd": 90.875
+            },
+            {
+              "text": "He slept deeply on the floor of the simple house until the morning came.",
+              "audioStart": 91.737,
+              "audioEnd": 95.263
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When he woke up the next morning, the stranger was looking at him with deep sorrow and tears in his eyes.",
+              "audioStart": 96.125,
+              "audioEnd": 101.225
+            },
+            {
+              "text": "The man asked for pardon, explaining everything to the ruler.",
+              "audioStart": 102.088,
+              "audioEnd": 105.25
+            },
+            {
+              "text": "He explained that he was a bitter enemy who had come to kill the king during the journey.",
+              "audioStart": 106.112,
+              "audioEnd": 110.062
+            },
+            {
+              "text": "However, the king had saved his life with great care and support.",
+              "audioStart": 110.925,
+              "audioEnd": 114.525
+            },
+            {
+              "text": "The king was very glad to make peace with his former enemy.",
+              "audioStart": 115.388,
+              "audioEnd": 118.388
+            },
+            {
+              "text": "The king promised to give back all his lands and properties.",
+              "audioStart": 119.25,
+              "audioEnd": 122.287
+            },
+            {
+              "text": "Before leaving the small room, the king asked the wise man one final time for the answers to his questions.",
+              "audioStart": 123.15,
+              "audioEnd": 129.088
+            },
+            {
+              "text": "The wise old man explained that the most important time is now.",
+              "audioStart": 129.95,
+              "audioEnd": 133.025
+            },
+            {
+              "text": "He stated that the most important person is the one you are with at that moment.",
+              "audioStart": 133.887,
+              "audioEnd": 137.762
+            },
+            {
+              "text": "Finally, the wise man told the king that the most important thing is to do that person good.",
+              "audioStart": 138.625,
+              "audioEnd": 143.412
+            },
+            {
+              "text": "The king listened to these words and understood their deep meaning.",
+              "audioStart": 144.275,
+              "audioEnd": 147.338
+            },
+            {
+              "text": "He knew that his journey had been successful because he had learned valuable lessons about life.",
+              "audioStart": 148.2,
+              "audioEnd": 152.8
+            },
+            {
+              "text": "The ruler returned to his big house with a calm mind and a clear heart.",
+              "audioStart": 153.662,
+              "audioEnd": 157.325
+            },
+            {
+              "text": "He spent the rest of his days helping people and doing good things for everyone in his country.",
+              "audioStart": 158.188,
+              "audioEnd": 162.762
+            },
+            {
+              "text": "Whenever a problem came up, the king remembered the wise man words.",
+              "audioStart": 163.625,
+              "audioEnd": 167.175
+            },
+            {
+              "text": "He always focused on the present moment and the person standing right in front of him.",
+              "audioStart": 168.037,
+              "audioEnd": 172.15
+            },
+            {
+              "text": "Peace and happiness stayed in the land for many long years.",
+              "audioStart": 173.012,
+              "audioEnd": 175.988
+            },
+            {
+              "text": "The story of the king and the wise man was told from generation to generation across the whole nation.",
+              "audioStart": 176.85,
+              "audioEnd": 181.938
+            },
+            {
+              "text": "People learned that doing good is always the right path to follow.",
+              "audioStart": 182.8,
+              "audioEnd": 185.988
+            },
+            {
+              "text": "The simple lessons changed the heart of the powerful ruler forever.",
+              "audioStart": 186.85,
+              "audioEnd": 190.188
+            },
+            {
+              "text": "He never forgot the three important things that he discovered in the hills.",
+              "audioStart": 191.05,
+              "audioEnd": 194.5
+            },
+            {
+              "text": "The king walked through the garden again and thought about the events of the past days.",
+              "audioStart": 195.363,
+              "audioEnd": 199.3
+            },
+            {
+              "text": "He felt that his mind was clear and his future was bright.",
+              "audioStart": 200.162,
+              "audioEnd": 203.125
+            },
+            {
+              "text": "Every person in the country began to respect the ruler much more than before.",
+              "audioStart": 203.988,
+              "audioEnd": 207.9
+            },
+            {
+              "text": "The king shared his story with his closest friends and family members.",
+              "audioStart": 208.762,
+              "audioEnd": 212.325
+            },
+            {
+              "text": "They agreed that helping others was the greatest purpose a person could ever have.",
+              "audioStart": 213.188,
+              "audioEnd": 217.162
+            },
+            {
+              "text": "Life in the country became peaceful and happy for all citizens.",
+              "audioStart": 218.025,
+              "audioEnd": 221.45
+            },
+            {
+              "text": "The king continued to rule with wisdom and fairness until the end of his days.",
+              "audioStart": 222.312,
+              "audioEnd": 226.225
+            },
+            {
+              "text": "No more enemies came to trouble his peaceful lands.",
+              "audioStart": 227.088,
+              "audioEnd": 229.713
+            },
+            {
+              "text": "The memory of the wise man remained in the heart of the king forever.",
+              "audioStart": 230.575,
+              "audioEnd": 233.738
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0158.mp3",
+      "wordTimings": "audio/b2/st-0158.timings.json",
+      "quiz": [
+        {
+          "q": "Why did the king visit the hermit?",
+          "options": [
+            "To learn the answers to three important questions",
+            "To hide from an angry enemy",
+            "To buy land in the hills"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the stranger who came out of the woods?",
+          "options": [
+            "He stole the king's horse and ran away.",
+            "He was hurt and the king cared for him.",
+            "He helped the hermit dig the garden."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the hermit say was the most important thing to do?",
+          "options": [
+            "To rule the country well",
+            "To find the right time for work",
+            "To do good to the person you are with"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a powerful king became entirely convinced that he would never fail if he knew three vital things.",
+              "audioStart": 0.1,
+              "audioEnd": 6.55
+            },
+            {
+              "text": "He wanted to know the exact right time to begin each action, and who the most important people truly were.",
+              "audioStart": 7.412,
+              "audioEnd": 12.963
+            },
+            {
+              "text": "Furthermore, he desperately wanted to discover what the most important task was in any given moment.",
+              "audioStart": 13.825,
+              "audioEnd": 19.175
+            },
+            {
+              "text": "Because no one at court could give him a satisfactory answer, he decided to visit a wise old person.",
+              "audioStart": 20.038,
+              "audioEnd": 25.413
+            },
+            {
+              "text": "This reclusive hermit lived simply in the hills, far away from the noise and flattery of the royal palace.",
+              "audioStart": 26.275,
+              "audioEnd": 31.975
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The wise person was widely known across the kingdom as a man who truly understood the fundamental nature of the world.",
+              "audioStart": 32.837,
+              "audioEnd": 38.725
+            },
+            {
+              "text": "Determined to remain unrecognized, the king dressed himself in plain clothes and left his royal horse far behind.",
+              "audioStart": 39.587,
+              "audioEnd": 45.862
+            },
+            {
+              "text": "He walked alone through winding mountain paths until he finally reached the small garden where the wise man worked every single day.",
+              "audioStart": 46.725,
+              "audioEnd": 53.125
+            },
+            {
+              "text": "When the monarch arrived and asked his three pressing questions, the old man listened with profound and patient attention.",
+              "audioStart": 53.987,
+              "audioEnd": 60.025
+            },
+            {
+              "text": "However, the hermit kept digging the dark earth without speaking a single word in response to the ruler.",
+              "audioStart": 60.888,
+              "audioEnd": 66.175
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Noticing that the old person was visibly frail and exhausted, the king decided to intervene out of genuine concern.",
+              "audioStart": 67.037,
+              "audioEnd": 73.225
+            },
+            {
+              "text": "He gently stepped forward and took the heavy iron tool from the trembling hands of the hermit.",
+              "audioStart": 74.088,
+              "audioEnd": 78.612
+            },
+            {
+              "text": "The king continued working in the garden for a long time, turning the stubborn soil under the increasingly warm sun.",
+              "audioStart": 79.475,
+              "audioEnd": 85.638
+            },
+            {
+              "text": "Hours passed slowly while the royal visitor dug the earth, sweat pouring down his forehead in the late afternoon heat.",
+              "audioStart": 86.5,
+              "audioEnd": 92.375
+            },
+            {
+              "text": "Soon the sun began to sink slowly behind the green hills as evening approached with a cool breeze.",
+              "audioStart": 93.237,
+              "audioEnd": 98.225
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, a severely wounded and exhausted stranger burst out of the dense surrounding woods with a desperate cry.",
+              "audioStart": 99.088,
+              "audioEnd": 104.888
+            },
+            {
+              "text": "The fugitive was holding his heavily injured arm tightly with both hands while dark blood ran down his sleeve.",
+              "audioStart": 105.75,
+              "audioEnd": 111.2
+            },
+            {
+              "text": "Without a moment of hesitation, the king rushed over to the fallen man and knelt in the dirt beside him.",
+              "audioStart": 112.062,
+              "audioEnd": 117.3
+            },
+            {
+              "text": "The compassionate ruler quickly cleaned the jagged wound and wrapped it carefully with clean linen material from his own tunic.",
+              "audioStart": 118.162,
+              "audioEnd": 124.575
+            },
+            {
+              "text": "Then, with the help of the hermit, the king supported the injured person and led him inside the small room to rest.",
+              "audioStart": 125.438,
+              "audioEnd": 131.5
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Exhausted from the heavy physical labor and the emotional strain of the long day, the king collapsed on the wooden floor.",
+              "audioStart": 132.363,
+              "audioEnd": 138.55
+            },
+            {
+              "text": "He fell into a deep and dreamless sleep right there on the hard floor of the simple house until the morning light arrived.",
+              "audioStart": 139.412,
+              "audioEnd": 144.887
+            },
+            {
+              "text": "When he finally woke up the next morning, the stranger was staring straight at him with deep sorrow and tears shining in his eyes.",
+              "audioStart": 145.75,
+              "audioEnd": 152.15
+            },
+            {
+              "text": "The recovering man asked for immediate pardon, deciding to confess his true identity and dark intentions to the surprised ruler.",
+              "audioStart": 153.012,
+              "audioEnd": 160.075
+            },
+            {
+              "text": "He explained that he was a sworn enemy who had vowed to kill the king during this very journey across the mountains.",
+              "audioStart": 160.938,
+              "audioEnd": 166.438
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The assassin revealed that he had waited all day in the woods, expecting the king to return alone along the open path.",
+              "audioStart": 167.3,
+              "audioEnd": 173.5
+            },
+            {
+              "text": "When the hours passed and the king failed to appear, the desperate man had left his hiding place to search for him.",
+              "audioStart": 174.363,
+              "audioEnd": 180.3
+            },
+            {
+              "text": "Instead of finding an easy target, he had stumbled into the royal guards who recognized his face and wounded him severely.",
+              "audioStart": 181.162,
+              "audioEnd": 187.662
+            },
+            {
+              "text": "However, despite knowing nothing about his identity, the king had saved his life with incredible care and generous medical support.",
+              "audioStart": 188.525,
+              "audioEnd": 195.738
+            },
+            {
+              "text": "The astonished king was very glad to make complete peace with his former enemy, realizing the strange turn of fate.",
+              "audioStart": 196.6,
+              "audioEnd": 202.887
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Showing immense grace, the king promised to give back all the lands and properties that had been confiscated from the man's family.",
+              "audioStart": 203.75,
+              "audioEnd": 210.175
+            },
+            {
+              "text": "He sent his guards away and treated the former conspirator not as a prisoner, but as a valued and honored guest.",
+              "audioStart": 211.037,
+              "audioEnd": 216.875
+            },
+            {
+              "text": "Before leaving the small room to begin his journey home, the king asked the wise man one final time for the answers to his questions.",
+              "audioStart": 217.738,
+              "audioEnd": 224.825
+            },
+            {
+              "text": "The wise old man looked up calmly and explained that the most important time in the world is always the present moment, which is now.",
+              "audioStart": 225.688,
+              "audioEnd": 232.3
+            },
+            {
+              "text": "He stated clearly that the most important person is invariably the one you are actually with at that precise moment.",
+              "audioStart": 233.162,
+              "audioEnd": 240.284
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Finally, the wise hermit told the king that the most important task of all is simply to do that person good.",
+              "audioStart": 241.147,
+              "audioEnd": 246.684
+            },
+            {
+              "text": "The king listened carefully to these simple words and understood their profound and lasting meaning in his soul.",
+              "audioStart": 247.547,
+              "audioEnd": 252.846
+            },
+            {
+              "text": "He knew that his difficult journey had been completely successful because he had learned the most valuable lessons about human existence.",
+              "audioStart": 253.709,
+              "audioEnd": 260.459
+            },
+            {
+              "text": "The ruler returned to his grand house with a remarkably calm mind and a clear, unburdened heart.",
+              "audioStart": 261.322,
+              "audioEnd": 266.372
+            },
+            {
+              "text": "He spent the rest of his remaining days helping vulnerable people and doing good things for everyone across his entire country.",
+              "audioStart": 267.234,
+              "audioEnd": 273.609
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Whenever a difficult problem or political conflict came up, the king remembered the wise man words and paused to reflect.",
+              "audioStart": 274.471,
+              "audioEnd": 280.909
+            },
+            {
+              "text": "He always focused intently on the present moment and the specific person standing right in front of him.",
+              "audioStart": 281.772,
+              "audioEnd": 286.959
+            },
+            {
+              "text": "Peace and genuine happiness stayed in the land for many long and prosperous years under his thoughtful guidance.",
+              "audioStart": 287.822,
+              "audioEnd": 293.134
+            },
+            {
+              "text": "The inspiring story of the king and the wise man was told from generation to generation across the whole nation with great admiration.",
+              "audioStart": 293.997,
+              "audioEnd": 300.822
+            },
+            {
+              "text": "Simple citizens quickly learned that doing good for others is always the single right path to follow in life.",
+              "audioStart": 301.684,
+              "audioEnd": 307.221
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "These simple lessons changed the heart of the powerful ruler forever, erasing his old arrogance and thirst for endless conquest.",
+              "audioStart": 308.084,
+              "audioEnd": 314.997
+            },
+            {
+              "text": "He never forgot the three important things that he had discovered through hard experience away from his palace.",
+              "audioStart": 315.859,
+              "audioEnd": 321.009
+            },
+            {
+              "text": "The king often walked through the palace gardens again, remembering the events of those transformative days in the hills.",
+              "audioStart": 321.872,
+              "audioEnd": 327.959
+            },
+            {
+              "text": "He felt that his mind was remarkably clear and that his kingdom's future was brighter than it had ever been before.",
+              "audioStart": 328.822,
+              "audioEnd": 334.409
+            },
+            {
+              "text": "Every single person in the country began to respect the wise ruler much more deeply than they had in the past.",
+              "audioStart": 335.272,
+              "audioEnd": 340.934
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The king shared his incredible story with his closest friends and family members during quiet evening gatherings.",
+              "audioStart": 341.796,
+              "audioEnd": 347.534
+            },
+            {
+              "text": "They all agreed unanimously that helping others selflessly was the greatest purpose a human being could ever hope to have.",
+              "audioStart": 348.397,
+              "audioEnd": 354.372
+            },
+            {
+              "text": "Life in the country became wonderfully peaceful and happy for all citizens, rich and poor alike.",
+              "audioStart": 355.234,
+              "audioEnd": 360.671
+            },
+            {
+              "text": "The king continued to rule with extraordinary wisdom and complete fairness until the very end of his days on earth.",
+              "audioStart": 361.534,
+              "audioEnd": 367.234
+            },
+            {
+              "text": "No more enemies ever came to trouble his peaceful lands, because kindness had built a wall stronger than any stone fortress.",
+              "audioStart": 368.096,
+              "audioEnd": 374.734
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0158.mp3",
+      "wordTimings": "audio/c1/st-0158.timings.json",
+      "quiz": [
+        {
+          "q": "Why did the king initially leave his palace to visit the wise man in the hills?",
+          "options": [
+            "To find answers to three important questions about ruling.",
+            "To hide from a dangerous enemy who wanted to kill him.",
+            "To learn how to grow vegetables in a simple garden."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What physical labor did the king perform for the wise man during the afternoon?",
+          "options": [
+            "He repaired the roof of the small house.",
+            "He dug the earth in the garden.",
+            "He gathered firewood from the dense woods."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What revelation did the wounded stranger share with the king the next morning?",
+          "options": [
+            "He was a lost traveler from a distant foreign land.",
+            "He was a sworn enemy who had originally intended to kill the king.",
+            "He was a secret messenger sent by the royal court guards."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

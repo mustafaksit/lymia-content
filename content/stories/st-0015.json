@@ -872,7 +872,7 @@
             },
             {
               "text": "Life on the land was hard.",
-              "audioStart": 50,
+              "audioStart": 50.0,
               "audioEnd": 51.45
             },
             {
@@ -907,7 +907,7 @@
             {
               "text": "One day, Uncle Henry looked at the sky.",
               "audioStart": 64.625,
-              "audioEnd": 67
+              "audioEnd": 67.0
             },
             {
               "text": "He saw a big storm coming.",
@@ -937,7 +937,7 @@
             {
               "text": "She knew the storm was dangerous.",
               "audioStart": 79.3,
-              "audioEnd": 81
+              "audioEnd": 81.0
             },
             {
               "text": "She told Dorothy to go to the storm cellar.",
@@ -980,7 +980,7 @@
             },
             {
               "text": "The wind carried it far away.",
-              "audioStart": 100,
+              "audioStart": 100.0,
               "audioEnd": 101.575
             },
             {
@@ -1215,9 +1215,9 @@
               "audioEnd": 210.488
             },
             {
-              "text": "\"If you stay with us,\" they told her, \"we will be very happy.\"",
+              "text": "\"If you stayed with us,\" they told her, \"we would be very happy.\"",
               "audioStart": 211.35,
-              "audioEnd": 214.613
+              "audioEnd": 214.588
             }
           ]
         },
@@ -1225,48 +1225,48 @@
           "sentences": [
             {
               "text": "Dorothy was happy to stay for a short time.",
-              "audioStart": 215.475,
-              "audioEnd": 217.625
+              "audioStart": 215.45,
+              "audioEnd": 217.6
             },
             {
               "text": "But she also wanted to go home.",
-              "audioStart": 218.488,
-              "audioEnd": 220.188
+              "audioStart": 218.463,
+              "audioEnd": 220.162
             },
             {
               "text": "She has missed her Uncle Henry very much.",
-              "audioStart": 221.05,
-              "audioEnd": 223.225
+              "audioStart": 221.025,
+              "audioEnd": 223.2
             },
             {
               "text": "She has missed Aunt Em a lot.",
-              "audioStart": 224.088,
-              "audioEnd": 225.662
+              "audioStart": 224.062,
+              "audioEnd": 225.637
             },
             {
               "text": "She wanted to see them again soon.",
-              "audioStart": 226.525,
-              "audioEnd": 228.25
+              "audioStart": 226.5,
+              "audioEnd": 228.225
             },
             {
               "text": "She felt a little sad.",
-              "audioStart": 229.113,
-              "audioEnd": 230.425
+              "audioStart": 229.088,
+              "audioEnd": 230.4
             },
             {
               "text": "She asked the people of the land for help.",
-              "audioStart": 231.287,
-              "audioEnd": 233.262
+              "audioStart": 231.262,
+              "audioEnd": 233.238
             },
             {
               "text": "She wanted to find a way home to Kansas.",
-              "audioStart": 234.125,
-              "audioEnd": 236.238
+              "audioStart": 234.1,
+              "audioEnd": 236.213
             },
             {
               "text": "She did not know the way.",
-              "audioStart": 237.1,
-              "audioEnd": 238.312
+              "audioStart": 237.075,
+              "audioEnd": 238.287
             }
           ]
         }
@@ -1939,8 +1939,8 @@
             },
             {
               "text": "The family would hasten to this underground sanctuary at the first sign of a tornado's approach, seeking shelter from the tempest's fury.",
-              "audioStart": 25.0,
-              "audioEnd": 32.0
+              "audioStart": 25,
+              "audioEnd": 32
             },
             {
               "text": "Uncle Henry, a diligent farmer, toiled from dawn till dusk, his face a mask of seriousness, his eyes narrowed against the glare of the sun.",
@@ -1958,7 +1958,7 @@
             },
             {
               "text": "The wind and sun had drained the color from her cheeks, leaving her a solemn, quiet figure, a shadow of her former self.",
-              "audioStart": 52.0,
+              "audioStart": 52,
               "audioEnd": 58.625
             },
             {
@@ -2035,7 +2035,7 @@
             },
             {
               "text": "As the house rose into the air, lifted by the tornado's fury, Dorothy felt her stomach drop, her senses reeling from the rollercoaster motion, her world turned upside down.",
-              "audioStart": 169.0,
+              "audioStart": 169,
               "audioEnd": 178.537
             },
             {

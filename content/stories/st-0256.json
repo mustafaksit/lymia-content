@@ -1,0 +1,1143 @@
+{
+  "id": "st-0256",
+  "title": "The Wise Little Girl",
+  "genre": "classic",
+  "summary": "A kind father and his clever child must answer three riddles for a powerful leader.",
+  "coverScene": "A wise little girl stands before a king in a grand hall, holding a small fish.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Two men live in a place.",
+              "audioStart": 0.106,
+              "audioEnd": 1.661
+            },
+            {
+              "text": "One man has a lot of money.",
+              "audioStart": 2.625,
+              "audioEnd": 4.389
+            },
+            {
+              "text": "He is a bad person.",
+              "audioStart": 5.347,
+              "audioEnd": 6.694
+            },
+            {
+              "text": "The other man has no money.",
+              "audioStart": 7.653,
+              "audioEnd": 9.278
+            },
+            {
+              "text": "He is a good person.",
+              "audioStart": 10.236,
+              "audioEnd": 11.542
+            },
+            {
+              "text": "He gives a car to the head person.",
+              "audioStart": 12.5,
+              "audioEnd": 14.472
+            },
+            {
+              "text": "The head person likes the car.",
+              "audioStart": 15.431,
+              "audioEnd": 17.264
+            },
+            {
+              "text": "He gives money to the good man.",
+              "audioStart": 18.222,
+              "audioEnd": 19.931
+            },
+            {
+              "text": "The bad man is very bad.",
+              "audioStart": 20.889,
+              "audioEnd": 22.625
+            },
+            {
+              "text": "He says the car is his.",
+              "audioStart": 23.583,
+              "audioEnd": 25.181
+            },
+            {
+              "text": "The head person gives three hard questions.",
+              "audioStart": 26.139,
+              "audioEnd": 28.722
+            },
+            {
+              "text": "They must answer by the next day.",
+              "audioStart": 29.681,
+              "audioEnd": 31.556
+            },
+            {
+              "text": "The good man is very bad now.",
+              "audioStart": 32.514,
+              "audioEnd": 34.361
+            },
+            {
+              "text": "His little child is very good.",
+              "audioStart": 35.319,
+              "audioEnd": 37.194
+            },
+            {
+              "text": "She knows the answers to the questions.",
+              "audioStart": 38.153,
+              "audioEnd": 40.375
+            },
+            {
+              "text": "She tells her father not to care.",
+              "audioStart": 41.333,
+              "audioEnd": 43.389
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Next morning, the men see the head person.",
+              "audioStart": 44.347,
+              "audioEnd": 47.083
+            },
+            {
+              "text": "The good man gives the good answers.",
+              "audioStart": 48.042,
+              "audioEnd": 50.056
+            },
+            {
+              "text": "He says his little child helps him.",
+              "audioStart": 51.014,
+              "audioEnd": 53.125
+            },
+            {
+              "text": "The head person wants to see the child.",
+              "audioStart": 54.083,
+              "audioEnd": 56.222
+            },
+            {
+              "text": "She comes to the big house.",
+              "audioStart": 57.181,
+              "audioEnd": 58.861
+            },
+            {
+              "text": "The head person gives her one test.",
+              "audioStart": 59.819,
+              "audioEnd": 62.069
+            },
+            {
+              "text": "She must come with no car.",
+              "audioStart": 63.028,
+              "audioEnd": 64.681
+            },
+            {
+              "text": "She must come with a car.",
+              "audioStart": 65.639,
+              "audioEnd": 67.153
+            },
+            {
+              "text": "She must come with no step.",
+              "audioStart": 68.111,
+              "audioEnd": 69.792
+            },
+            {
+              "text": "She must come with a step.",
+              "audioStart": 70.75,
+              "audioEnd": 72.306
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She has an old room item.",
+              "audioStart": 73.264,
+              "audioEnd": 74.778
+            },
+            {
+              "text": "A car brings her on the way.",
+              "audioStart": 75.736,
+              "audioEnd": 77.347
+            },
+            {
+              "text": "The head person is very good with her.",
+              "audioStart": 78.306,
+              "audioEnd": 80.417
+            },
+            {
+              "text": "He let her father keep the money.",
+              "audioStart": 81.375,
+              "audioEnd": 83.333
+            },
+            {
+              "text": "The little child is very able.",
+              "audioStart": 84.292,
+              "audioEnd": 86.125
+            },
+            {
+              "text": "Her father is very fine now.",
+              "audioStart": 87.083,
+              "audioEnd": 88.861
+            },
+            {
+              "text": "They live in the big house.",
+              "audioStart": 89.819,
+              "audioEnd": 91.375
+            },
+            {
+              "text": "The bad man go away from the place.",
+              "audioStart": 92.333,
+              "audioEnd": 94.542
+            },
+            {
+              "text": "Every person is very good today.",
+              "audioStart": 95.5,
+              "audioEnd": 97.528
+            },
+            {
+              "text": "The story ends here with much love.",
+              "audioStart": 98.486,
+              "audioEnd": 100.472
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0256.mp3",
+      "wordTimings": "audio/a1/st-0256.timings.json",
+      "quiz": [
+        {
+          "q": "What does the poor brother give to the king?",
+          "options": [
+            "A horse",
+            "Gold coins",
+            "A fishing net"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who helps the poor brother solve the king's questions?",
+          "options": [
+            "The rich brother",
+            "His little girl",
+            "The king"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does the little girl wear during her final test?",
+          "options": [
+            "A fine dress",
+            "Nothing at all",
+            "An old fishing net"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, two brothers lived in a small village.",
+              "audioStart": 0.106,
+              "audioEnd": 3.217
+            },
+            {
+              "text": "One brother had much money, but he always wanted more.",
+              "audioStart": 4.181,
+              "audioEnd": 7.569
+            },
+            {
+              "text": "The other brother had little, yet he was kind.",
+              "audioStart": 8.528,
+              "audioEnd": 11.306
+            },
+            {
+              "text": "Once, the poor brother gave an animal to the leader.",
+              "audioStart": 12.264,
+              "audioEnd": 15.347
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The leader liked the present very much.",
+              "audioStart": 16.306,
+              "audioEnd": 18.514
+            },
+            {
+              "text": "He asked the poor man about his land.",
+              "audioStart": 19.472,
+              "audioEnd": 21.667
+            },
+            {
+              "text": "The poor man explained that he had very little.",
+              "audioStart": 22.625,
+              "audioEnd": 25.181
+            },
+            {
+              "text": "Then the leader gave him a large amount of money.",
+              "audioStart": 26.139,
+              "audioEnd": 28.569
+            },
+            {
+              "text": "The brother with money heard about this.",
+              "audioStart": 29.528,
+              "audioEnd": 31.611
+            },
+            {
+              "text": "He became very unhappy and went to see the leader.",
+              "audioStart": 32.569,
+              "audioEnd": 35.486
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He said the animal was really his property.",
+              "audioStart": 36.444,
+              "audioEnd": 38.847
+            },
+            {
+              "text": "The leader gave them a hard test.",
+              "audioStart": 39.806,
+              "audioEnd": 41.75
+            },
+            {
+              "text": "He asked three difficult questions for the next day.",
+              "audioStart": 42.708,
+              "audioEnd": 45.708
+            },
+            {
+              "text": "They would face trouble if they failed the test.",
+              "audioStart": 46.667,
+              "audioEnd": 49.153
+            },
+            {
+              "text": "The poor brother went home with a heavy heart.",
+              "audioStart": 50.111,
+              "audioEnd": 52.639
+            },
+            {
+              "text": "He had a young little girl.",
+              "audioStart": 53.597,
+              "audioEnd": 55.069
+            },
+            {
+              "text": "She always gave him good help.",
+              "audioStart": 56.028,
+              "audioEnd": 57.736
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She listened to the questions and told him not to worry.",
+              "audioStart": 58.694,
+              "audioEnd": 61.736
+            },
+            {
+              "text": "She knew how to answer each problem.",
+              "audioStart": 62.694,
+              "audioEnd": 64.583
+            },
+            {
+              "text": "The next morning, both brothers stood before the leader.",
+              "audioStart": 65.542,
+              "audioEnd": 68.75
+            },
+            {
+              "text": "The wealthy man spoke badly.",
+              "audioStart": 69.708,
+              "audioEnd": 71.583
+            },
+            {
+              "text": "The poor brother gave the clever answers.",
+              "audioStart": 72.542,
+              "audioEnd": 74.903
+            },
+            {
+              "text": "The leader was surprised by these good answers.",
+              "audioStart": 75.861,
+              "audioEnd": 78.472
+            },
+            {
+              "text": "The good man told the true fact that his little girl helped him.",
+              "audioStart": 79.431,
+              "audioEnd": 82.903
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The leader wanted to see this good child.",
+              "audioStart": 83.861,
+              "audioEnd": 86
+            },
+            {
+              "text": "She came to the large house.",
+              "audioStart": 86.958,
+              "audioEnd": 88.639
+            },
+            {
+              "text": "The leader gave her one final test.",
+              "audioStart": 89.597,
+              "audioEnd": 91.903
+            },
+            {
+              "text": "She must come not wearing clothes and also not without clothes.",
+              "audioStart": 92.861,
+              "audioEnd": 96.458
+            },
+            {
+              "text": "She must come not walking and also not traveling.",
+              "audioStart": 97.417,
+              "audioEnd": 100.25
+            },
+            {
+              "text": "The clever girl understood the game.",
+              "audioStart": 101.208,
+              "audioEnd": 103.292
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She covered herself in an old fishing cover.",
+              "audioStart": 104.25,
+              "audioEnd": 106.736
+            },
+            {
+              "text": "This meant she was not wearing clothes and not without clothes.",
+              "audioStart": 107.694,
+              "audioEnd": 111.139
+            },
+            {
+              "text": "The clever child put an animal close to her feet.",
+              "audioStart": 112.097,
+              "audioEnd": 115.056
+            },
+            {
+              "text": "The animal pulled her along the road.",
+              "audioStart": 116.014,
+              "audioEnd": 118
+            },
+            {
+              "text": "She was not walking and not traveling.",
+              "audioStart": 118.958,
+              "audioEnd": 121.194
+            },
+            {
+              "text": "The leader was surprised and let her father keep the money.",
+              "audioStart": 122.153,
+              "audioEnd": 125.375
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0256.mp3",
+      "wordTimings": "audio/a2/st-0256.timings.json",
+      "quiz": [
+        {
+          "q": "What did the poor brother give to the king?",
+          "options": [
+            "A horse",
+            "A bag of money",
+            "An old fishing net"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who helped the poor brother answer the king's questions?",
+          "options": [
+            "The rich brother",
+            "His little girl",
+            "The king"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the clever girl wear for her final test?",
+          "options": [
+            "New clothes",
+            "Nothing at all",
+            "An old fishing net"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, two brothers lived in a small village as poor farmers.",
+              "audioStart": 0.1,
+              "audioEnd": 3.788
+            },
+            {
+              "text": "One brother had much land and money, but he always wanted more.",
+              "audioStart": 4.65,
+              "audioEnd": 8.1
+            },
+            {
+              "text": "The other brother had almost nothing, yet he was kind and good.",
+              "audioStart": 8.963,
+              "audioEnd": 12.238
+            },
+            {
+              "text": "Once, the poor brother gave a lovely horse to the rich king.",
+              "audioStart": 13.1,
+              "audioEnd": 16.462
+            },
+            {
+              "text": "The king was very pleased and asked about his land.",
+              "audioStart": 17.325,
+              "audioEnd": 19.95
+            },
+            {
+              "text": "The poor man explained that he was a simple farmer.",
+              "audioStart": 20.812,
+              "audioEnd": 23.425
+            },
+            {
+              "text": "The king decided to give him a bag of gold money.",
+              "audioStart": 24.288,
+              "audioEnd": 26.738
+            },
+            {
+              "text": "The rich brother became extremely angry when he learned about this.",
+              "audioStart": 27.6,
+              "audioEnd": 31.012
+            },
+            {
+              "text": "The brother who wanted more went to the king and claimed the horse.",
+              "audioStart": 31.875,
+              "audioEnd": 34.987
+            },
+            {
+              "text": "The king gave them three hard questions to find the truth.",
+              "audioStart": 35.85,
+              "audioEnd": 38.8
+            },
+            {
+              "text": "They must solve these before the next day.",
+              "audioStart": 39.663,
+              "audioEnd": 41.775
+            },
+            {
+              "text": "If they failed, serious trouble would come to them.",
+              "audioStart": 42.638,
+              "audioEnd": 45.138
+            },
+            {
+              "text": "The poor brother went home with a heavy heart.",
+              "audioStart": 46,
+              "audioEnd": 48.275
+            },
+            {
+              "text": "He had a small girl who always gave good advice.",
+              "audioStart": 49.138,
+              "audioEnd": 51.725
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She listened carefully and told her father not to worry.",
+              "audioStart": 52.587,
+              "audioEnd": 55.475
+            },
+            {
+              "text": "The child knew how each problem could be solved.",
+              "audioStart": 56.337,
+              "audioEnd": 58.712
+            },
+            {
+              "text": "The next morning, both brothers stood before the king.",
+              "audioStart": 59.575,
+              "audioEnd": 62.438
+            },
+            {
+              "text": "The poor brother provided the answers from his daughter.",
+              "audioStart": 63.3,
+              "audioEnd": 65.925
+            },
+            {
+              "text": "The king was surprised by the words.",
+              "audioStart": 66.787,
+              "audioEnd": 68.713
+            },
+            {
+              "text": "The good man admitted that his little girl helped him.",
+              "audioStart": 69.575,
+              "audioEnd": 72.075
+            },
+            {
+              "text": "The king wanted to see this child at the big house.",
+              "audioStart": 72.938,
+              "audioEnd": 75.463
+            },
+            {
+              "text": "When she arrived, the king gave her one final challenge.",
+              "audioStart": 76.325,
+              "audioEnd": 79.45
+            },
+            {
+              "text": "She must come neither dressed nor without clothes.",
+              "audioStart": 80.312,
+              "audioEnd": 82.787
+            },
+            {
+              "text": "She must come neither walking nor riding.",
+              "audioStart": 83.65,
+              "audioEnd": 85.662
+            },
+            {
+              "text": "The girl prepared a very special plan.",
+              "audioStart": 86.525,
+              "audioEnd": 88.575
+            },
+            {
+              "text": "She covered herself in an old fishing net.",
+              "audioStart": 89.438,
+              "audioEnd": 91.6
+            },
+            {
+              "text": "Then she tied an animal to her feet to pull her.",
+              "audioStart": 92.463,
+              "audioEnd": 94.85
+            },
+            {
+              "text": "She reached the government doors in this strange way.",
+              "audioStart": 95.713,
+              "audioEnd": 98.1
+            },
+            {
+              "text": "The king was amazed and let her father keep the gold.",
+              "audioStart": 98.963,
+              "audioEnd": 101.675
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many years have passed since that day in the village.",
+              "audioStart": 102.537,
+              "audioEnd": 105.213
+            },
+            {
+              "text": "The poor family has lived well because of the gold.",
+              "audioStart": 106.075,
+              "audioEnd": 108.625
+            },
+            {
+              "text": "If anyone asks about the clever girl, the people tell the story.",
+              "audioStart": 109.487,
+              "audioEnd": 112.862
+            },
+            {
+              "text": "They remember how she solved the hard questions for her father.",
+              "audioStart": 113.725,
+              "audioEnd": 116.737
+            },
+            {
+              "text": "The king has never forgotten the strange visit.",
+              "audioStart": 117.6,
+              "audioEnd": 119.975
+            },
+            {
+              "text": "He always speaks well of the smart child.",
+              "audioStart": 120.838,
+              "audioEnd": 122.9
+            },
+            {
+              "text": "The rich brother has learned to be less greedy.",
+              "audioStart": 123.763,
+              "audioEnd": 126.025
+            },
+            {
+              "text": "He has understood that money cannot buy true cleverness.",
+              "audioStart": 126.888,
+              "audioEnd": 129.675
+            },
+            {
+              "text": "Life in the village has changed for the better.",
+              "audioStart": 130.537,
+              "audioEnd": 132.675
+            },
+            {
+              "text": "The farmers work hard and help each other every day.",
+              "audioStart": 133.537,
+              "audioEnd": 136.113
+            },
+            {
+              "text": "Every person in the country knows this famous tale now.",
+              "audioStart": 136.975,
+              "audioEnd": 139.713
+            },
+            {
+              "text": "The little girl has grown into a wise young woman.",
+              "audioStart": 140.575,
+              "audioEnd": 143.062
+            },
+            {
+              "text": "She still gives great advice to everyone around her.",
+              "audioStart": 143.925,
+              "audioEnd": 146.537
+            },
+            {
+              "text": "Her father looks at her with pride and deep love.",
+              "audioStart": 147.4,
+              "audioEnd": 149.85
+            },
+            {
+              "text": "They have found peace and happiness in their small home.",
+              "audioStart": 150.713,
+              "audioEnd": 153.25
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0256.mp3",
+      "wordTimings": "audio/b1/st-0256.timings.json",
+      "quiz": [
+        {
+          "q": "What gift did the poor brother give to the king?",
+          "options": [
+            "A lovely horse",
+            "A bag of gold",
+            "An old fishing net"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who helped the poor brother answer the king's questions?",
+          "options": [
+            "The rich brother",
+            "His little girl",
+            "The king"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the little girl travel to the castle?",
+          "options": [
+            "She rode a horse.",
+            "She walked normally.",
+            "She let an animal pull her."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, there lived two brothers who were poor farmers in a small village.",
+              "audioStart": 0.1,
+              "audioEnd": 4.175
+            },
+            {
+              "text": "One brother had much wealth, but he was very mean and shared nothing with anyone.",
+              "audioStart": 5.037,
+              "audioEnd": 9.325
+            },
+            {
+              "text": "The other brother had almost nothing, yet he was kind and always ready to help people.",
+              "audioStart": 10.188,
+              "audioEnd": 14.637
+            },
+            {
+              "text": "Once, the poor brother gave a lovely horse to the rich king as a gift.",
+              "audioStart": 15.5,
+              "audioEnd": 19.45
+            },
+            {
+              "text": "He wanted to show his respect because he was an honest man who valued peace.",
+              "audioStart": 20.312,
+              "audioEnd": 24.337
+            },
+            {
+              "text": "The king was very pleased with the gift and asked the poor man how much land he owned.",
+              "audioStart": 25.2,
+              "audioEnd": 29.337
+            },
+            {
+              "text": "The poor man explained that he was a simple farmer with very little property.",
+              "audioStart": 30.2,
+              "audioEnd": 34.025
+            },
+            {
+              "text": "Hearing this, the king decided to give him a bag of gold coins.",
+              "audioStart": 34.888,
+              "audioEnd": 38.413
+            },
+            {
+              "text": "When the rich brother learned about the gold, he became extremely angry and sad.",
+              "audioStart": 39.275,
+              "audioEnd": 43.4
+            },
+            {
+              "text": "He felt that the king should have given the money to him instead.",
+              "audioStart": 44.263,
+              "audioEnd": 47.05
+            },
+            {
+              "text": "The mean brother went quickly to the king and claimed that the horse was really his.",
+              "audioStart": 47.913,
+              "audioEnd": 51.938
+            },
+            {
+              "text": "The king, who wanted to know the truth, gave them a difficult test.",
+              "audioStart": 52.8,
+              "audioEnd": 56.513
+            },
+            {
+              "text": "He asked them three hard questions which must be solved before the next day.",
+              "audioStart": 57.375,
+              "audioEnd": 61.312
+            },
+            {
+              "text": "If they failed, they would face serious trouble from the royal court.",
+              "audioStart": 62.175,
+              "audioEnd": 65.525
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The poor brother went home with a heavy heart, feeling completely alone and weak.",
+              "audioStart": 66.388,
+              "audioEnd": 70.537
+            },
+            {
+              "text": "He had a smart little girl who always gave him good advice when problems appeared.",
+              "audioStart": 71.4,
+              "audioEnd": 75.312
+            },
+            {
+              "text": "She listened carefully to the king questions and told her father not to worry.",
+              "audioStart": 76.175,
+              "audioEnd": 80.138
+            },
+            {
+              "text": "The little girl knew exactly how each problem could be solved through smart thinking.",
+              "audioStart": 81,
+              "audioEnd": 85.062
+            },
+            {
+              "text": "She believed that they would find a way to pass the test successfully.",
+              "audioStart": 85.925,
+              "audioEnd": 89.3
+            },
+            {
+              "text": "The next morning, both brothers stood before the king to give their answers.",
+              "audioStart": 90.162,
+              "audioEnd": 93.938
+            },
+            {
+              "text": "The rich brother spoke badly, but the poor brother provided the smart answers which his daughter had taught him.",
+              "audioStart": 94.8,
+              "audioEnd": 100.3
+            },
+            {
+              "text": "The king was surprised and realized that the answers were too smart for the poor farmer.",
+              "audioStart": 101.162,
+              "audioEnd": 105.463
+            },
+            {
+              "text": "When the king asked who had helped him, the honest man admitted that his little girl had solved the questions.",
+              "audioStart": 106.325,
+              "audioEnd": 111.713
+            },
+            {
+              "text": "The king wanted to see this smart child and commanded that she be brought to the castle.",
+              "audioStart": 112.575,
+              "audioEnd": 116.662
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the little girl arrived, the king gave her one final challenge to test her mind.",
+              "audioStart": 117.525,
+              "audioEnd": 121.925
+            },
+            {
+              "text": "He told her to come to the castle neither dressed nor not dressed, neither walking nor riding.",
+              "audioStart": 122.787,
+              "audioEnd": 127.838
+            },
+            {
+              "text": "The smart girl understood the king game and prepared a very special plan.",
+              "audioStart": 128.7,
+              "audioEnd": 132.363
+            },
+            {
+              "text": "She wrapped herself in an old fishing net so that she was neither fully dressed nor not dressed.",
+              "audioStart": 133.225,
+              "audioEnd": 137.963
+            },
+            {
+              "text": "Then she tied an animal to her feet and let the creature drag her along the road.",
+              "audioStart": 138.825,
+              "audioEnd": 142.713
+            },
+            {
+              "text": "In this way, she was neither walking nor riding when she finally reached the royal gates.",
+              "audioStart": 143.575,
+              "audioEnd": 148.25
+            },
+            {
+              "text": "The king was so amazed by her intelligence that he praised her greatly and let her father keep the gold.",
+              "audioStart": 149.113,
+              "audioEnd": 154.287
+            },
+            {
+              "text": "The poor brother lived happily for many years with his wonderful family.",
+              "audioStart": 155.15,
+              "audioEnd": 158.85
+            },
+            {
+              "text": "He always remembered how his smart daughter had saved them from big trouble.",
+              "audioStart": 159.713,
+              "audioEnd": 163.275
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "People in the village talked about the smart child who solved the royal questions.",
+              "audioStart": 164.137,
+              "audioEnd": 168.225
+            },
+            {
+              "text": "No one ever forgot the day when the poor farmer received the gold coins.",
+              "audioStart": 169.088,
+              "audioEnd": 172.762
+            },
+            {
+              "text": "Life in the small village continued quietly while the family enjoyed their new wealth.",
+              "audioStart": 173.625,
+              "audioEnd": 177.8
+            },
+            {
+              "text": "The king often thought about the wise little girl and her strange journey to the castle.",
+              "audioStart": 178.662,
+              "audioEnd": 182.787
+            },
+            {
+              "text": "He knew that true intelligence could be found in the most surprising places.",
+              "audioStart": 183.65,
+              "audioEnd": 187.387
+            },
+            {
+              "text": "Both brothers learned important lessons about life, love, and truth.",
+              "audioStart": 188.25,
+              "audioEnd": 192.225
+            },
+            {
+              "text": "The rich brother finally understood that money could not buy everything.",
+              "audioStart": 193.088,
+              "audioEnd": 196.537
+            },
+            {
+              "text": "He tried to change his ways and started to help his neighbors when they needed assistance.",
+              "audioStart": 197.4,
+              "audioEnd": 201.625
+            },
+            {
+              "text": "The poor brother remained kind and always shared what little he had with others.",
+              "audioStart": 202.488,
+              "audioEnd": 206.338
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Their story became a famous tale which was told across the entire country for generations.",
+              "audioStart": 207.2,
+              "audioEnd": 212.012
+            },
+            {
+              "text": "Children listened with wide eyes while their parents repeated the wonderful story.",
+              "audioStart": 212.875,
+              "audioEnd": 216.725
+            },
+            {
+              "text": "Everybody agreed that the little girl was the smartest person in the whole country.",
+              "audioStart": 217.588,
+              "audioEnd": 221.512
+            },
+            {
+              "text": "The king made sure that peace and quiet ruled over the land for all time.",
+              "audioStart": 222.375,
+              "audioEnd": 226
+            },
+            {
+              "text": "And so the happy days went by without any further trouble for the honest farmer and his family.",
+              "audioStart": 226.863,
+              "audioEnd": 231.55
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0256.mp3",
+      "wordTimings": "audio/b2/st-0256.timings.json",
+      "quiz": [
+        {
+          "q": "What did the poor brother give to the king at first?",
+          "options": [
+            "A lovely horse",
+            "A bag of gold",
+            "A small fish"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who helped the poor farmer solve the king's difficult questions?",
+          "options": [
+            "His rich brother",
+            "His smart little girl",
+            "The king himself"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the little girl travel to the castle for her final challenge?",
+          "options": [
+            "She rode on a white horse",
+            "She walked without shoes",
+            "She was dragged by an animal"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In a secluded rural valley where time seemed suspended, two brothers toiled as humble farmers. Though bound by blood, their paths diverged sharply in spirit and fortune. The elder brother accumulated substantial wealth, yet his heart remained tightly shuttered against the needs of others. He hoarded his possessions, believing that charity was merely a foolish waste. Conversely, the younger brother possessed almost nothing of material value. Yet, his generous nature radiated warmth, and he was perpetually inclined to assist anyone in distress.",
+              "audioStart": 0.1,
+              "audioEnd": 33.913
+            },
+            {
+              "text": "Driven by an innate sense of reverence and a desire for peace, the impoverished farmer decided to make a remarkable gesture. He selected his finest possession, a magnificent horse, and led it across the hills as a tribute to the sovereign. Not once did he anticipate a reward; rather, he simply wished to honor the monarch with integrity. Touched by such profound sincerity, the king received the magnificent animal with deep appreciation. He inquired gently about the farmer's livelihood, wanting to understand the circumstances of such a generous giver.",
+              "audioStart": 34.775,
+              "audioEnd": 67.825
+            },
+            {
+              "text": "With quiet dignity, the farmer explained that his property consisted of little more than a patch of earth and a weathered cottage. Moved by the stark contrast between the man's poverty and his generous spirit, the king instructed his treasurer to bestow a heavy purse of gold upon him. It was a fortune that promised to transform the struggling farmer's daily existence. When news of this royal favor reached the ears of the elder brother, bitterness immediately poisoned his mind. He burned with jealousy, convinced that the monarch had committed a grave error by bypassing his own substantial estate.",
+              "audioStart": 68.688,
+              "audioEnd": 102.575
+            },
+            {
+              "text": "Consumed by greed, the wealthy brother hurried to the royal palace to challenge the transaction. He boldly claimed that the magnificent horse had actually belonged to his own stables, accusing the younger sibling of theft and deception. Intrigued by the conflicting claims and determined to uncover the truth, the king devised a severe test. He commanded both men to solve three intricate riddles before the arrival of the following dawn. Failure to produce the correct answers, he warned, would result in harsh punishment from the royal court.",
+              "audioStart": 103.438,
+              "audioEnd": 135.262
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Returning to his modest dwelling, the poor farmer carried a burden heavier than any stone he had ever lifted. He felt entirely unequipped for the intellectual combat demanded by the throne. Fortunately, he shared his roof with a remarkably perceptive daughter whose mind was remarkably sharp. Having observed her father's distress, she listened carefully as he recounted the royal challenge. Noticing his despair, she urged him to cast aside his worries and trust in her guidance.",
+              "audioStart": 136.125,
+              "audioEnd": 164.9
+            },
+            {
+              "text": "The clever girl possessed an intuitive grasp of human nature and logic, seeing straight through the riddles that had paralyzed her father. She assured him that they would outwit the king's tests through careful thought rather than brute force. Reassured by her steady confidence, the father regained a measure of hope as night fell over the valley. When morning arrived, the two brothers stood once again before the imposing gates of the royal palace. While the wealthy brother stumbled through clumsy and arrogant replies, the poor farmer recited the brilliant answers his daughter had carefully prepared.",
+              "audioStart": 165.762,
+              "audioEnd": 198.762
+            },
+            {
+              "text": "Astonishment rippled through the royal court as the king listened to the precise and elegant solutions. It was immediately apparent that such sophisticated reasoning far exceeded the simple farmer's usual capabilities. Pressured by the monarch to reveal the true source of his wisdom, the honest man confessed the truth without hesitation. He explained that his young daughter had unraveled the difficult questions. Intrigued by this revelation, the king demanded that the extraordinary child be brought immediately to the castle for a final demonstration of her intellect.",
+              "audioStart": 199.625,
+              "audioEnd": 232.262
+            },
+            {
+              "text": "Upon her arrival in the grand hall, the king decided to test the limits of her reputation with one final paradox. He commanded her to present herself before him neither dressed nor not dressed, and neither walking nor riding. A lesser mind would have faltered under the weight of such an impossible contradiction. However, the wise girl merely smiled, recognizing the playful nature of the royal challenge. She immediately set to work, determined to satisfy the monarch's exacting conditions with creative precision.",
+              "audioStart": 233.125,
+              "audioEnd": 264.958
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Returning briefly to the courtyard, she found an old, discarded fishing net and wrapped it securely around her frame. In this ingenious attire, she was neither fully clothed nor completely naked, satisfying the first half of the paradox. For the second requirement, she secured a strong hound to her ankles and permitted the creature to drag her slowly along the dirt road. Thus, she arrived at the royal gates neither walking on her own feet nor riding upon a mount. The king watched her approach from his balcony, utterly captivated by her brilliant solution.",
+              "audioStart": 265.82,
+              "audioEnd": 298.971
+            },
+            {
+              "text": "Overwhelmed with admiration, the monarch praised the young girl publicly and confirmed that her father should retain every coin of the gold. The impoverished family returned to their village, where they lived comfortably for many years, shielded from sudden hardship. The father never forgot how his daughter's remarkable mind had rescued them from disaster. Meanwhile, the village buzzed with endless conversations about the clever child who had conquered the royal riddles. The king himself often pondered her ingenuity, realizing that true wisdom frequently resides in the most unexpected corners of society.",
+              "audioStart": 299.833,
+              "audioEnd": 334.683
+            },
+            {
+              "text": "Gradually, the transformative experience softened the harsh edges of the wealthy brother's character. Witnessing the enduring happiness of his sibling, he finally comprehended that wealth alone could never purchase genuine respect or peace. He began to alter his conduct, offering assistance to struggling neighbors instead of turning them away. The kind brother continued his generous habits, sharing his newfound comfort with those in genuine need. Thus, the entire community settled into a quiet harmony, sustained by the lessons learned during that unforgettable test.",
+              "audioStart": 335.546,
+              "audioEnd": 368.695
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Generations later, villagers still gathered around hearths to recount the tale of the wise little girl. Children listened with wide eyes, absorbing the moral that intellect and kindness triumph over greed. The monarch ensured that peace prevailed throughout his domain, protecting his subjects from needless conflict. The memory of the humble farmer and his brilliant daughter endured as a symbol of hope. And so the peaceful days flowed onward, undisturbed by further trials for the grateful family.",
+              "audioStart": 369.558,
+              "audioEnd": 397.858
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0256.mp3",
+      "wordTimings": "audio/c1/st-0256.timings.json",
+      "quiz": [
+        {
+          "q": "Why did the poor farmer initially visit the king?",
+          "options": [
+            "To present a magnificent horse as a respectful gift",
+            "To ask for a bag of gold coins to save his farm",
+            "To complain about his wealthy brother's unfair behavior"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the little girl fulfill the king's final condition of being neither walking nor riding?",
+          "options": [
+            "She rode a donkey while holding her feet above the ground",
+            "She tied an animal to her ankles to drag her along the road",
+            "She used a wooden cart pushed secretly by her father"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What change occurred in the wealthy brother by the end of the story?",
+          "options": [
+            "He moved away to a distant village to avoid his family",
+            "He stole more gold from the king to prove his superiority",
+            "He started helping his neighbors and changed his selfish ways"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  }
+}

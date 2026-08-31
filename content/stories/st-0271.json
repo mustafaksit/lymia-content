@@ -1,0 +1,1508 @@
+{
+  "id": "st-0271",
+  "title": "The Lion and the Statue",
+  "genre": "classic",
+  "summary": "A man and a lion stroll together, debating human strength while passing a towering statue.",
+  "coverScene": "A large stone lion stands proudly next to a carved marble statue of a man.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A man and a big cat walk together.",
+              "audioStart": 0.106,
+              "audioEnd": 2.369
+            },
+            {
+              "text": "They walk on a long place.",
+              "audioStart": 3.333,
+              "audioEnd": 5.056
+            },
+            {
+              "text": "Both people have great power.",
+              "audioStart": 6.014,
+              "audioEnd": 7.833
+            },
+            {
+              "text": "They talk about this power.",
+              "audioStart": 8.792,
+              "audioEnd": 10.389
+            },
+            {
+              "text": "The man says humans are strong.",
+              "audioStart": 11.347,
+              "audioEnd": 13.25
+            },
+            {
+              "text": "He says humans are very strong.",
+              "audioStart": 14.208,
+              "audioEnd": 16.153
+            },
+            {
+              "text": "The big cat makes a sound.",
+              "audioStart": 17.111,
+              "audioEnd": 18.833
+            },
+            {
+              "text": "The big cat looks at the man.",
+              "audioStart": 19.792,
+              "audioEnd": 21.556
+            },
+            {
+              "text": "The big cat has big mouth parts.",
+              "audioStart": 22.514,
+              "audioEnd": 24.722
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They go through open land.",
+              "audioStart": 25.681,
+              "audioEnd": 27.083
+            },
+            {
+              "text": "They come to a public area.",
+              "audioStart": 28.042,
+              "audioEnd": 29.681
+            },
+            {
+              "text": "There is a big part from a hard mount.",
+              "audioStart": 30.639,
+              "audioEnd": 32.694
+            },
+            {
+              "text": "The part shows a strong man.",
+              "audioStart": 33.653,
+              "audioEnd": 35.333
+            },
+            {
+              "text": "The man wins against a big cat.",
+              "audioStart": 36.292,
+              "audioEnd": 38.389
+            },
+            {
+              "text": "The man points at the part.",
+              "audioStart": 39.347,
+              "audioEnd": 41
+            },
+            {
+              "text": "He looks at the big cat.",
+              "audioStart": 41.958,
+              "audioEnd": 43.542
+            },
+            {
+              "text": "He says humans are more good.",
+              "audioStart": 44.5,
+              "audioEnd": 46.208
+            },
+            {
+              "text": "The big cat looks at the part.",
+              "audioStart": 47.167,
+              "audioEnd": 49.014
+            },
+            {
+              "text": "He feels no bad feeling.",
+              "audioStart": 49.972,
+              "audioEnd": 51.611
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He knows human hands make things.",
+              "audioStart": 52.569,
+              "audioEnd": 54.694
+            },
+            {
+              "text": "Big cats do not make things.",
+              "audioStart": 55.653,
+              "audioEnd": 57.625
+            },
+            {
+              "text": "If big cats make things, things change.",
+              "audioStart": 58.583,
+              "audioEnd": 61.319
+            },
+            {
+              "text": "A big cat wins against a small man.",
+              "audioStart": 62.278,
+              "audioEnd": 64.583
+            },
+            {
+              "text": "The man hears this good answer.",
+              "audioStart": 65.542,
+              "audioEnd": 67.319
+            },
+            {
+              "text": "He has no good thing back.",
+              "audioStart": 68.278,
+              "audioEnd": 69.833
+            },
+            {
+              "text": "The big cat explains the hand work.",
+              "audioStart": 70.792,
+              "audioEnd": 73.014
+            },
+            {
+              "text": "Every person tells the history wins.",
+              "audioStart": 73.972,
+              "audioEnd": 76.222
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One side is always the win.",
+              "audioStart": 77.181,
+              "audioEnd": 79.056
+            },
+            {
+              "text": "People must know the whole thing.",
+              "audioStart": 80.014,
+              "audioEnd": 81.764
+            },
+            {
+              "text": "They talk more about the power.",
+              "audioStart": 82.722,
+              "audioEnd": 84.5
+            },
+            {
+              "text": "The day is long and hot.",
+              "audioStart": 85.458,
+              "audioEnd": 86.986
+            },
+            {
+              "text": "They still walk on the road.",
+              "audioStart": 87.944,
+              "audioEnd": 89.472
+            },
+            {
+              "text": "The man looks at the cat again.",
+              "audioStart": 90.431,
+              "audioEnd": 92.181
+            },
+            {
+              "text": "The cat looks back at the man.",
+              "audioStart": 93.139,
+              "audioEnd": 94.931
+            },
+            {
+              "text": "They understand each other well now.",
+              "audioStart": 95.889,
+              "audioEnd": 97.708
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0271.mp3",
+      "wordTimings": "audio/a1/st-0271.timings.json",
+      "quiz": [
+        {
+          "q": "Who walks together on the road?",
+          "options": [
+            "A man and a lion",
+            "Two men and a lion",
+            "A woman and a lion"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What do they see in the public area?",
+          "options": [
+            "A small wooden house",
+            "A big stone statue",
+            "A long water river"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does the stone statue show?",
+          "options": [
+            "A lion defeating a man",
+            "A man defeating a lion",
+            "Two lions playing together"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once, a man and a big animal walked along a road.",
+              "audioStart": 0.106,
+              "audioEnd": 3.286
+            },
+            {
+              "text": "Both people had great power.",
+              "audioStart": 4.25,
+              "audioEnd": 6.069
+            },
+            {
+              "text": "They talked about power.",
+              "audioStart": 7.028,
+              "audioEnd": 8.472
+            },
+            {
+              "text": "The man claimed humans were stronger than any animal.",
+              "audioStart": 9.431,
+              "audioEnd": 12.431
+            },
+            {
+              "text": "The big animal laughed.",
+              "audioStart": 13.389,
+              "audioEnd": 14.806
+            },
+            {
+              "text": "The big animal knew his voice was better.",
+              "audioStart": 15.764,
+              "audioEnd": 18.028
+            },
+            {
+              "text": "They went on a long trip through open land.",
+              "audioStart": 18.986,
+              "audioEnd": 21.236
+            },
+            {
+              "text": "They came to a public area.",
+              "audioStart": 22.194,
+              "audioEnd": 23.819
+            },
+            {
+              "text": "A large piece of art stood in the center.",
+              "audioStart": 24.778,
+              "audioEnd": 27.139
+            },
+            {
+              "text": "The art showed a man holding a big animal down.",
+              "audioStart": 28.097,
+              "audioEnd": 30.806
+            },
+            {
+              "text": "The man pointed at the art.",
+              "audioStart": 31.764,
+              "audioEnd": 33.389
+            },
+            {
+              "text": "He smiled.",
+              "audioStart": 34.347,
+              "audioEnd": 35.222
+            },
+            {
+              "text": "He told the big animal humans had more power.",
+              "audioStart": 36.181,
+              "audioEnd": 38.903
+            },
+            {
+              "text": "The big animal looked at the pieces of art.",
+              "audioStart": 39.861,
+              "audioEnd": 42.167
+            },
+            {
+              "text": "He felt no fear.",
+              "audioStart": 43.125,
+              "audioEnd": 44.444
+            },
+            {
+              "text": "He knew human hands made the art.",
+              "audioStart": 45.403,
+              "audioEnd": 47.375
+            },
+            {
+              "text": "That explained the result.",
+              "audioStart": 48.333,
+              "audioEnd": 49.875
+            },
+            {
+              "text": "If big animals could build art pieces, things would change.",
+              "audioStart": 50.833,
+              "audioEnd": 54.389
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Then the art work would show something else.",
+              "audioStart": 55.347,
+              "audioEnd": 57.542
+            },
+            {
+              "text": "It would show a big animal holding a man down.",
+              "audioStart": 58.5,
+              "audioEnd": 60.944
+            },
+            {
+              "text": "The man listened to the good response.",
+              "audioStart": 61.903,
+              "audioEnd": 63.986
+            },
+            {
+              "text": "He could not argue.",
+              "audioStart": 64.944,
+              "audioEnd": 66.181
+            },
+            {
+              "text": "The big animal explained art depends on who holds the item.",
+              "audioStart": 67.139,
+              "audioEnd": 70.472
+            },
+            {
+              "text": "Any person who tells the story wins.",
+              "audioStart": 71.431,
+              "audioEnd": 73.764
+            },
+            {
+              "text": "People must remember one view never shows the whole fact.",
+              "audioStart": 74.722,
+              "audioEnd": 77.986
+            },
+            {
+              "text": "Once, a man and a big animal walked along a road.",
+              "audioStart": 78.944,
+              "audioEnd": 82.125
+            },
+            {
+              "text": "Both people had great power.",
+              "audioStart": 83.083,
+              "audioEnd": 84.903
+            },
+            {
+              "text": "They talked about power.",
+              "audioStart": 85.861,
+              "audioEnd": 87.306
+            },
+            {
+              "text": "The man claimed humans were stronger than any animal.",
+              "audioStart": 88.264,
+              "audioEnd": 91.264
+            },
+            {
+              "text": "The big animal laughed.",
+              "audioStart": 92.222,
+              "audioEnd": 93.639
+            },
+            {
+              "text": "The big animal knew his voice was better.",
+              "audioStart": 94.597,
+              "audioEnd": 96.861
+            },
+            {
+              "text": "They went on a long trip through open land.",
+              "audioStart": 97.819,
+              "audioEnd": 100.069
+            },
+            {
+              "text": "They came to a public area.",
+              "audioStart": 101.028,
+              "audioEnd": 102.653
+            },
+            {
+              "text": "A large piece of art stood in the center.",
+              "audioStart": 103.611,
+              "audioEnd": 105.972
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The art showed a man holding a big animal down.",
+              "audioStart": 106.931,
+              "audioEnd": 109.639
+            },
+            {
+              "text": "The man pointed at the art.",
+              "audioStart": 110.597,
+              "audioEnd": 112.222
+            },
+            {
+              "text": "He smiled.",
+              "audioStart": 113.181,
+              "audioEnd": 114.056
+            },
+            {
+              "text": "He told the big animal humans had more power.",
+              "audioStart": 115.014,
+              "audioEnd": 117.736
+            },
+            {
+              "text": "The big animal looked at the pieces of art.",
+              "audioStart": 118.694,
+              "audioEnd": 121
+            },
+            {
+              "text": "He felt no fear.",
+              "audioStart": 121.958,
+              "audioEnd": 123.278
+            },
+            {
+              "text": "He knew human hands made the art.",
+              "audioStart": 124.236,
+              "audioEnd": 126.208
+            },
+            {
+              "text": "That explained the result.",
+              "audioStart": 127.167,
+              "audioEnd": 128.708
+            },
+            {
+              "text": "If big animals could build art pieces, things would change.",
+              "audioStart": 129.667,
+              "audioEnd": 133.222
+            },
+            {
+              "text": "Then the art work would show something else.",
+              "audioStart": 134.181,
+              "audioEnd": 136.375
+            },
+            {
+              "text": "It would show a big animal holding a man down.",
+              "audioStart": 137.333,
+              "audioEnd": 139.778
+            },
+            {
+              "text": "The man listened to the good response.",
+              "audioStart": 140.736,
+              "audioEnd": 142.819
+            },
+            {
+              "text": "He could not argue.",
+              "audioStart": 143.778,
+              "audioEnd": 145.014
+            },
+            {
+              "text": "The big animal explained art depends on who holds the item.",
+              "audioStart": 145.972,
+              "audioEnd": 149.306
+            },
+            {
+              "text": "Any person who tells the story wins.",
+              "audioStart": 150.264,
+              "audioEnd": 152.597
+            },
+            {
+              "text": "People must remember one view never shows the whole fact.",
+              "audioStart": 153.556,
+              "audioEnd": 156.819
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0271.mp3",
+      "wordTimings": "audio/a2/st-0271.timings.json",
+      "quiz": [
+        {
+          "q": "Who walked along the road together?",
+          "options": [
+            "A man and a lion",
+            "Two men and a dog",
+            "A lion and a bear"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did they see in the public area?",
+          "options": [
+            "A big stone statue",
+            "A small wooden house",
+            "A deep water well"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who did the lion say made the statue?",
+          "options": [
+            "Human hands",
+            "Wild animals",
+            "The wind"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a man and a strong animal walked together along a quiet road.",
+              "audioStart": 0.1,
+              "audioEnd": 4.713
+            },
+            {
+              "text": "Both people were proud of their power.",
+              "audioStart": 5.575,
+              "audioEnd": 7.425
+            },
+            {
+              "text": "They talked about which person or thing had more power.",
+              "audioStart": 8.287,
+              "audioEnd": 11.125
+            },
+            {
+              "text": "The man claimed that human beings were much stronger than any wild animal.",
+              "audioStart": 11.988,
+              "audioEnd": 15.725
+            },
+            {
+              "text": "However, the animal laughed at this idea.",
+              "audioStart": 16.587,
+              "audioEnd": 18.988
+            },
+            {
+              "text": "He knew his sharp mouth parts were far better.",
+              "audioStart": 19.85,
+              "audioEnd": 22.087
+            },
+            {
+              "text": "If they had a fight today, the strong animal would win.",
+              "audioStart": 22.95,
+              "audioEnd": 25.663
+            },
+            {
+              "text": "They continued their long journey through the open land.",
+              "audioStart": 26.525,
+              "audioEnd": 29.087
+            },
+            {
+              "text": "They came across a public area.",
+              "audioStart": 29.95,
+              "audioEnd": 31.625
+            },
+            {
+              "text": "In the center, there stood a large stone object.",
+              "audioStart": 32.487,
+              "audioEnd": 35.087
+            },
+            {
+              "text": "It showed a man beating a powerful animal.",
+              "audioStart": 35.95,
+              "audioEnd": 38.112
+            },
+            {
+              "text": "The man pointed toward the picture item with a big smile.",
+              "audioStart": 38.975,
+              "audioEnd": 41.763
+            },
+            {
+              "text": "He told the animal that the object provided clear evidence of human power.",
+              "audioStart": 42.625,
+              "audioEnd": 46.538
+            },
+            {
+              "text": "The animal looked closely at the stone figures without feeling any fear.",
+              "audioStart": 47.4,
+              "audioEnd": 51.013
+            },
+            {
+              "text": "He knew that the item had been created by human hands.",
+              "audioStart": 51.875,
+              "audioEnd": 54.7
+            },
+            {
+              "text": "If animals were able to make stone objects, the appearance of the scene would change completely.",
+              "audioStart": 55.562,
+              "audioEnd": 60.337
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In that case, the stone work would show a huge animal beating a weak man.",
+              "audioStart": 61.2,
+              "audioEnd": 65.125
+            },
+            {
+              "text": "The man listened carefully to this good response.",
+              "audioStart": 65.987,
+              "audioEnd": 68.513
+            },
+            {
+              "text": "He could not find a proper argument against it.",
+              "audioStart": 69.375,
+              "audioEnd": 71.737
+            },
+            {
+              "text": "The animal explained that picture design depends entirely on who holds the tool.",
+              "audioStart": 72.6,
+              "audioEnd": 76.775
+            },
+            {
+              "text": "Any person who tells the story will always make sure that their own side appears successful.",
+              "audioStart": 77.638,
+              "audioEnd": 82.225
+            },
+            {
+              "text": "Therefore, people must remember that a single perspective never reveals the whole truth.",
+              "audioStart": 83.088,
+              "audioEnd": 87.6
+            },
+            {
+              "text": "If the man had made the object, it would look different.",
+              "audioStart": 88.463,
+              "audioEnd": 91.25
+            },
+            {
+              "text": "Since the human made the stone work, people see it in a specific way.",
+              "audioStart": 92.112,
+              "audioEnd": 95.787
+            },
+            {
+              "text": "Life is full of different views.",
+              "audioStart": 96.65,
+              "audioEnd": 98.287
+            },
+            {
+              "text": "Every person has a unique perspective on the world.",
+              "audioStart": 99.15,
+              "audioEnd": 101.775
+            },
+            {
+              "text": "We must always think about other points of view.",
+              "audioStart": 102.638,
+              "audioEnd": 105.0
+            },
+            {
+              "text": "The journey continued for a long time.",
+              "audioStart": 105.862,
+              "audioEnd": 107.9
+            },
+            {
+              "text": "Both friends learned a valuable lesson about life.",
+              "audioStart": 108.763,
+              "audioEnd": 111.338
+            },
+            {
+              "text": "They finally reached the end of the road and went home.",
+              "audioStart": 112.2,
+              "audioEnd": 114.875
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many days passed after this meeting.",
+              "audioStart": 115.737,
+              "audioEnd": 117.7
+            },
+            {
+              "text": "The man and the animal lived their normal lives in the world.",
+              "audioStart": 118.562,
+              "audioEnd": 121.388
+            },
+            {
+              "text": "They remembered the great lesson from the stone building.",
+              "audioStart": 122.25,
+              "audioEnd": 124.775
+            },
+            {
+              "text": "Sometimes people talk about power in different ways.",
+              "audioStart": 125.638,
+              "audioEnd": 128.4
+            },
+            {
+              "text": "Each person thinks their own group is the best.",
+              "audioStart": 129.262,
+              "audioEnd": 131.7
+            },
+            {
+              "text": "Truth has many different sides.",
+              "audioStart": 132.562,
+              "audioEnd": 134.325
+            },
+            {
+              "text": "A single story does not show the whole picture.",
+              "audioStart": 135.188,
+              "audioEnd": 137.525
+            },
+            {
+              "text": "We should always look at both sides of every question.",
+              "audioStart": 138.387,
+              "audioEnd": 140.975
+            },
+            {
+              "text": "The world is big and full of different ideas.",
+              "audioStart": 141.838,
+              "audioEnd": 144.1
+            },
+            {
+              "text": "People learn new things every single day.",
+              "audioStart": 144.963,
+              "audioEnd": 147.125
+            },
+            {
+              "text": "Friends can share many important moments together.",
+              "audioStart": 147.988,
+              "audioEnd": 150.5
+            },
+            {
+              "text": "Life brings new challenges and new choices.",
+              "audioStart": 151.363,
+              "audioEnd": 153.762
+            },
+            {
+              "text": "We must always stay kind and open to other views.",
+              "audioStart": 154.625,
+              "audioEnd": 157.25
+            },
+            {
+              "text": "The journey of life continues for a very long time.",
+              "audioStart": 158.113,
+              "audioEnd": 160.887
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0271.mp3",
+      "wordTimings": "audio/b1/st-0271.timings.json",
+      "quiz": [
+        {
+          "q": "What did the man and the lion talk about while walking along the road?",
+          "options": [
+            "Which creature possessed more power",
+            "How to build a stone statue",
+            "Where to find food in the open land"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the statue in the public area show?",
+          "options": [
+            "A lion defeating a weak man",
+            "A man defeating a powerful lion",
+            "Two travelers walking together"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "According to the lion, what would the statue look like if lions could carve stone?",
+          "options": [
+            "It would show a man and a lion walking together.",
+            "It would show a huge lion overcoming a weak man.",
+            "It would show a peaceful forest with no people."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a man and a strong animal walked together along a quiet road.",
+              "audioStart": 0.1,
+              "audioEnd": 4.713
+            },
+            {
+              "text": "Both people were proud of their strength, and they talked about which creature possessed more power.",
+              "audioStart": 5.575,
+              "audioEnd": 10.35
+            },
+            {
+              "text": "The man claimed that human beings were much stronger than any wild animal.",
+              "audioStart": 11.213,
+              "audioEnd": 14.95
+            },
+            {
+              "text": "However, the animal laughed loudly at this idea, because he knew his sharp teeth were far better than human hands.",
+              "audioStart": 15.812,
+              "audioEnd": 21.988
+            },
+            {
+              "text": "As they continued their long journey through the open land, they came across a special public area.",
+              "audioStart": 22.85,
+              "audioEnd": 27.788
+            },
+            {
+              "text": "In the center of this place, there stood a large stone figure which showed a man defeating a powerful animal.",
+              "audioStart": 28.65,
+              "audioEnd": 34.013
+            },
+            {
+              "text": "The man pointed toward the picture with a big smile on his face.",
+              "audioStart": 34.875,
+              "audioEnd": 38.188
+            },
+            {
+              "text": "He told the animal that the building provided clear evidence of human power.",
+              "audioStart": 39.05,
+              "audioEnd": 42.825
+            },
+            {
+              "text": "The animal looked closely at the stone figures without feeling any fear or doubt.",
+              "audioStart": 43.688,
+              "audioEnd": 47.8
+            },
+            {
+              "text": "He knew that the art had been created by human hands, which explained the final result.",
+              "audioStart": 48.663,
+              "audioEnd": 53.237
+            },
+            {
+              "text": "If other animals were able to form shapes and paint pictures, the appearance of the scene would change completely.",
+              "audioStart": 54.1,
+              "audioEnd": 59.712
+            },
+            {
+              "text": "In that case, the stone work would show a huge animal overcoming a weak man.",
+              "audioStart": 60.575,
+              "audioEnd": 64.812
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man listened carefully to this smart response, but he could not find a proper argument against it.",
+              "audioStart": 65.675,
+              "audioEnd": 70.95
+            },
+            {
+              "text": "The animal explained that stories and art depend entirely on who holds the pen or the tool.",
+              "audioStart": 71.812,
+              "audioEnd": 76.625
+            },
+            {
+              "text": "The person who tells the tale will always make sure that their own side appears successful.",
+              "audioStart": 77.487,
+              "audioEnd": 81.9
+            },
+            {
+              "text": "Therefore, people must remember that a single perspective never reveals the whole truth of any situation.",
+              "audioStart": 82.763,
+              "audioEnd": 88.25
+            },
+            {
+              "text": "They walked for many hours while they talked about history and art.",
+              "audioStart": 89.112,
+              "audioEnd": 92.2
+            },
+            {
+              "text": "The man thought about the stone figure again.",
+              "audioStart": 93.062,
+              "audioEnd": 95.138
+            },
+            {
+              "text": "He realized that art could be used to show different points of view.",
+              "audioStart": 96,
+              "audioEnd": 99.287
+            },
+            {
+              "text": "The animal explained that every story has two sides.",
+              "audioStart": 100.15,
+              "audioEnd": 103.062
+            },
+            {
+              "text": "If a person only looks at one side, they will miss the whole truth.",
+              "audioStart": 103.925,
+              "audioEnd": 107.4
+            },
+            {
+              "text": "The public area was quiet during the afternoon.",
+              "audioStart": 108.263,
+              "audioEnd": 110.7
+            },
+            {
+              "text": "Many other people walked through the space every single day.",
+              "audioStart": 111.562,
+              "audioEnd": 114.45
+            },
+            {
+              "text": "They looked at the stone figure without knowing the discussion behind it.",
+              "audioStart": 115.312,
+              "audioEnd": 118.537
+            },
+            {
+              "text": "The man and the animal sat down near a tree to rest their legs.",
+              "audioStart": 119.4,
+              "audioEnd": 122.75
+            },
+            {
+              "text": "They shared some food while they watched other visitors pass by.",
+              "audioStart": 123.612,
+              "audioEnd": 126.7
+            },
+            {
+              "text": "The sun began to go down behind the hills.",
+              "audioStart": 127.562,
+              "audioEnd": 129.85
+            },
+            {
+              "text": "The air became cool as night approached.",
+              "audioStart": 130.713,
+              "audioEnd": 132.775
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They knew that their journey must continue the next morning.",
+              "audioStart": 133.637,
+              "audioEnd": 136.3
+            },
+            {
+              "text": "Both of them learned an important lesson about life from their long conversation.",
+              "audioStart": 137.162,
+              "audioEnd": 141.025
+            },
+            {
+              "text": "They understood that power is often shown in different ways depending on who tells the story.",
+              "audioStart": 141.887,
+              "audioEnd": 146.35
+            },
+            {
+              "text": "When they finally stood up to leave, they were still thinking about the stone figure in the center of the town.",
+              "audioStart": 147.213,
+              "audioEnd": 152.262
+            },
+            {
+              "text": "The road ahead of them was long and dark, but they felt ready for the rest of their trip.",
+              "audioStart": 153.125,
+              "audioEnd": 157.363
+            },
+            {
+              "text": "They walked into the evening together, hoping to find a place to rest before the dark night became too cold.",
+              "audioStart": 158.225,
+              "audioEnd": 163.95
+            },
+            {
+              "text": "They talked about many other things while they moved along the path.",
+              "audioStart": 164.812,
+              "audioEnd": 167.963
+            },
+            {
+              "text": "The night grew darker, but the stars gave them some light.",
+              "audioStart": 168.825,
+              "audioEnd": 171.85
+            },
+            {
+              "text": "They felt that the world was very large and full of secret things.",
+              "audioStart": 172.713,
+              "audioEnd": 176.012
+            },
+            {
+              "text": "If they had stayed at the public area, they would not have seen the beautiful stars above them.",
+              "audioStart": 176.875,
+              "audioEnd": 181.113
+            },
+            {
+              "text": "The animal told another short story about his home in the deep forest.",
+              "audioStart": 181.975,
+              "audioEnd": 185.525
+            },
+            {
+              "text": "The man listened with great interest and asked several questions about the animals who lived there.",
+              "audioStart": 186.387,
+              "audioEnd": 191.188
+            },
+            {
+              "text": "Every single conversation brought them closer together as friends.",
+              "audioStart": 192.05,
+              "audioEnd": 195.45
+            },
+            {
+              "text": "They knew that their trip would take many days, but they did not care about the time.",
+              "audioStart": 196.312,
+              "audioEnd": 200.363
+            },
+            {
+              "text": "Life on the road was hard, yet it was also very exciting for both people.",
+              "audioStart": 201.225,
+              "audioEnd": 205.175
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When they finally found a dry place under a big tree, they decided to stop for the night.",
+              "audioStart": 206.037,
+              "audioEnd": 210.6
+            },
+            {
+              "text": "They sat down on the soft grass and shared their remaining food.",
+              "audioStart": 211.463,
+              "audioEnd": 214.688
+            },
+            {
+              "text": "The wind blew softly through the leaves above their heads.",
+              "audioStart": 215.55,
+              "audioEnd": 218.188
+            },
+            {
+              "text": "The man closed his eyes and thought about all the lessons he had learned that day.",
+              "audioStart": 219.05,
+              "audioEnd": 222.75
+            },
+            {
+              "text": "He knew that his old ideas about power were not complete.",
+              "audioStart": 223.613,
+              "audioEnd": 226.525
+            },
+            {
+              "text": "The animal went into deep rest quickly after a long day of walking.",
+              "audioStart": 227.387,
+              "audioEnd": 230.963
+            },
+            {
+              "text": "The quiet night surrounded them like a warm cover.",
+              "audioStart": 231.825,
+              "audioEnd": 234.363
+            },
+            {
+              "text": "If anyone had seen them resting together, that person would have been very surprised.",
+              "audioStart": 235.225,
+              "audioEnd": 239.562
+            },
+            {
+              "text": "After all, a man and a wild animal do not usually travel as partners.",
+              "audioStart": 240.425,
+              "audioEnd": 244.65
+            },
+            {
+              "text": "However, their shared journey had created a special bond between them.",
+              "audioStart": 245.512,
+              "audioEnd": 250.358
+            },
+            {
+              "text": "The morning sun would soon rise to start a brand new day of their long adventure.",
+              "audioStart": 251.22,
+              "audioEnd": 255.158
+            },
+            {
+              "text": "They were ready to face whatever came next on the road.",
+              "audioStart": 256.021,
+              "audioEnd": 258.708
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0271.mp3",
+      "wordTimings": "audio/b2/st-0271.timings.json",
+      "quiz": [
+        {
+          "q": "What did the man and the lion talk about while walking along the road?",
+          "options": [
+            "Which creature possessed more power",
+            "Where they should stop for dinner",
+            "How to build a stone house"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What was shown in the stone statue they found in the public area?",
+          "options": [
+            "A lion resting under a big tree",
+            "A man defeating a powerful lion",
+            "Two travelers walking together"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the lion say about stories and art?",
+          "options": [
+            "They always tell complete lies about history",
+            "They depend entirely on who holds the tool",
+            "They are too difficult for people to understand"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a man and a magnificent lion walked together along a quiet road that stretched toward the horizon.",
+              "audioStart": 0.1,
+              "audioEnd": 6.575
+            },
+            {
+              "text": "Both companions were remarkably proud of their physical strength, and as they walked, they talked about which creature possessed more power.",
+              "audioStart": 7.438,
+              "audioEnd": 14.562
+            },
+            {
+              "text": "The man claimed with absolute confidence that human beings were much stronger than any wild animal found in nature.",
+              "audioStart": 15.425,
+              "audioEnd": 21.363
+            },
+            {
+              "text": "However, the proud animal laughed loudly at this idea because he knew his sharp teeth were far better than human hands.",
+              "audioStart": 22.225,
+              "audioEnd": 28.425
+            },
+            {
+              "text": "Neither traveler was willing to yield the argument, and their voices echoed softly over the empty fields.",
+              "audioStart": 29.288,
+              "audioEnd": 34.862
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As they continued their long journey through the open land, they came across a special public area.",
+              "audioStart": 35.725,
+              "audioEnd": 40.663
+            },
+            {
+              "text": "In the center of this place, there stood a large stone figure which showed a man defeating a powerful animal.",
+              "audioStart": 41.525,
+              "audioEnd": 46.888
+            },
+            {
+              "text": "The man pointed toward the picture with a big smile on his face, feeling thoroughly vindicated by the sculpture.",
+              "audioStart": 47.75,
+              "audioEnd": 53.5
+            },
+            {
+              "text": "He told the animal that the impressive building and the monument provided clear evidence of ultimate human power.",
+              "audioStart": 54.362,
+              "audioEnd": 60.025
+            },
+            {
+              "text": "The lion looked closely at the stone figures without feeling any fear or doubt about his own fierce nature.",
+              "audioStart": 60.888,
+              "audioEnd": 66.3
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He knew very well that the art had been created by human hands, which explained the final result completely.",
+              "audioStart": 67.162,
+              "audioEnd": 72.9
+            },
+            {
+              "text": "If other animals were able to form shapes and paint pictures, the appearance of the scene would change completely.",
+              "audioStart": 73.763,
+              "audioEnd": 79.375
+            },
+            {
+              "text": "In that case, the stone work would show a huge animal overcoming a weak man with absolute ease.",
+              "audioStart": 80.237,
+              "audioEnd": 85.6
+            },
+            {
+              "text": "The man listened carefully to this smart response, but he could not find a proper argument against it.",
+              "audioStart": 86.463,
+              "audioEnd": 91.737
+            },
+            {
+              "text": "The clever animal explained that stories and art depend entirely on who holds the pen or the tool.",
+              "audioStart": 92.6,
+              "audioEnd": 97.737
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The person who tells the tale will always make sure that their own side appears successful and heroic.",
+              "audioStart": 98.6,
+              "audioEnd": 103.725
+            },
+            {
+              "text": "Therefore, people must remember that a single perspective never reveals the whole truth of any complex situation.",
+              "audioStart": 104.588,
+              "audioEnd": 110.6
+            },
+            {
+              "text": "They walked for many hours while they talked about history, culture, and the nature of artistic representation.",
+              "audioStart": 111.463,
+              "audioEnd": 117.362
+            },
+            {
+              "text": "The man thought about the stone figure again, turning the lion's words over in his mind.",
+              "audioStart": 118.225,
+              "audioEnd": 122.612
+            },
+            {
+              "text": "He realized that art could easily be used to show different points of view depending on the creator.",
+              "audioStart": 123.475,
+              "audioEnd": 128.45
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The lion explained patiently that every story has at least two sides that deserve careful consideration.",
+              "audioStart": 129.312,
+              "audioEnd": 134.85
+            },
+            {
+              "text": "If a person only looks at one side of a matter, they will miss the whole truth of the event.",
+              "audioStart": 135.713,
+              "audioEnd": 140.225
+            },
+            {
+              "text": "The public area remained quiet and peaceful during the peaceful afternoon hours as the shadows lengthened.",
+              "audioStart": 141.088,
+              "audioEnd": 146.275
+            },
+            {
+              "text": "Many other people walked through the open space every single day, admiring the craftsmanship.",
+              "audioStart": 147.137,
+              "audioEnd": 152.05
+            },
+            {
+              "text": "They looked at the stone figure without knowing the deep discussion that had taken place behind it.",
+              "audioStart": 152.912,
+              "audioEnd": 157.438
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man and the animal finally sat down near a large tree to rest their tired legs from the journey.",
+              "audioStart": 158.3,
+              "audioEnd": 163.55
+            },
+            {
+              "text": "They shared some simple food while they watched other curious visitors pass by the famous monument.",
+              "audioStart": 164.412,
+              "audioEnd": 169.375
+            },
+            {
+              "text": "The sun began to go down slowly behind the distant hills, painting the sky in shades of gold and red.",
+              "audioStart": 170.238,
+              "audioEnd": 175.75
+            },
+            {
+              "text": "The air became cool as night approached, bringing a refreshing breeze across the grassy plain.",
+              "audioStart": 176.613,
+              "audioEnd": 181.425
+            },
+            {
+              "text": "They knew that their long journey must continue the next morning as soon as the first light appeared.",
+              "audioStart": 182.287,
+              "audioEnd": 186.8
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Both of them learned an important lesson about life from their long conversation under the open sky.",
+              "audioStart": 187.662,
+              "audioEnd": 192.6
+            },
+            {
+              "text": "They understood clearly that power is often shown in different ways depending entirely on who tells the story.",
+              "audioStart": 193.463,
+              "audioEnd": 199.037
+            },
+            {
+              "text": "When they finally stood up to leave, they were still thinking about the stone figure in the town center.",
+              "audioStart": 199.9,
+              "audioEnd": 204.7
+            },
+            {
+              "text": "The road ahead of them was long and dark, but they felt ready for the rest of their trip.",
+              "audioStart": 205.562,
+              "audioEnd": 209.8
+            },
+            {
+              "text": "They walked into the evening together, hoping to find a place to rest before the dark night became too cold.",
+              "audioStart": 210.662,
+              "audioEnd": 216.387
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They talked about many other interesting things while they moved steadily along the winding path.",
+              "audioStart": 217.25,
+              "audioEnd": 221.825
+            },
+            {
+              "text": "The night grew darker around them, but the bright stars gave them some gentle light to see the way.",
+              "audioStart": 222.688,
+              "audioEnd": 227.537
+            },
+            {
+              "text": "They felt that the world was very large and full of secret things waiting to be discovered.",
+              "audioStart": 228.4,
+              "audioEnd": 232.625
+            },
+            {
+              "text": "If they had stayed at the public area, they would not have seen the beautiful stars above them.",
+              "audioStart": 233.488,
+              "audioEnd": 237.725
+            },
+            {
+              "text": "The lion told another short story about his home in the deep forest far away from towns.",
+              "audioStart": 238.588,
+              "audioEnd": 244.458
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man listened with great interest and asked several questions about the animals who lived among the trees.",
+              "audioStart": 245.32,
+              "audioEnd": 250.708
+            },
+            {
+              "text": "Every single conversation brought them closer together as trusted friends despite their different origins.",
+              "audioStart": 251.57,
+              "audioEnd": 256.908
+            },
+            {
+              "text": "They knew that their trip would take many days, but they did not care about the passing time.",
+              "audioStart": 257.77,
+              "audioEnd": 262.233
+            },
+            {
+              "text": "Life on the road was hard and demanding, yet it was also very exciting for both travelers.",
+              "audioStart": 263.095,
+              "audioEnd": 267.895
+            },
+            {
+              "text": "They continued moving forward under the moonlight, enjoying the quiet companionship of the midnight hours.",
+              "audioStart": 268.757,
+              "audioEnd": 274.22
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When they finally found a dry place under a big tree, they decided to stop for the night.",
+              "audioStart": 275.082,
+              "audioEnd": 279.645
+            },
+            {
+              "text": "They sat down on the soft grass and shared their remaining food in the quiet darkness.",
+              "audioStart": 280.507,
+              "audioEnd": 284.895
+            },
+            {
+              "text": "The wind blew softly through the leaves above their heads, making a soothing rustling sound.",
+              "audioStart": 285.757,
+              "audioEnd": 290.295
+            },
+            {
+              "text": "The man closed his eyes and thought about all the lessons he had learned during that remarkable day.",
+              "audioStart": 291.158,
+              "audioEnd": 295.72
+            },
+            {
+              "text": "He knew that his old ideas about power and dominance were not complete or entirely accurate.",
+              "audioStart": 296.582,
+              "audioEnd": 301.37
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The animal went into deep rest quickly after a long day of walking across the rugged terrain.",
+              "audioStart": 302.233,
+              "audioEnd": 307.02
+            },
+            {
+              "text": "The quiet night surrounded them like a warm cover, keeping them safe from the outside world.",
+              "audioStart": 307.882,
+              "audioEnd": 312.658
+            },
+            {
+              "text": "If anyone had seen them resting together, that person would have been very surprised indeed.",
+              "audioStart": 313.52,
+              "audioEnd": 318.158
+            },
+            {
+              "text": "After all, a man and a wild animal do not usually travel together as equal partners.",
+              "audioStart": 319.02,
+              "audioEnd": 323.983
+            },
+            {
+              "text": "However, their shared journey had created a special bond between them that nothing could break.",
+              "audioStart": 324.845,
+              "audioEnd": 329.72
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The morning sun would soon rise to start a brand new day of their long and unexpected adventure.",
+              "audioStart": 330.582,
+              "audioEnd": 335.495
+            },
+            {
+              "text": "They were ready to face whatever came next on the road with open minds and curious hearts.",
+              "audioStart": 336.358,
+              "audioEnd": 340.92
+            },
+            {
+              "text": "The lessons of the stone monument remained with them, reminding them of the power of perspective.",
+              "audioStart": 341.783,
+              "audioEnd": 346.582
+            },
+            {
+              "text": "They slept soundly through the remaining hours of darkness while the world waited for dawn.",
+              "audioStart": 347.445,
+              "audioEnd": 351.495
+            },
+            {
+              "text": "Their journey was far from finished, but they walked it now with a deeper wisdom than before.",
+              "audioStart": 352.358,
+              "audioEnd": 357.033
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0271.mp3",
+      "wordTimings": "audio/c1/st-0271.timings.json",
+      "quiz": [
+        {
+          "q": "What object did the man point to as evidence of human superiority?",
+          "options": [
+            "A large stone figure showing a man defeating an animal",
+            "A tall wooden tower built in the center of the town",
+            "A painted banner hanging above the public marketplace"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the lion say would happen if animals were able to create art?",
+          "options": [
+            "The art would show animals living peacefully alongside humans",
+            "The stone work would show a huge animal overcoming a weak man",
+            "The sculptures would depict animals building large cities"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Where did the man and the lion decide to spend the night?",
+          "options": [
+            "Inside a small wooden cabin near the public square",
+            "In a dry place under a big tree on the soft grass",
+            "Inside a cave at the bottom of the distant hills"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

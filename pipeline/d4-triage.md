@@ -1,0 +1,350 @@
+# D4 Triyaj — Paragraf/Cumle Tekrari
+
+> SADECE liste; hicbir sey silinmedi. Grup 1 onayinla duzeltilecek, Grup 2 korunacak.
+
+## Grup 1 — Muhtemel kopya-paste bug (134 bulgu)
+
+- **st-0012/B2** (4×): She never forgot her adventure.
+- **st-0120/B2** (3×): They were confident in their abilities.
+- **st-0120/B2** (3×): They were prepared for whatever came next.
+- **st-0120/B2** (3×): They were excited to see what the future held.
+- **st-0120/B2** (3×): They were happy to be alive.
+- **st-0120/B2** (3×): Max and his friend were content.
+- **st-0120/B2** (3×): They had found something valuable.
+- **st-0120/B2** (3×): It was not just the gold.
+- **st-0120/B2** (3×): They had found a new appreciation for life.
+- **st-0120/B2** (3×): They had found a new appreciation for each other.
+- **st-0120/B2** (3×): They had learned to appreciate the little things.
+- **st-0120/B2** (3×): They had learned to appreciate each other.
+- **st-0122/A2** (3×): They will always love each other.
+- **st-0128/B2** (4×): People often pretend that things they cannot achieve are simply not worth having.
+- **st-0128/B2** (4×): This smart trick of the mind helps individuals deal with trouble and failure.
+- **st-0128/B2** (4×): Throughout history, stories like this one have been shared across many different cultures.
+- **st-0128/B2** (4×): The animal in the story chose to protect his pride rather than accept his limitation.
+- **st-0128/B2** (4×): By convincing himself that the sweet fruit was bad, he felt better about his loss.
+- **st-0128/B2** (3×): Such behavior can be observed in everyday life when individuals miss important opportuniti…
+- **st-0128/B2** (3×): When a goal proves too difficult, people frequently invent excuses to hide their fear.
+- **st-0128/B2** (3×): This psychological defense mechanism allows everyone to maintain a positive self-image des…
+- **st-0128/B2** (3×): The warm field remained empty as the stars slowly appeared in the night sky above.
+- **st-0128/B2** (3×): No other creatures came to disturb the quiet place where the high plant grew.
+- **st-0128/B2** (3×): The sweet fruit stayed safely on its branch through the long hours of darkness.
+- **st-0128/B2** (3×): Morning would soon arrive with a new day and fresh challenges for all living things.
+- **st-0128/B2** (3×): Until then, the world rested in deep silence under the bright light.
+- **st-0128/B2** (3×): The tale of the animal and the high plant remains a famous example of human knowledge.
+- **st-0128/B2** (3×): Children and adults learn valuable lessons from the actions of animals in tales.
+- **st-0133/B2** (2×): The sun rises every morning and brings new light to the world.
+- **st-0141/B1** (2×): Proud Rikki-Tikki kept a careful watch over the house day and night.
+- **st-0141/B1** (2×): His strong heart and quick mind ensured everyone lived safely.
+- **st-0154/B2** (4×): Once upon a time, an honest maker of shoes lived in a small town with his wife.
+- **st-0154/B2** (4×): Although they worked very hard, they became extremely poor because times were difficult.
+- **st-0154/B2** (4×): Eventually, the poor man had only enough leather left for one final pair of shoes.
+- **st-0154/B2** (4×): He cut the pieces out carefully before he went to sleep that evening.
+- **st-0154/B2** (4×): He left the leather upon his wooden table so that he could make everything in the morning.
+- **st-0154/B2** (4×): When he woke up early next day, he found the shoes finished completely and perfectly.
+- **st-0154/B2** (4×): The customer who bought them paid so much money that the worker could buy more leather.
+- **st-0154/B2** (4×): Night after night, the same wonderful thing kept happening while they slept.
+- **st-0154/B2** (4×): Because this incredible help continued, the family began to grow and live happily.
+- **st-0154/B2** (4×): Curious to know who their secret friend was, the couple decided to hide one night.
+- **st-0154/B2** (4×): They waited quietly behind a door until two tiny people without shoes entered the room.
+- **st-0154/B2** (4×): The little creatures sat down immediately and started working busily until the sun came up…
+- **st-0154/B2** (4×): To thank them properly, the grateful couple secretly made little clothes and tiny shoes.
+- **st-0154/B2** (4×): They left these nice gifts upon the table instead of leather for the tiny people to find.
+- **st-0154/B2** (4×): When the delighted people saw the clothes, they moved away into the night.
+- **st-0154/B2** (4×): Their work was finally done, and the tiny supporters were never seen again.
+- **st-0154/B2** (4×): However, the maker of shoes and his wife lived well for the rest of their lives.
+- **st-0165/A1** (3×): The man goes back to the water.
+- **st-0169/B2** (2×): When the old woman left the tower, the young man walked closer.
+- **st-0173/B2** (2×): Long ago, the ruler of a great country lived in a home made of the finest white stone.
+- **st-0173/B2** (2×): His house was known throughout the world because it had the most beautiful garden filled w…
+- **st-0173/B2** (2×): The garden extended far into a dark forest where a little bird sang sweet music every sing…
+- **st-0173/B2** (2×): Many people from different parts of the planet visited the empire just to hear the creatur…
+- **st-0173/B2** (2×): When the ruler read books about his own country, he found a special note regarding the lit…
+- **st-0173/B2** (2×): He asked his officers to bring the bird to the home so that he could listen to its wonderf…
+- **st-0173/B2** (2×): The little animal arrived and sang a song which made the ruler cry happy tears.
+- **st-0173/B2** (2×): They kept the bird inside a small golden box, though it wanted to fly back to the green tr…
+- **st-0173/B2** (2×): One day, a package arrived from another king who sent a machine bird covered in gold and v…
+- **st-0173/B2** (2×): This machine could play a song when someone wound it up with a tiny key.
+- **st-0173/B2** (2×): The real bird flew away through an open window because nobody noticed its leaving.
+- **st-0173/B2** (2×): The court became very happy with the machine since it played the same tune every time with…
+- **st-0173/B2** (2×): Several years passed, and the machine bird broke down because internal parts stopped worki…
+- **st-0173/B2** (2×): The ruler became very sick as time went on, and he lay in his bed feeling weak and cold.
+- **st-0173/B2** (2×): He wanted to hear music again, but the broken machine remained silent on the table.
+- **st-0173/B2** (2×): Suddenly, a lovely sound came from outside the window where the real bird sat upon a branc…
+- **st-0173/B2** (2×): The bird sang a sweet song which drove away the dark shadow of death from the room.
+- **st-0173/B2** (2×): The ruler felt strong again, and he thanked the little animal with all his heart.
+- **st-0173/B2** (2×): The bird promised to visit him every night to sing about everything happening in the count…
+- **st-0173/B2** (2×): If the ruler had listened to the real bird earlier, he would have felt much better.
+- **st-0173/B2** (2×): If the bird had not flown away, the ruler would have been very happy.
+- **st-0173/B2** (2×): The song which was sung by the bird brought great joy to the entire country.
+- **st-0187/B1** (2×): Next came the wild horse, and he also agreed to work for man.
+- **st-0187/B1** (2×): Woman agreed, and the cat slept in the house during the cold night.
+- **st-0187/B1** (2×): The cat agreed to hunt mice, but he always remembered his wild freedom.
+- **st-0187/B1** (2×): However, when the weather turns bad, he always returns to the warm house.
+- **st-0187/B1** (2×): Man and woman welcome him back because he keeps the house safe from small mice.
+- **st-0187/B1** (2×): Yet, the cat always remembers that he is the cat who walks by himself.
+- **st-0209/B2** (2×): Once upon a time, an old woman made a special food item shaped like a little man.
+- **st-0209/B2** (2×): She put the food into a hot equipment so that it would become warm properly.
+- **st-0209/B2** (2×): When she opened the door, the little fellow jumped out quickly and began to run away.
+- **st-0209/B2** (2×): The old woman was very surprised, and she made a loud sound for him to stop.
+- **st-0209/B2** (2×): However, the fast runner laughed loudly and told them he would never return.
+- **st-0209/B2** (2×): The man tried to catch the little fellow, but the runner was simply too quick.
+- **st-0209/B2** (2×): Further down the road, the proud food item met a farm animal which also wanted to eat him.
+- **st-0209/B2** (2×): The food item made a loud sound that he had run away from many different people.
+- **st-0209/B2** (2×): With every step he took, he felt more confident about his speed and his mental ability.
+- **st-0209/B2** (2×): He ran across fields and near a forest while singing a happy little song about his escape.
+- **st-0209/B2** (2×): No one could ever catch him because his legs moved faster than the wind.
+- **st-0209/B2** (2×): Soon, the proud runner came near a deep river where his journey had to pause.
+- **st-0209/B2** (2×): Because the food item could not swim, he decided to trust the animal.
+- **st-0209/B2** (2×): As they moved into the deep water, the animal told the food item to move up onto its back.
+- **st-0209/B2** (2×): When they reached the middle of the river, the animal told the food item to sit upon its h…
+- **st-0209/B2** (2×): Finally, the animal asked the little traveler to jump onto its nose so that he would not g…
+- **st-0209/B2** (2×): The moment the food item reached the nose, the smart animal opened its mouth and caught hi…
+- **st-0209/B2** (2×): That was the end of the little fellow who thought he was too smart for everyone.
+- **st-0209/B2** (2×): Many people heard about the amazing escape that happened during that day.
+- **st-0209/B2** (2×): The old woman felt very sad because her special food item was gone forever.
+- **st-0209/B2** (2×): She wondered if she would ever make something like that again.
+- **st-0209/B2** (2×): The journey of the little man became a famous story across the whole country.
+- **st-0209/B2** (2×): Children played near the garden and asked their parents about the fast runner.
+- **st-0209/B2** (2×): They believed that nobody could run as fast as the little man did.
+- **st-0209/B2** (2×): The river still flows quietly past the green fields where the escape took place.
+- **st-0209/B2** (2×): Animals near the water often look for visitors who might need help.
+- **st-0209/B2** (2×): However, those animals are not always as friendly as they might appear at first.
+- **st-0209/B2** (2×): Trust must be given only to those who truly care about your safety.
+- **st-0209/B2** (2×): The lesson of the story remains important for every young child today.
+- **st-0228/B2** (2×): The traveler sat before his friends and told a story about a wonderful journey.
+- **st-0228/B2** (4×): He had spent many years building a special machine which could move through time.
+- **st-0228/B2** (4×): The device was made of bright metal and small glass pieces.
+- **st-0228/B2** (4×): According to him, this machine would take any person into the future.
+- **st-0228/B2** (4×): His friends listened closely while he explained how the vehicle worked.
+- **st-0228/B2** (4×): He pulled a small handle, and the room began to spin around him.
+- **st-0228/B2** (3×): Days and nights passed quickly like a fast stream of light.
+- **st-0228/B2** (3×): Finally, the machine stopped, and he stepped out into a strange new world.
+- **st-0228/B2** (3×): The future world was filled with beautiful green trees and strange little people.
+- **st-0228/B2** (3×): Those people lived a very easy life without any serious work or trouble.
+- **st-0228/B2** (3×): They did not care about books or science because everything was provided for them.
+- **st-0228/B2** (3×): However, the traveler soon noticed that something was deeply wrong.
+- **st-0228/B2** (3×): Another group of creatures lived under the dark ground.
+- **st-0228/B2** (3×): These lower beings were strong and dangerous during the night hours.
+- **st-0228/B2** (3×): They came up to take the surface people away into the dark.
+- **st-0228/B2** (3×): The traveler tried to protect his new friends from those terrible creatures.
+- **st-0228/B2** (3×): After a strong struggle, he managed to find his machine again.
+- **st-0228/B2** (3×): He quickly jumped inside the seat and pulled the main handle hard.
+- **st-0228/B2** (3×): The vehicle moved back through time until it reached his own home.
+- **st-0228/B2** (3×): Although his friends did not believe the story, he knew that the journey had been real.
+- **st-0232/B2** (2×): It was his own special area where peace and happiness lived together.
+- **st-0244/B1** (2×): Many people live through similar moments and never know the truth.
+- **st-0268/A1** (3×): She looks up at the open top.
+- **st-0268/A1** (3×): Henny Penny runs with her.
+- **st-0268/A1** (3×): Many other living things run together.
+- **st-0268/A1** (3×): Turkey Lurkey asks about the top.
+- **st-0270/B2** (2×): Both friends felt happy because they were safe from any further danger today.
+
+## Grup 2 — Muhtemel kasitli nakarat / dogal tekrar (207 bulgu)
+
+- **st-0008/A1** (2×): "Swallow," says the Prince.
+- **st-0008/A2** (2×): "Swallow, Swallow, little Swallow," said the Prince.
+- **st-0008/B1** (2×): "Swallow, Swallow, little Swallow," said the Prince.
+- **st-0012/A1** (2×): Alice feels very bad now.
+- **st-0012/B2** (2×): She did not know what to do.
+- **st-0012/B2** (2×): She always remembered the man.
+- **st-0012/B2** (2×): She never forgot the hall.
+- **st-0012/B2** (2×): She always remembered the doors.
+- **st-0012/B2** (2×): They were very important.
+- **st-0012/B2** (2×): She never forgot the test.
+- **st-0012/B2** (2×): She always remembered the feeling.
+- **st-0012/B2** (2×): She lived a very happy life.
+- **st-0012/B2** (2×): She had lived a very long life.
+- **st-0012/B2** (2×): She had seen many things.
+- **st-0012/B2** (2×): She had lived a very good life.
+- **st-0012/B2** (2×): She had done many things.
+- **st-0013/B2** (2×): They learned about friendship and being true to each other.
+- **st-0013/B2** (2×): It will continue to be told for many years to come.
+- **st-0014/A1** (2×): He does not like Christmas.
+- **st-0014/B1** (2×): Scrooge looked at him coldly.
+- **st-0020/A1** (2×): Ben can not close the eyes.
+- **st-0084/A2** (2×): They felt good about the trip.
+- **st-0091/A1** (2×): They study the paper again.
+- **st-0120/A2** (2×): They will meet new people.
+- **st-0120/B2** (2×): Max and his friend had grown closer.
+- **st-0120/B2** (2×): They had become better friends.
+- **st-0120/B2** (2×): They had become more than just friends.
+- **st-0120/B2** (2×): They had become like brothers.
+- **st-0120/B2** (2×): They would always be there for each other.
+- **st-0120/B2** (2×): They would always support each other.
+- **st-0120/B2** (2×): They would always have each other's backs.
+- **st-0120/B2** (2×): They would always be a team.
+- **st-0120/B2** (2×): Max and his friend were a team.
+- **st-0120/B2** (2×): They could overcome any obstacle.
+- **st-0120/B2** (2×): They could achieve anything they set their minds to.
+- **st-0120/B2** (2×): They were ready for adventure.
+- **st-0120/B2** (2×): They were ready for whatever the future held.
+- **st-0120/B2** (2×): Max and his friend were excited.
+- **st-0120/B2** (2×): They were excited to explore new places.
+- **st-0120/B2** (2×): They were excited to have new experiences.
+- **st-0120/B2** (2×): They were excited to learn new things.
+- **st-0120/B2** (2×): They were excited to grow and develop as individuals.
+- **st-0120/B2** (2×): Max and his friend were happy.
+- **st-0120/B2** (2×): They were happy to have each other.
+- **st-0120/B2** (2×): They were happy to have their health.
+- **st-0120/B2** (2×): They were happy to have their friendship.
+- **st-0120/B2** (2×): They were happy to have their adventures.
+- **st-0121/B1** (2×): She thinks the day is good.
+- **st-0122/A2** (2×): Both will walk hand in hand.
+- **st-0122/A2** (2×): The true present is love.
+- **st-0122/A2** (2×): Love is the best present.
+- **st-0122/B1** (2×): They are ready for the next day.
+- **st-0124/A1** (2×): He says the say is still good.
+- **st-0125/A1** (2×): Blue Carbuncle is in thing.
+- **st-0125/A1** (2×): If man do not keep Blue Carbuncle.
+- **st-0126/A1** (2×): The open will let a person take money.
+- **st-0133/B2** (2×): Good friends and family matter more than extra wealth.
+- **st-0133/B2** (2×): If we keep our minds open, we will grow wiser each day.
+- **st-0133/B2** (2×): Birds sing in the trees while people start their daily work.
+- **st-0133/B2** (2×): We should appreciate every single moment we are given.
+- **st-0133/B2** (2×): Time passes quickly, and we cannot bring back yesterday.
+- **st-0133/B2** (2×): Therefore, we must live each day with a clean heart.
+- **st-0133/B2** (2×): Help your neighbors when they need support.
+- **st-0133/B2** (2×): Do not let want take control of your actions.
+- **st-0133/B2** (2×): True happiness comes from within, not from what we own.
+- **st-0133/B2** (2×): May this story stay in your mind for a long time.
+- **st-0133/B2** (2×): Thank you for reading about the dog and the bridge.
+- **st-0133/B2** (2×): May you always make wise choices in your own life.
+- **st-0141/B1** (2×): He has won many fights since he arrived here.
+- **st-0141/B1** (2×): If danger approaches again, he will stop it quickly.
+- **st-0141/B1** (2×): He always stayed near the people he had come to love.
+- **st-0141/B1** (2×): The sun sends light upon the green land every morning.
+- **st-0141/B1** (2×): The lovely flowers grow tall near the warm house.
+- **st-0141/B1** (2×): Birds sing beautiful songs while children play outside.
+- **st-0141/B1** (2×): No danger remains in this quiet community now.
+- **st-0141/B1** (2×): Everyone feels happy because Rikki-Tikki watches over them.
+- **st-0148/B1** (2×): If he runs again tomorrow, he will win the race.
+- **st-0150/A1** (2×): The people hear his sound.
+- **st-0169/A2** (2×): The girl dropped her long hair down.
+- **st-0169/B2** (2×): Long ago, a young girl with long hair lived in a high tower.
+- **st-0169/B2** (2×): She had no door, so she stayed inside all day long.
+- **st-0169/B2** (2×): An old woman visited her by climbing up her hair.
+- **st-0169/B2** (2×): This process happened many times during each week.
+- **st-0169/B2** (2×): The girl often looked outside from her high window.
+- **st-0169/B2** (2×): She wanted to see the world beyond her room.
+- **st-0169/B2** (2×): However, she could not leave because there was no way down.
+- **st-0169/B2** (2×): She spent her time singing songs to pass the hours.
+- **st-0169/B2** (2×): Her voice was very sweet and could be heard from distance.
+- **st-0169/B2** (2×): People who walked near the tower often stopped to listen.
+- **st-0169/B2** (2×): They wondered who lived in such a strange place.
+- **st-0169/B2** (2×): The tower stood alone in a large forest.
+- **st-0169/B2** (2×): No one knew how to enter it properly.
+- **st-0169/B2** (2×): Only the old woman knew the secret method.
+- **st-0169/B2** (2×): She would call out from the ground below.
+- **st-0169/B2** (2×): The girl would then drop her hair down to the ground.
+- **st-0169/B2** (2×): The old woman used the hair to pull herself up.
+- **st-0169/B2** (2×): This routine continued for several years without any change.
+- **st-0169/B2** (2×): One day, a young man walked near the tower.
+- **st-0169/B2** (2×): He heard the girl sing a beautiful song.
+- **st-0169/B2** (2×): He wanted to meet her very much.
+- **st-0169/B2** (2×): He hid behind some trees and watched the old woman.
+- **st-0169/B2** (2×): He saw how the woman got inside the room.
+- **st-0169/B2** (2×): The young man called out to the girl in a soft voice.
+- **st-0169/B2** (2×): The girl dropped her long hair down from the window.
+- **st-0169/B2** (2×): The young man climbed up into the room.
+- **st-0169/B2** (2×): When they saw each other, they were very happy.
+- **st-0169/B2** (2×): They became good friends and talked for hours.
+- **st-0169/B2** (2×): They decided that they would leave the tower together.
+- **st-0169/B2** (2×): The girl wanted to see new places with her new friend.
+- **st-0169/B2** (2×): They made a careful plan for their escape.
+- **st-0169/B2** (2×): However, the old woman found out about the plan.
+- **st-0169/B2** (2×): The old woman was very angry and upset.
+- **st-0169/B2** (2×): She sent the poor girl far away to an isolated place.
+- **st-0169/B2** (2×): The girl had to leave everything behind.
+- **st-0169/B2** (2×): Later that day, the young man returned to the tower.
+- **st-0169/B2** (2×): The old woman tricked him by using the hair.
+- **st-0169/B2** (2×): When he reached the top, he found the angry woman waiting.
+- **st-0169/B2** (2×): The old woman pushed him away from the window.
+- **st-0169/B2** (2×): He fell from the high tower down to the ground.
+- **st-0169/B2** (2×): After a long time, the young man found the girl again.
+- **st-0169/B2** (2×): She was wandering alone in the dark woods.
+- **st-0169/B2** (2×): They were extremely happy to see each other once more.
+- **st-0169/B2** (2×): They held each other close and cried tears of joy.
+- **st-0169/B2** (2×): They finally went home together and lived happily.
+- **st-0169/B2** (2×): Their long trial was finally at an end.
+- **st-0169/B2** (2×): They never returned to that terrible tower again.
+- **st-0169/B2** (2×): They shared a wonderful life with their family.
+- **st-0169/B2** (2×): Everyone in the country was glad that they were safe.
+- **st-0169/B2** (2×): The story of the tower became famous among the people.
+- **st-0173/B2** (2×): Death sat near him while dark shadows filled the large room.
+- **st-0186/A1** (2×): The home stays in the part.
+- **st-0187/B1** (2×): Long ago, the world was wild and new.
+- **st-0187/B1** (2×): All animals were wild, and each animal walked by himself.
+- **st-0187/B1** (2×): The cat was the wildest of all because he walked by himself.
+- **st-0187/B1** (2×): All places were equal to him.
+- **st-0187/B1** (2×): Then man came into the stone house and lived with woman.
+- **st-0187/B1** (2×): Woman made a warm home and lit a bright fire.
+- **st-0187/B1** (2×): He agreed to help man if man would give him food.
+- **st-0187/B1** (2×): Then the wild animal came to share milk with the family.
+- **st-0187/B1** (2×): Finally, the good cat saw everything from a high tree.
+- **st-0187/B1** (2×): He decided to visit the stone house.
+- **st-0187/B1** (2×): Woman told the cat to leave.
+- **st-0187/B1** (2×): The cat spoke softly and played a good game.
+- **st-0187/B1** (2×): He promised that if woman called him a good cat.
+- **st-0187/B1** (2×): He would stay by the warm fire.
+- **st-0187/B1** (2×): When man came back, he wondered why the cat was there.
+- **st-0187/B1** (2×): Woman explained the agreement.
+- **st-0187/B1** (2×): Man said the cat must also hunt mice.
+- **st-0187/B1** (2×): When the wild woods call him, the cat goes out alone.
+- **st-0187/B1** (2×): He walks through the cold water and plays in the dark night.
+- **st-0187/B1** (2×): All places are equal to him.
+- **st-0209/B2** (2×): He ran past an old man who was working in the garden.
+- **st-0209/B2** (2×): He made a loud sound that he was too fast for anyone.
+- **st-0209/B2** (2×): He would run away from the animal too.
+- **st-0209/B2** (2×): A smart animal was sitting by the water.
+- **st-0209/B2** (2×): It offered to help the little food item cross safely.
+- **st-0209/B2** (2×): He climbed onto its tail.
+- **st-0209/B2** (2×): Every person in the town knew the tale by heart.
+- **st-0212/B1** (2×): The second brother agreed.
+- **st-0215/B2** (2×): She would not assume she knew what was best for them.
+- **st-0220/A2** (2×): He worked in the city each day.
+- **st-0232/A1** (2×): He puts water on the land.
+- **st-0232/B2** (2×): No other person came to this quiet corner of the world.
+- **st-0238/A2** (2×): His friends stayed close to him.
+- **st-0238/A2** (2×): He looked at their faces.
+- **st-0238/A2** (2×): They talked about the day.
+- **st-0238/A2** (2×): He went to sleep in his bed.
+- **st-0244/B1** (2×): If the stranger returns, I will listen to him again.
+- **st-0252/A1** (2×): Once, one little person lives near water.
+- **st-0252/A1** (2×): A big person watches him every day.
+- **st-0252/A1** (2×): One day, the big person wants him.
+- **st-0252/A1** (2×): He speaks to the little person.
+- **st-0252/A1** (2×): He wants the little person to come.
+- **st-0252/A1** (2×): He tells the little person something.
+- **st-0252/A1** (2×): The little person feels bad.
+- **st-0252/A1** (2×): The big person believes the story.
+- **st-0252/A1** (2×): The little person goes up.
+- **st-0255/B1** (2×): Many animals lived near the water in that part of the world.
+- **st-0255/B1** (2×): The pool was clear and full of life every single morning.
+- **st-0255/B1** (2×): The big bird spent hours standing by the side of the pool.
+- **st-0255/B1** (2×): Fish swam under the surface while the bird watched them.
+- **st-0255/B1** (2×): The bird grew old and could not run after food now.
+- **st-0255/B1** (2×): That problem made the bird create a very bad plan.
+- **st-0255/B1** (2×): The animal came to the water and saw the sad bird.
+- **st-0268/A1** (2×): She lives in a small house.
+- **st-0268/A1** (2×): She says the top is down.
+- **st-0268/A1** (2×): She runs down the long way.
+- **st-0271/A2** (2×): Once, a man and a big animal walked along a road.
+- **st-0271/A2** (2×): Both people had great power.
+- **st-0271/A2** (2×): The man claimed humans were stronger than any animal.
+- **st-0271/A2** (2×): The big animal knew his voice was better.
+- **st-0271/A2** (2×): They went on a long trip through open land.
+- **st-0271/A2** (2×): They came to a public area.
+- **st-0271/A2** (2×): A large piece of art stood in the center.
+- **st-0271/A2** (2×): The art showed a man holding a big animal down.
+- **st-0271/A2** (2×): The man pointed at the art.
+- **st-0271/A2** (2×): He told the big animal humans had more power.
+- **st-0271/A2** (2×): The big animal looked at the pieces of art.
+- **st-0271/A2** (2×): He knew human hands made the art.
+- **st-0271/A2** (2×): That explained the result.
+- **st-0271/A2** (2×): If big animals could build art pieces, things would change.
+- **st-0271/A2** (2×): Then the art work would show something else.
+- **st-0271/A2** (2×): It would show a big animal holding a man down.
+- **st-0271/A2** (2×): The man listened to the good response.
+- **st-0271/A2** (2×): The big animal explained art depends on who holds the item.
+- **st-0271/A2** (2×): Any person who tells the story wins.
+- **st-0271/A2** (2×): People must remember one view never shows the whole fact.

@@ -1,0 +1,1603 @@
+{
+  "id": "st-0177",
+  "title": "Sleeping Beauty (Brier Rose)",
+  "genre": "classic",
+  "summary": "A cursed princess falls asleep, and a mysterious visitor may break the enchantment.",
+  "coverScene": "A beautiful princess rests peacefully in a grand castle room while green plants grow around her bed.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A man lives in a big house.",
+              "audioStart": 0.106,
+              "audioEnd": 1.883
+            },
+            {
+              "text": "A woman lives there too.",
+              "audioStart": 2.847,
+              "audioEnd": 4.319
+            },
+            {
+              "text": "They have a little child.",
+              "audioStart": 5.278,
+              "audioEnd": 6.583
+            },
+            {
+              "text": "They make a big party.",
+              "audioStart": 7.542,
+              "audioEnd": 8.889
+            },
+            {
+              "text": "Many old women come to the house.",
+              "audioStart": 9.847,
+              "audioEnd": 11.861
+            },
+            {
+              "text": "They give good things to her.",
+              "audioStart": 12.819,
+              "audioEnd": 14.306
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One old woman is not there.",
+              "audioStart": 15.264,
+              "audioEnd": 17.042
+            },
+            {
+              "text": "She is very bad.",
+              "audioStart": 18.0,
+              "audioEnd": 19.194
+            },
+            {
+              "text": "She says the child die by a point.",
+              "audioStart": 20.153,
+              "audioEnd": 22.25
+            },
+            {
+              "text": "Another old woman change the rule.",
+              "audioStart": 23.208,
+              "audioEnd": 25.181
+            },
+            {
+              "text": "The child only rest now.",
+              "audioStart": 26.139,
+              "audioEnd": 27.792
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man put away all bad points.",
+              "audioStart": 28.75,
+              "audioEnd": 30.944
+            },
+            {
+              "text": "The girl grows up every day.",
+              "audioStart": 31.903,
+              "audioEnd": 33.556
+            },
+            {
+              "text": "She walks in the house.",
+              "audioStart": 34.514,
+              "audioEnd": 35.903
+            },
+            {
+              "text": "She finds a small room.",
+              "audioStart": 36.861,
+              "audioEnd": 38.375
+            },
+            {
+              "text": "An old person work there.",
+              "audioStart": 39.333,
+              "audioEnd": 40.917
+            },
+            {
+              "text": "The girl looks at the point.",
+              "audioStart": 41.875,
+              "audioEnd": 43.431
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She fall into a long rest.",
+              "audioStart": 44.389,
+              "audioEnd": 46.181
+            },
+            {
+              "text": "Everyone in the house rest too.",
+              "audioStart": 47.139,
+              "audioEnd": 48.972
+            },
+            {
+              "text": "Many things stop moving.",
+              "audioStart": 49.931,
+              "audioEnd": 51.486
+            },
+            {
+              "text": "Plants grow around the house.",
+              "audioStart": 52.444,
+              "audioEnd": 54.139
+            },
+            {
+              "text": "They are strong and dark.",
+              "audioStart": 55.097,
+              "audioEnd": 56.514
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many years pass by.",
+              "audioStart": 57.472,
+              "audioEnd": 58.889
+            },
+            {
+              "text": "Men try to visit the house.",
+              "audioStart": 59.847,
+              "audioEnd": 61.569
+            },
+            {
+              "text": "The plants are too strong.",
+              "audioStart": 62.528,
+              "audioEnd": 64.056
+            },
+            {
+              "text": "A young man come to the area.",
+              "audioStart": 65.014,
+              "audioEnd": 66.778
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The plants open up.",
+              "audioStart": 67.736,
+              "audioEnd": 68.931
+            },
+            {
+              "text": "He walks into the rooms.",
+              "audioStart": 69.889,
+              "audioEnd": 71.403
+            },
+            {
+              "text": "He finds the girl on her bed.",
+              "audioStart": 72.361,
+              "audioEnd": 74.111
+            },
+            {
+              "text": "He gives her a love sign.",
+              "audioStart": 75.069,
+              "audioEnd": 76.569
+            },
+            {
+              "text": "She opens her eyes.",
+              "audioStart": 77.528,
+              "audioEnd": 78.944
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Everyone else open their eyes too.",
+              "audioStart": 79.903,
+              "audioEnd": 81.931
+            },
+            {
+              "text": "They feel very glad now.",
+              "audioStart": 82.889,
+              "audioEnd": 84.417
+            },
+            {
+              "text": "The young man and the girl live together.",
+              "audioStart": 85.375,
+              "audioEnd": 87.542
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0177.mp3",
+      "wordTimings": "audio/a1/st-0177.timings.json",
+      "quiz": [
+        {
+          "q": "What do the wise women give to the baby?",
+          "options": [
+            "Good gifts",
+            "A sharp point",
+            "Green plants"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happens when the girl touches the sharp point?",
+          "options": [
+            "She leaves the castle",
+            "She falls into a deep sleep",
+            "She plays a game"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who wakes up the sleeping girl?",
+          "options": [
+            "An old person",
+            "A queen",
+            "A young prince"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once, a mother and father lived in a big house.",
+              "audioStart": 0.106,
+              "audioEnd": 3.022
+            },
+            {
+              "text": "They had a little baby girl.",
+              "audioStart": 3.986,
+              "audioEnd": 5.514
+            },
+            {
+              "text": "They made a great party for the child.",
+              "audioStart": 6.472,
+              "audioEnd": 8.514
+            },
+            {
+              "text": "Several people came to give things to the family.",
+              "audioStart": 9.472,
+              "audioEnd": 12.125
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "However, one old woman was not welcome.",
+              "audioStart": 13.083,
+              "audioEnd": 15.694
+            },
+            {
+              "text": "She felt very bad about this.",
+              "audioStart": 16.653,
+              "audioEnd": 18.528
+            },
+            {
+              "text": "She came into the room.",
+              "audioStart": 19.486,
+              "audioEnd": 20.889
+            },
+            {
+              "text": "She said that the young girl would die from a bad point.",
+              "audioStart": 21.847,
+              "audioEnd": 24.722
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Another person changed this rule.",
+              "audioStart": 25.681,
+              "audioEnd": 27.736
+            },
+            {
+              "text": "She said the child would only sleep instead of die.",
+              "audioStart": 28.694,
+              "audioEnd": 31.486
+            },
+            {
+              "text": "The father tried to keep his daughter out of trouble.",
+              "audioStart": 32.444,
+              "audioEnd": 35.083
+            },
+            {
+              "text": "He broke all bad items in the country.",
+              "audioStart": 36.042,
+              "audioEnd": 38.361
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the girl grew up, she walked around the house.",
+              "audioStart": 39.319,
+              "audioEnd": 42.181
+            },
+            {
+              "text": "She found a small room up high.",
+              "audioStart": 43.139,
+              "audioEnd": 44.889
+            },
+            {
+              "text": "An old person worked there with a bad machine.",
+              "audioStart": 45.847,
+              "audioEnd": 48.347
+            },
+            {
+              "text": "The girl touched it immediately.",
+              "audioStart": 49.306,
+              "audioEnd": 51.153
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She fell down into a deep sleep upon a bed.",
+              "audioStart": 52.111,
+              "audioEnd": 54.667
+            },
+            {
+              "text": "Everyone else in the house fell down too.",
+              "audioStart": 55.625,
+              "audioEnd": 57.944
+            },
+            {
+              "text": "Even the animals stopped moving.",
+              "audioStart": 58.903,
+              "audioEnd": 60.778
+            },
+            {
+              "text": "A large wall of green plants grew around the building.",
+              "audioStart": 61.736,
+              "audioEnd": 64.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many years passed by.",
+              "audioStart": 65.583,
+              "audioEnd": 67.083
+            },
+            {
+              "text": "No one entered the house for a long time.",
+              "audioStart": 68.042,
+              "audioEnd": 70.403
+            },
+            {
+              "text": "Different men tried to visit the area.",
+              "audioStart": 71.361,
+              "audioEnd": 73.472
+            },
+            {
+              "text": "The green plants were too strong for them.",
+              "audioStart": 74.431,
+              "audioEnd": 76.681
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Finally, a young man came to the place.",
+              "audioStart": 77.639,
+              "audioEnd": 80.278
+            },
+            {
+              "text": "He heard the story about the sleeping girl.",
+              "audioStart": 81.236,
+              "audioEnd": 83.458
+            },
+            {
+              "text": "He reached the place, and the plants opened up.",
+              "audioStart": 84.417,
+              "audioEnd": 87.097
+            },
+            {
+              "text": "He walked inside the quiet rooms.",
+              "audioStart": 88.056,
+              "audioEnd": 90.111
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He found the beautiful girl resting on her bed.",
+              "audioStart": 91.069,
+              "audioEnd": 93.694
+            },
+            {
+              "text": "He gave her a touch of love.",
+              "audioStart": 94.653,
+              "audioEnd": 96.278
+            },
+            {
+              "text": "She got up from her long sleep.",
+              "audioStart": 97.236,
+              "audioEnd": 99
+            },
+            {
+              "text": "Everyone else in the house got up too.",
+              "audioStart": 99.958,
+              "audioEnd": 102.097
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They were very happy.",
+              "audioStart": 103.056,
+              "audioEnd": 104.333
+            },
+            {
+              "text": "The young man and the young girl lived a nice life together.",
+              "audioStart": 105.292,
+              "audioEnd": 108.458
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0177.mp3",
+      "wordTimings": "audio/a2/st-0177.timings.json",
+      "quiz": [
+        {
+          "q": "Why was the old woman angry at the beginning?",
+          "options": [
+            "She was not invited to the party.",
+            "She did not like the king.",
+            "She lost her sharp tool."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the princess when she touched the sharp point?",
+          "options": [
+            "She died immediately.",
+            "She fell into a deep sleep.",
+            "She ran out of the castle."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the princess finally wake up?",
+          "options": [
+            "The king kissed her.",
+            "The old woman said sorry.",
+            "A young prince gave her a kiss."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a king and his family lived in a very big house.",
+              "audioStart": 0.1,
+              "audioEnd": 4
+            },
+            {
+              "text": "They had a baby girl and invited many people to a great party.",
+              "audioStart": 4.862,
+              "audioEnd": 8.113
+            },
+            {
+              "text": "Several good women came to give wonderful gifts to the child.",
+              "audioStart": 8.975,
+              "audioEnd": 12.137
+            },
+            {
+              "text": "They brought sweet things and nice items for the young baby.",
+              "audioStart": 13,
+              "audioEnd": 15.787
+            },
+            {
+              "text": "The king wanted to make everyone feel very welcome and glad.",
+              "audioStart": 16.65,
+              "audioEnd": 19.712
+            },
+            {
+              "text": "The big rooms were full of music, food, and smiling talk.",
+              "audioStart": 20.575,
+              "audioEnd": 24.062
+            },
+            {
+              "text": "Everyone talked about how lovely the little girl was.",
+              "audioStart": 24.925,
+              "audioEnd": 27.625
+            },
+            {
+              "text": "The party continued for many hours into the evening.",
+              "audioStart": 28.488,
+              "audioEnd": 31.125
+            },
+            {
+              "text": "People danced and sang songs to celebrate the happy birth.",
+              "audioStart": 31.988,
+              "audioEnd": 34.975
+            },
+            {
+              "text": "The mother and father were proud of their child.",
+              "audioStart": 35.837,
+              "audioEnd": 38.038
+            },
+            {
+              "text": "They gave food and drink to every single guest.",
+              "audioStart": 38.9,
+              "audioEnd": 41.438
+            },
+            {
+              "text": "The event went on until the night was dark.",
+              "audioStart": 42.3,
+              "audioEnd": 44.487
+            },
+            {
+              "text": "Every person in the house had a wonderful time.",
+              "audioStart": 45.35,
+              "audioEnd": 47.763
+            },
+            {
+              "text": "They wanted the good life to continue without end.",
+              "audioStart": 48.625,
+              "audioEnd": 51.062
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "However, one old woman was not invited.",
+              "audioStart": 51.925,
+              "audioEnd": 54.3
+            },
+            {
+              "text": "This made her very angry.",
+              "audioStart": 55.163,
+              "audioEnd": 56.587
+            },
+            {
+              "text": "She came into the room and told everyone a bad fact.",
+              "audioStart": 57.45,
+              "audioEnd": 60.2
+            },
+            {
+              "text": "She said that the young girl would stop living upon a point.",
+              "audioStart": 61.062,
+              "audioEnd": 63.888
+            },
+            {
+              "text": "One good woman changed this rule so that the child would rest.",
+              "audioStart": 64.75,
+              "audioEnd": 67.925
+            },
+            {
+              "text": "The child would rest instead of passing away during those years.",
+              "audioStart": 68.787,
+              "audioEnd": 72.062
+            },
+            {
+              "text": "The king tried to keep his daughter safe by burning items.",
+              "audioStart": 72.925,
+              "audioEnd": 75.838
+            },
+            {
+              "text": "He burned every sharp tool in the country.",
+              "audioStart": 76.7,
+              "audioEnd": 78.812
+            },
+            {
+              "text": "When the girl grew, she walked around the house.",
+              "audioStart": 79.675,
+              "audioEnd": 82.188
+            },
+            {
+              "text": "She found a small room up top.",
+              "audioStart": 83.05,
+              "audioEnd": 84.6
+            },
+            {
+              "text": "An old person was working there with a sharp tool.",
+              "audioStart": 85.463,
+              "audioEnd": 87.95
+            },
+            {
+              "text": "The girl touched the sharp point immediately.",
+              "audioStart": 88.812,
+              "audioEnd": 91.05
+            },
+            {
+              "text": "As soon as she touched it, she fell down.",
+              "audioStart": 91.912,
+              "audioEnd": 94.213
+            },
+            {
+              "text": "She fell into a deep rest upon a bed.",
+              "audioStart": 95.075,
+              "audioEnd": 97.15
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Everyone else in the house also fell down during that same moment.",
+              "audioStart": 98.013,
+              "audioEnd": 101.3
+            },
+            {
+              "text": "Even the horses stopped moving.",
+              "audioStart": 102.162,
+              "audioEnd": 103.812
+            },
+            {
+              "text": "The birds stopped moving too.",
+              "audioStart": 104.675,
+              "audioEnd": 106.2
+            },
+            {
+              "text": "A large wall of green plants grew around the building.",
+              "audioStart": 107.062,
+              "audioEnd": 109.662
+            },
+            {
+              "text": "Many years passed by.",
+              "audioStart": 110.525,
+              "audioEnd": 111.875
+            },
+            {
+              "text": "A long time went without anyone entering the house.",
+              "audioStart": 112.737,
+              "audioEnd": 115.338
+            },
+            {
+              "text": "Different men tried to visit the place.",
+              "audioStart": 116.2,
+              "audioEnd": 118.2
+            },
+            {
+              "text": "The green plants were too strong for them.",
+              "audioStart": 119.062,
+              "audioEnd": 121.088
+            },
+            {
+              "text": "Finally, a young man came to the area.",
+              "audioStart": 121.95,
+              "audioEnd": 124.225
+            },
+            {
+              "text": "He came after hearing the story about the resting beauty.",
+              "audioStart": 125.088,
+              "audioEnd": 127.725
+            },
+            {
+              "text": "When he reached the place, the plants opened up.",
+              "audioStart": 128.588,
+              "audioEnd": 131.1
+            },
+            {
+              "text": "The plants opened to let him through.",
+              "audioStart": 131.963,
+              "audioEnd": 133.662
+            },
+            {
+              "text": "He walked inside the quiet rooms.",
+              "audioStart": 134.525,
+              "audioEnd": 136.375
+            },
+            {
+              "text": "He found the beautiful girl resting on her bed.",
+              "audioStart": 137.238,
+              "audioEnd": 139.6
+            },
+            {
+              "text": "He gave her a kiss.",
+              "audioStart": 140.463,
+              "audioEnd": 141.675
+            },
+            {
+              "text": "The kiss woke her up from her long rest.",
+              "audioStart": 142.537,
+              "audioEnd": 144.613
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Everyone else in the house woke up too.",
+              "audioStart": 145.475,
+              "audioEnd": 147.425
+            },
+            {
+              "text": "They were very happy.",
+              "audioStart": 148.287,
+              "audioEnd": 149.438
+            },
+            {
+              "text": "The man and the girl lived a wonderful life together.",
+              "audioStart": 150.3,
+              "audioEnd": 152.912
+            },
+            {
+              "text": "They lived together from that day on.",
+              "audioStart": 153.775,
+              "audioEnd": 155.637
+            },
+            {
+              "text": "The sun was bright upon the big house.",
+              "audioStart": 156.5,
+              "audioEnd": 158.488
+            },
+            {
+              "text": "The sun was bright upon the green land around it.",
+              "audioStart": 159.35,
+              "audioEnd": 161.787
+            },
+            {
+              "text": "People came from far and wide to see the happy family.",
+              "audioStart": 162.65,
+              "audioEnd": 165.375
+            },
+            {
+              "text": "They brought flowers and gifts to show their love.",
+              "audioStart": 166.238,
+              "audioEnd": 168.65
+            },
+            {
+              "text": "They brought support for the king and his wife.",
+              "audioStart": 169.512,
+              "audioEnd": 171.688
+            },
+            {
+              "text": "The king and his wife thanked everyone for kind words.",
+              "audioStart": 172.55,
+              "audioEnd": 175.312
+            },
+            {
+              "text": "Peace filled the whole country for many years.",
+              "audioStart": 176.175,
+              "audioEnd": 178.438
+            },
+            {
+              "text": "Every person in the land remembered the story.",
+              "audioStart": 179.3,
+              "audioEnd": 181.537
+            },
+            {
+              "text": "They remembered the story of the resting beauty.",
+              "audioStart": 182.4,
+              "audioEnd": 184.55
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0177.mp3",
+      "wordTimings": "audio/b1/st-0177.timings.json",
+      "quiz": [
+        {
+          "q": "Why was the old woman angry at the beginning of the story?",
+          "options": [
+            "She was not invited to the party.",
+            "She lost her sharp tool in the castle.",
+            "The king burned all the green plants."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the princess when she touched the sharp tool?",
+          "options": [
+            "She woke up the king and queen.",
+            "She fell into a deep sleep.",
+            "She left the castle immediately."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the prince wake the sleeping princess?",
+          "options": [
+            "He gave her a kiss.",
+            "He cut the green plants.",
+            "He called her name."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a king and a mother lived in a large castle.",
+              "audioStart": 0.1,
+              "audioEnd": 3.688
+            },
+            {
+              "text": "They had a baby girl and invited many people to a great party.",
+              "audioStart": 4.55,
+              "audioEnd": 7.8
+            },
+            {
+              "text": "Several wise women came to give wonderful gifts to the child.",
+              "audioStart": 8.662,
+              "audioEnd": 11.963
+            },
+            {
+              "text": "However, one old woman was not invited, which made her very angry.",
+              "audioStart": 12.825,
+              "audioEnd": 16.75
+            },
+            {
+              "text": "She came into the room and said that the young girl would stop breathing when she touched a sharp point.",
+              "audioStart": 17.613,
+              "audioEnd": 22.137
+            },
+            {
+              "text": "Another wise woman changed this rule so that the child would only rest instead of meeting death.",
+              "audioStart": 23,
+              "audioEnd": 27.975
+            },
+            {
+              "text": "The king tried to keep his daughter safe by burning all such items in the country.",
+              "audioStart": 28.837,
+              "audioEnd": 32.837
+            },
+            {
+              "text": "When the girl grew up, she walked around the castle and found a small room high up.",
+              "audioStart": 33.7,
+              "audioEnd": 37.85
+            },
+            {
+              "text": "An old person was working there with a sharp tool, which the young lady touched immediately.",
+              "audioStart": 38.712,
+              "audioEnd": 43.35
+            },
+            {
+              "text": "As soon as she touched it, she fell down into a deep sleep upon a bed.",
+              "audioStart": 44.212,
+              "audioEnd": 47.875
+            },
+            {
+              "text": "Everyone else in the house also fell asleep during that same moment.",
+              "audioStart": 48.737,
+              "audioEnd": 52.2
+            },
+            {
+              "text": "Even the horses and birds stopped moving while a large wall of green plants grew around the building.",
+              "audioStart": 53.062,
+              "audioEnd": 57.875
+            },
+            {
+              "text": "Many years passed by, and a long time went without anyone entering the castle.",
+              "audioStart": 58.737,
+              "audioEnd": 63.2
+            },
+            {
+              "text": "Different men tried to visit, but the green plants were too strong for them.",
+              "audioStart": 64.062,
+              "audioEnd": 67.875
+            },
+            {
+              "text": "Finally, a young man came to the area after hearing the story about the resting beauty.",
+              "audioStart": 68.737,
+              "audioEnd": 73.3
+            },
+            {
+              "text": "When he reached the place, the plants opened up to let him through.",
+              "audioStart": 74.162,
+              "audioEnd": 77.388
+            },
+            {
+              "text": "He walked inside the quiet rooms and found the beautiful girl resting on her bed.",
+              "audioStart": 78.25,
+              "audioEnd": 82.312
+            },
+            {
+              "text": "He gave her a kiss, which woke her up from her long sleep.",
+              "audioStart": 83.175,
+              "audioEnd": 86.175
+            },
+            {
+              "text": "Everyone else in the castle woke up too, and they were very happy.",
+              "audioStart": 87.037,
+              "audioEnd": 90.487
+            },
+            {
+              "text": "The young man and the young lady lived a wonderful life together from that day on.",
+              "audioStart": 91.35,
+              "audioEnd": 95.362
+            },
+            {
+              "text": "The castle was full of light and sound again.",
+              "audioStart": 96.225,
+              "audioEnd": 98.525
+            },
+            {
+              "text": "People came from all over the land to see the happy family.",
+              "audioStart": 99.388,
+              "audioEnd": 102.213
+            },
+            {
+              "text": "Every room was cleaned and painted to celebrate the moment.",
+              "audioStart": 103.075,
+              "audioEnd": 105.95
+            },
+            {
+              "text": "The king looked at his daughter with a big smile.",
+              "audioStart": 106.812,
+              "audioEnd": 109.088
+            },
+            {
+              "text": "She felt wonderful and walked through the garden every single afternoon.",
+              "audioStart": 109.95,
+              "audioEnd": 113.475
+            },
+            {
+              "text": "Birds sang songs high above the green grass and the beautiful flowers.",
+              "audioStart": 114.338,
+              "audioEnd": 118
+            },
+            {
+              "text": "No one ever spoke about the dangerous old woman or the sharp point again.",
+              "audioStart": 118.862,
+              "audioEnd": 122.562
+            },
+            {
+              "text": "Life went on in a very peaceful way for everyone involved.",
+              "audioStart": 123.425,
+              "audioEnd": 126.5
+            },
+            {
+              "text": "Years passed, and the country remained strong and safe under the king.",
+              "audioStart": 127.362,
+              "audioEnd": 131.037
+            },
+            {
+              "text": "The young lady grew even more kind and wise as she aged.",
+              "audioStart": 131.9,
+              "audioEnd": 135.012
+            },
+            {
+              "text": "Many children were born in the area during the following years.",
+              "audioStart": 135.875,
+              "audioEnd": 138.925
+            },
+            {
+              "text": "Everyone remembered the story of the long sleep and the wonderful awakening.",
+              "audioStart": 139.787,
+              "audioEnd": 143.3
+            },
+            {
+              "text": "It became a favorite tale told by parents to their little ones.",
+              "audioStart": 144.162,
+              "audioEnd": 147.438
+            },
+            {
+              "text": "The castle doors remained open to all visitors who wished to enter.",
+              "audioStart": 148.3,
+              "audioEnd": 151.613
+            },
+            {
+              "text": "Music and laughter filled the air throughout the winter and summer months.",
+              "audioStart": 152.475,
+              "audioEnd": 155.825
+            },
+            {
+              "text": "Nothing could ever trouble the peace of that wonderful home.",
+              "audioStart": 156.688,
+              "audioEnd": 159.4
+            },
+            {
+              "text": "The young man and his wife shared a deep love that lasted forever.",
+              "audioStart": 160.262,
+              "audioEnd": 163.637
+            },
+            {
+              "text": "They walked together along the river and through the forest every morning.",
+              "audioStart": 164.5,
+              "audioEnd": 167.912
+            },
+            {
+              "text": "The sun shone brightly upon them day after day.",
+              "audioStart": 168.775,
+              "audioEnd": 171.3
+            },
+            {
+              "text": "Such a happy ending was discussed by people across the whole world.",
+              "audioStart": 172.162,
+              "audioEnd": 175.512
+            },
+            {
+              "text": "Even today, the tale is remembered with a smile by everyone who hears it.",
+              "audioStart": 176.375,
+              "audioEnd": 180.438
+            },
+            {
+              "text": "The castle stands tall and proud against the blue sky.",
+              "audioStart": 181.3,
+              "audioEnd": 184.075
+            },
+            {
+              "text": "Visitors can still see the beautiful rooms where the long sleep happened.",
+              "audioStart": 184.938,
+              "audioEnd": 188.275
+            },
+            {
+              "text": "Guides tell the story to groups of curious people every single week.",
+              "audioStart": 189.137,
+              "audioEnd": 192.65
+            },
+            {
+              "text": "The memory of the event lives on in books and songs.",
+              "audioStart": 193.512,
+              "audioEnd": 196.162
+            },
+            {
+              "text": "Everything about the place feels magical and full of history.",
+              "audioStart": 197.025,
+              "audioEnd": 200.162
+            },
+            {
+              "text": "Children look at the walls and imagine the green plants growing around them.",
+              "audioStart": 201.025,
+              "audioEnd": 204.6
+            },
+            {
+              "text": "They ask questions about the brave man who opened the path.",
+              "audioStart": 205.463,
+              "audioEnd": 208.425
+            },
+            {
+              "text": "The answers are given with joy by the local people.",
+              "audioStart": 209.287,
+              "audioEnd": 211.8
+            },
+            {
+              "text": "No one can forget how the young lady was saved by a simple kiss.",
+              "audioStart": 212.662,
+              "audioEnd": 216.075
+            },
+            {
+              "text": "The magic of that day remains a part of the country forever.",
+              "audioStart": 216.938,
+              "audioEnd": 219.95
+            },
+            {
+              "text": "Life in the castle continued without any further trouble or fear.",
+              "audioStart": 220.812,
+              "audioEnd": 224.325
+            },
+            {
+              "text": "The king and his family enjoyed every single moment of their time together.",
+              "audioStart": 225.188,
+              "audioEnd": 228.95
+            },
+            {
+              "text": "Friends from distant towns visited often to share meals and stories.",
+              "audioStart": 229.812,
+              "audioEnd": 233.363
+            },
+            {
+              "text": "The food was always good and the wine was very sweet.",
+              "audioStart": 234.225,
+              "audioEnd": 237.113
+            },
+            {
+              "text": "People danced in the large hall until late into the night.",
+              "audioStart": 237.975,
+              "audioEnd": 240.887
+            },
+            {
+              "text": "Happiness was found in every corner of the big building.",
+              "audioStart": 241.75,
+              "audioEnd": 244.463
+            },
+            {
+              "text": "The story of the sleeping beauty became a symbol of hope for all.",
+              "audioStart": 245.325,
+              "audioEnd": 248.45
+            },
+            {
+              "text": "Even when bad things happened in the world, this tale brought comfort.",
+              "audioStart": 249.312,
+              "audioEnd": 252.775
+            },
+            {
+              "text": "People believed that true love could overcome any difficult problem.",
+              "audioStart": 253.637,
+              "audioEnd": 258.138
+            },
+            {
+              "text": "The young lady and her husband set a fine example for everyone.",
+              "audioStart": 259,
+              "audioEnd": 262.213
+            },
+            {
+              "text": "Their relationship was built on trust and deep respect.",
+              "audioStart": 263.075,
+              "audioEnd": 266.063
+            },
+            {
+              "text": "They helped each other through every challenge that came their way.",
+              "audioStart": 266.925,
+              "audioEnd": 269.638
+            },
+            {
+              "text": "The country grew rich and peaceful under their careful eyes.",
+              "audioStart": 270.5,
+              "audioEnd": 273.563
+            },
+            {
+              "text": "No war or major disaster ever disturbed their quiet land.",
+              "audioStart": 274.425,
+              "audioEnd": 277.563
+            },
+            {
+              "text": "Schools were built so that children could learn and grow smart.",
+              "audioStart": 278.425,
+              "audioEnd": 281.363
+            },
+            {
+              "text": "Markets were busy with people buying and selling fresh food.",
+              "audioStart": 282.226,
+              "audioEnd": 285.3
+            },
+            {
+              "text": "The streets were clean and safe for all citizens to walk upon.",
+              "audioStart": 286.163,
+              "audioEnd": 289.438
+            },
+            {
+              "text": "Everyone had enough to eat and a good place to live.",
+              "audioStart": 290.3,
+              "audioEnd": 292.888
+            },
+            {
+              "text": "The king retired from his heavy duties and rested in the garden.",
+              "audioStart": 293.75,
+              "audioEnd": 296.913
+            },
+            {
+              "text": "He was proud of the young couple and the work they had done.",
+              "audioStart": 297.776,
+              "audioEnd": 300.45
+            },
+            {
+              "text": "The mother also spent her days reading books and listening to music.",
+              "audioStart": 301.313,
+              "audioEnd": 304.788
+            },
+            {
+              "text": "The entire nation lived in harmony and peace for many decades.",
+              "audioStart": 305.651,
+              "audioEnd": 309.075
+            },
+            {
+              "text": "Such a wonderful outcome was more than anyone could have expected.",
+              "audioStart": 309.938,
+              "audioEnd": 313.288
+            },
+            {
+              "text": "The magic that had caused so much trouble finally brought great joy.",
+              "audioStart": 314.151,
+              "audioEnd": 317.788
+            },
+            {
+              "text": "Every person in the land knew the tale by heart.",
+              "audioStart": 318.651,
+              "audioEnd": 321.038
+            },
+            {
+              "text": "It was passed down from generation to generation without change.",
+              "audioStart": 321.901,
+              "audioEnd": 325.288
+            },
+            {
+              "text": "The castle remained a famous landmark for hundreds of years.",
+              "audioStart": 326.151,
+              "audioEnd": 329.288
+            },
+            {
+              "text": "People traveled from far away just to look at its tall towers.",
+              "audioStart": 330.151,
+              "audioEnd": 333.413
+            },
+            {
+              "text": "They took pictures and walked through the beautiful gardens.",
+              "audioStart": 334.276,
+              "audioEnd": 336.925
+            },
+            {
+              "text": "The spirit of the place touched the hearts of all visitors.",
+              "audioStart": 337.788,
+              "audioEnd": 340.488
+            },
+            {
+              "text": "Nobody ever felt sad when they heard the story of the castle.",
+              "audioStart": 341.351,
+              "audioEnd": 344.388
+            },
+            {
+              "text": "It always brought a warm feeling to the listener's mind.",
+              "audioStart": 345.25,
+              "audioEnd": 347.825
+            },
+            {
+              "text": "And so the great adventure came to its proper and happy end.",
+              "audioStart": 348.688,
+              "audioEnd": 351.675
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0177.mp3",
+      "wordTimings": "audio/b2/st-0177.timings.json",
+      "quiz": [
+        {
+          "q": "What happened to the princess after she touched the sharp point?",
+          "options": [
+            "She fell into a deep sleep for a long time.",
+            "She left the castle and never returned.",
+            "she became a wise woman."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why was the old woman angry at the beginning of the story?",
+          "options": [
+            "She was not invited to the party.",
+            "She lost her favorite book.",
+            "The king took her house."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who finally woke up the princess at the end?",
+          "options": [
+            "A young prince",
+            "An old farmer",
+            "Her mother the queen"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, within the stone walls of a grand and sprawling castle, a king and a mother celebrated the birth of a long awaited daughter.",
+              "audioStart": 0.1,
+              "audioEnd": 7.725
+            },
+            {
+              "text": "Seeking to honor the child, they arranged a magnificent feast and invited the realm's most notable figures, including twelve wise women endowed with extraordinary gifts.",
+              "audioStart": 8.588,
+              "audioEnd": 17.825
+            },
+            {
+              "text": "Each wise woman bestowed upon the infant a singular virtue, weaving a tapestry of beauty, grace, and intellect that promised a charmed existence.",
+              "audioStart": 18.688,
+              "audioEnd": 26.962
+            },
+            {
+              "text": "The atmosphere was thick with joyous anticipation until the heavy oak doors groaned open to reveal an uninvited guest.",
+              "audioStart": 27.825,
+              "audioEnd": 34.138
+            },
+            {
+              "text": "She was an elderly woman whose omission had kindled a bitter resentment, and she stepped into the hall with a dark cloud of malice hanging over her.",
+              "audioStart": 35,
+              "audioEnd": 42.163
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Without offering a single pleasantry, the uninvited woman pronounced a terrible curse that overshadowed all the preceding blessings.",
+              "audioStart": 43.025,
+              "audioEnd": 50
+            },
+            {
+              "text": "She declared that before the princess reached her sixteenth year, she would brush against a sharp point and immediately cease breathing.",
+              "audioStart": 50.862,
+              "audioEnd": 57.612
+            },
+            {
+              "text": "The assembled guests gasped in horror, their bright laughter instantly silenced by the heavy shadow of impending doom.",
+              "audioStart": 58.475,
+              "audioEnd": 64.625
+            },
+            {
+              "text": "Fortunately, one wise woman had not yet bestowed her gift, and she stepped forward to soften the harsh decree.",
+              "audioStart": 65.487,
+              "audioEnd": 71.562
+            },
+            {
+              "text": "Though she lacked the power to completely undo the malicious spell, she altered its ultimate consequence so that the princess would merely fall into a profound slumber rather than perish.",
+              "audioStart": 72.425,
+              "audioEnd": 81.675
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Determined to thwart the prophecy, the frantic king issued an immediate decree ordering the destruction of every sharp instrument throughout the entire realm.",
+              "audioStart": 82.537,
+              "audioEnd": 90.425
+            },
+            {
+              "text": "Every spindle, needle, and pointed tool was gathered from the cottages and palaces alike, reduced to ashes in roaring courtyard fires.",
+              "audioStart": 91.287,
+              "audioEnd": 99.225
+            },
+            {
+              "text": "Meanwhile, the young princess blossomed into a remarkably kind and intelligent maiden, entirely unaware of the dark fate that shadowed her steps.",
+              "audioStart": 100.088,
+              "audioEnd": 108.05
+            },
+            {
+              "text": "On the very day she turned sixteen, the king and mother happened to be away, leaving the curious girl to explore the castle corridors alone.",
+              "audioStart": 108.912,
+              "audioEnd": 116.388
+            },
+            {
+              "text": "She wandered through unfamiliar wings, her fingers trailing along ancient stone walls until she discovered a narrow, winding staircase leading up into a forgotten tower.",
+              "audioStart": 117.25,
+              "audioEnd": 126.275
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Reaching the top, she found a small wooden door with a rusty key turning sluggishly in the lock.",
+              "audioStart": 127.138,
+              "audioEnd": 132.062
+            },
+            {
+              "text": "Pushing it open, she stepped into a dusty chamber where an elderly person sat beside a spinning wheel, working diligently with a sharp metal tool.",
+              "audioStart": 132.925,
+              "audioEnd": 140.8
+            },
+            {
+              "text": "Fascinated by the strange device, the young lady stepped closer and asked what the spinning tool was meant to do.",
+              "audioStart": 141.662,
+              "audioEnd": 147.537
+            },
+            {
+              "text": "Before she could fully comprehend the situation, her hand brushed against the sharp tip.",
+              "audioStart": 148.4,
+              "audioEnd": 152.95
+            },
+            {
+              "text": "At that exact instant, the heavy weight of exhaustion claimed her, and she collapsed onto a bed of roses, falling into a deep and immovable sleep.",
+              "audioStart": 153.812,
+              "audioEnd": 161.812
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "That very second, a profound slumber swept through the entire castle, binding every living creature in its invisible spell.",
+              "audioStart": 162.675,
+              "audioEnd": 169.675
+            },
+            {
+              "text": "The king and mother, having just returned, fell fast asleep in the great hall, while the courtiers drifted off mid-sentence.",
+              "audioStart": 170.537,
+              "audioEnd": 177.287
+            },
+            {
+              "text": "In the stables, the horses slumped against their stalls, and the birds suspended in flight froze against the grey sky.",
+              "audioStart": 178.15,
+              "audioEnd": 184.425
+            },
+            {
+              "text": "A great wall of thick green plants began to sprout around the outer ramparts, rising rapidly until it completely obscured the towers from view.",
+              "audioStart": 185.287,
+              "audioEnd": 192.9
+            },
+            {
+              "text": "Years drifted by in absolute silence, and the once bustling fortress became nothing more than a whispered legend among the local villagers.",
+              "audioStart": 193.762,
+              "audioEnd": 201.287
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Decades passed, and many adventurous travelers attempted to breach the formidable barrier of green branches, but the thorny wall proved impassable.",
+              "audioStart": 202.15,
+              "audioEnd": 210.325
+            },
+            {
+              "text": "Many young men lost their way or were trapped by the thick vines, unable to unlock the secret of the hidden castle.",
+              "audioStart": 211.188,
+              "audioEnd": 217.225
+            },
+            {
+              "text": "Finally, a courageous young man arrived in the region after hearing distant tales of a sleeping beauty resting behind the fortress walls.",
+              "audioStart": 218.088,
+              "audioEnd": 225.238
+            },
+            {
+              "text": "As he approached the perimeter, the century mark of the sleeping curse reached its completion.",
+              "audioStart": 226.1,
+              "audioEnd": 230.8
+            },
+            {
+              "text": "To his astonishment, the thick green plants parted willingly before him, creating a clear pathway into the quiet courtyard.",
+              "audioStart": 231.662,
+              "audioEnd": 238.512
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He stepped across the threshold and walked through the silent halls, observing the motionless guards and the quiet animals frozen in time.",
+              "audioStart": 239.375,
+              "audioEnd": 247.186
+            },
+            {
+              "text": "Reaching the upper tower at last, he pushed open the door to the small room and beheld the princess lying in eternal repose.",
+              "audioStart": 248.049,
+              "audioEnd": 254.599
+            },
+            {
+              "text": "Her beauty took his breath away, and he knelt beside the bed, overcome by a strange and sudden affection.",
+              "audioStart": 255.462,
+              "audioEnd": 260.949
+            },
+            {
+              "text": "He gently pressed his lips to her forehead, breaking the ancient spell with a simple act of devotion.",
+              "audioStart": 261.812,
+              "audioEnd": 266.887
+            },
+            {
+              "text": "The moment his lips touched hers, the princess fluttered her eyelashes, opened her bright eyes, and gazed up at him with a warm smile.",
+              "audioStart": 267.749,
+              "audioEnd": 274.861
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Immediately, the entire castle surged back to life as the lingering enchantment dissolved into the morning air.",
+              "audioStart": 275.724,
+              "audioEnd": 281.549
+            },
+            {
+              "text": "The horses shook their manes in the stables, the courtiers resumed their interrupted conversations, and the birds soared once more across the sky.",
+              "audioStart": 282.411,
+              "audioEnd": 289.974
+            },
+            {
+              "text": "Joy flooded every corridor as the king and mother rushed into the room, embracing their daughter with tears of pure relief.",
+              "audioStart": 290.837,
+              "audioEnd": 297.036
+            },
+            {
+              "text": "Laughter and music echoed through the great hall, banishing the shadows of the past hundred years.",
+              "audioStart": 297.899,
+              "audioEnd": 302.937
+            },
+            {
+              "text": "From that day forward, the young man and the princess shared a deep and enduring love that guided them through every season.",
+              "audioStart": 303.799,
+              "audioEnd": 309.674
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The realm entered a golden era of peace and prosperity under the careful attention of the young couple.",
+              "audioStart": 310.536,
+              "audioEnd": 315.549
+            },
+            {
+              "text": "Schools were established, bustling markets filled the streets with fresh food, and every citizen lived in comfort and safety.",
+              "audioStart": 316.411,
+              "audioEnd": 323.036
+            },
+            {
+              "text": "The king retired to the sunlit gardens, spending his remaining years in quiet contentment surrounded by blooming flowers and singing birds.",
+              "audioStart": 323.899,
+              "audioEnd": 331.486
+            },
+            {
+              "text": "People traveled from distant towns just to witness the legendary castle and hear the story of the great awakening.",
+              "audioStart": 332.349,
+              "audioEnd": 338.012
+            },
+            {
+              "text": "No one ever spoke of the dark curse or the old woman again, for the memory of fear had been entirely replaced by enduring hope.",
+              "audioStart": 338.874,
+              "audioEnd": 345.624
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Generations passed, yet the tale of the sleeping beauty remained a favorite bedtime story whispered by parents to their children.",
+              "audioStart": 346.486,
+              "audioEnd": 352.887
+            },
+            {
+              "text": "The castle stood tall and proud against the blue sky, serving as a timeless symbol that true devotion could overcome any hardship.",
+              "audioStart": 353.749,
+              "audioEnd": 360.449
+            },
+            {
+              "text": "Visitors walked through the very rooms where the long sleep had occurred, marveling at the preserved history and the magic of the place.",
+              "audioStart": 361.312,
+              "audioEnd": 367.837
+            },
+            {
+              "text": "The young man and his wife walked hand in hand along the forest paths every morning, their bond growing stronger with each passing year.",
+              "audioStart": 368.699,
+              "audioEnd": 375.937
+            },
+            {
+              "text": "Nothing could ever disturb the profound harmony of their home, and their story lived on in the hearts of everyone who heard it.",
+              "audioStart": 376.799,
+              "audioEnd": 382.549
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0177.mp3",
+      "wordTimings": "audio/c1/st-0177.timings.json",
+      "quiz": [
+        {
+          "q": "Why was the old woman able to place a curse on the princess?",
+          "options": [
+            "She was accidentally left off the guest list for the celebration.",
+            "She wanted to steal the valuable gifts given by the wise women.",
+            "She was angry that the king refused to pay her taxes."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the final wise woman do to modify the original curse?",
+          "options": [
+            "She made the princess sleep for a hundred years instead of dying.",
+            "She changed the consequence from death to a deep slumber.",
+            "She delayed the effect of the curse until the princess turned twenty."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How was the sleeping spell finally broken after many decades?",
+          "options": [
+            "A brave traveler used a magical sword to cut down the green plants.",
+            "A young man kissed the princess after finding her in the tower.",
+            "The king discovered a hidden antidote in the castle library."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

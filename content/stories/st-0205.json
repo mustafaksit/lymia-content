@@ -1,0 +1,1362 @@
+{
+  "id": "st-0205",
+  "title": "The Firebird",
+  "genre": "classic",
+  "summary": "A mysterious thief steals magical food from a tree every single night.",
+  "coverScene": "A young prince stands in a magical forest at night, looking at a bright bird made of fire.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A man lives in a big house.",
+              "audioStart": 0.106,
+              "audioEnd": 1.883
+            },
+            {
+              "text": "He has three children.",
+              "audioStart": 2.847,
+              "audioEnd": 4.139
+            },
+            {
+              "text": "He has a great area.",
+              "audioStart": 5.097,
+              "audioEnd": 6.444
+            },
+            {
+              "text": "A tree grows food.",
+              "audioStart": 7.403,
+              "audioEnd": 8.694
+            },
+            {
+              "text": "The food has a color.",
+              "audioStart": 9.653,
+              "audioEnd": 11.014
+            },
+            {
+              "text": "The color is like the day.",
+              "audioStart": 11.972,
+              "audioEnd": 13.458
+            },
+            {
+              "text": "Someone takes the food every night.",
+              "audioStart": 14.417,
+              "audioEnd": 16.5
+            },
+            {
+              "text": "The man asks his children for help.",
+              "audioStart": 17.458,
+              "audioEnd": 19.542
+            },
+            {
+              "text": "The big children try first.",
+              "audioStart": 20.5,
+              "audioEnd": 22.278
+            },
+            {
+              "text": "They fall down every night.",
+              "audioStart": 23.236,
+              "audioEnd": 24.819
+            },
+            {
+              "text": "They stay down for a long time.",
+              "audioStart": 25.778,
+              "audioEnd": 27.681
+            },
+            {
+              "text": "Then Prens goes into the area.",
+              "audioStart": 28.639,
+              "audioEnd": 30.458
+            },
+            {
+              "text": "He looks at the tree.",
+              "audioStart": 31.417,
+              "audioEnd": 32.667
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A light thing appears at night.",
+              "audioStart": 33.625,
+              "audioEnd": 35.375
+            },
+            {
+              "text": "It is a small animal with a light.",
+              "audioStart": 36.333,
+              "audioEnd": 38.25
+            },
+            {
+              "text": "The light has a color.",
+              "audioStart": 39.208,
+              "audioEnd": 40.569
+            },
+            {
+              "text": "The color is like red.",
+              "audioStart": 41.528,
+              "audioEnd": 42.944
+            },
+            {
+              "text": "Prens tries to take it.",
+              "audioStart": 43.903,
+              "audioEnd": 45.417
+            },
+            {
+              "text": "He only keeps one little part.",
+              "audioStart": 46.375,
+              "audioEnd": 48.264
+            },
+            {
+              "text": "He keeps one hand part.",
+              "audioStart": 49.222,
+              "audioEnd": 50.819
+            },
+            {
+              "text": "The man is very glad.",
+              "audioStart": 51.778,
+              "audioEnd": 53.278
+            },
+            {
+              "text": "He wants the whole animal.",
+              "audioStart": 54.236,
+              "audioEnd": 55.681
+            },
+            {
+              "text": "Prens starts a long way.",
+              "audioStart": 56.639,
+              "audioEnd": 58.181
+            },
+            {
+              "text": "He meets another little animal.",
+              "audioStart": 59.139,
+              "audioEnd": 60.917
+            },
+            {
+              "text": "The animal helps him.",
+              "audioStart": 61.875,
+              "audioEnd": 63.236
+            },
+            {
+              "text": "Prens gets to the place.",
+              "audioStart": 64.194,
+              "audioEnd": 65.778
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He follows every rule.",
+              "audioStart": 66.736,
+              "audioEnd": 68.25
+            },
+            {
+              "text": "He does every job.",
+              "audioStart": 69.208,
+              "audioEnd": 70.458
+            },
+            {
+              "text": "He wins every day.",
+              "audioStart": 71.417,
+              "audioEnd": 72.75
+            },
+            {
+              "text": "He brings the animal home.",
+              "audioStart": 73.708,
+              "audioEnd": 75.278
+            },
+            {
+              "text": "He finds his good future.",
+              "audioStart": 76.236,
+              "audioEnd": 77.875
+            },
+            {
+              "text": "The man is good with Prens.",
+              "audioStart": 78.833,
+              "audioEnd": 80.556
+            },
+            {
+              "text": "The area is now good.",
+              "audioStart": 81.514,
+              "audioEnd": 83.056
+            },
+            {
+              "text": "Everyone lives in very good peace.",
+              "audioStart": 84.014,
+              "audioEnd": 86.208
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0205.mp3",
+      "wordTimings": "audio/a1/st-0205.timings.json",
+      "quiz": [
+        {
+          "q": "What grows in the king's garden?",
+          "options": [
+            "Golden apples",
+            "Red flowers",
+            "Green trees"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does Prens keep from the bird?",
+          "options": [
+            "A foot",
+            "A shining feather",
+            "A wing"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who helps Prens on his journey?",
+          "options": [
+            "His older brother",
+            "The king",
+            "A strange animal"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a man lived in a great house.",
+              "audioStart": 0.106,
+              "audioEnd": 3.092
+            },
+            {
+              "text": "The man had three sons.",
+              "audioStart": 4.056,
+              "audioEnd": 5.708
+            },
+            {
+              "text": "The man owned a large garden.",
+              "audioStart": 6.667,
+              "audioEnd": 8.278
+            },
+            {
+              "text": "A tree grew nice food there.",
+              "audioStart": 9.236,
+              "audioEnd": 10.944
+            },
+            {
+              "text": "However, someone kept taking the good food every night.",
+              "audioStart": 11.903,
+              "audioEnd": 15.361
+            },
+            {
+              "text": "The man asked his sons to find the person.",
+              "audioStart": 16.319,
+              "audioEnd": 18.889
+            },
+            {
+              "text": "The older brothers tried first.",
+              "audioStart": 19.847,
+              "audioEnd": 21.778
+            },
+            {
+              "text": "They grew less able and fell down quickly.",
+              "audioStart": 22.736,
+              "audioEnd": 25.264
+            },
+            {
+              "text": "Then the young son, Prens, went into the garden.",
+              "audioStart": 26.222,
+              "audioEnd": 29.278
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During the night, a light animal appeared near the tree.",
+              "audioStart": 30.236,
+              "audioEnd": 33.333
+            },
+            {
+              "text": "It was a small animal.",
+              "audioStart": 34.292,
+              "audioEnd": 35.653
+            },
+            {
+              "text": "Its back part looked like a red fire.",
+              "audioStart": 36.611,
+              "audioEnd": 38.944
+            },
+            {
+              "text": "Prens tried to catch it.",
+              "audioStart": 39.903,
+              "audioEnd": 41.431
+            },
+            {
+              "text": "He only managed to keep one shining part.",
+              "audioStart": 42.389,
+              "audioEnd": 45.097
+            },
+            {
+              "text": "The man was happy with the part.",
+              "audioStart": 46.056,
+              "audioEnd": 47.847
+            },
+            {
+              "text": "However, he wanted the whole animal.",
+              "audioStart": 48.806,
+              "audioEnd": 51.069
+            },
+            {
+              "text": "Prens started a long trip across the country.",
+              "audioStart": 52.028,
+              "audioEnd": 54.597
+            },
+            {
+              "text": "He met a different animal along the way.",
+              "audioStart": 55.556,
+              "audioEnd": 57.694
+            },
+            {
+              "text": "This animal helped him through many problems.",
+              "audioStart": 58.653,
+              "audioEnd": 61.111
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prens finally reached the place.",
+              "audioStart": 62.069,
+              "audioEnd": 64.083
+            },
+            {
+              "text": "He followed all the rules.",
+              "audioStart": 65.042,
+              "audioEnd": 66.639
+            },
+            {
+              "text": "He completed every task with care.",
+              "audioStart": 67.597,
+              "audioEnd": 69.861
+            },
+            {
+              "text": "In the end, Prens won success.",
+              "audioStart": 70.819,
+              "audioEnd": 73.153
+            },
+            {
+              "text": "He brought the animal home and found his future.",
+              "audioStart": 74.111,
+              "audioEnd": 76.736
+            },
+            {
+              "text": "The man was very happy with his young son.",
+              "audioStart": 77.694,
+              "audioEnd": 80.167
+            },
+            {
+              "text": "The garden was fine once more.",
+              "audioStart": 81.125,
+              "audioEnd": 82.917
+            },
+            {
+              "text": "Everyone lived in close peace.",
+              "audioStart": 83.875,
+              "audioEnd": 85.764
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0205.mp3",
+      "wordTimings": "audio/a2/st-0205.timings.json",
+      "quiz": [
+        {
+          "q": "What grew on the tree in the king's garden?",
+          "options": [
+            "Golden apples",
+            "Red flowers",
+            "Green leaves"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did Prens manage to keep from the bright bird?",
+          "options": [
+            "One shining feather",
+            "The whole bird",
+            "A golden apple"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who helped Prens during his long journey?",
+          "options": [
+            "His older brothers",
+            "A strange animal",
+            "The king"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a king lived in a great house with his three sons.",
+              "audioStart": 0.1,
+              "audioEnd": 3.875
+            },
+            {
+              "text": "The king had a wonderful garden where a tree grew fruit of yellow color.",
+              "audioStart": 4.737,
+              "audioEnd": 8.175
+            },
+            {
+              "text": "However, someone kept taking the fruit every single night.",
+              "audioStart": 9.037,
+              "audioEnd": 12.25
+            },
+            {
+              "text": "The king asked his sons to find the bad person and protect the tree.",
+              "audioStart": 13.113,
+              "audioEnd": 16.725
+            },
+            {
+              "text": "The older brothers tried first, but they grew tired and fell down quickly.",
+              "audioStart": 17.587,
+              "audioEnd": 21.6
+            },
+            {
+              "text": "Then the youngest son, Prens, went into the garden to watch the tree.",
+              "audioStart": 22.462,
+              "audioEnd": 26.225
+            },
+            {
+              "text": "During the middle of the night, a bright animal appeared near the tree.",
+              "audioStart": 27.087,
+              "audioEnd": 30.363
+            },
+            {
+              "text": "It was an amazing bird whose body gave light like a warm sun.",
+              "audioStart": 31.225,
+              "audioEnd": 34.413
+            },
+            {
+              "text": "Prens tried to catch the bird, but he only kept one part of it.",
+              "audioStart": 35.275,
+              "audioEnd": 38.663
+            },
+            {
+              "text": "He held a bright piece from the animal in his hand.",
+              "audioStart": 39.525,
+              "audioEnd": 41.95
+            },
+            {
+              "text": "The king was happy with this item, but he wanted the whole bird.",
+              "audioStart": 42.812,
+              "audioEnd": 45.875
+            },
+            {
+              "text": "Prens started a long trip across the country to find the bird.",
+              "audioStart": 46.737,
+              "audioEnd": 49.75
+            },
+            {
+              "text": "He has walked for many days to reach this place.",
+              "audioStart": 50.612,
+              "audioEnd": 53.237
+            },
+            {
+              "text": "He has seen many things on his long journey across the land.",
+              "audioStart": 54.1,
+              "audioEnd": 57.05
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Along the way, he met a strange animal that helped him through many difficulties.",
+              "audioStart": 57.913,
+              "audioEnd": 61.95
+            },
+            {
+              "text": "With the help of his new friend, Prens finally reached the place where the bird lived.",
+              "audioStart": 62.812,
+              "audioEnd": 66.938
+            },
+            {
+              "text": "He followed all the rules and completed every task with care.",
+              "audioStart": 67.8,
+              "audioEnd": 71.037
+            },
+            {
+              "text": "In the end, Prens won success, brought the bird home, and found his happy future.",
+              "audioStart": 71.9,
+              "audioEnd": 76.55
+            },
+            {
+              "text": "The king was extremely proud of his youngest son.",
+              "audioStart": 77.412,
+              "audioEnd": 79.987
+            },
+            {
+              "text": "The garden was safe once more, and everyone lived in peace.",
+              "audioStart": 80.85,
+              "audioEnd": 84.162
+            },
+            {
+              "text": "If Prens found the bird, the king would be happy.",
+              "audioStart": 85.025,
+              "audioEnd": 87.525
+            },
+            {
+              "text": "The strange animal has stayed by his side through every single moment.",
+              "audioStart": 88.388,
+              "audioEnd": 91.662
+            },
+            {
+              "text": "They have crossed many fields and hills together.",
+              "audioStart": 92.525,
+              "audioEnd": 94.912
+            },
+            {
+              "text": "The king has waited for his son to return home safely.",
+              "audioStart": 95.775,
+              "audioEnd": 98.65
+            },
+            {
+              "text": "If the bird stayed in the garden, peace would remain there always.",
+              "audioStart": 99.513,
+              "audioEnd": 102.612
+            },
+            {
+              "text": "The people of the country have thanked Prens for his great work.",
+              "audioStart": 103.475,
+              "audioEnd": 106.475
+            },
+            {
+              "text": "He has learned much about the world during this time.",
+              "audioStart": 107.338,
+              "audioEnd": 109.725
+            },
+            {
+              "text": "His family has supported him through every single day of the trip.",
+              "audioStart": 110.588,
+              "audioEnd": 113.75
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many people live in this large country.",
+              "audioStart": 114.612,
+              "audioEnd": 116.675
+            },
+            {
+              "text": "They work hard every day to build a good life.",
+              "audioStart": 117.537,
+              "audioEnd": 119.95
+            },
+            {
+              "text": "The king rules the land with care and peace.",
+              "audioStart": 120.812,
+              "audioEnd": 123.062
+            },
+            {
+              "text": "His sons live in the great house near the garden.",
+              "audioStart": 123.925,
+              "audioEnd": 126.237
+            },
+            {
+              "text": "The tree grows yellow fruit in the warm sun.",
+              "audioStart": 127.1,
+              "audioEnd": 129.35
+            },
+            {
+              "text": "Birds fly across the blue sky during the day.",
+              "audioStart": 130.213,
+              "audioEnd": 132.55
+            },
+            {
+              "text": "Animals live in the green fields and hills.",
+              "audioStart": 133.412,
+              "audioEnd": 135.7
+            },
+            {
+              "text": "People walk along the roads to reach different places.",
+              "audioStart": 136.562,
+              "audioEnd": 139.375
+            },
+            {
+              "text": "Children play games near the houses in the afternoon.",
+              "audioStart": 140.238,
+              "audioEnd": 142.8
+            },
+            {
+              "text": "Everyone feels safe when the sun goes down.",
+              "audioStart": 143.662,
+              "audioEnd": 145.963
+            },
+            {
+              "text": "Night comes quickly over the hills and fields.",
+              "audioStart": 146.825,
+              "audioEnd": 149.175
+            },
+            {
+              "text": "The bright moon gives light to the dark world.",
+              "audioStart": 150.037,
+              "audioEnd": 152.2
+            },
+            {
+              "text": "Prens remembers his long journey across the land.",
+              "audioStart": 153.062,
+              "audioEnd": 155.575
+            },
+            {
+              "text": "He knows that his friend helped him win success.",
+              "audioStart": 156.438,
+              "audioEnd": 158.9
+            },
+            {
+              "text": "The story of Prens lives on in the hearts of the people.",
+              "audioStart": 159.762,
+              "audioEnd": 162.275
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0205.mp3",
+      "wordTimings": "audio/b1/st-0205.timings.json",
+      "quiz": [
+        {
+          "q": "What grew on the tree in the king's garden?",
+          "options": [
+            "Golden apples",
+            "Silver leaves",
+            "Fire feathers"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did Prens manage to keep after trying to catch the bright creature?",
+          "options": [
+            "A golden apple",
+            "One shining feather",
+            "A strange animal"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who helped Prens through many difficulties during his journey?",
+          "options": [
+            "His older brothers",
+            "The king",
+            "A strange animal"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a king lived in a great castle with his three sons.",
+              "audioStart": 0.1,
+              "audioEnd": 4.013
+            },
+            {
+              "text": "The king possessed a wonderful garden where a tree grew golden fruit.",
+              "audioStart": 4.875,
+              "audioEnd": 8.262
+            },
+            {
+              "text": "However, someone kept stealing the golden fruit every single night.",
+              "audioStart": 9.125,
+              "audioEnd": 12.65
+            },
+            {
+              "text": "The king asked his sons to find the person who took the fruit and protect the tree.",
+              "audioStart": 13.512,
+              "audioEnd": 17.613
+            },
+            {
+              "text": "The older brothers tried first, but they grew tired and closed their eyes quickly.",
+              "audioStart": 18.475,
+              "audioEnd": 22.812
+            },
+            {
+              "text": "Then the youngest boy, Prens, went into the garden to watch the tree through the night.",
+              "audioStart": 23.675,
+              "audioEnd": 28.05
+            },
+            {
+              "text": "During the middle of the night, a bright creature appeared near the golden tree.",
+              "audioStart": 28.913,
+              "audioEnd": 32.5
+            },
+            {
+              "text": "It was an amazing bird whose body shone like heat and light.",
+              "audioStart": 33.362,
+              "audioEnd": 36.35
+            },
+            {
+              "text": "Prens tried to catch the bird, but he only managed to keep one shining piece of it.",
+              "audioStart": 37.212,
+              "audioEnd": 41.712
+            },
+            {
+              "text": "The king was happy with that piece, but he wanted the whole bird.",
+              "audioStart": 42.575,
+              "audioEnd": 45.763
+            },
+            {
+              "text": "Prens started a long journey across the country to find the bright creature.",
+              "audioStart": 46.625,
+              "audioEnd": 50.25
+            },
+            {
+              "text": "Along the way, he met a strange animal that helped him through many difficulties.",
+              "audioStart": 51.112,
+              "audioEnd": 55.15
+            },
+            {
+              "text": "With the help of his new friend, Prens finally reached the place where the bird lived.",
+              "audioStart": 56.013,
+              "audioEnd": 60.138
+            },
+            {
+              "text": "He followed all the rules and completed every task with care.",
+              "audioStart": 61,
+              "audioEnd": 64.237
+            },
+            {
+              "text": "In the end, Prens won success, brought the bright bird home, and found his happy future.",
+              "audioStart": 65.1,
+              "audioEnd": 70.025
+            },
+            {
+              "text": "The king was extremely proud of his youngest son.",
+              "audioStart": 70.888,
+              "audioEnd": 73.463
+            },
+            {
+              "text": "The garden was safe once more, and everyone lived in quiet happiness.",
+              "audioStart": 74.325,
+              "audioEnd": 78.162
+            },
+            {
+              "text": "Many days passed after Prens returned home with the bright bird.",
+              "audioStart": 79.025,
+              "audioEnd": 82.287
+            },
+            {
+              "text": "The people of the country were very glad that the garden remained safe.",
+              "audioStart": 83.15,
+              "audioEnd": 86.55
+            },
+            {
+              "text": "The king called all his family together to celebrate the great success.",
+              "audioStart": 87.412,
+              "audioEnd": 91.213
+            },
+            {
+              "text": "Prens looked back on the long journey and remembered the strange animal.",
+              "audioStart": 92.075,
+              "audioEnd": 95.338
+            },
+            {
+              "text": "He knew that without that help, he would never have reached the secret place.",
+              "audioStart": 96.2,
+              "audioEnd": 99.963
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The older brothers also learned an important lesson about responsibility and care.",
+              "audioStart": 100.825,
+              "audioEnd": 104.987
+            },
+            {
+              "text": "They understood that closing their eyes during the night was a big mistake.",
+              "audioStart": 105.85,
+              "audioEnd": 109.338
+            },
+            {
+              "text": "From that day forward, the castle was always full of life and joy.",
+              "audioStart": 110.2,
+              "audioEnd": 113.787
+            },
+            {
+              "text": "The golden fruit continued to grow on the tree without any further problem.",
+              "audioStart": 114.65,
+              "audioEnd": 118.362
+            },
+            {
+              "text": "Nobody ever tried to steal the valuable fruit again.",
+              "audioStart": 119.225,
+              "audioEnd": 121.862
+            },
+            {
+              "text": "The king gave more power and respect to his youngest son.",
+              "audioStart": 122.725,
+              "audioEnd": 125.75
+            },
+            {
+              "text": "Prens lived a long and quiet life inside the great castle.",
+              "audioStart": 126.612,
+              "audioEnd": 129.725
+            },
+            {
+              "text": "The story of his adventure was told to every new generation in the country.",
+              "audioStart": 130.588,
+              "audioEnd": 134.162
+            },
+            {
+              "text": "Children heard the tale and dreamed about traveling across strange lands.",
+              "audioStart": 135.025,
+              "audioEnd": 138.512
+            },
+            {
+              "text": "The bright bird stayed in the garden, bringing light and happiness to everyone.",
+              "audioStart": 139.375,
+              "audioEnd": 143.188
+            },
+            {
+              "text": "Thus, the land remained strong and secure for many years to come.",
+              "audioStart": 144.05,
+              "audioEnd": 147.738
+            },
+            {
+              "text": "Quiet and peace ruled the land from the highest mountain down to the sea.",
+              "audioStart": 148.6,
+              "audioEnd": 152.025
+            },
+            {
+              "text": "Sometimes people wonder how Prens managed to find the exact location of the creature.",
+              "audioStart": 152.887,
+              "audioEnd": 157.325
+            },
+            {
+              "text": "The answer lies in the deep friendship between the boy and the strange animal.",
+              "audioStart": 158.188,
+              "audioEnd": 161.85
+            },
+            {
+              "text": "They walked together through forests and across rivers until they reached the goal.",
+              "audioStart": 162.713,
+              "audioEnd": 166.738
+            },
+            {
+              "text": "Every single challenge was met with courage and strong determination.",
+              "audioStart": 167.6,
+              "audioEnd": 171.025
+            },
+            {
+              "text": "The animal gave good advice whenever a difficult situation appeared.",
+              "audioStart": 171.887,
+              "audioEnd": 175.262
+            },
+            {
+              "text": "Prens listened carefully and followed every instruction without any question.",
+              "audioStart": 176.125,
+              "audioEnd": 179.963
+            },
+            {
+              "text": "Because they worked as a team, nothing could stop them from winning success.",
+              "audioStart": 180.825,
+              "audioEnd": 184.525
+            },
+            {
+              "text": "The journey taught Prens that friendship is more valuable than gold or power.",
+              "audioStart": 185.387,
+              "audioEnd": 189.088
+            },
+            {
+              "text": "When they finally arrived, the bright bird was waiting for them.",
+              "audioStart": 189.95,
+              "audioEnd": 193.113
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prens showed respect and care, so the bird allowed him to bring it home.",
+              "audioStart": 193.975,
+              "audioEnd": 197.588
+            },
+            {
+              "text": "That moment changed the life of the young boy forever.",
+              "audioStart": 198.45,
+              "audioEnd": 201.088
+            },
+            {
+              "text": "He became a wise man who always protected the people in his charge.",
+              "audioStart": 201.95,
+              "audioEnd": 205.5
+            },
+            {
+              "text": "The king looked at his son with deep pride and happiness.",
+              "audioStart": 206.363,
+              "audioEnd": 209.2
+            },
+            {
+              "text": "Everything was in order, and the land entered a wonderful new period of history.",
+              "audioStart": 210.062,
+              "audioEnd": 214.125
+            },
+            {
+              "text": "The memory of those events lived on in the hearts of all who heard the tale.",
+              "audioStart": 214.988,
+              "audioEnd": 218.475
+            },
+            {
+              "text": "And so, the wonderful garden remained a symbol of hope and success for all time.",
+              "audioStart": 219.338,
+              "audioEnd": 223.738
+            },
+            {
+              "text": "Many seasons came and went across the land, bringing peace to the people.",
+              "audioStart": 224.6,
+              "audioEnd": 228.4
+            },
+            {
+              "text": "The castle walls stood strong against any wind or trouble from the outside.",
+              "audioStart": 229.262,
+              "audioEnd": 233.012
+            },
+            {
+              "text": "Prens often walked through the garden to look at the golden fruit on the tree.",
+              "audioStart": 233.875,
+              "audioEnd": 237.3
+            },
+            {
+              "text": "He remembered the long days and nights spent traveling far away from home.",
+              "audioStart": 238.162,
+              "audioEnd": 241.963
+            },
+            {
+              "text": "The strange animal often stayed near him, sharing quiet moments in the shade.",
+              "audioStart": 242.825,
+              "audioEnd": 246.9
+            },
+            {
+              "text": "Every person in the country knew the story of the brave young prince.",
+              "audioStart": 247.762,
+              "audioEnd": 252.22
+            },
+            {
+              "text": "Parents told the tale to their children before they went to sleep at night.",
+              "audioStart": 253.082,
+              "audioEnd": 256.445
+            },
+            {
+              "text": "The bright bird sang sweet songs that echoed through the royal halls.",
+              "audioStart": 257.307,
+              "audioEnd": 260.644
+            },
+            {
+              "text": "Nothing could ever break the strong bond between the king and his family.",
+              "audioStart": 261.507,
+              "audioEnd": 265.132
+            },
+            {
+              "text": "The kingdom grew rich and powerful because everyone worked together in peace.",
+              "audioStart": 265.995,
+              "audioEnd": 269.87
+            },
+            {
+              "text": "Travelers from distant places came just to see the wonderful garden and the bird.",
+              "audioStart": 270.732,
+              "audioEnd": 274.67
+            },
+            {
+              "text": "The king smiled as he watched his people live in such harmony.",
+              "audioStart": 275.532,
+              "audioEnd": 278.582
+            },
+            {
+              "text": "The legacy of Prens remained bright for all future generations to come.",
+              "audioStart": 279.445,
+              "audioEnd": 283.282
+            },
+            {
+              "text": "And the magical garden stayed forever as a wonderful home for the sacred creature.",
+              "audioStart": 284.144,
+              "audioEnd": 288.382
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0205.mp3",
+      "wordTimings": "audio/b2/st-0205.timings.json",
+      "quiz": [
+        {
+          "q": "What was growing in the king's wonderful garden?",
+          "options": [
+            "A tree with golden apples",
+            "A field of red flowers",
+            "A small green plant"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did Prens manage to keep when he first saw the atesku?",
+          "options": [
+            "A golden apple",
+            "A shining feather",
+            "A magic sword"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who helped Prens during his long journey?",
+          "options": [
+            "His older brothers",
+            "A strange animal",
+            "The king himself"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In an era when ancient walls guarded the borders of a vast kingdom, a powerful monarch resided within a magnificent stone fortress alongside his three sons.",
+              "audioStart": 0.1,
+              "audioEnd": 8.775
+            },
+            {
+              "text": "At the heart of the royal courtyard flourished an extraordinary botanical sanctuary, boasting a legendary tree that bore fruit of pure, unblemished gold.",
+              "audioStart": 9.637,
+              "audioEnd": 17.738
+            },
+            {
+              "text": "Yet, a persistent shadow cast itself over this nocturnal beauty as an unseen thief plundered the radiant harvest night after night.",
+              "audioStart": 18.6,
+              "audioEnd": 25.65
+            },
+            {
+              "text": "Disturbed by the continuous loss, the sovereign summoned his heirs to defend the precious asset and apprehend the audacious culprit.",
+              "audioStart": 26.512,
+              "audioEnd": 33.35
+            },
+            {
+              "text": "The elder brothers stepped forward first, eager to prove their worth, but weariness quickly claimed their vigilance as the midnight hour deepened.",
+              "audioStart": 34.212,
+              "audioEnd": 41.487
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Neither sibling possessed the endurance required for the silent vigil, their eyelids surrendering to sleep before the first watch had even concluded.",
+              "audioStart": 42.35,
+              "audioEnd": 49.938
+            },
+            {
+              "text": "Then came the turn of Prens, the youngest of the three princes, who volunteered to patrol the fragrant paths beneath the canopy of stars.",
+              "audioStart": 50.8,
+              "audioEnd": 58.225
+            },
+            {
+              "text": "He settled near the trunk of the golden tree, forcing his senses to remain razor-sharp against the heavy, cool breeze of the midnight air.",
+              "audioStart": 59.087,
+              "audioEnd": 66.188
+            },
+            {
+              "text": "Scarcely had the clock struck the midnight hour when a sudden illumination pierced the gloom of the secluded garden.",
+              "audioStart": 67.05,
+              "audioEnd": 72.575
+            },
+            {
+              "text": "A magnificent creature descended from the velvet sky, its form radiating a brilliant heat and a blinding, magical light that painted the leaves in amber.",
+              "audioStart": 73.438,
+              "audioEnd": 81.6
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Heart pounding against his ribs, Prens lunged forward with desperate speed to capture the dazzling apparition before it could escape into the clouds.",
+              "audioStart": 82.463,
+              "audioEnd": 90.013
+            },
+            {
+              "text": "The bird proved too swift for his clumsy grasp, slipping away into the dark expanse like a falling star.",
+              "audioStart": 90.875,
+              "audioEnd": 96.5
+            },
+            {
+              "text": "Only a single, glowing feather remained in the prince's trembling palm, burning softly with the warmth of a thousand hearths.",
+              "audioStart": 97.362,
+              "audioEnd": 103.925
+            },
+            {
+              "text": "When dawn broke, the king marvelled at the radiant relic brought to him by his youngest son, feeling a profound surge of pride.",
+              "audioStart": 104.787,
+              "audioEnd": 111.362
+            },
+            {
+              "text": "Despite his satisfaction with the glowing prize, the monarch confessed that he desired the living creature itself to complete his royal treasury.",
+              "audioStart": 112.225,
+              "audioEnd": 119.775
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Driven by a sense of duty and a longing for adventure, Prens embarked on a perilous quest across uncharted mountains and dense, whispering forests.",
+              "audioStart": 120.638,
+              "audioEnd": 128.75
+            },
+            {
+              "text": "The journey tested his physical strength and his mental resolve as the miles stretched endlessly before his tired feet.",
+              "audioStart": 129.613,
+              "audioEnd": 135.537
+            },
+            {
+              "text": "Midway through his travels, an unusual creature crossed his path, offering companionship and unexpected wisdom when the road grew treacherous.",
+              "audioStart": 136.4,
+              "audioEnd": 144.1
+            },
+            {
+              "text": "This mysterious animal guided the young prince through winding labyrinths of briars and across roaring rivers that threatened to sweep them away.",
+              "audioStart": 144.963,
+              "audioEnd": 151.838
+            },
+            {
+              "text": "Working in perfect harmony, the companions advanced ever closer to the legendary realm where the luminous bird made its hidden nest.",
+              "audioStart": 152.7,
+              "audioEnd": 159.6
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every obstacle they encountered was met with unwavering courage and careful attention to the wise advice of the loyal animal companion.",
+              "audioStart": 160.463,
+              "audioEnd": 167.175
+            },
+            {
+              "text": "Prens learned to listen more than he spoke, discovering that patience and humility were far more potent than any sword or shield.",
+              "audioStart": 168.037,
+              "audioEnd": 174.675
+            },
+            {
+              "text": "At last, after weeks of relentless travel, they arrived at the secret enclosure where the magnificent bird resided in quiet splendour.",
+              "audioStart": 175.537,
+              "audioEnd": 182.738
+            },
+            {
+              "text": "Mindful of his guide's strict instructions, the prince approached the glowing sanctuary with deliberate caution and absolute respect.",
+              "audioStart": 183.6,
+              "audioEnd": 190.6
+            },
+            {
+              "text": "He followed every required rule to the letter, avoiding the traps of haste and arrogance that so often ruined ambitious travellers.",
+              "audioStart": 191.463,
+              "audioEnd": 198.35
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Touched by the youth's sincere reverence, the radiant bird offered no resistance as Prens gently gathered it into his protective custody.",
+              "audioStart": 199.213,
+              "audioEnd": 206.175
+            },
+            {
+              "text": "That pivotal moment altered the trajectory of the prince's life forever, transforming him from a hesitant boy into a remarkably wise young man.",
+              "audioStart": 207.037,
+              "audioEnd": 214.475
+            },
+            {
+              "text": "With his precious charge secured, he retraced his steps alongside his faithful animal friend, eager to return to the kingdom of his birth.",
+              "audioStart": 215.338,
+              "audioEnd": 222.525
+            },
+            {
+              "text": "The journey home felt lighter under the glow of the captive creature, whose gentle song seemed to clear the very air around them.",
+              "audioStart": 223.387,
+              "audioEnd": 229.825
+            },
+            {
+              "text": "When they finally passed through the grand gates of the castle, a wave of jubilation swept through the stone corridors and royal courtyards.",
+              "audioStart": 230.688,
+              "audioEnd": 238.877
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The king welcomed his youngest son with open arms, gazing at the magnificent bird with tears of absolute wonder in his weary eyes.",
+              "audioStart": 239.739,
+              "audioEnd": 246.727
+            },
+            {
+              "text": "No longer threatened by midnight thieves, the golden tree flourished more abundantly than ever before under the watchful care of the kingdom.",
+              "audioStart": 247.589,
+              "audioEnd": 254.427
+            },
+            {
+              "text": "The older brothers observed these events with a quiet realization, finally grasping the true meaning of responsibility and steadfast devotion.",
+              "audioStart": 255.29,
+              "audioEnd": 263.002
+            },
+            {
+              "text": "They understood that their own failure was rooted in carelessness, and they resolved to support Prens in all his future endeavours.",
+              "audioStart": 263.865,
+              "audioEnd": 270.565
+            },
+            {
+              "text": "From that memorable day forward, the castle resonated with laughter, music, and the unbreakable unity of a truly reconciled family.",
+              "audioStart": 271.427,
+              "audioEnd": 279.089
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Life within the kingdom entered a peaceful era, untouched by the turbulence and strife that plagued less fortunate neighbouring lands.",
+              "audioStart": 279.952,
+              "audioEnd": 286.477
+            },
+            {
+              "text": "Prens often strolled through the blossoming garden, admiring the heavy golden fruit that hung undisturbed from the sacred branches.",
+              "audioStart": 287.339,
+              "audioEnd": 293.839
+            },
+            {
+              "text": "His loyal animal companion remained close by his side, sharing quiet afternoons in the dappled shade of the ancient trees.",
+              "audioStart": 294.702,
+              "audioEnd": 301.327
+            },
+            {
+              "text": "The story of their grand adventure became a cherished legend, recounted by parents to their children as the evening lamps were lit.",
+              "audioStart": 302.19,
+              "audioEnd": 308.889
+            },
+            {
+              "text": "Generations grew up hearing the tale of the brave prince who valued friendship and duty far above material wealth or royal privilege.",
+              "audioStart": 309.752,
+              "audioEnd": 316.527
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Travellers from distant provinces arrived daily just to catch a fleeting glimpse of the wondrous garden and the miraculous bird within.",
+              "audioStart": 317.389,
+              "audioEnd": 323.927
+            },
+            {
+              "text": "The radiant creature filled the royal halls with sweet, harmonious melodies that seemed to chase away every trace of sorrow or doubt.",
+              "audioStart": 324.789,
+              "audioEnd": 331.577
+            },
+            {
+              "text": "Under the wise guidance of the king and his capable son, the realm prospered economically, socially, and culturally beyond all expectation.",
+              "audioStart": 332.44,
+              "audioEnd": 340.427
+            },
+            {
+              "text": "Every citizen felt secure within the fortified walls, knowing that justice and harmony governed their daily lives from the mountains to the sea.",
+              "audioStart": 341.289,
+              "audioEnd": 348.714
+            },
+            {
+              "text": "The profound bond between Prens and his family remained as unshakeable as the ancient stones that formed the foundation of their home.",
+              "audioStart": 349.577,
+              "audioEnd": 356.19
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Time flowed onward like a gentle river, carrying the kingdom through peaceful seasons of abundant harvests and untroubled celebrations.",
+              "audioStart": 357.052,
+              "audioEnd": 364.315
+            },
+            {
+              "text": "Whenever Prens looked back upon his long and arduous journey, he knew that his success stemmed entirely from collaboration and mutual respect.",
+              "audioStart": 365.177,
+              "audioEnd": 372.714
+            },
+            {
+              "text": "The strange animal that had aided him so selflessly was honoured above all other creatures in the royal domain.",
+              "audioStart": 373.577,
+              "audioEnd": 378.977
+            },
+            {
+              "text": "Together, the prince and his companions ensured that the light of the bird would never fade from the heart of their homeland.",
+              "audioStart": 379.839,
+              "audioEnd": 385.514
+            },
+            {
+              "text": "Thus, the legendary garden endured as an eternal symbol of hope, proving that true courage is always rewarded by destiny.",
+              "audioStart": 386.377,
+              "audioEnd": 393.214
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0205.mp3",
+      "wordTimings": "audio/c1/st-0205.timings.json",
+      "quiz": [
+        {
+          "q": "What specific item did Prens manage to keep after his first encounter with the glowing creature?",
+          "options": [
+            "A single glowing feather",
+            "A piece of golden fruit",
+            "A smooth river stone"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the older brothers perform during their assigned watch in the garden?",
+          "options": [
+            "They stayed awake all night but saw nothing.",
+            "They quickly fell asleep due to weariness.",
+            "They successfully captured the mysterious thief."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who accompanied Prens on his long journey across the country to find the bird's home?",
+          "options": [
+            "His two older brothers",
+            "A strange and helpful animal",
+            "An experienced royal knight"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1498 @@
+{
+  "id": "st-0143",
+  "title": "The Cop and the Anthem",
+  "genre": "daily",
+  "summary": "A homeless man tries to get arrested for the winter, but his plans keep failing.",
+  "coverScene": "A homeless old man stands outside a warm stone church on a cold autumn night while soft light glows through the window.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "It is a bad night.",
+              "audioStart": 0.106,
+              "audioEnd": 1.314
+            },
+            {
+              "text": "An old man named Soapy sits.",
+              "audioStart": 2.278,
+              "audioEnd": 4.278
+            },
+            {
+              "text": "He sits in a public place.",
+              "audioStart": 5.236,
+              "audioEnd": 7.014
+            },
+            {
+              "text": "The year is late.",
+              "audioStart": 7.972,
+              "audioEnd": 9.069
+            },
+            {
+              "text": "The night is not well.",
+              "audioStart": 10.028,
+              "audioEnd": 11.333
+            },
+            {
+              "text": "He needs a room to stay.",
+              "audioStart": 12.292,
+              "audioEnd": 13.75
+            },
+            {
+              "text": "He wants to go into a house.",
+              "audioStart": 14.708,
+              "audioEnd": 16.444
+            },
+            {
+              "text": "He wants free food.",
+              "audioStart": 17.403,
+              "audioEnd": 18.681
+            },
+            {
+              "text": "He wants a bed.",
+              "audioStart": 19.639,
+              "audioEnd": 20.722
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Soapy walks into a big shop.",
+              "audioStart": 21.681,
+              "audioEnd": 23.569
+            },
+            {
+              "text": "He eats a lot of food.",
+              "audioStart": 24.528,
+              "audioEnd": 25.986
+            },
+            {
+              "text": "He has no money.",
+              "audioStart": 26.944,
+              "audioEnd": 28.111
+            },
+            {
+              "text": "He tells the man.",
+              "audioStart": 29.069,
+              "audioEnd": 30.25
+            },
+            {
+              "text": "The people make him move out.",
+              "audioStart": 31.208,
+              "audioEnd": 32.847
+            },
+            {
+              "text": "He falls down on the street.",
+              "audioStart": 33.806,
+              "audioEnd": 35.417
+            },
+            {
+              "text": "His first plan does not work.",
+              "audioStart": 36.375,
+              "audioEnd": 38.292
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Soapy tries to break a door.",
+              "audioStart": 39.25,
+              "audioEnd": 41.028
+            },
+            {
+              "text": "A man comes fast.",
+              "audioStart": 41.986,
+              "audioEnd": 43.403
+            },
+            {
+              "text": "The officer thinks Soapy is well.",
+              "audioStart": 44.361,
+              "audioEnd": 46.389
+            },
+            {
+              "text": "Soapy tries another idea near a room.",
+              "audioStart": 47.347,
+              "audioEnd": 49.681
+            },
+            {
+              "text": "He calls out.",
+              "audioStart": 50.639,
+              "audioEnd": 51.653
+            },
+            {
+              "text": "No man takes him away.",
+              "audioStart": 52.611,
+              "audioEnd": 54.083
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Soapy walks away from the light.",
+              "audioStart": 55.042,
+              "audioEnd": 56.986
+            },
+            {
+              "text": "He finds an old house.",
+              "audioStart": 57.944,
+              "audioEnd": 59.431
+            },
+            {
+              "text": "Good music comes through the open way.",
+              "audioStart": 60.389,
+              "audioEnd": 62.333
+            },
+            {
+              "text": "The sound does something to him.",
+              "audioStart": 63.292,
+              "audioEnd": 64.986
+            },
+            {
+              "text": "He looks at his life.",
+              "audioStart": 65.944,
+              "audioEnd": 67.361
+            },
+            {
+              "text": "He knows he spends many years.",
+              "audioStart": 68.319,
+              "audioEnd": 70.306
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Soapy makes a plan to change.",
+              "audioStart": 71.264,
+              "audioEnd": 73.208
+            },
+            {
+              "text": "He wants to find work.",
+              "audioStart": 74.167,
+              "audioEnd": 75.625
+            },
+            {
+              "text": "He wants a new life.",
+              "audioStart": 76.583,
+              "audioEnd": 77.958
+            },
+            {
+              "text": "Then, a man puts a hand on him.",
+              "audioStart": 78.917,
+              "audioEnd": 81.028
+            },
+            {
+              "text": "The officer takes him.",
+              "audioStart": 81.986,
+              "audioEnd": 83.403
+            },
+            {
+              "text": "Soapy goes to a room for three months.",
+              "audioStart": 84.361,
+              "audioEnd": 86.625
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0143.mp3",
+      "wordTimings": "audio/a1/st-0143.timings.json",
+      "quiz": [
+        {
+          "q": "Where does Soapy sit at the start of the story?",
+          "options": [
+            "In a public park",
+            "Inside a church",
+            "At a restaurant table"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happens when Soapy eats at the restaurant?",
+          "options": [
+            "He pays with money",
+            "The workers throw him out",
+            "A policeman arrests him"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why does Soapy go to jail for three months at the end?",
+          "options": [
+            "He breaks a store window",
+            "He cannot pay for food",
+            "The policeman arrests him for loitering"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On a cold night, Soapy sat in a public park.",
+              "audioStart": 0.106,
+              "audioEnd": 3.064
+            },
+            {
+              "text": "Bad times were coming fast.",
+              "audioStart": 4.028,
+              "audioEnd": 5.986
+            },
+            {
+              "text": "He needed a good place to stay.",
+              "audioStart": 6.944,
+              "audioEnd": 8.764
+            },
+            {
+              "text": "His plan was very simple.",
+              "audioStart": 9.722,
+              "audioEnd": 11.472
+            },
+            {
+              "text": "He wanted to go to court for free food.",
+              "audioStart": 12.431,
+              "audioEnd": 14.708
+            },
+            {
+              "text": "The city police place would protect him from bad air and water.",
+              "audioStart": 15.667,
+              "audioEnd": 19.125
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Soapy stood up and walked into a large restaurant.",
+              "audioStart": 20.083,
+              "audioEnd": 22.875
+            },
+            {
+              "text": "He ate a large food part without any money.",
+              "audioStart": 23.833,
+              "audioEnd": 26.417
+            },
+            {
+              "text": "Then he told the worker he could not pay.",
+              "audioStart": 27.375,
+              "audioEnd": 29.611
+            },
+            {
+              "text": "The manager did not call the police officer.",
+              "audioStart": 30.569,
+              "audioEnd": 33.069
+            },
+            {
+              "text": "Workers simply threw him down on the cold ground.",
+              "audioStart": 34.028,
+              "audioEnd": 36.681
+            },
+            {
+              "text": "His first plan had failed completely.",
+              "audioStart": 37.639,
+              "audioEnd": 40.042
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Soapy tried to break a store window with a big piece.",
+              "audioStart": 41,
+              "audioEnd": 44.083
+            },
+            {
+              "text": "A police officer came running over quickly.",
+              "audioStart": 45.042,
+              "audioEnd": 47.667
+            },
+            {
+              "text": "The officer thought Soapy was just a happy customer.",
+              "audioStart": 48.625,
+              "audioEnd": 51.625
+            },
+            {
+              "text": "The man tried another kind of work near a movie house.",
+              "audioStart": 52.583,
+              "audioEnd": 55.597
+            },
+            {
+              "text": "He spoke out like a bad person.",
+              "audioStart": 56.556,
+              "audioEnd": 58.458
+            },
+            {
+              "text": "Again, no police officer would take him.",
+              "audioStart": 59.417,
+              "audioEnd": 62.014
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Soapy felt very bad and walked away.",
+              "audioStart": 62.972,
+              "audioEnd": 65.319
+            },
+            {
+              "text": "He reached a low street with an old church.",
+              "audioStart": 66.278,
+              "audioEnd": 68.625
+            },
+            {
+              "text": "Great music came out through the open door.",
+              "audioStart": 69.583,
+              "audioEnd": 71.889
+            },
+            {
+              "text": "The nice sound touched his heart deeply.",
+              "audioStart": 72.847,
+              "audioEnd": 75.042
+            },
+            {
+              "text": "He looked at his past life.",
+              "audioStart": 76,
+              "audioEnd": 77.764
+            },
+            {
+              "text": "He realized that he had spent many years.",
+              "audioStart": 78.722,
+              "audioEnd": 81.306
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Soapy made a promise to change tomorrow.",
+              "audioStart": 82.264,
+              "audioEnd": 84.556
+            },
+            {
+              "text": "He decided to become a new person.",
+              "audioStart": 85.514,
+              "audioEnd": 87.583
+            },
+            {
+              "text": "At that moment, a police officer put a hand upon him.",
+              "audioStart": 88.542,
+              "audioEnd": 91.792
+            },
+            {
+              "text": "The officer took him for staying too long in one place.",
+              "audioStart": 92.75,
+              "audioEnd": 96.056
+            },
+            {
+              "text": "Soapy was sent to court for three months.",
+              "audioStart": 97.014,
+              "audioEnd": 99.375
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0143.mp3",
+      "wordTimings": "audio/a2/st-0143.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Soapy sit at the beginning of the story?",
+          "options": [
+            "In a public park",
+            "Inside a warm church",
+            "At a restaurant table"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did Soapy use to try to break the store window?",
+          "options": [
+            "A heavy stone",
+            "His own hand",
+            "A piece of wood"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why was Soapy finally arrested at the end?",
+          "options": [
+            "For not paying for food",
+            "For loitering",
+            "For breaking a window"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On a cold night, Soapy sat on a park seat.",
+              "audioStart": 0.1,
+              "audioEnd": 2.625
+            },
+            {
+              "text": "Winter was coming fast, and he needed a warm place.",
+              "audioStart": 3.487,
+              "audioEnd": 6.513
+            },
+            {
+              "text": "His plan was simple.",
+              "audioStart": 7.375,
+              "audioEnd": 8.613
+            },
+            {
+              "text": "He wanted to be arrested so he could go to prison.",
+              "audioStart": 9.475,
+              "audioEnd": 12.037
+            },
+            {
+              "text": "The prison would give him free food and protection against bad weather.",
+              "audioStart": 12.9,
+              "audioEnd": 16.275
+            },
+            {
+              "text": "Soapy has always wanted a safe home.",
+              "audioStart": 17.137,
+              "audioEnd": 19.212
+            },
+            {
+              "text": "That is what he has decided to do today.",
+              "audioStart": 20.075,
+              "audioEnd": 22.075
+            },
+            {
+              "text": "He has spent much time thinking about his life.",
+              "audioStart": 22.938,
+              "audioEnd": 25.425
+            },
+            {
+              "text": "If the cold wind blows hard, he must find a room.",
+              "audioStart": 26.288,
+              "audioEnd": 29.025
+            },
+            {
+              "text": "He has looked around the park for many hours.",
+              "audioStart": 29.887,
+              "audioEnd": 32.2
+            },
+            {
+              "text": "The night air is cold, and he feels very tired now.",
+              "audioStart": 33.062,
+              "audioEnd": 35.925
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Soapy stood up and walked into a bright restaurant.",
+              "audioStart": 36.788,
+              "audioEnd": 39.312
+            },
+            {
+              "text": "He ate a large meal without any money.",
+              "audioStart": 40.175,
+              "audioEnd": 42.212
+            },
+            {
+              "text": "Then he told the worker that he could not pay.",
+              "audioStart": 43.075,
+              "audioEnd": 45.225
+            },
+            {
+              "text": "However, the manager did not call the police.",
+              "audioStart": 46.087,
+              "audioEnd": 48.663
+            },
+            {
+              "text": "Instead, the workers threw him out onto the cold ground.",
+              "audioStart": 49.525,
+              "audioEnd": 52.388
+            },
+            {
+              "text": "His first scheme had failed completely.",
+              "audioStart": 53.25,
+              "audioEnd": 55.388
+            },
+            {
+              "text": "He has tried to find a way to get arrested.",
+              "audioStart": 56.25,
+              "audioEnd": 58.325
+            },
+            {
+              "text": "If the restaurant manager had called the office, Soapy would have been happy.",
+              "audioStart": 59.188,
+              "audioEnd": 62.862
+            },
+            {
+              "text": "Now he must find another way to reach his goal.",
+              "audioStart": 63.725,
+              "audioEnd": 66.15
+            },
+            {
+              "text": "He has made many bad plans during his life.",
+              "audioStart": 67.013,
+              "audioEnd": 69.5
+            },
+            {
+              "text": "The restaurant lights were bright, but his heart was dark.",
+              "audioStart": 70.362,
+              "audioEnd": 73.2
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Next, Soapy tried to break a big glass window with a stone.",
+              "audioStart": 74.062,
+              "audioEnd": 77.35
+            },
+            {
+              "text": "A police officer came running over quickly.",
+              "audioStart": 78.213,
+              "audioEnd": 80.575
+            },
+            {
+              "text": "The officer thought that Soapy was just a happy customer.",
+              "audioStart": 81.438,
+              "audioEnd": 84.325
+            },
+            {
+              "text": "The man tried another game near a theater, shouting out.",
+              "audioStart": 85.188,
+              "audioEnd": 88.2
+            },
+            {
+              "text": "Again, no police officer arrested him because they believed students played games.",
+              "audioStart": 89.062,
+              "audioEnd": 93.463
+            },
+            {
+              "text": "Soapy has often made plans that fail.",
+              "audioStart": 94.325,
+              "audioEnd": 96.55
+            },
+            {
+              "text": "If he continues to shout, someone might finally listen.",
+              "audioStart": 97.412,
+              "audioEnd": 100.612
+            },
+            {
+              "text": "He has spent hours walking down the street.",
+              "audioStart": 101.475,
+              "audioEnd": 103.638
+            },
+            {
+              "text": "He has tried several different things to break the law.",
+              "audioStart": 104.5,
+              "audioEnd": 107.025
+            },
+            {
+              "text": "If the police officer had heard him, Soapy would have smiled.",
+              "audioStart": 107.888,
+              "audioEnd": 110.925
+            },
+            {
+              "text": "The city streets are long, and many people walk past him.",
+              "audioStart": 111.787,
+              "audioEnd": 115.05
+            },
+            {
+              "text": "He has never found a simple way to enter prison.",
+              "audioStart": 115.912,
+              "audioEnd": 118.362
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After several attempts, Soapy felt very tired.",
+              "audioStart": 119.225,
+              "audioEnd": 122.138
+            },
+            {
+              "text": "He walked away from the busy lights.",
+              "audioStart": 123.0,
+              "audioEnd": 124.85
+            },
+            {
+              "text": "He reached a quiet street where a church stood.",
+              "audioStart": 125.713,
+              "audioEnd": 127.95
+            },
+            {
+              "text": "Wonderful music moved out through the open door.",
+              "audioStart": 128.812,
+              "audioEnd": 131.188
+            },
+            {
+              "text": "The sweet sound touched his heart deeply.",
+              "audioStart": 132.05,
+              "audioEnd": 134.1
+            },
+            {
+              "text": "He looked at his past life and realized something.",
+              "audioStart": 134.963,
+              "audioEnd": 137.575
+            },
+            {
+              "text": "He has heard many songs in his days.",
+              "audioStart": 138.438,
+              "audioEnd": 140.463
+            },
+            {
+              "text": "The music brings a sense of peace to his mind.",
+              "audioStart": 141.325,
+              "audioEnd": 143.7
+            },
+            {
+              "text": "He has remembered his family and his old home.",
+              "audioStart": 144.562,
+              "audioEnd": 146.9
+            },
+            {
+              "text": "The church stands quiet in the dark night.",
+              "audioStart": 147.762,
+              "audioEnd": 149.925
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Standing there, Soapy made a promise to change tomorrow.",
+              "audioStart": 150.787,
+              "audioEnd": 153.825
+            },
+            {
+              "text": "He decided to become a new person and find right work.",
+              "audioStart": 154.688,
+              "audioEnd": 157.613
+            },
+            {
+              "text": "At that very moment, a police officer put a hand upon his shoulder.",
+              "audioStart": 158.475,
+              "audioEnd": 161.963
+            },
+            {
+              "text": "The officer arrested him for standing around.",
+              "audioStart": 162.825,
+              "audioEnd": 165.162
+            },
+            {
+              "text": "Soapy was sent to prison for three months.",
+              "audioStart": 166.025,
+              "audioEnd": 168.213
+            },
+            {
+              "text": "He has finally found what he wanted.",
+              "audioStart": 169.075,
+              "audioEnd": 171.025
+            },
+            {
+              "text": "He has achieved his goal after many hard tries.",
+              "audioStart": 171.887,
+              "audioEnd": 174.525
+            },
+            {
+              "text": "The prison door closes, and his long journey ends here today.",
+              "audioStart": 175.387,
+              "audioEnd": 178.688
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0143.mp3",
+      "wordTimings": "audio/b1/st-0143.timings.json",
+      "quiz": [
+        {
+          "q": "What did Soapy want at the beginning of the story?",
+          "options": [
+            "To get arrested and go to jail",
+            "To find a job in a restaurant",
+            "To listen to music at the church"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the restaurant workers do when Soapy could not pay?",
+          "options": [
+            "They called the police",
+            "They threw him out on the ground",
+            "They gave him free food"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why did the police officer not arrest Soapy near the theater?",
+          "options": [
+            "The officer was sleeping",
+            "The officer thought students were playing games",
+            "Soapy ran away too fast"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On a cold autumn night, an old man named Soapy sat on a stone seat in a public park.",
+              "audioStart": 0.1,
+              "audioEnd": 4.825
+            },
+            {
+              "text": "Winter was coming fast, and he needed a warm place to stay during the freezing months ahead.",
+              "audioStart": 5.688,
+              "audioEnd": 10.35
+            },
+            {
+              "text": "His plan was simple and clear.",
+              "audioStart": 11.213,
+              "audioEnd": 12.95
+            },
+            {
+              "text": "He wanted to be arrested so that he could spend the season in a comfortable prison with free food.",
+              "audioStart": 13.812,
+              "audioEnd": 18.512
+            },
+            {
+              "text": "He knew that the city jail would provide him protection against the bad weather.",
+              "audioStart": 19.375,
+              "audioEnd": 23.1
+            },
+            {
+              "text": "The man hoped that his simple scheme would work immediately.",
+              "audioStart": 23.962,
+              "audioEnd": 26.75
+            },
+            {
+              "text": "He walked away from the park and looked around the streets.",
+              "audioStart": 27.613,
+              "audioEnd": 30.337
+            },
+            {
+              "text": "Every year, many people faced similar problems when the cold season arrived.",
+              "audioStart": 31.2,
+              "audioEnd": 35.325
+            },
+            {
+              "text": "Soapy wanted to make sure that he would not suffer during the dark nights.",
+              "audioStart": 36.188,
+              "audioEnd": 39.675
+            },
+            {
+              "text": "He knew that the police would keep him safe if he broke a small rule.",
+              "audioStart": 40.538,
+              "audioEnd": 43.775
+            },
+            {
+              "text": "Therefore, the old man prepared himself for the next part of his plan.",
+              "audioStart": 44.638,
+              "audioEnd": 48.438
+            },
+            {
+              "text": "He walked slowly through the cold air while he thought about his future in the jail.",
+              "audioStart": 49.3,
+              "audioEnd": 53.038
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Soapy stood up and walked into a bright restaurant on a famous street.",
+              "audioStart": 53.9,
+              "audioEnd": 57.325
+            },
+            {
+              "text": "He ate a large meal without any money, and then he calmly told the waiter that he could not pay.",
+              "audioStart": 58.188,
+              "audioEnd": 63.025
+            },
+            {
+              "text": "However, the manager did not call the police.",
+              "audioStart": 63.888,
+              "audioEnd": 66.463
+            },
+            {
+              "text": "Instead, the workers simply threw him out onto the cold ground.",
+              "audioStart": 67.325,
+              "audioEnd": 70.575
+            },
+            {
+              "text": "His first small scheme had failed completely, but he did not give up yet.",
+              "audioStart": 71.438,
+              "audioEnd": 75.4
+            },
+            {
+              "text": "He stood on the stone street and thought about what he should do next.",
+              "audioStart": 76.263,
+              "audioEnd": 79.35
+            },
+            {
+              "text": "The bright lights of the restaurant made him feel even more tired.",
+              "audioStart": 80.213,
+              "audioEnd": 83.487
+            },
+            {
+              "text": "Many customers looked at him with strange expressions.",
+              "audioStart": 84.35,
+              "audioEnd": 87.112
+            },
+            {
+              "text": "The manager told the staff to ignore the poor man.",
+              "audioStart": 87.975,
+              "audioEnd": 90.475
+            },
+            {
+              "text": "Soapy realized that he needed a different approach to solve his problem.",
+              "audioStart": 91.338,
+              "audioEnd": 94.85
+            },
+            {
+              "text": "He walked away from the building and started to look for another opportunity.",
+              "audioStart": 95.713,
+              "audioEnd": 99.263
+            },
+            {
+              "text": "He hoped that his next attempt would bring better results.",
+              "audioStart": 100.125,
+              "audioEnd": 102.938
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Next, Soapy tried to break a big glass window in front of a store using a heavy rock.",
+              "audioStart": 103.8,
+              "audioEnd": 108.5
+            },
+            {
+              "text": "An officer came running over quickly, but the man thought that Soapy was just a happy customer who had made a mistake.",
+              "audioStart": 109.362,
+              "audioEnd": 115.463
+            },
+            {
+              "text": "The person tried another silly trick near a theater, shouting loudly and acting like a crazy person.",
+              "audioStart": 116.325,
+              "audioEnd": 121.975
+            },
+            {
+              "text": "Again, no police officer would arrest him, because they believed that university students were only playing games.",
+              "audioStart": 122.838,
+              "audioEnd": 128.963
+            },
+            {
+              "text": "Soapy felt very sad and upset by these strange failures.",
+              "audioStart": 129.825,
+              "audioEnd": 133.075
+            },
+            {
+              "text": "He wondered why the officers refused to take him away.",
+              "audioStart": 133.938,
+              "audioEnd": 136.7
+            },
+            {
+              "text": "The heavy rock was still in his hand, but he dropped it on the ground.",
+              "audioStart": 137.562,
+              "audioEnd": 141.012
+            },
+            {
+              "text": "People walked past him without paying any attention to his loud shouts.",
+              "audioStart": 141.875,
+              "audioEnd": 145.588
+            },
+            {
+              "text": "He felt that the whole world was working against his simple plan.",
+              "audioStart": 146.45,
+              "audioEnd": 149.525
+            },
+            {
+              "text": "The theater lights shone brightly above the street.",
+              "audioStart": 150.387,
+              "audioEnd": 152.863
+            },
+            {
+              "text": "He left the area and continued his journey through the town.",
+              "audioStart": 153.725,
+              "audioEnd": 156.65
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After several strange and difficult attempts, Soapy felt very tired and walked away from the busy lights of the town.",
+              "audioStart": 157.512,
+              "audioEnd": 163.713
+            },
+            {
+              "text": "He reached a quiet street where a beautiful old church stood against the dark sky.",
+              "audioStart": 164.575,
+              "audioEnd": 168.525
+            },
+            {
+              "text": "Wonderful church music flowed out through the open door, and the sweet sound touched his heart deeply.",
+              "audioStart": 169.387,
+              "audioEnd": 174.488
+            },
+            {
+              "text": "He looked at his past life and realized that he had wasted many years.",
+              "audioStart": 175.35,
+              "audioEnd": 179.113
+            },
+            {
+              "text": "The sweet song reminded him of the days when his life was different.",
+              "audioStart": 179.975,
+              "audioEnd": 183.125
+            },
+            {
+              "text": "He remembered his mother and the home where he grew up as a child.",
+              "audioStart": 183.988,
+              "audioEnd": 187
+            },
+            {
+              "text": "Those memories made him feel a strong emotion inside his chest.",
+              "audioStart": 187.863,
+              "audioEnd": 191.275
+            },
+            {
+              "text": "The music continued to play softly through the night air.",
+              "audioStart": 192.137,
+              "audioEnd": 194.85
+            },
+            {
+              "text": "He stood very still and listened to every single note.",
+              "audioStart": 195.713,
+              "audioEnd": 198.425
+            },
+            {
+              "text": "His mind changed as he thought about his future.",
+              "audioStart": 199.287,
+              "audioEnd": 201.7
+            },
+            {
+              "text": "He decided that he would leave his bad habits behind.",
+              "audioStart": 202.562,
+              "audioEnd": 205.287
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Standing there in the quiet night, Soapy made a strong promise to change and find honest work tomorrow.",
+              "audioStart": 206.15,
+              "audioEnd": 211.425
+            },
+            {
+              "text": "He decided that he would become a new person and build a better future for himself.",
+              "audioStart": 212.287,
+              "audioEnd": 216.488
+            },
+            {
+              "text": "At that very moment, strangely, an officer put a heavy hand upon his shoulder.",
+              "audioStart": 217.35,
+              "audioEnd": 221.65
+            },
+            {
+              "text": "The officer finally arrested him for standing around.",
+              "audioStart": 222.512,
+              "audioEnd": 225.338
+            },
+            {
+              "text": "Soapy was sent to jail for three months.",
+              "audioStart": 226.2,
+              "audioEnd": 228.312
+            },
+            {
+              "text": "The judge decided that the man must stay in the prison for the entire season.",
+              "audioStart": 229.175,
+              "audioEnd": 233.1
+            },
+            {
+              "text": "Soapy accepted his sentence with a quiet mind.",
+              "audioStart": 233.963,
+              "audioEnd": 236.55
+            },
+            {
+              "text": "He knew that his new life would start after he left the jail.",
+              "audioStart": 237.412,
+              "audioEnd": 240.375
+            },
+            {
+              "text": "The cold winter would no longer trouble him inside the comfortable prison walls.",
+              "audioStart": 241.238,
+              "audioEnd": 245.188
+            },
+            {
+              "text": "He felt that everything happened for a reason.",
+              "audioStart": 246.05,
+              "audioEnd": 248.213
+            },
+            {
+              "text": "His long journey of change had finally begun.",
+              "audioStart": 249.075,
+              "audioEnd": 251.562
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0143.mp3",
+      "wordTimings": "audio/b2/st-0143.timings.json",
+      "quiz": [
+        {
+          "q": "What was Soapy's main goal at the beginning of the story?",
+          "options": [
+            "To get arrested and spend the winter in jail",
+            "To find a job at a local restaurant",
+            "To travel to a different country for the season"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened after Soapy ate the large meal at the restaurant?",
+          "options": [
+            "The manager called the police immediately",
+            "The workers threw him outside without calling the police",
+            "He paid for the food with hidden money"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What finally caused Soapy to decide to turn his life around?",
+          "options": [
+            "Hearing beautiful organ music outside a church",
+            "Getting sick from the cold autumn air",
+            "Talking to a helpful police officer"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On a biting autumn night, when dead leaves whispered across the asphalt like restless ghosts, an old man named Soapy sat upon a curved stone seat in Madison Square.",
+              "audioStart": 0.1,
+              "audioEnd": 9.162
+            },
+            {
+              "text": "Winter was approaching with an unyielding swiftness, and the bitter air demanded a refuge for the freezing months that lay ahead.",
+              "audioStart": 10.025,
+              "audioEnd": 16.413
+            },
+            {
+              "text": "His plan was deceptively simple, born of necessity and quiet desperation.",
+              "audioStart": 17.275,
+              "audioEnd": 21.812
+            },
+            {
+              "text": "He wanted nothing more than to be arrested, trusting that the city jail would provide him with dependable shelter, three meals a day, and protection from the frost.",
+              "audioStart": 22.675,
+              "audioEnd": 31.163
+            },
+            {
+              "text": "Every year, as the temperature plunged, countless destitute souls faced this very same dilemma, seeking a sanctuary behind iron bars.",
+              "audioStart": 32.025,
+              "audioEnd": 40.212
+            },
+            {
+              "text": "Soapy preferred the stone walls of a prison cell over the charity of missions, which always demanded a degrading moral accounting in exchange for a cot.",
+              "audioStart": 41.075,
+              "audioEnd": 49.112
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Determined to execute his simple scheme, Soapy stood up from the cold bench and walked out of the park into the bustling stream of the avenue.",
+              "audioStart": 49.975,
+              "audioEnd": 56.875
+            },
+            {
+              "text": "He made his way toward a brightly illuminated restaurant on Broadway, a famous street where wealthy diners gathered to escape the autumn chill.",
+              "audioStart": 57.737,
+              "audioEnd": 64.95
+            },
+            {
+              "text": "The establishment was known for its lavish cuisine, catering to patrons who never worried about the cost of a single meal.",
+              "audioStart": 65.812,
+              "audioEnd": 72.125
+            },
+            {
+              "text": "Soapy felt entirely confident that his worn coat and frayed trousers would invite suspicion the moment he crossed the threshold.",
+              "audioStart": 72.987,
+              "audioEnd": 79.463
+            },
+            {
+              "text": "He stepped through the heavy glass doors, enveloped by the rich aroma of roasted meats and expensive wine, and walked straight to a table near the window.",
+              "audioStart": 80.325,
+              "audioEnd": 88.463
+            },
+            {
+              "text": "Without hesitation, he ordered a large, expensive meal, planning to consume every morsel before revealing his penniless state to the management.",
+              "audioStart": 89.325,
+              "audioEnd": 97.375
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "With deliberate slowness, Soapy ate every bite of the feast, savoring the food while his mind calculated the inevitable confrontation with the staff.",
+              "audioStart": 98.237,
+              "audioEnd": 106.138
+            },
+            {
+              "text": "When the plates were finally empty, he looked up at the head waiter with a calm expression and stated quite plainly that he had not a single penny in his pockets.",
+              "audioStart": 107,
+              "audioEnd": 115.138
+            },
+            {
+              "text": "He invited the man to call for an officer of the law without delay.",
+              "audioStart": 116,
+              "audioEnd": 119.375
+            },
+            {
+              "text": "Yet, to Soapy s profound astonishment, the manager did not summon the police to escort him away in chains.",
+              "audioStart": 120.237,
+              "audioEnd": 126.388
+            },
+            {
+              "text": "Instead, two large waiters silently seized him by his collar and the seat of his trousers, lifting him effortlessly off the ground.",
+              "audioStart": 127.25,
+              "audioEnd": 134.238
+            },
+            {
+              "text": "They unceremoniously threw him out onto the cold stone pavement, leaving him to nurse his bruises in the gutter.",
+              "audioStart": 135.1,
+              "audioEnd": 140.512
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Stunned and humiliated, Soapy stood on the dark sidewalk and tried to formulate a new approach to his persistent problem.",
+              "audioStart": 141.375,
+              "audioEnd": 147.6
+            },
+            {
+              "text": "The bright lights of the restaurant only served to emphasize his exhaustion and his miserable failure.",
+              "audioStart": 148.463,
+              "audioEnd": 153.412
+            },
+            {
+              "text": "Passing customers glanced down at him with strange, pitying expressions, while the manager instructed the staff to ignore the poor wanderer entirely.",
+              "audioStart": 154.275,
+              "audioEnd": 162.363
+            },
+            {
+              "text": "Soapy realized that the law treated him with a frustrating indifference, refusing to acknowledge his deliberate provocation.",
+              "audioStart": 163.225,
+              "audioEnd": 169.762
+            },
+            {
+              "text": "He brushed the dust from his thin coat and walked away from the building, determined to find another opportunity to secure his winter lodging.",
+              "audioStart": 170.625,
+              "audioEnd": 177.738
+            },
+            {
+              "text": "His first scheme had collapsed completely, but he refused to abandon his quest for a warm prison cell.",
+              "audioStart": 178.6,
+              "audioEnd": 184.238
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A few blocks away, Soapy noticed a large plate-glass window shining brilliantly in front of a prominent luxury store.",
+              "audioStart": 185.1,
+              "audioEnd": 191.363
+            },
+            {
+              "text": "Seizing a heavy paving stone from the gutter, he crept toward the glass with a sudden burst of aggressive energy.",
+              "audioStart": 192.225,
+              "audioEnd": 197.863
+            },
+            {
+              "text": "He hurled the stone directly at the window, expecting the shattering crash to bring a frantic police officer running instantly.",
+              "audioStart": 198.725,
+              "audioEnd": 205.088
+            },
+            {
+              "text": "The glass broke with a loud, satisfying explosion that echoed sharply down the quiet street.",
+              "audioStart": 205.95,
+              "audioEnd": 210.95
+            },
+            {
+              "text": "Moments later, a policeman came running over quickly, his heavy boots clattering against the pavement.",
+              "audioStart": 211.812,
+              "audioEnd": 217.4
+            },
+            {
+              "text": "However, the officer took one look at Soapy s calm face and immediately concluded that the man was merely a merry customer who had made a foolish mistake.",
+              "audioStart": 218.262,
+              "audioEnd": 226.525
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Furious that his second attempt had failed, Soapy spotted a crowded theater district where people were laughing and talking loudly.",
+              "audioStart": 227.387,
+              "audioEnd": 234.125
+            },
+            {
+              "text": "He decided to try another silly trick near the box office, shouting nonsense at the top of his lungs and acting like a raving lunatic.",
+              "audioStart": 234.988,
+              "audioEnd": 243.478
+            },
+            {
+              "text": "He danced, he yelled, and he waved his arms wildly in the air, creating a chaotic scene in front of the startled ticket buyers.",
+              "audioStart": 244.341,
+              "audioEnd": 251.566
+            },
+            {
+              "text": "Yet, once again, no police officer would arrest him for his bizarre public disturbance.",
+              "audioStart": 252.429,
+              "audioEnd": 257.253
+            },
+            {
+              "text": "The local authorities simply believed that lively university students were only playing harmless games before the evening show.",
+              "audioStart": 258.116,
+              "audioEnd": 264.441
+            },
+            {
+              "text": "Soapy felt deeply defeated by this infuriating display of leniency from the men in uniform.",
+              "audioStart": 265.303,
+              "audioEnd": 270.241
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He dropped the heavy rock from his tired hand and watched it roll silently into the gutter.",
+              "audioStart": 271.103,
+              "audioEnd": 275.616
+            },
+            {
+              "text": "People walked past him without paying the slightest attention to his angry shouts or his pathetic appearance.",
+              "audioStart": 276.478,
+              "audioEnd": 281.928
+            },
+            {
+              "text": "He felt as though the entire world was conspiring against his simple, practical plan.",
+              "audioStart": 282.791,
+              "audioEnd": 287.378
+            },
+            {
+              "text": "The theater lights shone brilliantly above the street, casting long, mocking shadows across the pavement.",
+              "audioStart": 288.241,
+              "audioEnd": 293.916
+            },
+            {
+              "text": "With a heavy heart, he left the busy area and continued his lonely journey through the labyrinth of the town.",
+              "audioStart": 294.779,
+              "audioEnd": 300.166
+            },
+            {
+              "text": "The night grew colder, and his bones ached with a fatigue that went far beyond mere physical tiredness.",
+              "audioStart": 301.029,
+              "audioEnd": 306.378
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After several strange and difficult attempts, Soapy found himself walking away from the bright lights and the noisy crowds of the commercial district.",
+              "audioStart": 307.241,
+              "audioEnd": 314.891
+            },
+            {
+              "text": "He reached a quiet, residential street where a beautiful old stone church stood proudly against the dark winter sky.",
+              "audioStart": 315.753,
+              "audioEnd": 321.741
+            },
+            {
+              "text": "Wonderful, swelling organ music flowed out through the wide-open door into the crisp night air.",
+              "audioStart": 322.603,
+              "audioEnd": 327.378
+            },
+            {
+              "text": "The sweet, melancholic sound touched his weary heart deeply, arresting his steps and demanding his full attention.",
+              "audioStart": 328.241,
+              "audioEnd": 334.579
+            },
+            {
+              "text": "He looked back upon his wasted past life and realized with sudden clarity how many precious years he had thrown away.",
+              "audioStart": 335.441,
+              "audioEnd": 341.404
+            },
+            {
+              "text": "The sacred song reminded him of a time when his existence was guided by different principles and higher hopes.",
+              "audioStart": 342.266,
+              "audioEnd": 347.841
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He remembered his mother, the peaceful countryside, and the modest home where he had grown up as an innocent child.",
+              "audioStart": 348.704,
+              "audioEnd": 354.641
+            },
+            {
+              "text": "Those long-forgotten memories stirred a powerful emotion within his chest, bringing a rare moisture to his tired eyes.",
+              "audioStart": 355.503,
+              "audioEnd": 361.678
+            },
+            {
+              "text": "The gentle music continued to play softly through the night, creating a bridge between his present misery and his vanished youth.",
+              "audioStart": 362.541,
+              "audioEnd": 369.178
+            },
+            {
+              "text": "He stood very still in the shadow of the stone wall, listening intently to every single rising and falling note.",
+              "audioStart": 370.041,
+              "audioEnd": 376.016
+            },
+            {
+              "text": "A profound mental shift occurred within his mind as he contemplated the bleak reality of his future.",
+              "audioStart": 376.878,
+              "audioEnd": 381.878
+            },
+            {
+              "text": "He made a quiet resolution that he would finally leave his bad habits behind and redeem his broken life.",
+              "audioStart": 382.741,
+              "audioEnd": 388.253
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Standing there in the quiet night, Soapy made a firm, unshakeable promise to change his ways and find honest work the very next morning.",
+              "audioStart": 389.116,
+              "audioEnd": 396.404
+            },
+            {
+              "text": "He decided that he would become a completely new person and build a respectable future through his own genuine effort.",
+              "audioStart": 397.266,
+              "audioEnd": 402.978
+            },
+            {
+              "text": "He felt a sudden surge of optimism, believing that it was not too late to reclaim his dignity.",
+              "audioStart": 403.841,
+              "audioEnd": 408.728
+            },
+            {
+              "text": "At that very moment, strangely, a heavy hand descended firmly upon his shoulder.",
+              "audioStart": 409.591,
+              "audioEnd": 414.029
+            },
+            {
+              "text": "He turned around to see a stern police officer looking down at him with an expression of official authority.",
+              "audioStart": 414.891,
+              "audioEnd": 420.029
+            },
+            {
+              "text": "The officer finally decided to arrest him simply for loitering idly on the sidewalk.",
+              "audioStart": 420.891,
+              "audioEnd": 425.416
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Soapy was promptly marched down to the local station house and formally charged before the magistrate the following morning.",
+              "audioStart": 426.279,
+              "audioEnd": 432.404
+            },
+            {
+              "text": "The judge listened to the brief report and decided without hesitation that the man must stay in prison for the entire three-month winter season.",
+              "audioStart": 433.266,
+              "audioEnd": 440.391
+            },
+            {
+              "text": "Soapy accepted his unexpected sentence with a remarkably calm and peaceful mind.",
+              "audioStart": 441.253,
+              "audioEnd": 445.641
+            },
+            {
+              "text": "He knew that his ambitious new life of honest labor would simply have to wait until he was released from custody.",
+              "audioStart": 446.503,
+              "audioEnd": 451.878
+            },
+            {
+              "text": "Sitting quietly in the transport wagon, he realized that the cold winter would no longer trouble him inside the comfortable prison walls.",
+              "audioStart": 452.741,
+              "audioEnd": 459.803
+            },
+            {
+              "text": "As the heavy iron gates closed behind him, he felt that everything had happened for a reason, and his long journey of change had finally begun.",
+              "audioStart": 460.666,
+              "audioEnd": 468.178
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0143.mp3",
+      "wordTimings": "audio/c1/st-0143.timings.json",
+      "quiz": [
+        {
+          "q": "Why did Soapy originally want to be arrested?",
+          "options": [
+            "To escape a dangerous criminal gang",
+            "To find free shelter and food for the winter",
+            "To protest against the local government"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened after Soapy ate a large meal in the Broadway restaurant?",
+          "options": [
+            "The manager called the police immediately",
+            "He paid the bill with hidden money",
+            "Two waiters threw him out onto the pavement"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What caused Soapy to change his mind and decide to reform?",
+          "options": [
+            "Hearing beautiful church music that reminded him of his past",
+            "Being harshly scolded by a police officer",
+            "Reading a letter from his mother"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  }
+}

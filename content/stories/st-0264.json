@@ -1,0 +1,1092 @@
+{
+  "id": "st-0264",
+  "title": "The Steadfast Tin Soldier",
+  "genre": "classic",
+  "summary": "A one legged tin soldier watches a paper girl and faces many dangers.",
+  "coverScene": "A brave tin soldier with one leg stands proudly on a wooden table next to a small paper castle.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A man makes twenty little figures.",
+              "audioStart": 0.106,
+              "audioEnd": 2.3
+            },
+            {
+              "text": "He makes them from a hard thing.",
+              "audioStart": 3.264,
+              "audioEnd": 5
+            },
+            {
+              "text": "The last figure has only one part.",
+              "audioStart": 5.958,
+              "audioEnd": 8.264
+            },
+            {
+              "text": "He has only one foot.",
+              "audioStart": 9.222,
+              "audioEnd": 10.792
+            },
+            {
+              "text": "He stands as well as others.",
+              "audioStart": 11.75,
+              "audioEnd": 13.542
+            },
+            {
+              "text": "He stays on a table all day.",
+              "audioStart": 14.5,
+              "audioEnd": 16.375
+            },
+            {
+              "text": "A paper girl stands near him.",
+              "audioStart": 17.333,
+              "audioEnd": 19.194
+            },
+            {
+              "text": "She has only one part too.",
+              "audioStart": 20.153,
+              "audioEnd": 21.958
+            },
+            {
+              "text": "She has only one foot.",
+              "audioStart": 22.917,
+              "audioEnd": 24.528
+            },
+            {
+              "text": "The man looks at her all day.",
+              "audioStart": 25.486,
+              "audioEnd": 27.208
+            },
+            {
+              "text": "He wants her for his love.",
+              "audioStart": 28.167,
+              "audioEnd": 29.708
+            },
+            {
+              "text": "He thinks about her every morning.",
+              "audioStart": 30.667,
+              "audioEnd": 32.514
+            },
+            {
+              "text": "He thinks about her every night.",
+              "audioStart": 33.472,
+              "audioEnd": 35.264
+            },
+            {
+              "text": "A black person becomes very bad.",
+              "audioStart": 36.222,
+              "audioEnd": 38.431
+            },
+            {
+              "text": "He makes bad work for man.",
+              "audioStart": 39.389,
+              "audioEnd": 41.139
+            },
+            {
+              "text": "The man falls down from room.",
+              "audioStart": 42.097,
+              "audioEnd": 43.847
+            },
+            {
+              "text": "He lands right on the way.",
+              "audioStart": 44.806,
+              "audioEnd": 46.347
+            },
+            {
+              "text": "Two small children put him down.",
+              "audioStart": 47.306,
+              "audioEnd": 49.208
+            },
+            {
+              "text": "They put him in a house.",
+              "audioStart": 50.167,
+              "audioEnd": 51.542
+            },
+            {
+              "text": "The house is made of paper.",
+              "audioStart": 52.5,
+              "audioEnd": 54.083
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The house goes into the water.",
+              "audioStart": 55.042,
+              "audioEnd": 56.667
+            },
+            {
+              "text": "Water covers the little man.",
+              "audioStart": 57.625,
+              "audioEnd": 59.333
+            },
+            {
+              "text": "He stays under water for time.",
+              "audioStart": 60.292,
+              "audioEnd": 62.222
+            },
+            {
+              "text": "He stays for a long time.",
+              "audioStart": 63.181,
+              "audioEnd": 64.931
+            },
+            {
+              "text": "A big fish comes along now.",
+              "audioStart": 65.889,
+              "audioEnd": 67.736
+            },
+            {
+              "text": "A large fish eats the man.",
+              "audioStart": 68.694,
+              "audioEnd": 70.306
+            },
+            {
+              "text": "The fish goes through water.",
+              "audioStart": 71.264,
+              "audioEnd": 72.764
+            },
+            {
+              "text": "A woman cuts the fish open.",
+              "audioStart": 73.722,
+              "audioEnd": 75.458
+            },
+            {
+              "text": "She finds the little man right there.",
+              "audioStart": 76.417,
+              "audioEnd": 78.403
+            },
+            {
+              "text": "The man sees the paper girl again.",
+              "audioStart": 79.361,
+              "audioEnd": 81.403
+            },
+            {
+              "text": "He is very happy to see her.",
+              "audioStart": 82.361,
+              "audioEnd": 84.097
+            },
+            {
+              "text": "A child takes the man up.",
+              "audioStart": 85.056,
+              "audioEnd": 86.611
+            },
+            {
+              "text": "He puts the man into the light.",
+              "audioStart": 87.569,
+              "audioEnd": 89.361
+            },
+            {
+              "text": "The light is very big.",
+              "audioStart": 90.319,
+              "audioEnd": 91.722
+            },
+            {
+              "text": "They stay together in the light.",
+              "audioStart": 92.681,
+              "audioEnd": 94.431
+            },
+            {
+              "text": "They become one hard thing now.",
+              "audioStart": 95.389,
+              "audioEnd": 97.125
+            },
+            {
+              "text": "Their love stays true all time.",
+              "audioStart": 98.083,
+              "audioEnd": 100.042
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0264.mp3",
+      "wordTimings": "audio/a1/st-0264.timings.json",
+      "quiz": [
+        {
+          "q": "How many legs does the last soldier have?",
+          "options": [
+            "One leg",
+            "Two legs",
+            "Three legs"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where does the soldier fall?",
+          "options": [
+            "Into the fire",
+            "Onto the street",
+            "Into the water pipe"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What animal eats the soldier?",
+          "options": [
+            "A big rat",
+            "A large fish",
+            "A black goblin"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a group of figures was made.",
+              "audioStart": 0.106,
+              "audioEnd": 2.967
+            },
+            {
+              "text": "A man had only enough matter for the small people.",
+              "audioStart": 3.931,
+              "audioEnd": 6.806
+            },
+            {
+              "text": "Every single figure stood firm.",
+              "audioStart": 7.764,
+              "audioEnd": 9.708
+            },
+            {
+              "text": "The last one had only one foot because the matter ran out.",
+              "audioStart": 10.667,
+              "audioEnd": 14.194
+            },
+            {
+              "text": "He stood as well as the others.",
+              "audioStart": 15.153,
+              "audioEnd": 16.944
+            },
+            {
+              "text": "The man made each figure with care.",
+              "audioStart": 17.903,
+              "audioEnd": 19.944
+            },
+            {
+              "text": "He put them all on a big table.",
+              "audioStart": 20.903,
+              "audioEnd": 22.764
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On the table, there was a beautiful paper house.",
+              "audioStart": 23.722,
+              "audioEnd": 26.569
+            },
+            {
+              "text": "A lovely little paper dancer stood there too.",
+              "audioStart": 27.528,
+              "audioEnd": 30.208
+            },
+            {
+              "text": "She raised her arms on one foot.",
+              "audioStart": 31.167,
+              "audioEnd": 33.222
+            },
+            {
+              "text": "The small figure thought she was just like him.",
+              "audioStart": 34.181,
+              "audioEnd": 36.653
+            },
+            {
+              "text": "He watched her all day long.",
+              "audioStart": 37.611,
+              "audioEnd": 39.292
+            },
+            {
+              "text": "He wanted to make her his wife.",
+              "audioStart": 40.25,
+              "audioEnd": 42.111
+            },
+            {
+              "text": "He looked at her again and again.",
+              "audioStart": 43.069,
+              "audioEnd": 44.917
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Night came very soon.",
+              "audioStart": 45.875,
+              "audioEnd": 47.264
+            },
+            {
+              "text": "A black person sat inside a small box.",
+              "audioStart": 48.222,
+              "audioEnd": 50.944
+            },
+            {
+              "text": "The person became bad with the figure.",
+              "audioStart": 51.903,
+              "audioEnd": 54.042
+            },
+            {
+              "text": "He told him to look away from her.",
+              "audioStart": 55,
+              "audioEnd": 56.847
+            },
+            {
+              "text": "The figure acted as if he did not hear him.",
+              "audioStart": 57.806,
+              "audioEnd": 60.278
+            },
+            {
+              "text": "The next morning, the poor figure fell down.",
+              "audioStart": 61.236,
+              "audioEnd": 64.042
+            },
+            {
+              "text": "He lay on the cold floor.",
+              "audioStart": 65,
+              "audioEnd": 66.611
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Two young boys found him outside in the cold state.",
+              "audioStart": 67.569,
+              "audioEnd": 70.444
+            },
+            {
+              "text": "They placed him into a small paper house.",
+              "audioStart": 71.403,
+              "audioEnd": 73.708
+            },
+            {
+              "text": "The house moved down a dark water line.",
+              "audioStart": 74.667,
+              "audioEnd": 76.917
+            },
+            {
+              "text": "A large fish came up in the dark water.",
+              "audioStart": 77.875,
+              "audioEnd": 80.222
+            },
+            {
+              "text": "The animal swallowed the tin soldier in the canal.",
+              "audioStart": 81.181,
+              "audioEnd": 83.917
+            },
+            {
+              "text": "The figure had no pass.",
+              "audioStart": 84.875,
+              "audioEnd": 86.5
+            },
+            {
+              "text": "The house moved faster into a wide place with water.",
+              "audioStart": 87.458,
+              "audioEnd": 90.486
+            },
+            {
+              "text": "Water covered him completely.",
+              "audioStart": 91.444,
+              "audioEnd": 93.222
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A large fish came up.",
+              "audioStart": 94.181,
+              "audioEnd": 95.597
+            },
+            {
+              "text": "It took the figure whole in the dark water.",
+              "audioStart": 96.556,
+              "audioEnd": 98.792
+            },
+            {
+              "text": "Some time passed by.",
+              "audioStart": 99.75,
+              "audioEnd": 101.194
+            },
+            {
+              "text": "A woman caught the fish and bought it.",
+              "audioStart": 102.153,
+              "audioEnd": 104.097
+            },
+            {
+              "text": "She cut the fish open.",
+              "audioStart": 105.056,
+              "audioEnd": 106.472
+            },
+            {
+              "text": "She found the figure inside.",
+              "audioStart": 107.431,
+              "audioEnd": 109.069
+            },
+            {
+              "text": "She carried him back to the room.",
+              "audioStart": 110.028,
+              "audioEnd": 111.819
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The figure was very happy.",
+              "audioStart": 112.778,
+              "audioEnd": 114.375
+            },
+            {
+              "text": "He saw his lovely paper dancer standing again.",
+              "audioStart": 115.333,
+              "audioEnd": 118.264
+            },
+            {
+              "text": "A small child picked up the figure.",
+              "audioStart": 119.222,
+              "audioEnd": 121.292
+            },
+            {
+              "text": "He threw him right into the hot fire.",
+              "audioStart": 122.25,
+              "audioEnd": 124.333
+            },
+            {
+              "text": "A strong wind moved the paper dancer too.",
+              "audioStart": 125.292,
+              "audioEnd": 127.806
+            },
+            {
+              "text": "They died together.",
+              "audioStart": 128.764,
+              "audioEnd": 129.958
+            },
+            {
+              "text": "Nothing remained except a small heart made of the same matter.",
+              "audioStart": 130.917,
+              "audioEnd": 134.222
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0264.mp3",
+      "wordTimings": "audio/a2/st-0264.timings.json",
+      "quiz": [
+        {
+          "q": "Why did the last tin soldier have only one leg?",
+          "options": [
+            "The metal ran out.",
+            "A rat bit it off.",
+            "He lost it in the fire."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where did the two young boys put the tin soldier?",
+          "options": [
+            "In a paper castle",
+            "In a small paper boat",
+            "In a toy box"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What animal swallowed the tin soldier in the canal?",
+          "options": [
+            "A big rat",
+            "A large fish",
+            "A black goblin"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a group of metal figures was made in a factory.",
+              "audioStart": 0.1,
+              "audioEnd": 3.675
+            },
+            {
+              "text": "The man had only enough metal for twenty-five figures.",
+              "audioStart": 4.537,
+              "audioEnd": 7.45
+            },
+            {
+              "text": "Every single soldier stood straight on the table.",
+              "audioStart": 8.312,
+              "audioEnd": 10.713
+            },
+            {
+              "text": "The last one had only one leg.",
+              "audioStart": 11.575,
+              "audioEnd": 13.5
+            },
+            {
+              "text": "Although he had just one leg, he stood as firmly as the others.",
+              "audioStart": 14.363,
+              "audioEnd": 17.825
+            },
+            {
+              "text": "On the table, there was a paper house and a lovely paper dancer.",
+              "audioStart": 18.688,
+              "audioEnd": 22.337
+            },
+            {
+              "text": "The dancer stood on one leg while she raised her arms high.",
+              "audioStart": 23.2,
+              "audioEnd": 26.188
+            },
+            {
+              "text": "The metal soldier thought that she was just like him.",
+              "audioStart": 27.05,
+              "audioEnd": 29.488
+            },
+            {
+              "text": "He watched her all day because he wanted to make her his wife.",
+              "audioStart": 30.35,
+              "audioEnd": 33.413
+            },
+            {
+              "text": "When night came, a black toy character became angry with the soldier.",
+              "audioStart": 34.275,
+              "audioEnd": 37.837
+            },
+            {
+              "text": "The character told him to look away from the dancer.",
+              "audioStart": 38.7,
+              "audioEnd": 41.15
+            },
+            {
+              "text": "The soldier acted like he did not hear him at all.",
+              "audioStart": 42.013,
+              "audioEnd": 44.45
+            },
+            {
+              "text": "The next morning, the poor soldier fell down from the window straight onto the street below.",
+              "audioStart": 45.312,
+              "audioEnd": 49.812
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Two young boys found him outside in the rain.",
+              "audioStart": 50.675,
+              "audioEnd": 52.913
+            },
+            {
+              "text": "They placed him into a small paper boat.",
+              "audioStart": 53.775,
+              "audioEnd": 55.775
+            },
+            {
+              "text": "The boat moved down a dark water path where a big animal demanded a ticket.",
+              "audioStart": 56.638,
+              "audioEnd": 60.45
+            },
+            {
+              "text": "Because the soldier had no ticket, the boat moved into a wide area of water.",
+              "audioStart": 61.312,
+              "audioEnd": 65.325
+            },
+            {
+              "text": "The water covered him completely.",
+              "audioStart": 66.188,
+              "audioEnd": 67.925
+            },
+            {
+              "text": "Suddenly, a large fish swam up and took the soldier whole.",
+              "audioStart": 68.787,
+              "audioEnd": 71.8
+            },
+            {
+              "text": "After some time, the fish was caught and bought by a cook.",
+              "audioStart": 72.662,
+              "audioEnd": 75.812
+            },
+            {
+              "text": "When the cook cut the fish open, she found the soldier inside.",
+              "audioStart": 76.675,
+              "audioEnd": 79.775
+            },
+            {
+              "text": "She carried him back to the same room.",
+              "audioStart": 80.638,
+              "audioEnd": 82.525
+            },
+            {
+              "text": "The soldier was very happy to see his lovely paper dancer again.",
+              "audioStart": 83.388,
+              "audioEnd": 86.737
+            },
+            {
+              "text": "Suddenly, a small child picked up the soldier and threw him into the warm fire.",
+              "audioStart": 87.6,
+              "audioEnd": 91.75
+            },
+            {
+              "text": "A strong wind blew the paper dancer into the fire too.",
+              "audioStart": 92.612,
+              "audioEnd": 95.575
+            },
+            {
+              "text": "They burned together until nothing remained except a small heart made of metal.",
+              "audioStart": 96.438,
+              "audioEnd": 100.25
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many days have passed since the fire burned the little metal soldier.",
+              "audioStart": 101.112,
+              "audioEnd": 104.638
+            },
+            {
+              "text": "If someone looked closely at the ashes, they would see that small metal heart.",
+              "audioStart": 105.5,
+              "audioEnd": 109.425
+            },
+            {
+              "text": "The metal heart has stayed there for a long time.",
+              "audioStart": 110.287,
+              "audioEnd": 112.65
+            },
+            {
+              "text": "People have talked about the brave soldier and the paper dancer.",
+              "audioStart": 113.513,
+              "audioEnd": 116.575
+            },
+            {
+              "text": "Their story has lived on in this room.",
+              "audioStart": 117.438,
+              "audioEnd": 119.312
+            },
+            {
+              "text": "The small house and the table are still part of the room.",
+              "audioStart": 120.175,
+              "audioEnd": 122.925
+            },
+            {
+              "text": "Children have played games near the window where the soldier fell.",
+              "audioStart": 123.787,
+              "audioEnd": 126.737
+            },
+            {
+              "text": "No one has forgotten the little toy with one leg.",
+              "audioStart": 127.6,
+              "audioEnd": 130.113
+            },
+            {
+              "text": "Every afternoon, the light shines across the floor.",
+              "audioStart": 130.975,
+              "audioEnd": 133.8
+            },
+            {
+              "text": "The memory of the dancer and the soldier remains strong.",
+              "audioStart": 134.662,
+              "audioEnd": 137.438
+            },
+            {
+              "text": "We have remembered their love through all these years.",
+              "audioStart": 138.3,
+              "audioEnd": 140.637
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0264.mp3",
+      "wordTimings": "audio/b1/st-0264.timings.json",
+      "quiz": [
+        {
+          "q": "Why did the last tin soldier have only one leg?",
+          "options": [
+            "Because the metal ran out.",
+            "Because he lost it in a battle.",
+            "Because a child broke it."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the soldier after he fell from the window?",
+          "options": [
+            "Two boys placed him into a paper boat.",
+            "A black toy goblin caught him.",
+            "A large fish swallowed him immediately."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where did the cook find the tin soldier?",
+          "options": [
+            "Inside a large fish.",
+            "In a dark water pipe.",
+            "At the bottom of the street."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a group of strong metal soldiers was made by a man.",
+              "audioStart": 0.1,
+              "audioEnd": 3.913
+            },
+            {
+              "text": "The man had only enough metal for twenty figures.",
+              "audioStart": 4.775,
+              "audioEnd": 7.412
+            },
+            {
+              "text": "Every single soldier stood straight.",
+              "audioStart": 8.275,
+              "audioEnd": 10.125
+            },
+            {
+              "text": "The last one had only one leg because the metal ran out.",
+              "audioStart": 10.988,
+              "audioEnd": 14.062
+            },
+            {
+              "text": "Although he had just one leg, he stood as firmly as the others who had two.",
+              "audioStart": 14.925,
+              "audioEnd": 18.938
+            },
+            {
+              "text": "On the table where they lived, there was a wonderful paper castle and a lovely little paper dancer.",
+              "audioStart": 19.8,
+              "audioEnd": 24.938
+            },
+            {
+              "text": "The dancer stood on one leg.",
+              "audioStart": 25.8,
+              "audioEnd": 27.462
+            },
+            {
+              "text": "She raised her arms.",
+              "audioStart": 28.325,
+              "audioEnd": 29.575
+            },
+            {
+              "text": "This made the metal soldier think that she was just like him.",
+              "audioStart": 30.438,
+              "audioEnd": 33.337
+            },
+            {
+              "text": "He watched her all day because he wanted to make her his wife.",
+              "audioStart": 34.2,
+              "audioEnd": 37.263
+            },
+            {
+              "text": "When night came, a black toy enemy that sat inside a small box became angry with the soldier.",
+              "audioStart": 38.125,
+              "audioEnd": 43.275
+            },
+            {
+              "text": "The enemy told him to look away from the dancer.",
+              "audioStart": 44.138,
+              "audioEnd": 46.538
+            },
+            {
+              "text": "The soldier pretended that he did not hear.",
+              "audioStart": 47.4,
+              "audioEnd": 49.487
+            },
+            {
+              "text": "The next morning, the poor soldier fell down from the window straight onto the street below.",
+              "audioStart": 50.35,
+              "audioEnd": 54.85
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Two young boys found him outside in the rain.",
+              "audioStart": 55.712,
+              "audioEnd": 57.95
+            },
+            {
+              "text": "They placed him into a small paper boat.",
+              "audioStart": 58.812,
+              "audioEnd": 60.812
+            },
+            {
+              "text": "The boat sailed down a dark water pipe.",
+              "audioStart": 61.675,
+              "audioEnd": 63.7
+            },
+            {
+              "text": "A big rat demanded to see a pass.",
+              "audioStart": 64.562,
+              "audioEnd": 66.662
+            },
+            {
+              "text": "Because the soldier had no pass, the boat rushed faster into a wide water path.",
+              "audioStart": 67.525,
+              "audioEnd": 72.1
+            },
+            {
+              "text": "The water covered him completely.",
+              "audioStart": 72.963,
+              "audioEnd": 74.7
+            },
+            {
+              "text": "Suddenly, a large fish swam up and took the soldier whole in the dark water.",
+              "audioStart": 75.562,
+              "audioEnd": 79.513
+            },
+            {
+              "text": "After some time had passed, the fish was caught and taken to a market.",
+              "audioStart": 80.375,
+              "audioEnd": 84.2
+            },
+            {
+              "text": "A cook bought the fish.",
+              "audioStart": 85.062,
+              "audioEnd": 86.375
+            },
+            {
+              "text": "When the cook cut the fish open, she found the soldier inside.",
+              "audioStart": 87.237,
+              "audioEnd": 90.338
+            },
+            {
+              "text": "She carried him back to the same room.",
+              "audioStart": 91.2,
+              "audioEnd": 93.088
+            },
+            {
+              "text": "The soldier was very happy to see his lovely paper dancer standing again in her place.",
+              "audioStart": 93.95,
+              "audioEnd": 98.612
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, a small child picked up the metal soldier and threw him straight into the warm fire.",
+              "audioStart": 99.475,
+              "audioEnd": 104.275
+            },
+            {
+              "text": "A strong wind blew the paper dancer into the fire too.",
+              "audioStart": 105.138,
+              "audioEnd": 108.1
+            },
+            {
+              "text": "They burned together until nothing remained except a small heart made of metal.",
+              "audioStart": 108.963,
+              "audioEnd": 112.775
+            },
+            {
+              "text": "The fire burned very hot.",
+              "audioStart": 113.638,
+              "audioEnd": 115.225
+            },
+            {
+              "text": "The room was filled with bright light.",
+              "audioStart": 116.088,
+              "audioEnd": 117.888
+            },
+            {
+              "text": "The small heart remained where the fire had been.",
+              "audioStart": 118.75,
+              "audioEnd": 121.1
+            },
+            {
+              "text": "People who saw the metal heart knew that the story was true.",
+              "audioStart": 121.963,
+              "audioEnd": 124.688
+            },
+            {
+              "text": "The metal heart stayed there for a long time.",
+              "audioStart": 125.55,
+              "audioEnd": 127.787
+            },
+            {
+              "text": "Every person who entered the room could see the small heart.",
+              "audioStart": 128.65,
+              "audioEnd": 131.488
+            },
+            {
+              "text": "The memory of the soldier and the dancer lived on.",
+              "audioStart": 132.35,
+              "audioEnd": 134.8
+            },
+            {
+              "text": "Their love was stronger than the fire.",
+              "audioStart": 135.662,
+              "audioEnd": 137.537
+            },
+            {
+              "text": "Nothing could change what they felt for each other.",
+              "audioStart": 138.4,
+              "audioEnd": 140.625
+            },
+            {
+              "text": "The end of the story came with peace.",
+              "audioStart": 141.488,
+              "audioEnd": 143.338
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0264.mp3",
+      "wordTimings": "audio/b2/st-0264.timings.json",
+      "quiz": [
+        {
+          "q": "Why did the last tin soldier have only one leg?",
+          "options": [
+            "The metal ran out before the maker finished him.",
+            "He lost his leg during a battle in the room.",
+            "A child broke his leg while playing with him."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the tin soldier travel down the street after falling from the window?",
+          "options": [
+            "He walked slowly on his single leg.",
+            "Two boys put him into a small paper boat.",
+            "A large dog carried him in its mouth."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened to the soldier inside the dark canal?",
+          "options": [
+            "A large fish swallowed him whole.",
+            "He climbed out and found the paper castle.",
+            "A friendly rat helped him cross the water."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, from a worn iron spoon cast aside in a dusty workshop, twenty magnificent brothers were born into the world. Their creator had only enough precious metal for that exact number, shaping each infantryman with proud shoulders and a steady gaze. Every single soldier stood straight in his polished uniform, bearing the weight of his duty without a single complaint. The very last of them, however, had been fashioned with only one leg because the molten tin ran out before his mold could be fully satisfied. Although he balanced on a single limb, he stood as firmly and resolutely as the others who possessed a matched pair.",
+              "audioStart": 0.1,
+              "audioEnd": 37.462
+            },
+            {
+              "text": "They were placed upon a wooden table amidst a glittering array of discarded playthings and forgotten treasures. Beside them stood a wonderful paper castle with tiny glass windows reflecting the morning light, and near its gates lingered a lovely little paper dancer. She wore a skirt of gossamer gauze and a narrow blue ribbon across her shoulder, pinned with a sparkling sequin. The dancer stood entirely on one leg, extending her other limb backward so high that the observant metal soldier could not see it at all. This elegant posture made the lonely tin soldier think that she was just like him, bearing her singular balance with grace.",
+              "audioStart": 38.325,
+              "audioEnd": 75.013
+            },
+            {
+              "text": "He watched her across the varnished wood all day long, wishing to make her his wife, though he dared not speak his mind aloud. Not once did he regret his missing limb, for he felt that they shared a silent understanding that transcended ordinary speech. When night descended upon the quiet room, the toys were freed from their boxes to play at housekeeping and war. A small, black toy enemy that sat snugly inside a painted wooden box suddenly became intensely jealous of the soldier. The dark jack-in-the-box told him sharply to look away from the dancer and mind his own station.",
+              "audioStart": 75.875,
+              "audioEnd": 109.338
+            },
+            {
+              "text": "The soldier pretended that he did not hear the warning, keeping his gaze fixed firmly on the delicate lady of paper. The goblin grinned maliciously and hissed that the morning would bring a reckoning for such stubborn disregard of authority. The next morning, as the first pale rays of dawn filtered through the dusty panes, the poor soldier fell down from the window. Whether the malicious goblin pushed him or the autumn wind caught his heavy base remains a mystery, but he tumbled straight onto the cobblestone street below.",
+              "audioStart": 110.2,
+              "audioEnd": 138.988
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The descent was swift and terrifying, landing the soldier headfirst between the paving stones with his bayonet stuck firmly in the mud. Two young boys, running past in the damp morning air, found him immediately and paused to inspect their prize. They placed him carefully into a small paper boat folded from a discarded newspaper and pushed him out into the gutter. The street had become a rushing river from the overnight rain, and the frail vessel sailed down a dark water pipe with alarming speed.",
+              "audioStart": 139.85,
+              "audioEnd": 167.738
+            },
+            {
+              "text": "Darkness closed in around the little traveler as the paper walls began to soften under the relentless assault of the swirling current. A large water rat that lived beneath the wooden planks of the drain suddenly demanded to see a pass. Because the soldier had no passport or official papers to show, the terrified boat rushed faster into a wide water path. The dirty water covered him completely, threatening to sweep him away into the murky depths of the underground pipes.",
+              "audioStart": 168.6,
+              "audioEnd": 195.425
+            },
+            {
+              "text": "Suddenly, a large and hungry fish swam up from the shadows and took the soldier whole in the dark water. Inside the belly of the beast, it was pitch black and terribly cramped, yet the soldier never dropped his rifle. After some time had passed in that suffocating darkness, a fisherman caught the creature in a great net and took it to the busy market. A cook bought the fish for the midday meal and carried it back to the warm kitchen with a heavy basket.",
+              "audioStart": 196.287,
+              "audioEnd": 221.875
+            },
+            {
+              "text": "When the cook cut the fish open with a sharp knife, she was astonished to find the soldier inside the glistening belly. She picked him up by his belt with two fingers and carried him back to the very same room where he had lived before. The soldier was remarkably unchanged by his ordeal, save for a slight tarnish on his bright red coat. He was exceedingly happy to see his lovely paper dancer standing once again in her familiar place by the castle.",
+              "audioStart": 222.738,
+              "audioEnd": 249.563
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, without any warning, a small child picked up the metal soldier and threw him straight into the warm fire of the tiled stove. The child gave no reason for the cruel act, acting out of a sudden, careless impulse. A strong draft rushed through the room and blew the paper dancer off her platform and into the fire too. They burned together in the flickering flames until nothing remained of their paper and paint except a small heart made of solid metal.",
+              "audioStart": 250.425,
+              "audioEnd": 276.588
+            },
+            {
+              "text": "The fire burned very hot, fed by dry pine logs that crackled and spat sparks into the dark hearth. The room was filled with a bright, blinding light as the intense heat melted the tin soldier down to a shapeless lump. Yet the small heart remained intact where the fire had been the fiercest, glowing with a soft, enduring warmth. People who later cleared the cold ashes and saw the metal heart knew that the strange story was true.",
+              "audioStart": 277.45,
+              "audioEnd": 302.601
+            },
+            {
+              "text": "The metal heart stayed there upon the iron grate for a long time, untouched by the sweeping brush or the gathering dust. Every person who entered the room could see the small heart resting among the gray cinders. The memory of the steadfast soldier and the graceful dancer lived on in the hearts of those who looked upon it. Their enduring love proved to be stronger than the fire itself, surviving every trial the world could invent.",
+              "audioStart": 303.463,
+              "audioEnd": 327.625
+            },
+            {
+              "text": "Nothing could ever change what they felt for each other through all the trials of their brief existence. The end of the story came with a quiet peace that settled over the silent, shadowy room. The little metal heart rested softly in the ashes, carrying the quiet proof of a devotion that defied the flames.",
+              "audioStart": 328.488,
+              "audioEnd": 345.588
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0264.mp3",
+      "wordTimings": "audio/c1/st-0264.timings.json",
+      "quiz": [
+        {
+          "q": "Why did the last soldier have only one leg?",
+          "options": [
+            "He lost it in a battle with the toy goblin.",
+            "The man ran out of metal before finishing him.",
+            "The cook accidentally cut it off in the kitchen."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened to the soldier immediately after he fell from the window?",
+          "options": [
+            "Two young boys found him and put him in a paper boat.",
+            "A large fish swallowed him while he lay in the street.",
+            "A small child threw him directly into the warm fire."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the soldier return to the room after being swallowed by the fish?",
+          "options": [
+            "He climbed out of the kitchen drain pipes by himself.",
+            "The boys who found him earlier brought him back.",
+            "A cook found him inside the fish and carried him back."
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  }
+}

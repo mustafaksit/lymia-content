@@ -1,0 +1,1835 @@
+{
+  "id": "st-0163",
+  "title": "Hansel and Gretel",
+  "genre": "classic",
+  "summary": "Two children get lost in a dark forest and find a strange house.",
+  "coverScene": "A young boy and girl look at a magical house made entirely of sweet candy in the middle of a deep forest.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hansel and Gretel live near a forest.",
+              "audioStart": 0.106,
+              "audioEnd": 2.467
+            },
+            {
+              "text": "The family has very little food.",
+              "audioStart": 3.431,
+              "audioEnd": 5.444
+            },
+            {
+              "text": "Times are very hard now.",
+              "audioStart": 6.403,
+              "audioEnd": 7.875
+            },
+            {
+              "text": "The parents think a lot.",
+              "audioStart": 8.833,
+              "audioEnd": 10.361
+            },
+            {
+              "text": "The mother wants to leave the children.",
+              "audioStart": 11.319,
+              "audioEnd": 13.222
+            },
+            {
+              "text": "Hansel takes small white things.",
+              "audioStart": 14.181,
+              "audioEnd": 16.236
+            },
+            {
+              "text": "The white things show the way home.",
+              "audioStart": 17.194,
+              "audioEnd": 18.958
+            },
+            {
+              "text": "They walk back home again.",
+              "audioStart": 19.917,
+              "audioEnd": 21.486
+            },
+            {
+              "text": "The family has no food still.",
+              "audioStart": 22.444,
+              "audioEnd": 24.306
+            },
+            {
+              "text": "The parents think again.",
+              "audioStart": 25.264,
+              "audioEnd": 26.681
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The next time, Hansel uses food.",
+              "audioStart": 27.639,
+              "audioEnd": 30.0
+            },
+            {
+              "text": "Other things eat the food.",
+              "audioStart": 30.958,
+              "audioEnd": 32.431
+            },
+            {
+              "text": "The children go into the forest.",
+              "audioStart": 33.389,
+              "audioEnd": 35.264
+            },
+            {
+              "text": "The children are lost.",
+              "audioStart": 36.222,
+              "audioEnd": 37.694
+            },
+            {
+              "text": "They feel bad.",
+              "audioStart": 38.653,
+              "audioEnd": 39.625
+            },
+            {
+              "text": "They are not well.",
+              "audioStart": 40.583,
+              "audioEnd": 41.625
+            },
+            {
+              "text": "They see a house of food.",
+              "audioStart": 42.583,
+              "audioEnd": 44.056
+            },
+            {
+              "text": "It is made of good things.",
+              "audioStart": 45.014,
+              "audioEnd": 46.569
+            },
+            {
+              "text": "An old woman opens the door.",
+              "audioStart": 47.528,
+              "audioEnd": 49.375
+            },
+            {
+              "text": "She asks them to come in.",
+              "audioStart": 50.333,
+              "audioEnd": 51.847
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The woman is a bad person.",
+              "audioStart": 52.806,
+              "audioEnd": 54.486
+            },
+            {
+              "text": "She puts Hansel in a little room.",
+              "audioStart": 55.444,
+              "audioEnd": 57.361
+            },
+            {
+              "text": "She makes Gretel work hard.",
+              "audioStart": 58.319,
+              "audioEnd": 59.931
+            },
+            {
+              "text": "Gretel is not bad.",
+              "audioStart": 60.889,
+              "audioEnd": 62.208
+            },
+            {
+              "text": "The woman asks Gretel.",
+              "audioStart": 63.167,
+              "audioEnd": 64.597
+            },
+            {
+              "text": "The woman wants Gretel to look.",
+              "audioStart": 65.556,
+              "audioEnd": 67.361
+            },
+            {
+              "text": "Gretel looks at the light.",
+              "audioStart": 68.319,
+              "audioEnd": 69.778
+            },
+            {
+              "text": "Gretel puts the woman in the light.",
+              "audioStart": 70.736,
+              "audioEnd": 72.667
+            },
+            {
+              "text": "The woman is gone.",
+              "audioStart": 73.625,
+              "audioEnd": 74.819
+            },
+            {
+              "text": "The children find much money.",
+              "audioStart": 75.778,
+              "audioEnd": 77.569
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They take the money and run.",
+              "audioStart": 78.528,
+              "audioEnd": 80.056
+            },
+            {
+              "text": "A good thing helps them.",
+              "audioStart": 81.014,
+              "audioEnd": 82.333
+            },
+            {
+              "text": "They go over water.",
+              "audioStart": 83.292,
+              "audioEnd": 84.514
+            },
+            {
+              "text": "They reach home.",
+              "audioStart": 85.472,
+              "audioEnd": 86.444
+            },
+            {
+              "text": "The family lives in a good way.",
+              "audioStart": 87.403,
+              "audioEnd": 89.153
+            },
+            {
+              "text": "They have much food.",
+              "audioStart": 90.111,
+              "audioEnd": 91.306
+            },
+            {
+              "text": "They have much money.",
+              "audioStart": 92.264,
+              "audioEnd": 93.486
+            },
+            {
+              "text": "The children are well at home.",
+              "audioStart": 94.444,
+              "audioEnd": 96.125
+            },
+            {
+              "text": "They feel very good now.",
+              "audioStart": 97.083,
+              "audioEnd": 98.472
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0163.mp3",
+      "wordTimings": "audio/a1/st-0163.timings.json",
+      "quiz": [
+        {
+          "q": "What do the children find in the forest?",
+          "options": [
+            "A house of food",
+            "A large city",
+            "A school"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does Hansel use the second time?",
+          "options": [
+            "White stones",
+            "Bread",
+            "Gold"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who is the old woman?",
+          "options": [
+            "A mother",
+            "A teacher",
+            "A wicked witch"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, Hansel and Gretel lived near a large forest.",
+              "audioStart": 0.106,
+              "audioEnd": 4.356
+            },
+            {
+              "text": "The family had very little food every single day.",
+              "audioStart": 5.319,
+              "audioEnd": 8.375
+            },
+            {
+              "text": "Times were difficult.",
+              "audioStart": 9.333,
+              "audioEnd": 10.556
+            },
+            {
+              "text": "The parents worried about the coming year.",
+              "audioStart": 11.514,
+              "audioEnd": 13.694
+            },
+            {
+              "text": "One afternoon, the mother made a plan.",
+              "audioStart": 14.653,
+              "audioEnd": 17.028
+            },
+            {
+              "text": "The children must go deep into the trees.",
+              "audioStart": 17.986,
+              "audioEnd": 20.347
+            },
+            {
+              "text": "Hansel was a very smart boy.",
+              "audioStart": 21.306,
+              "audioEnd": 23.097
+            },
+            {
+              "text": "He gathered small white items along the ground.",
+              "audioStart": 24.056,
+              "audioEnd": 26.806
+            },
+            {
+              "text": "When the morning light came, those items helped them find home.",
+              "audioStart": 27.764,
+              "audioEnd": 31.333
+            },
+            {
+              "text": "They walked back without any trouble.",
+              "audioStart": 32.292,
+              "audioEnd": 34.389
+            },
+            {
+              "text": "They were very tired, but they reached their house.",
+              "audioStart": 35.347,
+              "audioEnd": 38.236
+            },
+            {
+              "text": "The parents were happy to see them again.",
+              "audioStart": 39.194,
+              "audioEnd": 41.347
+            },
+            {
+              "text": "However, the food problem did not go away.",
+              "audioStart": 42.306,
+              "audioEnd": 44.944
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The next time, Hansel used pieces of food instead of small rocks.",
+              "audioStart": 45.903,
+              "audioEnd": 50.222
+            },
+            {
+              "text": "Small animals ate the food.",
+              "audioStart": 51.181,
+              "audioEnd": 52.917
+            },
+            {
+              "text": "Hansel and Gretel were lost in the dark trees.",
+              "audioStart": 53.875,
+              "audioEnd": 56.667
+            },
+            {
+              "text": "They felt cold and bad while they walked.",
+              "audioStart": 57.625,
+              "audioEnd": 59.806
+            },
+            {
+              "text": "The brother and sister discovered a house.",
+              "audioStart": 60.764,
+              "audioEnd": 62.986
+            },
+            {
+              "text": "It was made of food and other things.",
+              "audioStart": 63.944,
+              "audioEnd": 66.125
+            },
+            {
+              "text": "As they began to eat the wall, an old woman opened the door.",
+              "audioStart": 67.083,
+              "audioEnd": 70.528
+            },
+            {
+              "text": "She welcomed them inside with a promise of food and a bed.",
+              "audioStart": 71.486,
+              "audioEnd": 74.708
+            },
+            {
+              "text": "That old woman was a bad person.",
+              "audioStart": 75.667,
+              "audioEnd": 77.722
+            },
+            {
+              "text": "She put Hansel inside a small box.",
+              "audioStart": 78.681,
+              "audioEnd": 81.056
+            },
+            {
+              "text": "She made Gretel work hard every day.",
+              "audioStart": 82.014,
+              "audioEnd": 84.25
+            },
+            {
+              "text": "The bad woman planned to make the boy in a hot place.",
+              "audioStart": 85.208,
+              "audioEnd": 88.25
+            },
+            {
+              "text": "She wanted to cook him for dinner.",
+              "audioStart": 89.208,
+              "audioEnd": 91.0
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The woman asked Gretel to check the hot place.",
+              "audioStart": 91.958,
+              "audioEnd": 94.694
+            },
+            {
+              "text": "The smart girl stated that she did not understand.",
+              "audioStart": 95.653,
+              "audioEnd": 98.389
+            },
+            {
+              "text": "As the woman moved inside, Gretel pushed her fast.",
+              "audioStart": 99.347,
+              "audioEnd": 102.653
+            },
+            {
+              "text": "The children found a box full of money inside the house.",
+              "audioStart": 103.611,
+              "audioEnd": 106.806
+            },
+            {
+              "text": "Taking the money, Hansel and Gretel ran out of the forest.",
+              "audioStart": 107.764,
+              "audioEnd": 111.431
+            },
+            {
+              "text": "They crossed water on the back of an animal.",
+              "audioStart": 112.389,
+              "audioEnd": 114.653
+            },
+            {
+              "text": "They finally reached their home.",
+              "audioStart": 115.611,
+              "audioEnd": 117.403
+            },
+            {
+              "text": "Their parents were sorry, and the family lived in low sound love.",
+              "audioStart": 118.361,
+              "audioEnd": 122.264
+            },
+            {
+              "text": "They never had any more hunger in their lives.",
+              "audioStart": 123.222,
+              "audioEnd": 125.694
+            },
+            {
+              "text": "The children grew up and stayed safe every day.",
+              "audioStart": 126.653,
+              "audioEnd": 129.319
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0163.mp3",
+      "wordTimings": "audio/a2/st-0163.timings.json",
+      "quiz": [
+        {
+          "q": "What did Hansel use the first time to find his way back home?",
+          "options": [
+            "Small white stones",
+            "Pieces of bread",
+            "Sweet chocolate"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What was the strange house made of?",
+          "options": [
+            "Gold and stones",
+            "Sugar, bread, and chocolate",
+            "Wood and glass"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the children find inside the house after the witch was defeated?",
+          "options": [
+            "A box full of gold",
+            "Lots of food",
+            "Their mother and father"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, two young children named Hansel and Gretel lived near a large forest.",
+              "audioStart": 0.1,
+              "audioEnd": 4.912
+            },
+            {
+              "text": "The family had very little food, so times were extremely difficult.",
+              "audioStart": 5.775,
+              "audioEnd": 9.625
+            },
+            {
+              "text": "The parents worried constantly about how they will survive the coming winter.",
+              "audioStart": 10.488,
+              "audioEnd": 14.075
+            },
+            {
+              "text": "They had no money and almost nothing to eat.",
+              "audioStart": 14.938,
+              "audioEnd": 17.262
+            },
+            {
+              "text": "Every single day, the father and mother tried to find a solution.",
+              "audioStart": 18.125,
+              "audioEnd": 21.925
+            },
+            {
+              "text": "However, the problem remained very big and serious.",
+              "audioStart": 22.788,
+              "audioEnd": 25.7
+            },
+            {
+              "text": "The mother decided that the children must be left deep inside the woods.",
+              "audioStart": 26.562,
+              "audioEnd": 30.188
+            },
+            {
+              "text": "She believed this choice was the only way to save the family.",
+              "audioStart": 31.05,
+              "audioEnd": 34.087
+            },
+            {
+              "text": "The father felt sad, but he agreed with her plan.",
+              "audioStart": 34.95,
+              "audioEnd": 37.775
+            },
+            {
+              "text": "They talked about the idea late into the night.",
+              "audioStart": 38.638,
+              "audioEnd": 40.875
+            },
+            {
+              "text": "The children listened quietly from their small bed in the corner.",
+              "audioStart": 41.737,
+              "audioEnd": 44.737
+            },
+            {
+              "text": "They felt very afraid of what might happen next.",
+              "audioStart": 45.6,
+              "audioEnd": 48.062
+            },
+            {
+              "text": "Hansel thought about a way to keep them safe.",
+              "audioStart": 48.925,
+              "audioEnd": 51.112
+            },
+            {
+              "text": "He knew the forest well because he played there often.",
+              "audioStart": 51.975,
+              "audioEnd": 54.562
+            },
+            {
+              "text": "When the sun went down, he gathered small white stones along the path.",
+              "audioStart": 55.425,
+              "audioEnd": 59.212
+            },
+            {
+              "text": "He put the stones into his pocket and waited for morning.",
+              "audioStart": 60.075,
+              "audioEnd": 62.862
+            },
+            {
+              "text": "The next day, the parents took Hansel and Gretel deep into the woods.",
+              "audioStart": 63.725,
+              "audioEnd": 67.4
+            },
+            {
+              "text": "As they walked, Hansel dropped the white stones one by one behind him.",
+              "audioStart": 68.263,
+              "audioEnd": 72.013
+            },
+            {
+              "text": "The parents left the children alone and walked away quickly.",
+              "audioStart": 72.875,
+              "audioEnd": 75.9
+            },
+            {
+              "text": "Hansel and Gretel sat down on the ground and waited for hours.",
+              "audioStart": 76.763,
+              "audioEnd": 80.0
+            },
+            {
+              "text": "When the night sky grew dark, the white stones appeared clear and bright.",
+              "audioStart": 80.862,
+              "audioEnd": 84.588
+            },
+            {
+              "text": "Those stones helped them find their way back home safely.",
+              "audioStart": 85.45,
+              "audioEnd": 88.2
+            },
+            {
+              "text": "Their parents looked surprised when the children returned to the house.",
+              "audioStart": 89.062,
+              "audioEnd": 92.3
+            },
+            {
+              "text": "For a short time, the family had peace again.",
+              "audioStart": 93.162,
+              "audioEnd": 95.737
+            },
+            {
+              "text": "Unfortunately, the food ran out completely after a few days.",
+              "audioStart": 96.6,
+              "audioEnd": 100.175
+            },
+            {
+              "text": "The mother made the same harsh plan once more.",
+              "audioStart": 101.037,
+              "audioEnd": 103.4
+            },
+            {
+              "text": "She told the father that they must leave the children again.",
+              "audioStart": 104.263,
+              "audioEnd": 106.888
+            },
+            {
+              "text": "This time, Hansel could not gather stones because the door was locked.",
+              "audioStart": 107.75,
+              "audioEnd": 111.375
+            },
+            {
+              "text": "The next morning, the family walked far into the forest.",
+              "audioStart": 112.237,
+              "audioEnd": 115.4
+            },
+            {
+              "text": "Hansel used small pieces of food instead of stones.",
+              "audioStart": 116.263,
+              "audioEnd": 119.263
+            },
+            {
+              "text": "He dropped tiny parts of food along the dark path.",
+              "audioStart": 120.125,
+              "audioEnd": 123.013
+            },
+            {
+              "text": "Unluckily, small birds flew down and ate every single piece.",
+              "audioStart": 123.875,
+              "audioEnd": 127.575
+            },
+            {
+              "text": "The birds left Hansel and Gretel completely lost in the deep woods.",
+              "audioStart": 128.438,
+              "audioEnd": 132.088
+            },
+            {
+              "text": "The brother and sister walked for a long time.",
+              "audioStart": 132.95,
+              "audioEnd": 135.287
+            },
+            {
+              "text": "They felt tired, cold, and extremely afraid.",
+              "audioStart": 136.15,
+              "audioEnd": 139.075
+            },
+            {
+              "text": "The wind blew through the trees, making strange noises all around them.",
+              "audioStart": 139.938,
+              "audioEnd": 143.512
+            },
+            {
+              "text": "They held hands tightly as they moved forward.",
+              "audioStart": 144.375,
+              "audioEnd": 146.637
+            },
+            {
+              "text": "Suddenly, the brother and sister discovered a strange house.",
+              "audioStart": 147.5,
+              "audioEnd": 150.662
+            },
+            {
+              "text": "The house was made of sweet food like sugar, bread, and chocolate.",
+              "audioStart": 151.525,
+              "audioEnd": 155.287
+            },
+            {
+              "text": "They felt very happy because they were extremely empty inside.",
+              "audioStart": 156.15,
+              "audioEnd": 159.3
+            },
+            {
+              "text": "As they began to eat the walls, an old woman opened the front door.",
+              "audioStart": 160.162,
+              "audioEnd": 163.662
+            },
+            {
+              "text": "She invited them inside with a big smile.",
+              "audioStart": 164.525,
+              "audioEnd": 166.775
+            },
+            {
+              "text": "She promised them a wonderful meal and a warm bed for the night.",
+              "audioStart": 167.637,
+              "audioEnd": 170.762
+            },
+            {
+              "text": "The children entered the room without any fear.",
+              "audioStart": 171.625,
+              "audioEnd": 173.912
+            },
+            {
+              "text": "They sat at a large table and ate as much as they wanted.",
+              "audioStart": 174.775,
+              "audioEnd": 177.738
+            },
+            {
+              "text": "After that, the old woman gave them comfortable places to sleep.",
+              "audioStart": 178.6,
+              "audioEnd": 182.05
+            },
+            {
+              "text": "However, that old woman was actually a bad person who liked to catch children.",
+              "audioStart": 182.912,
+              "audioEnd": 187.225
+            },
+            {
+              "text": "She wanted to cook them and eat them for dinner.",
+              "audioStart": 188.088,
+              "audioEnd": 190.238
+            },
+            {
+              "text": "The next morning, she locked Hansel inside a small cage.",
+              "audioStart": 191.1,
+              "audioEnd": 194.5
+            },
+            {
+              "text": "She made Gretel work hard every single day.",
+              "audioStart": 195.363,
+              "audioEnd": 197.812
+            },
+            {
+              "text": "Gretel had to clean the floors and bring water from the well.",
+              "audioStart": 198.675,
+              "audioEnd": 201.6
+            },
+            {
+              "text": "The bad woman planned to cook the boy as soon as he grew fat.",
+              "audioStart": 202.463,
+              "audioEnd": 205.625
+            },
+            {
+              "text": "Gretel cried every night because she missed her home and parents.",
+              "audioStart": 206.488,
+              "audioEnd": 209.562
+            },
+            {
+              "text": "She hoped that someone would come and save them.",
+              "audioStart": 210.425,
+              "audioEnd": 212.6
+            },
+            {
+              "text": "Despite the danger, the young girl remained strong and smart.",
+              "audioStart": 213.463,
+              "audioEnd": 216.637
+            },
+            {
+              "text": "She watched the bad woman carefully every single day.",
+              "audioStart": 217.5,
+              "audioEnd": 220.35
+            },
+            {
+              "text": "One morning, the woman told Gretel to check the hot oven.",
+              "audioStart": 221.213,
+              "audioEnd": 224.2
+            },
+            {
+              "text": "She wanted to bake bread and needed the fire to be very hot.",
+              "audioStart": 225.062,
+              "audioEnd": 228.238
+            },
+            {
+              "text": "The smart girl pretended that she did not understand.",
+              "audioStart": 229.1,
+              "audioEnd": 231.662
+            },
+            {
+              "text": "She asked the woman to show her how to check the heat.",
+              "audioStart": 232.525,
+              "audioEnd": 235.012
+            },
+            {
+              "text": "The bad woman grew angry and leaned inside the hot oven.",
+              "audioStart": 235.875,
+              "audioEnd": 238.775
+            },
+            {
+              "text": "As soon as the woman was inside, Gretel pushed her quickly.",
+              "audioStart": 239.637,
+              "audioEnd": 242.8
+            },
+            {
+              "text": "Then she closed the heavy door and locked it tight.",
+              "audioStart": 243.662,
+              "audioEnd": 246.175
+            },
+            {
+              "text": "The bad woman was completely defeated inside the fire.",
+              "audioStart": 247.037,
+              "audioEnd": 250.025
+            },
+            {
+              "text": "Gretel ran fast to the small cage and opened the door for Hansel.",
+              "audioStart": 250.887,
+              "audioEnd": 254.325
+            },
+            {
+              "text": "The brother and sister hugged each other with great joy.",
+              "audioStart": 255.188,
+              "audioEnd": 257.788
+            },
+            {
+              "text": "They explored the strange house and found a box full of gold coins.",
+              "audioStart": 258.65,
+              "audioEnd": 262.188
+            },
+            {
+              "text": "Taking the gold with them, Hansel and Gretel ran happily out of the forest.",
+              "audioStart": 263.05,
+              "audioEnd": 266.975
+            },
+            {
+              "text": "They reached a wide water and saw a friendly bird waiting.",
+              "audioStart": 267.837,
+              "audioEnd": 271.712
+            },
+            {
+              "text": "The bird carried them across the water safely.",
+              "audioStart": 272.575,
+              "audioEnd": 274.95
+            },
+            {
+              "text": "Soon, they saw their small house in the distance.",
+              "audioStart": 275.812,
+              "audioEnd": 278.438
+            },
+            {
+              "text": "Their parents were deeply sorry for what they had done.",
+              "audioStart": 279.3,
+              "audioEnd": 281.9
+            },
+            {
+              "text": "The family hugged the children and cried tears of joy.",
+              "audioStart": 282.762,
+              "audioEnd": 285.5
+            },
+            {
+              "text": "With the gold they brought home, they bought plenty of food.",
+              "audioStart": 286.363,
+              "audioEnd": 289.125
+            },
+            {
+              "text": "The parents never left their children again.",
+              "audioStart": 289.988,
+              "audioEnd": 292.125
+            },
+            {
+              "text": "Hansel and Gretel grew up healthy and strong.",
+              "audioStart": 292.988,
+              "audioEnd": 295.175
+            },
+            {
+              "text": "The family lived together in peace for the rest of their lives.",
+              "audioStart": 296.038,
+              "audioEnd": 299.175
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0163.mp3",
+      "wordTimings": "audio/b1/st-0163.timings.json",
+      "quiz": [
+        {
+          "q": "What did Hansel use the first time to find his way home?",
+          "options": [
+            "Pieces of bread",
+            "Small white stones",
+            "Gold coins"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What was the strange house made of?",
+          "options": [
+            "Sugar, bread, and chocolate",
+            "Wood and stone",
+            "Glass and metal"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did Gretel defeat the wicked witch?",
+          "options": [
+            "She locked her in a cage",
+            "She pushed her into the hot oven",
+            "She gave her poisonous food"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, two young children named Hansel and Gretel lived near a large forest with their family.",
+              "audioStart": 0.1,
+              "audioEnd": 5.7
+            },
+            {
+              "text": "Because the family had very little food, times were extremely difficult.",
+              "audioStart": 6.562,
+              "audioEnd": 10.4
+            },
+            {
+              "text": "The parents worried constantly about how they would survive the coming winter.",
+              "audioStart": 11.262,
+              "audioEnd": 14.863
+            },
+            {
+              "text": "They did not know what they should do to feed the children.",
+              "audioStart": 15.725,
+              "audioEnd": 18.05
+            },
+            {
+              "text": "Every single day, the situation became worse than it was before.",
+              "audioStart": 18.913,
+              "audioEnd": 22.5
+            },
+            {
+              "text": "The mother and father talked about the problem for hours.",
+              "audioStart": 23.363,
+              "audioEnd": 26.137
+            },
+            {
+              "text": "They knew that something must be done immediately.",
+              "audioStart": 27.0,
+              "audioEnd": 29.3
+            },
+            {
+              "text": "Otherwise, everyone would die because of the lack of food.",
+              "audioStart": 30.163,
+              "audioEnd": 33.2
+            },
+            {
+              "text": "The family had very few options left to consider.",
+              "audioStart": 34.062,
+              "audioEnd": 36.8
+            },
+            {
+              "text": "Therefore, the parents made a hard decision.",
+              "audioStart": 37.663,
+              "audioEnd": 40.038
+            },
+            {
+              "text": "They decided that the children must be left deep inside the woods.",
+              "audioStart": 40.9,
+              "audioEnd": 44.25
+            },
+            {
+              "text": "If the children were left alone, the parents might find a way to manage.",
+              "audioStart": 45.112,
+              "audioEnd": 48.737
+            },
+            {
+              "text": "This plan was terrible, but the parents felt they had no other choice.",
+              "audioStart": 49.6,
+              "audioEnd": 53.25
+            },
+            {
+              "text": "Hansel heard everything that his parents discussed.",
+              "audioStart": 54.112,
+              "audioEnd": 56.65
+            },
+            {
+              "text": "He was a smart boy who always planned ahead.",
+              "audioStart": 57.513,
+              "audioEnd": 59.837
+            },
+            {
+              "text": "Before they went into the forest, he gathered small white stones along the path.",
+              "audioStart": 60.7,
+              "audioEnd": 65.0
+            },
+            {
+              "text": "He put the stones into his pocket quietly.",
+              "audioStart": 65.862,
+              "audioEnd": 68.125
+            },
+            {
+              "text": "His parents did not notice what he was doing.",
+              "audioStart": 68.987,
+              "audioEnd": 71.325
+            },
+            {
+              "text": "They walked for a long time until they reached a very dark part of the woods.",
+              "audioStart": 72.188,
+              "audioEnd": 75.912
+            },
+            {
+              "text": "There, the parents told the children to wait while they gathered wood.",
+              "audioStart": 76.775,
+              "audioEnd": 80.1
+            },
+            {
+              "text": "Soon, night came, and the children were completely alone.",
+              "audioStart": 80.963,
+              "audioEnd": 84.225
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the moon shone brightly, those white stones helped them find their way back home safely.",
+              "audioStart": 85.088,
+              "audioEnd": 89.662
+            },
+            {
+              "text": "Their parents were surprised when the children returned.",
+              "audioStart": 90.525,
+              "audioEnd": 93.15
+            },
+            {
+              "text": "However, food ran out again very quickly.",
+              "audioStart": 94.013,
+              "audioEnd": 96.537
+            },
+            {
+              "text": "The family faced the same terrible problem within days.",
+              "audioStart": 97.4,
+              "audioEnd": 100.362
+            },
+            {
+              "text": "The parents decided to leave the children in the woods once more.",
+              "audioStart": 101.225,
+              "audioEnd": 104.325
+            },
+            {
+              "text": "This time, they walked even deeper into the forest.",
+              "audioStart": 105.188,
+              "audioEnd": 107.938
+            },
+            {
+              "text": "Hansel wanted to gather more stones, but the door was locked.",
+              "audioStart": 108.8,
+              "audioEnd": 112.062
+            },
+            {
+              "text": "He could not go outside to find any stones.",
+              "audioStart": 112.925,
+              "audioEnd": 115.35
+            },
+            {
+              "text": "Instead, he used pieces of bread which he kept from breakfast.",
+              "audioStart": 116.213,
+              "audioEnd": 119.8
+            },
+            {
+              "text": "As they walked, he dropped small pieces of bread on the ground behind them.",
+              "audioStart": 120.662,
+              "audioEnd": 124.525
+            },
+            {
+              "text": "He thought that the bread would show them the way home again.",
+              "audioStart": 125.388,
+              "audioEnd": 127.875
+            },
+            {
+              "text": "Sadly, many birds flew down from the trees.",
+              "audioStart": 128.738,
+              "audioEnd": 131.35
+            },
+            {
+              "text": "Those birds ate the bread pieces completely.",
+              "audioStart": 132.213,
+              "audioEnd": 134.463
+            },
+            {
+              "text": "When evening arrived, Hansel and Gretel looked for the bread.",
+              "audioStart": 135.325,
+              "audioEnd": 138.387
+            },
+            {
+              "text": "Nothing was left on the ground.",
+              "audioStart": 139.25,
+              "audioEnd": 140.863
+            },
+            {
+              "text": "They were completely lost in the dark trees.",
+              "audioStart": 141.725,
+              "audioEnd": 144.025
+            },
+            {
+              "text": "While they walked deeper into the forest, they felt tired and cold.",
+              "audioStart": 144.887,
+              "audioEnd": 148.262
+            },
+            {
+              "text": "Both the brother and sister were very afraid.",
+              "audioStart": 149.125,
+              "audioEnd": 151.363
+            },
+            {
+              "text": "They did not know where they should go.",
+              "audioStart": 152.225,
+              "audioEnd": 153.85
+            },
+            {
+              "text": "The wind blew through the trees, making strange noises.",
+              "audioStart": 154.713,
+              "audioEnd": 157.688
+            },
+            {
+              "text": "They held each other tightly as they walked through the dark.",
+              "audioStart": 158.55,
+              "audioEnd": 161.213
+            },
+            {
+              "text": "They hoped that someone might help them find a safe place.",
+              "audioStart": 162.075,
+              "audioEnd": 165.025
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, the brother and sister discovered a strange house.",
+              "audioStart": 165.887,
+              "audioEnd": 169.05
+            },
+            {
+              "text": "This house was made entirely of sugar, bread, and sweet chocolate.",
+              "audioStart": 169.912,
+              "audioEnd": 173.838
+            },
+            {
+              "text": "They were very empty inside, so they began to eat parts of the walls.",
+              "audioStart": 174.7,
+              "audioEnd": 178.45
+            },
+            {
+              "text": "While they ate the sweet walls, an old woman opened the front door.",
+              "audioStart": 179.312,
+              "audioEnd": 182.662
+            },
+            {
+              "text": "She looked at them and smiled in a friendly way.",
+              "audioStart": 183.525,
+              "audioEnd": 185.775
+            },
+            {
+              "text": "She invited them inside her strange home.",
+              "audioStart": 186.637,
+              "audioEnd": 188.775
+            },
+            {
+              "text": "She promised them a wonderful meal and a warm bed for the night.",
+              "audioStart": 189.637,
+              "audioEnd": 192.762
+            },
+            {
+              "text": "The children were happy because they were so tired.",
+              "audioStart": 193.625,
+              "audioEnd": 196.1
+            },
+            {
+              "text": "They went inside without any fear.",
+              "audioStart": 196.963,
+              "audioEnd": 198.825
+            },
+            {
+              "text": "The old woman gave them good food to eat.",
+              "audioStart": 199.688,
+              "audioEnd": 201.762
+            },
+            {
+              "text": "After they finished eating, she showed them comfortable beds.",
+              "audioStart": 202.625,
+              "audioEnd": 205.65
+            },
+            {
+              "text": "Hansel and Gretel went to sleep quickly.",
+              "audioStart": 206.512,
+              "audioEnd": 208.562
+            },
+            {
+              "text": "They believed that they were finally safe.",
+              "audioStart": 209.425,
+              "audioEnd": 211.488
+            },
+            {
+              "text": "However, that old woman was actually an evil person who liked to catch children.",
+              "audioStart": 212.35,
+              "audioEnd": 216.75
+            },
+            {
+              "text": "She wanted to harm them badly.",
+              "audioStart": 217.613,
+              "audioEnd": 219.213
+            },
+            {
+              "text": "The next morning, she showed her true character.",
+              "audioStart": 220.075,
+              "audioEnd": 222.6
+            },
+            {
+              "text": "She caught Hansel and locked him inside a small room with iron bars.",
+              "audioStart": 223.463,
+              "audioEnd": 227.037
+            },
+            {
+              "text": "Then, she made Gretel work hard every single day.",
+              "audioStart": 227.9,
+              "audioEnd": 230.875
+            },
+            {
+              "text": "Gretel had to clean the floors and carry heavy water.",
+              "audioStart": 231.738,
+              "audioEnd": 234.5
+            },
+            {
+              "text": "The evil woman planned to cook the boy and eat him for dinner.",
+              "audioStart": 235.363,
+              "audioEnd": 238.387
+            },
+            {
+              "text": "She built a big fire under a hot metal container.",
+              "audioStart": 239.25,
+              "audioEnd": 241.912
+            },
+            {
+              "text": "Gretel cried every day because she missed her home and her parents.",
+              "audioStart": 242.775,
+              "audioEnd": 246.037
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Despite all the trouble, Gretel remained smart and strong.",
+              "audioStart": 246.9,
+              "audioEnd": 249.95
+            },
+            {
+              "text": "She knew she had to find a way to save her brother.",
+              "audioStart": 250.812,
+              "audioEnd": 253.225
+            },
+            {
+              "text": "One day, the evil woman asked Gretel to check the hot metal container.",
+              "audioStart": 254.088,
+              "audioEnd": 258.05
+            },
+            {
+              "text": "The woman wanted to see if the fire was ready.",
+              "audioStart": 258.913,
+              "audioEnd": 261.113
+            },
+            {
+              "text": "The smart girl pretended that she did not understand the instructions.",
+              "audioStart": 261.975,
+              "audioEnd": 265.413
+            },
+            {
+              "text": "She told the woman that the opening was too small.",
+              "audioStart": 266.275,
+              "audioEnd": 269.9
+            },
+            {
+              "text": "The evil woman became angry at the girl.",
+              "audioStart": 270.762,
+              "audioEnd": 272.863
+            },
+            {
+              "text": "She told Gretel that the opening was big enough.",
+              "audioStart": 273.725,
+              "audioEnd": 276.113
+            },
+            {
+              "text": "To show the girl how to do it, the evil woman leaned inside the container.",
+              "audioStart": 276.975,
+              "audioEnd": 280.725
+            },
+            {
+              "text": "As soon as the woman was inside, Gretel pushed her quickly.",
+              "audioStart": 281.587,
+              "audioEnd": 284.75
+            },
+            {
+              "text": "Then, Gretel closed the heavy door and locked it securely.",
+              "audioStart": 285.613,
+              "audioEnd": 288.85
+            },
+            {
+              "text": "The evil woman was thus defeated inside her own house.",
+              "audioStart": 289.712,
+              "audioEnd": 292.6
+            },
+            {
+              "text": "Gretel ran quickly to open the small room where her brother was kept.",
+              "audioStart": 293.462,
+              "audioEnd": 296.875
+            },
+            {
+              "text": "Hansel came out, and both children hugged each other with joy.",
+              "audioStart": 297.738,
+              "audioEnd": 300.9
+            },
+            {
+              "text": "They looked around the strange house and found a box full of gold.",
+              "audioStart": 301.762,
+              "audioEnd": 304.9
+            },
+            {
+              "text": "Taking the gold with them, Hansel and Gretel ran happily out of the forest.",
+              "audioStart": 305.762,
+              "audioEnd": 309.688
+            },
+            {
+              "text": "They walked for hours until they reached a wide river.",
+              "audioStart": 310.55,
+              "audioEnd": 313.087
+            },
+            {
+              "text": "They could not cross the water by themselves.",
+              "audioStart": 313.95,
+              "audioEnd": 316.137
+            },
+            {
+              "text": "Suddenly, a friendly bird appeared near the water.",
+              "audioStart": 317.0,
+              "audioEnd": 319.562
+            },
+            {
+              "text": "The bird let the children sit on its back.",
+              "audioStart": 320.425,
+              "audioEnd": 322.488
+            },
+            {
+              "text": "It carried them safely across the wide water.",
+              "audioStart": 323.35,
+              "audioEnd": 325.7
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After they crossed the river, they finally reached their home.",
+              "audioStart": 326.562,
+              "audioEnd": 329.55
+            },
+            {
+              "text": "Their parents saw them coming down the road.",
+              "audioStart": 330.413,
+              "audioEnd": 332.475
+            },
+            {
+              "text": "The parents were deeply sorry for what they had done.",
+              "audioStart": 333.337,
+              "audioEnd": 335.825
+            },
+            {
+              "text": "They cried tears of joy when they hugged their children.",
+              "audioStart": 336.688,
+              "audioEnd": 339.2
+            },
+            {
+              "text": "The family promised that they would never separate again.",
+              "audioStart": 340.062,
+              "audioEnd": 342.75
+            },
+            {
+              "text": "With the gold they brought from the strange house, they bought all the food they needed.",
+              "audioStart": 343.613,
+              "audioEnd": 347.288
+            },
+            {
+              "text": "They never had to worry about winter or hunger again.",
+              "audioStart": 348.15,
+              "audioEnd": 350.738
+            },
+            {
+              "text": "The family lived together in peace from that day forward.",
+              "audioStart": 351.6,
+              "audioEnd": 354.425
+            },
+            {
+              "text": "Hansel and Gretel grew up healthy and strong.",
+              "audioStart": 355.288,
+              "audioEnd": 357.475
+            },
+            {
+              "text": "They often remembered their adventures in the dark forest.",
+              "audioStart": 358.337,
+              "audioEnd": 361.075
+            },
+            {
+              "text": "They learned that they could solve any problem if they stayed together.",
+              "audioStart": 361.938,
+              "audioEnd": 364.887
+            },
+            {
+              "text": "Their lives changed completely for the better.",
+              "audioStart": 365.75,
+              "audioEnd": 367.975
+            },
+            {
+              "text": "The parents treated them with love and care every single day.",
+              "audioStart": 368.837,
+              "audioEnd": 371.938
+            },
+            {
+              "text": "Nothing bad ever happened to them again.",
+              "audioStart": 372.8,
+              "audioEnd": 374.825
+            },
+            {
+              "text": "The house was always full of laughter and happiness.",
+              "audioStart": 375.688,
+              "audioEnd": 378.3
+            },
+            {
+              "text": "People in the village heard the story and visited them often.",
+              "audioStart": 379.163,
+              "audioEnd": 381.85
+            },
+            {
+              "text": "The children told everyone about the house made of sugar and chocolate.",
+              "audioStart": 382.712,
+              "audioEnd": 386.038
+            },
+            {
+              "text": "No one forgot the lessons they learned during those difficult months.",
+              "audioStart": 386.9,
+              "audioEnd": 390.15
+            },
+            {
+              "text": "They lived a long and peaceful life until the very end.",
+              "audioStart": 391.012,
+              "audioEnd": 393.75
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0163.mp3",
+      "wordTimings": "audio/b2/st-0163.timings.json",
+      "quiz": [
+        {
+          "q": "What did Hansel drop on the ground during the first trip into the forest?",
+          "options": [
+            "Small white stones",
+            "Pieces of bread",
+            "Sweet chocolate"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What was the strange house made of?",
+          "options": [
+            "Wood and glass",
+            "Sugar, bread, and chocolate",
+            "Gold and silver"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Gretel defeat the wicked witch?",
+          "options": [
+            "She pushed the witch into the hot oven.",
+            "She locked the witch inside a cage.",
+            "She gave the witch poisoned food."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "At the edge of a sprawling, ancient forest, a meager cottage sheltered a destitute family of four.",
+              "audioStart": 0.1,
+              "audioEnd": 5.375
+            },
+            {
+              "text": "A relentless famine had settled over the land, turning each passing day into a desperate struggle against the encroaching winter.",
+              "audioStart": 6.237,
+              "audioEnd": 12.838
+            },
+            {
+              "text": "Inside their damp home, the parents whispered late into the night, wrestling with an unbearable choice.",
+              "audioStart": 13.7,
+              "audioEnd": 19.075
+            },
+            {
+              "text": "The mother argued that only by sacrificing the children to the wilderness could the adults hope to survive.",
+              "audioStart": 19.938,
+              "audioEnd": 25.163
+            },
+            {
+              "text": "With a heavy heart and a spirit broken by hunger, the father finally yielded to her devastating plan.",
+              "audioStart": 26.025,
+              "audioEnd": 31.45
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Little did the adults know, young Hansel lay awake in the dark, absorbing every harsh word of their conspiracy.",
+              "audioStart": 32.312,
+              "audioEnd": 38.237
+            },
+            {
+              "text": "Possessed of a sharp and pragmatic mind, the boy began plotting his defense long before the dawn broke.",
+              "audioStart": 39.1,
+              "audioEnd": 44.513
+            },
+            {
+              "text": "As the first pale light filtered through the trees, he slipped into the frosty yard and filled his pockets with luminous white pebbles.",
+              "audioStart": 45.375,
+              "audioEnd": 52.237
+            },
+            {
+              "text": "The quartz stones clinked softly against his cotton tunic, reassuring him as the family set out toward the densest part of the woods.",
+              "audioStart": 53.1,
+              "audioEnd": 59.925
+            },
+            {
+              "text": "They walked for hours until the canopy overhead choked out the sun, plunging them into a gloomy twilight.",
+              "audioStart": 60.788,
+              "audioEnd": 66.362
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Upon a false pretext of gathering firewood, the parents abandoned the children to the deepening shadows.",
+              "audioStart": 67.225,
+              "audioEnd": 72.725
+            },
+            {
+              "text": "Hours bled into the night, leaving Hansel and Gretel shivering and entirely alone in the terrifying stillness.",
+              "audioStart": 73.588,
+              "audioEnd": 79.662
+            },
+            {
+              "text": "Yet when the full moon finally climbed above the canopy, its silvery light caught the polished surfaces of Hansel's scattered stones.",
+              "audioStart": 80.525,
+              "audioEnd": 87.425
+            },
+            {
+              "text": "Guided by the gleaming trail, the children retraced their steps and arrived home by morning much to their parents' astonishment.",
+              "audioStart": 88.287,
+              "audioEnd": 94.713
+            },
+            {
+              "text": "Alas, the meager store of flour vanished almost immediately, plunging the household back into the abyss of starvation.",
+              "audioStart": 95.575,
+              "audioEnd": 102.05
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Once more, the parents resolved to march the children into the uncharted depths of the forest, locking the heavy timber doors to prevent Hansel from collecting stones.",
+              "audioStart": 102.912,
+              "audioEnd": 111.787
+            },
+            {
+              "text": "Left with no alternative, the boy saved his morning crust of bread, crumbling the dry heel into tiny fragments as they walked.",
+              "audioStart": 112.65,
+              "audioEnd": 119.513
+            },
+            {
+              "text": "With every step deeper into the maze of trunks, he dropped a crumb, trusting the trail to guide them back.",
+              "audioStart": 120.375,
+              "audioEnd": 125.925
+            },
+            {
+              "text": "He failed to account for the watchful crows perched high above the branches.",
+              "audioStart": 126.787,
+              "audioEnd": 130.438
+            },
+            {
+              "text": "Flocks of hungry birds descended in a silent flurry, devouring every morsel before the shadows could even lengthen.",
+              "audioStart": 131.3,
+              "audioEnd": 137.537
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When evening descended with a freezing wind, the children searched in vain for the reassuring white crumbs.",
+              "audioStart": 138.4,
+              "audioEnd": 143.688
+            },
+            {
+              "text": "Lost amidst towering pines that seemed to whisper dark warnings, they huddled together against the biting chill.",
+              "audioStart": 144.55,
+              "audioEnd": 150.4
+            },
+            {
+              "text": "Hours blurred into a blur of exhaustion as they stumbled blindly through the underbrush.",
+              "audioStart": 151.262,
+              "audioEnd": 155.55
+            },
+            {
+              "text": "Just as despair threatened to consume them, a sudden scent of warm honey and spun sugar drifted through the damp air.",
+              "audioStart": 156.412,
+              "audioEnd": 162.1
+            },
+            {
+              "text": "Drawn by the intoxicating aroma, they emerged into a small clearing and stared in absolute wonder.",
+              "audioStart": 162.963,
+              "audioEnd": 168.562
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Rising before them stood a bizarre architectural marvel constructed entirely of gingerbread, frosted glass windows, and rich chocolate tiles.",
+              "audioStart": 169.425,
+              "audioEnd": 177.438
+            },
+            {
+              "text": "Overwhelmed by gnawing hunger, the children rushed forward and began to break off pieces of the sweet sugary wall.",
+              "audioStart": 178.3,
+              "audioEnd": 184.062
+            },
+            {
+              "text": "Suddenly, a creaking hinge broke the silence as an elderly woman peered out from the heavy oak door.",
+              "audioStart": 184.925,
+              "audioEnd": 190.062
+            },
+            {
+              "text": "Wreathed in wrinkles and leaning heavily on a cane, she smiled with practiced warmth and invited them inside.",
+              "audioStart": 190.925,
+              "audioEnd": 196.525
+            },
+            {
+              "text": "Promises of pancakes, sugar, apples, and soft feather beds lured the exhausted children across the threshold without a single shred of suspicion.",
+              "audioStart": 197.387,
+              "audioEnd": 205.512
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The gracious hostess fed them a lavish feast before tucking them into crisp, inviting beds where they fell into a profound slumber.",
+              "audioStart": 206.375,
+              "audioEnd": 213.35
+            },
+            {
+              "text": "They believed their trials were finally over, little knowing that their sanctuary was a trap spun by a wicked sorceress.",
+              "audioStart": 214.213,
+              "audioEnd": 220.325
+            },
+            {
+              "text": "With the first rays of morning, the old woman shed her benevolent facade and revealed her cruel nature.",
+              "audioStart": 221.188,
+              "audioEnd": 226.438
+            },
+            {
+              "text": "With surprising strength, she seized Hansel and dragged him to a tiny, iron-barred stable in the yard.",
+              "audioStart": 227.3,
+              "audioEnd": 232.863
+            },
+            {
+              "text": "Then she turned her attention to weeping Gretel, forcing the terrified girl into endless drudgery of scrubbing floors and carrying heavy buckets of water.",
+              "audioStart": 233.725,
+              "audioEnd": 241.762
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The witch intended to fatten the boy and roast him for a grand feast, stoking a massive fire beneath a great iron cauldron every single morning.",
+              "audioStart": 242.625,
+              "audioEnd": 251.513
+            },
+            {
+              "text": "Gretel wept bitter tears for her brother and her distant home, yet her native cleverness never deserted her.",
+              "audioStart": 252.376,
+              "audioEnd": 257.751
+            },
+            {
+              "text": "One afternoon, the impatient hag ordered the girl to check if the roaring oven fire was hot enough to bake bread.",
+              "audioStart": 258.613,
+              "audioEnd": 264.488
+            },
+            {
+              "text": "Feigning total ignorance, the smart girl looked up with wide, innocent eyes and declared the opening far too small for her frame.",
+              "audioStart": 265.351,
+              "audioEnd": 272.176
+            },
+            {
+              "text": "Exasperated by the delay, the foolish woman snapped that the mouth of the oven was wide enough for anyone.",
+              "audioStart": 273.038,
+              "audioEnd": 278.663
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "To demonstrate, the witch thrust her head and shoulders into the roaring heat of the iron chamber.",
+              "audioStart": 279.526,
+              "audioEnd": 284.426
+            },
+            {
+              "text": "Seizing the miraculous chance, Gretel lunged forward with all her might and slammed the heavy iron door shut, dropping the heavy latch into place.",
+              "audioStart": 285.288,
+              "audioEnd": 293.113
+            },
+            {
+              "text": "The wicked woman shrieked in fury as the heavy metal locked her securely inside her own fiery trap.",
+              "audioStart": 293.976,
+              "audioEnd": 299.276
+            },
+            {
+              "text": "Without wasting a single second, Gretel raced across the courtyard and flung open the barred door of the stable.",
+              "audioStart": 300.139,
+              "audioEnd": 305.751
+            },
+            {
+              "text": "Hansel burst out into the fresh air, and the siblings fell into each other's arms, weeping tears of pure relief and vindication.",
+              "audioStart": 306.613,
+              "audioEnd": 313.451
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Exploring the strange confectioner's cottage, they discovered heavy chests filled with glittering pearls and heavy gold coins.",
+              "audioStart": 314.313,
+              "audioEnd": 321.001
+            },
+            {
+              "text": "Stuffing their pockets with the gleaming treasure, they fled the forest and ran until they reached the banks of a wide, rushing river.",
+              "audioStart": 321.863,
+              "audioEnd": 328.514
+            },
+            {
+              "text": "No bridge spanned the churning waters, leaving them stranded until a helpful white duck offered to carry them across one by one.",
+              "audioStart": 329.376,
+              "audioEnd": 335.876
+            },
+            {
+              "text": "Safely on the opposite bank, they recognized the familiar rolling hills leading toward their humble village.",
+              "audioStart": 336.738,
+              "audioEnd": 342.139
+            },
+            {
+              "text": "As they burst through the cottage door, their repentant parents wept openly, begging for forgiveness and pledging never to abandon them again.",
+              "audioStart": 343.001,
+              "audioEnd": 350.426
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "With the boundless wealth they had brought from the forest, poverty became a distant memory and hunger vanished from their lives forever.",
+              "audioStart": 351.288,
+              "audioEnd": 357.876
+            },
+            {
+              "text": "The family dwelt together in unbroken harmony, bound by a profound trust that no hardship could ever fracture again.",
+              "audioStart": 358.738,
+              "audioEnd": 365.051
+            },
+            {
+              "text": "Hansel and Gretel grew into wise and resilient adults, often gazing toward the distant treeline and remembering the lessons of the dark woods.",
+              "audioStart": 365.913,
+              "audioEnd": 373.276
+            },
+            {
+              "text": "No shadow ever touched their threshold again, and their home remained a haven of warmth, laughter, and enduring peace until the end of their days.",
+              "audioStart": 374.139,
+              "audioEnd": 381.801
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0163.mp3",
+      "wordTimings": "audio/c1/st-0163.timings.json",
+      "quiz": [
+        {
+          "q": "How did Hansel manage to return home the first time he and his sister were left in the forest?",
+          "options": [
+            "He followed a trail of white pebbles he had collected in his pockets.",
+            "He followed the sound of his mother calling his name.",
+            "He dropped pieces of bread that pointed the way back."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did Hansel's second attempt to mark the path fail?",
+          "options": [
+            "The wind blew the bread crumbs away into the thick bushes.",
+            "Hungry birds flew down and ate every crumb of bread off the ground.",
+            "The old woman collected the bread crumbs to feed her pets."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Gretel defeat the wicked old woman at the end of the story?",
+          "options": [
+            "She tricked the woman into leaning inside the hot oven and then locked the door.",
+            "She pushed the woman into the rushing river while crossing on the duck's back.",
+            "She poisoned the woman's morning tea with sugar and chocolate."
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  }
+}

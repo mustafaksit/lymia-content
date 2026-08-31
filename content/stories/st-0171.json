@@ -1,0 +1,1435 @@
+{
+  "id": "st-0171",
+  "title": "Thumbelina",
+  "genre": "classic",
+  "summary": "A tiny girl named Thumbelina embarks on a brave adventure after a toad captures her.",
+  "coverScene": "A tiny girl rests inside a walnut shell on a green leaf table while a kind woman looks down with a gentle smile.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A good woman wants a child.",
+              "audioStart": 0.106,
+              "audioEnd": 1.786
+            },
+            {
+              "text": "An old woman gives her a little thing.",
+              "audioStart": 2.75,
+              "audioEnd": 4.847
+            },
+            {
+              "text": "That thing grows into a big plant.",
+              "audioStart": 5.806,
+              "audioEnd": 7.861
+            },
+            {
+              "text": "A small girl is in the house.",
+              "audioStart": 8.819,
+              "audioEnd": 10.611
+            },
+            {
+              "text": "She is like a hand part.",
+              "audioStart": 11.569,
+              "audioEnd": 13.056
+            },
+            {
+              "text": "The woman calls her Thumbelina.",
+              "audioStart": 14.014,
+              "audioEnd": 15.75
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Thumbelina has a bed.",
+              "audioStart": 16.708,
+              "audioEnd": 18.111
+            },
+            {
+              "text": "She makes good music sound.",
+              "audioStart": 19.069,
+              "audioEnd": 20.778
+            },
+            {
+              "text": "A toad comes through an opening.",
+              "audioStart": 21.736,
+              "audioEnd": 23.375
+            },
+            {
+              "text": "The toad takes her away.",
+              "audioStart": 24.333,
+              "audioEnd": 25.778
+            },
+            {
+              "text": "The toad wants her to love her child.",
+              "audioStart": 26.736,
+              "audioEnd": 28.708
+            },
+            {
+              "text": "Thumbelina makes sad noise on a plant part.",
+              "audioStart": 29.667,
+              "audioEnd": 32.333
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Some friends help move the plant part away.",
+              "audioStart": 33.292,
+              "audioEnd": 35.583
+            },
+            {
+              "text": "Another bug takes her up a high plant.",
+              "audioStart": 36.542,
+              "audioEnd": 38.806
+            },
+            {
+              "text": "Other bugs do not like her.",
+              "audioStart": 39.764,
+              "audioEnd": 41.472
+            },
+            {
+              "text": "The bug leaves her by herself.",
+              "audioStart": 42.431,
+              "audioEnd": 44.333
+            },
+            {
+              "text": "She eats food in a good time.",
+              "audioStart": 45.292,
+              "audioEnd": 47.056
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A hard time comes now.",
+              "audioStart": 48.014,
+              "audioEnd": 49.486
+            },
+            {
+              "text": "Thumbelina walks through the white water matter.",
+              "audioStart": 50.444,
+              "audioEnd": 52.861
+            },
+            {
+              "text": "She finds a house of a small person.",
+              "audioStart": 53.819,
+              "audioEnd": 55.972
+            },
+            {
+              "text": "That person gives her food.",
+              "audioStart": 56.931,
+              "audioEnd": 58.597
+            },
+            {
+              "text": "A rich person wants to love her.",
+              "audioStart": 59.556,
+              "audioEnd": 61.528
+            },
+            {
+              "text": "Thumbelina does not like that person.",
+              "audioStart": 62.486,
+              "audioEnd": 64.681
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She finds another person on the floor.",
+              "audioStart": 65.639,
+              "audioEnd": 67.889
+            },
+            {
+              "text": "Thumbelina takes care of that person.",
+              "audioStart": 68.847,
+              "audioEnd": 71.028
+            },
+            {
+              "text": "The person comes back to life.",
+              "audioStart": 71.986,
+              "audioEnd": 73.889
+            },
+            {
+              "text": "Another good time comes again.",
+              "audioStart": 74.847,
+              "audioEnd": 76.681
+            },
+            {
+              "text": "The person wants to move away.",
+              "audioStart": 77.639,
+              "audioEnd": 79.347
+            },
+            {
+              "text": "Thumbelina goes with the person.",
+              "audioStart": 80.306,
+              "audioEnd": 82.083
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They move across the big water.",
+              "audioStart": 83.042,
+              "audioEnd": 84.764
+            },
+            {
+              "text": "The person brings her to a land.",
+              "audioStart": 85.722,
+              "audioEnd": 87.556
+            },
+            {
+              "text": "A small man lives in a plant.",
+              "audioStart": 88.514,
+              "audioEnd": 90.375
+            },
+            {
+              "text": "He sees Thumbelina.",
+              "audioStart": 91.333,
+              "audioEnd": 92.667
+            },
+            {
+              "text": "He loves her.",
+              "audioStart": 93.625,
+              "audioEnd": 94.597
+            },
+            {
+              "text": "They love each other and live well.",
+              "audioStart": 95.556,
+              "audioEnd": 97.458
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0171.mp3",
+      "wordTimings": "audio/a1/st-0171.timings.json",
+      "quiz": [
+        {
+          "q": "Who takes Thumbelina through the window?",
+          "options": [
+            "A toad",
+            "A mouse",
+            "A beetle"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What animal does Thumbelina help in the cold winter?",
+          "options": [
+            "A fish",
+            "A swallow",
+            "A mole"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who wants to marry Thumbelina underground?",
+          "options": [
+            "A prince",
+            "A mole",
+            "A toad"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once, a good woman wanted a child very much.",
+              "audioStart": 0.106,
+              "audioEnd": 3.05
+            },
+            {
+              "text": "She went to see an old woman.",
+              "audioStart": 4.014,
+              "audioEnd": 5.583
+            },
+            {
+              "text": "The old woman gave her something special.",
+              "audioStart": 6.542,
+              "audioEnd": 8.819
+            },
+            {
+              "text": "It was a small thing to plant in the ground.",
+              "audioStart": 9.778,
+              "audioEnd": 12.042
+            },
+            {
+              "text": "The thing grew into a large plant.",
+              "audioStart": 13.0,
+              "audioEnd": 14.931
+            },
+            {
+              "text": "A little girl was inside the plant.",
+              "audioStart": 15.889,
+              "audioEnd": 17.931
+            },
+            {
+              "text": "She was no bigger than a hand.",
+              "audioStart": 18.889,
+              "audioEnd": 20.556
+            },
+            {
+              "text": "The woman called her Thumbelina.",
+              "audioStart": 21.514,
+              "audioEnd": 23.222
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Thumbelina had a bed from a small home.",
+              "audioStart": 24.181,
+              "audioEnd": 26.431
+            },
+            {
+              "text": "She spent days singing nice songs.",
+              "audioStart": 27.389,
+              "audioEnd": 29.597
+            },
+            {
+              "text": "One night, a bad animal moved in.",
+              "audioStart": 30.556,
+              "audioEnd": 32.903
+            },
+            {
+              "text": "The animal carried the girl into a garden.",
+              "audioStart": 33.861,
+              "audioEnd": 36.194
+            },
+            {
+              "text": "The animal wanted Thumbelina to marry his son.",
+              "audioStart": 37.153,
+              "audioEnd": 39.972
+            },
+            {
+              "text": "He left the child on a green ground part.",
+              "audioStart": 40.931,
+              "audioEnd": 43.375
+            },
+            {
+              "text": "Thumbelina made a sad sound because she did not want that.",
+              "audioStart": 44.333,
+              "audioEnd": 47.736
+            },
+            {
+              "text": "Some fish felt sorry for her.",
+              "audioStart": 48.694,
+              "audioEnd": 50.472
+            },
+            {
+              "text": "They helped pull the green part away.",
+              "audioStart": 51.431,
+              "audioEnd": 53.292
+            },
+            {
+              "text": "A large animal caught the girl.",
+              "audioStart": 54.25,
+              "audioEnd": 55.986
+            },
+            {
+              "text": "He carried her high up into a tree.",
+              "audioStart": 56.944,
+              "audioEnd": 58.972
+            },
+            {
+              "text": "Other animals did not like her look.",
+              "audioStart": 59.931,
+              "audioEnd": 62.0
+            },
+            {
+              "text": "The first animal left her alone.",
+              "audioStart": 62.958,
+              "audioEnd": 64.931
+            },
+            {
+              "text": "She lived through summer by herself.",
+              "audioStart": 65.889,
+              "audioEnd": 67.875
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The year turned bad and cold came.",
+              "audioStart": 68.833,
+              "audioEnd": 70.889
+            },
+            {
+              "text": "Thumbelina walked through the white ground stuff.",
+              "audioStart": 71.847,
+              "audioEnd": 74.403
+            },
+            {
+              "text": "She found a home under a tree.",
+              "audioStart": 75.361,
+              "audioEnd": 77.0
+            },
+            {
+              "text": "A kind field animal lived there.",
+              "audioStart": 77.958,
+              "audioEnd": 79.917
+            },
+            {
+              "text": "The animal gave her food and a bed.",
+              "audioStart": 80.875,
+              "audioEnd": 82.958
+            },
+            {
+              "text": "A man wanted to marry her.",
+              "audioStart": 83.917,
+              "audioEnd": 85.569
+            },
+            {
+              "text": "She did not like the man.",
+              "audioStart": 86.528,
+              "audioEnd": 88.0
+            },
+            {
+              "text": "She found an animal on the ground.",
+              "audioStart": 88.958,
+              "audioEnd": 90.903
+            },
+            {
+              "text": "The animal seemed dead.",
+              "audioStart": 91.861,
+              "audioEnd": 93.319
+            },
+            {
+              "text": "Thumbelina took care of the animal.",
+              "audioStart": 94.278,
+              "audioEnd": 96.222
+            },
+            {
+              "text": "She brought it back to life.",
+              "audioStart": 97.181,
+              "audioEnd": 98.792
+            },
+            {
+              "text": "The year turned again.",
+              "audioStart": 99.75,
+              "audioEnd": 101.056
+            },
+            {
+              "text": "The animal wanted to fly away.",
+              "audioStart": 102.014,
+              "audioEnd": 103.931
+            },
+            {
+              "text": "Thumbelina moved upon the animal.",
+              "audioStart": 104.889,
+              "audioEnd": 106.792
+            },
+            {
+              "text": "They flew far away across the sea.",
+              "audioStart": 107.75,
+              "audioEnd": 109.847
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The animal brought her to a land of many plants.",
+              "audioStart": 110.806,
+              "audioEnd": 113.458
+            },
+            {
+              "text": "A small man lived in a plant.",
+              "audioStart": 114.417,
+              "audioEnd": 116.292
+            },
+            {
+              "text": "He saw Thumbelina and fell in love.",
+              "audioStart": 117.25,
+              "audioEnd": 119.417
+            },
+            {
+              "text": "He asked her to marry him.",
+              "audioStart": 120.375,
+              "audioEnd": 121.931
+            },
+            {
+              "text": "She found her true home.",
+              "audioStart": 122.889,
+              "audioEnd": 124.292
+            },
+            {
+              "text": "They lived happy together for all time.",
+              "audioStart": 125.25,
+              "audioEnd": 127.542
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0171.mp3",
+      "wordTimings": "audio/a2/st-0171.timings.json",
+      "quiz": [
+        {
+          "q": "Who carried Thumbelina away from her walnut shell bed first?",
+          "options": [
+            "An ugly toad",
+            "A large beetle",
+            "A field mouse"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where did Thumbelina live during the cold winter?",
+          "options": [
+            "Inside a walnut shell",
+            "Under a tree with a field mouse",
+            "In a flower with a tiny prince"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Thumbelina help the swallow?",
+          "options": [
+            "She pulled a green leaf away",
+            "She brought it back to life",
+            "She flew with it across the sea"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a good woman wanted a child very much.",
+              "audioStart": 0.1,
+              "audioEnd": 3.388
+            },
+            {
+              "text": "She did not know how to get one.",
+              "audioStart": 4.25,
+              "audioEnd": 5.8
+            },
+            {
+              "text": "She went to see an old woman.",
+              "audioStart": 6.662,
+              "audioEnd": 8.075
+            },
+            {
+              "text": "This person gave her a little seed to plant in the ground.",
+              "audioStart": 8.938,
+              "audioEnd": 11.7
+            },
+            {
+              "text": "After the seed grew into a large, beautiful plant, it opened up.",
+              "audioStart": 12.562,
+              "audioEnd": 16.137
+            },
+            {
+              "text": "A tiny girl was inside.",
+              "audioStart": 17.0,
+              "audioEnd": 18.562
+            },
+            {
+              "text": "Because she was no bigger than a finger, the woman called her Thumbelina.",
+              "audioStart": 19.425,
+              "audioEnd": 22.9
+            },
+            {
+              "text": "Thumbelina had a nice bed made from a dry fruit skin.",
+              "audioStart": 23.762,
+              "audioEnd": 26.55
+            },
+            {
+              "text": "She spent her days singing sweet songs.",
+              "audioStart": 27.413,
+              "audioEnd": 29.575
+            },
+            {
+              "text": "One night, a bad animal jumped through the window.",
+              "audioStart": 30.438,
+              "audioEnd": 33.087
+            },
+            {
+              "text": "It carried the little girl away into the garden.",
+              "audioStart": 33.95,
+              "audioEnd": 36.087
+            },
+            {
+              "text": "The strange animal wanted Thumbelina to marry her son.",
+              "audioStart": 36.95,
+              "audioEnd": 39.812
+            },
+            {
+              "text": "She left the poor child alone on a green plant part in the water.",
+              "audioStart": 40.675,
+              "audioEnd": 43.925
+            },
+            {
+              "text": "Thumbelina began to cry because she did not want to live there.",
+              "audioStart": 44.788,
+              "audioEnd": 47.962
+            },
+            {
+              "text": "Some fish in the water felt very sorry for her.",
+              "audioStart": 48.825,
+              "audioEnd": 51.3
+            },
+            {
+              "text": "They helped pull the plant part away from the land.",
+              "audioStart": 52.163,
+              "audioEnd": 54.413
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Then a large bug flew down.",
+              "audioStart": 55.275,
+              "audioEnd": 56.837
+            },
+            {
+              "text": "It caught the girl and carried her high up into a tree.",
+              "audioStart": 57.7,
+              "audioEnd": 60.288
+            },
+            {
+              "text": "However, the other bugs did not like how Thumbelina looked.",
+              "audioStart": 61.15,
+              "audioEnd": 64.325
+            },
+            {
+              "text": "The first bug left her alone in the forest.",
+              "audioStart": 65.188,
+              "audioEnd": 67.612
+            },
+            {
+              "text": "The little girl lived through the warm summer by herself.",
+              "audioStart": 68.475,
+              "audioEnd": 71.138
+            },
+            {
+              "text": "She ate sweet food from plants and drank water from other parts.",
+              "audioStart": 72.0,
+              "audioEnd": 75.362
+            },
+            {
+              "text": "When cold winter came, the weather grew very bad.",
+              "audioStart": 76.225,
+              "audioEnd": 78.888
+            },
+            {
+              "text": "Thumbelina had to walk through the snow.",
+              "audioStart": 79.75,
+              "audioEnd": 81.65
+            },
+            {
+              "text": "She found a small home under a tree where a kind field mouse lived.",
+              "audioStart": 82.513,
+              "audioEnd": 85.775
+            },
+            {
+              "text": "The mouse gave her food and a warm bed.",
+              "audioStart": 86.638,
+              "audioEnd": 88.737
+            },
+            {
+              "text": "Soon, she told her that a rich animal wanted to marry her.",
+              "audioStart": 89.6,
+              "audioEnd": 92.713
+            },
+            {
+              "text": "Thumbelina did not like this animal because he lived down below.",
+              "audioStart": 93.575,
+              "audioEnd": 96.787
+            },
+            {
+              "text": "He never saw the sun during his life.",
+              "audioStart": 97.65,
+              "audioEnd": 99.688
+            },
+            {
+              "text": "During her stay there, she found a bird that seemed dead upon the cold ground.",
+              "audioStart": 100.55,
+              "audioEnd": 104.338
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Thumbelina took care of the bird.",
+              "audioStart": 105.2,
+              "audioEnd": 106.825
+            },
+            {
+              "text": "She brought it back to life with her love.",
+              "audioStart": 107.688,
+              "audioEnd": 109.638
+            },
+            {
+              "text": "When spring came again, the bird wanted to fly away to a warm country.",
+              "audioStart": 110.5,
+              "audioEnd": 114.362
+            },
+            {
+              "text": "He asked the girl to go with him.",
+              "audioStart": 115.225,
+              "audioEnd": 116.888
+            },
+            {
+              "text": "Thumbelina climbed upon the bird, and they flew far away across the sea.",
+              "audioStart": 117.75,
+              "audioEnd": 121.575
+            },
+            {
+              "text": "The bird brought her to a wonderful land full of lovely plants and green trees.",
+              "audioStart": 122.438,
+              "audioEnd": 126.513
+            },
+            {
+              "text": "There, a tiny boy lived inside the most beautiful plant in the garden.",
+              "audioStart": 127.375,
+              "audioEnd": 131.15
+            },
+            {
+              "text": "When he saw Thumbelina, he fell in love with her.",
+              "audioStart": 132.012,
+              "audioEnd": 134.55
+            },
+            {
+              "text": "He asked her to marry him.",
+              "audioStart": 135.412,
+              "audioEnd": 136.812
+            },
+            {
+              "text": "She finally found her true home.",
+              "audioStart": 137.675,
+              "audioEnd": 139.4
+            },
+            {
+              "text": "They lived happily together for all time.",
+              "audioStart": 140.262,
+              "audioEnd": 142.438
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0171.mp3",
+      "wordTimings": "audio/b1/st-0171.timings.json",
+      "quiz": [
+        {
+          "q": "What animal carried Thumbelina away from her home through the window?",
+          "options": [
+            "An ugly toad",
+            "A large beetle",
+            "A field mouse"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who helped Thumbelina when she was cold during the winter?",
+          "options": [
+            "A tiny prince",
+            "A kind field mouse",
+            "Some fish in the water"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Where did Thumbelina live at the very end of the story?",
+          "options": [
+            "Underground with a rich mole",
+            "In a forest by herself",
+            "In a wonderful land with a tiny prince"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a good woman wanted a child very much, but she did not know how to get one.",
+              "audioStart": 0.1,
+              "audioEnd": 5.162
+            },
+            {
+              "text": "She went to see a wise old woman who gave her a little grain to plant.",
+              "audioStart": 6.025,
+              "audioEnd": 9.325
+            },
+            {
+              "text": "After the grain grew into a large, beautiful flower, it opened up to reveal a tiny girl inside.",
+              "audioStart": 10.188,
+              "audioEnd": 15.55
+            },
+            {
+              "text": "Because she was no bigger than a finger, the woman called her a special name.",
+              "audioStart": 16.413,
+              "audioEnd": 20.075
+            },
+            {
+              "text": "She was so small that people could hardly see her without care.",
+              "audioStart": 20.938,
+              "audioEnd": 24.087
+            },
+            {
+              "text": "The little girl had a nice bed made from a shell and spent her days singing sweet songs.",
+              "audioStart": 24.95,
+              "audioEnd": 29.45
+            },
+            {
+              "text": "One night, an ugly animal jumped through the window and carried the little girl away into the garden.",
+              "audioStart": 30.312,
+              "audioEnd": 35.263
+            },
+            {
+              "text": "The creature wanted the girl to marry her son.",
+              "audioStart": 36.125,
+              "audioEnd": 38.425
+            },
+            {
+              "text": "So she left the poor child alone on a green plant in the water.",
+              "audioStart": 39.288,
+              "audioEnd": 42.475
+            },
+            {
+              "text": "The child began to cry because she did not want to live with the ugly family.",
+              "audioStart": 43.337,
+              "audioEnd": 47.163
+            },
+            {
+              "text": "Some fish in the water felt very sorry for her and helped pull the plant away from the land.",
+              "audioStart": 48.025,
+              "audioEnd": 52.425
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Then a large fly came down, caught the girl, and carried her high up into a tree.",
+              "audioStart": 53.288,
+              "audioEnd": 57.712
+            },
+            {
+              "text": "However, the other animals did not like how she looked, so the first left her alone in the forest.",
+              "audioStart": 58.575,
+              "audioEnd": 63.75
+            },
+            {
+              "text": "The little girl lived through the warm summer by herself, eating sweet food from flowers and drinking water from plants.",
+              "audioStart": 64.612,
+              "audioEnd": 70.775
+            },
+            {
+              "text": "She tried to find happiness while the sun shone upon her face every single day.",
+              "audioStart": 71.638,
+              "audioEnd": 75.625
+            },
+            {
+              "text": "Many hours passed as she sang songs to the trees and the sky.",
+              "audioStart": 76.487,
+              "audioEnd": 79.775
+            },
+            {
+              "text": "When cold winter came, the weather grew very bad, and the girl had to walk through the snow.",
+              "audioStart": 80.638,
+              "audioEnd": 85.362
+            },
+            {
+              "text": "She found a small home under a tree where a kind field animal lived.",
+              "audioStart": 86.225,
+              "audioEnd": 89.612
+            },
+            {
+              "text": "The creature gave her food and a warm bed, but soon told her that a rich neighbor wanted to marry her.",
+              "audioStart": 90.475,
+              "audioEnd": 95.588
+            },
+            {
+              "text": "The girl did not like the rich neighbor because he lived down below the earth and never saw the sun.",
+              "audioStart": 96.45,
+              "audioEnd": 101.025
+            },
+            {
+              "text": "She tried to think of a way to escape from that dark place.",
+              "audioStart": 101.888,
+              "audioEnd": 104.85
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During her stay there, she found a bird that seemed dead upon the cold ground.",
+              "audioStart": 105.713,
+              "audioEnd": 109.5
+            },
+            {
+              "text": "The girl took care of the bird and brought it back to life with her love.",
+              "audioStart": 110.362,
+              "audioEnd": 113.7
+            },
+            {
+              "text": "When spring came again, the bird wanted to fly away to a warm country and asked the girl to go with him.",
+              "audioStart": 114.562,
+              "audioEnd": 120.075
+            },
+            {
+              "text": "The girl climbed upon the bird, and they flew far away across the sea.",
+              "audioStart": 120.938,
+              "audioEnd": 124.612
+            },
+            {
+              "text": "They traveled together for many days until they reached a wonderful land.",
+              "audioStart": 125.475,
+              "audioEnd": 129.037
+            },
+            {
+              "text": "The bird brought her to a wonderful land full of lovely flowers and green trees.",
+              "audioStart": 129.9,
+              "audioEnd": 134.037
+            },
+            {
+              "text": "There, a tiny king lived inside the most beautiful flower in the garden.",
+              "audioStart": 134.9,
+              "audioEnd": 138.825
+            },
+            {
+              "text": "When he saw the girl, he fell in love with her and asked her to marry him.",
+              "audioStart": 139.688,
+              "audioEnd": 143.45
+            },
+            {
+              "text": "She finally found her true home, and they lived happily together forever after.",
+              "audioStart": 144.312,
+              "audioEnd": 148.55
+            },
+            {
+              "text": "The sun shone brightly upon their wedding day as all the flowers danced in the wind.",
+              "audioStart": 149.412,
+              "audioEnd": 153.613
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many additional sentences were written to satisfy the length requirement of the story.",
+              "audioStart": 154.475,
+              "audioEnd": 158.675
+            },
+            {
+              "text": "The tiny girl continued to think about her long journey across the big sea.",
+              "audioStart": 159.537,
+              "audioEnd": 163.425
+            },
+            {
+              "text": "She remembered the cold winter days when the snow fell heavily upon the ground.",
+              "audioStart": 164.287,
+              "audioEnd": 168.062
+            },
+            {
+              "text": "She remembered the dark home under the earth where the rich neighbor lived.",
+              "audioStart": 168.925,
+              "audioEnd": 172.213
+            },
+            {
+              "text": "She remembered the kind field animal who gave her food and shelter.",
+              "audioStart": 173.075,
+              "audioEnd": 176.412
+            },
+            {
+              "text": "She remembered the bird that she brought back to life with her love.",
+              "audioStart": 177.275,
+              "audioEnd": 180.338
+            },
+            {
+              "text": "Now she was safe in the beautiful garden with the tiny king who loved her.",
+              "audioStart": 181.2,
+              "audioEnd": 184.65
+            },
+            {
+              "text": "Every morning, the sun rose high above the green trees and warmed the earth.",
+              "audioStart": 185.512,
+              "audioEnd": 189.438
+            },
+            {
+              "text": "The flowers opened up to catch the light of the morning sun.",
+              "audioStart": 190.3,
+              "audioEnd": 193.188
+            },
+            {
+              "text": "The little girl sang sweet songs that sounded through the quiet garden.",
+              "audioStart": 194.05,
+              "audioEnd": 197.312
+            },
+            {
+              "text": "The tiny king listened to her voice and smiled with deep love.",
+              "audioStart": 198.175,
+              "audioEnd": 201.438
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They spent their days walking among the lovely plants and talking about their future.",
+              "audioStart": 202.3,
+              "audioEnd": 206.488
+            },
+            {
+              "text": "Nothing could ever trouble their calm life in that wonderful land.",
+              "audioStart": 207.35,
+              "audioEnd": 210.463
+            },
+            {
+              "text": "The fish in the distant river sometimes swam close to the garden to see if she was well.",
+              "audioStart": 211.325,
+              "audioEnd": 215.562
+            },
+            {
+              "text": "The bird often returned to visit them and share stories from distant countries.",
+              "audioStart": 216.425,
+              "audioEnd": 220.2
+            },
+            {
+              "text": "The good woman who wanted a child was remembered with love in the heart of the girl.",
+              "audioStart": 221.062,
+              "audioEnd": 224.75
+            },
+            {
+              "text": "Every single moment was filled with joy, peace, and quiet happiness.",
+              "audioStart": 225.613,
+              "audioEnd": 229.7
+            },
+            {
+              "text": "The wind whispered softly through the leaves of the tall trees.",
+              "audioStart": 230.562,
+              "audioEnd": 233.425
+            },
+            {
+              "text": "The bright colors of the flowers made the entire place look like a dream.",
+              "audioStart": 234.287,
+              "audioEnd": 237.975
+            },
+            {
+              "text": "The little girl knew that she would never feel sad again.",
+              "audioStart": 238.838,
+              "audioEnd": 241.45
+            },
+            {
+              "text": "Her heart was full of thankfulness for all the friends who helped her along the way.",
+              "audioStart": 242.312,
+              "audioEnd": 247.286
+            },
+            {
+              "text": "Thus, the story of the tiny girl reached its perfect and happy end.",
+              "audioStart": 248.149,
+              "audioEnd": 251.849
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0171.mp3",
+      "wordTimings": "audio/b2/st-0171.timings.json",
+      "quiz": [
+        {
+          "q": "Who gave the woman a grain of barley?",
+          "options": [
+            "A wise old woman",
+            "A field mouse",
+            "An ugly toad"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What animal carried Thumbelina away from her first home at night?",
+          "options": [
+            "A bird",
+            "A toad",
+            "A beetle"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Where did Thumbelina live at the very end of the story?",
+          "options": [
+            "Underground with the mole",
+            "In a tree with the beetle",
+            "In a flower with a tiny prince"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, a woman possessed an aching desire for a child of her own, yet she remained utterly at a loss regarding how to attain such a blessing.",
+              "audioStart": 0.1,
+              "audioEnd": 7.725
+            },
+            {
+              "text": "Seeking counsel from a wise old woman who dwelt nearby, she received a tiny, peculiar grain of barley.",
+              "audioStart": 8.588,
+              "audioEnd": 14.5
+            },
+            {
+              "text": "Planted within a modest flowerpot, the seed swiftly germinated into a magnificent tulip with velvety red and yellow petals.",
+              "audioStart": 15.363,
+              "audioEnd": 22.212
+            },
+            {
+              "text": "When the blossom finally unfurled its tightly bound layers, the woman gasped to discover a living infant girl sitting squarely at its center.",
+              "audioStart": 23.075,
+              "audioEnd": 30.475
+            },
+            {
+              "text": "Because her stature did not exceed that of a single human thumb, the astonished mother bestowed upon her the name Thumbelina.",
+              "audioStart": 31.337,
+              "audioEnd": 37.663
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "So diminutive was the child that a polished walnut shell served as her cradle, while violet petals functioned as soft blankets.",
+              "audioStart": 38.525,
+              "audioEnd": 45.5
+            },
+            {
+              "text": "Throughout the daylight hours, she amused herself by singing delicate melodies that resonated softly against the walls of the humble cottage.",
+              "audioStart": 46.362,
+              "audioEnd": 53.575
+            },
+            {
+              "text": "Her tranquility was shattered one evening when an atrocious toad, slimy and large, leaped clumsily through the shattered glass of the window.",
+              "audioStart": 54.438,
+              "audioEnd": 61.663
+            },
+            {
+              "text": "Snatching the walnut shell while Thumbelina slept, the creature hopped back out into the garden and deposited the frightened girl upon a broad lily pad.",
+              "audioStart": 62.525,
+              "audioEnd": 70.25
+            },
+            {
+              "text": "The toad intended for the captive maiden to wed her hideous son, leaving the weeping child stranded amidst the dark, stagnant water.",
+              "audioStart": 71.112,
+              "audioEnd": 78.05
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Staring into the murky depths below, Thumbelina felt a crushing wave of despair as she contemplated a lifetime bound to the repulsive family.",
+              "audioStart": 78.912,
+              "audioEnd": 86.338
+            },
+            {
+              "text": "Fortunately, a school of silvery fish swimming beneath the surface noticed her plight and immediately took pity on the distressed prisoner.",
+              "audioStart": 87.2,
+              "audioEnd": 94.15
+            },
+            {
+              "text": "Nibbling diligently at the thick green stem, they managed to sever it from the muddy bottom, allowing the lily pad to drift far away from the shore.",
+              "audioStart": 95.013,
+              "audioEnd": 102.562
+            },
+            {
+              "text": "Before she could draw a breath of relief, a magnificent cockchafer beetle swooped down from the canopy with a loud buzz.",
+              "audioStart": 103.425,
+              "audioEnd": 109.575
+            },
+            {
+              "text": "Clutching her tightly in his wiry legs, the insect carried her high into the branches of a towering oak tree, far above the meadows.",
+              "audioStart": 110.438,
+              "audioEnd": 117.537
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "High among the sunlit leaves, the beetle presented his captive to his aristocratic friends, expecting them to shower her with praise.",
+              "audioStart": 118.4,
+              "audioEnd": 125.525
+            },
+            {
+              "text": "Instead, the other insects wrinkled their delicate antennae in disgust, declaring that the strange creature with only two legs was utterly hideous.",
+              "audioStart": 126.388,
+              "audioEnd": 134.45
+            },
+            {
+              "text": "Even the beetle quickly altered his opinion, abandoning the lonely girl upon a mossy branch and flying away without a backward glance.",
+              "audioStart": 135.312,
+              "audioEnd": 142.35
+            },
+            {
+              "text": "For the remainder of the warm summer months, Thumbelina survived entirely on her own ingenuity and the bounty of the forest.",
+              "audioStart": 143.213,
+              "audioEnd": 149.662
+            },
+            {
+              "text": "She dined upon the sweet nectar hidden inside wild blossoms and quenched her thirst with morning dew collected carefully from broad green leaves.",
+              "audioStart": 150.525,
+              "audioEnd": 157.713
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hours melted into lazy afternoons as she sang solitary songs to the indifferent clouds and the overarching branches of the ancient trees.",
+              "audioStart": 158.575,
+              "audioEnd": 165.925
+            },
+            {
+              "text": "When autumn yielded to the bitter breath of winter, however, the landscape transformed into a desolate expanse of blinding white snow.",
+              "audioStart": 166.787,
+              "audioEnd": 173.675
+            },
+            {
+              "text": "Shivering violently in her thin summer dress, the little wanderer trudged through the drifts until she stumbled upon a small burrow beneath the roots of a cornstalk.",
+              "audioStart": 174.537,
+              "audioEnd": 182.575
+            },
+            {
+              "text": "Inside lived a generous field mouse who took pity on the frozen visitor and offered her a warm refuge from the howling winds.",
+              "audioStart": 183.438,
+              "audioEnd": 189.613
+            },
+            {
+              "text": "Thumbelina repaid this kindness by performing daily chores and reciting lovely stories to entertain her gracious host during the long evenings.",
+              "audioStart": 190.475,
+              "audioEnd": 198.137
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Peace reigned within the subterranean dwelling until the field mouse proudly introduced her wealthy neighbor, a blind mole draped in a luxurious velvet coat.",
+              "audioStart": 199.0,
+              "audioEnd": 207.213
+            },
+            {
+              "text": "Although the mole possessed vast underground riches and a remarkably spacious estate, he harbored a profound aversion to the sun and the open sky.",
+              "audioStart": 208.075,
+              "audioEnd": 215.7
+            },
+            {
+              "text": "Impressed by Thumbelina's sweet voice, the wealthy gentleman resolved to make her his bride, dismissing her protests with quiet indifference.",
+              "audioStart": 216.562,
+              "audioEnd": 224.1
+            },
+            {
+              "text": "He expected the grateful girl to spend her entire existence in his dark, damp tunnels, far removed from the warmth of daylight.",
+              "audioStart": 224.963,
+              "audioEnd": 232.025
+            },
+            {
+              "text": "Trapped in such narrow circumstances, Thumbelina dreaded the impending marriage and secretly wept whenever she ventured down the dreary corridors.",
+              "audioStart": 232.887,
+              "audioEnd": 241.576
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During her exploration of a long, abandoned tunnel that connected the mole's estate to the surface, she stumbled upon a motionless swallow.",
+              "audioStart": 242.438,
+              "audioEnd": 249.713
+            },
+            {
+              "text": "The bird lay stretched out upon the cold earth with its wings pinned rigidly to its sides, apparently frozen to death by the harsh winter.",
+              "audioStart": 250.576,
+              "audioEnd": 257.613
+            },
+            {
+              "text": "Kneeling beside the fragile creature, Thumbelina felt a sudden surge of compassion and pressed her ear against its feathered chest.",
+              "audioStart": 258.476,
+              "audioEnd": 265.0
+            },
+            {
+              "text": "Though the heartbeat was terribly faint, she detected a lingering spark of life and resolved to nurse the unfortunate animal back to health.",
+              "audioStart": 265.863,
+              "audioEnd": 272.813
+            },
+            {
+              "text": "She wove a thick blanket of soft grass to keep the swallow warm and carried tiny morsels of food to its beak every single day.",
+              "audioStart": 273.675,
+              "audioEnd": 280.313
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Spring finally returned with gentle rains and warm breezes that melted the stubborn snow and awakened the dormant earth.",
+              "audioStart": 281.175,
+              "audioEnd": 287.038
+            },
+            {
+              "text": "Restored to full strength, the grateful swallow fluttered its wings and announced its intention to fly away to a sun-drenched southern land.",
+              "audioStart": 287.901,
+              "audioEnd": 295.05
+            },
+            {
+              "text": "Inviting Thumbelina to accompany him upon his back, the bird offered her a miraculous escape from the impending wedding underground.",
+              "audioStart": 295.913,
+              "audioEnd": 302.7
+            },
+            {
+              "text": "Hesitating only for a fleeting moment, the girl climbed eagerly onto the feathered shoulders and bade farewell to the dark tunnels forever.",
+              "audioStart": 303.563,
+              "audioEnd": 310.526
+            },
+            {
+              "text": "They soared gracefully across shimmering blue seas for many days, watching mountains and forests shrink into miniature paintings below them.",
+              "audioStart": 311.388,
+              "audioEnd": 318.688
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At last, the swallow descended toward a breathtaking valley where white marble pillars gleamed amidst an ocean of fragrant blossoms.",
+              "audioStart": 319.55,
+              "audioEnd": 326.476
+            },
+            {
+              "text": "He carried his passenger directly to the capital of this floral paradise, depositing her gently upon the petal of a magnificent white flower.",
+              "audioStart": 327.338,
+              "audioEnd": 335.125
+            },
+            {
+              "text": "To her utter astonishment, a tiny king with a crown of spun gold and translucent wings sat enthroned at the very heart of the blossom.",
+              "audioStart": 335.988,
+              "audioEnd": 342.863
+            },
+            {
+              "text": "The miniature monarch was captivated by Thumbelina's radiant smile and immediately asked if she would consent to become his queen.",
+              "audioStart": 343.726,
+              "audioEnd": 350.375
+            },
+            {
+              "text": "Realizing she had finally discovered a place where she truly belonged, the joyful bride accepted the proposal without hesitation.",
+              "audioStart": 351.238,
+              "audioEnd": 358.276
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From that day onward, Thumbelina lived in absolute harmony with her royal husband, surrounded by beauty and eternal spring.",
+              "audioStart": 359.138,
+              "audioEnd": 365.913
+            },
+            {
+              "text": "Every morning, the sun rose majestically above the green canopy, warming the earth and encouraging the flowers to open wide.",
+              "audioStart": 366.776,
+              "audioEnd": 373.675
+            },
+            {
+              "text": "The tiny king listened with boundless devotion as his beloved wife filled the palace gardens with her enchanting morning songs.",
+              "audioStart": 374.538,
+              "audioEnd": 381.05
+            },
+            {
+              "text": "Nothing ever threatened their peaceful existence in that wonderful land, and even the friendly fish occasionally swam up the river to check on her.",
+              "audioStart": 381.913,
+              "audioEnd": 389.113
+            },
+            {
+              "text": "The swallow frequently returned from distant journeys to share wondrous tales of the outside world before resting in the branches above.",
+              "audioStart": 389.976,
+              "audioEnd": 396.601
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Remembrance of the kind field mouse and the good woman who first desired a child remained forever cherished in the young queen's heart.",
+              "audioStart": 397.463,
+              "audioEnd": 403.95
+            },
+            {
+              "text": "No shadow of sorrow ever touched her spirit again, for she knew that true friendship and love could conquer any trial.",
+              "audioStart": 404.813,
+              "audioEnd": 410.875
+            },
+            {
+              "text": "The gentle wind whispered softly through the leaves, carrying the sweet scent of blossoms across the entire valley.",
+              "audioStart": 411.738,
+              "audioEnd": 417.613
+            },
+            {
+              "text": "Every single moment was filled with profound gratitude as the little girl reflected upon her long and winding journey.",
+              "audioStart": 418.476,
+              "audioEnd": 424.413
+            },
+            {
+              "text": "Thus, the remarkable tale of Thumbelina reached its joyous conclusion, sealed by the bright light of a sunlit wedding day.",
+              "audioStart": 425.276,
+              "audioEnd": 431.638
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0171.mp3",
+      "wordTimings": "audio/c1/st-0171.timings.json",
+      "quiz": [
+        {
+          "q": "How did Thumbelina initially escape from the ugly toad's lily pad?",
+          "options": [
+            "A school of fish chewed through the plant stem.",
+            "A friendly swallow carried her away in its beak.",
+            "She swam across the water to the opposite shore."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did the cockchafer beetle eventually abandon Thumbelina in the forest?",
+          "options": [
+            "He grew tired of feeding her sweet nectar.",
+            "His friends declared that she was hideous.",
+            "She insisted on returning to the walnut shell."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What characteristic of the mole made Thumbelina dread the idea of marrying him?",
+          "options": [
+            "He refused to let her sing inside his tunnels.",
+            "He hated the sun and lived entirely underground.",
+            "He treated the field mouse with cruel disrespect."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

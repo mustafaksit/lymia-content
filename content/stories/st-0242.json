@@ -1,0 +1,1255 @@
+{
+  "id": "st-0242",
+  "title": "The Star-Child (tek epizod)",
+  "genre": "classic",
+  "summary": "People find a poor child in the forest who grows up to be very mean.",
+  "coverScene": "A young boy stands in a bright forest holding a shiny gold star while looking down at a poor woman.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once, people find a little child.",
+              "audioStart": 0.106,
+              "audioEnd": 2.328
+            },
+            {
+              "text": "They find the child in forest.",
+              "audioStart": 3.292,
+              "audioEnd": 5.167
+            },
+            {
+              "text": "The child has no money.",
+              "audioStart": 6.125,
+              "audioEnd": 7.611
+            },
+            {
+              "text": "The child has no family.",
+              "audioStart": 8.569,
+              "audioEnd": 10.236
+            },
+            {
+              "text": "They bring him to a house.",
+              "audioStart": 11.194,
+              "audioEnd": 12.681
+            },
+            {
+              "text": "A man raises the little child.",
+              "audioStart": 13.639,
+              "audioEnd": 15.486
+            },
+            {
+              "text": "The child grows up very big.",
+              "audioStart": 16.444,
+              "audioEnd": 18.25
+            },
+            {
+              "text": "He is bad to other people.",
+              "audioStart": 19.208,
+              "audioEnd": 20.806
+            },
+            {
+              "text": "He thinks he is very good.",
+              "audioStart": 21.764,
+              "audioEnd": 23.333
+            },
+            {
+              "text": "He is not kind at all.",
+              "audioStart": 24.292,
+              "audioEnd": 25.75
+            },
+            {
+              "text": "He does not help anyone.",
+              "audioStart": 26.708,
+              "audioEnd": 28.194
+            },
+            {
+              "text": "He looks down at people.",
+              "audioStart": 29.153,
+              "audioEnd": 30.569
+            },
+            {
+              "text": "He says bad words to children.",
+              "audioStart": 31.528,
+              "audioEnd": 33.458
+            },
+            {
+              "text": "He makes other children feel small.",
+              "audioStart": 34.417,
+              "audioEnd": 36.514
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One day, a woman comes here.",
+              "audioStart": 37.472,
+              "audioEnd": 39.528
+            },
+            {
+              "text": "She says she is his mother.",
+              "audioStart": 40.486,
+              "audioEnd": 42.028
+            },
+            {
+              "text": "The man says no to her.",
+              "audioStart": 42.986,
+              "audioEnd": 44.486
+            },
+            {
+              "text": "He is very mean to her.",
+              "audioStart": 45.444,
+              "audioEnd": 46.861
+            },
+            {
+              "text": "He is very bad to her.",
+              "audioStart": 47.819,
+              "audioEnd": 49.306
+            },
+            {
+              "text": "His face changes right now.",
+              "audioStart": 50.264,
+              "audioEnd": 52
+            },
+            {
+              "text": "He looks like something bad.",
+              "audioStart": 52.958,
+              "audioEnd": 54.556
+            },
+            {
+              "text": "He looks like water things.",
+              "audioStart": 55.514,
+              "audioEnd": 57.264
+            },
+            {
+              "text": "He sees his face in water.",
+              "audioStart": 58.222,
+              "audioEnd": 59.917
+            },
+            {
+              "text": "He knows his work is bad.",
+              "audioStart": 60.875,
+              "audioEnd": 62.472
+            },
+            {
+              "text": "He wants to find his mother.",
+              "audioStart": 63.431,
+              "audioEnd": 65.069
+            },
+            {
+              "text": "He wants to say thank you now.",
+              "audioStart": 66.028,
+              "audioEnd": 67.708
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He walks across the world.",
+              "audioStart": 68.667,
+              "audioEnd": 70.319
+            },
+            {
+              "text": "He goes day after day.",
+              "audioStart": 71.278,
+              "audioEnd": 72.722
+            },
+            {
+              "text": "He tries to help people.",
+              "audioStart": 73.681,
+              "audioEnd": 75.167
+            },
+            {
+              "text": "He helps other people now.",
+              "audioStart": 76.125,
+              "audioEnd": 77.681
+            },
+            {
+              "text": "His mother comes to him.",
+              "audioStart": 78.639,
+              "audioEnd": 80.083
+            },
+            {
+              "text": "He sees his mother again.",
+              "audioStart": 81.042,
+              "audioEnd": 82.597
+            },
+            {
+              "text": "His good face returns to him.",
+              "audioStart": 83.556,
+              "audioEnd": 85.389
+            },
+            {
+              "text": "He is a good person now.",
+              "audioStart": 86.347,
+              "audioEnd": 87.806
+            },
+            {
+              "text": "He walks every day.",
+              "audioStart": 88.764,
+              "audioEnd": 90.097
+            },
+            {
+              "text": "He helps every child he sees.",
+              "audioStart": 91.056,
+              "audioEnd": 93.042
+            },
+            {
+              "text": "He gives food to people.",
+              "audioStart": 94,
+              "audioEnd": 95.444
+            },
+            {
+              "text": "He is a good man now.",
+              "audioStart": 96.403,
+              "audioEnd": 97.722
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0242.mp3",
+      "wordTimings": "audio/a1/st-0242.timings.json",
+      "quiz": [
+        {
+          "q": "Where do people find the child?",
+          "options": [
+            "In forest",
+            "In school",
+            "In shop"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the child do to poor children?",
+          "options": [
+            "He helps them",
+            "He laughs at them",
+            "He gives food"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does the child look like after he is mean?",
+          "options": [
+            "A snake and a frog",
+            "A gold star",
+            "A big man"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, men found a baby boy in a forest.",
+              "audioStart": 0.106,
+              "audioEnd": 3.564
+            },
+            {
+              "text": "The night was cold.",
+              "audioStart": 4.528,
+              "audioEnd": 5.708
+            },
+            {
+              "text": "The child had white clothes and a face like a star.",
+              "audioStart": 6.667,
+              "audioEnd": 9.75
+            },
+            {
+              "text": "They brought him home.",
+              "audioStart": 10.708,
+              "audioEnd": 11.847
+            },
+            {
+              "text": "The man raised the child as his own son.",
+              "audioStart": 12.806,
+              "audioEnd": 15.25
+            },
+            {
+              "text": "The star-child grew up.",
+              "audioStart": 16.208,
+              "audioEnd": 17.625
+            },
+            {
+              "text": "He became very high and strong.",
+              "audioStart": 18.583,
+              "audioEnd": 20.528
+            },
+            {
+              "text": "He was bad to other people.",
+              "audioStart": 21.486,
+              "audioEnd": 23.139
+            },
+            {
+              "text": "He thought he was better than everyone else.",
+              "audioStart": 24.097,
+              "audioEnd": 26.347
+            },
+            {
+              "text": "He laughed at poor children and animals.",
+              "audioStart": 27.306,
+              "audioEnd": 29.653
+            },
+            {
+              "text": "He treated them with total lack of respect.",
+              "audioStart": 30.611,
+              "audioEnd": 33.083
+            },
+            {
+              "text": "He did not care about anyone else.",
+              "audioStart": 34.042,
+              "audioEnd": 36.139
+            },
+            {
+              "text": "He thought only about himself.",
+              "audioStart": 37.097,
+              "audioEnd": 38.931
+            },
+            {
+              "text": "Days passed by at a low pace.",
+              "audioStart": 39.889,
+              "audioEnd": 42.042
+            },
+            {
+              "text": "The star-child lived like a boss in the house.",
+              "audioStart": 43,
+              "audioEnd": 45.542
+            },
+            {
+              "text": "He walked around the village every morning.",
+              "audioStart": 46.5,
+              "audioEnd": 48.681
+            },
+            {
+              "text": "He showed no love to the people.",
+              "audioStart": 49.639,
+              "audioEnd": 51.431
+            },
+            {
+              "text": "The town people did not like his bad behavior.",
+              "audioStart": 52.389,
+              "audioEnd": 54.986
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One day, a poor woman came to the village.",
+              "audioStart": 55.944,
+              "audioEnd": 58.667
+            },
+            {
+              "text": "She looked for her lost child.",
+              "audioStart": 59.625,
+              "audioEnd": 61.361
+            },
+            {
+              "text": "She claim the star-child was her son.",
+              "audioStart": 62.319,
+              "audioEnd": 64.528
+            },
+            {
+              "text": "He did not accept her.",
+              "audioStart": 65.486,
+              "audioEnd": 66.903
+            },
+            {
+              "text": "He treated her with bad issues and words.",
+              "audioStart": 67.861,
+              "audioEnd": 70.278
+            },
+            {
+              "text": "He said she was too small to be his mother.",
+              "audioStart": 71.236,
+              "audioEnd": 73.583
+            },
+            {
+              "text": "His face changed immediately.",
+              "audioStart": 74.542,
+              "audioEnd": 76.431
+            },
+            {
+              "text": "His face became like a fish and a small animal.",
+              "audioStart": 77.389,
+              "audioEnd": 80.181
+            },
+            {
+              "text": "He saw himself in a water place.",
+              "audioStart": 81.139,
+              "audioEnd": 83.278
+            },
+            {
+              "text": "He realize his behavior had been bad.",
+              "audioStart": 84.236,
+              "audioEnd": 86.569
+            },
+            {
+              "text": "He decide to walk across the world.",
+              "audioStart": 87.528,
+              "audioEnd": 89.583
+            },
+            {
+              "text": "He wanted to find his mother and earn her love.",
+              "audioStart": 90.542,
+              "audioEnd": 93.069
+            },
+            {
+              "text": "He was going to travel far away.",
+              "audioStart": 94.028,
+              "audioEnd": 95.917
+            },
+            {
+              "text": "The people watched him leave the village.",
+              "audioStart": 96.875,
+              "audioEnd": 98.889
+            },
+            {
+              "text": "They did not say anything to him.",
+              "audioStart": 99.847,
+              "audioEnd": 101.694
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He suffer greatly during his long travel.",
+              "audioStart": 102.653,
+              "audioEnd": 105.083
+            },
+            {
+              "text": "He learned how to be kind to everyone.",
+              "audioStart": 106.042,
+              "audioEnd": 108.069
+            },
+            {
+              "text": "He helped animals in trouble.",
+              "audioStart": 109.028,
+              "audioEnd": 110.75
+            },
+            {
+              "text": "He shared his food with the poor.",
+              "audioStart": 111.708,
+              "audioEnd": 113.5
+            },
+            {
+              "text": "He walked through many cities and towns.",
+              "audioStart": 114.458,
+              "audioEnd": 116.694
+            },
+            {
+              "text": "He met different people along the road.",
+              "audioStart": 117.653,
+              "audioEnd": 119.75
+            },
+            {
+              "text": "He gave his money to those in need.",
+              "audioStart": 120.708,
+              "audioEnd": 122.625
+            },
+            {
+              "text": "He slept on the ground at night.",
+              "audioStart": 123.583,
+              "audioEnd": 125.389
+            },
+            {
+              "text": "His heart became nice and good.",
+              "audioStart": 126.347,
+              "audioEnd": 128.292
+            },
+            {
+              "text": "He always thought about his lovely mother.",
+              "audioStart": 129.25,
+              "audioEnd": 131.514
+            },
+            {
+              "text": "He hoped to see her face again.",
+              "audioStart": 132.472,
+              "audioEnd": 134.319
+            },
+            {
+              "text": "He was going to find her soon.",
+              "audioStart": 135.278,
+              "audioEnd": 137
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Finally, his mother appeared.",
+              "audioStart": 137.958,
+              "audioEnd": 139.972
+            },
+            {
+              "text": "His true face returned because his heart was finally good.",
+              "audioStart": 140.931,
+              "audioEnd": 144.306
+            },
+            {
+              "text": "He holds her close.",
+              "audioStart": 145.264,
+              "audioEnd": 146.611
+            },
+            {
+              "text": "She smiled at her son.",
+              "audioStart": 147.569,
+              "audioEnd": 149.083
+            },
+            {
+              "text": "They were very happy together.",
+              "audioStart": 150.042,
+              "audioEnd": 151.75
+            },
+            {
+              "text": "They went back home.",
+              "audioStart": 152.708,
+              "audioEnd": 153.861
+            },
+            {
+              "text": "He lived happily after that day.",
+              "audioStart": 154.819,
+              "audioEnd": 156.806
+            },
+            {
+              "text": "He never forgot his hard work.",
+              "audioStart": 157.764,
+              "audioEnd": 159.625
+            },
+            {
+              "text": "He always helped the poor and the small.",
+              "audioStart": 160.583,
+              "audioEnd": 162.75
+            },
+            {
+              "text": "The village people loved him again.",
+              "audioStart": 163.708,
+              "audioEnd": 165.597
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0242.mp3",
+      "wordTimings": "audio/a2/st-0242.timings.json",
+      "quiz": [
+        {
+          "q": "Where did the men find the baby boy?",
+          "options": [
+            "In a forest",
+            "In a house",
+            "In a village"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the star-child say to the poor woman?",
+          "options": [
+            "She was too old",
+            "She was too ugly to be his mother",
+            "She was too poor"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the star-child's face become like after he refused the woman?",
+          "options": [
+            "A snake and a frog",
+            "A star and a bird",
+            "A dog and a cat"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, men found a little baby boy inside a forest.",
+              "audioStart": 0.1,
+              "audioEnd": 3.775
+            },
+            {
+              "text": "This happened during a cold night.",
+              "audioStart": 4.638,
+              "audioEnd": 6.225
+            },
+            {
+              "text": "The child was dressed in gold clothes and had a face like a star.",
+              "audioStart": 7.088,
+              "audioEnd": 10.5
+            },
+            {
+              "text": "They brought him home, and the man raised him as his own son.",
+              "audioStart": 11.363,
+              "audioEnd": 14.438
+            },
+            {
+              "text": "Many years passed by while the boy grew older and bigger every single day.",
+              "audioStart": 15.3,
+              "audioEnd": 19.225
+            },
+            {
+              "text": "He had everything he could ever want in life, and people loved his looks.",
+              "audioStart": 20.087,
+              "audioEnd": 23.887
+            },
+            {
+              "text": "They always told him that he was the most beautiful child in the entire world.",
+              "audioStart": 24.75,
+              "audioEnd": 28.6
+            },
+            {
+              "text": "The boy believed these words and thought he was better than anyone else around him.",
+              "audioStart": 29.462,
+              "audioEnd": 33.25
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As the star-child grew up, he became very proud and hard to other people.",
+              "audioStart": 34.112,
+              "audioEnd": 38.087
+            },
+            {
+              "text": "He thought that he was better than everyone else because of his beauty.",
+              "audioStart": 38.95,
+              "audioEnd": 42.112
+            },
+            {
+              "text": "He laughed at poor children and animals, treating them with total bad behavior.",
+              "audioStart": 42.975,
+              "audioEnd": 47.062
+            },
+            {
+              "text": "He never showed any respect to anyone who did not look as fine as him.",
+              "audioStart": 47.925,
+              "audioEnd": 51.4
+            },
+            {
+              "text": "His heart became cold, and he did not care about anybody else in the town.",
+              "audioStart": 52.263,
+              "audioEnd": 56.275
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One day, a poor woman came to the village looking for her lost child.",
+              "audioStart": 57.138,
+              "audioEnd": 60.812
+            },
+            {
+              "text": "She claimed that the star-child was her son, but he refused to accept her.",
+              "audioStart": 61.675,
+              "audioEnd": 65.612
+            },
+            {
+              "text": "He treated her with terrible force, saying she was too bad to be his mother.",
+              "audioStart": 66.475,
+              "audioEnd": 70.562
+            },
+            {
+              "text": "He shouted at her and told her to leave the village right away.",
+              "audioStart": 71.425,
+              "audioEnd": 74.25
+            },
+            {
+              "text": "The poor woman cried and walked away into the dark forest with a broken heart.",
+              "audioStart": 75.112,
+              "audioEnd": 79.175
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Immediately, his beauty changed, and his face became like that of a fish and a bird.",
+              "audioStart": 80.037,
+              "audioEnd": 84.725
+            },
+            {
+              "text": "When he saw himself in a pool of water, he realized something.",
+              "audioStart": 85.588,
+              "audioEnd": 88.912
+            },
+            {
+              "text": "He realized how bad his behavior had been.",
+              "audioStart": 89.775,
+              "audioEnd": 92.1
+            },
+            {
+              "text": "He saw his new face and felt terrible pain deep inside his mind and soul.",
+              "audioStart": 92.963,
+              "audioEnd": 96.975
+            },
+            {
+              "text": "He decided to walk across the world until he found his mother and earned her love.",
+              "audioStart": 97.838,
+              "audioEnd": 101.8
+            },
+            {
+              "text": "He knew that he must change his ways if he wanted to fix his life.",
+              "audioStart": 102.662,
+              "audioEnd": 106
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During his long journey, he suffered greatly and learned how to be kind to everyone.",
+              "audioStart": 106.862,
+              "audioEnd": 111.025
+            },
+            {
+              "text": "He helped animals in trouble and shared his food with the poor people.",
+              "audioStart": 111.888,
+              "audioEnd": 115.225
+            },
+            {
+              "text": "He walked through many towns and forests while looking everywhere for his mother.",
+              "audioStart": 116.088,
+              "audioEnd": 119.938
+            },
+            {
+              "text": "Many months passed, and he always tried to do good things for other people.",
+              "audioStart": 120.8,
+              "audioEnd": 124.588
+            },
+            {
+              "text": "He finally understood why his face had changed and why his heart was wrong.",
+              "audioStart": 125.45,
+              "audioEnd": 129.4
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Finally, his mother appeared, and his true beauty returned because his heart was finally good.",
+              "audioStart": 130.262,
+              "audioEnd": 135.4
+            },
+            {
+              "text": "She held him and told him that she gave him back his place.",
+              "audioStart": 136.262,
+              "audioEnd": 139.137
+            },
+            {
+              "text": "She spoke sweet words to him and loved him completely.",
+              "audioStart": 140,
+              "audioEnd": 142.738
+            },
+            {
+              "text": "The young man smiled and thanked her with tears running down his face.",
+              "audioStart": 143.6,
+              "audioEnd": 147
+            },
+            {
+              "text": "He lived a long and happy life, always helping people and being kind to everyone.",
+              "audioStart": 147.863,
+              "audioEnd": 152.287
+            },
+            {
+              "text": "Everyone in the village respected him because he had become a truly good person.",
+              "audioStart": 153.15,
+              "audioEnd": 157.088
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0242.mp3",
+      "wordTimings": "audio/b1/st-0242.timings.json",
+      "quiz": [
+        {
+          "q": "Who found the baby boy in the forest?",
+          "options": [
+            "Woodcutters",
+            "A poor woman",
+            "A rich king"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the star-child's face when he was angry at the poor woman?",
+          "options": [
+            "It became like a snake and a frog",
+            "It became like gold",
+            "It stayed very beautiful"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the star-child do after his face changed?",
+          "options": [
+            "He walked across the world to find his mother",
+            "He stayed in the village and laughed at people",
+            "He lived in a big house with animals"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, several kind people found a baby boy inside a big forest during a cold night.",
+              "audioStart": 0.1,
+              "audioEnd": 5.525
+            },
+            {
+              "text": "The child was wrapped in gold clothes and had a face like a star.",
+              "audioStart": 6.388,
+              "audioEnd": 9.75
+            },
+            {
+              "text": "They brought him home, and the good man raised him as his own son.",
+              "audioStart": 10.613,
+              "audioEnd": 13.838
+            },
+            {
+              "text": "As the star child grew up, he became very proud and very mean to other people.",
+              "audioStart": 14.7,
+              "audioEnd": 19.05
+            },
+            {
+              "text": "He thought that he was better than everyone else because of his beauty.",
+              "audioStart": 19.913,
+              "audioEnd": 23.075
+            },
+            {
+              "text": "He laughed at poor children and animals, treating them with total bad action.",
+              "audioStart": 23.938,
+              "audioEnd": 27.9
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One day, a poor woman came to the village looking for her lost child.",
+              "audioStart": 28.762,
+              "audioEnd": 32.438
+            },
+            {
+              "text": "She claimed that the star child was her son, but he refused to accept her.",
+              "audioStart": 33.3,
+              "audioEnd": 37.312
+            },
+            {
+              "text": "He treated her with terrible anger, saying she was too ugly to be his mother.",
+              "audioStart": 38.175,
+              "audioEnd": 42.3
+            },
+            {
+              "text": "Immediately, his beauty changed, and his face became like that of a small water animal and a green jump bug.",
+              "audioStart": 43.163,
+              "audioEnd": 49.225
+            },
+            {
+              "text": "When he saw himself in a pool of water, he realized how bad his behavior had been.",
+              "audioStart": 50.087,
+              "audioEnd": 54.5
+            },
+            {
+              "text": "He decided to walk across the world until he found his mother and earned her love.",
+              "audioStart": 55.362,
+              "audioEnd": 59.325
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During his long journey, he suffered greatly and learned how to be good to everyone.",
+              "audioStart": 60.188,
+              "audioEnd": 64.25
+            },
+            {
+              "text": "He helped animals in trouble and shared his food with the poor.",
+              "audioStart": 65.112,
+              "audioEnd": 68.125
+            },
+            {
+              "text": "Finally, his mother appeared, and his true beauty returned because his heart was finally good.",
+              "audioStart": 68.987,
+              "audioEnd": 74.125
+            },
+            {
+              "text": "He lived happily after that day, always helping anyone who needed support.",
+              "audioStart": 74.987,
+              "audioEnd": 79.062
+            },
+            {
+              "text": "Many years passed while he traveled across mountains and rivers to help people.",
+              "audioStart": 79.925,
+              "audioEnd": 83.862
+            },
+            {
+              "text": "Every person who met him felt the heat of his new heart.",
+              "audioStart": 84.725,
+              "audioEnd": 87.425
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The world was full of challenges, but he never stopped being good to others.",
+              "audioStart": 88.287,
+              "audioEnd": 92.138
+            },
+            {
+              "text": "He understood that true beauty comes from a pure and kind heart.",
+              "audioStart": 93,
+              "audioEnd": 96.162
+            },
+            {
+              "text": "Animals and people too respected him because he always shared what he had.",
+              "audioStart": 97.025,
+              "audioEnd": 100.725
+            },
+            {
+              "text": "His mother was proud of the man that her son had become.",
+              "audioStart": 101.588,
+              "audioEnd": 104.4
+            },
+            {
+              "text": "They lived together in a small house near the edge of the forest.",
+              "audioStart": 105.263,
+              "audioEnd": 108.425
+            },
+            {
+              "text": "Whenever someone was sad, he would bring them food and warm clothes.",
+              "audioStart": 109.287,
+              "audioEnd": 112.85
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His life changed completely after he learned the true meaning of love.",
+              "audioStart": 113.713,
+              "audioEnd": 117.1
+            },
+            {
+              "text": "No one ever saw him act with pride or anger again.",
+              "audioStart": 117.963,
+              "audioEnd": 120.688
+            },
+            {
+              "text": "The children of the village loved playing games with him every afternoon.",
+              "audioStart": 121.55,
+              "audioEnd": 125
+            },
+            {
+              "text": "He taught them that being good is more important than physical beauty.",
+              "audioStart": 125.862,
+              "audioEnd": 128.963
+            },
+            {
+              "text": "Spring came and went, bringing new life to the trees and flowers.",
+              "audioStart": 129.825,
+              "audioEnd": 133.275
+            },
+            {
+              "text": "Birds sang lovely songs in the morning while the sun shone brightly above.",
+              "audioStart": 134.137,
+              "audioEnd": 137.85
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He looked out at the green grass and thanked the world for his new start.",
+              "audioStart": 138.713,
+              "audioEnd": 142.1
+            },
+            {
+              "text": "Nothing could ever break the strong bond between him and his mother.",
+              "audioStart": 142.963,
+              "audioEnd": 146.238
+            },
+            {
+              "text": "They spent many quiet years together in that quiet place.",
+              "audioStart": 147.1,
+              "audioEnd": 150.238
+            },
+            {
+              "text": "His heart remained full of love until the end of his days.",
+              "audioStart": 151.1,
+              "audioEnd": 153.975
+            },
+            {
+              "text": "People remembered his story for generations as a lesson in small and sweet feeling.",
+              "audioStart": 154.838,
+              "audioEnd": 159.238
+            },
+            {
+              "text": "He always remembered to be nice to everyone he met along the road.",
+              "audioStart": 160.1,
+              "audioEnd": 163.3
+            },
+            {
+              "text": "The sun shone down upon the green grass every single day.",
+              "audioStart": 164.162,
+              "audioEnd": 167.162
+            },
+            {
+              "text": "He walked through the trees and looked at the beautiful sky above him.",
+              "audioStart": 168.025,
+              "audioEnd": 171.075
+            },
+            {
+              "text": "Many people came from other towns just to see him and talk with him.",
+              "audioStart": 171.938,
+              "audioEnd": 175.262
+            },
+            {
+              "text": "He gave them food and helped them whenever they had a problem.",
+              "audioStart": 176.125,
+              "audioEnd": 179.012
+            },
+            {
+              "text": "His life was full of peace and quiet joy in the forest.",
+              "audioStart": 179.875,
+              "audioEnd": 182.812
+            },
+            {
+              "text": "The birds sang sweet songs while the wind moved through the leaves.",
+              "audioStart": 183.675,
+              "audioEnd": 186.812
+            },
+            {
+              "text": "He knew that love was the most important thing in the world.",
+              "audioStart": 187.675,
+              "audioEnd": 190.35
+            },
+            {
+              "text": "His mother smiled at him because she was so happy.",
+              "audioStart": 191.213,
+              "audioEnd": 193.863
+            },
+            {
+              "text": "They shared everything they had with everyone who came to their home.",
+              "audioStart": 194.725,
+              "audioEnd": 197.713
+            },
+            {
+              "text": "The children played near the water and laughed without any fear.",
+              "audioStart": 198.575,
+              "audioEnd": 201.7
+            },
+            {
+              "text": "He watched them and felt a deep peace inside his heart.",
+              "audioStart": 202.562,
+              "audioEnd": 205.35
+            },
+            {
+              "text": "Nothing could ever take away the joy that they shared together.",
+              "audioStart": 206.213,
+              "audioEnd": 209.037
+            },
+            {
+              "text": "The days passed quietly as they lived in peace.",
+              "audioStart": 209.9,
+              "audioEnd": 212.45
+            },
+            {
+              "text": "He always remembered the lesson that he had learned so long ago.",
+              "audioStart": 213.312,
+              "audioEnd": 216.412
+            },
+            {
+              "text": "His hands were strong, and he used them to help people every day.",
+              "audioStart": 217.275,
+              "audioEnd": 220.838
+            },
+            {
+              "text": "The world was a better place because he decided to change his life.",
+              "audioStart": 221.7,
+              "audioEnd": 225.012
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0242.mp3",
+      "wordTimings": "audio/b2/st-0242.timings.json",
+      "quiz": [
+        {
+          "q": "Where did the woodcutters find the baby boy?",
+          "options": [
+            "Inside a forest",
+            "Near a big city",
+            "Outside a church"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the boy's face after he was cruel to the poor woman?",
+          "options": [
+            "It became like a snake and a frog",
+            "It turned bright red like fire",
+            "It became completely dark and black"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did his beauty return at the end of the story?",
+          "options": [
+            "Because he found gold clothes",
+            "Because his heart became good",
+            "Because he slept in a bed"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "It was upon a bitter winter midnight that several woodcutters stumbled across an abandoned infant swathed in garments of woven gold. The biting frost nipped at the pine branches, yet the child lay untouched by the cold, possessing a countenance as luminous as a fallen star. Moved by pity, the poorest of these men took the foundling home to his meager hut and reared him as his very own. As the Star-Child matured into boyhood, his physical perfection became a marvel throughout the surrounding countryside. Yet beneath his radiant exterior lay a spirit hardened by vanity and inflated by his own incomparable beauty. He fancied himself superior to all mortals, disdaining those whose features lacked the celestial symmetry of his own.",
+              "audioStart": 0.1,
+              "audioEnd": 42.25
+            },
+            {
+              "text": "Cruelty soon became his preferred pastime, for he derived a malicious pleasure from tormenting the vulnerable. He mocked the beggar children who wandered near the village lanes, pelting them with sharp stones and laughing at their rags. Not even the helpless creatures of the forest escaped his torment, as he trapped birds and bruised animals merely to watch them suffer. His adoptive father often remonstrated with him, pleading for gentleness and humility, but the boy merely tossed his golden curls in haughty dismissal. He believed that beauty was the only true virtue in the world and that ugliness was an unforgivable crime. Never once did he suspect that the soul dwelling within his faultless frame was rapidly decaying into shadow.",
+              "audioStart": 43.112,
+              "audioEnd": 85.112
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One afternoon, as the villagers gathered by the marketplace, a wretched beggar woman limped into their midst with torn shoes and bleeding feet. She had traveled vast distances across perilous mountains, driven solely by the desperate hope of reclaiming her long-lost son. Catching sight of the proud Star-Child standing amidst his jeering companions, she cried out and stumbled toward him with open arms. She claimed him as the infant stolen from her bosom years ago during a terrible tempest in the forest. Instead of rushing to her embrace, the boy recoiled in bitter disgust, his face twisting into a snarl of cruel mockery. He denied her entirely, declaring that he would rather perish than acknowledge such a filthy, repulsive creature as his mother.",
+              "audioStart": 85.975,
+              "audioEnd": 130.113
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He spat harsh insults upon her poverty, demanding that she vanish from his sight forever and never return to shame him. The wretched woman wept bitter tears, turning away into the deepening twilight with a heart already shattered beyond repair. Scarcely had the cruel words left his lips when a terrifying transformation seized his arrogant form. He caught his reflection in a quiet forest pool and gasped aloud in sudden, agonizing horror. His skin had turned green and scaly like that of a water toad, and his face was bloated and hideous. The radiant beauty that had once inspired such boundless pride had vanished completely in a single dreadful moment.",
+              "audioStart": 130.975,
+              "audioEnd": 170
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the cruel youth realized the true measure of his wickedness, remorse struck him like a physical blow. He understood that his outward ugliness was merely the mirror of his inner soul, blackened by arrogance and malice. Weeping bitterly, he resolved to wander across the wide earth until he found his rejected mother and won her forgiveness. Day after day, he searched through dense thickets and over jagged mountain ridges, calling her name to the empty winds. The harsh thorns tore his hands, and the stony paths bruised his bare feet, yet he refused to yield to despair. Every hardship he endured served as a quiet lesson in humility, slowly eroding the stubborn pride that had ruined his life.",
+              "audioStart": 170.863,
+              "audioEnd": 211.688
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During his solitary pilgrimage, he encountered numerous creatures in distress and eagerly offered them whatever meager assistance he could provide. He freed trapped moles from tangled roots and shared his crusts of dry bread with starving winter birds. When weary travelers collapsed by the roadside, he used his own tattered cloak to shield them from the biting wind. The animals, once terrified of his cruel presence, now gathered trustingly around him as he spoke words of gentle comfort. Slowly, almost imperceptibly, his tortured features began to soften under the influence of unselfish compassion. He learned to value the quiet joy of serving others far above the empty praise of the proud.",
+              "audioStart": 212.55,
+              "audioEnd": 254.407
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many long years slipped away while he journeyed through distant lands, never faltering in his mission of redemption. One evening, as he entered a strange village, he found guards beating a poor beggar with iron rods. Without a moment of hesitation, he threw himself between the guards and the helpless victim, offering his own back to the blows. Just as he embraced the suffering stranger, his mother stepped forward from the crowd and laid a trembling hand upon his shoulder. She looked into his weary eyes with infinite tenderness and whispered words of complete forgiveness. At that very instant, the cruel curse dissolved away, and his radiant star-like beauty returned in full splendor.",
+              "audioStart": 255.27,
+              "audioEnd": 294.632
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The warmth of a renewed heart radiated from him, touching every person who crossed his path with unexpected grace. He returned to the small cottage near the edge of the forest, accompanied by the mother he had so dearly missed. Together they lived in quiet harmony, sharing their modest provisions with anyone who sought shelter beneath their roof. The villagers welcomed them with profound affection, marveling at the gentle transformation that had redeemed the once-hateful boy. Children gathered near the sparkling stream every afternoon to play games of tag and listen to his wondrous stories. He taught them that true nobility resides solely within the quiet chambers of a compassionate heart.",
+              "audioStart": 295.495,
+              "audioEnd": 334.695
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Spring returned each year with vibrant green grass and countless wildflowers blooming across the sunlit meadows. Sweet melodies echoed from the branches as nesting birds greeted the golden dawn with cheerful morning songs. The wind whispered softly through the ancient leaves, carrying an atmosphere of deep and abiding peace. Nothing could ever fracture the unbreakable bond that united the son and his devoted mother after such painful trials. They spent their remaining days in gentle companionship, tending their garden and helping the needy. People traveled from distant provinces just to catch a glimpse of the renowned man who radiated such profound kindness.",
+              "audioStart": 335.558,
+              "audioEnd": 373.558
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He never uttered another word of pride, nor did he allow anger to darken his thoughts even for a single moment. His hands remained strong and calloused from honest labor, dedicated entirely to the comfort of the unfortunate. Whenever sorrow touched the valley, he was the first to arrive with warm garments and nourishing food. The world around him flourished under the gentle influence of his daily deeds of quiet charity. He looked out across the verdant hills each morning, offering silent thanks for the miraculous second chance he had been granted. The bitter memories of his arrogant youth faded like morning mist beneath the brilliant summer sun.",
+              "audioStart": 374.42,
+              "audioEnd": 411.007
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The legacy of his remarkable journey endured long after he had grown old and gray, whispered down through successive generations. Parents recounted his tale to their children as a timeless reminder that beauty without kindness is merely an empty shell. He and his mother lived out their lives in unbroken serenity, surrounded by the quiet affection of a grateful community. The forest trees rustled their approval, and the river murmured a continuous lullaby of peace along its winding banks. Love had conquered every shadow, establishing a permanent reign of gentleness within their humble home. Nothing remained of the arrogant Star-Child save the legend of a heart that learned to love.",
+              "audioStart": 411.87,
+              "audioEnd": 450.983
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0242.mp3",
+      "wordTimings": "audio/c1/st-0242.timings.json",
+      "quiz": [
+        {
+          "q": "What caused the Star-Child's physical appearance to change into a hideous form?",
+          "options": [
+            "A curse placed upon him by the forest animals",
+            "His cruel rejection of the poor beggar woman",
+            "The bitter winter cold freezing his face"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the Star-Child spend the years following his transformation?",
+          "options": [
+            "Hiding away in a deep cave to avoid being seen by anyone",
+            "Wandering the world, helping the needy and animals in trouble",
+            "Working as a royal guard in a wealthy distant city"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What finally broke the curse and restored his original beauty?",
+          "options": [
+            "Finding gold hidden beneath the forest floor",
+            "Receiving total forgiveness from his mother",
+            "Drinking water from a magical forest pool"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

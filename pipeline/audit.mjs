@@ -133,7 +133,35 @@ function auditStory(story, { strict, allTitles }) {
     }
   }
 
+  // coverScene gate (kapak sahne betimi — görsel üretim prompt'u). Gramer kusuru
+  // strict'te HATA (yeni içeriği bloklar), stil tutarsizligi HEP uyari.
+  for (const issue of lintCoverScene(story.coverScene)) {
+    if (issue.kind === 'grammar') (strict ? errors : warnings).push(`coverScene: ${issue.msg}`);
+    else warnings.push(`coverScene: ${issue.msg}`);
+  }
+
   return { id: story.id ?? '(no id)', errors, warnings, safety, tier2Terms, reports };
+}
+
+// coverScene deterministik lint (görsel üretim prompt'u). YÜKSEK İSABET: çekimsiz "be"
+// ana fiili (örn. "a bird be on...", "...a bank door be.") betimleyici sahnede daima
+// hatalidir ve tam da st-0125/st-0126'daki bozuklugu yakalar. Kök fiil (sit/stand/open...)
+// listesi KULLANILMAZ — cogul/bilesik ozne ("A woman and a man stand") ve sifat kullanimi
+// ("a single open book") yuzunden yanlis-pozitif uretiyordu.
+// Stil (hep uyari): boş / küçük harf başlangıç / cümle sonu noktalama yok / çift boşluk.
+const MODAL_BEFORE_BE_RE = /\b(to|will|would|can|could|shall|should|must|may|might|'ll|'d)\s+be\b/i;
+function lintCoverScene(cs) {
+  const out = [];
+  const s = (cs ?? '').trim();
+  if (!s) { out.push({ kind: 'grammar', msg: 'boş/eksik' }); return out; }
+  // Çekimsiz "be" ana fiili — modal/to ile birlikte değilse hata ("...door be.", "bird be on").
+  if (/\bbe\b/i.test(s) && !MODAL_BEFORE_BE_RE.test(s)) {
+    out.push({ kind: 'grammar', msg: `çekimsiz "be" ana fiili: "${s}"` });
+  }
+  if (/^[a-z]/.test(s)) out.push({ kind: 'style', msg: 'küçük harfle başlıyor' });
+  if (!/[.!?]$/.test(s)) out.push({ kind: 'style', msg: 'cümle sonu noktalama yok' });
+  if (/\s{2,}/.test(s)) out.push({ kind: 'style', msg: 'çift boşluk' });
+  return out;
 }
 
 function loadStoryFiles(args) {

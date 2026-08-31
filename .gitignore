@@ -13,3 +13,11 @@ pipeline/v2-originals.draft.json
 .env*
 !.env.example
 .autopilot.log
+
+# Geçici/debug çıktıları (yayınlanmaz)
+*.out
+.autopilot.nohup.log
+pipeline/.tmp-*.json
+pipeline/.fix-*.json
+pipeline/.regen-progress.json
+docs/kapak-kontakt-*.png

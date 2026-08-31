@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 21,
-  "updatedAt": "2026-07-16",
+  "contentVersion": 22,
+  "updatedAt": "2026-08-31",
   "adConfig": {
     "adsEnabled": true,
     "nativeEveryNCards": 8,
@@ -26,7 +26,7 @@
       "wordCount": {
         "A1": 277,
         "A2": 406,
-        "B1": 617,
+        "B1": 604,
         "B2": 913
       },
       "minutes": {
@@ -35,7 +35,7 @@
         "B1": 5,
         "B2": 7
       },
-      "cover": "covers/st-0001.webp?v=21",
+      "cover": "covers/st-0001.webp?v=22",
       "isNew": false,
       "order": 1
     },
@@ -63,7 +63,7 @@
         "B1": 5,
         "B2": 7
       },
-      "cover": "covers/st-0002.webp?v=21",
+      "cover": "covers/st-0002.webp?v=22",
       "isNew": false,
       "order": 2
     },
@@ -91,7 +91,7 @@
         "B1": 5,
         "B2": 7
       },
-      "cover": "covers/st-0003.webp?v=21",
+      "cover": "covers/st-0003.webp?v=22",
       "isNew": false,
       "order": 3
     },
@@ -110,7 +110,7 @@
       "wordCount": {
         "A1": 262,
         "A2": 414,
-        "B1": 606,
+        "B1": 580,
         "B2": 908
       },
       "minutes": {
@@ -119,7 +119,7 @@
         "B1": 5,
         "B2": 7
       },
-      "cover": "covers/st-0004.webp?v=21",
+      "cover": "covers/st-0004.webp?v=22",
       "isNew": false,
       "order": 4
     },
@@ -147,7 +147,7 @@
         "B1": 5,
         "B2": 7
       },
-      "cover": "covers/st-0005.webp?v=21",
+      "cover": "covers/st-0005.webp?v=22",
       "isNew": false,
       "order": 5
     },
@@ -175,7 +175,7 @@
         "B1": 6,
         "B2": 8
       },
-      "cover": "covers/st-0006.webp?v=21",
+      "cover": "covers/st-0006.webp?v=22",
       "isNew": false,
       "order": 6
     },
@@ -194,7 +194,7 @@
       "wordCount": {
         "A1": 314,
         "A2": 569,
-        "B1": 790,
+        "B1": 733,
         "B2": 1058
       },
       "minutes": {
@@ -203,7 +203,7 @@
         "B1": 6,
         "B2": 8
       },
-      "cover": "covers/st-0007.webp?v=21",
+      "cover": "covers/st-0007.webp?v=22",
       "isNew": false,
       "order": 7
     },
@@ -221,17 +221,17 @@
       ],
       "wordCount": {
         "A1": 385,
-        "A2": 577,
+        "A2": 574,
         "B1": 755,
         "B2": 1010
       },
       "minutes": {
         "A1": 3,
-        "A2": 5,
+        "A2": 4,
         "B1": 6,
         "B2": 8
       },
-      "cover": "covers/st-0008.webp?v=21",
+      "cover": "covers/st-0008.webp?v=22",
       "isNew": false,
       "order": 8
     },
@@ -250,7 +250,7 @@
       "wordCount": {
         "A1": 286,
         "A2": 470,
-        "B1": 666,
+        "B1": 667,
         "B2": 1027
       },
       "minutes": {
@@ -259,7 +259,7 @@
         "B1": 5,
         "B2": 8
       },
-      "cover": "covers/st-0011.webp?v=21",
+      "cover": "covers/st-0011.webp?v=22",
       "isNew": false,
       "order": 9
     },
@@ -279,7 +279,7 @@
         "A1": 257,
         "A2": 441,
         "B1": 710,
-        "B2": 1034
+        "B2": 1019
       },
       "minutes": {
         "A1": 2,
@@ -287,7 +287,7 @@
         "B1": 6,
         "B2": 8
       },
-      "cover": "covers/st-0012.webp?v=21",
+      "cover": "covers/st-0012.webp?v=22",
       "isNew": false,
       "order": 10
     },
@@ -315,7 +315,7 @@
         "B1": 5,
         "B2": 9
       },
-      "cover": "covers/st-0013.webp?v=21",
+      "cover": "covers/st-0013.webp?v=22",
       "isNew": false,
       "order": 11
     },
@@ -343,7 +343,7 @@
         "B1": 7,
         "B2": 10
       },
-      "cover": "covers/st-0014.webp?v=21",
+      "cover": "covers/st-0014.webp?v=22",
       "isNew": false,
       "order": 12
     },
@@ -371,7 +371,7 @@
         "B1": 5,
         "B2": 9
       },
-      "cover": "covers/st-0015.webp?v=21",
+      "cover": "covers/st-0015.webp?v=22",
       "isNew": false,
       "order": 13
     },
@@ -390,7 +390,7 @@
       "wordCount": {
         "A1": 261,
         "A2": 533,
-        "B1": 644,
+        "B1": 630,
         "B2": 1114
       },
       "minutes": {
@@ -399,7 +399,7 @@
         "B1": 5,
         "B2": 9
       },
-      "cover": "covers/st-0016.webp?v=21",
+      "cover": "covers/st-0016.webp?v=22",
       "isNew": false,
       "order": 14
     },
@@ -418,7 +418,7 @@
       "wordCount": {
         "A1": 365,
         "A2": 518,
-        "B1": 804,
+        "B1": 772,
         "B2": 1057
       },
       "minutes": {
@@ -427,7 +427,7 @@
         "B1": 6,
         "B2": 8
       },
-      "cover": "covers/st-0017.webp?v=21",
+      "cover": "covers/st-0017.webp?v=22",
       "isNew": false,
       "order": 15
     },
@@ -446,7 +446,7 @@
       "wordCount": {
         "A1": 319,
         "A2": 543,
-        "B1": 706,
+        "B1": 707,
         "B2": 939
       },
       "minutes": {
@@ -455,7 +455,7 @@
         "B1": 6,
         "B2": 7
       },
-      "cover": "covers/st-0018.webp?v=21",
+      "cover": "covers/st-0018.webp?v=22",
       "isNew": false,
       "order": 16
     },
@@ -474,16 +474,16 @@
       "wordCount": {
         "A1": 324,
         "A2": 536,
-        "B1": 713,
+        "B1": 682,
         "B2": 918
       },
       "minutes": {
         "A1": 3,
         "A2": 4,
-        "B1": 6,
+        "B1": 5,
         "B2": 7
       },
-      "cover": "covers/st-0019.webp?v=21",
+      "cover": "covers/st-0019.webp?v=22",
       "isNew": false,
       "order": 17
     },
@@ -511,7 +511,7 @@
         "B1": 6,
         "B2": 7
       },
-      "cover": "covers/st-0020.webp?v=21",
+      "cover": "covers/st-0020.webp?v=22",
       "isNew": false,
       "order": 18
     },
@@ -530,7 +530,7 @@
       "wordCount": {
         "A1": 224,
         "A2": 383,
-        "B1": 858,
+        "B1": 834,
         "B2": 1136
       },
       "minutes": {
@@ -539,7 +539,7 @@
         "B1": 7,
         "B2": 9
       },
-      "cover": "covers/st-0021.webp?v=21",
+      "cover": "covers/st-0021.webp?v=22",
       "isNew": false,
       "order": 19
     },
@@ -558,7 +558,7 @@
       "wordCount": {
         "A1": 214,
         "A2": 350,
-        "B1": 995,
+        "B1": 975,
         "B2": 1109
       },
       "minutes": {
@@ -567,7 +567,7 @@
         "B1": 8,
         "B2": 9
       },
-      "cover": "covers/st-0023.webp?v=21",
+      "cover": "covers/st-0023.webp?v=22",
       "isNew": false,
       "order": 20
     },
@@ -595,7 +595,7 @@
         "B1": 6,
         "B2": 8
       },
-      "cover": "covers/st-0024.webp?v=21",
+      "cover": "covers/st-0024.webp?v=22",
       "isNew": false,
       "order": 21
     },
@@ -623,7 +623,7 @@
         "B1": 1,
         "B2": 2
       },
-      "cover": "covers/st-0025.webp?v=21",
+      "cover": "covers/st-0025.webp?v=22",
       "isNew": false,
       "order": 22
     },
@@ -651,7 +651,7 @@
         "B1": 2,
         "B2": 2
       },
-      "cover": "covers/st-0027.webp?v=21",
+      "cover": "covers/st-0027.webp?v=22",
       "isNew": false,
       "order": 23
     },
@@ -679,7 +679,7 @@
         "B1": 2,
         "B2": 2
       },
-      "cover": "covers/st-0028.webp?v=21",
+      "cover": "covers/st-0028.webp?v=22",
       "isNew": false,
       "order": 24
     },
@@ -707,7 +707,7 @@
         "B1": 2,
         "B2": 2
       },
-      "cover": "covers/st-0032.webp?v=21",
+      "cover": "covers/st-0032.webp?v=22",
       "isNew": false,
       "order": 25
     },
@@ -735,7 +735,7 @@
         "B1": 3,
         "B2": 3
       },
-      "cover": "covers/st-0033.webp?v=21",
+      "cover": "covers/st-0033.webp?v=22",
       "isNew": false,
       "order": 26
     },
@@ -763,7 +763,7 @@
         "B1": 2,
         "B2": 2
       },
-      "cover": "covers/st-0040.webp?v=21",
+      "cover": "covers/st-0040.webp?v=22",
       "isNew": false,
       "order": 27
     },
@@ -791,7 +791,7 @@
         "B1": 2,
         "B2": 2
       },
-      "cover": "covers/st-0042.webp?v=21",
+      "cover": "covers/st-0042.webp?v=22",
       "isNew": false,
       "order": 28
     },
@@ -819,7 +819,7 @@
         "B1": 2,
         "B2": 3
       },
-      "cover": "covers/st-0047.webp?v=21",
+      "cover": "covers/st-0047.webp?v=22",
       "isNew": false,
       "order": 29
     },
@@ -847,7 +847,7 @@
         "B1": 2,
         "B2": 3
       },
-      "cover": "covers/st-0049.webp?v=21",
+      "cover": "covers/st-0049.webp?v=22",
       "isNew": false,
       "order": 30
     },
@@ -875,7 +875,7 @@
         "B1": 2,
         "B2": 2
       },
-      "cover": "covers/st-0052.webp?v=21",
+      "cover": "covers/st-0052.webp?v=22",
       "isNew": false,
       "order": 31
     },
@@ -903,7 +903,7 @@
         "B1": 2,
         "B2": 2
       },
-      "cover": "covers/st-0060.webp?v=21",
+      "cover": "covers/st-0060.webp?v=22",
       "isNew": false,
       "order": 32
     },
@@ -922,7 +922,7 @@
       "wordCount": {
         "A1": 144,
         "A2": 157,
-        "B1": 156,
+        "B1": 159,
         "B2": 165
       },
       "minutes": {
@@ -931,7 +931,7 @@
         "B1": 1,
         "B2": 1
       },
-      "cover": "covers/st-0070.webp?v=21",
+      "cover": "covers/st-0070.webp?v=22",
       "isNew": false,
       "order": 33
     },
@@ -959,7 +959,7 @@
         "B1": 2,
         "B2": 2
       },
-      "cover": "covers/st-0080.webp?v=21",
+      "cover": "covers/st-0080.webp?v=22",
       "isNew": false,
       "order": 34
     },
@@ -978,7 +978,7 @@
       "wordCount": {
         "A1": 270,
         "A2": 463,
-        "B1": 628,
+        "B1": 608,
         "B2": 967
       },
       "minutes": {
@@ -987,7 +987,7 @@
         "B1": 5,
         "B2": 8
       },
-      "cover": "covers/st-0084.webp?v=21",
+      "cover": "covers/st-0084.webp?v=22",
       "isNew": false,
       "order": 35
     },
@@ -1015,7 +1015,7 @@
         "B1": 2,
         "B2": 2
       },
-      "cover": "covers/st-0088.webp?v=21",
+      "cover": "covers/st-0088.webp?v=22",
       "isNew": false,
       "order": 36
     },
@@ -1043,7 +1043,7 @@
         "B1": 5,
         "B2": 8
       },
-      "cover": "covers/st-0091.webp?v=21",
+      "cover": "covers/st-0091.webp?v=22",
       "isNew": false,
       "order": 37
     },
@@ -1071,7 +1071,7 @@
         "B1": 5,
         "B2": 9
       },
-      "cover": "covers/st-0092.webp?v=21",
+      "cover": "covers/st-0092.webp?v=22",
       "isNew": false,
       "order": 38
     },
@@ -1099,7 +1099,7 @@
         "B1": 2,
         "B2": 2
       },
-      "cover": "covers/st-0097.webp?v=21",
+      "cover": "covers/st-0097.webp?v=22",
       "isNew": false,
       "order": 39
     },
@@ -1127,7 +1127,7 @@
         "B1": 2,
         "B2": 3
       },
-      "cover": "covers/st-0098.webp?v=21",
+      "cover": "covers/st-0098.webp?v=22",
       "isNew": false,
       "order": 40
     },
@@ -1146,16 +1146,16 @@
       "wordCount": {
         "A1": 281,
         "A2": 579,
-        "B1": 620,
+        "B1": 569,
         "B2": 1013
       },
       "minutes": {
         "A1": 2,
         "A2": 5,
-        "B1": 5,
+        "B1": 4,
         "B2": 8
       },
-      "cover": "covers/st-0102.webp?v=21",
+      "cover": "covers/st-0102.webp?v=22",
       "isNew": false,
       "order": 41
     },
@@ -1183,7 +1183,7 @@
         "B1": 5,
         "B2": 7
       },
-      "cover": "covers/st-0104.webp?v=21",
+      "cover": "covers/st-0104.webp?v=22",
       "isNew": false,
       "order": 42
     },
@@ -1200,9 +1200,9 @@
         "B2"
       ],
       "wordCount": {
-        "A1": 252,
+        "A1": 251,
         "A2": 524,
-        "B1": 621,
+        "B1": 622,
         "B2": 952
       },
       "minutes": {
@@ -1211,7 +1211,7 @@
         "B1": 5,
         "B2": 7
       },
-      "cover": "covers/st-0106.webp?v=21",
+      "cover": "covers/st-0106.webp?v=22",
       "isNew": false,
       "order": 43
     },
@@ -1230,7 +1230,7 @@
       "wordCount": {
         "A1": 298,
         "A2": 527,
-        "B1": 768,
+        "B1": 767,
         "B2": 905
       },
       "minutes": {
@@ -1239,7 +1239,7 @@
         "B1": 6,
         "B2": 7
       },
-      "cover": "covers/st-0109.webp?v=21",
+      "cover": "covers/st-0109.webp?v=22",
       "isNew": false,
       "order": 44
     },
@@ -1259,7 +1259,7 @@
         "A1": 286,
         "A2": 477,
         "B1": 723,
-        "B2": 1008
+        "B2": 1009
       },
       "minutes": {
         "A1": 2,
@@ -1267,7 +1267,7 @@
         "B1": 6,
         "B2": 8
       },
-      "cover": "covers/st-0113.webp?v=21",
+      "cover": "covers/st-0113.webp?v=22",
       "isNew": false,
       "order": 45
     },
@@ -1295,7 +1295,7 @@
         "B1": 6,
         "B2": 8
       },
-      "cover": "covers/st-0115.webp?v=21",
+      "cover": "covers/st-0115.webp?v=22",
       "isNew": false,
       "order": 46
     },
@@ -1323,7 +1323,7 @@
         "B1": 7,
         "B2": 7
       },
-      "cover": "covers/st-0117.webp?v=21",
+      "cover": "covers/st-0117.webp?v=22",
       "isNew": false,
       "order": 47
     },
@@ -1351,7 +1351,7 @@
         "B1": 6,
         "B2": 7
       },
-      "cover": "covers/st-0119.webp?v=21",
+      "cover": "covers/st-0119.webp?v=22",
       "isNew": false,
       "order": 48
     },
@@ -1370,16 +1370,16 @@
       "wordCount": {
         "A1": 250,
         "A2": 529,
-        "B1": 614,
-        "B2": 961
+        "B1": 596,
+        "B2": 807
       },
       "minutes": {
         "A1": 2,
         "A2": 4,
         "B1": 5,
-        "B2": 8
+        "B2": 6
       },
-      "cover": "covers/st-0120.webp?v=21",
+      "cover": "covers/st-0120.webp?v=22",
       "isNew": false,
       "order": 49
     },
@@ -1407,9 +1407,4209 @@
         "B1": 5,
         "B2": 11
       },
-      "cover": "covers/st-0121.webp?v=21",
+      "cover": "covers/st-0121.webp?v=22",
       "isNew": false,
       "order": 50
+    },
+    {
+      "id": "st-0122",
+      "slug": "the-gift-of-the-magi",
+      "title": "The Gift of the Magi",
+      "summary": "A couple wants to give each other a special gift.",
+      "genre": "romance",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 252,
+        "A2": 448,
+        "B1": 665,
+        "B2": 906
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0122.webp?v=22",
+      "isNew": true,
+      "order": 51
+    },
+    {
+      "id": "st-0123",
+      "slug": "the-last-leaf",
+      "title": "The Last Leaf",
+      "summary": "Johnsy feels sad every day in her small cold room alone.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 276,
+        "A2": 410,
+        "B1": 632,
+        "B2": 938
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0123.webp?v=22",
+      "isNew": true,
+      "order": 52
+    },
+    {
+      "id": "st-0124",
+      "slug": "after-twenty-years",
+      "title": "After Twenty Years",
+      "summary": "Two friends make a promise to meet again after twenty years.",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 252,
+        "A2": 538,
+        "B1": 786,
+        "B2": 929
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 7
+      },
+      "cover": "covers/st-0124.webp?v=22",
+      "isNew": true,
+      "order": 53
+    },
+    {
+      "id": "st-0125",
+      "slug": "the-adventure-of-the-blue-carbuncle",
+      "title": "The Adventure of the Blue Carbuncle",
+      "summary": "Holmes gets a mysterious thing with a Blue Carbuncle inside it.",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 250,
+        "A2": 568,
+        "B1": 615,
+        "B2": 910
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0125.webp?v=22",
+      "isNew": true,
+      "order": 54
+    },
+    {
+      "id": "st-0126",
+      "slug": "the-red-headed-league",
+      "title": "The Red-Headed League",
+      "summary": "Mr Wilson meets Sherlock Holmes about a new daytime job opportunity suddenly.",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 355,
+        "A2": 455,
+        "B1": 601,
+        "B2": 916
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0126.webp?v=22",
+      "isNew": true,
+      "order": 55
+    },
+    {
+      "id": "st-0127",
+      "slug": "the-ant-and-the-grasshopper",
+      "title": "The Ant and the Grasshopper",
+      "summary": "A playful grasshopper refuses to work while a busy ant saves food for winter.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 235,
+        "A2": 504,
+        "B1": 557,
+        "B2": 1113
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 4,
+        "B2": 9
+      },
+      "cover": "covers/st-0127.webp?v=22",
+      "isNew": true,
+      "order": 56
+    },
+    {
+      "id": "st-0128",
+      "slug": "the-fox-and-the-grapes",
+      "title": "The Fox and the Grapes",
+      "summary": "A hungry man tries to reach some high food but cannot get it.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 206,
+        "A2": 231,
+        "B1": 581,
+        "B2": 680
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 5,
+        "B2": 5
+      },
+      "cover": "covers/st-0128.webp?v=22",
+      "isNew": true,
+      "order": 57
+    },
+    {
+      "id": "st-0130",
+      "slug": "the-north-wind-and-the-sun",
+      "title": "The North Wind and the Sun",
+      "summary": "The North Wind and the Sun argue about who is the strongest person.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 165,
+        "A2": 275,
+        "B1": 328,
+        "B2": 1006
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 3,
+        "B2": 8
+      },
+      "cover": "covers/st-0130.webp?v=22",
+      "isNew": true,
+      "order": 58
+    },
+    {
+      "id": "st-0131",
+      "slug": "the-goose-that-laid-the-golden-eggs",
+      "title": "The Goose That Laid the Golden Eggs",
+      "summary": "A poor man finds a special bird that gives him golden eggs every single day.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 181,
+        "A2": 410,
+        "B1": 572,
+        "B2": 815
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 3,
+        "B1": 4,
+        "B2": 6
+      },
+      "cover": "covers/st-0131.webp?v=22",
+      "isNew": true,
+      "order": 59
+    },
+    {
+      "id": "st-0132",
+      "slug": "the-town-mouse-and-the-country-mouse",
+      "title": "The Town Mouse and the Country Mouse",
+      "summary": "A country mouse visits a big city and faces a scary surprise.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 240,
+        "A2": 402,
+        "B1": 493,
+        "B2": 789
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 4,
+        "B2": 6
+      },
+      "cover": "covers/st-0132.webp?v=22",
+      "isNew": true,
+      "order": 60
+    },
+    {
+      "id": "st-0133",
+      "slug": "the-dog-and-his-reflection",
+      "title": "The Dog and His Reflection",
+      "summary": "A hungry pet finds a big meal and looks down into clear water.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 167,
+        "A2": 299,
+        "B1": 437,
+        "B2": 840
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 3,
+        "B2": 7
+      },
+      "cover": "covers/st-0133.webp?v=22",
+      "isNew": true,
+      "order": 61
+    },
+    {
+      "id": "st-0134",
+      "slug": "the-wolf-in-sheep-s-clothing",
+      "title": "The Wolf in Sheep's Clothing",
+      "summary": "A hungry man wears a special coat to hide and join a group.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 217,
+        "A2": 392,
+        "B1": 590,
+        "B2": 857
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0134.webp?v=22",
+      "isNew": true,
+      "order": 62
+    },
+    {
+      "id": "st-0135",
+      "slug": "the-milkmaid-and-her-pail",
+      "title": "The Milkmaid and Her Pail",
+      "summary": "A girl walks to market with big dreams and a heavy pail of water.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 237,
+        "A2": 265,
+        "B1": 432,
+        "B2": 791
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 6
+      },
+      "cover": "covers/st-0135.webp?v=22",
+      "isNew": true,
+      "order": 63
+    },
+    {
+      "id": "st-0136",
+      "slug": "the-bundle-of-sticks",
+      "title": "The Bundle of Sticks",
+      "summary": "An old father gives his fighting children a wooden test to teach a lesson.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 219,
+        "A2": 243,
+        "B1": 542,
+        "B2": 543
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 4
+      },
+      "cover": "covers/st-0136.webp?v=22",
+      "isNew": true,
+      "order": 64
+    },
+    {
+      "id": "st-0137",
+      "slug": "the-crow-and-the-pitcher",
+      "title": "The Crow and the Pitcher",
+      "summary": "A thirsty person finds a deep water pot and tries to reach the water.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 284,
+        "A2": 458,
+        "B1": 575,
+        "B2": 1030
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 4,
+        "B2": 8
+      },
+      "cover": "covers/st-0137.webp?v=22",
+      "isNew": true,
+      "order": 65
+    },
+    {
+      "id": "st-0138",
+      "slug": "the-ransom-of-red-chief",
+      "title": "The Ransom of Red Chief",
+      "summary": "Two poor men kidnap a young boy, but he treats the crime like a game.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 179,
+        "A2": 310,
+        "B1": 566,
+        "B2": 578
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 4,
+        "B2": 5
+      },
+      "cover": "covers/st-0138.webp?v=22",
+      "isNew": true,
+      "order": 66
+    },
+    {
+      "id": "st-0139",
+      "slug": "the-bremen-town-musicians",
+      "title": "The Bremen Town Musicians",
+      "summary": "Four animal friends travel together to make music and find a new home.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 222,
+        "A2": 310,
+        "B1": 331,
+        "B2": 1031
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 8
+      },
+      "cover": "covers/st-0139.webp?v=22",
+      "isNew": true,
+      "order": 67
+    },
+    {
+      "id": "st-0140",
+      "slug": "the-elephant-s-child",
+      "title": "The Elephant's Child",
+      "summary": "A curious young animal leaves home to find answers and starts a strange river adventure.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 218,
+        "A2": 333,
+        "B1": 322,
+        "B2": 754
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 3,
+        "B2": 6
+      },
+      "cover": "covers/st-0140.webp?v=22",
+      "isNew": true,
+      "order": 68
+    },
+    {
+      "id": "st-0141",
+      "slug": "rikki-tikki-tavi",
+      "title": "Rikki-Tikki-Tavi",
+      "summary": "A brave small mongoose helps a kind family and fights two bad snakes.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 196,
+        "A2": 345,
+        "B1": 596,
+        "B2": 670
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 5
+      },
+      "cover": "covers/st-0141.webp?v=22",
+      "isNew": true,
+      "order": 69
+    },
+    {
+      "id": "st-0142",
+      "slug": "the-legend-of-sleepy-hollow",
+      "title": "The Legend of Sleepy Hollow",
+      "summary": "A nervous school man rides home at night and a strange headless rider follows him.",
+      "genre": "horror",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 312,
+        "A2": 291,
+        "B1": 480,
+        "B2": 997
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 8
+      },
+      "cover": "covers/st-0142.webp?v=22",
+      "isNew": true,
+      "order": 70
+    },
+    {
+      "id": "st-0143",
+      "slug": "the-cop-and-the-anthem",
+      "title": "The Cop and the Anthem",
+      "summary": "A homeless man tries to get arrested for the winter, but his plans keep failing.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 187,
+        "A2": 239,
+        "B1": 480,
+        "B2": 735
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 4,
+        "B2": 6
+      },
+      "cover": "covers/st-0143.webp?v=22",
+      "isNew": true,
+      "order": 71
+    },
+    {
+      "id": "st-0144",
+      "slug": "the-celebrated-jumping-frog",
+      "title": "The Celebrated Jumping Frog",
+      "summary": "Jim Smiley trains a special jumping frog, but a stranger makes a secret plan.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 205,
+        "A2": 291,
+        "B1": 607,
+        "B2": 682
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 5,
+        "B2": 5
+      },
+      "cover": "covers/st-0144.webp?v=22",
+      "isNew": true,
+      "order": 72
+    },
+    {
+      "id": "st-0145",
+      "slug": "the-open-road",
+      "title": "The Open Road",
+      "summary": "Water Rat and Mr Toad take a trip with a horse and a cart.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 222,
+        "A2": 308,
+        "B1": 501,
+        "B2": 566
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 4
+      },
+      "cover": "covers/st-0145.webp?v=22",
+      "isNew": true,
+      "order": 73
+    },
+    {
+      "id": "st-0146",
+      "slug": "the-tale-of-peter-rabbit",
+      "title": "The Tale of Peter Rabbit",
+      "summary": "A naughty rabbit sneaks into a forbidden garden and runs from a scary man.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 322,
+        "A2": 335,
+        "B1": 684,
+        "B2": 884
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 3,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0146.webp?v=22",
+      "isNew": true,
+      "order": 74
+    },
+    {
+      "id": "st-0147",
+      "slug": "around-the-world-in-eighty-days",
+      "title": "Around the World in Eighty Days",
+      "summary": "Phileas Fogg makes a bold bet to travel around the entire world in eighty days.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 341,
+        "A2": 266,
+        "B1": 659,
+        "B2": 955
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 2,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0147.webp?v=22",
+      "isNew": true,
+      "order": 75
+    },
+    {
+      "id": "st-0148",
+      "slug": "the-tortoise-and-the-hare",
+      "title": "The Tortoise and the Hare",
+      "summary": "A fast runner and a slow runner start a race to see who wins.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 259,
+        "A2": 461,
+        "B1": 389,
+        "B2": 765
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 3,
+        "B2": 6
+      },
+      "cover": "covers/st-0148.webp?v=22",
+      "isNew": true,
+      "order": 76
+    },
+    {
+      "id": "st-0149",
+      "slug": "the-lion-and-the-mouse",
+      "title": "The Lion and the Mouse",
+      "summary": "A tiny mouse promises to help a giant lion after he saves its life.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 222,
+        "A2": 302,
+        "B1": 567,
+        "B2": 1068
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 8
+      },
+      "cover": "covers/st-0149.webp?v=22",
+      "isNew": true,
+      "order": 77
+    },
+    {
+      "id": "st-0150",
+      "slug": "the-boy-who-cried-wolf",
+      "title": "The Boy Who Cried Wolf",
+      "summary": "A bored young shepherd lies about a big wolf to trick the townspeople.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 243,
+        "A2": 281,
+        "B1": 632,
+        "B2": 915
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0150.webp?v=22",
+      "isNew": true,
+      "order": 78
+    },
+    {
+      "id": "st-0151",
+      "slug": "the-selfish-giant",
+      "title": "The Selfish Giant",
+      "summary": "A lonely giant builds a wall around his garden, but winter stays forever.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 210,
+        "A2": 520,
+        "B1": 737,
+        "B2": 643
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 5
+      },
+      "cover": "covers/st-0151.webp?v=22",
+      "isNew": true,
+      "order": 79
+    },
+    {
+      "id": "st-0152",
+      "slug": "the-ugly-duckling",
+      "title": "The Ugly Duckling",
+      "summary": "A very different young child must leave his home and walk far away.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 194,
+        "A2": 304,
+        "B1": 505,
+        "B2": 1112
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 9
+      },
+      "cover": "covers/st-0152.webp?v=22",
+      "isNew": true,
+      "order": 80
+    },
+    {
+      "id": "st-0153",
+      "slug": "the-emperor-s-new-clothes",
+      "title": "The Emperor's New Clothes",
+      "summary": "Two clever men sell a foolish ruler magical new clothes that nobody can see.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 191,
+        "A2": 250,
+        "B1": 438,
+        "B2": 680
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 3,
+        "B2": 5
+      },
+      "cover": "covers/st-0153.webp?v=22",
+      "isNew": true,
+      "order": 81
+    },
+    {
+      "id": "st-0154",
+      "slug": "the-elves-and-the-shoemaker",
+      "title": "The Elves and the Shoemaker",
+      "summary": "Poor shoemakers find mystery help at night and try to discover who makes shoes.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 185,
+        "A2": 279,
+        "B1": 401,
+        "B2": 249
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 3,
+        "B2": 2
+      },
+      "cover": "covers/st-0154.webp?v=22",
+      "isNew": true,
+      "order": 82
+    },
+    {
+      "id": "st-0155",
+      "slug": "how-the-camel-got-his-hump",
+      "title": "How the Camel Got His Hump",
+      "summary": "A lazy worker refuses to help, so a big man gives him a special change.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 204,
+        "A2": 326,
+        "B1": 472,
+        "B2": 968
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 4,
+        "B2": 8
+      },
+      "cover": "covers/st-0155.webp?v=22",
+      "isNew": true,
+      "order": 83
+    },
+    {
+      "id": "st-0156",
+      "slug": "rip-van-winkle",
+      "title": "Rip Van Winkle",
+      "summary": "Rip walks into the forest, drinks magic water, and sleeps for twenty long years.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 178,
+        "A2": 406,
+        "B1": 575,
+        "B2": 1199
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 3,
+        "B1": 4,
+        "B2": 9
+      },
+      "cover": "covers/st-0156.webp?v=22",
+      "isNew": true,
+      "order": 84
+    },
+    {
+      "id": "st-0157",
+      "slug": "puss-in-boots",
+      "title": "Puss in Boots",
+      "summary": "A sad young person gets a smart animal that asks for clothes and food.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 220,
+        "A2": 309,
+        "B1": 505,
+        "B2": 768
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 6
+      },
+      "cover": "covers/st-0157.webp?v=22",
+      "isNew": true,
+      "order": 85
+    },
+    {
+      "id": "st-0158",
+      "slug": "the-three-questions",
+      "title": "The Three Questions",
+      "summary": "A powerful man asks three hard questions and visits a wise old person for help.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 231,
+        "A2": 370,
+        "B1": 721,
+        "B2": 711
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 6,
+        "B2": 6
+      },
+      "cover": "covers/st-0158.webp?v=22",
+      "isNew": true,
+      "order": 86
+    },
+    {
+      "id": "st-0159",
+      "slug": "the-oak-and-the-reeds",
+      "title": "The Oak and the Reeds",
+      "summary": "A strong big plant and small weak plants face a powerful wind together.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 263,
+        "A2": 392,
+        "B1": 551,
+        "B2": 1018
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 4,
+        "B2": 8
+      },
+      "cover": "covers/st-0159.webp?v=22",
+      "isNew": true,
+      "order": 87
+    },
+    {
+      "id": "st-0160",
+      "slug": "the-frogs-who-wished-for-a-king",
+      "title": "The Frogs Who Wished for a King",
+      "summary": "Some water animals want a new leader and ask high powers for help.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 154,
+        "A2": 341,
+        "B1": 368,
+        "B2": 558
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 3,
+        "B1": 3,
+        "B2": 4
+      },
+      "cover": "covers/st-0160.webp?v=22",
+      "isNew": true,
+      "order": 88
+    },
+    {
+      "id": "st-0161",
+      "slug": "belling-the-cat",
+      "title": "Belling the Cat",
+      "summary": "Little animals need a smart plan to stay safe from a big black cat.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 293,
+        "A2": 280,
+        "B1": 721,
+        "B2": 606
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 6,
+        "B2": 5
+      },
+      "cover": "covers/st-0161.webp?v=22",
+      "isNew": true,
+      "order": 89
+    },
+    {
+      "id": "st-0162",
+      "slug": "the-fox-and-the-stork",
+      "title": "The Fox and the Stork",
+      "summary": "An unkind dog shares food with a bird, but someone cannot eat.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 251,
+        "A2": 355,
+        "B1": 593,
+        "B2": 1137
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 9
+      },
+      "cover": "covers/st-0162.webp?v=22",
+      "isNew": true,
+      "order": 90
+    },
+    {
+      "id": "st-0163",
+      "slug": "hansel-and-gretel",
+      "title": "Hansel and Gretel",
+      "summary": "Two children get lost in a dark forest and find a strange house.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 206,
+        "A2": 309,
+        "B1": 822,
+        "B2": 1080
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 6,
+        "B2": 8
+      },
+      "cover": "covers/st-0163.webp?v=22",
+      "isNew": true,
+      "order": 91
+    },
+    {
+      "id": "st-0164",
+      "slug": "the-frog-prince",
+      "title": "The Frog Prince",
+      "summary": "A sad child loses a toy in water and makes a deal with a frog.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 232,
+        "A2": 287,
+        "B1": 543,
+        "B2": 885
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 7
+      },
+      "cover": "covers/st-0164.webp?v=22",
+      "isNew": true,
+      "order": 92
+    },
+    {
+      "id": "st-0165",
+      "slug": "the-fisherman-and-his-wife",
+      "title": "The Fisherman and His Wife",
+      "summary": "A poor fisherman catches a magical animal that gives him a very nice new house.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 202,
+        "A2": 212,
+        "B1": 681,
+        "B2": 633
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 5,
+        "B2": 5
+      },
+      "cover": "covers/st-0165.webp?v=22",
+      "isNew": true,
+      "order": 93
+    },
+    {
+      "id": "st-0166",
+      "slug": "mother-holle",
+      "title": "Mother Holle",
+      "summary": "A good girl falls down a deep well and meets a magical woman.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 250,
+        "A2": 341,
+        "B1": 598,
+        "B2": 688
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 5
+      },
+      "cover": "covers/st-0166.webp?v=22",
+      "isNew": true,
+      "order": 94
+    },
+    {
+      "id": "st-0167",
+      "slug": "snow-white-and-the-seven-dwarfs",
+      "title": "Snow White and the Seven Dwarfs",
+      "summary": "A jealous mother forces a young girl to hide with seven helpful little men.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 236,
+        "A2": 365,
+        "B1": 756,
+        "B2": 980
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 6,
+        "B2": 8
+      },
+      "cover": "covers/st-0167.webp?v=22",
+      "isNew": true,
+      "order": 95
+    },
+    {
+      "id": "st-0168",
+      "slug": "little-red-riding-hood",
+      "title": "Little Red Riding Hood",
+      "summary": "A young girl walks through the woods and talks to a big wolf.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 232,
+        "A2": 325,
+        "B1": 439,
+        "B2": 766
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 3,
+        "B2": 6
+      },
+      "cover": "covers/st-0168.webp?v=22",
+      "isNew": true,
+      "order": 96
+    },
+    {
+      "id": "st-0169",
+      "slug": "rapunzel",
+      "title": "Rapunzel",
+      "summary": "A lonely girl lives high in a tower until a stranger hears her call.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 300,
+        "A2": 449,
+        "B1": 408,
+        "B2": 944
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 3,
+        "B2": 7
+      },
+      "cover": "covers/st-0169.webp?v=22",
+      "isNew": true,
+      "order": 97
+    },
+    {
+      "id": "st-0170",
+      "slug": "the-star-money",
+      "title": "The Star Money",
+      "summary": "A kind girl with no money gives her clothes away and meets falling stars.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 287,
+        "A2": 315,
+        "B1": 487,
+        "B2": 895
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 7
+      },
+      "cover": "covers/st-0170.webp?v=22",
+      "isNew": true,
+      "order": 98
+    },
+    {
+      "id": "st-0171",
+      "slug": "thumbelina",
+      "title": "Thumbelina",
+      "summary": "A tiny girl named Thumbelina embarks on a brave adventure after a toad captures her.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 216,
+        "A2": 296,
+        "B1": 411,
+        "B2": 792
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 6
+      },
+      "cover": "covers/st-0171.webp?v=22",
+      "isNew": true,
+      "order": 99
+    },
+    {
+      "id": "st-0172",
+      "slug": "the-princess-and-the-pea",
+      "title": "The Princess and the Pea",
+      "summary": "A prince searches worldwide for a true princess and plans an unusual test.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 153,
+        "A2": 254,
+        "B1": 633,
+        "B2": 531
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 5,
+        "B2": 4
+      },
+      "cover": "covers/st-0172.webp?v=22",
+      "isNew": true,
+      "order": 100
+    },
+    {
+      "id": "st-0173",
+      "slug": "the-nightingale",
+      "title": "The Nightingale",
+      "summary": "A rich man keeps a singing bird until a strange metal bird arrives.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 207,
+        "A2": 299,
+        "B1": 589,
+        "B2": 768
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 5,
+        "B2": 6
+      },
+      "cover": "covers/st-0173.webp?v=22",
+      "isNew": true,
+      "order": 101
+    },
+    {
+      "id": "st-0174",
+      "slug": "the-wild-swans",
+      "title": "The Wild Swans",
+      "summary": "A girl must craft magical items to free her brothers turned into swans.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 181,
+        "A2": 274,
+        "B1": 423,
+        "B2": 824
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 3,
+        "B2": 6
+      },
+      "cover": "covers/st-0174.webp?v=22",
+      "isNew": true,
+      "order": 102
+    },
+    {
+      "id": "st-0175",
+      "slug": "the-fir-tree",
+      "title": "The Fir Tree",
+      "summary": "A small tree longs to grow tall while children and workers decide its fate.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 269,
+        "A2": 428,
+        "B1": 854,
+        "B2": 795
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 7,
+        "B2": 6
+      },
+      "cover": "covers/st-0175.webp?v=22",
+      "isNew": true,
+      "order": 103
+    },
+    {
+      "id": "st-0176",
+      "slug": "cinderella",
+      "title": "Cinderella",
+      "summary": "A kind girl enslaved by her cruel family gets a magical dress for a ball.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 240,
+        "A2": 310,
+        "B1": 711,
+        "B2": 749
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 6,
+        "B2": 6
+      },
+      "cover": "covers/st-0176.webp?v=22",
+      "isNew": true,
+      "order": 104
+    },
+    {
+      "id": "st-0177",
+      "slug": "sleeping-beauty-brier-rose",
+      "title": "Sleeping Beauty (Brier Rose)",
+      "summary": "A cursed princess falls asleep, and a mysterious visitor may break the enchantment.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 191,
+        "A2": 266,
+        "B1": 506,
+        "B2": 1018
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 4,
+        "B2": 8
+      },
+      "cover": "covers/st-0177.webp?v=22",
+      "isNew": true,
+      "order": 105
+    },
+    {
+      "id": "st-0178",
+      "slug": "beauty-and-the-beast",
+      "title": "Beauty and the Beast",
+      "summary": "A kind girl trades a small plant for a chance to help her struggling family.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 242,
+        "A2": 363,
+        "B1": 424,
+        "B2": 1007
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 3,
+        "B2": 8
+      },
+      "cover": "covers/st-0178.webp?v=22",
+      "isNew": true,
+      "order": 106
+    },
+    {
+      "id": "st-0179",
+      "slug": "the-tale-of-jemima-puddle-duck",
+      "title": "The Tale of Jemima Puddle-Duck",
+      "summary": "Jemima the duck leaves her farm to find a new home and meets a stranger.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 187,
+        "A2": 347,
+        "B1": 881,
+        "B2": 938
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 3,
+        "B1": 7,
+        "B2": 7
+      },
+      "cover": "covers/st-0179.webp?v=22",
+      "isNew": true,
+      "order": 107
+    },
+    {
+      "id": "st-0180",
+      "slug": "the-tale-of-squirrel-nutkin",
+      "title": "The Tale of Squirrel Nutkin",
+      "summary": "Nutkin loves making music, but the quiet Old Brown does not enjoy his noisy games.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 247,
+        "A2": 299,
+        "B1": 426,
+        "B2": 916
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 7
+      },
+      "cover": "covers/st-0180.webp?v=22",
+      "isNew": true,
+      "order": 108
+    },
+    {
+      "id": "st-0181",
+      "slug": "the-tale-of-mrs-tiggy-winkle",
+      "title": "The Tale of Mrs. Tiggy-Winkle",
+      "summary": "A hard-working woman helps find lost items when people bring their problems to her.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 220,
+        "A2": 359,
+        "B1": 424,
+        "B2": 1098
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 3,
+        "B2": 9
+      },
+      "cover": "covers/st-0181.webp?v=22",
+      "isNew": true,
+      "order": 109
+    },
+    {
+      "id": "st-0182",
+      "slug": "the-tale-of-benjamin-bunny",
+      "title": "The Tale of Benjamin Bunny",
+      "summary": "Peter and Benjamin wander near a big house, unaware of the danger waiting.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 235,
+        "A2": 371,
+        "B1": 371,
+        "B2": 566
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 3,
+        "B2": 4
+      },
+      "cover": "covers/st-0182.webp?v=22",
+      "isNew": true,
+      "order": 110
+    },
+    {
+      "id": "st-0183",
+      "slug": "the-tale-of-mr-jeremy-fisher",
+      "title": "The Tale of Mr. Jeremy Fisher",
+      "summary": "A little frog takes a small boat out on the water to catch some food.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 234,
+        "A2": 373,
+        "B1": 383,
+        "B2": 1005
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 3,
+        "B2": 8
+      },
+      "cover": "covers/st-0183.webp?v=22",
+      "isNew": true,
+      "order": 111
+    },
+    {
+      "id": "st-0184",
+      "slug": "the-tale-of-tom-kitten",
+      "title": "The Tale of Tom Kitten",
+      "summary": "A mother animal prepares a big party, but Tom Kitten loses his clothes.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 227,
+        "A2": 305,
+        "B1": 688,
+        "B2": 972
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 5,
+        "B2": 8
+      },
+      "cover": "covers/st-0184.webp?v=22",
+      "isNew": true,
+      "order": 112
+    },
+    {
+      "id": "st-0185",
+      "slug": "how-the-leopard-got-his-spots",
+      "title": "How the Leopard Got His Spots",
+      "summary": "A worker wants to find a golden creature and makes a plan with a friend.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 241,
+        "A2": 267,
+        "B1": 490,
+        "B2": 516
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 4
+      },
+      "cover": "covers/st-0185.webp?v=22",
+      "isNew": true,
+      "order": 113
+    },
+    {
+      "id": "st-0186",
+      "slug": "how-the-whale-got-his-throat",
+      "title": "How the Whale Got His Throat",
+      "summary": "A giant sea animal follows advice and captures a man who builds a tiny home inside.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 220,
+        "A2": 219,
+        "B1": 441,
+        "B2": 696
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 5
+      },
+      "cover": "covers/st-0186.webp?v=22",
+      "isNew": true,
+      "order": 114
+    },
+    {
+      "id": "st-0187",
+      "slug": "the-cat-that-walked-by-himself",
+      "title": "The Cat That Walked by Himself",
+      "summary": "A clever free cat visits a warm new home to find food.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 293,
+        "A2": 219,
+        "B1": 451,
+        "B2": 756
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 6
+      },
+      "cover": "covers/st-0187.webp?v=22",
+      "isNew": true,
+      "order": 115
+    },
+    {
+      "id": "st-0188",
+      "slug": "how-the-rhinoceros-got-his-skin",
+      "title": "How the Rhinoceros Got His Skin",
+      "summary": "A hungry rhinoceros eats a man's food and starts a funny change.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 237,
+        "A2": 359,
+        "B1": 388,
+        "B2": 936
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 3,
+        "B2": 7
+      },
+      "cover": "covers/st-0188.webp?v=22",
+      "isNew": true,
+      "order": 116
+    },
+    {
+      "id": "st-0189",
+      "slug": "the-beginning-of-the-armadillos",
+      "title": "The Beginning of the Armadillos",
+      "summary": "Two small people play near the water, then a man comes with a secret plan.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 233,
+        "A2": 297,
+        "B1": 474,
+        "B2": 1007
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 8
+      },
+      "cover": "covers/st-0189.webp?v=22",
+      "isNew": true,
+      "order": 117
+    },
+    {
+      "id": "st-0190",
+      "slug": "aladdin-and-the-wonderful-lamp",
+      "title": "Aladdin and the Wonderful Lamp",
+      "summary": "A poor young boy finds a magic lamp that changes his life forever.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 222,
+        "A2": 356,
+        "B1": 369,
+        "B2": 683
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 3,
+        "B2": 5
+      },
+      "cover": "covers/st-0190.webp?v=22",
+      "isNew": true,
+      "order": 118
+    },
+    {
+      "id": "st-0191",
+      "slug": "ali-baba-and-the-forty-thieves",
+      "title": "Ali Baba and the Forty Thieves",
+      "summary": "Ali Baba finds secret money in a stone cave and faces dangerous thieves.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 239,
+        "A2": 209,
+        "B1": 571,
+        "B2": 832
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 7
+      },
+      "cover": "covers/st-0191.webp?v=22",
+      "isNew": true,
+      "order": 119
+    },
+    {
+      "id": "st-0192",
+      "slug": "the-voyages-of-sinbad-tek-sefer",
+      "title": "The Voyages of Sinbad (tek sefer)",
+      "summary": "Sinbad joins a crew and sails to a strange island that suddenly moves.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 208,
+        "A2": 256,
+        "B1": 545,
+        "B2": 534
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 4
+      },
+      "cover": "covers/st-0192.webp?v=22",
+      "isNew": true,
+      "order": 120
+    },
+    {
+      "id": "st-0193",
+      "slug": "the-fisherman-and-the-genie",
+      "title": "The Fisherman and the Genie",
+      "summary": "A poor man finds an old container in the water and opens it.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 312,
+        "A2": 303,
+        "B1": 381,
+        "B2": 522
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 4
+      },
+      "cover": "covers/st-0193.webp?v=22",
+      "isNew": true,
+      "order": 121
+    },
+    {
+      "id": "st-0194",
+      "slug": "momotaro-the-peach-boy",
+      "title": "Momotaro, the Peach Boy",
+      "summary": "Brave Momotaro sets out with animal friends to defeat distant bad people.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 173,
+        "A2": 284,
+        "B1": 368,
+        "B2": 671
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 3,
+        "B2": 5
+      },
+      "cover": "covers/st-0194.webp?v=22",
+      "isNew": true,
+      "order": 122
+    },
+    {
+      "id": "st-0195",
+      "slug": "urashima-taro",
+      "title": "Urashima Taro",
+      "summary": "Taro rescues a turtle, follows it underwater to a wondrous palace, receiving a secret box.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 192,
+        "A2": 329,
+        "B1": 589,
+        "B2": 992
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 8
+      },
+      "cover": "covers/st-0195.webp?v=22",
+      "isNew": true,
+      "order": 123
+    },
+    {
+      "id": "st-0196",
+      "slug": "the-grateful-crane-tsuru-no-ongaeshi",
+      "title": "The Grateful Crane (Tsuru no Ongaeshi)",
+      "summary": "An old man saves a trapped crane, then a mysterious woman arrives and changes everything.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 250,
+        "A2": 400,
+        "B1": 687,
+        "B2": 671
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 5
+      },
+      "cover": "covers/st-0196.webp?v=22",
+      "isNew": true,
+      "order": 124
+    },
+    {
+      "id": "st-0197",
+      "slug": "issun-boshi-one-inch-boy",
+      "title": "Issun-boshi (One-Inch Boy)",
+      "summary": "A tiny boy leaves his village to help a child in a distant city.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 207,
+        "A2": 308,
+        "B1": 429,
+        "B2": 930
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 7
+      },
+      "cover": "covers/st-0197.webp?v=22",
+      "isNew": true,
+      "order": 125
+    },
+    {
+      "id": "st-0198",
+      "slug": "anansi-and-the-pot-of-wisdom",
+      "title": "Anansi and the Pot of Wisdom",
+      "summary": "Anansi tries to hide a magical pot of wisdom, but a clever child offers help.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 159,
+        "A2": 217,
+        "B1": 495,
+        "B2": 882
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 4,
+        "B2": 7
+      },
+      "cover": "covers/st-0198.webp?v=22",
+      "isNew": true,
+      "order": 126
+    },
+    {
+      "id": "st-0199",
+      "slug": "the-tiger-the-brahmin-and-the-jackal",
+      "title": "The Tiger, the Brahmin and the Jackal",
+      "summary": "A kind man finds a trapped beast in a box and must decide how to help.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 226,
+        "A2": 241,
+        "B1": 619,
+        "B2": 1009
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 5,
+        "B2": 8
+      },
+      "cover": "covers/st-0199.webp?v=22",
+      "isNew": true,
+      "order": 127
+    },
+    {
+      "id": "st-0200",
+      "slug": "the-blue-jackal",
+      "title": "The Blue Jackal",
+      "summary": "A hungry man falls into bright blue dye and becomes the king of animals.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 234,
+        "A2": 255,
+        "B1": 342,
+        "B2": 518
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 4
+      },
+      "cover": "covers/st-0200.webp?v=22",
+      "isNew": true,
+      "order": 128
+    },
+    {
+      "id": "st-0201",
+      "slug": "the-monkey-and-the-crocodile",
+      "title": "The Monkey and the Crocodile",
+      "summary": "A clever man must cross a river on a crocodile that plans to eat him.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 252,
+        "A2": 279,
+        "B1": 636,
+        "B2": 1194
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 5,
+        "B2": 9
+      },
+      "cover": "covers/st-0201.webp?v=22",
+      "isNew": true,
+      "order": 129
+    },
+    {
+      "id": "st-0202",
+      "slug": "the-three-billy-goats-gruff",
+      "title": "The Three Billy Goats Gruff",
+      "summary": "Three goats try to cross a bridge while a hungry troll waits below.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 213,
+        "A2": 327,
+        "B1": 432,
+        "B2": 1053
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 3,
+        "B2": 8
+      },
+      "cover": "covers/st-0202.webp?v=22",
+      "isNew": true,
+      "order": 130
+    },
+    {
+      "id": "st-0203",
+      "slug": "east-of-the-sun-and-west-of-the-moon",
+      "title": "East of the Sun and West of the Moon",
+      "summary": "A girl follows a magical white bear, discovering a mysterious secret that changes everything.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 234,
+        "A2": 292,
+        "B1": 588,
+        "B2": 691
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 5,
+        "B2": 5
+      },
+      "cover": "covers/st-0203.webp?v=22",
+      "isNew": true,
+      "order": 131
+    },
+    {
+      "id": "st-0204",
+      "slug": "why-the-sea-is-salt",
+      "title": "Why the Sea Is Salt",
+      "summary": "A poor man receives a mysterious gift that changes his fortunes, sparking greed.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 235,
+        "A2": 400,
+        "B1": 625,
+        "B2": 652
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 5
+      },
+      "cover": "covers/st-0204.webp?v=22",
+      "isNew": true,
+      "order": 132
+    },
+    {
+      "id": "st-0205",
+      "slug": "the-firebird",
+      "title": "The Firebird",
+      "summary": "A mysterious thief steals magical food from a tree every single night.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 180,
+        "A2": 191,
+        "B1": 473,
+        "B2": 823
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 1,
+        "B1": 4,
+        "B2": 6
+      },
+      "cover": "covers/st-0205.webp?v=22",
+      "isNew": true,
+      "order": 133
+    },
+    {
+      "id": "st-0206",
+      "slug": "vasilisa-the-beautiful",
+      "title": "Vasilisa the Beautiful",
+      "summary": "Kind Vasilisa, forced by a cruel stepfamily, seeks help from Baba Yaga with a magic doll.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 232,
+        "A2": 335,
+        "B1": 412,
+        "B2": 714
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 3,
+        "B2": 6
+      },
+      "cover": "covers/st-0206.webp?v=22",
+      "isNew": true,
+      "order": 134
+    },
+    {
+      "id": "st-0207",
+      "slug": "the-fool-of-the-world-and-the-flying-ship",
+      "title": "The Fool of the World and the Flying Ship",
+      "summary": "A kind young man builds a flying ship and faces hard tests to win a princess.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 196,
+        "A2": 292,
+        "B1": 458,
+        "B2": 1077
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 8
+      },
+      "cover": "covers/st-0207.webp?v=22",
+      "isNew": true,
+      "order": 135
+    },
+    {
+      "id": "st-0208",
+      "slug": "stone-soup",
+      "title": "Stone Soup",
+      "summary": "Two hungry strangers arrive in a town and try to start a soup.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 149,
+        "A2": 371,
+        "B1": 324,
+        "B2": 757
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 3,
+        "B1": 3,
+        "B2": 6
+      },
+      "cover": "covers/st-0208.webp?v=22",
+      "isNew": true,
+      "order": 136
+    },
+    {
+      "id": "st-0209",
+      "slug": "the-gingerbread-man",
+      "title": "The Gingerbread Man",
+      "summary": "A freshly baked gingerbread man dashes away, meeting strangers who each try to catch him.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 180,
+        "A2": 300,
+        "B1": 469,
+        "B2": 563
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 4,
+        "B2": 4
+      },
+      "cover": "covers/st-0209.webp?v=22",
+      "isNew": true,
+      "order": 137
+    },
+    {
+      "id": "st-0210",
+      "slug": "the-little-red-hen",
+      "title": "The Little Red Hen",
+      "summary": "A diligent hen asks her friends for help growing food, but they refuse.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 213,
+        "A2": 294,
+        "B1": 476,
+        "B2": 857
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 7
+      },
+      "cover": "covers/st-0210.webp?v=22",
+      "isNew": true,
+      "order": 138
+    },
+    {
+      "id": "st-0211",
+      "slug": "goldilocks-and-the-three-bears",
+      "title": "Goldilocks and the Three Bears",
+      "summary": "A curious girl finds a bear's house and tests their food, chairs, and beds.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 263,
+        "A2": 274,
+        "B1": 634,
+        "B2": 510
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 5,
+        "B2": 4
+      },
+      "cover": "covers/st-0211.webp?v=22",
+      "isNew": true,
+      "order": 139
+    },
+    {
+      "id": "st-0212",
+      "slug": "the-three-little-pigs",
+      "title": "The Three Little Pigs",
+      "summary": "Three children build houses, but a big bad man wants to come inside.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 380,
+        "A2": 430,
+        "B1": 891,
+        "B2": 985
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 3,
+        "B1": 7,
+        "B2": 8
+      },
+      "cover": "covers/st-0212.webp?v=22",
+      "isNew": true,
+      "order": 140
+    },
+    {
+      "id": "st-0213",
+      "slug": "a-retrieved-reformation",
+      "title": "A Retrieved Reformation",
+      "summary": "An ex-convict starts a new life in a town, but his old secret is discovered.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 340,
+        "A2": 367,
+        "B1": 708,
+        "B2": 695
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 3,
+        "B1": 6,
+        "B2": 5
+      },
+      "cover": "covers/st-0213.webp?v=22",
+      "isNew": true,
+      "order": 141
+    },
+    {
+      "id": "st-0214",
+      "slug": "mammon-and-the-archer",
+      "title": "Mammon and the Archer",
+      "summary": "Rich boy races against stopped traffic to confess love before rival arrives.",
+      "genre": "romance",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 291,
+        "A2": 407,
+        "B1": 687,
+        "B2": 985
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 8
+      },
+      "cover": "covers/st-0214.webp?v=22",
+      "isNew": true,
+      "order": 142
+    },
+    {
+      "id": "st-0215",
+      "slug": "witches-loaves",
+      "title": "Witches' Loaves",
+      "summary": "A kind shopkeeper notices a mysterious customer with colored hands and wonders why.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 241,
+        "A2": 403,
+        "B1": 794,
+        "B2": 901
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 6,
+        "B2": 7
+      },
+      "cover": "covers/st-0215.webp?v=22",
+      "isNew": true,
+      "order": 143
+    },
+    {
+      "id": "st-0216",
+      "slug": "one-thousand-dollars",
+      "title": "One Thousand Dollars",
+      "summary": "Gillian receives a mysterious inheritance test and must choose how to spend the thousand dollars.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 285,
+        "A2": 370,
+        "B1": 666,
+        "B2": 1036
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 8
+      },
+      "cover": "covers/st-0216.webp?v=22",
+      "isNew": true,
+      "order": 144
+    },
+    {
+      "id": "st-0217",
+      "slug": "the-third-ingredient",
+      "title": "The Third Ingredient",
+      "summary": "A hungry woman gets small gifts from her neighbors and makes something special.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 324,
+        "A2": 472,
+        "B1": 742,
+        "B2": 1039
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8
+      },
+      "cover": "covers/st-0217.webp?v=22",
+      "isNew": true,
+      "order": 145
+    },
+    {
+      "id": "st-0218",
+      "slug": "a-scandal-in-bohemia",
+      "title": "A Scandal in Bohemia",
+      "summary": "Sherlock Holmes is hired to recover a secret photograph that could ruin a powerful leader.",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 377,
+        "A2": 494,
+        "B1": 603,
+        "B2": 1053
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 5,
+        "B2": 8
+      },
+      "cover": "covers/st-0218.webp?v=22",
+      "isNew": true,
+      "order": 146
+    },
+    {
+      "id": "st-0219",
+      "slug": "silver-blaze",
+      "title": "Silver Blaze",
+      "summary": "A famous horse disappears before a big race, and a detective starts to ask questions.",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 376,
+        "A2": 413,
+        "B1": 590,
+        "B2": 1184
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 3,
+        "B1": 5,
+        "B2": 9
+      },
+      "cover": "covers/st-0219.webp?v=22",
+      "isNew": true,
+      "order": 147
+    },
+    {
+      "id": "st-0220",
+      "slug": "the-man-with-the-twisted-lip",
+      "title": "The Man with the Twisted Lip",
+      "summary": "A wife spots a strange man resembling her husband and asks Sherlock Holmes for help.",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 354,
+        "A2": 421,
+        "B1": 719,
+        "B2": 904
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 3,
+        "B1": 6,
+        "B2": 7
+      },
+      "cover": "covers/st-0220.webp?v=22",
+      "isNew": true,
+      "order": 148
+    },
+    {
+      "id": "st-0221",
+      "slug": "the-musgrave-ritual",
+      "title": "The Musgrave Ritual",
+      "summary": "Holmes investigates a strange family paper that leads him to a hidden secret.",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 340,
+        "A2": 469,
+        "B1": 706,
+        "B2": 1178
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9
+      },
+      "cover": "covers/st-0221.webp?v=22",
+      "isNew": true,
+      "order": 149
+    },
+    {
+      "id": "st-0222",
+      "slug": "the-country-of-the-blind",
+      "title": "The Country of the Blind",
+      "summary": "A traveler falls into a blind land and tries to guide its unseen people.",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 306,
+        "A2": 511,
+        "B1": 668,
+        "B2": 957
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0222.webp?v=22",
+      "isNew": true,
+      "order": 150
+    },
+    {
+      "id": "st-0223",
+      "slug": "the-monkey-and-the-crab",
+      "title": "The Monkey and the Crab",
+      "summary": "A kind animal grows food, but a mean monkey steals it every single day.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 267,
+        "A2": 314,
+        "B1": 502,
+        "B2": 608
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 5
+      },
+      "cover": "covers/st-0223.webp?v=22",
+      "isNew": true,
+      "order": 151
+    },
+    {
+      "id": "st-0224",
+      "slug": "jack-and-the-beanstalk",
+      "title": "Jack and the Beanstalk",
+      "summary": "Poor Jack sells his last animal, then a magical bean stalk grows into the sky.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 210,
+        "A2": 408,
+        "B1": 515,
+        "B2": 776
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 4,
+        "B2": 6
+      },
+      "cover": "covers/st-0224.webp?v=22",
+      "isNew": true,
+      "order": 152
+    },
+    {
+      "id": "st-0225",
+      "slug": "the-green-door",
+      "title": "The Green Door",
+      "summary": "A curious man discovers a mysterious old door in the city at night.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 159,
+        "A2": 370,
+        "B1": 393,
+        "B2": 727
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 3,
+        "B1": 3,
+        "B2": 6
+      },
+      "cover": "covers/st-0225.webp?v=22",
+      "isNew": true,
+      "order": 153
+    },
+    {
+      "id": "st-0226",
+      "slug": "the-adventure-of-the-beryl-coronet",
+      "title": "The Adventure of the Beryl Coronet",
+      "summary": "A wealthy man discovers his prized yellow hat broken and must uncover the mystery behind it.",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 193,
+        "A2": 356,
+        "B1": 685,
+        "B2": 755
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 6
+      },
+      "cover": "covers/st-0226.webp?v=22",
+      "isNew": true,
+      "order": 154
+    },
+    {
+      "id": "st-0227",
+      "slug": "aepyornis-island",
+      "title": "Aepyornis Island",
+      "summary": "Adada discovers a mysterious huge object in the water that soon changes his life.",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 236,
+        "A2": 308,
+        "B1": 655,
+        "B2": 722
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 5,
+        "B2": 6
+      },
+      "cover": "covers/st-0227.webp?v=22",
+      "isNew": true,
+      "order": 155
+    },
+    {
+      "id": "st-0228",
+      "slug": "the-time-machine-tek-epizod",
+      "title": "The Time Machine (tek epizod)",
+      "summary": "A man builds a time machine and travels to a strange future that his friends doubt.",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 234,
+        "A2": 491,
+        "B1": 616,
+        "B2": 244
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 5,
+        "B2": 2
+      },
+      "cover": "covers/st-0228.webp?v=22",
+      "isNew": true,
+      "order": 156
+    },
+    {
+      "id": "st-0229",
+      "slug": "the-first-men-in-the-moon-tek-epizod",
+      "title": "The First Men in the Moon (tek epizod)",
+      "summary": "Two friends travel in a giant car to a mysterious ancient world full of green wonders.",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 244,
+        "A2": 232,
+        "B1": 526,
+        "B2": 711
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 6
+      },
+      "cover": "covers/st-0229.webp?v=22",
+      "isNew": true,
+      "order": 157
+    },
+    {
+      "id": "st-0230",
+      "slug": "journey-to-the-center-of-the-earth-tek-epizod",
+      "title": "Journey to the Center of the Earth (tek epizod)",
+      "summary": "A brave team descends into a dark, hot underground world with limited light.",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 200,
+        "A2": 304,
+        "B1": 353,
+        "B2": 795
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 6
+      },
+      "cover": "covers/st-0230.webp?v=22",
+      "isNew": true,
+      "order": 158
+    },
+    {
+      "id": "st-0231",
+      "slug": "twenty-thousand-leagues-tek-epizod",
+      "title": "Twenty Thousand Leagues (tek epizod)",
+      "summary": "A small crew discovers a mysterious underwater vessel ruled by a silent, strange leader.",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 181,
+        "A2": 278,
+        "B1": 765,
+        "B2": 880
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 6,
+        "B2": 7
+      },
+      "cover": "covers/st-0231.webp?v=22",
+      "isNew": true,
+      "order": 159
+    },
+    {
+      "id": "st-0232",
+      "slug": "the-secret-garden-tek-epizod",
+      "title": "The Secret Garden (tek epizod)",
+      "summary": "A curious child discovers an abandoned garden behind an old door and decides to revive it.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 320,
+        "A2": 335,
+        "B1": 620,
+        "B2": 698
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 3,
+        "B1": 5,
+        "B2": 5
+      },
+      "cover": "covers/st-0232.webp?v=22",
+      "isNew": true,
+      "order": 160
+    },
+    {
+      "id": "st-0233",
+      "slug": "a-little-princess-tek-epizod",
+      "title": "A Little Princess (tek epizod)",
+      "summary": "A kind girl named Sara struggles when her family loses money and must share food.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 234,
+        "A2": 267,
+        "B1": 575,
+        "B2": 675
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 5
+      },
+      "cover": "covers/st-0233.webp?v=22",
+      "isNew": true,
+      "order": 161
+    },
+    {
+      "id": "st-0234",
+      "slug": "heidi-tek-epizod",
+      "title": "Heidi (tek epizod)",
+      "summary": "Heidi and the old man explore their high mountain home, searching for tiny animals.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 312,
+        "A2": 306,
+        "B1": 622,
+        "B2": 955
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0234.webp?v=22",
+      "isNew": true,
+      "order": 162
+    },
+    {
+      "id": "st-0235",
+      "slug": "the-railway-children-tek-epizod",
+      "title": "The Railway Children (tek epizod)",
+      "summary": "A child who loves trains discovers a danger on the tracks and must act.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 290,
+        "A2": 305,
+        "B1": 566,
+        "B2": 1096
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 9
+      },
+      "cover": "covers/st-0235.webp?v=22",
+      "isNew": true,
+      "order": 163
+    },
+    {
+      "id": "st-0236",
+      "slug": "the-book-of-dragons-the-book-of-beasts",
+      "title": "The Book of Dragons: The Book of Beasts",
+      "summary": "A child discovers an old book that releases strange creatures he must control.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 177,
+        "A2": 245,
+        "B1": 420,
+        "B2": 912
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 3,
+        "B2": 7
+      },
+      "cover": "covers/st-0236.webp?v=22",
+      "isNew": true,
+      "order": 164
+    },
+    {
+      "id": "st-0237",
+      "slug": "treasure-island-tek-epizod",
+      "title": "Treasure Island (tek epizod)",
+      "summary": "A group of friends searches for treasure while a mysterious stranger offers unexpected help.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 190,
+        "A2": 333,
+        "B1": 525,
+        "B2": 605
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 3,
+        "B1": 4,
+        "B2": 5
+      },
+      "cover": "covers/st-0237.webp?v=22",
+      "isNew": true,
+      "order": 165
+    },
+    {
+      "id": "st-0238",
+      "slug": "wind-in-the-willows-the-wild-wood-epizod",
+      "title": "Wind in the Willows: The Wild Wood (epizod)",
+      "summary": "A curious boy wanders into a mysterious forest and his friends search for him.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 194,
+        "A2": 320,
+        "B1": 812,
+        "B2": 982
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 6,
+        "B2": 8
+      },
+      "cover": "covers/st-0238.webp?v=22",
+      "isNew": true,
+      "order": 166
+    },
+    {
+      "id": "st-0239",
+      "slug": "alice-through-the-looking-glass-epizod",
+      "title": "Alice: Through the Looking-Glass (epizod)",
+      "summary": "Alice steps through a glass into a strange world where everything feels confusing.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 189,
+        "A2": 262,
+        "B1": 558,
+        "B2": 740
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 4,
+        "B2": 6
+      },
+      "cover": "covers/st-0239.webp?v=22",
+      "isNew": true,
+      "order": 167
+    },
+    {
+      "id": "st-0240",
+      "slug": "the-devoted-friend",
+      "title": "The Devoted Friend",
+      "summary": "Kind Hans shares his garden with selfish Hugh, who soon asks for demanding help.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 220,
+        "A2": 393,
+        "B1": 614,
+        "B2": 737
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 6
+      },
+      "cover": "covers/st-0240.webp?v=22",
+      "isNew": true,
+      "order": 168
+    },
+    {
+      "id": "st-0241",
+      "slug": "the-remarkable-rocket",
+      "title": "The Remarkable Rocket",
+      "summary": "A proud and boastful rocket believes he is the most important star of the show.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 221,
+        "A2": 328,
+        "B1": 500,
+        "B2": 685
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 4,
+        "B2": 5
+      },
+      "cover": "covers/st-0241.webp?v=22",
+      "isNew": true,
+      "order": 169
+    },
+    {
+      "id": "st-0242",
+      "slug": "the-star-child-tek-epizod",
+      "title": "The Star-Child (tek epizod)",
+      "summary": "People find a poor child in the forest who grows up to be very mean.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 213,
+        "A2": 385,
+        "B1": 478,
+        "B2": 677
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 4,
+        "B2": 5
+      },
+      "cover": "covers/st-0242.webp?v=22",
+      "isNew": true,
+      "order": 170
+    },
+    {
+      "id": "st-0243",
+      "slug": "the-magic-fishbone",
+      "title": "The Magic Fishbone",
+      "summary": "A kind child receives a magical object and must choose the perfect moment to use it.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 227,
+        "A2": 270,
+        "B1": 395,
+        "B2": 736
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 6
+      },
+      "cover": "covers/st-0243.webp?v=22",
+      "isNew": true,
+      "order": 171
+    },
+    {
+      "id": "st-0244",
+      "slug": "the-diamond-maker",
+      "title": "The Diamond Maker",
+      "summary": "A poor old man offers a tiny mysterious object he says he creates.",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 319,
+        "A2": 305,
+        "B1": 406,
+        "B2": 601
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 5
+      },
+      "cover": "covers/st-0244.webp?v=22",
+      "isNew": true,
+      "order": 172
+    },
+    {
+      "id": "st-0245",
+      "slug": "the-nightingale-and-the-ant-mesel",
+      "title": "The Nightingale and the Ant (mesel)",
+      "summary": "A hardworking child meets a music loving man who later needs her help.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 363,
+        "A2": 286,
+        "B1": 601,
+        "B2": 810
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 2,
+        "B1": 5,
+        "B2": 6
+      },
+      "cover": "covers/st-0245.webp?v=22",
+      "isNew": true,
+      "order": 173
+    },
+    {
+      "id": "st-0246",
+      "slug": "kashtanka",
+      "title": "Kashtanka",
+      "summary": "A small dog follows her owner to a noisy city, gets lost, and meets someone.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 243,
+        "A2": 261,
+        "B1": 351,
+        "B2": 870
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 7
+      },
+      "cover": "covers/st-0246.webp?v=22",
+      "isNew": true,
+      "order": 174
+    },
+    {
+      "id": "st-0247",
+      "slug": "the-lion-and-the-gnat",
+      "title": "The Lion and the Gnat",
+      "summary": "A tiny bug dares to confront a mighty lion, thinking it can win.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 180,
+        "A2": 293,
+        "B1": 640,
+        "B2": 979
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 5,
+        "B2": 8
+      },
+      "cover": "covers/st-0247.webp?v=22",
+      "isNew": true,
+      "order": 175
+    },
+    {
+      "id": "st-0248",
+      "slug": "the-tortoise-and-the-eagle",
+      "title": "The Tortoise and the Eagle",
+      "summary": "A little creature longs to fly and begs a powerful bird for a chance.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 229,
+        "A2": 288,
+        "B1": 477,
+        "B2": 531
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 4
+      },
+      "cover": "covers/st-0248.webp?v=22",
+      "isNew": true,
+      "order": 176
+    },
+    {
+      "id": "st-0249",
+      "slug": "the-boy-and-the-filberts",
+      "title": "The Boy and the Filberts",
+      "summary": "A hungry child grabs too many tasty treats and gets stuck.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 234,
+        "A2": 267,
+        "B1": 381,
+        "B2": 878
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 7
+      },
+      "cover": "covers/st-0249.webp?v=22",
+      "isNew": true,
+      "order": 177
+    },
+    {
+      "id": "st-0250",
+      "slug": "the-two-pots",
+      "title": "The Two Pots",
+      "summary": "Two different pots near a river must decide whether to enter the water together.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 191,
+        "A2": 403,
+        "B1": 453,
+        "B2": 732
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 3,
+        "B1": 4,
+        "B2": 6
+      },
+      "cover": "covers/st-0250.webp?v=22",
+      "isNew": true,
+      "order": 178
+    },
+    {
+      "id": "st-0251",
+      "slug": "androcles-and-the-lion",
+      "title": "Androcles and the Lion",
+      "summary": "A poor man named Androcles helps a wounded lion and they become friends.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 193,
+        "A2": 278,
+        "B1": 326,
+        "B2": 885
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 7
+      },
+      "cover": "covers/st-0251.webp?v=22",
+      "isNew": true,
+      "order": 179
+    },
+    {
+      "id": "st-0252",
+      "slug": "the-monkey-s-heart",
+      "title": "The Monkey's Heart",
+      "summary": "A small person by the water meets a powerful stranger who asks for his life.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 190,
+        "A2": 317,
+        "B1": 627,
+        "B2": 784
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 5,
+        "B2": 6
+      },
+      "cover": "covers/st-0252.webp?v=22",
+      "isNew": true,
+      "order": 180
+    },
+    {
+      "id": "st-0253",
+      "slug": "the-talkative-tortoise",
+      "title": "The Talkative Tortoise",
+      "summary": "When the water dries up, two tiny friends must help their old turtle friend.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 276,
+        "A2": 263,
+        "B1": 430,
+        "B2": 744
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 6
+      },
+      "cover": "covers/st-0253.webp?v=22",
+      "isNew": true,
+      "order": 181
+    },
+    {
+      "id": "st-0254",
+      "slug": "the-brahmin-and-the-pots-castle-in-air",
+      "title": "The Brahmin and the Pots (Castle in Air)",
+      "summary": "A poor man saves food and dreams of a rich future, but his big dreams cause trouble.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 189,
+        "A2": 313,
+        "B1": 634,
+        "B2": 850
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0254.webp?v=22",
+      "isNew": true,
+      "order": 182
+    },
+    {
+      "id": "st-0255",
+      "slug": "the-crane-and-the-crab",
+      "title": "The Crane and the Crab",
+      "summary": "An old bird by the water struggles for food and seeks help from a small friend.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 154,
+        "A2": 215,
+        "B1": 679,
+        "B2": 332
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 5,
+        "B2": 3
+      },
+      "cover": "covers/st-0255.webp?v=22",
+      "isNew": true,
+      "order": 183
+    },
+    {
+      "id": "st-0256",
+      "slug": "the-wise-little-girl",
+      "title": "The Wise Little Girl",
+      "summary": "A kind father and his clever child must answer three riddles for a powerful leader.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 237,
+        "A2": 304,
+        "B1": 431,
+        "B2": 695
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 5
+      },
+      "cover": "covers/st-0256.webp?v=22",
+      "isNew": true,
+      "order": 184
+    },
+    {
+      "id": "st-0257",
+      "slug": "snow-maiden-snegurochka",
+      "title": "Snow Maiden (Snegurochka)",
+      "summary": "An old couple creates a snow girl named Snegurochka and watches her grow.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 245,
+        "A2": 356,
+        "B1": 433,
+        "B2": 763
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 3,
+        "B2": 6
+      },
+      "cover": "covers/st-0257.webp?v=22",
+      "isNew": true,
+      "order": 185
+    },
+    {
+      "id": "st-0258",
+      "slug": "the-straw-ox",
+      "title": "The Straw Ox",
+      "summary": "An old couple's new strong toy attracts curious forest animals, leading to unexpected trouble.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 206,
+        "A2": 311,
+        "B1": 680,
+        "B2": 1039
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 5,
+        "B2": 8
+      },
+      "cover": "covers/st-0258.webp?v=22",
+      "isNew": true,
+      "order": 186
+    },
+    {
+      "id": "st-0259",
+      "slug": "the-turnip-giant-turnip",
+      "title": "The Turnip (Giant Turnip)",
+      "summary": "An old man plants a seed that grows into a huge turnip needing many helpers.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 234,
+        "A2": 355,
+        "B1": 408,
+        "B2": 990
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 3,
+        "B2": 8
+      },
+      "cover": "covers/st-0259.webp?v=22",
+      "isNew": true,
+      "order": 187
+    },
+    {
+      "id": "st-0260",
+      "slug": "the-mitten",
+      "title": "The Mitten",
+      "summary": "An old man loses a tiny item, drawing curious creatures into a cramped home.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 197,
+        "A2": 262,
+        "B1": 474,
+        "B2": 913
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 7
+      },
+      "cover": "covers/st-0260.webp?v=22",
+      "isNew": true,
+      "order": 188
+    },
+    {
+      "id": "st-0261",
+      "slug": "the-enormous-cucumber-nail-soup",
+      "title": "The Enormous Cucumber / Nail Soup",
+      "summary": "A hungry man visits a poor town and claims he can make food with iron.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 219,
+        "A2": 304,
+        "B1": 672,
+        "B2": 880
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 5,
+        "B2": 7
+      },
+      "cover": "covers/st-0261.webp?v=22",
+      "isNew": true,
+      "order": 189
+    },
+    {
+      "id": "st-0262",
+      "slug": "the-reluctant-dragon",
+      "title": "The Reluctant Dragon",
+      "summary": "A peaceful dragon loves books, but angry town people want him to leave forever.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 281,
+        "A2": 574,
+        "B1": 850,
+        "B2": 743
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 7,
+        "B2": 6
+      },
+      "cover": "covers/st-0262.webp?v=22",
+      "isNew": true,
+      "order": 190
+    },
+    {
+      "id": "st-0263",
+      "slug": "the-velveteen-rabbit",
+      "title": "The Velveteen Rabbit",
+      "summary": "A small toy rabbit hopes to become real when a young child loves him.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 173,
+        "A2": 292,
+        "B1": 433,
+        "B2": 871
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 3,
+        "B2": 7
+      },
+      "cover": "covers/st-0263.webp?v=22",
+      "isNew": true,
+      "order": 191
+    },
+    {
+      "id": "st-0264",
+      "slug": "the-steadfast-tin-soldier",
+      "title": "The Steadfast Tin Soldier",
+      "summary": "A one legged tin soldier watches a paper girl and faces many dangers.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 225,
+        "A2": 319,
+        "B1": 410,
+        "B2": 413
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 3
+      },
+      "cover": "covers/st-0264.webp?v=22",
+      "isNew": true,
+      "order": 192
+    },
+    {
+      "id": "st-0265",
+      "slug": "snow-white-and-rose-red",
+      "title": "Snow-White and Rose-Red",
+      "summary": "Two sisters welcome a gentle bear who seeks shelter at their cozy home.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 203,
+        "A2": 292,
+        "B1": 517,
+        "B2": 562
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 4,
+        "B2": 4
+      },
+      "cover": "covers/st-0265.webp?v=22",
+      "isNew": true,
+      "order": 193
+    },
+    {
+      "id": "st-0266",
+      "slug": "the-twelve-dancing-princesses",
+      "title": "The Twelve Dancing Princesses",
+      "summary": "Twelve princesses ruin their shoes every night, and a brave man tries to find out why.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 216,
+        "A2": 346,
+        "B1": 493,
+        "B2": 586
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 4,
+        "B2": 5
+      },
+      "cover": "covers/st-0266.webp?v=22",
+      "isNew": true,
+      "order": 194
+    },
+    {
+      "id": "st-0267",
+      "slug": "the-water-of-life",
+      "title": "The Water of Life",
+      "summary": "Three brothers set out to find magical water that can heal a troubled old man.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 295,
+        "A2": 227,
+        "B1": 439,
+        "B2": 924
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 7
+      },
+      "cover": "covers/st-0267.webp?v=22",
+      "isNew": true,
+      "order": 195
+    },
+    {
+      "id": "st-0268",
+      "slug": "chicken-little-henny-penny",
+      "title": "Chicken Little (Henny Penny)",
+      "summary": "A frightened bird thinks the sky is falling and gathers friends for a wild journey.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 136,
+        "A2": 296,
+        "B1": 536,
+        "B2": 804
+      },
+      "minutes": {
+        "A1": 1,
+        "A2": 2,
+        "B1": 4,
+        "B2": 6
+      },
+      "cover": "covers/st-0268.webp?v=22",
+      "isNew": true,
+      "order": 196
+    },
+    {
+      "id": "st-0269",
+      "slug": "the-three-wishes",
+      "title": "The Three Wishes",
+      "summary": "A struggling couple meets a stranger who grants them three magical wishes.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 195,
+        "A2": 321,
+        "B1": 384,
+        "B2": 900
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 3,
+        "B2": 7
+      },
+      "cover": "covers/st-0269.webp?v=22",
+      "isNew": true,
+      "order": 197
+    },
+    {
+      "id": "st-0270",
+      "slug": "the-ant-and-the-dove",
+      "title": "The Ant and the Dove",
+      "summary": "A tiny insect falls into a river and is rescued by a kind dove.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 215,
+        "A2": 255,
+        "B1": 321,
+        "B2": 689
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 2,
+        "B1": 3,
+        "B2": 5
+      },
+      "cover": "covers/st-0270.webp?v=22",
+      "isNew": true,
+      "order": 198
+    },
+    {
+      "id": "st-0271",
+      "slug": "the-lion-and-the-statue",
+      "title": "The Lion and the Statue",
+      "summary": "A man and a lion stroll together, debating human strength while passing a towering statue.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 221,
+        "A2": 366,
+        "B1": 435,
+        "B2": 764
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 3,
+        "B2": 6
+      },
+      "cover": "covers/st-0271.webp?v=22",
+      "isNew": true,
+      "order": 199
+    },
+    {
+      "id": "st-0272",
+      "slug": "the-peddler-of-swaffham",
+      "title": "The Peddler of Swaffham",
+      "summary": "John leaves his small village hoping to find a great treasure in distant London.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2"
+      ],
+      "wordCount": {
+        "A1": 256,
+        "A2": 362,
+        "B1": 369,
+        "B2": 876
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 3,
+        "B2": 7
+      },
+      "cover": "covers/st-0272.webp?v=22",
+      "isNew": true,
+      "order": 200
     }
   ]
 }
