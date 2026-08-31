@@ -214,7 +214,7 @@
             {
               "text": "Holmes looks around the room.",
               "audioStart": 93.403,
-              "audioEnd": 95.0
+              "audioEnd": 95
             },
             {
               "text": "He sees something not right.",
@@ -314,7 +314,7 @@
             },
             {
               "text": "He tells Holmes everything.",
-              "audioStart": 141.0,
+              "audioStart": 141,
               "audioEnd": 142.639
             }
           ]
@@ -334,7 +334,7 @@
             {
               "text": "St. Clair goes home the next day.",
               "audioStart": 149.972,
-              "audioEnd": 152.0
+              "audioEnd": 152
             },
             {
               "text": "He lives with his family again.",
@@ -444,7 +444,7 @@
             },
             {
               "text": "She wanted to buy food for the family.",
-              "audioStart": 25.0,
+              "audioStart": 25,
               "audioEnd": 27.194
             },
             {
@@ -647,7 +647,7 @@
             },
             {
               "text": "He said he lived two lives.",
-              "audioStart": 117.0,
+              "audioStart": 117,
               "audioEnd": 118.722
             },
             {
@@ -1612,7 +1612,7 @@
             {
               "text": "St. Clair went to work every day, and no one ever spoke of the strange event again.",
               "audioStart": 169.65,
-              "audioEnd": 174.0
+              "audioEnd": 174
             }
           ]
         },
@@ -1718,7 +1718,7 @@
           "sentences": [
             {
               "text": "The family lived a quiet and happy life after that.",
-              "audioStart": 238.0,
+              "audioStart": 238,
               "audioEnd": 240.775
             },
             {
@@ -1842,329 +1842,6 @@
             "He asked Holmes to help him become a full-time poor man."
           ],
           "answer": 0
-        }
-      ]
-    },
-    "C1": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "The autumn of eighteen ninety-one settled over the Kentish countryside like a velvet shroud, its chill fingers creeping through the cracks of even the most stoutly built homes.",
-              "audioStart": 0.1,
-              "audioEnd": 8.775
-            },
-            {
-              "text": "Neville St. Clair's residence-a red-brick manor with ivy-clawed gables-stood sentinel over the winding lane that led to London, its windows glowing amber in the dusk as if the very house exhaled warmth.",
-              "audioStart": 9.637,
-              "audioEnd": 20.1
-            },
-            {
-              "text": "Inside, the scent of beeswax and old books mingled with the faint tang of pipe tobacco, a fragrance Mrs. St. Clair had come to associate with safety, with routine, with the unshakable certainty that her husband would walk through the door at half past seven, his coat damp from the evening mist, his smile as steady as the ticking of the grandfather clock in the hall.",
-              "audioStart": 20.962,
-              "audioEnd": 40.788
-            },
-            {
-              "text": "For years, this rhythm had been their life: his departure at dawn, his return at dusk, the quiet domesticity of meals shared and children tucked into bed, all underpinned by an unspoken trust that Neville St. Clair was exactly the man he appeared to be-kind, dependable, utterly without guile.",
-              "audioStart": 41.65,
-              "audioEnd": 58.562
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "That trust was not born of naivety, but of observation.",
-              "audioStart": 59.425,
-              "audioEnd": 62.587
-            },
-            {
-              "text": "Mrs. St. Clair had watched her husband navigate the world with a quiet dignity, his hand extended to a beggar as readily as to a banker, his voice never raised in anger, his pockets never empty when a child's coin was lost in the street.",
-              "audioStart": 63.45,
-              "audioEnd": 76.713
-            },
-            {
-              "text": "The city knew him too; clerks tipped their hats, newsboys waved, and even the stern-faced constables at the station nodded in recognition as he passed, briefcase in hand, his gait unhurried but purposeful.",
-              "audioStart": 77.575,
-              "audioEnd": 89.362
-            },
-            {
-              "text": "It was this very reputation that made the sighting on that October evening so impossible to reconcile with the man she knew-or thought she knew.",
-              "audioStart": 90.225,
-              "audioEnd": 97.25
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The errand that took her into London had been a simple one: a bolt of silk for her daughter's birthday dress, a pound of tea, a new pair of gloves to replace the ones she'd misplaced that morning.",
-              "audioStart": 98.112,
-              "audioEnd": 108.188
-            },
-            {
-              "text": "The streets were slick with rain, the gas lamps casting long, wavering fingers of light that turned the cobblestones into a mosaic of gold and shadow.",
-              "audioStart": 109.05,
-              "audioEnd": 117.05
-            },
-            {
-              "text": "She had paused beneath the awning of a milliner's shop to adjust her umbrella when the movement caught her eye-a flicker of motion in the upper window of a narrow, soot-stained house across the alley.",
-              "audioStart": 117.912,
-              "audioEnd": 127.425
-            },
-            {
-              "text": "The glass was grimy, the curtains thin, but the face that pressed close to it for a single, heart-stopping moment was unmistakably her husband's, though twisted into an expression she had never seen him wear: a grimace of such cunning, such desperation, that it might have belonged to a stranger.",
-              "audioStart": 128.287,
-              "audioEnd": 144.3
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The shock rooted her to the spot, her breath fogging the air between them.",
-              "audioStart": 145.162,
-              "audioEnd": 148.863
-            },
-            {
-              "text": "For a wild instant, she wondered if her eyes had deceived her-if the play of light, the fatigue of the day, had conspired to create a phantom where none existed.",
-              "audioStart": 149.725,
-              "audioEnd": 158.05
-            },
-            {
-              "text": "But then the face jerked back, the curtains twitched shut, and the certainty settled over her like a shroud: that had been Neville, and Neville had been hiding.",
-              "audioStart": 158.912,
-              "audioEnd": 166.887
-            },
-            {
-              "text": "The question that clawed at her was not whether he had been there, but why-a question that grew teeth as she crossed the alley, her skirts brushing against the damp brick, and rapped sharply on the door of the house.",
-              "audioStart": 167.75,
-              "audioEnd": 178.525
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "No answer came, though she thought she heard the scuffle of footsteps above.",
-              "audioStart": 179.387,
-              "audioEnd": 182.988
-            },
-            {
-              "text": "A neighbor, a gaunt woman with a shawl pulled tight over her shoulders, leaned out of the adjacent window and hissed, \"Boone's not one for visitors, missus.\"",
-              "audioStart": 183.85,
-              "audioEnd": 192.062
-            },
-            {
-              "text": "The name meant nothing to her, but the warning in the woman's voice was unmistakable.",
-              "audioStart": 192.925,
-              "audioEnd": 197.125
-            },
-            {
-              "text": "It was only when the police arrived-summoned by a trembling hand and a voice that barely rose above a whisper-that the truth began to unravel, thread by fragile thread.",
-              "audioStart": 197.988,
-              "audioEnd": 206.45
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The constables found no sign of Neville St. Clair inside the house, only a man slumped in a chair by the window, his face half-hidden beneath a tangle of greasy hair, his mouth twisted into a permanent sneer.",
-              "audioStart": 207.312,
-              "audioEnd": 218.775
-            },
-            {
-              "text": "Hugh Boone, they called him, a beggar of some renown in the district, known for his sharp tongue and sharper elbows when the alms grew scarce.",
-              "audioStart": 219.637,
-              "audioEnd": 226.988
-            },
-            {
-              "text": "He claimed no knowledge of any gentleman caller, his voice a guttural rasp that seemed to scrape against the walls, but Mrs. St. Clair's gaze lingered on the chair where he sat, on the way his fingers twitched toward a pile of rags in the corner, as if something there might incriminate him.",
-              "audioStart": 227.85,
-              "audioEnd": 243.952
-            },
-            {
-              "text": "The police, satisfied with his denials and her apparent hysteria, left with a patronizing pat on her shoulder, but the seed of doubt they planted had already taken root.",
-              "audioStart": 244.815,
-              "audioEnd": 254.028
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "That night, she penned a letter to Sherlock Holmes, the words spilling onto the page in a frantic scrawl, each sentence a plea, a prayer, a desperate attempt to make sense of the impossible.",
-              "audioStart": 254.89,
-              "audioEnd": 265.178
-            },
-            {
-              "text": "By morning, the reply had come: a single line, inked in Holmes's unmistakable hand, promising his attendance that very afternoon.",
-              "audioStart": 266.04,
-              "audioEnd": 273.365
-            },
-            {
-              "text": "When he arrived, his keen eyes missed nothing-the way her teacup trembled in its saucer, the shadows beneath her eyes, the way her voice caught when she described the twisted mouth at the window.",
-              "audioStart": 274.228,
-              "audioEnd": 284.015
-            },
-            {
-              "text": "Watson, ever the observer of human frailty, noted the way her hands clenched in her lap, as if physically restraining herself from reaching for the truth too soon.",
-              "audioStart": 284.877,
-              "audioEnd": 293.365
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The house on the alley smelled of damp and decay, the air thick with the sour reek of unwashed clothes and something sharper-fear, perhaps, or guilt.",
-              "audioStart": 294.228,
-              "audioEnd": 302.14
-            },
-            {
-              "text": "Boone was still there, still slumped in his chair, his eyes half-lidded as if the world were too dull to merit his full attention.",
-              "audioStart": 303.002,
-              "audioEnd": 309.79
-            },
-            {
-              "text": "Holmes circled him like a hawk, his gaze dissecting every detail: the callouses on Boone's fingers, the way his left leg jiggled with nervous energy, the faint smear of greasepaint at his hairline.",
-              "audioStart": 310.652,
-              "audioEnd": 321.553
-            },
-            {
-              "text": "Then, without warning, he lunged, his fingers closing around Boone's hair-and with a single, violent tug, the wig came away, revealing the smooth, familiar brow of Neville St. Clair beneath.",
-              "audioStart": 322.415,
-              "audioEnd": 333.84
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The confession that followed was not one of defiance, but of exhaustion.",
-              "audioStart": 334.702,
-              "audioEnd": 338.452
-            },
-            {
-              "text": "Years earlier, St. Clair had written an article on the economics of begging, a piece meant to expose the desperation of those who lived on the streets.",
-              "audioStart": 339.315,
-              "audioEnd": 347.215
-            },
-            {
-              "text": "To research it, he had disguised himself as a beggar for a single day, expecting pity, perhaps, or scorn-but never the flood of coins that clattered into his upturned hat, more than he earned in a week at his respectable desk.",
-              "audioStart": 348.077,
-              "audioEnd": 360.49
-            },
-            {
-              "text": "The temptation had been too great, the secret too intoxicating: a double life, one of respectability by day, of easy riches by night, all hidden beneath the rags and grime of Hugh Boone.",
-              "audioStart": 361.353,
-              "audioEnd": 372.19
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Holmes listened in silence, his expression unreadable, as St. Clair spoke of the fear that had gnawed at him-the fear of discovery, of ruin, of the life he had built crumbling like ash in his hands.",
-              "audioStart": 373.053,
-              "audioEnd": 383.752
-            },
-            {
-              "text": "When the tale was done, Holmes offered no judgment, only a bargain: the secret would remain between them, so long as St. Clair abandoned his alter ego for good.",
-              "audioStart": 384.615,
-              "audioEnd": 393.377
-            },
-            {
-              "text": "The relief on St. Clair's face was palpable, a weight lifted, though the shadow of what he had done would never fully leave him.",
-              "audioStart": 394.24,
-              "audioEnd": 400.577
-            },
-            {
-              "text": "As they left the house, Watson glanced back once, half-expecting to see Boone's twisted grin lingering in the window, but the alley was empty, the curtain still.",
-              "audioStart": 401.44,
-              "audioEnd": 410.315
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The return to normalcy was not immediate, nor was it seamless.",
-              "audioStart": 411.178,
-              "audioEnd": 414.527
-            },
-            {
-              "text": "St. Clair's children noticed the way he sometimes stared into the middle distance, his hands stilling mid-motion, as if listening for a voice that no longer called.",
-              "audioStart": 415.39,
-              "audioEnd": 423.99
-            },
-            {
-              "text": "His wife, though she never spoke of it, found herself studying his face in the lamplight, searching for traces of the man she had glimpsed in that grimy window.",
-              "audioStart": 424.853,
-              "audioEnd": 433.065
-            },
-            {
-              "text": "But time, as it does, softened the edges of memory, and soon the rhythm of their lives resumed: the morning departures, the evening returns, the quiet domesticity that had once seemed so unremarkable now a gift to be cherished.",
-              "audioStart": 433.928,
-              "audioEnd": 446.865
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Holmes, for his part, filed the case away with a satisfaction that bordered on melancholy.",
-              "audioStart": 447.728,
-              "audioEnd": 452.702
-            },
-            {
-              "text": "It was not the most dramatic of his investigations, nor the most dangerous, but it lingered in his mind like the aftertaste of a fine wine-complex, bittersweet, impossible to forget.",
-              "audioStart": 453.565,
-              "audioEnd": 463.965
-            },
-            {
-              "text": "Watson, ever the chronicler, would later write of it as a tale of redemption, of a man who had strayed and found his way home.",
-              "audioStart": 464.827,
-              "audioEnd": 471.678
-            },
-            {
-              "text": "But Holmes knew the truth was simpler, and far more human: St. Clair had chosen, in the end, not between good and evil, but between two versions of himself-and in that choice, he had found a kind of peace.",
-              "audioStart": 472.54,
-              "audioEnd": 485.089
-            }
-          ]
-        }
-      ],
-      "audio": "audio/c1/st-0220.mp3",
-      "wordTimings": "audio/c1/st-0220.timings.json",
-      "quiz": [
-        {
-          "q": "What first alerted Mrs. St. Clair to the possibility that her husband was leading a double life?",
-          "options": [
-            "She found a second set of clothes hidden in his wardrobe.",
-            "She saw a man who looked like her husband at the window of a small house in London, wearing old clothes and a twisted expression.",
-            "Her husband began returning home at unusual hours without explanation."
-          ],
-          "answer": 1
-        },
-        {
-          "q": "Why did Neville St. Clair initially disguise himself as a beggar?",
-          "options": [
-            "He was attempting to escape from debts he could not repay.",
-            "He wanted to research an article about begging and unexpectedly made more money than he did at his regular job.",
-            "He was hiding from someone who threatened his family."
-          ],
-          "answer": 1
-        },
-        {
-          "q": "What condition did Sherlock Holmes set for keeping Neville St. Clair's secret?",
-          "options": [
-            "St. Clair had to donate all the money he had earned as a beggar to charity.",
-            "St. Clair had to abandon his alter ego, Hugh Boone, and return to his former life permanently.",
-            "St. Clair had to confess the truth to his children and explain his actions."
-          ],
-          "answer": 1
         }
       ]
     }

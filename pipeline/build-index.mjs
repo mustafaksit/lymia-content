@@ -11,6 +11,7 @@ import path from 'node:path';
 import { CONTENT_DIR, STORIES_DIR } from './lib/env.mjs';
 import { LEVELS } from './lib/levels.mjs';
 import { levelWordCount } from './lib/validate.mjs';
+import { stripUnpublishedLevels } from './lib/publish-filter.mjs';
 
 const DEFAULT_AD_CONFIG = {
   adsEnabled: true,
@@ -37,6 +38,15 @@ const indexPath = path.join(CONTENT_DIR, 'index.json');
 const previous = existsSync(indexPath) ? JSON.parse(readFileSync(indexPath, 'utf8')) : null;
 const previousIds = new Set(previous?.stories?.map((s) => s.id) ?? []);
 const previousOrder = new Map(previous?.stories?.map((s) => [s.id, s.order]) ?? []);
+
+// YAYIN FİLTRESİ (kalıcı): pipeline hikaye JSON'una C1 (ve LEVELS dışı seviye)
+// yazabilir; ama app'in zod şeması (A1-B2 enum) fazla anahtarı reddeder ve hikaye
+// "boş" görünür. Bu yüzden index üretiminden ÖNCE yayın-dışı seviyeleri story
+// dosyalarından temizle → C1 bir daha yayına sızamaz. Idempotent.
+const strip = stripUnpublishedLevels({ storiesDir: STORIES_DIR, levels: LEVELS });
+if (strip.changedFiles > 0) {
+  console.log(`yayın filtresi: ${strip.removedKeys} yayın-dışı seviye anahtarı ${strip.changedFiles} dosyadan atıldı (${LEVELS.join(',')} dışı)`);
+}
 
 const files = readdirSync(STORIES_DIR)
   .filter((f) => f.endsWith('.json'))

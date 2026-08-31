@@ -36,7 +36,7 @@
             },
             {
               "text": "She gives food to other people.",
-              "audioStart": 13.0,
+              "audioStart": 13,
               "audioEnd": 14.736
             },
             {
@@ -119,12 +119,12 @@
           "sentences": [
             {
               "text": "Soon, she meet a little child.",
-              "audioStart": 53.0,
+              "audioStart": 53,
               "audioEnd": 55.042
             },
             {
               "text": "He is very low on heat.",
-              "audioStart": 56.0,
+              "audioStart": 56,
               "audioEnd": 57.542
             },
             {
@@ -617,7 +617,7 @@
             },
             {
               "text": "She had nothing left in the world except one small room and her clothes.",
-              "audioStart": 5.0,
+              "audioStart": 5,
               "audioEnd": 8.662
             },
             {
@@ -774,7 +774,7 @@
             },
             {
               "text": "The old man who met her on the road would have been proud of her.",
-              "audioStart": 110.0,
+              "audioStart": 110,
               "audioEnd": 112.787
             },
             {
@@ -789,7 +789,7 @@
             },
             {
               "text": "She always told them that sharing is the most important thing in life.",
-              "audioStart": 121.0,
+              "audioStart": 121,
               "audioEnd": 124.438
             },
             {
@@ -1228,389 +1228,6 @@
             "Gold coins",
             "Fine new clothes",
             "Fresh bread"
-          ],
-          "answer": 1
-        }
-      ]
-    },
-    "C1": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "In a world shadowed by grief and quiet destitution, there lived a young orphan girl whose parents had departed this life, leaving her with nothing save for one barren chamber and the simple garments upon her back.",
-              "audioStart": 0.1,
-              "audioEnd": 11.125
-            },
-            {
-              "text": "Bereft of worldly goods, she possessed an abundance of spirit, her heart overflowing with a boundless capacity for empathy towards every living soul.",
-              "audioStart": 11.988,
-              "audioEnd": 20
-            },
-            {
-              "text": "It was her firm conviction that no human being should endure suffering while she retained even the smallest fragment to share.",
-              "audioStart": 20.863,
-              "audioEnd": 26.9
-            },
-            {
-              "text": "Whenever she walked through the cobbled streets of the town, her eyes scanned the shadows for those weighed down by misfortune.",
-              "audioStart": 27.762,
-              "audioEnd": 33.5
-            },
-            {
-              "text": "She routinely surrendered the very crust of bread from her pocket and every copper coin she owned to anyone who asked.",
-              "audioStart": 34.362,
-              "audioEnd": 40.337
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Her gentle disposition soon earned her the deep respect of the local residents, who watched in quiet wonder as she moved among them.",
-              "audioStart": 41.2,
-              "audioEnd": 47.788
-            },
-            {
-              "text": "Though her own life was marked by bitter hardship, her altruism remained steadfast, stretching wider than the wealthiest estate in the city.",
-              "audioStart": 48.65,
-              "audioEnd": 55.788
-            },
-            {
-              "text": "She believed implicitly that moral integrity and kindness outweighed any accumulation of gold or material treasures.",
-              "audioStart": 56.65,
-              "audioEnd": 62.962
-            },
-            {
-              "text": "Her departed parents had instilled these virtues deeply within her soul before they passed away from this earthly existence.",
-              "audioStart": 63.825,
-              "audioEnd": 70.062
-            },
-            {
-              "text": "Whenever she faced a difficult choice, she recalled their parting words and chose the path of compassion.",
-              "audioStart": 70.925,
-              "audioEnd": 76.213
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Day after day, she maintained this remarkable routine without a single murmur of discontent or a trace of sorrow.",
-              "audioStart": 77.075,
-              "audioEnd": 83.1
-            },
-            {
-              "text": "A profound joy invariably bloomed within her chest whenever she coaxed even a fleeting smile onto the face of a weary laborer.",
-              "audioStart": 83.963,
-              "audioEnd": 90.662
-            },
-            {
-              "text": "Nothing could deter her from performing acts of quiet grace, for her internal resolve was as pure as it was unyielding.",
-              "audioStart": 91.525,
-              "audioEnd": 97.825
-            },
-            {
-              "text": "She endured months of biting cold and gnawing hunger, yet her warmth toward others never once flickered.",
-              "audioStart": 98.688,
-              "audioEnd": 103.987
-            },
-            {
-              "text": "Neighbors often marveled at how she managed to survive day by day with a spirit so utterly unguarded and open.",
-              "audioStart": 104.85,
-              "audioEnd": 110.5
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Eventually, the inevitable arrived, and she was forced to abandon her last shelter, stepping out alone into an open field.",
-              "audioStart": 111.362,
-              "audioEnd": 118.225
-            },
-            {
-              "text": "The sky above was heavy with grey clouds, and a bitter wind swept across the empty landscape as she began her solitary journey.",
-              "audioStart": 119.088,
-              "audioEnd": 125.725
-            },
-            {
-              "text": "It was along this desolate road that she encountered an elderly man whose posture was bent heavily beneath the weight of years.",
-              "audioStart": 126.588,
-              "audioEnd": 132.637
-            },
-            {
-              "text": "He approached her with trembling hands and asked if she might spare a morsel of food to quiet his rumbling stomach.",
-              "audioStart": 133.5,
-              "audioEnd": 139.075
-            },
-            {
-              "text": "Without a moment of hesitation, she handed him her very last piece of bread, wishing with all her soul that she had more to offer.",
-              "audioStart": 139.938,
-              "audioEnd": 146.863
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The old man accepted the gift with a tender smile, offering his gratitude before turning to walk away into the gathering mist.",
-              "audioStart": 147.725,
-              "audioEnd": 154.438
-            },
-            {
-              "text": "She stood motionless on the path for a long moment, feeling a quiet surge of gladness that the traveler's immediate hunger was now eased.",
-              "audioStart": 155.3,
-              "audioEnd": 162.338
-            },
-            {
-              "text": "Scarcely had she resumed walking when she encountered a small boy weeping bitterly beside a stone wall.",
-              "audioStart": 163.2,
-              "audioEnd": 168.363
-            },
-            {
-              "text": "He cried out that his head and shoulders were freezing in the sharp wind, and that he had no protection against the frost.",
-              "audioStart": 169.225,
-              "audioEnd": 175.075
-            },
-            {
-              "text": "Without a second thought, she slipped her woolen coat from her shoulders and wrapped it snugly around the shivering child.",
-              "audioStart": 175.938,
-              "audioEnd": 181.75
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The moment the heavy fabric settled over him, the boy stopped crying, the biting chill banished from his small frame.",
-              "audioStart": 182.613,
-              "audioEnd": 188.738
-            },
-            {
-              "text": "She offered him a reassuring smile and watched as he scrambled away with a newfound energy to join his companions in the distance.",
-              "audioStart": 189.6,
-              "audioEnd": 196.2
-            },
-            {
-              "text": "Continuing down the winding path, she had walked only a little further when another child timidly asked for her dress.",
-              "audioStart": 197.062,
-              "audioEnd": 203.35
-            },
-            {
-              "text": "Though the afternoon air was turning rapidly to ice, she did not hesitate to part with the garment, leaving herself clad in almost nothing.",
-              "audioStart": 204.213,
-              "audioEnd": 211.625
-            },
-            {
-              "text": "She cared little for the wind that now cut straight through her remaining layers, her mind anchored in a deep, serene peace.",
-              "audioStart": 212.488,
-              "audioEnd": 218.725
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "She had successfully warmed three vulnerable children, and that knowledge served as an invisible cloak against the elements.",
-              "audioStart": 219.588,
-              "audioEnd": 225.825
-            },
-            {
-              "text": "Onward she walked as the autumn afternoon slowly dissolved into a bruised and darkening evening.",
-              "audioStart": 226.688,
-              "audioEnd": 231.287
-            },
-            {
-              "text": "The sun dipped below the distant hills, stretching long, skeletal shadows across the frosted grass of the open fields.",
-              "audioStart": 232.15,
-              "audioEnd": 239.514
-            },
-            {
-              "text": "She knew with absolute certainty that she would be forced to spend the coming night shivering beneath the open sky.",
-              "audioStart": 240.376,
-              "audioEnd": 245.702
-            },
-            {
-              "text": "Yet fear found no purchase in her heart, for she had lived honorably and caused harm to no living creature.",
-              "audioStart": 246.564,
-              "audioEnd": 252.202
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Her virtuous actions provided her with an inner fortitude that sustained her steps when the horizon vanished entirely from view.",
-              "audioStart": 253.064,
-              "audioEnd": 259.702
-            },
-            {
-              "text": "She trusted implicitly that some unseen grace would intervene before the cold light of dawn broke across the world.",
-              "audioStart": 260.564,
-              "audioEnd": 266.289
-            },
-            {
-              "text": "When complete darkness finally swallowed the landscape, she found herself deep within the silent shadows of a vast forest.",
-              "audioStart": 267.151,
-              "audioEnd": 273.514
-            },
-            {
-              "text": "She possessed neither food nor proper clothing, utterly exposed to the chill of the midnight woods.",
-              "audioStart": 274.377,
-              "audioEnd": 279.464
-            },
-            {
-              "text": "Suddenly, a wondrous phenomenon occurred above her as the velvet ceiling of the night sky seemed to fracture.",
-              "audioStart": 280.327,
-              "audioEnd": 285.877
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Bright stars began to detach themselves from the firmament, tumbling downward through the branches like coins of pure silver.",
-              "audioStart": 286.739,
-              "audioEnd": 292.926
-            },
-            {
-              "text": "As she looked upward in breathless wonder, she realized those falling lights were transforming into garments of the finest silk and wool.",
-              "audioStart": 293.789,
-              "audioEnd": 300.739
-            },
-            {
-              "text": "The rich clothes drifted downward through the quiet air, landing softly upon the dark, mossy earth around her feet.",
-              "audioStart": 301.601,
-              "audioEnd": 307.964
-            },
-            {
-              "text": "With trembling hands, the astonished girl gathered the celestial gifts and dressed herself in attire fit for a queen.",
-              "audioStart": 308.827,
-              "audioEnd": 315.151
-            },
-            {
-              "text": "Transformed in an instant, she was no longer a destitute outcast, but a person of abundant means who could finally heal the world around her.",
-              "audioStart": 316.014,
-              "audioEnd": 323.226
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "From that remarkable night onward, she lived a life of great influence, ensuring that poverty never touched her threshold again.",
-              "audioStart": 324.089,
-              "audioEnd": 330.776
-            },
-            {
-              "text": "She utilized her newfound wealth to construct a sprawling manor where the homeless and the hungry could always find sanctuary.",
-              "audioStart": 331.639,
-              "audioEnd": 337.776
-            },
-            {
-              "text": "Countless travelers came to her heavy oak doors, and she welcomed every single soul inside with genuine hospitality.",
-              "audioStart": 338.639,
-              "audioEnd": 345.226
-            },
-            {
-              "text": "She provided them with steaming bowls of broth, sturdy garments, and secure beds to chase away the nightmares of the road.",
-              "audioStart": 346.089,
-              "audioEnd": 352.389
-            },
-            {
-              "text": "Her name quickly echoed across the borders of the country, becoming universally recognized as a living symbol of profound charity.",
-              "audioStart": 353.252,
-              "audioEnd": 360.139
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "People of all stations traveled great distances to visit her home, seeking counsel or simply wishing to share their personal griefs.",
-              "audioStart": 361.002,
-              "audioEnd": 368.276
-            },
-            {
-              "text": "She listened to every petitioner with unwavering patience and calm wisdom, offering whatever material or spiritual support was required.",
-              "audioStart": 369.139,
-              "audioEnd": 376.426
-            },
-            {
-              "text": "Despite her great riches, her heart remained as humble and tender as it had been when she owned nothing at all.",
-              "audioStart": 377.289,
-              "audioEnd": 382.614
-            },
-            {
-              "text": "She never once forgot the bitter wind biting through her thin dress during those long years on the open road.",
-              "audioStart": 383.476,
-              "audioEnd": 388.564
-            },
-            {
-              "text": "Instead, those difficult memories only served to deepen her generosity toward the unfortunate who knocked at her door.",
-              "audioStart": 389.426,
-              "audioEnd": 395.426
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Decades slipped away like water through cupped hands, yet her legendary reputation for goodness never dimmed with the passing years.",
-              "audioStart": 396.289,
-              "audioEnd": 403.151
-            },
-            {
-              "text": "When she finally reached old age, she surveyed her long life with a profound sense of peace and absolute fulfillment.",
-              "audioStart": 404.014,
-              "audioEnd": 410.252
-            },
-            {
-              "text": "She understood that her courageous choices had permanently altered the landscape of human suffering for the better.",
-              "audioStart": 411.114,
-              "audioEnd": 416.502
-            },
-            {
-              "text": "Long after she departed this world, her remarkable journey was recounted by parents to their children around winter hearths.",
-              "audioStart": 417.364,
-              "audioEnd": 423.601
-            },
-            {
-              "text": "It remained forever etched in human memory as the ultimate testament to the quiet, transformative power of unconditional love.",
-              "audioStart": 424.464,
-              "audioEnd": 431.139
-            }
-          ]
-        }
-      ],
-      "audio": "audio/c1/st-0170.mp3",
-      "wordTimings": "audio/c1/st-0170.timings.json",
-      "quiz": [
-        {
-          "q": "What specific item did the girl give to the first person she met on the road?",
-          "options": [
-            "Her last piece of bread",
-            "Her woolen coat",
-            "A heavy silver coin"
-          ],
-          "answer": 0
-        },
-        {
-          "q": "How did the second child she met benefit from her generosity?",
-          "options": [
-            "He received her dress to stay warm.",
-            "He received her coat to block the cold wind.",
-            "He was given food to cure his hunger."
-          ],
-          "answer": 1
-        },
-        {
-          "q": "What happened to the stars in the sky when she was alone in the dark forest?",
-          "options": [
-            "They vanished completely behind thick clouds.",
-            "They fell to the ground and turned into fine new clothes.",
-            "They guided her safely out of the woods to a nearby village."
           ],
           "answer": 1
         }

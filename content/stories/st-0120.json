@@ -960,7 +960,7 @@
             {
               "text": "They see a wall that is high.",
               "audioStart": 24.538,
-              "audioEnd": 26.0
+              "audioEnd": 26
             },
             {
               "text": "The wall surround the city.",
@@ -1137,7 +1137,7 @@
             {
               "text": "They set up a camp near the river.",
               "audioStart": 105.362,
-              "audioEnd": 107.0
+              "audioEnd": 107
             },
             {
               "text": "They rest and eat food.",
@@ -1152,7 +1152,7 @@
             {
               "text": "The group is happy and safe.",
               "audioStart": 112.412,
-              "audioEnd": 114.0
+              "audioEnd": 114
             },
             {
               "text": "They plan to travel home soon.",
@@ -1251,7 +1251,7 @@
             {
               "text": "They have see that fear can guide them.",
               "audioStart": 161.225,
-              "audioEnd": 163.0
+              "audioEnd": 163
             },
             {
               "text": "The night sky show many stars.",
@@ -1632,7 +1632,7 @@
           "sentences": [
             {
               "text": "They solved the games.",
-              "audioStart": 69.0,
+              "audioStart": 69,
               "audioEnd": 70.2
             },
             {
@@ -2398,360 +2398,6 @@
             "They had to climb a wall."
           ],
           "answer": 0
-        }
-      ]
-    },
-    "C1": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "The night air was crisp as Max and his longtime companion, Leo, set up their modest tent beneath a canopy of towering pines.",
-              "audioStart": 0.1,
-              "audioEnd": 7.338
-            },
-            {
-              "text": "A thin veil of mist curled around the forest floor, muffling the distant hoot of an owl and the rustle of unseen creatures.",
-              "audioStart": 8.2,
-              "audioEnd": 14.55
-            },
-            {
-              "text": "They had planned a weekend of simple hikes and campfire stories, hoping the solitude would sharpen their minds after a hectic semester.",
-              "audioStart": 15.412,
-              "audioEnd": 22.613
-            },
-            {
-              "text": "Max checked the weathered map of the region, its edges frayed like the bark of the ancient trees surrounding them.",
-              "audioStart": 23.475,
-              "audioEnd": 28.85
-            },
-            {
-              "text": "Leo laughed softly, teasing that the forest might hide treasure, but both men felt a quiet anticipation rising in their chests.",
-              "audioStart": 29.712,
-              "audioEnd": 37.062
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "After a short trek, a glint caught Leo's eye near a moss-covered stone, prompting him to brush aside the damp lichen.",
-              "audioStart": 37.925,
-              "audioEnd": 44.1
-            },
-            {
-              "text": "Embedded in the soil lay a parchment, its surface darkened by age, unmistakably a map that had been forgotten.",
-              "audioStart": 44.962,
-              "audioEnd": 51.062
-            },
-            {
-              "text": "The ink, though faded, traced a winding river that vanished into a cluster of symbols resembling crumbling towers.",
-              "audioStart": 51.925,
-              "audioEnd": 58.15
-            },
-            {
-              "text": "Max's fingers trembled as he lifted the fragile sheet, feeling the weight of history settle into his palm.",
-              "audioStart": 59.013,
-              "audioEnd": 64.5
-            },
-            {
-              "text": "A sudden chill ran down his spine, as if the forest itself were urging them to follow the hidden path.",
-              "audioStart": 65.362,
-              "audioEnd": 70.675
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The map revealed a concealed city, nestled deep within the woods, shielded by a wall that rose like a silent sentinel.",
-              "audioStart": 71.537,
-              "audioEnd": 77.6
-            },
-            {
-              "text": "Every line seemed to whisper promises of mystery, and the two friends exchanged a glance that spoke louder than words.",
-              "audioStart": 78.463,
-              "audioEnd": 84.675
-            },
-            {
-              "text": "Leo, ever the pragmatic one, suggested they mark the route with stones, lest they lose their bearing after dusk.",
-              "audioStart": 85.537,
-              "audioEnd": 91.963
-            },
-            {
-              "text": "Max, however, felt a surge of curiosity that eclipsed any fear; he imagined ancient streets lit by torches, echoing forgotten chants.",
-              "audioStart": 92.825,
-              "audioEnd": 101.175
-            },
-            {
-              "text": "A pact formed in that moment: they would uncover the city's secrets together, no matter the obstacles that lay ahead.",
-              "audioStart": 102.037,
-              "audioEnd": 108.213
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "They pressed onward, the forest growing denser as the sun slipped toward the horizon, painting the canopy in amber hues.",
-              "audioStart": 109.075,
-              "audioEnd": 115.888
-            },
-            {
-              "text": "Each step was accompanied by the soft crunch of fallen leaves, a rhythmic reminder of the distance they still had to travel.",
-              "audioStart": 116.75,
-              "audioEnd": 123.062
-            },
-            {
-              "text": "When twilight settled, a cool dampness settled on their skin, and fatigue settled deep in their muscles, yet resolve hardened like iron.",
-              "audioStart": 123.925,
-              "audioEnd": 131.037
-            },
-            {
-              "text": "\"We can't turn back now,\" Max whispered, his breath forming fleeting clouds, and Leo nodded, eyes reflecting the faint glow of fireflies.",
-              "audioStart": 131.9,
-              "audioEnd": 139.875
-            },
-            {
-              "text": "Their shadows merged with the darkness, but the map's promise guided them onward, each heartbeat echoing the drum of adventure.",
-              "audioStart": 140.738,
-              "audioEnd": 147.05
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "At the edge of a clearing, the trees gave way to a formidable stone wall, its surface slick with moss and time.",
-              "audioStart": 147.912,
-              "audioEnd": 153.8
-            },
-            {
-              "text": "It rose abruptly, twenty meters high, its stones arranged in a pattern that hinted at an ancient code.",
-              "audioStart": 154.662,
-              "audioEnd": 160.238
-            },
-            {
-              "text": "Leo ran his hand along the cold surface, feeling the faint vibrations of a long-forgotten heartbeat within the masonry.",
-              "audioStart": 161.1,
-              "audioEnd": 167.3
-            },
-            {
-              "text": "\"There must be an entrance,\" Max murmured, eyes scanning for any irregularity that might betray a hidden doorway.",
-              "audioStart": 168.162,
-              "audioEnd": 173.938
-            },
-            {
-              "text": "A narrow slit of light flickered at the base of the wall, as if inviting them to discover what lay concealed beyond.",
-              "audioStart": 174.8,
-              "audioEnd": 180.55
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Behind the slit, a rusted iron door stood ajar, its surface etched with symbols that matched those on the map.",
-              "audioStart": 181.412,
-              "audioEnd": 187.325
-            },
-            {
-              "text": "A heavy lock barred the entrance, its bolt stubbornly refusing to yield to any force.",
-              "audioStart": 188.188,
-              "audioEnd": 192.725
-            },
-            {
-              "text": "Leo's eyes fell on a small, brass key half-buried in a crevice, glinting like a promise.",
-              "audioStart": 193.588,
-              "audioEnd": 198.537
-            },
-            {
-              "text": "With a careful twist, the key turned, and the lock clicked open, releasing a sigh of ancient air.",
-              "audioStart": 199.4,
-              "audioEnd": 204.812
-            },
-            {
-              "text": "The door groaned as it swung inward, revealing a dim corridor whose stone floor was slick with centuries of forgotten rain.",
-              "audioStart": 205.675,
-              "audioEnd": 211.988
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Inside, darkness pressed against their eyes, broken only by the faint glow of bioluminescent fungi clinging to the walls.",
-              "audioStart": 212.85,
-              "audioEnd": 219.738
-            },
-            {
-              "text": "A distant, echoing clatter sent a shiver down their spines, suggesting that they were not alone in the forgotten city.",
-              "audioStart": 220.6,
-              "audioEnd": 226.75
-            },
-            {
-              "text": "Max swallowed hard, his mind racing through possibilities: a wild animal, a wandering specter, or perhaps the city's own restless guardians.",
-              "audioStart": 227.613,
-              "audioEnd": 235.95
-            },
-            {
-              "text": "They moved with deliberate silence, each footfall softened by the thick carpet of moss that covered the ancient stones.",
-              "audioStart": 236.812,
-              "audioEnd": 242.637
-            },
-            {
-              "text": "A faint, rhythmic ticking resonated from deeper within, urging them onward toward a room that promised answers.",
-              "audioStart": 243.5,
-              "audioEnd": 250.757
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "The door to the chamber stood framed by towering pillars, each bearing intricate mosaics of celestial bodies and mythic creatures.",
-              "audioStart": 251.62,
-              "audioEnd": 258.67
-            },
-            {
-              "text": "Within, a series of stone tablets lay arranged like a puzzle, their surfaces etched with riddles that demanded wit and patience.",
-              "audioStart": 259.533,
-              "audioEnd": 266.707
-            },
-            {
-              "text": "Leo traced his finger over the first inscription, noting that the answer lay hidden in the pattern of the constellations above.",
-              "audioStart": 267.57,
-              "audioEnd": 274.007
-            },
-            {
-              "text": "Max, recalling the map's symbols, aligned the tiles accordingly, feeling the room's atmosphere shift as each piece clicked into place.",
-              "audioStart": 274.87,
-              "audioEnd": 282.507
-            },
-            {
-              "text": "When the final piece settled, a concealed compartment opened, revealing a chest that glittered with the promise of untold wealth.",
-              "audioStart": 283.37,
-              "audioEnd": 289.72
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Inside the chest lay a trove of gold coins, their surfaces stamped with symbols of a civilization long vanished.",
-              "audioStart": 290.582,
-              "audioEnd": 296.82
-            },
-            {
-              "text": "The sight of the gleaming treasure sparked a brief, ecstatic grin on their faces, a reward for their perseverance.",
-              "audioStart": 297.683,
-              "audioEnd": 303.882
-            },
-            {
-              "text": "Suddenly, a resonant voice echoed through the stone, commanding them to leave the city at once, lest they incur its ancient wrath.",
-              "audioStart": 304.745,
-              "audioEnd": 311.608
-            },
-            {
-              "text": "The tone was neither angry nor kind; it was a solemn warning that seemed to emanate from the very walls themselves.",
-              "audioStart": 312.47,
-              "audioEnd": 318.345
-            },
-            {
-              "text": "Without hesitation, Max and Leo gathered the gold and hurried back through the corridor, their hearts pounding with both triumph and urgency.",
-              "audioStart": 319.207,
-              "audioEnd": 326.608
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Emerging into the fading twilight, they found the city's wall receding behind them, its silhouette merging with the encroaching darkness.",
-              "audioStart": 327.47,
-              "audioEnd": 334.433
-            },
-            {
-              "text": "The forest seemed to welcome them, the rustle of leaves now a gentle applause for their safe return.",
-              "audioStart": 335.295,
-              "audioEnd": 340.308
-            },
-            {
-              "text": "Back at their campsite, the fire crackled, casting warm light over their tired faces, and the scent of pine soot soothed their nerves.",
-              "audioStart": 341.17,
-              "audioEnd": 348.72
-            },
-            {
-              "text": "They exchanged a quiet acknowledgment of the teamwork that had carried them through each obstacle, the bond between them now forged like steel.",
-              "audioStart": 349.582,
-              "audioEnd": 356.608
-            },
-            {
-              "text": "Looking at the gold they had secured, they realized that the true treasure was the confidence they now possessed in one another.",
-              "audioStart": 357.47,
-              "audioEnd": 363.558
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "As dawn broke, Max and Leo packed their gear, already dreaming of the next expedition that would test their courage anew.",
-              "audioStart": 364.42,
-              "audioEnd": 370.895
-            },
-            {
-              "text": "The forest had taught them that perseverance could transform fear into curiosity, and that every hidden path held a story waiting to be uncovered.",
-              "audioStart": 371.757,
-              "audioEnd": 379.37
-            },
-            {
-              "text": "They promised each other that no matter how daunting the challenge, they would face it together, trusting the map of friendship more than any parchment.",
-              "audioStart": 380.233,
-              "audioEnd": 387.695
-            },
-            {
-              "text": "With the sunrise painting the canopy gold, they set off toward the horizon, their steps light, their spirits unbreakable.",
-              "audioStart": 388.558,
-              "audioEnd": 395.082
-            },
-            {
-              "text": "The memory of the lost city lingered like a secret, reminding them that the world still held mysteries worth seeking, and that they were ready to answer its call.",
-              "audioStart": 395.945,
-              "audioEnd": 404.007
-            }
-          ]
-        }
-      ],
-      "audio": "audio/c1/st-0120.mp3",
-      "wordTimings": "audio/c1/st-0120.timings.json",
-      "quiz": [
-        {
-          "q": "Where did Max and Leo discover the ancient map?",
-          "options": [
-            "Under their tent",
-            "Near a moss-covered stone after removing lichen",
-            "At the edge of the clearing by the stone wall"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "What event caused the resonant voice to command Max and Leo to leave the city?",
-          "options": [
-            "When they opened the chest revealing gold",
-            "When they entered the corridor",
-            "When they solved the riddles on the stone tablets"
-          ],
-          "answer": 0
-        },
-        {
-          "q": "What thematic lesson is emphasized by the final paragraph?",
-          "options": [
-            "Wealth is the ultimate goal",
-            "The world holds endless mysteries worth seeking",
-            "Perseverance and friendship are the true treasures"
-          ],
-          "answer": 2
         }
       ]
     }

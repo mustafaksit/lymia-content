@@ -298,7 +298,7 @@
             {
               "text": "She stays at home.",
               "audioStart": 120.778,
-              "audioEnd": 122.0
+              "audioEnd": 122
             },
             {
               "text": "She does not go out.",
@@ -862,7 +862,7 @@
             },
             {
               "text": "The first bed was too hard.",
-              "audioStart": 131.0,
+              "audioStart": 131,
               "audioEnd": 132.625
             },
             {
@@ -1030,7 +1030,7 @@
             },
             {
               "text": "The little girl learned a great lesson.",
-              "audioStart": 226.0,
+              "audioStart": 226,
               "audioEnd": 227.85
             },
             {
@@ -1198,13 +1198,13 @@
             },
             {
               "text": "The bears could have offered her a nice meal if she had knocked on the door.",
-              "audioStart": 104.0,
+              "audioStart": 104,
               "audioEnd": 107.325
             },
             {
               "text": "Instead, she made a big mistake by walking into a strange home without any invitation.",
               "audioStart": 108.188,
-              "audioEnd": 113.0
+              "audioEnd": 113
             },
             {
               "text": "The small chair was broken into pieces, and all the food was gone from the bowl.",
@@ -1296,360 +1296,6 @@
             "On the kitchen floor",
             "In the big bed",
             "In the small bed"
-          ],
-          "answer": 2
-        }
-      ]
-    },
-    "C1": {
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Once upon a time, a little girl with hair the color of spun gold walked completely alone through the deep, ancient forest.",
-              "audioStart": 0.1,
-              "audioEnd": 6.425
-            },
-            {
-              "text": "The heavy summer canopy filtered the sunlight into dancing patterns of green and gold across the damp, mossy earth.",
-              "audioStart": 7.287,
-              "audioEnd": 13.387
-            },
-            {
-              "text": "Lost in her own wandering thoughts, she ventured far beyond the familiar paths where children were told to play.",
-              "audioStart": 14.25,
-              "audioEnd": 20.05
-            },
-            {
-              "text": "All around her, the quiet whispers of the woodland seemed to beckon her deeper into the thick and mysterious woods.",
-              "audioStart": 20.913,
-              "audioEnd": 26.637
-            },
-            {
-              "text": "It was during this lonely ramble that she suddenly came across a small, peculiar house built entirely of weathered timber.",
-              "audioStart": 27.5,
-              "audioEnd": 33.9
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "This charming yet isolated cottage belonged to a family of three bears who lived peacefully away from human towns.",
-              "audioStart": 34.763,
-              "audioEnd": 40.688
-            },
-            {
-              "text": "The heavy oak door had been left slightly ajar, inviting the cool forest breeze to sweep through the cozy interior.",
-              "audioStart": 41.55,
-              "audioEnd": 47.875
-            },
-            {
-              "text": "Without pausing to consider the consequences, the curious child decided to push the door open and step inside.",
-              "audioStart": 48.737,
-              "audioEnd": 54.862
-            },
-            {
-              "text": "No one was there to greet her, and the silence of the empty rooms hung heavily in the warm air.",
-              "audioStart": 55.725,
-              "audioEnd": 60.375
-            },
-            {
-              "text": "Driven entirely by her unbridled impulse, she walked straight into the rustic kitchen to see what lay hidden within.",
-              "audioStart": 61.237,
-              "audioEnd": 67.188
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Upon the wooden dining table rested three steaming bowls of porridge, prepared for the bears' morning breakfast.",
-              "audioStart": 68.05,
-              "audioEnd": 73.787
-            },
-            {
-              "text": "The young child felt a sudden pang of hunger and wanted to sample each dish, starting with the largest bowl.",
-              "audioStart": 74.65,
-              "audioEnd": 80.213
-            },
-            {
-              "text": "The first bowl was far too hot to swallow, burning her tongue with its fierce and bubbling heat.",
-              "audioStart": 81.075,
-              "audioEnd": 86.075
-            },
-            {
-              "text": "Hopeful, she tried the second bowl next, but it had grown entirely too cold and uninviting on the tabletop.",
-              "audioStart": 86.938,
-              "audioEnd": 93.287
-            },
-            {
-              "text": "Finally, she tasted the contents of the smallest bowl, and she found that it was seasoned and warmed just right.",
-              "audioStart": 94.15,
-              "audioEnd": 99.888
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Because she had walked for hours and felt exceedingly weak, she greedily ate every single spoonful of that perfect meal.",
-              "audioStart": 100.75,
-              "audioEnd": 107.487
-            },
-            {
-              "text": "The rich warmth of the grain settled comfortably in her stomach, chasing away the fatigue that had weighed upon her limbs.",
-              "audioStart": 108.35,
-              "audioEnd": 114.312
-            },
-            {
-              "text": "However, a heavy drowsiness soon replaced her hunger, making her search eagerly for a comfortable place to sit and rest.",
-              "audioStart": 115.175,
-              "audioEnd": 121.562
-            },
-            {
-              "text": "She turned her attention toward the parlor, where three distinct chairs were arranged neatly by the hearth.",
-              "audioStart": 122.425,
-              "audioEnd": 127.7
-            },
-            {
-              "text": "She tried the first chair, which was far too large and swallowed her small frame in its oversized cushions.",
-              "audioStart": 128.562,
-              "audioEnd": 134.25
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Then she tried the second chair, which was also much too bulky and offered no proper support for her tired back.",
-              "audioStart": 135.113,
-              "audioEnd": 141.262
-            },
-            {
-              "text": "Finally, she climbed into the small chair sitting quietly in the corner, hoping it would provide the comfort she desired.",
-              "audioStart": 142.125,
-              "audioEnd": 148.225
-            },
-            {
-              "text": "Alas, the delicate wood could not bear her sudden weight, and the tiny seat broke instantly into a hundred pieces.",
-              "audioStart": 149.088,
-              "audioEnd": 155.113
-            },
-            {
-              "text": "She tumbled unceremoniously to the floor, dusting off her skirt while realizing the unfortunate consequence of her carelessness.",
-              "audioStart": 155.975,
-              "audioEnd": 162.838
-            },
-            {
-              "text": "The sudden noise echoed through the empty cottage, reminding her briefly of where she was before fatigue pulled her away.",
-              "audioStart": 163.7,
-              "audioEnd": 169.65
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Feeling utterly exhausted from her long morning walk, she decided to wander upstairs to find a quiet place to sleep.",
-              "audioStart": 170.512,
-              "audioEnd": 176.775
-            },
-            {
-              "text": "The second floor was dim and cool, containing a sleeping chamber with three distinct beds lined up against the wall.",
-              "audioStart": 177.637,
-              "audioEnd": 183.588
-            },
-            {
-              "text": "She climbed up onto the first bed, but it felt remarkably hard and stiff beneath her aching shoulders.",
-              "audioStart": 184.45,
-              "audioEnd": 189.775
-            },
-            {
-              "text": "Seeking relief, she moved to the second bed, only to find that it was far too soft and swallowed her entirely.",
-              "audioStart": 190.637,
-              "audioEnd": 196.75
-            },
-            {
-              "text": "The third bed, however, was snug and completely right, offering a soothing embrace that instantly promised deep, dreamless slumber.",
-              "audioStart": 197.613,
-              "audioEnd": 205.162
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Within moments, her eyelids grew heavy, and she fell fast asleep inside the quiet, shadowy room.",
-              "audioStart": 206.025,
-              "audioEnd": 211.825
-            },
-            {
-              "text": "While she slept deeply, the three rightful owners of the cottage finally returned home from their morning walk in the woods.",
-              "audioStart": 212.688,
-              "audioEnd": 218.65
-            },
-            {
-              "text": "Father Bear, Mother Bear, and Baby Bear stepped across the threshold expecting a peaceful return to their daily routine.",
-              "audioStart": 219.512,
-              "audioEnd": 226.125
-            },
-            {
-              "text": "Immediately, their sharp noses detected an unfamiliar presence lingering in the warm air of their kitchen.",
-              "audioStart": 226.988,
-              "audioEnd": 232.438
-            },
-            {
-              "text": "Father Bear looked down at his table with a puzzled frown, realizing at once that someone had been disturbing his home.",
-              "audioStart": 233.3,
-              "audioEnd": 239.338
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Someone had tasted the porridge from each bowl, leaving messy spoons and empty spaces where food had been.",
-              "audioStart": 240.2,
-              "audioEnd": 246.954
-            },
-            {
-              "text": "Mother Bear checked her chair in the parlor and discovered that an intruder had compressed the cushions.",
-              "audioStart": 247.817,
-              "audioEnd": 252.63
-            },
-            {
-              "text": "Then Baby Bear rushed to his favorite corner and cried out in dismay upon seeing his tiny chair broken into splinters.",
-              "audioStart": 253.492,
-              "audioEnd": 259.505
-            },
-            {
-              "text": "Filled with growing alarm, the three bears searched every corner of the ground floor before quietly creeping up the wooden stairs.",
-              "audioStart": 260.367,
-              "audioEnd": 266.805
-            },
-            {
-              "text": "They entered the sleeping chamber one by one, their massive paws making barely a sound on the painted floorboards.",
-              "audioStart": 267.667,
-              "audioEnd": 273.68
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "It was then that Baby Bear pointed a furry paw toward his own bed and discovered the little girl sleeping peacefully.",
-              "audioStart": 274.542,
-              "audioEnd": 280.267
-            },
-            {
-              "text": "The sudden movement and the presence of the large animals caused the child to wake up instantly with a start.",
-              "audioStart": 281.13,
-              "audioEnd": 286.142
-            },
-            {
-              "text": "She opened her eyes and saw three enormous bears standing tower-like around the mattress, staring directly down at her.",
-              "audioStart": 287.005,
-              "audioEnd": 293.192
-            },
-            {
-              "text": "Pure terror gripped her heart as she realized whose private home she had entered without permission or warning.",
-              "audioStart": 294.055,
-              "audioEnd": 299.517
-            },
-            {
-              "text": "Without uttering a single word, she leaped from the bed in a panic and bolted toward the open door.",
-              "audioStart": 300.38,
-              "audioEnd": 305.329
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "She raced through the forest path, her golden hair streaming behind her as she ran all the way back home.",
-              "audioStart": 306.192,
-              "audioEnd": 311.592
-            },
-            {
-              "text": "She never returned to that part of the woods again, carrying a profound memory of her reckless adventure.",
-              "audioStart": 312.454,
-              "audioEnd": 317.542
-            },
-            {
-              "text": "This terrifying experience taught her an unforgettable lesson about respect, boundaries, and the importance of personal property.",
-              "audioStart": 318.404,
-              "audioEnd": 325.38
-            },
-            {
-              "text": "If she had simply knocked on the door and asked politely, she might have avoided such a frightening ordeal.",
-              "audioStart": 326.242,
-              "audioEnd": 331.492
-            },
-            {
-              "text": "Instead, her thoughtlessness had caused destruction and distress for creatures who had only wanted a quiet morning.",
-              "audioStart": 332.354,
-              "audioEnd": 338.142
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "From that day onward, she always stayed safely on the designated paths when walking near the edge of town.",
-              "audioStart": 339.005,
-              "audioEnd": 344.555
-            },
-            {
-              "text": "The three bears repaired the broken chair and lived happily in their woodland cottage without any further unexpected visits.",
-              "audioStart": 345.417,
-              "audioEnd": 351.517
-            },
-            {
-              "text": "The forest remained as serene and peaceful as it had always been, sheltering its inhabitants beneath the ancient trees.",
-              "audioStart": 352.38,
-              "audioEnd": 358.63
-            },
-            {
-              "text": "Generations of children would later hear this tale whispered around hearths to remind them of the dangers of trespassing.",
-              "audioStart": 359.492,
-              "audioEnd": 365.292
-            },
-            {
-              "text": "For curiosity, though a wonderful trait, must always be guided by wisdom, caution, and deep respect for others.",
-              "audioStart": 366.154,
-              "audioEnd": 372.979
-            }
-          ]
-        }
-      ],
-      "audio": "audio/c1/st-0211.mp3",
-      "wordTimings": "audio/c1/st-0211.timings.json",
-      "quiz": [
-        {
-          "q": "Why did the little girl break the small chair?",
-          "options": [
-            "She deliberately jumped on it out of anger.",
-            "It broke instantly because it could not bear her weight.",
-            "Father Bear accidentally stepped on it while chasing her."
-          ],
-          "answer": 1
-        },
-        {
-          "q": "What did the bears discover first when they entered their home?",
-          "options": [
-            "That their front door was completely locked",
-            "That someone had eaten their porridge",
-            "That a stranger was sleeping in the upstairs bed"
-          ],
-          "answer": 1
-        },
-        {
-          "q": "How did the little girl escape from the cottage?",
-          "options": [
-            "She jumped out of the bedroom window into the bushes.",
-            "She hid in the closet until the bears fell asleep.",
-            "She ran out through the open door without saying a word."
           ],
           "answer": 2
         }
