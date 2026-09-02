@@ -1,0 +1,1263 @@
+{
+  "id": "st-0250",
+  "title": "The Two Pots",
+  "genre": "classic",
+  "summary": "Two different pots near a river must decide whether to enter the water together.",
+  "coverScene": "A clay pot and a metal pot float together down a calm green river.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, two things live near water.",
+              "audioStart": 0.106,
+              "audioEnd": 2.536
+            },
+            {
+              "text": "One thing is made of old earth.",
+              "audioStart": 3.5,
+              "audioEnd": 5.194
+            },
+            {
+              "text": "The other thing is made of hard iron.",
+              "audioStart": 6.153,
+              "audioEnd": 8.194
+            },
+            {
+              "text": "The iron part is big.",
+              "audioStart": 9.153,
+              "audioEnd": 10.625
+            },
+            {
+              "text": "The earth part is small.",
+              "audioStart": 11.583,
+              "audioEnd": 13.028
+            },
+            {
+              "text": "One day, the iron part looks down.",
+              "audioStart": 13.986,
+              "audioEnd": 16.472
+            },
+            {
+              "text": "He looks at the earth part.",
+              "audioStart": 17.431,
+              "audioEnd": 18.972
+            },
+            {
+              "text": "He asks to go into the water.",
+              "audioStart": 19.931,
+              "audioEnd": 21.667
+            },
+            {
+              "text": "The earth part feels bad.",
+              "audioStart": 22.625,
+              "audioEnd": 24.236
+            },
+            {
+              "text": "Water can break it.",
+              "audioStart": 25.194,
+              "audioEnd": 26.444
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The iron part makes a good promise.",
+              "audioStart": 27.403,
+              "audioEnd": 29.597
+            },
+            {
+              "text": "He will stay close.",
+              "audioStart": 30.556,
+              "audioEnd": 31.833
+            },
+            {
+              "text": "He will help his friend.",
+              "audioStart": 32.792,
+              "audioEnd": 34.181
+            },
+            {
+              "text": "Both things go into the water.",
+              "audioStart": 35.139,
+              "audioEnd": 36.875
+            },
+            {
+              "text": "They move with the water.",
+              "audioStart": 37.833,
+              "audioEnd": 39.069
+            },
+            {
+              "text": "The water is good.",
+              "audioStart": 40.028,
+              "audioEnd": 41.194
+            },
+            {
+              "text": "They move together.",
+              "audioStart": 42.153,
+              "audioEnd": 43.306
+            },
+            {
+              "text": "The water is clear.",
+              "audioStart": 44.264,
+              "audioEnd": 45.514
+            },
+            {
+              "text": "Then the water becomes fast.",
+              "audioStart": 46.472,
+              "audioEnd": 48.292
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The iron part tries to stay close.",
+              "audioStart": 49.25,
+              "audioEnd": 51.569
+            },
+            {
+              "text": "The water moves them away.",
+              "audioStart": 52.528,
+              "audioEnd": 53.986
+            },
+            {
+              "text": "The earth part meets a hard thing.",
+              "audioStart": 54.944,
+              "audioEnd": 56.778
+            },
+            {
+              "text": "The earth part is not strong.",
+              "audioStart": 57.736,
+              "audioEnd": 59.486
+            },
+            {
+              "text": "The little part breaks into many small bits.",
+              "audioStart": 60.444,
+              "audioEnd": 63.056
+            },
+            {
+              "text": "The iron part cannot help his friend.",
+              "audioStart": 64.014,
+              "audioEnd": 66.319
+            },
+            {
+              "text": "The earth part goes down.",
+              "audioStart": 67.278,
+              "audioEnd": 68.847
+            },
+            {
+              "text": "It is gone.",
+              "audioStart": 69.806,
+              "audioEnd": 70.681
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "People must choose company with care.",
+              "audioStart": 71.639,
+              "audioEnd": 73.778
+            },
+            {
+              "text": "Do not take bad events.",
+              "audioStart": 74.736,
+              "audioEnd": 76.278
+            },
+            {
+              "text": "Know your own bounds well.",
+              "audioStart": 77.236,
+              "audioEnd": 78.736
+            },
+            {
+              "text": "We always live with care every day.",
+              "audioStart": 79.694,
+              "audioEnd": 81.833
+            },
+            {
+              "text": "We must see the water.",
+              "audioStart": 82.792,
+              "audioEnd": 84.153
+            },
+            {
+              "text": "We must know the way.",
+              "audioStart": 85.111,
+              "audioEnd": 86.361
+            },
+            {
+              "text": "Good friends stay close to us.",
+              "audioStart": 87.319,
+              "audioEnd": 89.097
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0250.mp3",
+      "wordTimings": "audio/a1/st-0250.timings.json",
+      "quiz": [
+        {
+          "q": "What are the two pots made of?",
+          "options": [
+            "Clay and metal",
+            "Wood and glass",
+            "Stone and iron"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happens to the clay pot in the rough water?",
+          "options": [
+            "It floats away",
+            "It breaks into pieces",
+            "It swims to safety"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who makes a promise to protect his friend?",
+          "options": [
+            "The clay pot",
+            "The metal pot",
+            "The river"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, two things lived near a large water.",
+              "audioStart": 0.106,
+              "audioEnd": 3.05
+            },
+            {
+              "text": "One thing was made of mud.",
+              "audioStart": 4.014,
+              "audioEnd": 5.556
+            },
+            {
+              "text": "The other thing was strong and made of business material.",
+              "audioStart": 6.514,
+              "audioEnd": 9.583
+            },
+            {
+              "text": "The material thing was heavy.",
+              "audioStart": 10.542,
+              "audioEnd": 12.292
+            },
+            {
+              "text": "The mud thing was light and easy to break.",
+              "audioStart": 13.25,
+              "audioEnd": 15.667
+            },
+            {
+              "text": "One day, the material thing looked at the mud thing.",
+              "audioStart": 16.625,
+              "audioEnd": 19.75
+            },
+            {
+              "text": "He suggested a long travel down the water.",
+              "audioStart": 20.708,
+              "audioEnd": 23.25
+            },
+            {
+              "text": "The mud thing felt bad.",
+              "audioStart": 24.208,
+              "audioEnd": 25.681
+            },
+            {
+              "text": "Water could easily break it.",
+              "audioStart": 26.639,
+              "audioEnd": 28.389
+            },
+            {
+              "text": "However, the material thing promised to protect his friend.",
+              "audioStart": 29.347,
+              "audioEnd": 32.958
+            },
+            {
+              "text": "He promised to stay close to him.",
+              "audioStart": 33.917,
+              "audioEnd": 35.833
+            },
+            {
+              "text": "Both things entered the water.",
+              "audioStart": 36.792,
+              "audioEnd": 38.444
+            },
+            {
+              "text": "They began to go down the water together.",
+              "audioStart": 39.403,
+              "audioEnd": 41.708
+            },
+            {
+              "text": "The current was nice.",
+              "audioStart": 42.667,
+              "audioEnd": 44.042
+            },
+            {
+              "text": "They moved together across the clear surface.",
+              "audioStart": 45,
+              "audioEnd": 47.583
+            },
+            {
+              "text": "After some time, the water became fast and hard.",
+              "audioStart": 48.542,
+              "audioEnd": 51.764
+            },
+            {
+              "text": "This happened near a small and difficult area.",
+              "audioStart": 52.722,
+              "audioEnd": 55.292
+            },
+            {
+              "text": "The material thing tried to move closer.",
+              "audioStart": 56.25,
+              "audioEnd": 58.722
+            },
+            {
+              "text": "The heavy water pushed them apart.",
+              "audioStart": 59.681,
+              "audioEnd": 61.639
+            },
+            {
+              "text": "The mud thing was pulled hard against a hard piece of ground.",
+              "audioStart": 62.597,
+              "audioEnd": 65.806
+            },
+            {
+              "text": "The mud thing was not strong.",
+              "audioStart": 66.764,
+              "audioEnd": 68.5
+            },
+            {
+              "text": "The hit broke the little thing into many pieces quickly.",
+              "audioStart": 69.458,
+              "audioEnd": 72.5
+            },
+            {
+              "text": "The material thing could not save his friend.",
+              "audioStart": 73.458,
+              "audioEnd": 76.125
+            },
+            {
+              "text": "He tried to reach the broken pieces.",
+              "audioStart": 77.083,
+              "audioEnd": 79.306
+            },
+            {
+              "text": "It was already too late.",
+              "audioStart": 80.264,
+              "audioEnd": 81.806
+            },
+            {
+              "text": "The mud thing went down deep into the dark water.",
+              "audioStart": 82.764,
+              "audioEnd": 85.361
+            },
+            {
+              "text": "It was gone now.",
+              "audioStart": 86.319,
+              "audioEnd": 87.375
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "This story shows an important thing.",
+              "audioStart": 88.333,
+              "audioEnd": 90.222
+            },
+            {
+              "text": "People who are not strong must always choose company well.",
+              "audioStart": 91.181,
+              "audioEnd": 94.333
+            },
+            {
+              "text": "If you are not strong, you should stay away from bad things.",
+              "audioStart": 95.292,
+              "audioEnd": 98.708
+            },
+            {
+              "text": "Do this with strong friends.",
+              "audioStart": 99.667,
+              "audioEnd": 101.333
+            },
+            {
+              "text": "A person who knows his own limits is good.",
+              "audioStart": 102.292,
+              "audioEnd": 104.722
+            },
+            {
+              "text": "He avoids bad risks.",
+              "audioStart": 105.681,
+              "audioEnd": 107.333
+            },
+            {
+              "text": "Real protection comes from understanding your abilities.",
+              "audioStart": 108.292,
+              "audioEnd": 111.444
+            },
+            {
+              "text": "The material thing is going to remember this day.",
+              "audioStart": 112.403,
+              "audioEnd": 115.097
+            },
+            {
+              "text": "The mud thing is going to stay under the water.",
+              "audioStart": 116.056,
+              "audioEnd": 118.347
+            },
+            {
+              "text": "People are going to tell this story for a long time.",
+              "audioStart": 119.306,
+              "audioEnd": 122.111
+            },
+            {
+              "text": "Friends must always help each other.",
+              "audioStart": 123.069,
+              "audioEnd": 124.986
+            },
+            {
+              "text": "Do not go into fast water if you are not strong.",
+              "audioStart": 125.944,
+              "audioEnd": 128.75
+            },
+            {
+              "text": "Always think before you make a big decision.",
+              "audioStart": 129.708,
+              "audioEnd": 132.125
+            },
+            {
+              "text": "Life is short and full of bad things.",
+              "audioStart": 133.083,
+              "audioEnd": 135.389
+            },
+            {
+              "text": "We must be very good every day.",
+              "audioStart": 136.347,
+              "audioEnd": 138.278
+            },
+            {
+              "text": "Good friends will always protect you from damage.",
+              "audioStart": 139.236,
+              "audioEnd": 141.917
+            },
+            {
+              "text": "Bad choices bring bad results.",
+              "audioStart": 142.875,
+              "audioEnd": 144.958
+            },
+            {
+              "text": "That is the end of this old story.",
+              "audioStart": 145.917,
+              "audioEnd": 147.778
+            },
+            {
+              "text": "We should always keep our friends safe.",
+              "audioStart": 148.736,
+              "audioEnd": 150.792
+            },
+            {
+              "text": "Life can bring many difficult problems.",
+              "audioStart": 151.75,
+              "audioEnd": 154.111
+            },
+            {
+              "text": "People must learn from old stories.",
+              "audioStart": 155.069,
+              "audioEnd": 157.097
+            },
+            {
+              "text": "Friends are very important in this world.",
+              "audioStart": 158.056,
+              "audioEnd": 160.264
+            },
+            {
+              "text": "Do not take big risks with bad company.",
+              "audioStart": 161.222,
+              "audioEnd": 163.681
+            },
+            {
+              "text": "Always think about your friends before you move.",
+              "audioStart": 164.639,
+              "audioEnd": 167.264
+            },
+            {
+              "text": "The water can be very dangerous for small things.",
+              "audioStart": 168.222,
+              "audioEnd": 171.194
+            },
+            {
+              "text": "Be sure to stay with good people every day.",
+              "audioStart": 172.153,
+              "audioEnd": 174.458
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0250.mp3",
+      "wordTimings": "audio/a2/st-0250.timings.json",
+      "quiz": [
+        {
+          "q": "What were the two pots made of?",
+          "options": [
+            "Clay and metal",
+            "Wood and glass",
+            "Stone and iron"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the clay pot in the rough water?",
+          "options": [
+            "It swam away fast",
+            "It broke into many pieces",
+            "It became stronger"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who suggested the journey down the river?",
+          "options": [
+            "The clay pot",
+            "The river guide",
+            "The metal pot"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, two things lived near a large river.",
+              "audioStart": 0.1,
+              "audioEnd": 2.763
+            },
+            {
+              "text": "One item was made from earth.",
+              "audioStart": 3.625,
+              "audioEnd": 5.112
+            },
+            {
+              "text": "The other was made from strong metal.",
+              "audioStart": 5.975,
+              "audioEnd": 7.763
+            },
+            {
+              "text": "The metal item was heavy.",
+              "audioStart": 8.625,
+              "audioEnd": 10.012
+            },
+            {
+              "text": "The earth item was light.",
+              "audioStart": 10.875,
+              "audioEnd": 12.2
+            },
+            {
+              "text": "One day, the metal item looked at the earth item.",
+              "audioStart": 13.062,
+              "audioEnd": 15.662
+            },
+            {
+              "text": "He suggested a long trip down the river.",
+              "audioStart": 16.525,
+              "audioEnd": 18.725
+            },
+            {
+              "text": "The earth item felt afraid because water could easily break it.",
+              "audioStart": 19.587,
+              "audioEnd": 22.812
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "However, the metal item promised that he would stay close.",
+              "audioStart": 23.675,
+              "audioEnd": 26.925
+            },
+            {
+              "text": "He promised to protect his friend.",
+              "audioStart": 27.788,
+              "audioEnd": 29.562
+            },
+            {
+              "text": "With that promise, both items entered the water.",
+              "audioStart": 30.425,
+              "audioEnd": 32.987
+            },
+            {
+              "text": "They began to move.",
+              "audioStart": 33.85,
+              "audioEnd": 35.013
+            },
+            {
+              "text": "The current was quiet.",
+              "audioStart": 35.875,
+              "audioEnd": 37.125
+            },
+            {
+              "text": "They moved together across the bright surface.",
+              "audioStart": 37.987,
+              "audioEnd": 40.312
+            },
+            {
+              "text": "After some time, the river became fast near a narrow area.",
+              "audioStart": 41.175,
+              "audioEnd": 44.638
+            },
+            {
+              "text": "The metal item tried to swim closer.",
+              "audioStart": 45.5,
+              "audioEnd": 47.575
+            },
+            {
+              "text": "The heavy water pushed them apart.",
+              "audioStart": 48.438,
+              "audioEnd": 50.2
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The earth item was pulled hard against a sharp stone in the river.",
+              "audioStart": 51.062,
+              "audioEnd": 54.125
+            },
+            {
+              "text": "Because the earth was weak, the event broke the little item into many pieces immediately.",
+              "audioStart": 54.987,
+              "audioEnd": 59.425
+            },
+            {
+              "text": "The metal item could not save his friend from the danger.",
+              "audioStart": 60.288,
+              "audioEnd": 63.1
+            },
+            {
+              "text": "Although the metal item tried to reach the broken pieces, it was already too late.",
+              "audioStart": 63.962,
+              "audioEnd": 68.375
+            },
+            {
+              "text": "The earth item went deep down into the dark water and disappeared.",
+              "audioStart": 69.237,
+              "audioEnd": 72.388
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "This story shows that weak people must always choose their company carefully.",
+              "audioStart": 73.25,
+              "audioEnd": 76.975
+            },
+            {
+              "text": "If you are not strong, you should stay away from dangerous situations with powerful friends.",
+              "audioStart": 77.838,
+              "audioEnd": 82.612
+            },
+            {
+              "text": "A person knows his own limits and avoids bad risks.",
+              "audioStart": 83.475,
+              "audioEnd": 86.487
+            },
+            {
+              "text": "Real safety comes from understanding what you can and cannot do.",
+              "audioStart": 87.35,
+              "audioEnd": 90.75
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many years have passed since that day by the water.",
+              "audioStart": 91.612,
+              "audioEnd": 94.263
+            },
+            {
+              "text": "People still tell this story to their children in every town.",
+              "audioStart": 95.125,
+              "audioEnd": 98.1
+            },
+            {
+              "text": "Every child has heard how the metal item failed to save the earth item.",
+              "audioStart": 98.963,
+              "audioEnd": 102.237
+            },
+            {
+              "text": "We must always think about our own strength before we make a choice.",
+              "audioStart": 103.1,
+              "audioEnd": 106.55
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Life brings many challenges that we must face each day.",
+              "audioStart": 107.412,
+              "audioEnd": 110.263
+            },
+            {
+              "text": "If we make bad choices, we might experience great loss.",
+              "audioStart": 111.125,
+              "audioEnd": 114.425
+            },
+            {
+              "text": "Therefore, we should find good friends who are similar to us.",
+              "audioStart": 115.287,
+              "audioEnd": 118.475
+            },
+            {
+              "text": "When people stay with the right group, they find safety and peace.",
+              "audioStart": 119.338,
+              "audioEnd": 122.625
+            },
+            {
+              "text": "This simple truth has guided human society through many ages.",
+              "audioStart": 123.487,
+              "audioEnd": 126.938
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Let us consider how we live our lives every single day.",
+              "audioStart": 127.8,
+              "audioEnd": 130.688
+            },
+            {
+              "text": "Do we run into danger without thinking about the result?",
+              "audioStart": 131.55,
+              "audioEnd": 134.225
+            },
+            {
+              "text": "Or do we take care to protect ourselves from damage?",
+              "audioStart": 135.088,
+              "audioEnd": 137.675
+            },
+            {
+              "text": "A careful person always plans ahead to avoid trouble.",
+              "audioStart": 138.537,
+              "audioEnd": 141.55
+            },
+            {
+              "text": "If you want to live a long life, you must be well prepared for your choices.",
+              "audioStart": 142.412,
+              "audioEnd": 146.225
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The river continues to flow past the green trees and the old stones.",
+              "audioStart": 147.088,
+              "audioEnd": 150.812
+            },
+            {
+              "text": "No one has ever seen the earth item return from the deep water.",
+              "audioStart": 151.675,
+              "audioEnd": 154.713
+            },
+            {
+              "text": "The metal item learned a hard lesson about company and responsibility.",
+              "audioStart": 155.575,
+              "audioEnd": 159.188
+            },
+            {
+              "text": "We also can learn from their sad experience today.",
+              "audioStart": 160.05,
+              "audioEnd": 162.625
+            },
+            {
+              "text": "May we always remember to stay safe and choose our friends well.",
+              "audioStart": 163.488,
+              "audioEnd": 166.488
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0250.mp3",
+      "wordTimings": "audio/b1/st-0250.timings.json",
+      "quiz": [
+        {
+          "q": "What were the two pots made from?",
+          "options": [
+            "Clay and metal",
+            "Wood and glass",
+            "Gold and silver"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the clay pot when the river became fast and rough?",
+          "options": [
+            "It floated faster than the metal pot",
+            "It broke into many pieces against a stone",
+            "It climbed out of the water onto the land"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who promised to stay close and protect the clay pot?",
+          "options": [
+            "The river guide",
+            "The metal pot",
+            "A little child"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, two pots lived near a large river.",
+              "audioStart": 0.1,
+              "audioEnd": 2.8
+            },
+            {
+              "text": "One pot was made from hard earth material, while the other was made from strong metal.",
+              "audioStart": 3.663,
+              "audioEnd": 8.05
+            },
+            {
+              "text": "The metal pot was heavy, but the other pot was light and easily broken.",
+              "audioStart": 8.912,
+              "audioEnd": 12.787
+            },
+            {
+              "text": "One bright day, the metal pot looked at the other pot and suggested a long journey down the stream.",
+              "audioStart": 13.65,
+              "audioEnd": 18.7
+            },
+            {
+              "text": "The pot felt nervous because water could easily break it.",
+              "audioStart": 19.562,
+              "audioEnd": 22.538
+            },
+            {
+              "text": "However, the metal pot promised that he would stay close and protect his friend.",
+              "audioStart": 23.4,
+              "audioEnd": 27.613
+            },
+            {
+              "text": "With that promise, both pots entered the water and began to float along.",
+              "audioStart": 28.475,
+              "audioEnd": 32.175
+            },
+            {
+              "text": "The current was gentle, and they moved together across the bright surface.",
+              "audioStart": 33.038,
+              "audioEnd": 36.812
+            },
+            {
+              "text": "After some time, the river became fast and rough near a narrow area of stones.",
+              "audioStart": 37.675,
+              "audioEnd": 42.325
+            },
+            {
+              "text": "The metal pot tried to swim closer, but the heavy water pushed them apart.",
+              "audioStart": 43.188,
+              "audioEnd": 47.35
+            },
+            {
+              "text": "The pot was pulled hard against a sharp stone in the river.",
+              "audioStart": 48.212,
+              "audioEnd": 51
+            },
+            {
+              "text": "Because the material was weak, the sudden force broke the little pot into many pieces immediately.",
+              "audioStart": 51.862,
+              "audioEnd": 57.075
+            },
+            {
+              "text": "The metal pot could not save his friend from the danger.",
+              "audioStart": 57.938,
+              "audioEnd": 60.712
+            },
+            {
+              "text": "Although the metal pot tried to reach the broken pieces, it was already too late.",
+              "audioStart": 61.575,
+              "audioEnd": 65.912
+            },
+            {
+              "text": "The pot sank deep down into the dark water and disappeared forever.",
+              "audioStart": 66.775,
+              "audioEnd": 70.263
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "This story shows that weak people must always choose their company carefully.",
+              "audioStart": 71.125,
+              "audioEnd": 74.85
+            },
+            {
+              "text": "If you are not strong, you should stay away from dangerous situations with powerful friends.",
+              "audioStart": 75.713,
+              "audioEnd": 80.487
+            },
+            {
+              "text": "A smart person knows his own limits and avoids bad risks.",
+              "audioStart": 81.35,
+              "audioEnd": 84.638
+            },
+            {
+              "text": "Real safety comes from understanding what you can and cannot do.",
+              "audioStart": 85.5,
+              "audioEnd": 88.9
+            },
+            {
+              "text": "People have discussed this journey for a long time.",
+              "audioStart": 89.763,
+              "audioEnd": 92.2
+            },
+            {
+              "text": "Many children hear this tale when they are young.",
+              "audioStart": 93.062,
+              "audioEnd": 95.362
+            },
+            {
+              "text": "They learn that strong friends can sometimes bring trouble if life becomes difficult.",
+              "audioStart": 96.225,
+              "audioEnd": 100.475
+            },
+            {
+              "text": "We must always look at our own strength before we make big plans.",
+              "audioStart": 101.338,
+              "audioEnd": 104.8
+            },
+            {
+              "text": "If someone is not careful, he might find himself in serious trouble.",
+              "audioStart": 105.662,
+              "audioEnd": 109.513
+            },
+            {
+              "text": "Therefore, a smart person stays with those who share the same level of strength.",
+              "audioStart": 110.375,
+              "audioEnd": 114.475
+            },
+            {
+              "text": "Life is full of risks which must be managed with care.",
+              "audioStart": 115.338,
+              "audioEnd": 118.175
+            },
+            {
+              "text": "When we make choices, we should think about the future.",
+              "audioStart": 119.037,
+              "audioEnd": 121.838
+            },
+            {
+              "text": "That is why this ancient story remains important today.",
+              "audioStart": 122.7,
+              "audioEnd": 125.325
+            },
+            {
+              "text": "Everyone can learn a valuable lesson from the two pots.",
+              "audioStart": 126.188,
+              "audioEnd": 129.037
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many years ago, people started to tell this story to every child.",
+              "audioStart": 129.9,
+              "audioEnd": 133.387
+            },
+            {
+              "text": "The tale spread across the country and became famous among many families.",
+              "audioStart": 134.25,
+              "audioEnd": 138.213
+            },
+            {
+              "text": "If the metal pot had not suggested the journey, the little pot would have stayed safe.",
+              "audioStart": 139.075,
+              "audioEnd": 143.425
+            },
+            {
+              "text": "However, the little pot trusted the promise which was given by the metal friend.",
+              "audioStart": 144.287,
+              "audioEnd": 148.275
+            },
+            {
+              "text": "That trust led to a terrible result when the rough water arrived.",
+              "audioStart": 149.137,
+              "audioEnd": 152.5
+            },
+            {
+              "text": "We can see how important it is to know our own strength.",
+              "audioStart": 153.363,
+              "audioEnd": 155.95
+            },
+            {
+              "text": "If someone is weak, that person should not try to act like someone who is strong.",
+              "audioStart": 156.812,
+              "audioEnd": 160.925
+            },
+            {
+              "text": "Friends who are very powerful might create problems for those who are less strong.",
+              "audioStart": 161.787,
+              "audioEnd": 165.675
+            },
+            {
+              "text": "This lesson is taught in many schools so that young people learn about life.",
+              "audioStart": 166.537,
+              "audioEnd": 170.387
+            },
+            {
+              "text": "When decisions are made, careful thought must be applied to every single risk.",
+              "audioStart": 171.25,
+              "audioEnd": 175.338
+            },
+            {
+              "text": "If you do not think about the future, danger will find you.",
+              "audioStart": 176.2,
+              "audioEnd": 179.2
+            },
+            {
+              "text": "That is why this ancient story is still shared today.",
+              "audioStart": 180.062,
+              "audioEnd": 182.6
+            },
+            {
+              "text": "We must remember that real protection comes from knowing our personal limits.",
+              "audioStart": 183.463,
+              "audioEnd": 187.188
+            },
+            {
+              "text": "Life offers many choices, and every person should select friends who match their own strength.",
+              "audioStart": 188.05,
+              "audioEnd": 193.125
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Let us consider the metal pot and the pot made from earth once more.",
+              "audioStart": 193.988,
+              "audioEnd": 197.312
+            },
+            {
+              "text": "If the weak pot had been made from metal, the journey would have ended differently.",
+              "audioStart": 198.175,
+              "audioEnd": 201.875
+            },
+            {
+              "text": "Both pots would have survived the rough water and reached the end of the stream.",
+              "audioStart": 202.738,
+              "audioEnd": 206.363
+            },
+            {
+              "text": "Instead, the weak material broke under the pressure of the heavy current.",
+              "audioStart": 207.225,
+              "audioEnd": 210.963
+            },
+            {
+              "text": "This event teaches us that different people have different abilities.",
+              "audioStart": 211.825,
+              "audioEnd": 215.025
+            },
+            {
+              "text": "No one should attempt tasks which are too difficult for their own body or mind.",
+              "audioStart": 215.887,
+              "audioEnd": 219.85
+            },
+            {
+              "text": "If you want to live a long and happy life, you must avoid bad danger.",
+              "audioStart": 220.713,
+              "audioEnd": 224.363
+            },
+            {
+              "text": "Wise individuals always look at the situation before they make a final choice.",
+              "audioStart": 225.225,
+              "audioEnd": 229.45
+            },
+            {
+              "text": "When strange problems appear, strong friends cannot always save you.",
+              "audioStart": 230.312,
+              "audioEnd": 233.925
+            },
+            {
+              "text": "Therefore, staying in a safe place with similar friends is much better.",
+              "audioStart": 234.787,
+              "audioEnd": 238.637
+            },
+            {
+              "text": "Parents and teachers often tell this tale to help children understand the world.",
+              "audioStart": 239.5,
+              "audioEnd": 243.363
+            },
+            {
+              "text": "They want every young person to grow up with good knowledge about risks.",
+              "audioStart": 244.225,
+              "audioEnd": 247.65
+            },
+            {
+              "text": "If you listen to these old stories, you will make better decisions in the future.",
+              "audioStart": 248.512,
+              "audioEnd": 252.412
+            },
+            {
+              "text": "The memory of the two pots remains a powerful lesson for all of us today.",
+              "audioStart": 253.275,
+              "audioEnd": 258.203
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0250.mp3",
+      "wordTimings": "audio/b2/st-0250.timings.json",
+      "quiz": [
+        {
+          "q": "What were the two pots made of?",
+          "options": [
+            "Clay and metal",
+            "Wood and glass",
+            "Stone and iron"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the clay pot during the journey?",
+          "options": [
+            "It broke into pieces against a stone",
+            "It turned into metal",
+            "It swam faster than the metal pot"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who suggested the journey down the river?",
+          "options": [
+            "The clay pot",
+            "The metal pot",
+            "A river worker"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, beside the winding banks of a great and restless river, two vessels shared a quiet dwelling. One was fashioned from fragile earthenware, shaped by human hands and baked under the soft glow of an open fire. The other was forged from stern, unyielding metal, heavy with the dense weight of its own substance. Though they lived in close proximity, their natures could not have been more distinct. The earthen pot possessed a delicate beauty, light and graceful, yet acutely vulnerable to the slightest blow. The metal vessel stood proud and dark, indifferent to the common hazards that troubled its fragile companion.",
+              "audioStart": 0.1,
+              "audioEnd": 36.7
+            },
+            {
+              "text": "One particularly bright morning, when the sunlight danced across the glassy surface of the water, the metal pot cast its gaze toward the flowing stream. It proposed a grand adventure, suggesting that they embark on a long journey down the current to see the distant lands. The earthen vessel felt a sudden tremor of hesitation ripple through its hollow core. It knew too well that water was both its cradle and its executioner, capable of shattering its fragile shell with a single careless impact. Yet the metal pot pressed the invitation with absolute confidence, offering a solemn promise of protection. It vowed to remain close at hand, shielding its companion from every hazard the river might present.",
+              "audioStart": 37.562,
+              "audioEnd": 78.162
+            },
+            {
+              "text": "Reassured by this steadfast pledge, the earthen pot allowed itself to be coaxed toward the sloping bank. Together, they slid into the cool embrace of the current, abandoning the safety of the shore for the unpredictable depths. At first, the journey was a gentle pastoral dream. The river carried them forward with a smooth, benevolent grace, their rounded bodies bobbing in gentle synchronization across the sunlit ripples. The earthen pot began to shed its initial dread, lulled into a false sense of security by the tranquil rhythm of the voyage. It marvelled at the shifting landscape of green reeds and overhanging branches, believing fully in the protective shadow of its metallic friend.",
+              "audioStart": 79.025,
+              "audioEnd": 119.55
+            },
+            {
+              "text": "Not far downstream, however, the character of the river began to shift with subtle menace. The banks drew closer together, squeezing the vast volume of water into a narrow, stone choked gorge where the current quickened its pace. The gentle drift transformed into a turbulent rush, churning white against jagged boulders that broke the surface like the teeth of a sleeping beast. Panic seized the earthen pot as the water battered its sides with escalating fury. The metal pot, realizing the sudden peril, attempted to swim closer to fulfill its generous promise. Yet the heavy, rushing water drove a wedge between them, pushing the companions apart with merciless indifference.",
+              "audioStart": 120.412,
+              "audioEnd": 160.512
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Caught in the swirling vortex, the light earthen vessel was hurled violently toward a sharp, protruding rock. Because its material was fundamentally frail, the sudden and brutal impact proved catastrophic. In a fraction of a second, the earthen pot fractured into a multitude of useless shards, scattering across the churning foam. The metal pot could do nothing to arrest the tragedy unfolding before its eyes. It fought desperately against the current, striving to reach the spot where its companion had vanished, but it was already far too late. Burdened by its own dense composition and overwhelmed by the force of the water, the metal pot sank deep into the dark, silent depths, disappearing forever from the light of day.",
+              "audioStart": 161.375,
+              "audioEnd": 203.988
+            },
+            {
+              "text": "This ancient misfortune has echoed through generations, serving as a solemn reminder that unequal companionships carry inherent perils. If an individual lacks the fortitude to withstand adversity, that person must exercise extreme caution regarding whom they choose to trust. A wise person recognizes personal limitations with clear vision, steadfastly avoiding dangerous situations born of vanity or misplaced ambition. True security is never found in the grand promises of others, but rather in a sober understanding of one own capacity. For centuries, elders have shared this narrative with the young, ensuring that the lesson is learned before the storms of life arrive.",
+              "audioStart": 204.85,
+              "audioEnd": 245.995
+            },
+            {
+              "text": "Many families across the country adopted this tale as a cornerstone of early instruction. If the metal pot had not initiated the journey, the earthen vessel would have remained undisturbed in its safety. Yet the fatal flaw lay in the blind trust placed upon a promise that could not withstand the reality of the river. We are thus reminded of the danger of attempting to mimic the strength of those who are fundamentally different from ourselves. Powerful friends, no matter how sincere their intentions, may inadvertently create ruin for those whose constitution is far more delicate. Every school curriculum and domestic circle has echoed this wisdom to temper youthful recklessness.",
+              "audioStart": 246.857,
+              "audioEnd": 285.295
+            },
+            {
+              "text": "Consider once more the distinct properties of the two vessels that entered the stream. If the weaker pot had been forged from the same enduring metal, the narrative would have reached a very different conclusion. Both companions would have braved the churning rapids, emerging victorious at the mouth of the great river. Instead, the inherent weakness of the material crumbled beneath the relentless pressure of the heavy current. This event illustrates the undeniable truth that different beings possess vastly different capabilities. No one should ever attempt tasks that exceed the natural limits of their mind or body.",
+              "audioStart": 286.158,
+              "audioEnd": 320.957
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "To live a long and tranquil existence, one must actively avoid unnecessary hazards and alluring dangers. Prudent individuals invariably evaluate every circumstance with meticulous care before committing to a definitive path. When unexpected crises emerge, even the most loyal allies may prove powerless to intervene. Consequently, remaining within a sphere of safety alongside those who share one own level of strength is infinitely preferable. Parents and mentors continue to recount this parable to equip children with the discernment required for survival. They desire that every growing mind comprehends the delicate balance between aspiration and capacity.",
+              "audioStart": 321.82,
+              "audioEnd": 361.507
+            },
+            {
+              "text": "By listening attentively to these timeless traditions, individuals can navigate the treacherous currents of the future with greater wisdom. The memory of the two pots remains a potent symbol of consequence and reality. Life presents countless choices, demanding that every person selects companions who match their own physical and emotional fortitude. Those who fail to heed this guidance often find themselves overtaken by events they never anticipated. In the end, protection is not a gift bestowed by others, but an achievement rooted in self awareness.",
+              "audioStart": 362.37,
+              "audioEnd": 394.658
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0250.mp3",
+      "wordTimings": "audio/c1/st-0250.timings.json",
+      "quiz": [
+        {
+          "q": "What material was the smaller, easily broken pot made from?",
+          "options": [
+            "Metal",
+            "Earthenware",
+            "Stone"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What event caused the destruction of the fragile pot?",
+          "options": [
+            "It was hit by a sharp rock in the narrow part of the river.",
+            "It was dropped by a traveler on the riverbank.",
+            "It melted under the heat of the summer sun."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the metal pot at the end of the story?",
+          "options": [
+            "It reached the end of the journey safely alone.",
+            "It was pulled to the shore by local villagers.",
+            "It sank deep into the dark water and disappeared."
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  }
+}

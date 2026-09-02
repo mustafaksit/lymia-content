@@ -1,0 +1,1604 @@
+{
+  "id": "st-0231",
+  "title": "Twenty Thousand Leagues (tek epizod)",
+  "genre": "scifi",
+  "summary": "A small crew discovers a mysterious underwater vessel ruled by a silent, strange leader.",
+  "coverScene": "A large metal vessel travels under the blue sea while people look out of round windows at fish swimming past.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Many people talk about one thing.",
+              "audioStart": 0.106,
+              "audioEnd": 2.078
+            },
+            {
+              "text": "It moves in the water.",
+              "audioStart": 3.042,
+              "audioEnd": 4.319
+            },
+            {
+              "text": "A big group goes out.",
+              "audioStart": 5.278,
+              "audioEnd": 6.75
+            },
+            {
+              "text": "A man joins the work.",
+              "audioStart": 7.708,
+              "audioEnd": 9.194
+            },
+            {
+              "text": "He brings his friend.",
+              "audioStart": 10.153,
+              "audioEnd": 11.486
+            },
+            {
+              "text": "Something strikes the small group.",
+              "audioStart": 12.444,
+              "audioEnd": 14.264
+            },
+            {
+              "text": "Both men fall into the water.",
+              "audioStart": 15.222,
+              "audioEnd": 17.042
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man opens both eyes.",
+              "audioStart": 18,
+              "audioEnd": 19.75
+            },
+            {
+              "text": "He is in an old place.",
+              "audioStart": 20.708,
+              "audioEnd": 22.222
+            },
+            {
+              "text": "The name is Nautilus.",
+              "audioStart": 23.181,
+              "audioEnd": 24.528
+            },
+            {
+              "text": "The leader comes out.",
+              "audioStart": 25.486,
+              "audioEnd": 26.75
+            },
+            {
+              "text": "He lives under the water.",
+              "audioStart": 27.708,
+              "audioEnd": 29.125
+            },
+            {
+              "text": "The leader lets them walk.",
+              "audioStart": 30.083,
+              "audioEnd": 31.611
+            },
+            {
+              "text": "They see many rooms.",
+              "audioStart": 32.569,
+              "audioEnd": 33.931
+            },
+            {
+              "text": "Good things are there.",
+              "audioStart": 34.889,
+              "audioEnd": 36.042
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They go across large water.",
+              "audioStart": 37,
+              "audioEnd": 38.639
+            },
+            {
+              "text": "They see good things.",
+              "audioStart": 39.597,
+              "audioEnd": 40.931
+            },
+            {
+              "text": "They walk on the water land.",
+              "audioStart": 41.889,
+              "audioEnd": 43.5
+            },
+            {
+              "text": "Special things are on.",
+              "audioStart": 44.458,
+              "audioEnd": 45.861
+            },
+            {
+              "text": "Light comes from up.",
+              "audioStart": 46.819,
+              "audioEnd": 47.986
+            },
+            {
+              "text": "Water things pass big doors.",
+              "audioStart": 48.944,
+              "audioEnd": 50.944
+            },
+            {
+              "text": "The place moves forward.",
+              "audioStart": 51.903,
+              "audioEnd": 53.333
+            },
+            {
+              "text": "It feels like a pause.",
+              "audioStart": 54.292,
+              "audioEnd": 55.792
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The leader keeps many things.",
+              "audioStart": 56.75,
+              "audioEnd": 58.611
+            },
+            {
+              "text": "He never speaks about land.",
+              "audioStart": 59.569,
+              "audioEnd": 61.264
+            },
+            {
+              "text": "The place becomes very different.",
+              "audioStart": 62.222,
+              "audioEnd": 64.181
+            },
+            {
+              "text": "The leader seems very bad.",
+              "audioStart": 65.139,
+              "audioEnd": 66.833
+            },
+            {
+              "text": "He wants no people.",
+              "audioStart": 67.792,
+              "audioEnd": 69.083
+            },
+            {
+              "text": "His actions change bit by bit.",
+              "audioStart": 70.042,
+              "audioEnd": 72.111
+            },
+            {
+              "text": "The men feel not good.",
+              "audioStart": 73.069,
+              "audioEnd": 74.472
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One night, bad things come.",
+              "audioStart": 75.431,
+              "audioEnd": 77.431
+            },
+            {
+              "text": "Big water lines strike the place.",
+              "audioStart": 78.389,
+              "audioEnd": 80.583
+            },
+            {
+              "text": "The leader is occupied.",
+              "audioStart": 81.542,
+              "audioEnd": 83
+            },
+            {
+              "text": "The two men decide to go.",
+              "audioStart": 83.958,
+              "audioEnd": 85.597
+            },
+            {
+              "text": "They find a small boat.",
+              "audioStart": 86.556,
+              "audioEnd": 88
+            },
+            {
+              "text": "They leave the Nautilus behind.",
+              "audioStart": 88.958,
+              "audioEnd": 90.694
+            },
+            {
+              "text": "They reach home on land.",
+              "audioStart": 91.653,
+              "audioEnd": 93.069
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0231.mp3",
+      "wordTimings": "audio/a1/st-0231.timings.json",
+      "quiz": [
+        {
+          "q": "What falls into the sea?",
+          "options": [
+            "Two men",
+            "Captain Nemo",
+            "A big machine"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is the name of the vessel?",
+          "options": [
+            "Nautilus",
+            "Captain",
+            "Professor"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How do the men leave the submarine?",
+          "options": [
+            "In a small boat",
+            "On a big ship",
+            "With Captain Nemo"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Many people talked about a big animal in the water.",
+              "audioStart": 0.106,
+              "audioEnd": 2.828
+            },
+            {
+              "text": "Some men believed it was an animal.",
+              "audioStart": 3.792,
+              "audioEnd": 5.708
+            },
+            {
+              "text": "Others thought it was a machine.",
+              "audioStart": 6.667,
+              "audioEnd": 8.278
+            },
+            {
+              "text": "A large group went out to find the facts.",
+              "audioStart": 9.236,
+              "audioEnd": 11.75
+            },
+            {
+              "text": "A man joined the trip with his helper.",
+              "audioStart": 12.708,
+              "audioEnd": 14.847
+            },
+            {
+              "text": "They traveled for days on the water.",
+              "audioStart": 15.806,
+              "audioEnd": 17.722
+            },
+            {
+              "text": "Something hit their small car on the sea.",
+              "audioStart": 18.681,
+              "audioEnd": 20.917
+            },
+            {
+              "text": "Both men fell into the cold water.",
+              "audioStart": 21.875,
+              "audioEnd": 24
+            },
+            {
+              "text": "The man opened his eyes inside a huge place.",
+              "audioStart": 24.958,
+              "audioEnd": 27.833
+            },
+            {
+              "text": "The name of the place was Nautilus.",
+              "audioStart": 28.792,
+              "audioEnd": 30.764
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The leader appeared before them.",
+              "audioStart": 31.722,
+              "audioEnd": 33.375
+            },
+            {
+              "text": "He explained that he lived under the water.",
+              "audioStart": 34.333,
+              "audioEnd": 36.569
+            },
+            {
+              "text": "They were persons in the place.",
+              "audioStart": 37.528,
+              "audioEnd": 39.319
+            },
+            {
+              "text": "The leader allowed them to walk around the rooms.",
+              "audioStart": 40.278,
+              "audioEnd": 42.792
+            },
+            {
+              "text": "The man saw many things there.",
+              "audioStart": 43.75,
+              "audioEnd": 45.514
+            },
+            {
+              "text": "It made people study life in the water.",
+              "audioStart": 46.472,
+              "audioEnd": 48.667
+            },
+            {
+              "text": "They traveled across deep water.",
+              "audioStart": 49.625,
+              "audioEnd": 51.458
+            },
+            {
+              "text": "They saw good things.",
+              "audioStart": 52.417,
+              "audioEnd": 53.764
+            },
+            {
+              "text": "They walked on the dark floor of the sea.",
+              "audioStart": 54.722,
+              "audioEnd": 56.972
+            },
+            {
+              "text": "They wore special clothes.",
+              "audioStart": 57.931,
+              "audioEnd": 59.542
+            },
+            {
+              "text": "Light came from above them.",
+              "audioStart": 60.5,
+              "audioEnd": 61.958
+            },
+            {
+              "text": "Fish moved past large windows.",
+              "audioStart": 62.917,
+              "audioEnd": 65.069
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The machine moved forward without stopping.",
+              "audioStart": 66.028,
+              "audioEnd": 68.403
+            },
+            {
+              "text": "It felt like a dream.",
+              "audioStart": 69.361,
+              "audioEnd": 70.694
+            },
+            {
+              "text": "The leader kept many things out of view.",
+              "audioStart": 71.653,
+              "audioEnd": 73.833
+            },
+            {
+              "text": "He never spoke about his past life on land.",
+              "audioStart": 74.792,
+              "audioEnd": 77.444
+            },
+            {
+              "text": "Many days passed.",
+              "audioStart": 78.403,
+              "audioEnd": 79.75
+            },
+            {
+              "text": "The air inside became very dark.",
+              "audioStart": 80.708,
+              "audioEnd": 82.889
+            },
+            {
+              "text": "The leader seemed unhappy with the world.",
+              "audioStart": 83.847,
+              "audioEnd": 85.958
+            },
+            {
+              "text": "He wanted no relation to other people.",
+              "audioStart": 86.917,
+              "audioEnd": 89.236
+            },
+            {
+              "text": "His behavior changed past time.",
+              "audioStart": 90.194,
+              "audioEnd": 92.319
+            },
+            {
+              "text": "The man and his helper felt worried about this.",
+              "audioStart": 93.278,
+              "audioEnd": 95.944
+            },
+            {
+              "text": "They did not know what to do next.",
+              "audioStart": 96.903,
+              "audioEnd": 98.833
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One night, a bad wind came.",
+              "audioStart": 99.792,
+              "audioEnd": 101.875
+            },
+            {
+              "text": "The machine traveled near a bad part of the sea.",
+              "audioStart": 102.833,
+              "audioEnd": 105.417
+            },
+            {
+              "text": "Big water moved around them.",
+              "audioStart": 106.375,
+              "audioEnd": 107.986
+            },
+            {
+              "text": "The leader was busy with his work.",
+              "audioStart": 108.944,
+              "audioEnd": 110.833
+            },
+            {
+              "text": "The two men decided to leave.",
+              "audioStart": 111.792,
+              "audioEnd": 113.611
+            },
+            {
+              "text": "They found a small car to use.",
+              "audioStart": 114.569,
+              "audioEnd": 116.431
+            },
+            {
+              "text": "They left the Nautilus behind them.",
+              "audioStart": 117.389,
+              "audioEnd": 119.319
+            },
+            {
+              "text": "They reached land near the water.",
+              "audioStart": 120.278,
+              "audioEnd": 122.083
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0231.mp3",
+      "wordTimings": "audio/a2/st-0231.timings.json",
+      "quiz": [
+        {
+          "q": "What happened to the professor and his servant at the start?",
+          "options": [
+            "They fell into the cold sea.",
+            "They stayed on the first ship.",
+            "They ran away from the port."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What was the name of the metal vessel?",
+          "options": [
+            "Nautilus",
+            "Neptune",
+            "Nightingale"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the two men finally leave the submarine?",
+          "options": [
+            "They used a small boat.",
+            "Captain Nemo brought them to land.",
+            "The submarine broke on the shore."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Many people across the world talked about a strange animal moving quickly through water.",
+              "audioStart": 0.1,
+              "audioEnd": 4.263
+            },
+            {
+              "text": "Some workers believed it was a big fish, while others thought a machine had been built.",
+              "audioStart": 5.125,
+              "audioEnd": 9.412
+            },
+            {
+              "text": "A boat went out to find the truth.",
+              "audioStart": 10.275,
+              "audioEnd": 11.95
+            },
+            {
+              "text": "A professor joined the journey with his friend.",
+              "audioStart": 12.812,
+              "audioEnd": 15.025
+            },
+            {
+              "text": "They traveled for days until something hit their boat.",
+              "audioStart": 15.887,
+              "audioEnd": 18.387
+            },
+            {
+              "text": "Both men fell into the cold water.",
+              "audioStart": 19.25,
+              "audioEnd": 21.163
+            },
+            {
+              "text": "Many hours passed before they woke up on a strange ship.",
+              "audioStart": 22.025,
+              "audioEnd": 25.05
+            },
+            {
+              "text": "They had never seen anything like this wonderful metal machine before today.",
+              "audioStart": 25.913,
+              "audioEnd": 29.613
+            },
+            {
+              "text": "The car moved smoothly under the waves without making any sound.",
+              "audioStart": 30.475,
+              "audioEnd": 33.8
+            },
+            {
+              "text": "It seemed very unusual for such a huge structure to exist in the deep water.",
+              "audioStart": 34.663,
+              "audioEnd": 38.8
+            },
+            {
+              "text": "They wondered how people could build such a fine machine.",
+              "audioStart": 39.663,
+              "audioEnd": 42.175
+            },
+            {
+              "text": "Every part of the ship worked with great power.",
+              "audioStart": 43.038,
+              "audioEnd": 45.35
+            },
+            {
+              "text": "The professor felt both excited and worried about what would happen next.",
+              "audioStart": 46.212,
+              "audioEnd": 49.775
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the professor opened his eyes, he found himself inside a huge metal room called Nautilus.",
+              "audioStart": 50.638,
+              "audioEnd": 55.65
+            },
+            {
+              "text": "A man named Nemo appeared and explained he lived under water away from society.",
+              "audioStart": 56.513,
+              "audioEnd": 60.763
+            },
+            {
+              "text": "Although they were inside, the leader allowed them to walk around and see many rooms.",
+              "audioStart": 61.625,
+              "audioEnd": 65.85
+            },
+            {
+              "text": "The professor was shown wonderful equipment which made it possible to breathe and study local life.",
+              "audioStart": 66.713,
+              "audioEnd": 71.675
+            },
+            {
+              "text": "They learned how the machine cleaned air and created fresh water for everyone on board.",
+              "audioStart": 72.537,
+              "audioEnd": 76.675
+            },
+            {
+              "text": "The rooms were filled with books and scientific instruments from all over the world.",
+              "audioStart": 77.537,
+              "audioEnd": 81.5
+            },
+            {
+              "text": "Nemo showed them beautiful collections of sea items kept in glass cases.",
+              "audioStart": 82.362,
+              "audioEnd": 86.388
+            },
+            {
+              "text": "Each space was designed with great care and attention to detail.",
+              "audioStart": 87.25,
+              "audioEnd": 90.65
+            },
+            {
+              "text": "The professor spent hours looking at items he had only read about in books.",
+              "audioStart": 91.513,
+              "audioEnd": 95.425
+            },
+            {
+              "text": "His friend also enjoyed seeing the different things collected from deep water.",
+              "audioStart": 96.287,
+              "audioEnd": 100.05
+            },
+            {
+              "text": "They had already spent several days learning about how the ship operated.",
+              "audioStart": 100.912,
+              "audioEnd": 104.287
+            },
+            {
+              "text": "Everything inside felt like part of a strange and interesting dream.",
+              "audioStart": 105.15,
+              "audioEnd": 108.475
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During their time on the machine, they traveled across deep water and saw amazing things.",
+              "audioStart": 109.338,
+              "audioEnd": 114.088
+            },
+            {
+              "text": "They walked on the dark floor of the sea wearing special clothes.",
+              "audioStart": 114.95,
+              "audioEnd": 118.075
+            },
+            {
+              "text": "Bright light came from above to show them the path.",
+              "audioStart": 118.938,
+              "audioEnd": 121.375
+            },
+            {
+              "text": "Fishes swam past large glass windows as the boat moved forward without stopping.",
+              "audioStart": 122.237,
+              "audioEnd": 126.475
+            },
+            {
+              "text": "They observed strange plants and wonderful animals living in the dark water.",
+              "audioStart": 127.338,
+              "audioEnd": 131.05
+            },
+            {
+              "text": "The pressure was heavy, but their suits protected them from any danger.",
+              "audioStart": 131.912,
+              "audioEnd": 135.6
+            },
+            {
+              "text": "If anyone had asked them about the experience, they would have said it felt like something special.",
+              "audioStart": 136.463,
+              "audioEnd": 141.188
+            },
+            {
+              "text": "The beauty of the water world left both men completely quiet.",
+              "audioStart": 142.05,
+              "audioEnd": 145.35
+            },
+            {
+              "text": "They recorded notes about every new animal and plant they encountered.",
+              "audioStart": 146.213,
+              "audioEnd": 149.575
+            },
+            {
+              "text": "Days turned into weeks while they explored places no human had ever visited.",
+              "audioStart": 150.438,
+              "audioEnd": 154.3
+            },
+            {
+              "text": "The journey felt long as they moved from one deep region to another.",
+              "audioStart": 155.162,
+              "audioEnd": 158.438
+            },
+            {
+              "text": "They had never imagined that such a wonderful world existed under the waves.",
+              "audioStart": 159.3,
+              "audioEnd": 163.088
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "However, Nemo kept many secrets and never spoke about his past life on land.",
+              "audioStart": 163.95,
+              "audioEnd": 168.512
+            },
+            {
+              "text": "Days passed, and the atmosphere inside the machine became very strange and dark.",
+              "audioStart": 169.375,
+              "audioEnd": 173.688
+            },
+            {
+              "text": "The leader seemed angry with the world, and he wanted no connection to other people.",
+              "audioStart": 174.55,
+              "audioEnd": 178.65
+            },
+            {
+              "text": "His behavior changed slowly, which made the professor and his friend feel worried about the future.",
+              "audioStart": 179.512,
+              "audioEnd": 184.688
+            },
+            {
+              "text": "They noticed that Nemo avoided talking to them for long periods of time.",
+              "audioStart": 185.55,
+              "audioEnd": 189.35
+            },
+            {
+              "text": "The man often stared through the large windows into the empty dark water.",
+              "audioStart": 190.213,
+              "audioEnd": 193.8
+            },
+            {
+              "text": "His feeling grew colder with each passing day inside the metal ship.",
+              "audioStart": 194.662,
+              "audioEnd": 198.15
+            },
+            {
+              "text": "The professor tried to speak with him, but the man walked away without answering.",
+              "audioStart": 199.012,
+              "audioEnd": 203.05
+            },
+            {
+              "text": "They realized something was very wrong with the mind of their host.",
+              "audioStart": 203.912,
+              "audioEnd": 207.062
+            },
+            {
+              "text": "Fear began to grow inside their hearts as they watched his strange actions.",
+              "audioStart": 207.925,
+              "audioEnd": 211.713
+            },
+            {
+              "text": "They knew they could not stay in this place anymore.",
+              "audioStart": 212.575,
+              "audioEnd": 214.85
+            },
+            {
+              "text": "Plans for an escape started to form in their minds.",
+              "audioStart": 215.713,
+              "audioEnd": 218.3
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One night, a bad storm came.",
+              "audioStart": 219.162,
+              "audioEnd": 221.1
+            },
+            {
+              "text": "The boat traveled near a dangerous part of the water.",
+              "audioStart": 221.963,
+              "audioEnd": 224.45
+            },
+            {
+              "text": "The professor watched through a window as big waves hit the water around them.",
+              "audioStart": 225.312,
+              "audioEnd": 229.05
+            },
+            {
+              "text": "While the captain was busy, the two men decided that they must escape from the machine.",
+              "audioStart": 229.912,
+              "audioEnd": 234.188
+            },
+            {
+              "text": "They gathered some food and essential items for their dangerous journey ahead.",
+              "audioStart": 235.05,
+              "audioEnd": 238.725
+            },
+            {
+              "text": "They found a small boat.",
+              "audioStart": 239.588,
+              "audioEnd": 240.85
+            },
+            {
+              "text": "They left the Nautilus behind.",
+              "audioStart": 241.713,
+              "audioEnd": 243.35
+            },
+            {
+              "text": "They finally reached safety on a nearby land.",
+              "audioStart": 244.213,
+              "audioEnd": 246.65
+            },
+            {
+              "text": "The waves were huge, but they fought hard to keep the small boat moving forward.",
+              "audioStart": 247.512,
+              "audioEnd": 251.537
+            },
+            {
+              "text": "After hours of struggle, their small boat finally touched the land of an island.",
+              "audioStart": 252.4,
+              "audioEnd": 257.878
+            },
+            {
+              "text": "They looked back at the dark water where the metal ship had disappeared.",
+              "audioStart": 258.74,
+              "audioEnd": 262.041
+            },
+            {
+              "text": "Both men felt deeply thankful that they had survived the bad event.",
+              "audioStart": 262.903,
+              "audioEnd": 266.24
+            },
+            {
+              "text": "They knew they would always remember their great journey under the sea.",
+              "audioStart": 267.103,
+              "audioEnd": 270.115
+            },
+            {
+              "text": "If anyone asked them about it, they would tell the true story.",
+              "audioStart": 270.978,
+              "audioEnd": 273.99
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0231.mp3",
+      "wordTimings": "audio/b1/st-0231.timings.json",
+      "quiz": [
+        {
+          "q": "What happened to the professor and his servant after something hit their boat?",
+          "options": [
+            "They fell into the cold sea.",
+            "They swam back to land immediately.",
+            "They stayed on the ship and sailed home."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What was the name of the huge metal vessel they found themselves inside?",
+          "options": [
+            "Nautilus",
+            "Ocean",
+            "Captain"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the professor and his servant escape from the submarine?",
+          "options": [
+            "They used a small boat during a storm.",
+            "They swam away while the captain slept.",
+            "The captain let them go free on land."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Many people across the world talked about a strange creature that moved quickly through the water.",
+              "audioStart": 0.1,
+              "audioEnd": 4.675
+            },
+            {
+              "text": "Some individuals believed that it was a big animal, while others thought that a machine had been built by someone.",
+              "audioStart": 5.537,
+              "audioEnd": 10.963
+            },
+            {
+              "text": "A ship went out to find the truth, and a professor joined the journey with his servant.",
+              "audioStart": 11.825,
+              "audioEnd": 16.113
+            },
+            {
+              "text": "They traveled for days until something hit their boat, and both men fell into the cold sea.",
+              "audioStart": 16.975,
+              "audioEnd": 21.55
+            },
+            {
+              "text": "The water was very deep, and the waves were high around them.",
+              "audioStart": 22.413,
+              "audioEnd": 25.425
+            },
+            {
+              "text": "They tried to stay alive while the ship moved far away.",
+              "audioStart": 26.288,
+              "audioEnd": 29
+            },
+            {
+              "text": "The professor felt afraid as he swam in the dark ocean.",
+              "audioStart": 29.863,
+              "audioEnd": 32.712
+            },
+            {
+              "text": "His servant helped him stay calm during those difficult moments.",
+              "audioStart": 33.575,
+              "audioEnd": 36.75
+            },
+            {
+              "text": "They watched the empty space and hoped that someone would come to help them soon.",
+              "audioStart": 37.612,
+              "audioEnd": 41.275
+            },
+            {
+              "text": "Neither man knew what would happen next in this dangerous place.",
+              "audioStart": 42.138,
+              "audioEnd": 45.325
+            },
+            {
+              "text": "However, they managed to stay alive until the morning light appeared above the surface.",
+              "audioStart": 46.188,
+              "audioEnd": 50.538
+            },
+            {
+              "text": "The water was extremely cold, but they kept swimming together.",
+              "audioStart": 51.4,
+              "audioEnd": 54.7
+            },
+            {
+              "text": "They did not want to die in the middle of the large ocean.",
+              "audioStart": 55.562,
+              "audioEnd": 58.1
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the professor opened his eyes, he found himself inside a huge metal vessel called Nautilus.",
+              "audioStart": 58.962,
+              "audioEnd": 64.138
+            },
+            {
+              "text": "A man named Captain Nemo appeared and explained that he lived under the water away from society.",
+              "audioStart": 65,
+              "audioEnd": 69.825
+            },
+            {
+              "text": "Although they were prisoners, the commander allowed them to walk around and see many rooms.",
+              "audioStart": 70.688,
+              "audioEnd": 75.138
+            },
+            {
+              "text": "The professor was shown wonderful equipment which made it possible to breathe and study ocean life.",
+              "audioStart": 76,
+              "audioEnd": 80.963
+            },
+            {
+              "text": "The rooms were bright and filled with books and scientific instruments.",
+              "audioStart": 81.825,
+              "audioEnd": 85.237
+            },
+            {
+              "text": "Every single wall was made of strong metal to protect the vessel from the heavy pressure.",
+              "audioStart": 86.1,
+              "audioEnd": 90.5
+            },
+            {
+              "text": "The commander spoke very little about his life before he came to the ocean.",
+              "audioStart": 91.362,
+              "audioEnd": 95.138
+            },
+            {
+              "text": "He showed them how the machine worked and how they moved without any trouble.",
+              "audioStart": 96,
+              "audioEnd": 99.388
+            },
+            {
+              "text": "The professor wrote notes about everything he saw inside the vessel.",
+              "audioStart": 100.25,
+              "audioEnd": 103.625
+            },
+            {
+              "text": "His servant was also amazed by the strange and beautiful environment.",
+              "audioStart": 104.487,
+              "audioEnd": 107.875
+            },
+            {
+              "text": "They spent hours looking at the wonderful things that the commander kept in the rooms.",
+              "audioStart": 108.737,
+              "audioEnd": 112.75
+            },
+            {
+              "text": "Each room had many interesting items that told stories of past years.",
+              "audioStart": 113.612,
+              "audioEnd": 117.438
+            },
+            {
+              "text": "The metal walls were strong enough to keep the water outside.",
+              "audioStart": 118.3,
+              "audioEnd": 121.2
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During their time on the vessel, they traveled across deep oceans and saw amazing things.",
+              "audioStart": 122.062,
+              "audioEnd": 126.925
+            },
+            {
+              "text": "They walked on the dark floor of the sea wearing special suits while light shone from above.",
+              "audioStart": 127.787,
+              "audioEnd": 132.1
+            },
+            {
+              "text": "Fishes swam past the large glass windows as the machine moved forward without stopping.",
+              "audioStart": 132.963,
+              "audioEnd": 137.575
+            },
+            {
+              "text": "If anyone had asked them about the experience, they would have said that it felt like a dream.",
+              "audioStart": 138.438,
+              "audioEnd": 142.9
+            },
+            {
+              "text": "The creatures of the deep ocean were unlike anything they had ever seen before.",
+              "audioStart": 143.762,
+              "audioEnd": 147.588
+            },
+            {
+              "text": "Some fish shined in the dark water, while others moved very quickly away from the light.",
+              "audioStart": 148.45,
+              "audioEnd": 152.988
+            },
+            {
+              "text": "The professor took notes on every new plant and animal they passed.",
+              "audioStart": 153.85,
+              "audioEnd": 157.338
+            },
+            {
+              "text": "The servant watched the small fishes with great interest and smiled.",
+              "audioStart": 158.2,
+              "audioEnd": 161.525
+            },
+            {
+              "text": "They felt that they were part of a secret world that nobody else knew about.",
+              "audioStart": 162.387,
+              "audioEnd": 165.838
+            },
+            {
+              "text": "The journey continued for many weeks without any major problems.",
+              "audioStart": 166.7,
+              "audioEnd": 170.075
+            },
+            {
+              "text": "They crossed several regions of the ocean and saw wonderful mountain regions beneath the sea.",
+              "audioStart": 170.938,
+              "audioEnd": 175.588
+            },
+            {
+              "text": "They saw many strange plants that grew on the sea floor.",
+              "audioStart": 176.45,
+              "audioEnd": 179.275
+            },
+            {
+              "text": "The light from their suits showed colors that were very bright.",
+              "audioStart": 180.137,
+              "audioEnd": 183
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "However, Captain Nemo kept many secrets and never spoke about his past life on land.",
+              "audioStart": 183.863,
+              "audioEnd": 188.912
+            },
+            {
+              "text": "Days passed, and the atmosphere inside the vessel became very strange and dark.",
+              "audioStart": 189.775,
+              "audioEnd": 194.113
+            },
+            {
+              "text": "The commander seemed angry with the world, and he wanted no connection to other people.",
+              "audioStart": 194.975,
+              "audioEnd": 199.287
+            },
+            {
+              "text": "His behavior changed slowly, which made the professor and his servant feel worried about the future.",
+              "audioStart": 200.15,
+              "audioEnd": 205.338
+            },
+            {
+              "text": "Sometimes the commander stayed in his room for days without speaking to anyone.",
+              "audioStart": 206.2,
+              "audioEnd": 210.075
+            },
+            {
+              "text": "The professor tried to talk to him, but the man refused to answer questions.",
+              "audioStart": 210.938,
+              "audioEnd": 215.125
+            },
+            {
+              "text": "The servant noticed that the mood of their host was getting worse every day.",
+              "audioStart": 215.988,
+              "audioEnd": 219.412
+            },
+            {
+              "text": "They wondered what had caused the commander to hate society so much.",
+              "audioStart": 220.275,
+              "audioEnd": 223.7
+            },
+            {
+              "text": "The silence inside the metal rooms grew heavy and difficult to bear.",
+              "audioStart": 224.562,
+              "audioEnd": 227.988
+            },
+            {
+              "text": "Both men knew that they could not stay in this place forever.",
+              "audioStart": 228.85,
+              "audioEnd": 231.7
+            },
+            {
+              "text": "They began to plan how they might leave the vessel and return to their normal lives.",
+              "audioStart": 232.562,
+              "audioEnd": 236.488
+            },
+            {
+              "text": "The tension inside the vessel grew every single day.",
+              "audioStart": 237.35,
+              "audioEnd": 240.037
+            },
+            {
+              "text": "They needed to find a way out before something bad happened.",
+              "audioStart": 240.9,
+              "audioEnd": 243.675
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One night, a terrible wind blew while the vessel sailed near a dangerous part of the ocean.",
+              "audioStart": 244.537,
+              "audioEnd": 250.238
+            },
+            {
+              "text": "The professor watched through a window as big waves hit the water around them.",
+              "audioStart": 251.1,
+              "audioEnd": 254.838
+            },
+            {
+              "text": "While the commander was busy, the two men decided that they must escape from the large vessel.",
+              "audioStart": 255.7,
+              "audioEnd": 260.337
+            },
+            {
+              "text": "They found a small boat, left the Nautilus behind, and finally reached safety on a nearby shore.",
+              "audioStart": 261.2,
+              "audioEnd": 266.575
+            },
+            {
+              "text": "The rain fell heavily as they pulled the small boat onto the dry land.",
+              "audioStart": 267.438,
+              "audioEnd": 270.775
+            },
+            {
+              "text": "They looked back at the dark ocean where the strange vessel had disappeared.",
+              "audioStart": 271.637,
+              "audioEnd": 275.113
+            },
+            {
+              "text": "Both men felt very tired, but they were happy to be alive and free again.",
+              "audioStart": 275.975,
+              "audioEnd": 279.975
+            },
+            {
+              "text": "They walked along the coast until they found a small town with friendly people.",
+              "audioStart": 280.837,
+              "audioEnd": 284.525
+            },
+            {
+              "text": "The professor told everyone about his amazing journey under the sea.",
+              "audioStart": 285.387,
+              "audioEnd": 288.775
+            },
+            {
+              "text": "Although nobody believed his story at first, he knew that every single word was true.",
+              "audioStart": 289.637,
+              "audioEnd": 294
+            },
+            {
+              "text": "He and his servant took a train back home and never forgot their amazing adventure.",
+              "audioStart": 294.863,
+              "audioEnd": 298.887
+            },
+            {
+              "text": "They were finally safe after so many weeks under the water.",
+              "audioStart": 299.75,
+              "audioEnd": 302.788
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0231.mp3",
+      "wordTimings": "audio/b2/st-0231.timings.json",
+      "quiz": [
+        {
+          "q": "What happened to the professor and his servant at the beginning of the story?",
+          "options": [
+            "They fell into the sea after their ship was hit.",
+            "They bought a ticket to ride on the Nautilus.",
+            "They found the submarine washed up on a beach."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who was the leader of the Nautilus?",
+          "options": [
+            "A friendly king who loved visitors",
+            "Captain Nemo, who lived away from society",
+            "A professor from a famous college"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the professor and his servant finally leave the submarine?",
+          "options": [
+            "They took a small boat during a storm and reached the shore.",
+            "Captain Nemo asked them to leave because the journey was finished.",
+            "The submarine crashed into land and broke apart."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Whispers had traversed the maritime world regarding an anomalous entity cutting through the abyss with terrifying velocity.",
+              "audioStart": 0.1,
+              "audioEnd": 6.125
+            },
+            {
+              "text": "While the superstitious attributed the phenomenon to some leviathan of the deep, pragmatic minds suspected the craftsmanship of an unknown inventor.",
+              "audioStart": 6.987,
+              "audioEnd": 14.6
+            },
+            {
+              "text": "Driven by an insatiable hunger for empirical truth, an expeditionary vessel set forth to intercept the moving shadow.",
+              "audioStart": 15.463,
+              "audioEnd": 22.163
+            },
+            {
+              "text": "A renowned professor and his loyal servant joined the scientific crew, hoping to illuminate what science had long kept in darkness.",
+              "audioStart": 23.025,
+              "audioEnd": 30.15
+            },
+            {
+              "text": "Weeks bled into one another as the ship patrolled the rolling waves, searching the horizon for any sign of the elusive marvel.",
+              "audioStart": 31.012,
+              "audioEnd": 37.587
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Without warning, a colossal impact shattered the quiet night, throwing the vessel into absolute chaos.",
+              "audioStart": 38.45,
+              "audioEnd": 44.25
+            },
+            {
+              "text": "The violent collision cast both the professor and his faithful servant headlong into the freezing, fathomless expanse of the ocean.",
+              "audioStart": 45.112,
+              "audioEnd": 52.1
+            },
+            {
+              "text": "Surrounded by towering waves, they watched helplessly as their ship receded into the distance, swallowed by the nocturnal fog.",
+              "audioStart": 52.962,
+              "audioEnd": 59.675
+            },
+            {
+              "text": "Terror gripped the professor's chest as the dark water threatened to drag him down into its freezing depths.",
+              "audioStart": 60.538,
+              "audioEnd": 65.763
+            },
+            {
+              "text": "Displaying remarkable composure, the servant anchored his master's fears and helped him stay afloat against the punishing tide.",
+              "audioStart": 66.625,
+              "audioEnd": 73.2
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Scanning the empty horizon, neither man dared to voice the grim reality of their precarious survival.",
+              "audioStart": 74.062,
+              "audioEnd": 79.537
+            },
+            {
+              "text": "They endured the agonizing hours by maintaining a steady rhythm of survival, fighting the numbness creeping through their limbs.",
+              "audioStart": 80.4,
+              "audioEnd": 86.725
+            },
+            {
+              "text": "Just as exhaustion threatened to claim them entirely, the faint, bruised light of dawn broke across the water's surface.",
+              "audioStart": 87.588,
+              "audioEnd": 93.862
+            },
+            {
+              "text": "The biting cold remained relentless, yet the sheer instinct to draw another breath fueled their desperate endurance.",
+              "audioStart": 94.725,
+              "audioEnd": 100.412
+            },
+            {
+              "text": "They refused to surrender to the vast, indifferent ocean, clinging tenaciously to life until rescue presented itself in a most unexpected form.",
+              "audioStart": 101.275,
+              "audioEnd": 109.263
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When consciousness finally returned to the professor, he found himself enclosed within the vaulted metallic hull of an extraordinary vessel called the Nautilus.",
+              "audioStart": 110.125,
+              "audioEnd": 118.375
+            },
+            {
+              "text": "A stern, enigmatic figure named Captain Nemo appeared, explaining that he had severed all ties with humanity to dwell beneath the waves.",
+              "audioStart": 119.237,
+              "audioEnd": 126.912
+            },
+            {
+              "text": "Although effectively prisoners, the two men were granted unexpected freedom to traverse the magnificent chambers of the submarine.",
+              "audioStart": 127.775,
+              "audioEnd": 134.35
+            },
+            {
+              "text": "The professor marvelled at the advanced apparatus designed for deep-sea exploration and artificial respiration.",
+              "audioStart": 135.213,
+              "audioEnd": 141
+            },
+            {
+              "text": "Every chamber glowed with soft, ambient light, lined with exhaustive libraries and precision scientific instruments that defied contemporary engineering.",
+              "audioStart": 141.863,
+              "audioEnd": 149.963
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Thick plates of reinforced metal formed the impenetrable walls, engineered to withstand the crushing pressure of the deep ocean.",
+              "audioStart": 150.825,
+              "audioEnd": 157.35
+            },
+            {
+              "text": "Captain Nemo offered only sparse hints regarding his past existence before he retreated permanently into the silent kingdom of the sea.",
+              "audioStart": 158.213,
+              "audioEnd": 165.225
+            },
+            {
+              "text": "With quiet pride, the commander demonstrated how the ingenious propulsion system allowed the vessel to glide effortlessly through the currents.",
+              "audioStart": 166.088,
+              "audioEnd": 173.188
+            },
+            {
+              "text": "Seizing every available moment, the professor meticulously recorded his observations in a leather-bound journal.",
+              "audioStart": 174.05,
+              "audioEnd": 179.975
+            },
+            {
+              "text": "His servant shared in the profound wonder, gazing at the eclectic collection of artefacts that lined the walls of the subterranean refuge.",
+              "audioStart": 180.838,
+              "audioEnd": 187.95
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During the ensuing weeks, the Nautilus plunged deeper into the pelagic zones, revealing sights beyond human imagination.",
+              "audioStart": 188.812,
+              "audioEnd": 195.675
+            },
+            {
+              "text": "Donning heavy diving gear, the men walked upon the primordial sea floor while shafts of artificial light pierced the perpetual gloom.",
+              "audioStart": 196.537,
+              "audioEnd": 203.488
+            },
+            {
+              "text": "Bioluminescent fish darted past massive observation windows as the vessel advanced with silent, mechanical grace.",
+              "audioStart": 204.35,
+              "audioEnd": 211.025
+            },
+            {
+              "text": "The sheer scale of the underwater topography surpassed any terrestrial mountain range the professor had ever studied.",
+              "audioStart": 211.887,
+              "audioEnd": 217.787
+            },
+            {
+              "text": "Every square metre of the ocean floor teemed with exotic flora that shimmered in the wash of their diving lamps.",
+              "audioStart": 218.65,
+              "audioEnd": 224.113
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Had any observer witnessed the vibrant hues of the deep-sea gardens, they would have doubted the sobriety of their own senses.",
+              "audioStart": 224.975,
+              "audioEnd": 231.238
+            },
+            {
+              "text": "The professor catalogued innumerable species, marvelling at the delicate balance of an ecosystem untouched by human interference.",
+              "audioStart": 232.1,
+              "audioEnd": 239.2
+            },
+            {
+              "text": "His servant watched the darting schools of translucent fish with a childlike fascination, temporarily forgetting their captivity.",
+              "audioStart": 240.062,
+              "audioEnd": 248.025
+            },
+            {
+              "text": "For a fleeting period, the relentless momentum of the journey fostered a strange sense of belonging to this secret subterranean realm.",
+              "audioStart": 248.888,
+              "audioEnd": 255.563
+            },
+            {
+              "text": "No mechanical failures interrupted their voyage as they traversed deep oceanic trenches and vast submerged plains.",
+              "audioStart": 256.425,
+              "audioEnd": 262.7
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Yet beneath the veneer of scientific wonder, Captain Nemo remained an island of impenetrable silence and growing bitterness.",
+              "audioStart": 263.563,
+              "audioEnd": 270.313
+            },
+            {
+              "text": "As days accumulated, a heavy, oppressive atmosphere descended upon the interior of the vessel.",
+              "audioStart": 271.175,
+              "audioEnd": 276.438
+            },
+            {
+              "text": "The commander exhibited unmistakable signs of misanthropy, retreating into prolonged periods of isolation within his private quarters.",
+              "audioStart": 277.3,
+              "audioEnd": 284.613
+            },
+            {
+              "text": "Attempts by the professor to engage him in scholarly discourse were met with cold indifference or outright refusal.",
+              "audioStart": 285.476,
+              "audioEnd": 291.338
+            },
+            {
+              "text": "The servant observed the progressive darkening of their host's disposition with mounting apprehension about what lay ahead.",
+              "audioStart": 292.2,
+              "audioEnd": 297.888
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A palpable tension settled over the metal corridors, making the luxurious rooms feel increasingly like a cage.",
+              "audioStart": 298.75,
+              "audioEnd": 304.938
+            },
+            {
+              "text": "Both men realized that remaining indefinitely within the confines of the Nautilus meant surrendering their autonomy forever.",
+              "audioStart": 305.8,
+              "audioEnd": 311.901
+            },
+            {
+              "text": "Whispered consultations turned into concrete plans as they sought a viable method to reclaim their normal lives above water.",
+              "audioStart": 312.763,
+              "audioEnd": 319.163
+            },
+            {
+              "text": "The silence of their captor only accelerated their determination to sever ties with the enigmatic commander.",
+              "audioStart": 320.026,
+              "audioEnd": 325.675
+            },
+            {
+              "text": "They waited for a moment of distraction, knowing that failure would likely cost them any chance of seeing the sunlit world again.",
+              "audioStart": 326.538,
+              "audioEnd": 333.026
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The opportunity arrived on a turbulent night when a violent tempest battered the surface of the sea.",
+              "audioStart": 333.888,
+              "audioEnd": 338.875
+            },
+            {
+              "text": "Through the thick glass porthole, the professor watched monstrous waves crash against the hull while the crew remained occupied.",
+              "audioStart": 339.738,
+              "audioEnd": 346.026
+            },
+            {
+              "text": "Seizing the cover of the raging storm, the two men located a small auxiliary skiff attached to the vessel's lower hatch.",
+              "audioStart": 346.888,
+              "audioEnd": 353.351
+            },
+            {
+              "text": "They slipped away from the Nautilus into the churning darkness, trusting their fate to the fury of the storm.",
+              "audioStart": 354.213,
+              "audioEnd": 359.388
+            },
+            {
+              "text": "Heavy rain lashed down as their small boat finally grated against the solid earth of a desolate coastline.",
+              "audioStart": 360.25,
+              "audioEnd": 365.825
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Looking back toward the dark expanse of the ocean, they knew the strange vessel had already vanished into the abyss.",
+              "audioStart": 366.688,
+              "audioEnd": 372.526
+            },
+            {
+              "text": "Overwhelmed by exhaustion yet flooded with relief, they embraced the sweet certainty of their restored freedom.",
+              "audioStart": 373.388,
+              "audioEnd": 378.825
+            },
+            {
+              "text": "They walked along the desolate shore until they reached a modest coastal village inhabited by kind-hearted locals.",
+              "audioStart": 379.688,
+              "audioEnd": 385.401
+            },
+            {
+              "text": "When the professor recounted his subterranean odyssey, the villagers listened with polite skepticism rather than belief.",
+              "audioStart": 386.263,
+              "audioEnd": 392.45
+            },
+            {
+              "text": "Unbothered by their doubt, he and his servant boarded a train homeward, carrying memories that would define the rest of their days.",
+              "audioStart": 393.313,
+              "audioEnd": 399.663
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0231.mp3",
+      "wordTimings": "audio/c1/st-0231.timings.json",
+      "quiz": [
+        {
+          "q": "What initial event separated the professor and his servant from their original ship?",
+          "options": [
+            "A violent collision with the Nautilus",
+            "A severe storm that damaged the mast",
+            "A mutiny among the ship's crew"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did Captain Nemo generally treat the professor and his servant during their time on the vessel?",
+          "options": [
+            "He kept them locked in a dark cell without food.",
+            "He allowed them to walk around and view the rooms.",
+            "He forced them to work as mechanics on the submarine."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the professor and his servant finally escape from the Nautilus?",
+          "options": [
+            "They stole a small boat during a storm.",
+            "Captain Nemo released them after a long conversation.",
+            "They swam ashore while the vessel was docked."
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  }
+}

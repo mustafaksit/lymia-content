@@ -1,0 +1,1527 @@
+{
+  "id": "st-0144",
+  "title": "The Celebrated Jumping Frog",
+  "genre": "daily",
+  "summary": "Jim Smiley trains a special jumping frog, but a stranger makes a secret plan.",
+  "coverScene": "A curious old man sitting on a wooden chair outside a dusty country bar while holding a small green frog in his hand.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "An old man sits with me.",
+              "audioStart": 0.106,
+              "audioEnd": 1.689
+            },
+            {
+              "text": "He tells a long story.",
+              "audioStart": 2.653,
+              "audioEnd": 4.208
+            },
+            {
+              "text": "His name is Jim Smiley.",
+              "audioStart": 5.167,
+              "audioEnd": 6.792
+            },
+            {
+              "text": "Smiley plays games on everything.",
+              "audioStart": 7.75,
+              "audioEnd": 9.861
+            },
+            {
+              "text": "He plays on running things.",
+              "audioStart": 10.819,
+              "audioEnd": 12.542
+            },
+            {
+              "text": "He plays on small things too.",
+              "audioStart": 13.5,
+              "audioEnd": 15.389
+            },
+            {
+              "text": "Smiley finds one little thing.",
+              "audioStart": 16.347,
+              "audioEnd": 18.264
+            },
+            {
+              "text": "He names him Dan'l Webster.",
+              "audioStart": 19.222,
+              "audioEnd": 21.014
+            },
+            {
+              "text": "He trains the thing every day.",
+              "audioStart": 21.972,
+              "audioEnd": 23.764
+            },
+            {
+              "text": "Dan'l goes higher than any thing.",
+              "audioStart": 24.722,
+              "audioEnd": 26.792
+            },
+            {
+              "text": "Smiley keeps him in a small place.",
+              "audioStart": 27.75,
+              "audioEnd": 29.944
+            },
+            {
+              "text": "Smiley loves his little thing.",
+              "audioStart": 30.903,
+              "audioEnd": 32.764
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One person comes to see them.",
+              "audioStart": 33.722,
+              "audioEnd": 35.5
+            },
+            {
+              "text": "Smiley talks about his thing.",
+              "audioStart": 36.458,
+              "audioEnd": 38.264
+            },
+            {
+              "text": "The person looks at the thing.",
+              "audioStart": 39.222,
+              "audioEnd": 40.833
+            },
+            {
+              "text": "He does not believe Smiley.",
+              "audioStart": 41.792,
+              "audioEnd": 43.417
+            },
+            {
+              "text": "He wants to make a play.",
+              "audioStart": 44.375,
+              "audioEnd": 45.875
+            },
+            {
+              "text": "Smiley goes to find another thing.",
+              "audioStart": 46.833,
+              "audioEnd": 48.903
+            },
+            {
+              "text": "The person has a bad plan.",
+              "audioStart": 49.861,
+              "audioEnd": 51.611
+            },
+            {
+              "text": "He puts much lead into Dan'l.",
+              "audioStart": 52.569,
+              "audioEnd": 54.431
+            },
+            {
+              "text": "He puts the thing back down.",
+              "audioStart": 55.389,
+              "audioEnd": 57.069
+            },
+            {
+              "text": "Then the person waits there.",
+              "audioStart": 58.028,
+              "audioEnd": 59.625
+            },
+            {
+              "text": "Smiley comes back with a thing.",
+              "audioStart": 60.583,
+              "audioEnd": 62.458
+            },
+            {
+              "text": "Both things are on the land.",
+              "audioStart": 63.417,
+              "audioEnd": 65.028
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The new thing goes away fast.",
+              "audioStart": 65.986,
+              "audioEnd": 67.792
+            },
+            {
+              "text": "Sad Dan'l cannot move at all.",
+              "audioStart": 68.75,
+              "audioEnd": 70.722
+            },
+            {
+              "text": "The big lead stops him.",
+              "audioStart": 71.681,
+              "audioEnd": 73.194
+            },
+            {
+              "text": "The person takes the money away.",
+              "audioStart": 74.153,
+              "audioEnd": 76
+            },
+            {
+              "text": "Smiley finds the bad plan late.",
+              "audioStart": 76.958,
+              "audioEnd": 79.056
+            },
+            {
+              "text": "He looks at the sad thing.",
+              "audioStart": 80.014,
+              "audioEnd": 81.5
+            },
+            {
+              "text": "He tries to reach the person.",
+              "audioStart": 82.458,
+              "audioEnd": 84.208
+            },
+            {
+              "text": "The man is already far away.",
+              "audioStart": 85.167,
+              "audioEnd": 87.028
+            },
+            {
+              "text": "Smiley sits still with his problem.",
+              "audioStart": 87.986,
+              "audioEnd": 90.056
+            },
+            {
+              "text": "He thinks about the bad day.",
+              "audioStart": 91.014,
+              "audioEnd": 92.667
+            },
+            {
+              "text": "He still loves his little thing.",
+              "audioStart": 93.625,
+              "audioEnd": 95.444
+            },
+            {
+              "text": "The story ends right here.",
+              "audioStart": 96.403,
+              "audioEnd": 97.931
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0144.mp3",
+      "wordTimings": "audio/a1/st-0144.timings.json",
+      "quiz": [
+        {
+          "q": "What is the name of Smiley's jumping frog?",
+          "options": [
+            "Dan'l Webster",
+            "Jim Smiley",
+            "The stranger"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the stranger put inside Dan'l Webster?",
+          "options": [
+            "Heavy lead",
+            "Small stones",
+            "Water"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why does Dan'l Webster fail to jump?",
+          "options": [
+            "He is too heavy",
+            "He runs away",
+            "He is sleeping"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "An old man sat close to me one afternoon.",
+              "audioStart": 0.106,
+              "audioEnd": 2.758
+            },
+            {
+              "text": "He had a long story to tell about Jim Smiley.",
+              "audioStart": 3.722,
+              "audioEnd": 6.556
+            },
+            {
+              "text": "Smiley would pay money on anything.",
+              "audioStart": 7.514,
+              "audioEnd": 9.542
+            },
+            {
+              "text": "If a dog ran, Smiley paid on it.",
+              "audioStart": 10.5,
+              "audioEnd": 12.833
+            },
+            {
+              "text": "If an animal sat on a line, he paid.",
+              "audioStart": 13.792,
+              "audioEnd": 16.306
+            },
+            {
+              "text": "Smiley once caught a small animal called Dan'l Webster.",
+              "audioStart": 17.264,
+              "audioEnd": 20.597
+            },
+            {
+              "text": "He trained the animal every single day.",
+              "audioStart": 21.556,
+              "audioEnd": 23.903
+            },
+            {
+              "text": "Dan'l could move higher than any other animal.",
+              "audioStart": 24.861,
+              "audioEnd": 27.486
+            },
+            {
+              "text": "Smiley kept his best animal in a small box.",
+              "audioStart": 28.444,
+              "audioEnd": 31.333
+            },
+            {
+              "text": "A new person came along one day.",
+              "audioStart": 32.292,
+              "audioEnd": 34.361
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Smiley told him about the fine moving animal.",
+              "audioStart": 35.319,
+              "audioEnd": 37.819
+            },
+            {
+              "text": "The person looked closely at the animal.",
+              "audioStart": 38.778,
+              "audioEnd": 40.986
+            },
+            {
+              "text": "He did not believe the story.",
+              "audioStart": 41.944,
+              "audioEnd": 43.583
+            },
+            {
+              "text": "He said he would pay if Smiley found another animal.",
+              "audioStart": 44.542,
+              "audioEnd": 47.292
+            },
+            {
+              "text": "Smiley went down the road to catch one.",
+              "audioStart": 48.25,
+              "audioEnd": 50.458
+            },
+            {
+              "text": "The person had a plan.",
+              "audioStart": 51.417,
+              "audioEnd": 52.847
+            },
+            {
+              "text": "He took Dan'l and filled him with much lead.",
+              "audioStart": 53.806,
+              "audioEnd": 56.347
+            },
+            {
+              "text": "The poor animal was very bad to move.",
+              "audioStart": 57.306,
+              "audioEnd": 59.625
+            },
+            {
+              "text": "The person put him back into the box.",
+              "audioStart": 60.583,
+              "audioEnd": 62.778
+            },
+            {
+              "text": "Smiley returned with a nice animal soon.",
+              "audioStart": 63.736,
+              "audioEnd": 66.111
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Both animals were placed upon the ground.",
+              "audioStart": 67.069,
+              "audioEnd": 69.444
+            },
+            {
+              "text": "The person's animal moved away immediately.",
+              "audioStart": 70.403,
+              "audioEnd": 72.903
+            },
+            {
+              "text": "Poor Dan'l could not move at all.",
+              "audioStart": 73.861,
+              "audioEnd": 75.806
+            },
+            {
+              "text": "He only gave a bad little movement.",
+              "audioStart": 76.764,
+              "audioEnd": 78.833
+            },
+            {
+              "text": "The person took the money and left.",
+              "audioStart": 79.792,
+              "audioEnd": 81.819
+            },
+            {
+              "text": "Smiley finally discovered the bad plan.",
+              "audioStart": 82.778,
+              "audioEnd": 85.194
+            },
+            {
+              "text": "He looked down at the animal.",
+              "audioStart": 86.153,
+              "audioEnd": 87.792
+            },
+            {
+              "text": "He realized why the move failed.",
+              "audioStart": 88.75,
+              "audioEnd": 90.722
+            },
+            {
+              "text": "The person was already far away.",
+              "audioStart": 91.681,
+              "audioEnd": 93.667
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Smiley was going to find that person again.",
+              "audioStart": 94.625,
+              "audioEnd": 97.097
+            },
+            {
+              "text": "He wanted his money back from him.",
+              "audioStart": 98.056,
+              "audioEnd": 99.944
+            },
+            {
+              "text": "That game was very bad for Smiley.",
+              "audioStart": 100.903,
+              "audioEnd": 103.167
+            },
+            {
+              "text": "He learned a fact about new people.",
+              "audioStart": 104.125,
+              "audioEnd": 106.153
+            },
+            {
+              "text": "He was going to be sure next time.",
+              "audioStart": 107.111,
+              "audioEnd": 109.111
+            },
+            {
+              "text": "Animals were fun to train in life.",
+              "audioStart": 110.069,
+              "audioEnd": 112.181
+            },
+            {
+              "text": "Dan'l was still a special friend to him.",
+              "audioStart": 113.139,
+              "audioEnd": 115.347
+            },
+            {
+              "text": "The old man finished his long story.",
+              "audioStart": 116.306,
+              "audioEnd": 118.556
+            },
+            {
+              "text": "I sat down and thought about every word.",
+              "audioStart": 119.514,
+              "audioEnd": 121.833
+            },
+            {
+              "text": "It was a nice story to hear today.",
+              "audioStart": 122.792,
+              "audioEnd": 124.708
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0144.mp3",
+      "wordTimings": "audio/a2/st-0144.timings.json",
+      "quiz": [
+        {
+          "q": "What animal did Jim Smiley name Dan'l Webster?",
+          "options": [
+            "A dog",
+            "A frog",
+            "A bird"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the stranger put inside Dan'l Webster?",
+          "options": [
+            "Heavy lead",
+            "Fresh water",
+            "Small stones"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why could Dan'l Webster not jump during the race?",
+          "options": [
+            "He was sleeping",
+            "He was too heavy",
+            "He ran away"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "An old man with a long story sat near me one afternoon.",
+              "audioStart": 0.1,
+              "audioEnd": 3.112
+            },
+            {
+              "text": "He began to speak about a fellow named Jim Smiley.",
+              "audioStart": 3.975,
+              "audioEnd": 6.625
+            },
+            {
+              "text": "Smiley would bet on absolutely anything that could happen.",
+              "audioStart": 7.487,
+              "audioEnd": 10.45
+            },
+            {
+              "text": "If a dog ran down the street, Smiley would bet money on which animal was faster.",
+              "audioStart": 11.312,
+              "audioEnd": 15.662
+            },
+            {
+              "text": "If two birds sat on a wall, he would bet.",
+              "audioStart": 16.525,
+              "audioEnd": 18.887
+            },
+            {
+              "text": "He bet on which one would fly away first.",
+              "audioStart": 19.75,
+              "audioEnd": 21.975
+            },
+            {
+              "text": "Smiley once caught a tiny animal and named him Dan'l Webster.",
+              "audioStart": 22.837,
+              "audioEnd": 26.2
+            },
+            {
+              "text": "He trained that good animal every day until it could jump higher than any other animal.",
+              "audioStart": 27.062,
+              "audioEnd": 31.25
+            },
+            {
+              "text": "Smiley was very proud of his best jumper and always kept him in a small box.",
+              "audioStart": 32.112,
+              "audioEnd": 36.212
+            },
+            {
+              "text": "One day, a smart man came along and looked at the jumping animal.",
+              "audioStart": 37.075,
+              "audioEnd": 40.562
+            },
+            {
+              "text": "Smiley told him that Dan'l was the finest jumper in the whole country.",
+              "audioStart": 41.425,
+              "audioEnd": 44.938
+            },
+            {
+              "text": "The man carefully examined the animal, but he did not believe the story.",
+              "audioStart": 45.8,
+              "audioEnd": 49.562
+            },
+            {
+              "text": "He finally said that he would accept a bet if Smiley could provide another animal.",
+              "audioStart": 50.425,
+              "audioEnd": 54.425
+            },
+            {
+              "text": "Smiley went off down the road to catch a new animal.",
+              "audioStart": 55.288,
+              "audioEnd": 57.763
+            },
+            {
+              "text": "While Smiley was away, the man had a secret plan to win the money.",
+              "audioStart": 58.625,
+              "audioEnd": 62.188
+            },
+            {
+              "text": "He took the poor Dan'l Webster and filled him completely with heavy metal.",
+              "audioStart": 63.05,
+              "audioEnd": 66.812
+            },
+            {
+              "text": "The man put the poor animal back inside the box and waited.",
+              "audioStart": 67.675,
+              "audioEnd": 70.688
+            },
+            {
+              "text": "Smiley soon returned with a fresh animal and handed the race over to the man.",
+              "audioStart": 71.55,
+              "audioEnd": 75.263
+            },
+            {
+              "text": "Both animals were placed upon the ground to start the big competition.",
+              "audioStart": 76.125,
+              "audioEnd": 79.55
+            },
+            {
+              "text": "The man's animal moved away immediately, but poor Dan'l could not move at all.",
+              "audioStart": 80.412,
+              "audioEnd": 84.638
+            },
+            {
+              "text": "Down by the heavy metal inside, the tired animal only gave a sad little shake.",
+              "audioStart": 85.5,
+              "audioEnd": 89.912
+            },
+            {
+              "text": "The man took the money and walked away with a smile.",
+              "audioStart": 90.775,
+              "audioEnd": 93.338
+            },
+            {
+              "text": "Only after the man left did a confused Smiley discover the heavy plan.",
+              "audioStart": 94.2,
+              "audioEnd": 97.975
+            },
+            {
+              "text": "He looked down at the strange animal and realized why the jump had failed.",
+              "audioStart": 98.838,
+              "audioEnd": 102.425
+            },
+            {
+              "text": "Although he tried to catch the smart man, the man was already far away.",
+              "audioStart": 103.287,
+              "audioEnd": 107.1
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The old man finished his story and smiled at me with a friendly face.",
+              "audioStart": 107.963,
+              "audioEnd": 111.562
+            },
+            {
+              "text": "I listened to every word because the old man was very funny and kind.",
+              "audioStart": 112.425,
+              "audioEnd": 115.925
+            },
+            {
+              "text": "Life in this small town always brings wonderful stories about people and their animals.",
+              "audioStart": 116.787,
+              "audioEnd": 121.275
+            },
+            {
+              "text": "Smiley remained a famous person in the town for many years after that event.",
+              "audioStart": 122.138,
+              "audioEnd": 126.175
+            },
+            {
+              "text": "People still talk about the day when Dan'l Webster lost the big jumping race.",
+              "audioStart": 127.037,
+              "audioEnd": 131.188
+            },
+            {
+              "text": "Nobody ever forgot how the smart man won the money with heavy metal.",
+              "audioStart": 132.05,
+              "audioEnd": 135.55
+            },
+            {
+              "text": "That old story remains an important part of our local history today.",
+              "audioStart": 136.412,
+              "audioEnd": 139.688
+            },
+            {
+              "text": "I always remember the funny details if I walk down that old road.",
+              "audioStart": 140.55,
+              "audioEnd": 143.938
+            },
+            {
+              "text": "We should always be careful when we make bets with strange people.",
+              "audioStart": 144.8,
+              "audioEnd": 147.988
+            },
+            {
+              "text": "Sometimes things do not happen the way we want them to go.",
+              "audioStart": 148.85,
+              "audioEnd": 151.688
+            },
+            {
+              "text": "However, a good story is always worth sharing with friends and family members.",
+              "audioStart": 152.55,
+              "audioEnd": 156.688
+            },
+            {
+              "text": "The old man thanked me for my time and walked slowly down the street.",
+              "audioStart": 157.55,
+              "audioEnd": 160.988
+            },
+            {
+              "text": "I sat there for a few more minutes and thought about the great book.",
+              "audioStart": 161.85,
+              "audioEnd": 164.988
+            },
+            {
+              "text": "That afternoon became one of my favorite memories from my time in this town.",
+              "audioStart": 165.85,
+              "audioEnd": 169.588
+            },
+            {
+              "text": "I hope that I will meet another man just like him very soon.",
+              "audioStart": 170.45,
+              "audioEnd": 173.4
+            },
+            {
+              "text": "Until then, I will keep this funny memory safe inside my mind.",
+              "audioStart": 174.262,
+              "audioEnd": 177.725
+            },
+            {
+              "text": "I have heard many stories in this town since I arrived here.",
+              "audioStart": 178.588,
+              "audioEnd": 181.575
+            },
+            {
+              "text": "The old man has told me several nice things about the local past.",
+              "audioStart": 182.438,
+              "audioEnd": 185.912
+            },
+            {
+              "text": "If you visited this place, you found many friendly people everywhere.",
+              "audioStart": 186.775,
+              "audioEnd": 190.287
+            },
+            {
+              "text": "Everyone likes to talk about the old days and famous local events.",
+              "audioStart": 191.15,
+              "audioEnd": 194.662
+            },
+            {
+              "text": "That is why this town remains special to me and my friends.",
+              "audioStart": 195.525,
+              "audioEnd": 198.537
+            },
+            {
+              "text": "I will always remember the man who spoke to me on that bright afternoon.",
+              "audioStart": 199.4,
+              "audioEnd": 202.75
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0144.mp3",
+      "wordTimings": "audio/b1/st-0144.timings.json",
+      "quiz": [
+        {
+          "q": "What was the name of Jim Smiley's famous frog?",
+          "options": [
+            "Dan'l Webster",
+            "Jim Webster",
+            "Smiley Webster"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the stranger fill Dan'l Webster with?",
+          "options": [
+            "Heavy metal shot",
+            "Water and stones",
+            "Fresh green grass"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why could Dan'l Webster not jump during the race?",
+          "options": [
+            "He was too tired from training",
+            "He was too heavy inside",
+            "He ran away down the road"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "An old man with a long story to tell sat beside me one afternoon.",
+              "audioStart": 0.1,
+              "audioEnd": 3.725
+            },
+            {
+              "text": "He began to speak about a fellow named Jim Smiley.",
+              "audioStart": 4.588,
+              "audioEnd": 7.237
+            },
+            {
+              "text": "This man would bet on absolutely anything that could happen.",
+              "audioStart": 8.1,
+              "audioEnd": 11.125
+            },
+            {
+              "text": "If a dog was running down the street, Smiley would bet money on which animal was faster.",
+              "audioStart": 11.988,
+              "audioEnd": 16.675
+            },
+            {
+              "text": "If two birds sat on a fence, he would bet on which one would fly away first.",
+              "audioStart": 17.538,
+              "audioEnd": 21.663
+            },
+            {
+              "text": "This man loved to place money on every small event that occurred around the town.",
+              "audioStart": 22.525,
+              "audioEnd": 26.587
+            },
+            {
+              "text": "People knew him well because his bets were always ready.",
+              "audioStart": 27.45,
+              "audioEnd": 30.163
+            },
+            {
+              "text": "Nobody could stop him from finding a new challenge every single day.",
+              "audioStart": 31.025,
+              "audioEnd": 34.438
+            },
+            {
+              "text": "He lived for the excitement of the competition and the chance to win cash.",
+              "audioStart": 35.3,
+              "audioEnd": 39.038
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Smiley once caught a tiny animal and named him Dan'l Webster.",
+              "audioStart": 39.9,
+              "audioEnd": 43.263
+            },
+            {
+              "text": "He trained that smart creature every single day until it could out-jump any other animal around.",
+              "audioStart": 44.125,
+              "audioEnd": 48.825
+            },
+            {
+              "text": "Dan'l Webster was so special that his jump could reach higher than anyone might expect.",
+              "audioStart": 49.688,
+              "audioEnd": 54.3
+            },
+            {
+              "text": "Smiley was very proud of his champion jumper and always kept him in a small box.",
+              "audioStart": 55.163,
+              "audioEnd": 59.413
+            },
+            {
+              "text": "The little creature grew stronger with every single practice session.",
+              "audioStart": 60.275,
+              "audioEnd": 63.525
+            },
+            {
+              "text": "Smiley spent hours working with the animal to ensure success in every race.",
+              "audioStart": 64.388,
+              "audioEnd": 68.487
+            },
+            {
+              "text": "Every person in the region knew about the famous jumper.",
+              "audioStart": 69.35,
+              "audioEnd": 72.1
+            },
+            {
+              "text": "The animal became a symbol of pride for its owner.",
+              "audioStart": 72.963,
+              "audioEnd": 75.475
+            },
+            {
+              "text": "Many people came from far away to see the jumping frog perform.",
+              "audioStart": 76.338,
+              "audioEnd": 79.638
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One day, a smart stranger came along and looked at the jumping animal.",
+              "audioStart": 80.5,
+              "audioEnd": 84.138
+            },
+            {
+              "text": "Smiley told him that Dan'l was the finest jumper in the whole country.",
+              "audioStart": 85,
+              "audioEnd": 88.513
+            },
+            {
+              "text": "The stranger carefully examined the animal, but he did not believe the story.",
+              "audioStart": 89.375,
+              "audioEnd": 93.3
+            },
+            {
+              "text": "He finally said that he would accept a bet if Smiley could provide another animal for him.",
+              "audioStart": 94.162,
+              "audioEnd": 98.537
+            },
+            {
+              "text": "The stranger looked at the box with deep interest and considered his options.",
+              "audioStart": 99.4,
+              "audioEnd": 103.225
+            },
+            {
+              "text": "He wanted to win the game by any means possible.",
+              "audioStart": 104.088,
+              "audioEnd": 106.65
+            },
+            {
+              "text": "Smiley smiled and accepted the challenge without a single moment of doubt.",
+              "audioStart": 107.513,
+              "audioEnd": 111.225
+            },
+            {
+              "text": "He felt certain that his champion would win again.",
+              "audioStart": 112.088,
+              "audioEnd": 114.4
+            },
+            {
+              "text": "The stranger waited patiently while thinking about his master plan.",
+              "audioStart": 115.263,
+              "audioEnd": 118.588
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Smiley went off down the wet road to catch a new animal for the stranger.",
+              "audioStart": 119.45,
+              "audioEnd": 122.95
+            },
+            {
+              "text": "While Smiley was away, the stranger had a secret plan to win the money.",
+              "audioStart": 123.812,
+              "audioEnd": 127.475
+            },
+            {
+              "text": "He took the poor Dan'l Webster and filled him completely with heavy lead shot.",
+              "audioStart": 128.338,
+              "audioEnd": 132.4
+            },
+            {
+              "text": "When the heavy work was finished, the stranger put the poor creature back inside the box and waited.",
+              "audioStart": 133.262,
+              "audioEnd": 138.213
+            },
+            {
+              "text": "The metal made the animal extremely heavy and unable to move properly.",
+              "audioStart": 139.075,
+              "audioEnd": 142.863
+            },
+            {
+              "text": "The stranger knew that his own animal would easily win the race now.",
+              "audioStart": 143.725,
+              "audioEnd": 146.825
+            },
+            {
+              "text": "He waited quietly for Smiley to return with the fresh competitor.",
+              "audioStart": 147.688,
+              "audioEnd": 151.113
+            },
+            {
+              "text": "The secret plan was fully complete and hidden from view.",
+              "audioStart": 151.975,
+              "audioEnd": 154.75
+            },
+            {
+              "text": "Nothing could stop the stranger from taking the cash.",
+              "audioStart": 155.613,
+              "audioEnd": 158.162
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Smiley soon returned with a fresh animal and handed the race over to the stranger.",
+              "audioStart": 159.025,
+              "audioEnd": 162.988
+            },
+            {
+              "text": "Both animals were placed upon the ground to start the big competition.",
+              "audioStart": 163.85,
+              "audioEnd": 167.275
+            },
+            {
+              "text": "The stranger's animal leaped away immediately, but poor Dan'l could not move at all.",
+              "audioStart": 168.137,
+              "audioEnd": 172.6
+            },
+            {
+              "text": "Weighed down by the heavy metal inside, the tired animal only gave a sad little shake.",
+              "audioStart": 173.463,
+              "audioEnd": 178.175
+            },
+            {
+              "text": "Smiley watched the scene with total surprise and confusion.",
+              "audioStart": 179.037,
+              "audioEnd": 182.025
+            },
+            {
+              "text": "He could not understand why his champion failed to jump.",
+              "audioStart": 182.887,
+              "audioEnd": 185.688
+            },
+            {
+              "text": "The fresh animal crossed the finish line while Dan'l stayed firmly on the ground.",
+              "audioStart": 186.55,
+              "audioEnd": 190.525
+            },
+            {
+              "text": "The race was over in a matter of seconds.",
+              "audioStart": 191.387,
+              "audioEnd": 193.475
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The stranger took the money and walked away with a smile on his face.",
+              "audioStart": 194.338,
+              "audioEnd": 197.825
+            },
+            {
+              "text": "Only after the man had left did a confused Smiley finally discover the heavy trick.",
+              "audioStart": 198.688,
+              "audioEnd": 203.2
+            },
+            {
+              "text": "He looked down at the strange creature and realized why the jump had failed.",
+              "audioStart": 204.062,
+              "audioEnd": 207.738
+            },
+            {
+              "text": "Although he tried to catch the smart stranger, the man was already far away.",
+              "audioStart": 208.6,
+              "audioEnd": 212.613
+            },
+            {
+              "text": "Smiley opened the animal and found the hidden metal inside.",
+              "audioStart": 213.475,
+              "audioEnd": 216.412
+            },
+            {
+              "text": "He realized that he had been tricked by an opponent who played a bad game.",
+              "audioStart": 217.275,
+              "audioEnd": 220.887
+            },
+            {
+              "text": "The old man told me this story to show how things can change in a moment.",
+              "audioStart": 221.75,
+              "audioEnd": 225.238
+            },
+            {
+              "text": "Even the best plans can fail when someone acts with a bad trick.",
+              "audioStart": 226.1,
+              "audioEnd": 229.675
+            },
+            {
+              "text": "Life is full of strange events that teach us important lessons about people.",
+              "audioStart": 230.537,
+              "audioEnd": 234.15
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0144.mp3",
+      "wordTimings": "audio/b2/st-0144.timings.json",
+      "quiz": [
+        {
+          "q": "What was the name of Jim Smiley's famous jumping frog?",
+          "options": [
+            "Dan'l Webster",
+            "Jim Smiley",
+            "The stranger"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the clever stranger secretly fill the frog with while Smiley was away?",
+          "options": [
+            "Lead shot",
+            "Fresh water",
+            "Small stones"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why could Dan'l Webster not jump during the race?",
+          "options": [
+            "He was too tired from training every day.",
+            "He was weighed down by the heavy metal inside him.",
+            "He ran away down the muddy road before the start."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "It was a heavy, languid afternoon in the decaying mining camp when an old man with a famously exhaustive memory cornered me.",
+              "audioStart": 0.1,
+              "audioEnd": 6.463
+            },
+            {
+              "text": "His name was Simon Wheeler, and he possessed the tranquil gravity of a man who believed every trivial detail of existence deserved a solemn chronicle.",
+              "audioStart": 7.325,
+              "audioEnd": 15.137
+            },
+            {
+              "text": "Settling beside me with a worn pipe, he began to unspool the endless history of a fellow named Jim Smiley.",
+              "audioStart": 16,
+              "audioEnd": 21.812
+            },
+            {
+              "text": "To hear Wheeler tell it, Smiley was a man whose entire philosophy of life could be summarized in a single, compulsive urge to gamble.",
+              "audioStart": 22.675,
+              "audioEnd": 30.137
+            },
+            {
+              "text": "No sooner had the old man set the scene than he launched into illustrations of Smiley's staggering audacity.",
+              "audioStart": 31,
+              "audioEnd": 36.438
+            },
+            {
+              "text": "If a stray dog was trotting down the dusty street, Smiley would immediately wager on which direction it might turn or which animal was faster.",
+              "audioStart": 37.3,
+              "audioEnd": 44.763
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Nowhere was his obsession more pronounced than in his treatment of ordinary domestic fowl and livestock.",
+              "audioStart": 45.625,
+              "audioEnd": 50.837
+            },
+            {
+              "text": "Should two ordinary birds happen to alight upon a rustic fence rail, Smiley would quietly calculate the odds and bet on which one would take flight first.",
+              "audioStart": 51.7,
+              "audioEnd": 59.763
+            },
+            {
+              "text": "He would follow a parson to church, wagering on whether the man would take the high road or the low.",
+              "audioStart": 60.625,
+              "audioEnd": 65.475
+            },
+            {
+              "text": "If the local minister fell gravely ill, Smiley would immediately bet on whether he would recover or pass away.",
+              "audioStart": 66.338,
+              "audioEnd": 72.162
+            },
+            {
+              "text": "People knew him intimately because his bets were always ready in his pocket, waiting for any conceivable event to unfold.",
+              "audioStart": 73.025,
+              "audioEnd": 79.4
+            },
+            {
+              "text": "Not a soul in the settlement could ever dissuade him from discovering a fresh challenge every single day.",
+              "audioStart": 80.263,
+              "audioEnd": 85.287
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man practically lived for the electric thrill of competition and the modest satisfaction of winning cash from his neighbors.",
+              "audioStart": 86.15,
+              "audioEnd": 92.7
+            },
+            {
+              "text": "His ambition was not merely financial, but aesthetic; he craved the tactical supremacy of being right.",
+              "audioStart": 93.562,
+              "audioEnd": 99.6
+            },
+            {
+              "text": "Smiley once spent three months training a common bull pup, affectionately naming him Andrew Jackson, to fight anything that barked.",
+              "audioStart": 100.463,
+              "audioEnd": 107.55
+            },
+            {
+              "text": "Yet his masterpiece, the crowning achievement of his betting career, was an entirely different sort of athlete.",
+              "audioStart": 108.412,
+              "audioEnd": 114.4
+            },
+            {
+              "text": "Smiley managed to capture a modest, unassuming frog from a nearby marsh and brought him back to his quarters.",
+              "audioStart": 115.263,
+              "audioEnd": 121.075
+            },
+            {
+              "text": "With infinite patience, he christened the creature Dan'l Webster and resolved to transform him into a sporting legend.",
+              "audioStart": 121.938,
+              "audioEnd": 127.9
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He trained that remarkably focused creature every single day until it could effortlessly out-jump any other amphibian in the county.",
+              "audioStart": 128.762,
+              "audioEnd": 135.425
+            },
+            {
+              "text": "Dan'l Webster possessed a peculiar athletic gift, and his vertical propulsion could reach heights that astonished even experienced local observers.",
+              "audioStart": 136.287,
+              "audioEnd": 144.287
+            },
+            {
+              "text": "Smiley was immensely proud of his champion jumper, guarding him jealously and keeping him confined in a small lattice box.",
+              "audioStart": 145.15,
+              "audioEnd": 151.662
+            },
+            {
+              "text": "Under a strict regimen of education, the little creature grew noticeably stronger with every single practice session.",
+              "audioStart": 152.525,
+              "audioEnd": 158.525
+            },
+            {
+              "text": "Smiley spent countless hours working with the animal to ensure absolute success in every scheduled contest.",
+              "audioStart": 159.387,
+              "audioEnd": 165.275
+            },
+            {
+              "text": "He would catch a fly, release it just above the box, and watch with profound admiration as the frog launched itself like a miniature cannonball.",
+              "audioStart": 166.137,
+              "audioEnd": 173.675
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every single person in the region knew about the famous jumper and spoke of his astonishing athletic feats with hushed reverence.",
+              "audioStart": 174.537,
+              "audioEnd": 180.988
+            },
+            {
+              "text": "The animal eventually became a powerful symbol of civic pride for its enthusiastic owner.",
+              "audioStart": 181.85,
+              "audioEnd": 186.637
+            },
+            {
+              "text": "Many curious travelers came from far away just to witness the jumping frog perform its legendary aerial acrobatics.",
+              "audioStart": 187.5,
+              "audioEnd": 193.95
+            },
+            {
+              "text": "Smiley would sit on his porch, holding the box, waiting for anyone foolish enough to doubt his champion.",
+              "audioStart": 194.812,
+              "audioEnd": 200.275
+            },
+            {
+              "text": "It seemed nothing could disrupt his steady accumulation of local prestige and occasional silver coins.",
+              "audioStart": 201.137,
+              "audioEnd": 206.738
+            },
+            {
+              "text": "His faith in Dan'l Webster was absolute, unshakable, and entirely devoid of reasonable doubt.",
+              "audioStart": 207.6,
+              "audioEnd": 213.262
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One particularly warm afternoon, a stranger with a smooth face and calculating eyes walked past Smiley's cabin.",
+              "audioStart": 214.125,
+              "audioEnd": 220.625
+            },
+            {
+              "text": "Smiley intercepted the traveler, thrust the small box into his hands, and casually remarked that Dan'l was the finest jumper in the whole country.",
+              "audioStart": 221.488,
+              "audioEnd": 229.613
+            },
+            {
+              "text": "The stranger carefully examined the humble box, lifted the lid, and looked down at the quiet amphibian with a neutral expression.",
+              "audioStart": 230.475,
+              "audioEnd": 237.287
+            },
+            {
+              "text": "He poked the creature gently, but he did not outwardly believe the extravagant story the proud owner was spinning.",
+              "audioStart": 238.15,
+              "audioEnd": 243.613
+            },
+            {
+              "text": "After a long moment of deliberate silence, the stranger finally stated that he would gladly accept a wager if Smiley could provide a suitable competitor.",
+              "audioStart": 244.588,
+              "audioEnd": 252.613
+            },
+            {
+              "text": "He looked at the box with deep, analytical interest, quietly weighing his strategic options.",
+              "audioStart": 253.476,
+              "audioEnd": 258.588
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The traveler desperately wanted to win the game by any means possible, driven by a cold desire to outwit the local champion.",
+              "audioStart": 259.45,
+              "audioEnd": 266.138
+            },
+            {
+              "text": "Noticing the stranger hesitation, Smiley smiled broadly and accepted the challenge without a single moment of doubt.",
+              "audioStart": 267,
+              "audioEnd": 273.138
+            },
+            {
+              "text": "He felt entirely certain that his undefeated champion would triumph once again and humiliate the newcomer.",
+              "audioStart": 274,
+              "audioEnd": 279.563
+            },
+            {
+              "text": "The stranger waited patiently on the porch while pretending to ponder his master plan for the upcoming race.",
+              "audioStart": 280.425,
+              "audioEnd": 285.838
+            },
+            {
+              "text": "He asked Smiley to hold his own box for a moment while he walked down to the swamp to find a rival frog.",
+              "audioStart": 286.7,
+              "audioEnd": 292.013
+            },
+            {
+              "text": "Smiley readily agreed, completely unaware of the malicious strategy forming behind those calm eyes.",
+              "audioStart": 292.875,
+              "audioEnd": 298.313
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Smiley went off down the muddy, wet road with high hopes, eager to catch a fresh animal for the stranger.",
+              "audioStart": 299.175,
+              "audioEnd": 304.638
+            },
+            {
+              "text": "While Smiley was away, the stranger executed his secret, calculated plan to secure the money by dishonest means.",
+              "audioStart": 305.5,
+              "audioEnd": 312.101
+            },
+            {
+              "text": "He reached into the lattice box, lifted poor Dan'l Webster out by his slippery legs, and held the creature firmly in his palm.",
+              "audioStart": 312.963,
+              "audioEnd": 319.888
+            },
+            {
+              "text": "Pulling a small bag of heavy lead shot from his pocket, the stranger forced the metal pellets down the frog throat.",
+              "audioStart": 320.75,
+              "audioEnd": 326.738
+            },
+            {
+              "text": "He filled the poor animal completely with heavy lead shot until the creature was packed tightly from chest to belly.",
+              "audioStart": 327.601,
+              "audioEnd": 333.263
+            },
+            {
+              "text": "When the difficult work was finished, the stranger put the heavy creature back inside the box and waited quietly.",
+              "audioStart": 334.125,
+              "audioEnd": 339.901
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The metal made the animal extraordinarily heavy and utterly unable to move its muscular legs properly.",
+              "audioStart": 340.763,
+              "audioEnd": 346.3
+            },
+            {
+              "text": "The stranger knew that his own newly caught frog would easily win the race now against such a disabled opponent.",
+              "audioStart": 347.163,
+              "audioEnd": 352.688
+            },
+            {
+              "text": "He sat back on the wooden bench, waiting calmly for Smiley to return with the fresh competitor.",
+              "audioStart": 353.55,
+              "audioEnd": 358.463
+            },
+            {
+              "text": "The secret plan was fully complete, neatly executed, and completely hidden from casual view.",
+              "audioStart": 359.325,
+              "audioEnd": 364.638
+            },
+            {
+              "text": "Nothing could stop the cunning stranger from taking the cash and walking away victorious.",
+              "audioStart": 365.5,
+              "audioEnd": 369.825
+            },
+            {
+              "text": "He suppressed a smug grin as the sound of Smiley boots echoed up the muddy path.",
+              "audioStart": 370.688,
+              "audioEnd": 374.863
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Smiley soon returned, carrying a modest green frog in his hand, and immediately handed the race over to the stranger.",
+              "audioStart": 375.726,
+              "audioEnd": 382.038
+            },
+            {
+              "text": "Both animals were placed side by side upon the dry ground to start the big competition.",
+              "audioStart": 382.901,
+              "audioEnd": 387.438
+            },
+            {
+              "text": "Smiley shouted the signal, and the stranger's animal leaped away immediately in a powerful arc.",
+              "audioStart": 388.3,
+              "audioEnd": 393.5
+            },
+            {
+              "text": "Poor Dan'l, however, could not move an inch from his starting position.",
+              "audioStart": 393.513,
+              "audioEnd": 397.463
+            },
+            {
+              "text": "Weighed down by the heavy metal inside, the exhausted animal only gave a sad, pathetic little shake of its head.",
+              "audioStart": 398.325,
+              "audioEnd": 404.45
+            },
+            {
+              "text": "Smiley watched the entire scene with total surprise, profound shock, and lingering confusion.",
+              "audioStart": 405.313,
+              "audioEnd": 410.713
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He could not understand for the life of him why his once invincible champion had suddenly failed to jump.",
+              "audioStart": 411.575,
+              "audioEnd": 416.663
+            },
+            {
+              "text": "The fresh animal crossed the finish line with ease while Dan'l stayed firmly anchored to the ground.",
+              "audioStart": 417.526,
+              "audioEnd": 422.375
+            },
+            {
+              "text": "The race was over in a matter of seconds, leaving Smiley staring down in sheer disbelief.",
+              "audioStart": 423.238,
+              "audioEnd": 428.05
+            },
+            {
+              "text": "The stranger collected the money immediately and walked away with a triumphant smile on his face.",
+              "audioStart": 428.913,
+              "audioEnd": 433.875
+            },
+            {
+              "text": "Only after the man had vanished down the road did a deeply confused Smiley finally discover the heavy trick.",
+              "audioStart": 434.738,
+              "audioEnd": 440.325
+            },
+            {
+              "text": "He bent down, picked up the strange creature, and suddenly realized why the crucial jump had failed so miserably.",
+              "audioStart": 441.188,
+              "audioEnd": 447.351
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Although he tried to run after the smart stranger, the dishonest man was already far away and out of sight.",
+              "audioStart": 448.213,
+              "audioEnd": 453.95
+            },
+            {
+              "text": "Smiley pried the animal open and found the hidden lead shot rolling out onto the wooden floor.",
+              "audioStart": 454.813,
+              "audioEnd": 459.425
+            },
+            {
+              "text": "He finally understood that he had been ruthlessly tricked by an opponent who played a dishonest game.",
+              "audioStart": 460.288,
+              "audioEnd": 465.163
+            },
+            {
+              "text": "The old man Wheeler paused here, looking at me with a steady gaze to ensure I grasped the moral of the lengthy narrative.",
+              "audioStart": 466.026,
+              "audioEnd": 472.075
+            },
+            {
+              "text": "He told me this story simply to illustrate how rapidly fortunes can change when someone relies on deception.",
+              "audioStart": 472.938,
+              "audioEnd": 478.526
+            },
+            {
+              "text": "Life, according to Wheeler, is full of strange events that teach us unforgettable lessons about human nature.",
+              "audioStart": 479.388,
+              "audioEnd": 485.238
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0144.mp3",
+      "wordTimings": "audio/c1/st-0144.timings.json",
+      "quiz": [
+        {
+          "q": "What specific animal did Jim Smiley keep inside a small box as his champion competitor?",
+          "options": [
+            "A bull pup named Andrew Jackson",
+            "A jumping frog named Dan'l Webster",
+            "A fast-running street dog"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the stranger do to Smiley's champion animal while Smiley was away catching a new frog?",
+          "options": [
+            "He painted the animal a bright red color",
+            "He replaced it with an ordinary swamp frog",
+            "He filled the animal with heavy lead shot"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why was Smiley unable to catch the stranger after the race concluded?",
+          "options": [
+            "The stranger had already traveled too far away",
+            "Smiley was too distracted by his defeated frog",
+            "The stranger hid inside the local church"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  }
+}

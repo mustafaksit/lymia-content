@@ -1,0 +1,1433 @@
+{
+  "id": "st-0183",
+  "title": "The Tale of Mr. Jeremy Fisher",
+  "genre": "classic",
+  "summary": "A little frog takes a small boat out on the water to catch some food.",
+  "coverScene": "A small green frog sits beside a calm blue water holding a fishing pole.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mr Jeremy Fisher lives in a little house.",
+              "audioStart": 0.106,
+              "audioEnd": 2.758
+            },
+            {
+              "text": "His house is near the water.",
+              "audioStart": 3.722,
+              "audioEnd": 5.347
+            },
+            {
+              "text": "He decides to go out on a day.",
+              "audioStart": 6.306,
+              "audioEnd": 8.194
+            },
+            {
+              "text": "He wants to get food.",
+              "audioStart": 9.153,
+              "audioEnd": 10.569
+            },
+            {
+              "text": "He wants small food for a time.",
+              "audioStart": 11.528,
+              "audioEnd": 13.486
+            },
+            {
+              "text": "He gets his things ready and leaves home.",
+              "audioStart": 14.444,
+              "audioEnd": 16.736
+            },
+            {
+              "text": "He walks down to the water.",
+              "audioStart": 17.694,
+              "audioEnd": 19.264
+            },
+            {
+              "text": "He finds a small boat there.",
+              "audioStart": 20.222,
+              "audioEnd": 21.903
+            },
+            {
+              "text": "Mr Jeremy Fisher gets into the boat.",
+              "audioStart": 22.861,
+              "audioEnd": 25.236
+            },
+            {
+              "text": "He moves away from the land.",
+              "audioStart": 26.194,
+              "audioEnd": 27.847
+            },
+            {
+              "text": "He sits down with a long branch.",
+              "audioStart": 28.806,
+              "audioEnd": 30.806
+            },
+            {
+              "text": "He waits and feels the good time.",
+              "audioStart": 31.764,
+              "audioEnd": 33.792
+            },
+            {
+              "text": "He looks at the water.",
+              "audioStart": 34.75,
+              "audioEnd": 36.028
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The state of things changes fast.",
+              "audioStart": 36.986,
+              "audioEnd": 39.028
+            },
+            {
+              "text": "Black things appear over him.",
+              "audioStart": 39.986,
+              "audioEnd": 41.653
+            },
+            {
+              "text": "Hard water falls down.",
+              "audioStart": 42.611,
+              "audioEnd": 44.125
+            },
+            {
+              "text": "Mr Jeremy Fisher tries to go back.",
+              "audioStart": 45.083,
+              "audioEnd": 47.528
+            },
+            {
+              "text": "A big one bites his line.",
+              "audioStart": 48.486,
+              "audioEnd": 50.25
+            },
+            {
+              "text": "The one pulls him down into the water.",
+              "audioStart": 51.208,
+              "audioEnd": 53.292
+            },
+            {
+              "text": "The water is bad.",
+              "audioStart": 54.25,
+              "audioEnd": 55.431
+            },
+            {
+              "text": "He loses his best branch.",
+              "audioStart": 56.389,
+              "audioEnd": 58.194
+            },
+            {
+              "text": "A big body tries to get him.",
+              "audioStart": 59.153,
+              "audioEnd": 61
+            },
+            {
+              "text": "He swims away fast.",
+              "audioStart": 61.958,
+              "audioEnd": 63.486
+            },
+            {
+              "text": "He goes up onto the land.",
+              "audioStart": 64.444,
+              "audioEnd": 66.014
+            },
+            {
+              "text": "He is wet and he moves.",
+              "audioStart": 66.972,
+              "audioEnd": 68.583
+            },
+            {
+              "text": "He decides never to do it again.",
+              "audioStart": 69.542,
+              "audioEnd": 71.472
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mr Jeremy Fisher stays at his house.",
+              "audioStart": 72.431,
+              "audioEnd": 74.958
+            },
+            {
+              "text": "He looks at the water every day.",
+              "audioStart": 75.917,
+              "audioEnd": 77.792
+            },
+            {
+              "text": "He thinks about the big body.",
+              "audioStart": 78.75,
+              "audioEnd": 80.472
+            },
+            {
+              "text": "He wants no more problem today.",
+              "audioStart": 81.431,
+              "audioEnd": 83.264
+            },
+            {
+              "text": "He stays home and is very quiet.",
+              "audioStart": 84.222,
+              "audioEnd": 86.361
+            },
+            {
+              "text": "He sits by the door.",
+              "audioStart": 87.319,
+              "audioEnd": 88.625
+            },
+            {
+              "text": "He has no food from the water.",
+              "audioStart": 89.583,
+              "audioEnd": 91.403
+            },
+            {
+              "text": "He thinks about the day.",
+              "audioStart": 92.361,
+              "audioEnd": 93.792
+            },
+            {
+              "text": "He looks at the small room.",
+              "audioStart": 94.75,
+              "audioEnd": 96.292
+            },
+            {
+              "text": "He feels no need to go out.",
+              "audioStart": 97.25,
+              "audioEnd": 99
+            },
+            {
+              "text": "He stays in his house.",
+              "audioStart": 99.958,
+              "audioEnd": 101.458
+            },
+            {
+              "text": "He is safe and well.",
+              "audioStart": 102.417,
+              "audioEnd": 103.694
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0183.mp3",
+      "wordTimings": "audio/a1/st-0183.timings.json",
+      "quiz": [
+        {
+          "q": "Where does Mr. Jeremy Fisher live?",
+          "options": [
+            "Near the water",
+            "In a high city",
+            "On a big mountain"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happens when the weather changes?",
+          "options": [
+            "It snows heavily",
+            "Dark clouds appear and rain falls",
+            "The sun becomes very hot"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does the big fish do?",
+          "options": [
+            "It helps him find a boat",
+            "It pulls him down into the water",
+            "It gives him food for dinner"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The man lived in a little house near water.",
+              "audioStart": 0.106,
+              "audioEnd": 2.425
+            },
+            {
+              "text": "He wanted to go fishing on a fine day.",
+              "audioStart": 3.389,
+              "audioEnd": 5.625
+            },
+            {
+              "text": "His plan was to catch small fish for food.",
+              "audioStart": 6.583,
+              "audioEnd": 9.194
+            },
+            {
+              "text": "He prepared his things and left home.",
+              "audioStart": 10.153,
+              "audioEnd": 12.375
+            },
+            {
+              "text": "He walked down to the water.",
+              "audioStart": 13.333,
+              "audioEnd": 14.917
+            },
+            {
+              "text": "He found a small wooden vessel.",
+              "audioStart": 15.875,
+              "audioEnd": 17.625
+            },
+            {
+              "text": "The man moved into the vessel.",
+              "audioStart": 18.583,
+              "audioEnd": 20.347
+            },
+            {
+              "text": "He pushed away from land.",
+              "audioStart": 21.306,
+              "audioEnd": 22.833
+            },
+            {
+              "text": "He sat down and started to fish with his long stick.",
+              "audioStart": 23.792,
+              "audioEnd": 26.889
+            },
+            {
+              "text": "He thought about how nice the afternoon felt.",
+              "audioStart": 27.847,
+              "audioEnd": 30.333
+            },
+            {
+              "text": "He wanted to catch many fish.",
+              "audioStart": 31.292,
+              "audioEnd": 33.194
+            },
+            {
+              "text": "He looked at the clear water.",
+              "audioStart": 34.153,
+              "audioEnd": 35.736
+            },
+            {
+              "text": "He felt very pleased today.",
+              "audioStart": 36.694,
+              "audioEnd": 38.347
+            },
+            {
+              "text": "His heart was full of joy.",
+              "audioStart": 39.306,
+              "audioEnd": 40.944
+            },
+            {
+              "text": "He waited for a long time.",
+              "audioStart": 41.903,
+              "audioEnd": 43.625
+            },
+            {
+              "text": "He sat still in the small vessel.",
+              "audioStart": 44.583,
+              "audioEnd": 46.597
+            },
+            {
+              "text": "The star above was hot upon the water.",
+              "audioStart": 47.556,
+              "audioEnd": 49.708
+            },
+            {
+              "text": "He hoped to catch a big fish.",
+              "audioStart": 50.667,
+              "audioEnd": 52.542
+            },
+            {
+              "text": "His family would eat the food later.",
+              "audioStart": 53.5,
+              "audioEnd": 55.472
+            },
+            {
+              "text": "He loved this calm place by the water.",
+              "audioStart": 56.431,
+              "audioEnd": 58.611
+            },
+            {
+              "text": "Many small fish moved near the vessel.",
+              "audioStart": 59.569,
+              "audioEnd": 61.847
+            },
+            {
+              "text": "He watched them move around the lower part.",
+              "audioStart": 62.806,
+              "audioEnd": 65.153
+            },
+            {
+              "text": "He kept his long stick steady in his hands.",
+              "audioStart": 66.111,
+              "audioEnd": 68.722
+            },
+            {
+              "text": "Every minute felt good.",
+              "audioStart": 69.681,
+              "audioEnd": 71.083
+            },
+            {
+              "text": "He smiled as he thought about his plan.",
+              "audioStart": 72.042,
+              "audioEnd": 74.194
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, the conditions changed.",
+              "audioStart": 75.153,
+              "audioEnd": 77.431
+            },
+            {
+              "text": "Dark figures appeared above.",
+              "audioStart": 78.389,
+              "audioEnd": 80.056
+            },
+            {
+              "text": "Strong water began to fall from the heavy color.",
+              "audioStart": 81.014,
+              "audioEnd": 83.778
+            },
+            {
+              "text": "The man tried to pull his vessel back.",
+              "audioStart": 84.736,
+              "audioEnd": 86.958
+            },
+            {
+              "text": "A big fish bit his line.",
+              "audioStart": 87.917,
+              "audioEnd": 89.556
+            },
+            {
+              "text": "The fish pulled him down into the water.",
+              "audioStart": 90.514,
+              "audioEnd": 92.639
+            },
+            {
+              "text": "The water was very cold.",
+              "audioStart": 93.597,
+              "audioEnd": 95.153
+            },
+            {
+              "text": "He lost his favorite fishing stick.",
+              "audioStart": 96.111,
+              "audioEnd": 98.278
+            },
+            {
+              "text": "A large animal tried to catch him.",
+              "audioStart": 99.236,
+              "audioEnd": 101.236
+            },
+            {
+              "text": "He moved away as fast as possible.",
+              "audioStart": 102.194,
+              "audioEnd": 104.389
+            },
+            {
+              "text": "He went up on the green plant area.",
+              "audioStart": 105.347,
+              "audioEnd": 107.375
+            },
+            {
+              "text": "He was moving fast and not free from the falling water.",
+              "audioStart": 108.333,
+              "audioEnd": 111.569
+            },
+            {
+              "text": "The man decided to never go fishing in the falling water again.",
+              "audioStart": 112.528,
+              "audioEnd": 116.056
+            },
+            {
+              "text": "He ran back toward his little house.",
+              "audioStart": 117.014,
+              "audioEnd": 119.111
+            },
+            {
+              "text": "His clothes were full of water from top to lower part.",
+              "audioStart": 120.069,
+              "audioEnd": 123.181
+            },
+            {
+              "text": "He felt cold and without energy from the event.",
+              "audioStart": 124.139,
+              "audioEnd": 126.847
+            },
+            {
+              "text": "The big animal stayed in the deep water.",
+              "audioStart": 127.806,
+              "audioEnd": 129.972
+            },
+            {
+              "text": "The man reached his front door without danger.",
+              "audioStart": 130.931,
+              "audioEnd": 133.514
+            },
+            {
+              "text": "He opened the door and went inside.",
+              "audioStart": 134.472,
+              "audioEnd": 136.583
+            },
+            {
+              "text": "He sat by the fire to get hot.",
+              "audioStart": 137.542,
+              "audioEnd": 139.611
+            },
+            {
+              "text": "His heart beat fast from fear.",
+              "audioStart": 140.569,
+              "audioEnd": 142.528
+            },
+            {
+              "text": "He promised himself to be full of care next time.",
+              "audioStart": 143.486,
+              "audioEnd": 146.403
+            },
+            {
+              "text": "The bad condition continued outside for hours.",
+              "audioStart": 147.361,
+              "audioEnd": 150.375
+            },
+            {
+              "text": "He looked out the window at the dark condition.",
+              "audioStart": 151.333,
+              "audioEnd": 153.778
+            },
+            {
+              "text": "He was pleased to be home and without danger again.",
+              "audioStart": 154.736,
+              "audioEnd": 157.417
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0183.mp3",
+      "wordTimings": "audio/a2/st-0183.timings.json",
+      "quiz": [
+        {
+          "q": "What did Mr. Jeremy Fisher plan to catch?",
+          "options": [
+            "Small fish",
+            "A large animal",
+            "Nothing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the weather while he was fishing?",
+          "options": [
+            "It became very hot",
+            "Dark clouds appeared and heavy rain fell",
+            "It stayed sunny all day"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did Mr. Jeremy Fisher lose in the water?",
+          "options": [
+            "His little house",
+            "His boat",
+            "His favorite fishing pole"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fisher had a small house near the water.",
+              "audioStart": 0.1,
+              "audioEnd": 2.1
+            },
+            {
+              "text": "He had lived in that nice home for many years.",
+              "audioStart": 2.962,
+              "audioEnd": 5.388
+            },
+            {
+              "text": "One fine morning, he decided that he would go fishing.",
+              "audioStart": 6.25,
+              "audioEnd": 9.275
+            },
+            {
+              "text": "He wanted to catch small fish for his dinner.",
+              "audioStart": 10.137,
+              "audioEnd": 12.363
+            },
+            {
+              "text": "Therefore, he prepared his fishing things and left his house.",
+              "audioStart": 13.225,
+              "audioEnd": 16.663
+            },
+            {
+              "text": "He always enjoyed spending time by the blue water.",
+              "audioStart": 17.525,
+              "audioEnd": 20.113
+            },
+            {
+              "text": "If the weather stayed fine, he would catch many fish.",
+              "audioStart": 20.975,
+              "audioEnd": 23.913
+            },
+            {
+              "text": "He had already checked his tools before he started his journey.",
+              "audioStart": 24.775,
+              "audioEnd": 27.8
+            },
+            {
+              "text": "Everything was ready for a great day on the lake.",
+              "audioStart": 28.663,
+              "audioEnd": 31.012
+            },
+            {
+              "text": "He walked down to the edge of the water slowly and quietly.",
+              "audioStart": 31.875,
+              "audioEnd": 34.837
+            },
+            {
+              "text": "He found a small boat waiting for him there.",
+              "audioStart": 35.7,
+              "audioEnd": 37.788
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Fisher climbed into the boat and pushed away from the land.",
+              "audioStart": 38.65,
+              "audioEnd": 41.337
+            },
+            {
+              "text": "He sat down and started to fish with his long stick.",
+              "audioStart": 42.2,
+              "audioEnd": 44.987
+            },
+            {
+              "text": "While he was waiting, he thought about the afternoon hours.",
+              "audioStart": 45.85,
+              "audioEnd": 48.737
+            },
+            {
+              "text": "He felt that the day was very nice and quiet.",
+              "audioStart": 49.6,
+              "audioEnd": 52.038
+            },
+            {
+              "text": "The sun looked down upon the calm water around him.",
+              "audioStart": 52.9,
+              "audioEnd": 55.413
+            },
+            {
+              "text": "He had never felt such peace in his whole life.",
+              "audioStart": 56.275,
+              "audioEnd": 58.8
+            },
+            {
+              "text": "He hoped that a big fish would take his line soon.",
+              "audioStart": 59.663,
+              "audioEnd": 62.175
+            },
+            {
+              "text": "Suddenly, the weather changed and dark forms appeared above the sky.",
+              "audioStart": 63.038,
+              "audioEnd": 66.562
+            },
+            {
+              "text": "Heavy rain began to fall into the water all around him.",
+              "audioStart": 67.425,
+              "audioEnd": 70.263
+            },
+            {
+              "text": "Fisher tried to pull his boat back quickly.",
+              "audioStart": 71.125,
+              "audioEnd": 73.338
+            },
+            {
+              "text": "However, a large animal hit his line very hard.",
+              "audioStart": 74.2,
+              "audioEnd": 76.95
+            },
+            {
+              "text": "The wild animal pulled him down into the cold water.",
+              "audioStart": 77.812,
+              "audioEnd": 80.438
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The water was very cold, and he lost his stick.",
+              "audioStart": 81.3,
+              "audioEnd": 84.025
+            },
+            {
+              "text": "A large animal tried to catch him in the deep lake.",
+              "audioStart": 84.888,
+              "audioEnd": 87.4
+            },
+            {
+              "text": "He swam away as fast as possible from the danger.",
+              "audioStart": 88.263,
+              "audioEnd": 90.963
+            },
+            {
+              "text": "He climbed up onto the green land, shaking and damp.",
+              "audioStart": 91.825,
+              "audioEnd": 94.612
+            },
+            {
+              "text": "Fisher sat on the green land for some time.",
+              "audioStart": 95.475,
+              "audioEnd": 97.85
+            },
+            {
+              "text": "He was damp from the rain and felt very cold.",
+              "audioStart": 98.713,
+              "audioEnd": 101.088
+            },
+            {
+              "text": "He decided that he would never go fishing in storms.",
+              "audioStart": 101.95,
+              "audioEnd": 104.662
+            },
+            {
+              "text": "He had learned a very important lesson that afternoon.",
+              "audioStart": 105.525,
+              "audioEnd": 108.05
+            },
+            {
+              "text": "If he went out again, he would watch the weather.",
+              "audioStart": 108.912,
+              "audioEnd": 111.325
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He walked back to his small house with slow steps.",
+              "audioStart": 112.188,
+              "audioEnd": 114.838
+            },
+            {
+              "text": "He had lost his favorite tool in the deep water.",
+              "audioStart": 115.7,
+              "audioEnd": 118.162
+            },
+            {
+              "text": "Still, he was glad that he had survived the event today.",
+              "audioStart": 119.025,
+              "audioEnd": 122.125
+            },
+            {
+              "text": "He would remember this day for a very long time.",
+              "audioStart": 122.987,
+              "audioEnd": 125.412
+            },
+            {
+              "text": "He has never forgotten the lessons of that trip.",
+              "audioStart": 126.275,
+              "audioEnd": 128.625
+            },
+            {
+              "text": "He knew that if he planned another trip, he would check the sky first.",
+              "audioStart": 129.488,
+              "audioEnd": 132.95
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0183.mp3",
+      "wordTimings": "audio/b1/st-0183.timings.json",
+      "quiz": [
+        {
+          "q": "What did Mr. Jeremy Fisher plan to catch for dinner?",
+          "options": [
+            "Small fish",
+            "Large animals",
+            "Green grass"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the weather while he was fishing?",
+          "options": [
+            "It became a sunny day",
+            "Dark clouds appeared and heavy rain fell",
+            "The water became very warm"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did Mr. Jeremy Fisher lose in the water?",
+          "options": [
+            "His small boat",
+            "His favorite fishing pole",
+            "His little house"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The man lived in a nice little house near the water.",
+              "audioStart": 0.1,
+              "audioEnd": 2.65
+            },
+            {
+              "text": "He decided that he would go fishing on a bright day.",
+              "audioStart": 3.513,
+              "audioEnd": 6.037
+            },
+            {
+              "text": "His plan was to catch small fish for his dinner.",
+              "audioStart": 6.9,
+              "audioEnd": 9.375
+            },
+            {
+              "text": "Therefore, he prepared his fishing gear and left his home.",
+              "audioStart": 10.238,
+              "audioEnd": 13.412
+            },
+            {
+              "text": "He walked down to the edge of the water and found a small boat.",
+              "audioStart": 14.275,
+              "audioEnd": 17.262
+            },
+            {
+              "text": "The man climbed into the boat and pushed away from the land.",
+              "audioStart": 18.125,
+              "audioEnd": 20.875
+            },
+            {
+              "text": "He sat down and started to fish with his long stick.",
+              "audioStart": 21.738,
+              "audioEnd": 24.525
+            },
+            {
+              "text": "While he was waiting, he thought about how nice the afternoon felt.",
+              "audioStart": 25.387,
+              "audioEnd": 28.75
+            },
+            {
+              "text": "Suddenly, the weather changed and dark clouds appeared above him.",
+              "audioStart": 29.613,
+              "audioEnd": 32.913
+            },
+            {
+              "text": "Heavy rain began to fall into the water all around him.",
+              "audioStart": 33.775,
+              "audioEnd": 36.612
+            },
+            {
+              "text": "The man tried to pull his boat back to the shore quickly.",
+              "audioStart": 37.475,
+              "audioEnd": 40.263
+            },
+            {
+              "text": "However, a big fish bit his line and pulled him down into the water.",
+              "audioStart": 41.125,
+              "audioEnd": 44.712
+            },
+            {
+              "text": "The water was cold, and he lost his favorite fishing stick.",
+              "audioStart": 45.575,
+              "audioEnd": 48.788
+            },
+            {
+              "text": "A large animal tried to catch him, but he swam away as fast as possible.",
+              "audioStart": 49.65,
+              "audioEnd": 53.725
+            },
+            {
+              "text": "He climbed up onto the green grass, shaking and wet from the rain.",
+              "audioStart": 54.587,
+              "audioEnd": 58.013
+            },
+            {
+              "text": "The man decided that he would never go fishing in the rain again.",
+              "audioStart": 58.875,
+              "audioEnd": 61.913
+            },
+            {
+              "text": "He had spent many hours preparing for that journey.",
+              "audioStart": 62.775,
+              "audioEnd": 65.375
+            },
+            {
+              "text": "The house was warm, which made him feel much safer.",
+              "audioStart": 66.237,
+              "audioEnd": 69.075
+            },
+            {
+              "text": "If he had known about the weather, he would have stayed inside.",
+              "audioStart": 69.938,
+              "audioEnd": 72.812
+            },
+            {
+              "text": "Although the animal was large, it could not reach the green grass.",
+              "audioStart": 73.675,
+              "audioEnd": 77.025
+            },
+            {
+              "text": "Every single moment spent in the water felt dangerous.",
+              "audioStart": 77.888,
+              "audioEnd": 80.713
+            },
+            {
+              "text": "His friends often told him that the lake was full of surprises.",
+              "audioStart": 81.575,
+              "audioEnd": 84.812
+            },
+            {
+              "text": "He understood why people usually checked the sky before leaving.",
+              "audioStart": 85.675,
+              "audioEnd": 88.888
+            },
+            {
+              "text": "The small boat moved away while he was fighting the big fish.",
+              "audioStart": 89.75,
+              "audioEnd": 92.675
+            },
+            {
+              "text": "He hoped that someone might find it floating near the shore.",
+              "audioStart": 93.537,
+              "audioEnd": 96.275
+            },
+            {
+              "text": "After the rain stopped, the air became very quiet and calm.",
+              "audioStart": 97.138,
+              "audioEnd": 100.4
+            },
+            {
+              "text": "He looked across the water and wondered about his lost gear.",
+              "audioStart": 101.263,
+              "audioEnd": 104.175
+            },
+            {
+              "text": "Nothing could change the fact that his favorite stick was gone.",
+              "audioStart": 105.037,
+              "audioEnd": 108.062
+            },
+            {
+              "text": "He walked back to his house with a very tired body.",
+              "audioStart": 108.925,
+              "audioEnd": 111.65
+            },
+            {
+              "text": "The evening came quickly, bringing a sense of relief to him.",
+              "audioStart": 112.513,
+              "audioEnd": 115.638
+            },
+            {
+              "text": "He sat by the warm fire and dried his wet clothes.",
+              "audioStart": 116.5,
+              "audioEnd": 119.35
+            },
+            {
+              "text": "Dinner was simple because he had caught nothing during the trip.",
+              "audioStart": 120.213,
+              "audioEnd": 123.037
+            },
+            {
+              "text": "He promised himself that he would be much more careful next time.",
+              "audioStart": 123.9,
+              "audioEnd": 127.125
+            },
+            {
+              "text": "Life by the water was full of strange events.",
+              "audioStart": 127.987,
+              "audioEnd": 130.275
+            },
+            {
+              "text": "He loved his little home, despite the recent trouble.",
+              "audioStart": 131.137,
+              "audioEnd": 133.963
+            },
+            {
+              "text": "Tomorrow would bring another chance to do things differently.",
+              "audioStart": 134.825,
+              "audioEnd": 137.575
+            },
+            {
+              "text": "For now, rest was the only thing that mattered to him.",
+              "audioStart": 138.438,
+              "audioEnd": 141.3
+            },
+            {
+              "text": "He closed his eyes and fell into a deep sleep.",
+              "audioStart": 142.162,
+              "audioEnd": 144.637
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man woke up early the next morning.",
+              "audioStart": 145.5,
+              "audioEnd": 147.5
+            },
+            {
+              "text": "The sun was shining brightly across the calm water.",
+              "audioStart": 148.363,
+              "audioEnd": 150.925
+            },
+            {
+              "text": "He walked out of his house and looked toward the lake.",
+              "audioStart": 151.787,
+              "audioEnd": 154.262
+            },
+            {
+              "text": "Everything looked quiet, as if nothing bad had happened.",
+              "audioStart": 155.125,
+              "audioEnd": 158.162
+            },
+            {
+              "text": "He remembered the big fish that had pulled him under.",
+              "audioStart": 159.025,
+              "audioEnd": 161.475
+            },
+            {
+              "text": "A small smile appeared on his face despite the memory.",
+              "audioStart": 162.338,
+              "audioEnd": 165.137
+            },
+            {
+              "text": "He decided to make a cup of hot tea instead of fishing.",
+              "audioStart": 166,
+              "audioEnd": 169.025
+            },
+            {
+              "text": "While he drank his tea, he read a book by the window.",
+              "audioStart": 169.887,
+              "audioEnd": 172.713
+            },
+            {
+              "text": "The book was about animals that lived near the water.",
+              "audioStart": 173.575,
+              "audioEnd": 176.025
+            },
+            {
+              "text": "He wondered if the same animal was still watching him.",
+              "audioStart": 176.887,
+              "audioEnd": 179.325
+            },
+            {
+              "text": "Of course, he could not be sure about anything.",
+              "audioStart": 180.188,
+              "audioEnd": 182.7
+            },
+            {
+              "text": "The morning air felt fresh and cool against his skin.",
+              "audioStart": 183.562,
+              "audioEnd": 186.4
+            },
+            {
+              "text": "He felt grateful that he had survived the strange adventure.",
+              "audioStart": 187.262,
+              "audioEnd": 190.05
+            },
+            {
+              "text": "If he went back to the lake, he would use better equipment.",
+              "audioStart": 190.912,
+              "audioEnd": 193.85
+            },
+            {
+              "text": "His little house offered all the protection that he needed.",
+              "audioStart": 194.713,
+              "audioEnd": 197.4
+            },
+            {
+              "text": "He spent the rest of the day cleaning his wet clothes.",
+              "audioStart": 198.262,
+              "audioEnd": 200.912
+            },
+            {
+              "text": "By afternoon, he felt completely normal again.",
+              "audioStart": 201.775,
+              "audioEnd": 204.475
+            },
+            {
+              "text": "The experience taught him a very important lesson.",
+              "audioStart": 205.338,
+              "audioEnd": 207.887
+            },
+            {
+              "text": "Nature was powerful, and people had to respect it.",
+              "audioStart": 208.75,
+              "audioEnd": 211.688
+            },
+            {
+              "text": "He would always remember the cold water and the dark clouds.",
+              "audioStart": 212.55,
+              "audioEnd": 215.475
+            },
+            {
+              "text": "Even so, he still loved his quiet life by the lake.",
+              "audioStart": 216.338,
+              "audioEnd": 219.488
+            },
+            {
+              "text": "The sun began to set, painting the sky in soft colors.",
+              "audioStart": 220.35,
+              "audioEnd": 223.713
+            },
+            {
+              "text": "He closed his front door and prepared for another night.",
+              "audioStart": 224.575,
+              "audioEnd": 227.287
+            },
+            {
+              "text": "The man knew that he was safe inside his home.",
+              "audioStart": 228.15,
+              "audioEnd": 230.512
+            },
+            {
+              "text": "He looked forward to whatever the future might bring him.",
+              "audioStart": 231.375,
+              "audioEnd": 234
+            },
+            {
+              "text": "He thought about the boat that had moved away.",
+              "audioStart": 234.863,
+              "audioEnd": 236.85
+            },
+            {
+              "text": "He hoped that the boat was safe somewhere near land.",
+              "audioStart": 237.713,
+              "audioEnd": 240.162
+            },
+            {
+              "text": "Perhaps a local person would bring it back to him.",
+              "audioStart": 241.025,
+              "audioEnd": 243.463
+            },
+            {
+              "text": "The fire in the room burned with a bright light.",
+              "audioStart": 244.325,
+              "audioEnd": 246.675
+            },
+            {
+              "text": "He ate some simple food and drank more hot tea.",
+              "audioStart": 247.537,
+              "audioEnd": 250.262
+            },
+            {
+              "text": "His body felt tired from all the work in the water.",
+              "audioStart": 251.125,
+              "audioEnd": 253.762
+            },
+            {
+              "text": "He knew that he must rest for another big day.",
+              "audioStart": 254.625,
+              "audioEnd": 256.938
+            },
+            {
+              "text": "The sound of the wind outside was very quiet now.",
+              "audioStart": 257.8,
+              "audioEnd": 260.288
+            },
+            {
+              "text": "He checked his clothes to make sure they were dry.",
+              "audioStart": 261.15,
+              "audioEnd": 263.475
+            },
+            {
+              "text": "Everything was in order inside his small living space.",
+              "audioStart": 264.337,
+              "audioEnd": 268.483
+            },
+            {
+              "text": "He smiled again when he thought about his bed.",
+              "audioStart": 269.346,
+              "audioEnd": 271.546
+            },
+            {
+              "text": "The night grew darker as the hours passed slowly.",
+              "audioStart": 272.409,
+              "audioEnd": 275.009
+            },
+            {
+              "text": "He closed his eyes and slept until the morning came.",
+              "audioStart": 275.871,
+              "audioEnd": 278.558
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many days passed after the strange event at the lake.",
+              "audioStart": 279.421,
+              "audioEnd": 282.221
+            },
+            {
+              "text": "The man lived quietly and focused on small daily tasks.",
+              "audioStart": 283.084,
+              "audioEnd": 286.396
+            },
+            {
+              "text": "He spent his mornings reading books and drinking hot tea.",
+              "audioStart": 287.259,
+              "audioEnd": 290.284
+            },
+            {
+              "text": "Sometimes he walked near the edge of the water to watch the birds.",
+              "audioStart": 291.146,
+              "audioEnd": 294.334
+            },
+            {
+              "text": "He always checked the sky before stepping outside his door.",
+              "audioStart": 295.196,
+              "audioEnd": 298.196
+            },
+            {
+              "text": "The memory of the big fish remained fresh in his mind.",
+              "audioStart": 299.058,
+              "audioEnd": 301.796
+            },
+            {
+              "text": "He knew that nature demanded respect from every person.",
+              "audioStart": 302.659,
+              "audioEnd": 305.483
+            },
+            {
+              "text": "His friends often visited him to talk about the old days.",
+              "audioStart": 306.346,
+              "audioEnd": 309.346
+            },
+            {
+              "text": "They brought food and shared stories about local events.",
+              "audioStart": 310.209,
+              "audioEnd": 313.084
+            },
+            {
+              "text": "He told them about the large animal in the deep water.",
+              "audioStart": 313.946,
+              "audioEnd": 316.521
+            },
+            {
+              "text": "They listened with great interest and agreed with his caution.",
+              "audioStart": 317.384,
+              "audioEnd": 320.296
+            },
+            {
+              "text": "Nobody wanted to face such danger during a simple trip.",
+              "audioStart": 321.159,
+              "audioEnd": 324.071
+            },
+            {
+              "text": "He felt happy that he had survived the terrifying moment.",
+              "audioStart": 324.933,
+              "audioEnd": 327.784
+            },
+            {
+              "text": "His little house provided a safe place from every storm.",
+              "audioStart": 328.646,
+              "audioEnd": 331.696
+            },
+            {
+              "text": "The warm fire kept him comfortable during cold evenings.",
+              "audioStart": 332.558,
+              "audioEnd": 335.571
+            },
+            {
+              "text": "He realized that life was precious and full of unexpected turns.",
+              "audioStart": 336.433,
+              "audioEnd": 340.046
+            },
+            {
+              "text": "Every single night brought peace and deep rest to him.",
+              "audioStart": 340.909,
+              "audioEnd": 343.571
+            },
+            {
+              "text": "He promised to keep his distance from the deep lake.",
+              "audioStart": 344.433,
+              "audioEnd": 347.009
+            },
+            {
+              "text": "The sun rose again, bringing light to the beautiful world.",
+              "audioStart": 347.871,
+              "audioEnd": 350.858
+            },
+            {
+              "text": "He smiled as he started another peaceful day at home.",
+              "audioStart": 351.721,
+              "audioEnd": 354.421
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0183.mp3",
+      "wordTimings": "audio/b2/st-0183.timings.json",
+      "quiz": [
+        {
+          "q": "Where did Mr. Jeremy Fisher live?",
+          "options": [
+            "In a little house near the water",
+            "In a big city hotel",
+            "Inside a dark mountain cave"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened while he was waiting in his boat?",
+          "options": [
+            "The weather changed and heavy rain fell",
+            "A friendly bird brought him food",
+            "The sun became very hot and bright"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did Mr. Jeremy Fisher decide at the end of the story?",
+          "options": [
+            "To buy a new boat",
+            "To never go fishing in the rain again",
+            "To live in a different house"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mr. Jeremy Fisher inhabited an impeccably damp little house situated near the marge of a vast and glittering water. It was upon a morning of singular brightness that he resolved to indulge in the gentle art of angling. His ambition was merely to secure a brace of small minnows for his evening repast. Accordingly, he meticulously prepared his tackle and stepped out into the luminous air. Descending the grassy slope to the water's edge, he discovered a diminutive wooden boat resting quietly among the reeds. Without hesitation, he clambered inside and pushed away from the solid land. He settled himself upon the wooden thwart and began to cast his long bamboo rod with practiced ease.",
+              "audioStart": 0.1,
+              "audioEnd": 40.712
+            },
+            {
+              "text": "While he waited for a bite, he reflected upon how pleasant the afternoon felt. The sunlight danced upon the ripples, and a profound sense of tranquility enveloped him. Suddenly, however, the atmosphere underwent a swift and ominous transformation. Dark, swollen clouds gathered overhead, blotting out the benevolent sun with alarming speed. Heavy drops of rain began to pelt the surface of the water all around his tiny vessel. Alarmed by the tempest, the fisherman attempted to pull his boat back toward the safety of the shore.",
+              "audioStart": 41.575,
+              "audioEnd": 73.775
+            },
+            {
+              "text": "Scarcely had he turned his craft when a monstrous fish struck his line with violent force. The creature was so powerful that it dragged him clean over the gunwale and down into the murky water. The temperature of the lake struck him as intensely cold, shocking his senses. In the chaotic struggle, he let go of his favorite fishing rod forever. A vast, shadowy animal lunged toward him from the depths, attempting to engulf him entirely. Exhibiting remarkable agility, he swam away from the menace as fast as his trembling limbs could propel him.",
+              "audioStart": 74.638,
+              "audioEnd": 107.975
+            },
+            {
+              "text": "He scrambled up the verdant embankment, dripping wet and shivering violently from the sudden chill. Standing upon the secure turf, the beleaguered man vowed that he would never venture fishing in the rain again. He had spent many hours preparing for that disastrous journey, only for it to unravel in moments. Fortunately, his little house stood nearby, and its promise of warmth made him feel vastly safer. Had he possessed any foreknowledge of the tempest, he would have remained indoors by his hearth. Although the massive aquatic beast was formidable, it possessed no means to reach the green grass where he stood.",
+              "audioStart": 108.838,
+              "audioEnd": 144.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every single moment spent submerged in that treacherous water had felt perilous in the extreme. His well-meaning friends had frequently warned him that the lake was harboring countless unpredictable surprises. Now he fully understood why sensible people invariably consulted the sky before embarking on such expeditions. His small boat had drifted away into the mist while he was engaged in his aquatic struggle. He could only hope that someone might eventually recover it floating safely near the opposite shore. Once the torrential rain finally ceased, the surrounding air grew remarkably quiet and calm.",
+              "audioStart": 145.488,
+              "audioEnd": 180.912
+            },
+            {
+              "text": "He gazed across the glassy expanse of the water and mourned the loss of his cherished gear. Nothing could alter the bitter truth that his finest rod was gone forever. With a heavy sigh, he walked back toward his dwelling with a thoroughly exhausted body. The evening arrived with unusual swiftness, bringing a profound sense of relief to his tired spirit. He seated himself beside a crackling fire and dried his soaked garments with meticulous care. Dinner proved exceedingly simple, consisting of meager scraps since his expedition had yielded nothing.",
+              "audioStart": 181.775,
+              "audioEnd": 214.738
+            },
+            {
+              "text": "He promised himself faithfully that he would exercise far greater caution during future outings. Life by the margins of the lake was undeniably fraught with strange and unexpected events. He loved his cozy little home intensely, despite the recent trauma he had endured. Tomorrow would inevitably dawn with another chance to conduct his affairs quite differently. For the present moment, however, absolute rest remained the only priority of any consequence. He closed his weary eyes and sank quickly into a deep, dreamless slumber.",
+              "audioStart": 215.6,
+              "audioEnd": 247.912
+            },
+            {
+              "text": "With the arrival of the next morning, the man awoke remarkably early. The sun was shining brightly once more, casting a golden hue across the calm water. He stepped out of his front door and looked toward the shimmering lake. Everything appeared preternaturally quiet, as though no disaster had transpired the previous afternoon. The memory of the colossal fish dragging him beneath the surface flashed vividly through his mind. Despite the unpleasant recollection, a small, ironic smile crept across his weathered face.",
+              "audioStart": 248.775,
+              "audioEnd": 281.046
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He resolved to abandon all thoughts of fishing in favor of a comforting cup of hot tea. While sipping his warm brew, he sat by the window and immersed himself in a volume detailing aquatic wildlife. A nagging curiosity prompted him to wonder if the identical creature was still watching him from the depths. Of course, he could never attain absolute certainty regarding such matters. The morning air felt invigoratingly fresh and cool against his sensitive skin. He felt profoundly grateful for having survived his bizarre and terrifying adventure.",
+              "audioStart": 281.909,
+              "audioEnd": 314.509
+            },
+            {
+              "text": "Should he ever return to the lake, he determined to equip himself with vastly superior apparatus. His modest little cottage offered all the fundamental protection that any reasonable creature could possibly require. He spent the remainder of the day laundering his wet clothes and restoring order to his parlor. By the time afternoon arrived, his customary equilibrium had completely returned. The harrowing experience had imparted a stern and unforgettable lesson about the forces of the natural world. Nature was undeniably powerful, demanding the utmost respect from all who crossed her path.",
+              "audioStart": 315.372,
+              "audioEnd": 350.796
+            },
+            {
+              "text": "The memory of the freezing water and the gathering dark clouds would remain with him forever. Even so, his affection for his quiet, solitary life by the lake remained entirely undiminished. As the sun began its descent, it painted the firmament in delicate shades of amber and rose. He carefully closed his front door and bolted it securely against the approaching night. He possessed absolute confidence that he was entirely safe within the confines of his sanctuary. He looked forward with quiet optimism to whatever the mysterious future might eventually unveil.",
+              "audioStart": 351.659,
+              "audioEnd": 385.247
+            },
+            {
+              "text": "Many peaceful days elapsed following the dramatic incident at the lake. The man lived quietly, devoting his time exclusively to humble daily chores and quiet contemplation. He spent his mornings reading edifying books and sipping fragrant tea by his sunlit window. Whenever he strolled near the water's edge, he merely observed the waterbirds with detached curiosity. Before stepping outside his threshold, he invariably cast a cautious glance upward at the shifting sky. The memory of the giant fish remained a sharp reminder that nature required constant deference.",
+              "audioStart": 386.109,
+              "audioEnd": 420.272
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His acquaintances occasionally dropped by for afternoon visits to reminisce about bygone eras. They brought gifts of wholesome food and shared local gossip regarding various neighborhood happenings. He recounted his dramatic encounter with the monstrous beast lurking in the deep water. They listened with rapt attention, nodding solemnly and validating his newfound sense of caution. Not a single person among them wished to court such peril during a leisurely outing. He felt immensely fortunate to have escaped such a grim fate with his life intact.",
+              "audioStart": 421.134,
+              "audioEnd": 453.372
+            },
+            {
+              "text": "His snug dwelling continued to serve as an impenetrable fortress against every conceivable storm outside. The comforting hearth fire kept him thoroughly warm during the increasingly crisp autumn evenings. He recognized with absolute clarity that human existence was remarkably precious and deeply unpredictable. Every single night brought renewed peace and restorative rest to his weary frame. He maintained his solemn vow to keep a safe distance from the center of the lake. The sun rose majestically once more, illuminating a world of breathtaking beauty.",
+              "audioStart": 454.234,
+              "audioEnd": 487.284
+            },
+            {
+              "text": "He smiled gently as he commenced another thoroughly uneventful and harmonious day at home. The quiet routine provided him with a profound and abiding sense of fulfillment. Nothing could disrupt the serene rhythm of his days now that he understood his limitations. He brewed his tea, tended his garden, and enjoyed the simple pleasures of solitude. The lake glittered in the distance, a silent neighbor holding its many secrets beneath the surface. He felt completely at peace with his surroundings and with himself.",
+              "audioStart": 488.147,
+              "audioEnd": 519.684
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0183.mp3",
+      "wordTimings": "audio/c1/st-0183.timings.json",
+      "quiz": [
+        {
+          "q": "What specific item did Mr. Jeremy Fisher lose during his struggle in the water?",
+          "options": [
+            "His favorite fishing rod",
+            "His wooden boat",
+            "His cup of hot tea"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What caused the fisherman to fall out of his boat and into the lake?",
+          "options": [
+            "A sudden gust of wind tipping the vessel",
+            "A massive fish pulling him over the gunwale",
+            "A heavy drop of rain striking his head"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Mr. Jeremy Fisher spend his time on the morning after the incident?",
+          "options": [
+            "He went back to the lake to catch the big fish.",
+            "He drank hot tea and read a book by the window.",
+            "He traveled to the nearby village to see his friends."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

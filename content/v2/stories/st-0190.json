@@ -1,0 +1,1430 @@
+{
+  "id": "st-0190",
+  "title": "Aladdin and the Wonderful Lamp",
+  "genre": "adventure",
+  "summary": "A poor young boy finds a magic lamp that changes his life forever.",
+  "coverScene": "A young boy holds a glowing magic lamp inside a quiet, starry room.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "One young child lives in a large country.",
+              "audioStart": 0.106,
+              "audioEnd": 2.564
+            },
+            {
+              "text": "He lives with his mother.",
+              "audioStart": 3.528,
+              "audioEnd": 4.972
+            },
+            {
+              "text": "They have little money.",
+              "audioStart": 5.931,
+              "audioEnd": 7.111
+            },
+            {
+              "text": "Life is hard for them.",
+              "audioStart": 8.069,
+              "audioEnd": 9.389
+            },
+            {
+              "text": "One day, a man comes to them.",
+              "audioStart": 10.347,
+              "audioEnd": 12.472
+            },
+            {
+              "text": "The man calls the child family.",
+              "audioStart": 13.431,
+              "audioEnd": 15.347
+            },
+            {
+              "text": "The man wants to go far away.",
+              "audioStart": 16.306,
+              "audioEnd": 18.139
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They walk to a high place.",
+              "audioStart": 19.097,
+              "audioEnd": 20.708
+            },
+            {
+              "text": "The man shows a big rock to him.",
+              "audioStart": 21.667,
+              "audioEnd": 23.583
+            },
+            {
+              "text": "The child moves the rock.",
+              "audioStart": 24.542,
+              "audioEnd": 26.097
+            },
+            {
+              "text": "A small room is under it.",
+              "audioStart": 27.056,
+              "audioEnd": 28.542
+            },
+            {
+              "text": "The man tells the child to go down.",
+              "audioStart": 29.5,
+              "audioEnd": 31.625
+            },
+            {
+              "text": "The child must bring an old fire source.",
+              "audioStart": 32.583,
+              "audioEnd": 34.986
+            },
+            {
+              "text": "The child goes down into the room.",
+              "audioStart": 35.944,
+              "audioEnd": 37.847
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He finds the old fire source.",
+              "audioStart": 38.806,
+              "audioEnd": 40.764
+            },
+            {
+              "text": "The man wants only that thing.",
+              "audioStart": 41.722,
+              "audioEnd": 43.514
+            },
+            {
+              "text": "The child comes to the top.",
+              "audioStart": 44.472,
+              "audioEnd": 46.125
+            },
+            {
+              "text": "The man asks for the fire source.",
+              "audioStart": 47.083,
+              "audioEnd": 49.181
+            },
+            {
+              "text": "The child is not glad.",
+              "audioStart": 50.139,
+              "audioEnd": 51.694
+            },
+            {
+              "text": "He keeps the fire source.",
+              "audioStart": 52.653,
+              "audioEnd": 54.347
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man puts the rock back.",
+              "audioStart": 55.306,
+              "audioEnd": 56.986
+            },
+            {
+              "text": "The child is in the room.",
+              "audioStart": 57.944,
+              "audioEnd": 59.417
+            },
+            {
+              "text": "He sits and starts to cry.",
+              "audioStart": 60.375,
+              "audioEnd": 62.083
+            },
+            {
+              "text": "His hand touches the fire source.",
+              "audioStart": 63.042,
+              "audioEnd": 65.125
+            },
+            {
+              "text": "A big power friend appears.",
+              "audioStart": 66.083,
+              "audioEnd": 67.944
+            },
+            {
+              "text": "The friend gives light.",
+              "audioStart": 68.903,
+              "audioEnd": 70.236
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The friend says he helps his leader.",
+              "audioStart": 71.194,
+              "audioEnd": 73.167
+            },
+            {
+              "text": "The child asks to go home.",
+              "audioStart": 74.125,
+              "audioEnd": 75.819
+            },
+            {
+              "text": "He is back with his mother.",
+              "audioStart": 76.778,
+              "audioEnd": 78.292
+            },
+            {
+              "text": "The child uses the power.",
+              "audioStart": 79.25,
+              "audioEnd": 80.889
+            },
+            {
+              "text": "His life changes now.",
+              "audioStart": 81.847,
+              "audioEnd": 83.292
+            },
+            {
+              "text": "They get good food.",
+              "audioStart": 84.25,
+              "audioEnd": 85.431
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They have a great new house.",
+              "audioStart": 86.389,
+              "audioEnd": 87.944
+            },
+            {
+              "text": "The child grows up.",
+              "audioStart": 88.903,
+              "audioEnd": 90.153
+            },
+            {
+              "text": "People love him around the city.",
+              "audioStart": 91.111,
+              "audioEnd": 92.875
+            },
+            {
+              "text": "He loves a woman.",
+              "audioStart": 93.833,
+              "audioEnd": 94.944
+            },
+            {
+              "text": "They live a good life.",
+              "audioStart": 95.903,
+              "audioEnd": 97.222
+            },
+            {
+              "text": "The power keeps them safe every day.",
+              "audioStart": 98.181,
+              "audioEnd": 100.375
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0190.mp3",
+      "wordTimings": "audio/a1/st-0190.timings.json",
+      "quiz": [
+        {
+          "q": "Who comes to the house one day?",
+          "options": [
+            "A strange man",
+            "A little child",
+            "A rich woman"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the man want from the room?",
+          "options": [
+            "Some money",
+            "An old lamp",
+            "Fine clothes"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What appears when the boy rubs the lamp?",
+          "options": [
+            "A magical spirit",
+            "An angry man",
+            "A strange child"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a young boy lived.",
+              "audioStart": 0.106,
+              "audioEnd": 2.425
+            },
+            {
+              "text": "He lived in a large country.",
+              "audioStart": 3.389,
+              "audioEnd": 5.097
+            },
+            {
+              "text": "He lived with his mother.",
+              "audioStart": 6.056,
+              "audioEnd": 7.486
+            },
+            {
+              "text": "They had very little money.",
+              "audioStart": 8.444,
+              "audioEnd": 9.944
+            },
+            {
+              "text": "Life was hard for them.",
+              "audioStart": 10.903,
+              "audioEnd": 12.306
+            },
+            {
+              "text": "One day, a very unusual man came to the house.",
+              "audioStart": 13.264,
+              "audioEnd": 16.542
+            },
+            {
+              "text": "The man called the boy his family member.",
+              "audioStart": 17.5,
+              "audioEnd": 19.819
+            },
+            {
+              "text": "The man wanted the boy to go with him.",
+              "audioStart": 20.778,
+              "audioEnd": 22.931
+            },
+            {
+              "text": "They went far away together.",
+              "audioStart": 23.889,
+              "audioEnd": 25.514
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They walked for a long time.",
+              "audioStart": 26.472,
+              "audioEnd": 28.139
+            },
+            {
+              "text": "They reached a place near the high land.",
+              "audioStart": 29.097,
+              "audioEnd": 31.181
+            },
+            {
+              "text": "The man showed the boy a big rock.",
+              "audioStart": 32.139,
+              "audioEnd": 34.139
+            },
+            {
+              "text": "The rock was on the ground.",
+              "audioStart": 35.097,
+              "audioEnd": 36.667
+            },
+            {
+              "text": "The man asked him to move it.",
+              "audioStart": 37.625,
+              "audioEnd": 39.319
+            },
+            {
+              "text": "Under the rock, there was a small room.",
+              "audioStart": 40.278,
+              "audioEnd": 42.583
+            },
+            {
+              "text": "The room had an old step inside.",
+              "audioStart": 43.542,
+              "audioEnd": 45.472
+            },
+            {
+              "text": "The man told the boy to bring back an old light source.",
+              "audioStart": 46.431,
+              "audioEnd": 49.528
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The boy went down into the room.",
+              "audioStart": 50.486,
+              "audioEnd": 52.25
+            },
+            {
+              "text": "The boy found the light source.",
+              "audioStart": 53.208,
+              "audioEnd": 55
+            },
+            {
+              "text": "The room was dark.",
+              "audioStart": 55.958,
+              "audioEnd": 57.139
+            },
+            {
+              "text": "He saw many things in the room.",
+              "audioStart": 58.097,
+              "audioEnd": 59.875
+            },
+            {
+              "text": "The man only wanted the light source.",
+              "audioStart": 60.833,
+              "audioEnd": 62.986
+            },
+            {
+              "text": "The boy came to the top of the step.",
+              "audioStart": 63.944,
+              "audioEnd": 65.958
+            },
+            {
+              "text": "The man asked for the light source immediately.",
+              "audioStart": 66.917,
+              "audioEnd": 69.417
+            },
+            {
+              "text": "The boy was not sure.",
+              "audioStart": 70.375,
+              "audioEnd": 71.833
+            },
+            {
+              "text": "He kept the light source.",
+              "audioStart": 72.792,
+              "audioEnd": 74.403
+            },
+            {
+              "text": "He said he would give it after leaving the space.",
+              "audioStart": 75.361,
+              "audioEnd": 77.944
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man became very bad.",
+              "audioStart": 78.903,
+              "audioEnd": 80.569
+            },
+            {
+              "text": "The man pushed the big rock back over the space.",
+              "audioStart": 81.528,
+              "audioEnd": 84.5
+            },
+            {
+              "text": "He left the boy there alone.",
+              "audioStart": 85.458,
+              "audioEnd": 87.125
+            },
+            {
+              "text": "The poor boy sat in the dark.",
+              "audioStart": 88.083,
+              "audioEnd": 89.972
+            },
+            {
+              "text": "He began to make a sound like an unhappy voice.",
+              "audioStart": 90.931,
+              "audioEnd": 93.75
+            },
+            {
+              "text": "He felt so bad.",
+              "audioStart": 94.708,
+              "audioEnd": 96
+            },
+            {
+              "text": "His hand touched the side of बचाने the light source.",
+              "audioStart": 96.958,
+              "audioEnd": 99.444
+            },
+            {
+              "text": "The light source was made of solid matter.",
+              "audioStart": 100.403,
+              "audioEnd": 102.653
+            },
+            {
+              "text": "Suddenly, a huge person appeared.",
+              "audioStart": 103.611,
+              "audioEnd": 105.833
+            },
+            {
+              "text": "The person brought a high light.",
+              "audioStart": 106.792,
+              "audioEnd": 108.5
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The great person told the boy he would do anything.",
+              "audioStart": 109.458,
+              "audioEnd": 112.278
+            },
+            {
+              "text": "The boy asked the person to help him return home.",
+              "audioStart": 113.236,
+              "audioEnd": 115.972
+            },
+            {
+              "text": "The boy was back at his house in a moment.",
+              "audioStart": 116.931,
+              "audioEnd": 119.25
+            },
+            {
+              "text": "His mother was there too.",
+              "audioStart": 120.208,
+              "audioEnd": 121.681
+            },
+            {
+              "text": "From that day, the boy used the light source to change life.",
+              "audioStart": 122.639,
+              "audioEnd": 126.347
+            },
+            {
+              "text": "With the person, they received nice food.",
+              "audioStart": 127.306,
+              "audioEnd": 129.806
+            },
+            {
+              "text": "They received fine clothes and a great home.",
+              "audioStart": 130.764,
+              "audioEnd": 133.333
+            },
+            {
+              "text": "The boy grew up into a happy man.",
+              "audioStart": 134.292,
+              "audioEnd": 136.25
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "People all around the city loved him.",
+              "audioStart": 137.208,
+              "audioEnd": 139.222
+            },
+            {
+              "text": "He married a fine woman.",
+              "audioStart": 140.181,
+              "audioEnd": 141.611
+            },
+            {
+              "text": "They lived a good life together.",
+              "audioStart": 142.569,
+              "audioEnd": 144.25
+            },
+            {
+              "text": "The light source always kept them well.",
+              "audioStart": 145.208,
+              "audioEnd": 147.319
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0190.mp3",
+      "wordTimings": "audio/a2/st-0190.timings.json",
+      "quiz": [
+        {
+          "q": "Who came to the house one day?",
+          "options": [
+            "A strange man",
+            "A happy woman",
+            "An old doctor"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the man want from the room?",
+          "options": [
+            "A heavy stone",
+            "A wonderful old lamp",
+            "Some nice food"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What appeared when the boy rubbed the lamp?",
+          "options": [
+            "A strange man",
+            "A huge magical spirit",
+            "A big animal"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a young boy lived in a large country with his mother.",
+              "audioStart": 0.1,
+              "audioEnd": 3.775
+            },
+            {
+              "text": "They had very little money, and life was hard.",
+              "audioStart": 4.638,
+              "audioEnd": 7.125
+            },
+            {
+              "text": "One day, a strange man came to the house.",
+              "audioStart": 7.987,
+              "audioEnd": 10.425
+            },
+            {
+              "text": "The man called the boy his lost family member.",
+              "audioStart": 11.287,
+              "audioEnd": 13.725
+            },
+            {
+              "text": "The man wanted the boy to go with him to a secret place far away.",
+              "audioStart": 14.588,
+              "audioEnd": 17.875
+            },
+            {
+              "text": "They walked for a long time until they reached a high mountain.",
+              "audioStart": 18.738,
+              "audioEnd": 21.55
+            },
+            {
+              "text": "The man showed the boy a heavy stone on the ground.",
+              "audioStart": 22.413,
+              "audioEnd": 24.8
+            },
+            {
+              "text": "He asked him to move it.",
+              "audioStart": 25.663,
+              "audioEnd": 26.95
+            },
+            {
+              "text": "Under the stone, there was a small room with an old step going down.",
+              "audioStart": 27.812,
+              "audioEnd": 31.325
+            },
+            {
+              "text": "The man told the boy to bring back a wonderful old lamp.",
+              "audioStart": 32.188,
+              "audioEnd": 35.013
+            },
+            {
+              "text": "The boy went down and found the object in the dark room.",
+              "audioStart": 35.875,
+              "audioEnd": 38.725
+            },
+            {
+              "text": "He also saw many beautiful things.",
+              "audioStart": 39.587,
+              "audioEnd": 41.65
+            },
+            {
+              "text": "However, the man only wanted the lamp.",
+              "audioStart": 42.513,
+              "audioEnd": 44.725
+            },
+            {
+              "text": "The boy came to the top of the step with the item.",
+              "audioStart": 45.587,
+              "audioEnd": 47.875
+            },
+            {
+              "text": "The man asked for the item immediately.",
+              "audioStart": 48.737,
+              "audioEnd": 50.775
+            },
+            {
+              "text": "The boy was afraid.",
+              "audioStart": 51.638,
+              "audioEnd": 52.75
+            },
+            {
+              "text": "He kept the lamp and said he would give it only after leaving the hole.",
+              "audioStart": 53.612,
+              "audioEnd": 56.85
+            },
+            {
+              "text": "The angry man pushed the heavy stone back over the hole.",
+              "audioStart": 57.712,
+              "audioEnd": 60.462
+            },
+            {
+              "text": "He left the boy there by himself.",
+              "audioStart": 61.325,
+              "audioEnd": 63.175
+            },
+            {
+              "text": "The poor boy sat in the dark and began to cry.",
+              "audioStart": 64.037,
+              "audioEnd": 66.612
+            },
+            {
+              "text": "He felt so alone.",
+              "audioStart": 67.475,
+              "audioEnd": 68.65
+            },
+            {
+              "text": "While he was crying, his hand touched the side of the metal object by accident.",
+              "audioStart": 69.513,
+              "audioEnd": 73.675
+            },
+            {
+              "text": "Suddenly, a huge amazing spirit appeared from the object with a bright light.",
+              "audioStart": 74.537,
+              "audioEnd": 78.763
+            },
+            {
+              "text": "The powerful spirit told the boy that he would do whatever the master wanted.",
+              "audioStart": 79.625,
+              "audioEnd": 83.25
+            },
+            {
+              "text": "The boy asked the spirit to help him leave that dark place.",
+              "audioStart": 84.112,
+              "audioEnd": 87.175
+            },
+            {
+              "text": "He wanted to return home safely.",
+              "audioStart": 88.037,
+              "audioEnd": 89.888
+            },
+            {
+              "text": "In a single moment, the boy was back at his house with his mother.",
+              "audioStart": 90.75,
+              "audioEnd": 94.188
+            },
+            {
+              "text": "From that day, the young boy has used the special power to change his life completely.",
+              "audioStart": 95.05,
+              "audioEnd": 99.55
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "With the help of the spirit, they have received nice food.",
+              "audioStart": 100.412,
+              "audioEnd": 103.2
+            },
+            {
+              "text": "They also have got fine clothes and a great new home.",
+              "audioStart": 104.062,
+              "audioEnd": 106.85
+            },
+            {
+              "text": "The boy grew up into a happy man.",
+              "audioStart": 107.713,
+              "audioEnd": 109.475
+            },
+            {
+              "text": "People all around the city loved him.",
+              "audioStart": 110.338,
+              "audioEnd": 112.15
+            },
+            {
+              "text": "He eventually married a wonderful woman.",
+              "audioStart": 113.013,
+              "audioEnd": 115.062
+            },
+            {
+              "text": "They lived a calm life together.",
+              "audioStart": 115.925,
+              "audioEnd": 117.5
+            },
+            {
+              "text": "Even though danger tried to return later, the special power always has kept them safe.",
+              "audioStart": 118.362,
+              "audioEnd": 123.075
+            },
+            {
+              "text": "The boy has never forgotten his past.",
+              "audioStart": 123.938,
+              "audioEnd": 126.013
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0190.mp3",
+      "wordTimings": "audio/b1/st-0190.timings.json",
+      "quiz": [
+        {
+          "q": "What did the strange man ask the boy to bring back from the small room?",
+          "options": [
+            "A wonderful old lamp",
+            "Some beautiful money",
+            "A heavy stone"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened after the boy refused to give the lamp right away?",
+          "options": [
+            "The man gave him food and clothes",
+            "The man pushed the heavy stone over the hole",
+            "The man climbed down the ladder"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the boy summon the magical spirit?",
+          "options": [
+            "By shouting in the dark room",
+            "By moving the heavy stone",
+            "By rubbing the side of the metal lamp"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a young boy lived in a large country with his mother.",
+              "audioStart": 0.1,
+              "audioEnd": 3.775
+            },
+            {
+              "text": "They had very little money, and life was hard for both of them.",
+              "audioStart": 4.638,
+              "audioEnd": 7.838
+            },
+            {
+              "text": "One day, a strange man came to the house and called the boy his lost family member.",
+              "audioStart": 8.7,
+              "audioEnd": 13.238
+            },
+            {
+              "text": "The man wanted the boy to go with him to a secret place far away.",
+              "audioStart": 14.1,
+              "audioEnd": 17.387
+            },
+            {
+              "text": "They walked for a long time until they reached a remote mountain.",
+              "audioStart": 18.25,
+              "audioEnd": 21.225
+            },
+            {
+              "text": "The man showed the boy a heavy stone on the ground and asked him to move it.",
+              "audioStart": 22.087,
+              "audioEnd": 25.65
+            },
+            {
+              "text": "Below the stone, there was a small room with an old step going down.",
+              "audioStart": 26.512,
+              "audioEnd": 30.05
+            },
+            {
+              "text": "The man told the boy to climb down and bring back a wonderful old light.",
+              "audioStart": 30.913,
+              "audioEnd": 34.525
+            },
+            {
+              "text": "The boy went down the step and found the wonderful light in the dark room.",
+              "audioStart": 35.388,
+              "audioEnd": 38.812
+            },
+            {
+              "text": "He also saw many beautiful things, but the man only wanted the light.",
+              "audioStart": 39.675,
+              "audioEnd": 43.487
+            },
+            {
+              "text": "When the boy came to the top of the step, the man asked for the light immediately.",
+              "audioStart": 44.35,
+              "audioEnd": 48.362
+            },
+            {
+              "text": "The boy was afraid, so he kept the light and said he would give it only after leaving the hole.",
+              "audioStart": 49.225,
+              "audioEnd": 53.85
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The angry man pushed the heavy stone back over the hole and left the boy there by himself.",
+              "audioStart": 54.712,
+              "audioEnd": 59.3
+            },
+            {
+              "text": "The poor boy sat in the dark and began to cry because he felt so weak.",
+              "audioStart": 60.163,
+              "audioEnd": 64
+            },
+            {
+              "text": "While he was crying, his hand touched the side of the old metal light by accident.",
+              "audioStart": 64.862,
+              "audioEnd": 69.112
+            },
+            {
+              "text": "Suddenly, a huge power creature appeared from the light with a bright shine.",
+              "audioStart": 69.975,
+              "audioEnd": 73.85
+            },
+            {
+              "text": "The powerful spirit told the boy that he would do whatever the master wanted.",
+              "audioStart": 74.713,
+              "audioEnd": 78.338
+            },
+            {
+              "text": "The boy asked the spirit to help him leave that dark place and return home safely.",
+              "audioStart": 79.2,
+              "audioEnd": 83.45
+            },
+            {
+              "text": "In a single moment, the boy was back at his house with his mother.",
+              "audioStart": 84.312,
+              "audioEnd": 87.75
+            },
+            {
+              "text": "From that day, the young boy used the power light to change his life completely.",
+              "audioStart": 88.612,
+              "audioEnd": 92.8
+            },
+            {
+              "text": "With the help of the spirit, they received nice food, fine clothes, and a great new home.",
+              "audioStart": 93.662,
+              "audioEnd": 98.537
+            },
+            {
+              "text": "The boy grew up into a happy man who was loved by people all around the city.",
+              "audioStart": 99.4,
+              "audioEnd": 103.263
+            },
+            {
+              "text": "He eventually married a wonderful woman, and they lived a quiet life together.",
+              "audioStart": 104.125,
+              "audioEnd": 108.125
+            },
+            {
+              "text": "Even though danger tried to return later, the power light always kept them safe.",
+              "audioStart": 108.987,
+              "audioEnd": 113.438
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many years passed, and the family stayed in their wonderful home.",
+              "audioStart": 114.3,
+              "audioEnd": 117.65
+            },
+            {
+              "text": "The mother was very happy because her son grew up strong and kind.",
+              "audioStart": 118.513,
+              "audioEnd": 121.875
+            },
+            {
+              "text": "The spirit always stayed ready to help if any new problem appeared.",
+              "audioStart": 122.737,
+              "audioEnd": 125.9
+            },
+            {
+              "text": "People from the city often came to visit the family and share good food.",
+              "audioStart": 126.763,
+              "audioEnd": 130.325
+            },
+            {
+              "text": "The young boy, now a grown man, never forgot the dark day under the heavy stone.",
+              "audioStart": 131.188,
+              "audioEnd": 135.675
+            },
+            {
+              "text": "He remembered how the strange man left him alone in the cold hole.",
+              "audioStart": 136.537,
+              "audioEnd": 139.75
+            },
+            {
+              "text": "However, those bad memories faded away because his new life was full of joy.",
+              "audioStart": 140.613,
+              "audioEnd": 144.912
+            },
+            {
+              "text": "The power light remained in a safe place inside the house where nobody could find it.",
+              "audioStart": 145.775,
+              "audioEnd": 149.912
+            },
+            {
+              "text": "Sometimes the man would look at the metal light and think about the strange adventure.",
+              "audioStart": 150.775,
+              "audioEnd": 154.55
+            },
+            {
+              "text": "He knew that his future was secure because the powerful spirit served him well.",
+              "audioStart": 155.412,
+              "audioEnd": 159.275
+            },
+            {
+              "text": "His mother often told him stories about how they survived the hard times.",
+              "audioStart": 160.137,
+              "audioEnd": 163.825
+            },
+            {
+              "text": "They remembered their lucky stars every single morning and every single night.",
+              "audioStart": 164.688,
+              "audioEnd": 168.738
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "No danger could ever touch them while the power light was near.",
+              "audioStart": 169.6,
+              "audioEnd": 172.662
+            },
+            {
+              "text": "The city grew larger around them, but their home remained a happy island of peace.",
+              "audioStart": 173.525,
+              "audioEnd": 177.662
+            },
+            {
+              "text": "Friends came and went, bringing joy and laughter to the household.",
+              "audioStart": 178.525,
+              "audioEnd": 181.762
+            },
+            {
+              "text": "The man and his wife raised children who also learned to appreciate the wonderful life they had.",
+              "audioStart": 182.625,
+              "audioEnd": 187.25
+            },
+            {
+              "text": "Every member of the family knew that love was the most important thing in the world.",
+              "audioStart": 188.113,
+              "audioEnd": 192
+            },
+            {
+              "text": "And so, they continued to live happily until the very end of their days.",
+              "audioStart": 192.863,
+              "audioEnd": 196.8
+            },
+            {
+              "text": "They were always glad for the amazing power that had saved them.",
+              "audioStart": 197.662,
+              "audioEnd": 200.775
+            },
+            {
+              "text": "Life brought many different days, but their home stayed filled with peace and light.",
+              "audioStart": 201.637,
+              "audioEnd": 205.637
+            },
+            {
+              "text": "The children grew up well and understood the value of hard work.",
+              "audioStart": 206.5,
+              "audioEnd": 209.625
+            },
+            {
+              "text": "Nobody in the family ever worried about money again.",
+              "audioStart": 210.488,
+              "audioEnd": 213.15
+            },
+            {
+              "text": "The spirit was always there to protect them from any trouble.",
+              "audioStart": 214.012,
+              "audioEnd": 217.012
+            },
+            {
+              "text": "Peace and joy filled every single moment of their shared journey.",
+              "audioStart": 217.875,
+              "audioEnd": 220.938
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0190.mp3",
+      "wordTimings": "audio/b2/st-0190.timings.json",
+      "quiz": [
+        {
+          "q": "What did the strange man ask the boy to bring back from the secret room?",
+          "options": [
+            "A wonderful old lamp",
+            "A box of money",
+            "A gold ring"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did the man leave the boy trapped under the stone?",
+          "options": [
+            "Because the boy took too long to climb up",
+            "Because the boy refused to give him the lamp before leaving",
+            "Because the boy lost the ladder in the dark"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened right after the boy rubbed the side of the lamp by accident?",
+          "options": [
+            "The stone fell back over the hole",
+            "A huge magical creature appeared",
+            "His mother came down the ladder"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In a sprawling, sun-baked kingdom where poverty cast long shadows across modest doorways, a young boy named Aladdin lived with his weary mother.",
+              "audioStart": 0.1,
+              "audioEnd": 7.763
+            },
+            {
+              "text": "Their days were defined by quiet desperation, for their meager savings vanished almost as quickly as they were earned.",
+              "audioStart": 8.625,
+              "audioEnd": 14.775
+            },
+            {
+              "text": "While other children chased dreams through bustling marketplaces, Aladdin spent his hours wandering aimlessly, burdened by the heavy weight of unfulfilled potential.",
+              "audioStart": 15.637,
+              "audioEnd": 24.012
+            },
+            {
+              "text": "His mother could only sigh when she looked into his eyes, wishing fortune might somehow smile upon their fragile household.",
+              "audioStart": 24.875,
+              "audioEnd": 31.125
+            },
+            {
+              "text": "They had learned to endure the bitter cold of winter and the stifling heat of summer with very little complaint, accepting hardship as their unchanging fate.",
+              "audioStart": 31.988,
+              "audioEnd": 39.65
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One afternoon, a stranger with sharp eyes and an imposing demeanor arrived at their threshold, claiming to be a long-lost uncle.",
+              "audioStart": 40.513,
+              "audioEnd": 47.362
+            },
+            {
+              "text": "The man spoke with honeyed urgency, showering the astonished mother with promises of a grand future and boundless wealth for her son.",
+              "audioStart": 48.225,
+              "audioEnd": 55.062
+            },
+            {
+              "text": "Aladdin, captivated by the foreign traveler's confident bearing and the lavish tales of distant lands, agreed without hesitation to accompany him.",
+              "audioStart": 55.925,
+              "audioEnd": 63.825
+            },
+            {
+              "text": "They walked for hours, leaving the familiar hum of the city far behind as the terrain grew increasingly desolate and forbidding.",
+              "audioStart": 64.688,
+              "audioEnd": 71.237
+            },
+            {
+              "text": "By the time the afternoon sun began to dip below the horizon, they reached a remote mountain pass where the wind howled like a lost creature.",
+              "audioStart": 72.1,
+              "audioEnd": 79.213
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Stopping before a massive slab of stone embedded in the earth, the stranger commanded Aladdin to lift it with all his strength.",
+              "audioStart": 80.075,
+              "audioEnd": 86.463
+            },
+            {
+              "text": "Though his muscles strained against the cold rock, the boy managed to roll the heavy boulder aside, revealing a dark subterranean opening.",
+              "audioStart": 87.325,
+              "audioEnd": 94.625
+            },
+            {
+              "text": "Beneath the stone, a narrow flight of stone steps vanished into absolute blackness, carrying with it a strange, damp chill.",
+              "audioStart": 95.487,
+              "audioEnd": 102.475
+            },
+            {
+              "text": "The man instructed Aladdin to descend into the cavity and retrieve a simple, tarnished metal lamp from an inner chamber.",
+              "audioStart": 103.338,
+              "audioEnd": 109.688
+            },
+            {
+              "text": "He warned the boy not to touch anything else, though tantalizing glimpses of glittering treasures could be seen half-buried in the dust.",
+              "audioStart": 110.55,
+              "audioEnd": 117.25
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hesitant yet obedient, Aladdin groped his way down the slippery steps and stepped into a chamber that smelled of ancient earth.",
+              "audioStart": 118.112,
+              "audioEnd": 124.35
+            },
+            {
+              "text": "There, resting quietly among heaps of sparkling gems and golden coins, he spotted the dusty old lamp that the stranger desired above all else.",
+              "audioStart": 125.213,
+              "audioEnd": 133.2
+            },
+            {
+              "text": "He picked it up, feeling its surprising weight, and then hastily gathered a few bright stones just to test their value.",
+              "audioStart": 134.062,
+              "audioEnd": 140.338
+            },
+            {
+              "text": "With the lamp clutched tightly in his hand, he climbed back toward the pale square of light at the top of the stairs.",
+              "audioStart": 141.2,
+              "audioEnd": 147.075
+            },
+            {
+              "text": "When his head finally emerged from the opening, he held out the lamp, expecting a warm welcome from his supposed uncle.",
+              "audioStart": 147.938,
+              "audioEnd": 154.113
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Instead of offering a helping hand, the stranger demanded the lamp with a fierce, trembling desperation in his voice.",
+              "audioStart": 154.975,
+              "audioEnd": 161.225
+            },
+            {
+              "text": "Intimidated by the man's sudden fury and the dark look in his eyes, Aladdin hesitated and stated he would hand it over only after escaping the hole.",
+              "audioStart": 162.088,
+              "audioEnd": 169.95
+            },
+            {
+              "text": "A terrible rage twisted the stranger's features, and without a second thought, he shoved the heavy stone back into place.",
+              "audioStart": 170.812,
+              "audioEnd": 177.275
+            },
+            {
+              "text": "Plunged into absolute darkness and trapped far beneath the surface of the earth, Aladdin felt a suffocating wave of despair wash over him.",
+              "audioStart": 178.137,
+              "audioEnd": 185.35
+            },
+            {
+              "text": "He curled into a tight ball against the cold damp wall, weeping softly as the realization of his betrayal settled heavily upon his chest.",
+              "audioStart": 186.213,
+              "audioEnd": 193.812
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In his distress, his trembling fingers brushed blindly against the rough metal surface of the old lamp, accidentally rubbing its side.",
+              "audioStart": 194.675,
+              "audioEnd": 201.988
+            },
+            {
+              "text": "Without warning, the air grew violently warm, and a blinding light filled the subterranean space as a colossal figure materialized.",
+              "audioStart": 202.85,
+              "audioEnd": 210.05
+            },
+            {
+              "text": "Towering above the boy, the smoke-shrouded spirit declared in a voice like rolling thunder that he was bound to serve whoever held the lamp.",
+              "audioStart": 210.912,
+              "audioEnd": 217.575
+            },
+            {
+              "text": "Aladdin, staring in utter disbelief at the apparition, found his voice and commanded the powerful entity to bring him home immediately.",
+              "audioStart": 218.438,
+              "audioEnd": 225.613
+            },
+            {
+              "text": "In less than a heartbeat, the oppressive darkness vanished, and Aladdin found himself standing safely in the courtyard of his own modest house.",
+              "audioStart": 226.475,
+              "audioEnd": 233.812
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His mother rushed out to embrace him, weeping tears of relief as she gazed upon her long-absent son.",
+              "audioStart": 234.675,
+              "audioEnd": 241.145
+            },
+            {
+              "text": "From that fateful day forward, the trajectory of their existence shifted entirely, guided by the unseen power residing within the battered metal vessel.",
+              "audioStart": 242.008,
+              "audioEnd": 250.133
+            },
+            {
+              "text": "With a single quiet command, the spirit provided lavish meals, luxurious garments, and eventually a magnificent new residence fit for nobility.",
+              "audioStart": 250.995,
+              "audioEnd": 259.333
+            },
+            {
+              "text": "Aladdin grew from a neglected, aimless youth into a confident and gracious man whose generosity won the affection of the entire city.",
+              "audioStart": 260.195,
+              "audioEnd": 267.133
+            },
+            {
+              "text": "He eventually married a remarkably kind woman, and together they cultivated a harmonious life built upon genuine mutual respect and quiet joy.",
+              "audioStart": 267.995,
+              "audioEnd": 275.971
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Years drifted by peacefully, yet the memory of the dark mountain cave remained vividly etched in the corners of Aladdin's mind.",
+              "audioStart": 276.833,
+              "audioEnd": 283.12
+            },
+            {
+              "text": "He frequently reminded himself of the perils of trusting strangers too easily, keeping the miraculous lamp hidden securely away from prying eyes.",
+              "audioStart": 283.983,
+              "audioEnd": 291.783
+            },
+            {
+              "text": "Friends and neighbors often visited their spacious courtyard, sharing laughter and abundant food while marveling at the family's sudden fortune.",
+              "audioStart": 292.646,
+              "audioEnd": 299.87
+            },
+            {
+              "text": "His mother often recounted the tale of their miraculous turnaround, marveling at how drastically their fortunes had been altered by a single stroke of luck.",
+              "audioStart": 300.733,
+              "audioEnd": 308.658
+            },
+            {
+              "text": "Whenever shadows threatened to creep into their thoughts, the abiding warmth of their happy home quickly dispelled any lingering anxieties.",
+              "audioStart": 309.521,
+              "audioEnd": 316.421
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "No external threat could penetrate the quiet sanctuary they had built, for the loyal spirit remained eternally vigilant.",
+              "audioStart": 317.283,
+              "audioEnd": 323.783
+            },
+            {
+              "text": "The city around them expanded and bustled with endless activity, but their household remained an island of profound tranquility.",
+              "audioStart": 324.646,
+              "audioEnd": 331.021
+            },
+            {
+              "text": "Their children grew up with a healthy appreciation for both comfort and humility, taught by their parents that character mattered above all possessions.",
+              "audioStart": 331.883,
+              "audioEnd": 339.521
+            },
+            {
+              "text": "Whenever challenges arose, Aladdin simply consulted the dependable entity, ensuring that obstacles were cleared before they could cause harm.",
+              "audioStart": 340.383,
+              "audioEnd": 347.82
+            },
+            {
+              "text": "They moved through life with steady grace, deeply grateful for the strange destiny that had plucked them from poverty and despair.",
+              "audioStart": 348.683,
+              "audioEnd": 355.058
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As time marched onward, the household settled into a rhythm of enduring contentment that seemed entirely immune to worldly troubles.",
+              "audioStart": 355.921,
+              "audioEnd": 362.695
+            },
+            {
+              "text": "Aladdin's children learned the value of hard work and empathy, carrying forward the lessons of their grandmother's early struggles.",
+              "audioStart": 363.558,
+              "audioEnd": 370.133
+            },
+            {
+              "text": "The miraculous lamp rested silently in its hidden alcove, a quiet guardian of a legacy built on love and resilience.",
+              "audioStart": 370.995,
+              "audioEnd": 377.458
+            },
+            {
+              "text": "Every morning brought fresh sunlight to their courtyard, and every evening offered a peaceful respite filled with shared stories and laughter.",
+              "audioStart": 378.32,
+              "audioEnd": 385.183
+            },
+            {
+              "text": "They understood that while fortune was fickle, the bonds they forged together were strong enough to withstand any trial.",
+              "audioStart": 386.046,
+              "audioEnd": 392.058
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Thus, they continued their journey through life hand in hand, anchored by the memory where it all began.",
+              "audioStart": 392.921,
+              "audioEnd": 398.12
+            },
+            {
+              "text": "The past remained a distant teacher, while the present was a vibrant tapestry woven from kindness, security, and quiet joy.",
+              "audioStart": 398.983,
+              "audioEnd": 406.046
+            },
+            {
+              "text": "Peace and light filled every corner of their days, leaving no room for regret or fear.",
+              "audioStart": 406.908,
+              "audioEnd": 411.483
+            },
+            {
+              "text": "And so they lived out their remaining years in perfect harmony, treasuring the miraculous gift that had saved them.",
+              "audioStart": 412.346,
+              "audioEnd": 417.995
+            },
+            {
+              "text": "Their story lived on in the hearts of those they helped, a timeless testament to hope found in the darkest places.",
+              "audioStart": 418.858,
+              "audioEnd": 424.483
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0190.mp3",
+      "wordTimings": "audio/c1/st-0190.timings.json",
+      "quiz": [
+        {
+          "q": "What did the stranger demand Aladdin do after descending the stone steps?",
+          "options": [
+            "Bring back an old metal lamp",
+            "Gather as many glittering gems as possible",
+            "Move the heavy boulder from the inside"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did Aladdin summon the powerful spirit from the lamp?",
+          "options": [
+            "By shouting a secret command word in the dark",
+            "By accidentally rubbing the side of the metal lamp",
+            "By placing the lamp under direct sunlight"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened immediately after Aladdin made his first request to the spirit?",
+          "options": [
+            "He received a chest filled with gold coins",
+            "The stranger apologized and opened the stone",
+            "He was transported safely back to his house"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  }
+}

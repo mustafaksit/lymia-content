@@ -1,0 +1,1513 @@
+{
+  "id": "st-0226",
+  "title": "The Adventure of the Beryl Coronet",
+  "genre": "mystery",
+  "summary": "A wealthy man discovers his prized yellow hat broken and must uncover the mystery behind it.",
+  "coverScene": "A rich man holds a bright gold crown inside a quiet room while a young person looks on with worry.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alexander Holder has a big house.",
+              "audioStart": 0.106,
+              "audioEnd": 2.272
+            },
+            {
+              "text": "He has a good thing in it.",
+              "audioStart": 3.236,
+              "audioEnd": 4.611
+            },
+            {
+              "text": "It is a yellow hat.",
+              "audioStart": 5.569,
+              "audioEnd": 6.847
+            },
+            {
+              "text": "He wants to keep it well.",
+              "audioStart": 7.806,
+              "audioEnd": 9.25
+            },
+            {
+              "text": "He puts it in a room.",
+              "audioStart": 10.208,
+              "audioEnd": 11.486
+            },
+            {
+              "text": "Alexander wants no one to take it.",
+              "audioStart": 12.444,
+              "audioEnd": 14.653
+            },
+            {
+              "text": "One night, Alexander hears a sound.",
+              "audioStart": 15.611,
+              "audioEnd": 18.181
+            },
+            {
+              "text": "He walks down to the room.",
+              "audioStart": 19.139,
+              "audioEnd": 20.681
+            },
+            {
+              "text": "He sees his child Arthur there.",
+              "audioStart": 21.639,
+              "audioEnd": 23.514
+            },
+            {
+              "text": "The yellow hat is in his hand.",
+              "audioStart": 24.472,
+              "audioEnd": 26.222
+            },
+            {
+              "text": "It is broken now.",
+              "audioStart": 27.181,
+              "audioEnd": 28.347
+            },
+            {
+              "text": "Some little parts are away.",
+              "audioStart": 29.306,
+              "audioEnd": 30.889
+            },
+            {
+              "text": "Alexander asks why he does it.",
+              "audioStart": 31.847,
+              "audioEnd": 34.056
+            },
+            {
+              "text": "Arthur does not give any answer.",
+              "audioStart": 35.014,
+              "audioEnd": 36.917
+            },
+            {
+              "text": "The father believes him.",
+              "audioStart": 37.875,
+              "audioEnd": 39.278
+            },
+            {
+              "text": "Men from the city come to the house.",
+              "audioStart": 40.236,
+              "audioEnd": 42.236
+            },
+            {
+              "text": "They take Arthur away.",
+              "audioStart": 43.194,
+              "audioEnd": 44.556
+            },
+            {
+              "text": "They put him in a place.",
+              "audioStart": 45.514,
+              "audioEnd": 47
+            },
+            {
+              "text": "It is a place for bad people.",
+              "audioStart": 47.958,
+              "audioEnd": 49.75
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Alexander wants to find the real fact.",
+              "audioStart": 50.708,
+              "audioEnd": 53.181
+            },
+            {
+              "text": "He visits a person who helps people.",
+              "audioStart": 54.139,
+              "audioEnd": 56.306
+            },
+            {
+              "text": "The helper hears every detail.",
+              "audioStart": 57.264,
+              "audioEnd": 59.111
+            },
+            {
+              "text": "The man walks out the house.",
+              "audioStart": 60.069,
+              "audioEnd": 61.764
+            },
+            {
+              "text": "He looks around the land.",
+              "audioStart": 62.722,
+              "audioEnd": 64.222
+            },
+            {
+              "text": "He finds a shop near the home.",
+              "audioStart": 65.181,
+              "audioEnd": 66.958
+            },
+            {
+              "text": "Mary has the other parts.",
+              "audioStart": 67.917,
+              "audioEnd": 69.528
+            },
+            {
+              "text": "Mary runs away with a bad man.",
+              "audioStart": 70.486,
+              "audioEnd": 72.486
+            },
+            {
+              "text": "The helper brings the parts back.",
+              "audioStart": 73.444,
+              "audioEnd": 75.292
+            },
+            {
+              "text": "Arthur stays still.",
+              "audioStart": 76.25,
+              "audioEnd": 77.514
+            },
+            {
+              "text": "He wants to help Mary.",
+              "audioStart": 78.472,
+              "audioEnd": 79.847
+            },
+            {
+              "text": "Alexander feels bad for his child.",
+              "audioStart": 80.806,
+              "audioEnd": 83.139
+            },
+            {
+              "text": "The yellow hat is whole again.",
+              "audioStart": 84.097,
+              "audioEnd": 85.778
+            },
+            {
+              "text": "Alexander looks at it with care.",
+              "audioStart": 86.736,
+              "audioEnd": 88.694
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0226.mp3",
+      "wordTimings": "audio/a1/st-0226.timings.json",
+      "quiz": [
+        {
+          "q": "What does Alexander keep in his house?",
+          "options": [
+            "A gold crown",
+            "A bad man",
+            "A private investigator"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who does police take to prison?",
+          "options": [
+            "Alexander",
+            "Arthur",
+            "Mary"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who takes the missing pieces to sell them?",
+          "options": [
+            "Arthur",
+            "Alexander",
+            "Mary"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alexander Holder received a great item as security for a huge deal.",
+              "audioStart": 0.106,
+              "audioEnd": 4.203
+            },
+            {
+              "text": "Because this item was important to a high family, he kept it within his home.",
+              "audioStart": 5.167,
+              "audioEnd": 9.556
+            },
+            {
+              "text": "However, a bad problem soon changed the quiet life within that large house.",
+              "audioStart": 10.514,
+              "audioEnd": 15.083
+            },
+            {
+              "text": "One night, Alexander got up and heard a sound.",
+              "audioStart": 16.042,
+              "audioEnd": 18.972
+            },
+            {
+              "text": "He walked down the dark place and saw his son, Arthur.",
+              "audioStart": 19.931,
+              "audioEnd": 23.472
+            },
+            {
+              "text": "Arthur stood near the table with the broken item in his hand.",
+              "audioStart": 24.431,
+              "audioEnd": 27.653
+            },
+            {
+              "text": "Three pieces of the blue color were missing from the object.",
+              "audioStart": 28.611,
+              "audioEnd": 31.819
+            },
+            {
+              "text": "This hit the poor father deeply.",
+              "audioStart": 32.778,
+              "audioEnd": 34.708
+            },
+            {
+              "text": "Alexander asked his son why he had broken the family thing.",
+              "audioStart": 35.667,
+              "audioEnd": 39.403
+            },
+            {
+              "text": "Arthur stayed low and gave no answer.",
+              "audioStart": 40.361,
+              "audioEnd": 42.667
+            },
+            {
+              "text": "The young man remained completely fine.",
+              "audioStart": 43.625,
+              "audioEnd": 45.889
+            },
+            {
+              "text": "The father believed that his boy was trying to protect someone else.",
+              "audioStart": 46.847,
+              "audioEnd": 50.472
+            },
+            {
+              "text": "The police arrived quickly because the owner reported the event himself.",
+              "audioStart": 51.431,
+              "audioEnd": 55.417
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Arthur was taken away by the police.",
+              "audioStart": 56.375,
+              "audioEnd": 58.583
+            },
+            {
+              "text": "Alexander could not accept that his own boy was bad.",
+              "audioStart": 59.542,
+              "audioEnd": 62.694
+            },
+            {
+              "text": "He went to see a private man.",
+              "audioStart": 63.653,
+              "audioEnd": 65.264
+            },
+            {
+              "text": "The clever person listened to every single detail before starting his work.",
+              "audioStart": 66.222,
+              "audioEnd": 70.486
+            },
+            {
+              "text": "The man walked outside the house.",
+              "audioStart": 71.444,
+              "audioEnd": 73.431
+            },
+            {
+              "text": "He followed tracks in the cold air.",
+              "audioStart": 74.389,
+              "audioEnd": 76.347
+            },
+            {
+              "text": "He went to a local shop.",
+              "audioStart": 77.306,
+              "audioEnd": 78.778
+            },
+            {
+              "text": "He found that Mary had taken the missing pieces to sell them.",
+              "audioStart": 79.736,
+              "audioEnd": 83.083
+            },
+            {
+              "text": "Mary was the daughter of the sister of Alexander.",
+              "audioStart": 84.042,
+              "audioEnd": 86.75
+            },
+            {
+              "text": "She was running away with a bad guy who had caused pain to her.",
+              "audioStart": 87.708,
+              "audioEnd": 91.278
+            },
+            {
+              "text": "The person brought the pieces back.",
+              "audioStart": 92.236,
+              "audioEnd": 94.194
+            },
+            {
+              "text": "The whole family learned what actually happened.",
+              "audioStart": 95.153,
+              "audioEnd": 97.653
+            },
+            {
+              "text": "Arthur had stayed low during the night only to save his family girl.",
+              "audioStart": 98.611,
+              "audioEnd": 102.361
+            },
+            {
+              "text": "Alexander felt sorry for doubting his young boy.",
+              "audioStart": 103.319,
+              "audioEnd": 106.236
+            },
+            {
+              "text": "The item was finally made whole again.",
+              "audioStart": 107.194,
+              "audioEnd": 109.458
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The family lived a long time in that big house.",
+              "audioStart": 110.417,
+              "audioEnd": 113.194
+            },
+            {
+              "text": "Many years passed after the event.",
+              "audioStart": 114.153,
+              "audioEnd": 116.319
+            },
+            {
+              "text": "Alexander always remembered the night.",
+              "audioStart": 117.278,
+              "audioEnd": 119.569
+            },
+            {
+              "text": "He looked at the item every single day.",
+              "audioStart": 120.528,
+              "audioEnd": 122.861
+            },
+            {
+              "text": "His son Arthur stayed with him.",
+              "audioStart": 123.819,
+              "audioEnd": 125.625
+            },
+            {
+              "text": "Mary never came back to the house.",
+              "audioStart": 126.583,
+              "audioEnd": 128.611
+            },
+            {
+              "text": "The police did not catch the bad guy.",
+              "audioStart": 129.569,
+              "audioEnd": 131.778
+            },
+            {
+              "text": "Arthur became a strong man.",
+              "audioStart": 132.736,
+              "audioEnd": 134.403
+            },
+            {
+              "text": "The father and son shared many good moments together.",
+              "audioStart": 135.361,
+              "audioEnd": 138.528
+            },
+            {
+              "text": "Life returned to normal for the family.",
+              "audioStart": 139.486,
+              "audioEnd": 141.625
+            },
+            {
+              "text": "Alexander was happy to have his boy close.",
+              "audioStart": 142.583,
+              "audioEnd": 145.208
+            },
+            {
+              "text": "The big house was fine again.",
+              "audioStart": 146.167,
+              "audioEnd": 147.931
+            },
+            {
+              "text": "Nothing bad happened today.",
+              "audioStart": 148.889,
+              "audioEnd": 150.486
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0226.mp3",
+      "wordTimings": "audio/a2/st-0226.timings.json",
+      "quiz": [
+        {
+          "q": "What did Alexander receive as security for a loan?",
+          "options": [
+            "A valuable crown",
+            "A large house",
+            "A bag of money"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who did Alexander find standing near the broken crown at night?",
+          "options": [
+            "Mary",
+            "Arthur",
+            "A bad man"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why did Arthur stay silent about the broken crown?",
+          "options": [
+            "To protect his cousin Mary",
+            "To hide his own crime",
+            "To trick the police"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alexander Holder received a valuable gold item with blue stones.",
+              "audioStart": 0.1,
+              "audioEnd": 3.7
+            },
+            {
+              "text": "He kept the object inside his home with great care.",
+              "audioStart": 4.562,
+              "audioEnd": 7.388
+            },
+            {
+              "text": "A bad secret soon brought trouble to that large house.",
+              "audioStart": 8.25,
+              "audioEnd": 11.062
+            },
+            {
+              "text": "The normal life of the family changed very fast.",
+              "audioStart": 11.925,
+              "audioEnd": 14.562
+            },
+            {
+              "text": "Alexander felt much worry about the situation.",
+              "audioStart": 15.425,
+              "audioEnd": 18.062
+            },
+            {
+              "text": "He has lived in this house for many years.",
+              "audioStart": 18.925,
+              "audioEnd": 21.15
+            },
+            {
+              "text": "The gold item was safe until that night.",
+              "audioStart": 22.012,
+              "audioEnd": 24.062
+            },
+            {
+              "text": "Alexander always checked the precious object every single day.",
+              "audioStart": 24.925,
+              "audioEnd": 28.337
+            },
+            {
+              "text": "He loved the security it provided for his business.",
+              "audioStart": 29.2,
+              "audioEnd": 31.9
+            },
+            {
+              "text": "Many people knew that he kept valuable things at home.",
+              "audioStart": 32.763,
+              "audioEnd": 35.475
+            },
+            {
+              "text": "However, nothing bad had ever happened before that night.",
+              "audioStart": 36.337,
+              "audioEnd": 39.487
+            },
+            {
+              "text": "The family lived a quiet life in the big town.",
+              "audioStart": 40.35,
+              "audioEnd": 42.775
+            },
+            {
+              "text": "Alexander believed that his home was completely safe from crime.",
+              "audioStart": 43.638,
+              "audioEnd": 47.062
+            },
+            {
+              "text": "He did not know that a dark secret would soon destroy this peace.",
+              "audioStart": 47.925,
+              "audioEnd": 51.087
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One night, Alexander woke up from sleep.",
+              "audioStart": 51.95,
+              "audioEnd": 54.375
+            },
+            {
+              "text": "He heard a strange sound in the dark.",
+              "audioStart": 55.237,
+              "audioEnd": 57.062
+            },
+            {
+              "text": "He walked down the floors and saw his son.",
+              "audioStart": 57.925,
+              "audioEnd": 60.212
+            },
+            {
+              "text": "The young man stood near the table with the broken object.",
+              "audioStart": 61.075,
+              "audioEnd": 63.85
+            },
+            {
+              "text": "Three pieces of the blue stones were missing now.",
+              "audioStart": 64.713,
+              "audioEnd": 67
+            },
+            {
+              "text": "The gold thing was broken into parts.",
+              "audioStart": 67.862,
+              "audioEnd": 69.8
+            },
+            {
+              "text": "This shocked the poor father deeply.",
+              "audioStart": 70.662,
+              "audioEnd": 72.562
+            },
+            {
+              "text": "Alexander asked his boy why he had done this.",
+              "audioStart": 73.425,
+              "audioEnd": 76.162
+            },
+            {
+              "text": "If the boy answered, the father would understand the truth.",
+              "audioStart": 77.025,
+              "audioEnd": 79.95
+            },
+            {
+              "text": "Arthur stood very still by the wooden table in the room.",
+              "audioStart": 80.812,
+              "audioEnd": 83.513
+            },
+            {
+              "text": "The pieces of blue stone lay on the floor near his feet.",
+              "audioStart": 84.375,
+              "audioEnd": 87.175
+            },
+            {
+              "text": "Alexander looked at his son with great pain in his heart.",
+              "audioStart": 88.037,
+              "audioEnd": 91.025
+            },
+            {
+              "text": "He could not believe that his own child would break such a valuable thing.",
+              "audioStart": 91.888,
+              "audioEnd": 95.375
+            },
+            {
+              "text": "The father demanded an answer immediately.",
+              "audioStart": 96.237,
+              "audioEnd": 98.463
+            },
+            {
+              "text": "Arthur simply looked down and refused to speak a single word.",
+              "audioStart": 99.325,
+              "audioEnd": 102.463
+            },
+            {
+              "text": "The silence in the room felt heavy and cold.",
+              "audioStart": 103.325,
+              "audioEnd": 105.612
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The young man refused to give any real answer.",
+              "audioStart": 106.475,
+              "audioEnd": 108.812
+            },
+            {
+              "text": "The youth remained completely quiet.",
+              "audioStart": 109.675,
+              "audioEnd": 111.6
+            },
+            {
+              "text": "The father believed that his son wanted to protect someone else.",
+              "audioStart": 112.463,
+              "audioEnd": 115.562
+            },
+            {
+              "text": "The police arrived quickly because the owner reported the crime.",
+              "audioStart": 116.425,
+              "audioEnd": 119.45
+            },
+            {
+              "text": "The son was taken to prison by the officers.",
+              "audioStart": 120.312,
+              "audioEnd": 122.713
+            },
+            {
+              "text": "Alexander could not accept that his own boy was truly bad.",
+              "audioStart": 123.575,
+              "audioEnd": 126.85
+            },
+            {
+              "text": "If he saw the truth, he would feel better.",
+              "audioStart": 127.713,
+              "audioEnd": 129.925
+            },
+            {
+              "text": "He has known his son for a long time.",
+              "audioStart": 130.787,
+              "audioEnd": 132.8
+            },
+            {
+              "text": "Arthur never tried to defend himself against the terrible charges.",
+              "audioStart": 133.662,
+              "audioEnd": 137.125
+            },
+            {
+              "text": "The police officers took the young man away in handcuffs.",
+              "audioStart": 137.988,
+              "audioEnd": 140.812
+            },
+            {
+              "text": "Alexander watched them leave with a broken heart.",
+              "audioStart": 141.675,
+              "audioEnd": 144.188
+            },
+            {
+              "text": "He still believed that Arthur was hiding the truth for a noble reason.",
+              "audioStart": 145.05,
+              "audioEnd": 148.438
+            },
+            {
+              "text": "The father knew his son's good character very well.",
+              "audioStart": 149.3,
+              "audioEnd": 151.863
+            },
+            {
+              "text": "No one in the family could understand why Arthur chose to stay silent.",
+              "audioStart": 152.725,
+              "audioEnd": 156.325
+            },
+            {
+              "text": "The house felt empty and sad after the police left.",
+              "audioStart": 157.188,
+              "audioEnd": 159.963
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He went to see a famous private man who solved crimes.",
+              "audioStart": 160.825,
+              "audioEnd": 163.637
+            },
+            {
+              "text": "This wonderful man listened carefully to every single detail.",
+              "audioStart": 164.5,
+              "audioEnd": 167.75
+            },
+            {
+              "text": "The man walked outside the house and followed tracks in the snow.",
+              "audioStart": 168.613,
+              "audioEnd": 171.8
+            },
+            {
+              "text": "He went to a nearby shop to learn more.",
+              "audioStart": 172.662,
+              "audioEnd": 174.688
+            },
+            {
+              "text": "He discovered that Mary had taken the missing pieces.",
+              "audioStart": 175.55,
+              "audioEnd": 178.275
+            },
+            {
+              "text": "Mary was the young woman living with Alexander.",
+              "audioStart": 179.137,
+              "audioEnd": 181.562
+            },
+            {
+              "text": "Mary wanted to sell the gold parts for money.",
+              "audioStart": 182.425,
+              "audioEnd": 184.725
+            },
+            {
+              "text": "She was running away with a bad person.",
+              "audioStart": 185.588,
+              "audioEnd": 187.637
+            },
+            {
+              "text": "The detective walked around the cold streets of the town.",
+              "audioStart": 188.5,
+              "audioEnd": 191.162
+            },
+            {
+              "text": "He asked questions at several local shops near the station.",
+              "audioStart": 192.025,
+              "audioEnd": 195.225
+            },
+            {
+              "text": "A shopkeeper remembered a young woman selling blue stones.",
+              "audioStart": 196.088,
+              "audioEnd": 199.1
+            },
+            {
+              "text": "The detective connected all the clues together in his mind.",
+              "audioStart": 199.963,
+              "audioEnd": 202.925
+            },
+            {
+              "text": "He realized that Mary was the real thief.",
+              "audioStart": 203.787,
+              "audioEnd": 206.125
+            },
+            {
+              "text": "She had planned to escape with a dishonest man.",
+              "audioStart": 206.988,
+              "audioEnd": 209.325
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man brought the stolen pieces back to the family.",
+              "audioStart": 210.188,
+              "audioEnd": 212.8
+            },
+            {
+              "text": "The young son had stayed quiet during the night to save Mary.",
+              "audioStart": 213.662,
+              "audioEnd": 216.8
+            },
+            {
+              "text": "Alexander felt sorry for doubting his strong son.",
+              "audioStart": 217.662,
+              "audioEnd": 220.475
+            },
+            {
+              "text": "The valuable gold item was finally made whole again.",
+              "audioStart": 221.338,
+              "audioEnd": 224.125
+            },
+            {
+              "text": "Everything became normal once more in the house.",
+              "audioStart": 224.988,
+              "audioEnd": 227.375
+            },
+            {
+              "text": "The family has found peace at last.",
+              "audioStart": 228.238,
+              "audioEnd": 230.238
+            },
+            {
+              "text": "The house is quiet and safe today.",
+              "audioStart": 231.1,
+              "audioEnd": 232.887
+            },
+            {
+              "text": "Arthur returned home from prison with a clean name.",
+              "audioStart": 233.75,
+              "audioEnd": 236.188
+            },
+            {
+              "text": "Mary was gone, but the family was together again.",
+              "audioStart": 237.05,
+              "audioEnd": 239.875
+            },
+            {
+              "text": "Alexander hugged his son and asked for forgiveness.",
+              "audioStart": 240.738,
+              "audioEnd": 243.588
+            },
+            {
+              "text": "Arthur smiled and told his father that everything was fine now.",
+              "audioStart": 244.45,
+              "audioEnd": 247.488
+            },
+            {
+              "text": "The gold crown rested safely on the table once more.",
+              "audioStart": 248.35,
+              "audioEnd": 251.25
+            },
+            {
+              "text": "They put the terrible event behind them forever.",
+              "audioStart": 252.113,
+              "audioEnd": 254.5
+            },
+            {
+              "text": "Peace and happiness finally returned to the Holder home.",
+              "audioStart": 255.363,
+              "audioEnd": 257.975
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0226.mp3",
+      "wordTimings": "audio/b1/st-0226.timings.json",
+      "quiz": [
+        {
+          "q": "What did Alexander receive as security for a huge loan?",
+          "options": [
+            "A valuable crown made of gold and blue stones",
+            "A large sum of money in a bag",
+            "A piece of land near the river"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who did Alexander find standing by the table with the broken crown?",
+          "options": [
+            "His niece Mary",
+            "His son Arthur",
+            "A strange bad man"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why did Arthur stay completely silent after the crown was broken?",
+          "options": [
+            "He wanted to sell the pieces for money",
+            "He did not know anything about the crime",
+            "He wanted to save his cousin Mary from public shame"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alexander Holder received a valuable object made of gold and blue stones as security for a huge loan.",
+              "audioStart": 0.1,
+              "audioEnd": 5.713
+            },
+            {
+              "text": "Because this item belonged to a very high family, he kept it inside his home with great care.",
+              "audioStart": 6.575,
+              "audioEnd": 11.55
+            },
+            {
+              "text": "However, a bad secret soon disturbed the calm life within that large house.",
+              "audioStart": 12.412,
+              "audioEnd": 16.438
+            },
+            {
+              "text": "One night, Alexander woke up and heard a strange sound coming from the lower floor.",
+              "audioStart": 17.3,
+              "audioEnd": 21.65
+            },
+            {
+              "text": "He walked down the dark stairs and saw his son, Arthur, standing near the table with the broken object in his hand.",
+              "audioStart": 22.512,
+              "audioEnd": 28.925
+            },
+            {
+              "text": "Three pieces of the blue stones were missing from the gold thing, which shocked the poor father deeply.",
+              "audioStart": 29.788,
+              "audioEnd": 34.75
+            },
+            {
+              "text": "Alexander asked his son why he had broken the family thing, but Arthur refused to give any real answer.",
+              "audioStart": 35.612,
+              "audioEnd": 41.663
+            },
+            {
+              "text": "Although the young man remained completely silent, the father believed that his son was trying to protect someone else.",
+              "audioStart": 42.525,
+              "audioEnd": 48.362
+            },
+            {
+              "text": "The police arrived quickly because the crime was reported by the troubled owner himself.",
+              "audioStart": 49.225,
+              "audioEnd": 53.55
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Arthur was taken to prison, but Alexander could not accept that his own boy was truly guilty.",
+              "audioStart": 54.413,
+              "audioEnd": 59.75
+            },
+            {
+              "text": "He went to see a famous professional person to find the truth behind the hidden crime.",
+              "audioStart": 60.612,
+              "audioEnd": 64.787
+            },
+            {
+              "text": "The smart helper listened carefully to every single detail before starting his full study.",
+              "audioStart": 65.65,
+              "audioEnd": 70.275
+            },
+            {
+              "text": "The man walked outside the house and followed tracks in the snow to a nearby shop.",
+              "audioStart": 71.138,
+              "audioEnd": 75.213
+            },
+            {
+              "text": "He discovered that Mary, the daughter of the sister of Alexander, had taken the missing pieces to sell them.",
+              "audioStart": 76.075,
+              "audioEnd": 81.75
+            },
+            {
+              "text": "Mary was running away with a bad man who had tricked her into falling in love with him.",
+              "audioStart": 82.612,
+              "audioEnd": 86.7
+            },
+            {
+              "text": "When the man brought the stolen pieces back, the whole family learned what actually happened.",
+              "audioStart": 87.562,
+              "audioEnd": 92.125
+            },
+            {
+              "text": "Arthur had stayed silent during the night only to save his cousin from public trouble.",
+              "audioStart": 92.987,
+              "audioEnd": 97.162
+            },
+            {
+              "text": "Alexander felt very sorry for doubting his strong son, and the expensive object was finally made whole again.",
+              "audioStart": 98.025,
+              "audioEnd": 104.275
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Alexander Holder lived in a large house with his son Arthur and his young relative Mary for many years.",
+              "audioStart": 105.138,
+              "audioEnd": 110.612
+            },
+            {
+              "text": "The family was respected by people in the country, and their business grew steadily through hard work.",
+              "audioStart": 111.475,
+              "audioEnd": 116.45
+            },
+            {
+              "text": "Many visitors came to the house because Alexander held important business sessions every single week.",
+              "audioStart": 117.312,
+              "audioEnd": 122.625
+            },
+            {
+              "text": "The gold object was placed inside a secure room where nobody could reach it without permission.",
+              "audioStart": 123.487,
+              "audioEnd": 128.2
+            },
+            {
+              "text": "Alexander checked the room every morning to ensure that the security system remained fully active.",
+              "audioStart": 129.062,
+              "audioEnd": 134.1
+            },
+            {
+              "text": "He trusted his family members completely, which made the sudden loss even more difficult for him.",
+              "audioStart": 134.963,
+              "audioEnd": 140.1
+            },
+            {
+              "text": "The police officers questioned everyone in the building to find any information about the missing stones.",
+              "audioStart": 140.963,
+              "audioEnd": 146.188
+            },
+            {
+              "text": "Arthur did not speak a single word during the questioning, which made the officers believe he was guilty.",
+              "audioStart": 147.05,
+              "audioEnd": 152.25
+            },
+            {
+              "text": "Alexander knew his son very well and understood that Arthur would never steal from the family.",
+              "audioStart": 153.113,
+              "audioEnd": 157.912
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The professional man spent hours walking around the cold streets near the house in the snow.",
+              "audioStart": 158.775,
+              "audioEnd": 163.225
+            },
+            {
+              "text": "He found small marks that led directly from the garden door toward the public road outside.",
+              "audioStart": 164.088,
+              "audioEnd": 168.562
+            },
+            {
+              "text": "The tracks stopped near a small shop where local people often bought food and everyday items.",
+              "audioStart": 169.425,
+              "audioEnd": 174.3
+            },
+            {
+              "text": "The shop owner remembered seeing a young woman who looked very nervous late in the evening.",
+              "audioStart": 175.162,
+              "audioEnd": 179.312
+            },
+            {
+              "text": "She had tried to sell small blue stones to a stranger who worked at the shop for money.",
+              "audioStart": 180.175,
+              "audioEnd": 184.287
+            },
+            {
+              "text": "The man talked to the shop owner and collected all the necessary information about the buyer.",
+              "audioStart": 185.15,
+              "audioEnd": 189.688
+            },
+            {
+              "text": "He followed the new trail until he found the man and the young woman hiding in a small room.",
+              "audioStart": 190.55,
+              "audioEnd": 194.85
+            },
+            {
+              "text": "The man tried to run away, but the helper caught him before he could reach the street door.",
+              "audioStart": 195.713,
+              "audioEnd": 200.137
+            },
+            {
+              "text": "The stolen gold pieces were found inside a small bag that the man had tried to hide.",
+              "audioStart": 201,
+              "audioEnd": 205.312
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the man returned to the house, he placed the recovered pieces on the wooden table.",
+              "audioStart": 206.175,
+              "audioEnd": 210.475
+            },
+            {
+              "text": "Alexander and Arthur stood together in the room while the whole story was finally explained.",
+              "audioStart": 211.338,
+              "audioEnd": 215.787
+            },
+            {
+              "text": "Mary began to cry and admitted that she had taken the pieces because she needed money badly.",
+              "audioStart": 216.65,
+              "audioEnd": 221.325
+            },
+            {
+              "text": "The bad man had promised her a wonderful life if she gave him the valuable stones.",
+              "audioStart": 222.188,
+              "audioEnd": 226.4
+            },
+            {
+              "text": "Arthur had seen Mary take the stones during the night and tried to stop her from leaving.",
+              "audioStart": 227.262,
+              "audioEnd": 231.425
+            },
+            {
+              "text": "When the pieces broke during their struggle, Arthur decided to stay silent to save her from trouble.",
+              "audioStart": 232.287,
+              "audioEnd": 237.387
+            },
+            {
+              "text": "Alexander looked at his son with tears in his eyes and asked for forgiveness for his doubts.",
+              "audioStart": 238.25,
+              "audioEnd": 244.321
+            },
+            {
+              "text": "The family was happy to have the pieces back, and the missing stones were fixed into the gold object.",
+              "audioStart": 245.183,
+              "audioEnd": 250.395
+            },
+            {
+              "text": "Arthur was released from prison the very next day, and peace returned to the large house again.",
+              "audioStart": 251.258,
+              "audioEnd": 256.008
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0226.mp3",
+      "wordTimings": "audio/b2/st-0226.timings.json",
+      "quiz": [
+        {
+          "q": "What object did Alexander Holder receive as security for a loan?",
+          "options": [
+            "A valuable crown with blue stones",
+            "A heavy box of gold money",
+            "A rare painting of a family member"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who did Alexander find holding the broken crown downstairs at night?",
+          "options": [
+            "His niece Mary",
+            "His son Arthur",
+            "A stranger from the street"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why did Arthur refuse to explain why he was holding the broken crown?",
+          "options": [
+            "He wanted to protect his cousin Mary from shame.",
+            "He forgot what happened during the night.",
+            "He was trying to sell the pieces himself."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alexander Holder lived in a grand, imposing house with his son Arthur and his young relative Mary for many years.",
+              "audioStart": 0.1,
+              "audioEnd": 6.412
+            },
+            {
+              "text": "The family was deeply respected by people across the country, and their prestigious business grew steadily through decades of hard work.",
+              "audioStart": 7.275,
+              "audioEnd": 14.037
+            },
+            {
+              "text": "Numerous influential visitors came to the residence because Alexander held important financial consultations and banking sessions every single week.",
+              "audioStart": 14.9,
+              "audioEnd": 22.875
+            },
+            {
+              "text": "The atmosphere of the household was generally defined by strict order, duty, and an unspoken expectation of flawless public reputation.",
+              "audioStart": 23.738,
+              "audioEnd": 31.525
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One evening, a client of immense social standing entrusted Alexander with a priceless object made of pure gold and rare blue stones.",
+              "audioStart": 32.388,
+              "audioEnd": 39.725
+            },
+            {
+              "text": "This magnificent artifact served as security for a remarkably huge financial loan, making its safety a matter of extreme honor.",
+              "audioStart": 40.587,
+              "audioEnd": 47.612
+            },
+            {
+              "text": "Because this item belonged to a family of the highest nobility, Alexander kept it inside his home with extraordinary care and vigilance.",
+              "audioStart": 48.475,
+              "audioEnd": 55.85
+            },
+            {
+              "text": "The gold object was placed securely inside a reinforced room where nobody could reach it without his explicit permission and knowledge.",
+              "audioStart": 56.712,
+              "audioEnd": 63.6
+            },
+            {
+              "text": "Alexander checked the chamber every single morning to ensure that the security system remained fully operational.",
+              "audioStart": 64.463,
+              "audioEnd": 70.237
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He trusted his family members completely, which made the subsequent tragedy all the more difficult for his sensitive mind to process.",
+              "audioStart": 71.1,
+              "audioEnd": 78.112
+            },
+            {
+              "text": "A dark, unsettling secret soon disturbed the calm, predictable life within that large and otherwise peaceful house.",
+              "audioStart": 78.975,
+              "audioEnd": 85.263
+            },
+            {
+              "text": "One still night, Alexander woke abruptly from a heavy slumber and heard a strange, metallic sound coming from the lower floor.",
+              "audioStart": 86.125,
+              "audioEnd": 93.2
+            },
+            {
+              "text": "He walked down the dark, creaking stairs in the chill of the midnight hours, his heart beating with a sudden, nameless dread.",
+              "audioStart": 94.062,
+              "audioEnd": 100.55
+            },
+            {
+              "text": "Reaching the bottom of the staircase, he stopped and stared in sheer disbelief at the grim scene unfolding before his eyes.",
+              "audioStart": 101.412,
+              "audioEnd": 107.612
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He saw his beloved son, Arthur, standing near the mahogany table with the broken, precious object grasped firmly in his hand.",
+              "audioStart": 108.475,
+              "audioEnd": 115.925
+            },
+            {
+              "text": "Three gleaming pieces of the rare blue stones were completely missing from the gold artifact, shocking the poor father to his core.",
+              "audioStart": 116.787,
+              "audioEnd": 123.5
+            },
+            {
+              "text": "Alexander stepped forward and asked his son in a trembling voice why he had broken the irreplaceable family security item.",
+              "audioStart": 124.362,
+              "audioEnd": 131.05
+            },
+            {
+              "text": "To his absolute dismay, Arthur refused to give any real explanation or defense for his inexplicable actions.",
+              "audioStart": 131.912,
+              "audioEnd": 138.412
+            },
+            {
+              "text": "Although the young man remained frustratingly silent, the desperate father desperately believed that his son must be protecting someone else.",
+              "audioStart": 139.275,
+              "audioEnd": 146.312
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The police arrived quickly at the grand residence because the alarming crime was reported immediately by the troubled and panicked owner.",
+              "audioStart": 147.175,
+              "audioEnd": 153.588
+            },
+            {
+              "text": "Officers questioned everyone in the building meticulously to gather any scrap of information about the missing stones.",
+              "audioStart": 154.45,
+              "audioEnd": 160.5
+            },
+            {
+              "text": "Arthur did not speak a single word during the entire questioning process, which unfortunately made the investigating officers strongly believe he was guilty.",
+              "audioStart": 161.363,
+              "audioEnd": 169.613
+            },
+            {
+              "text": "Alexander knew his son very well indeed, and he understood intuitively that Arthur would never steal from the family or break his sacred trust.",
+              "audioStart": 170.475,
+              "audioEnd": 178.15
+            },
+            {
+              "text": "Despite his father's fierce internal loyalty, Arthur was taken away to prison while the household sank into profound despair.",
+              "audioStart": 179.012,
+              "audioEnd": 185.45
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Alexander could not accept that his own boy was truly capable of such a dishonorable crime.",
+              "audioStart": 186.312,
+              "audioEnd": 191.338
+            },
+            {
+              "text": "Driven by a desperate need for absolute truth, he went to consult a famously observant professional detective to uncover the hidden mystery.",
+              "audioStart": 192.2,
+              "audioEnd": 199.525
+            },
+            {
+              "text": "The smart helper listened carefully to every single intricate detail before starting his full and methodical study of the case.",
+              "audioStart": 200.387,
+              "audioEnd": 206.988
+            },
+            {
+              "text": "The investigator walked outside the large house into the frosty night, examining the ground with an intensely focused gaze.",
+              "audioStart": 207.85,
+              "audioEnd": 214.35
+            },
+            {
+              "text": "He discovered faint, distinct tracks in the fresh snow that led directly away from the garden door.",
+              "audioStart": 215.213,
+              "audioEnd": 220.312
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The professional man spent hours walking patiently around the cold, quiet streets near the house, following the frozen trail.",
+              "audioStart": 221.175,
+              "audioEnd": 227.875
+            },
+            {
+              "text": "The small marks led away from the private property and straight toward a busy public road outside.",
+              "audioStart": 228.738,
+              "audioEnd": 233.488
+            },
+            {
+              "text": "The tracks finally stopped near a small local shop where neighborhood residents frequently bought food and everyday household items.",
+              "audioStart": 234.35,
+              "audioEnd": 240.975
+            },
+            {
+              "text": "The sharp investigator went inside and spoke briefly with the observant shop owner to gather clues.",
+              "audioStart": 241.838,
+              "audioEnd": 248.058
+            },
+            {
+              "text": "The shopkeeper remembered seeing a young woman who looked extremely nervous and distressed late in the previous evening.",
+              "audioStart": 248.921,
+              "audioEnd": 254.633
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She had tried desperately to sell small, valuable blue stones to a stranger who worked at the shop in exchange for quick cash.",
+              "audioStart": 255.495,
+              "audioEnd": 262.096
+            },
+            {
+              "text": "The clever detective talked extensively with the shop owner and collected all the necessary information about the mysterious buyer.",
+              "audioStart": 262.958,
+              "audioEnd": 269.458
+            },
+            {
+              "text": "He followed this fresh, promising trail through the winding town streets until he finally located the man and the young woman.",
+              "audioStart": 270.32,
+              "audioEnd": 276.483
+            },
+            {
+              "text": "They were hiding together in a small, out-of-the-way room above a modest lodging house.",
+              "audioStart": 277.346,
+              "audioEnd": 281.771
+            },
+            {
+              "text": "The cunning man tried to run away the moment he saw the investigator, but the helper caught him swiftly before he could reach the street door.",
+              "audioStart": 282.633,
+              "audioEnd": 289.608
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The stolen gold pieces were eventually discovered hidden safely inside a small leather bag that the man had tried to conceal.",
+              "audioStart": 290.471,
+              "audioEnd": 296.771
+            },
+            {
+              "text": "When the detective returned to the grand house, he placed the recovered blue stones triumphantly upon the wooden table.",
+              "audioStart": 297.633,
+              "audioEnd": 303.533
+            },
+            {
+              "text": "Alexander and Arthur stood together in the room while the whole intricate story was finally brought completely into the light.",
+              "audioStart": 304.396,
+              "audioEnd": 310.346
+            },
+            {
+              "text": "Mary began to cry bitter tears and admitted freely that she had taken the pieces because she needed money very badly.",
+              "audioStart": 311.208,
+              "audioEnd": 317.296
+            },
+            {
+              "text": "The dishonest man had promised her a wonderful, glamorous life abroad if she gave him the valuable stones as a pledge of devotion.",
+              "audioStart": 318.158,
+              "audioEnd": 324.896
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Arthur had accidentally witnessed Mary taking the stones during the silent hours of the night and tried desperately to stop her from leaving.",
+              "audioStart": 325.758,
+              "audioEnd": 332.583
+            },
+            {
+              "text": "When the fragile pieces broke apart during their frantic physical struggle, Arthur made a fateful and noble decision.",
+              "audioStart": 333.445,
+              "audioEnd": 339.358
+            },
+            {
+              "text": "He chose to stay completely silent during the police investigation to save his misguided cousin from public shame and ruin.",
+              "audioStart": 340.221,
+              "audioEnd": 346.546
+            },
+            {
+              "text": "Alexander looked at his brave son with tears welling in his eyes and asked sincerely for forgiveness for his hasty doubts.",
+              "audioStart": 347.408,
+              "audioEnd": 353.921
+            },
+            {
+              "text": "The entire family was overjoyed to have the precious items back where they rightfully belonged.",
+              "audioStart": 354.783,
+              "audioEnd": 359.433
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The missing stones were quickly fixed back into the gold object by a skilled craftsman, restoring it to its original perfection.",
+              "audioStart": 360.296,
+              "audioEnd": 367.108
+            },
+            {
+              "text": "Arthur was released from prison the very next day, greeted warmly by the household as an innocent and honorable young man.",
+              "audioStart": 367.971,
+              "audioEnd": 374.308
+            },
+            {
+              "text": "Peace and mutual understanding returned fully to the large house, healing the deep emotional wounds of the past week.",
+              "audioStart": 375.171,
+              "audioEnd": 381.12
+            },
+            {
+              "text": "Alexander Holder reflected deeply on the dangers of rash judgment and resolved to cherish the quiet harmony of his restored family.",
+              "audioStart": 381.983,
+              "audioEnd": 388.783
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0226.mp3",
+      "wordTimings": "audio/c1/st-0226.timings.json",
+      "quiz": [
+        {
+          "q": "Why did Alexander Holder keep the valuable gold object in his house?",
+          "options": [
+            "It was security for a huge financial loan.",
+            "He planned to sell it for his own business profit.",
+            "It was a permanent gift from a foreign king."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did Alexander find when he walked down the stairs at night?",
+          "options": [
+            "A thief escaping through an open window.",
+            "His son Arthur holding the broken gold object.",
+            "Mary arguing with a stranger in the hallway."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why did Arthur refuse to speak during the police questioning?",
+          "options": [
+            "He was trying to protect his cousin Mary from public trouble.",
+            "He actually stole the stones to pay off his own secret debts.",
+            "He wanted to punish his father for being too strict."
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  }
+}

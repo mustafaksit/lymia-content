@@ -1,0 +1,1513 @@
+{
+  "id": "st-0230",
+  "title": "Journey to the Center of the Earth (tek epizod)",
+  "genre": "scifi",
+  "summary": "A brave team descends into a dark, hot underground world with limited light.",
+  "coverScene": "A brave man looks down into a dark cave while holding a small light.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The small group goes down now.",
+              "audioStart": 0.106,
+              "audioEnd": 1.856
+            },
+            {
+              "text": "The people take things and walk.",
+              "audioStart": 2.819,
+              "audioEnd": 4.667
+            },
+            {
+              "text": "They know the place holds things.",
+              "audioStart": 5.625,
+              "audioEnd": 7.458
+            },
+            {
+              "text": "Every step takes them into a night.",
+              "audioStart": 8.417,
+              "audioEnd": 10.431
+            },
+            {
+              "text": "The world is not light.",
+              "audioStart": 11.389,
+              "audioEnd": 12.792
+            },
+            {
+              "text": "They look around the area.",
+              "audioStart": 13.75,
+              "audioEnd": 15.181
+            },
+            {
+              "text": "The group begins to move.",
+              "audioStart": 16.139,
+              "audioEnd": 17.764
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The air becomes very hot.",
+              "audioStart": 18.722,
+              "audioEnd": 20.431
+            },
+            {
+              "text": "The air is hard to take.",
+              "audioStart": 21.389,
+              "audioEnd": 22.889
+            },
+            {
+              "text": "Large sides are made of old rock.",
+              "audioStart": 23.847,
+              "audioEnd": 25.875
+            },
+            {
+              "text": "They use a special light to see.",
+              "audioStart": 26.833,
+              "audioEnd": 28.653
+            },
+            {
+              "text": "Water runs down from the high place.",
+              "audioStart": 29.611,
+              "audioEnd": 31.847
+            },
+            {
+              "text": "They look at the water.",
+              "audioStart": 32.806,
+              "audioEnd": 34.028
+            },
+            {
+              "text": "The water falls from the top.",
+              "audioStart": 34.986,
+              "audioEnd": 36.639
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The way is high and bad.",
+              "audioStart": 37.597,
+              "audioEnd": 38.986
+            },
+            {
+              "text": "One move sends a person down.",
+              "audioStart": 39.944,
+              "audioEnd": 41.861
+            },
+            {
+              "text": "However, they continue to move forward.",
+              "audioStart": 42.819,
+              "audioEnd": 45.278
+            },
+            {
+              "text": "Each step brings a new test.",
+              "audioStart": 46.236,
+              "audioEnd": 48.139
+            },
+            {
+              "text": "They feel the power in them.",
+              "audioStart": 49.097,
+              "audioEnd": 50.583
+            },
+            {
+              "text": "They do not want to stop.",
+              "audioStart": 51.542,
+              "audioEnd": 53
+            },
+            {
+              "text": "They walk on the way.",
+              "audioStart": 53.958,
+              "audioEnd": 55.194
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They stop to rest now.",
+              "audioStart": 56.153,
+              "audioEnd": 57.514
+            },
+            {
+              "text": "They share food and water.",
+              "audioStart": 58.472,
+              "audioEnd": 59.944
+            },
+            {
+              "text": "They talk about things they find.",
+              "audioStart": 60.903,
+              "audioEnd": 62.75
+            },
+            {
+              "text": "No one wants to turn back.",
+              "audioStart": 63.708,
+              "audioEnd": 65.361
+            },
+            {
+              "text": "They believe something waits low.",
+              "audioStart": 66.319,
+              "audioEnd": 68.083
+            },
+            {
+              "text": "The people eat the food.",
+              "audioStart": 69.042,
+              "audioEnd": 70.444
+            },
+            {
+              "text": "They feel good about this time.",
+              "audioStart": 71.403,
+              "audioEnd": 73.111
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The long time tests the team.",
+              "audioStart": 74.069,
+              "audioEnd": 75.986
+            },
+            {
+              "text": "They face the night with power.",
+              "audioStart": 76.944,
+              "audioEnd": 78.667
+            },
+            {
+              "text": "This is a big thing.",
+              "audioStart": 79.625,
+              "audioEnd": 80.889
+            },
+            {
+              "text": "They plan to take the step.",
+              "audioStart": 81.847,
+              "audioEnd": 83.417
+            },
+            {
+              "text": "They walk into the future.",
+              "audioStart": 84.375,
+              "audioEnd": 85.875
+            },
+            {
+              "text": "The group stays together.",
+              "audioStart": 86.833,
+              "audioEnd": 88.292
+            },
+            {
+              "text": "They reach the next part now.",
+              "audioStart": 89.25,
+              "audioEnd": 90.972
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0230.mp3",
+      "wordTimings": "audio/a1/st-0230.timings.json",
+      "quiz": [
+        {
+          "q": "What do the travelers use to see?",
+          "options": [
+            "A special light",
+            "A big fire",
+            "The sun"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happens to the air as they go further?",
+          "options": [
+            "It becomes cold",
+            "It becomes hot",
+            "It stays the same"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What do they share when they stop to rest?",
+          "options": [
+            "Food and water",
+            "Money and books",
+            "Clothes and bags"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The trip down into the world began with big hope.",
+              "audioStart": 0.106,
+              "audioEnd": 2.786
+            },
+            {
+              "text": "The small group of people put things into room.",
+              "audioStart": 3.75,
+              "audioEnd": 6.236
+            },
+            {
+              "text": "They started to walk.",
+              "audioStart": 7.194,
+              "audioEnd": 8.5
+            },
+            {
+              "text": "They knew the ground below would hold many hidden things.",
+              "audioStart": 9.458,
+              "audioEnd": 12.403
+            },
+            {
+              "text": "Every step took them deeper into a dark place.",
+              "audioStart": 13.361,
+              "audioEnd": 16.125
+            },
+            {
+              "text": "The air became hot and hard to take in.",
+              "audioStart": 17.083,
+              "audioEnd": 19.458
+            },
+            {
+              "text": "The walls around them were made of old rock.",
+              "audioStart": 20.417,
+              "audioEnd": 22.708
+            },
+            {
+              "text": "They had to use a special light to see the road.",
+              "audioStart": 23.667,
+              "audioEnd": 26.194
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Water ran down from the high top.",
+              "audioStart": 27.153,
+              "audioEnd": 29.097
+            },
+            {
+              "text": "The people had to be very ready.",
+              "audioStart": 30.056,
+              "audioEnd": 31.917
+            },
+            {
+              "text": "The road was high and bad.",
+              "audioStart": 32.875,
+              "audioEnd": 34.375
+            },
+            {
+              "text": "One wrong move would send a person falling down.",
+              "audioStart": 35.333,
+              "audioEnd": 38.083
+            },
+            {
+              "text": "However, they continued to move forward with hope.",
+              "audioStart": 39.042,
+              "audioEnd": 41.986
+            },
+            {
+              "text": "Sometimes they stopped to rest and share food and water.",
+              "audioStart": 42.944,
+              "audioEnd": 46.014
+            },
+            {
+              "text": "They talked about the wonders they might find.",
+              "audioStart": 46.972,
+              "audioEnd": 49.319
+            },
+            {
+              "text": "No one wanted to turn back.",
+              "audioStart": 50.278,
+              "audioEnd": 52.028
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They believed something good waited at the center.",
+              "audioStart": 52.986,
+              "audioEnd": 55.444
+            },
+            {
+              "text": "The long trip tested every member.",
+              "audioStart": 56.403,
+              "audioEnd": 58.528
+            },
+            {
+              "text": "They faced the dark world with heart.",
+              "audioStart": 59.486,
+              "audioEnd": 61.556
+            },
+            {
+              "text": "This trip was only the beginning.",
+              "audioStart": 62.514,
+              "audioEnd": 64.389
+            },
+            {
+              "text": "They prepared to take the next step down.",
+              "audioStart": 65.347,
+              "audioEnd": 67.653
+            },
+            {
+              "text": "They walked for a long time in the dark.",
+              "audioStart": 68.611,
+              "audioEnd": 70.806
+            },
+            {
+              "text": "The way was hard on every person.",
+              "audioStart": 71.764,
+              "audioEnd": 73.75
+            },
+            {
+              "text": "They looked at the hard walls around them.",
+              "audioStart": 74.708,
+              "audioEnd": 76.764
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many hours passed while they walked deeper.",
+              "audioStart": 77.722,
+              "audioEnd": 80.25
+            },
+            {
+              "text": "The light showed the road very well.",
+              "audioStart": 81.208,
+              "audioEnd": 83.153
+            },
+            {
+              "text": "They wanted to see what was next.",
+              "audioStart": 84.111,
+              "audioEnd": 86.014
+            },
+            {
+              "text": "Food gave them more power to move.",
+              "audioStart": 86.972,
+              "audioEnd": 89.056
+            },
+            {
+              "text": "Water helped them feel much better now.",
+              "audioStart": 90.014,
+              "audioEnd": 92.167
+            },
+            {
+              "text": "Every member stayed close to the group.",
+              "audioStart": 93.125,
+              "audioEnd": 95.25
+            },
+            {
+              "text": "No one wanted to be left behind.",
+              "audioStart": 96.208,
+              "audioEnd": 98.25
+            },
+            {
+              "text": "They knew they would find the end soon.",
+              "audioStart": 99.208,
+              "audioEnd": 101.139
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The great trip was a big test.",
+              "audioStart": 102.097,
+              "audioEnd": 104.111
+            },
+            {
+              "text": "They kept going down with strong hope.",
+              "audioStart": 105.069,
+              "audioEnd": 107.111
+            },
+            {
+              "text": "The dark world was full of wonder.",
+              "audioStart": 108.069,
+              "audioEnd": 110
+            },
+            {
+              "text": "They walked quietly along the small road.",
+              "audioStart": 110.958,
+              "audioEnd": 113.306
+            },
+            {
+              "text": "Each person looked at the ground well.",
+              "audioStart": 114.264,
+              "audioEnd": 116.319
+            },
+            {
+              "text": "The air was still very hot here.",
+              "audioStart": 117.278,
+              "audioEnd": 119.181
+            },
+            {
+              "text": "They wanted to reach the final place.",
+              "audioStart": 120.139,
+              "audioEnd": 122.292
+            },
+            {
+              "text": "The trip was going to change everything.",
+              "audioStart": 123.25,
+              "audioEnd": 125.347
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0230.mp3",
+      "wordTimings": "audio/a2/st-0230.timings.json",
+      "quiz": [
+        {
+          "q": "What did the travelers use to see the path?",
+          "options": [
+            "A special light",
+            "Natural fire",
+            "Bright sun"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How was the road for the travelers?",
+          "options": [
+            "Flat and easy",
+            "Steep and dangerous",
+            "Short and wide"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the travelers do during rest moments?",
+          "options": [
+            "Sleep all day",
+            "Turn back home",
+            "Share food and water"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The long journey down into the earth began with great feeling and fear.",
+              "audioStart": 0.1,
+              "audioEnd": 3.538
+            },
+            {
+              "text": "The small group of people packed their bags and started to walk.",
+              "audioStart": 4.4,
+              "audioEnd": 7.525
+            },
+            {
+              "text": "They knew that the ground below would hold many strange secrets.",
+              "audioStart": 8.387,
+              "audioEnd": 11.45
+            },
+            {
+              "text": "Every step took them deeper into a dark and quiet world.",
+              "audioStart": 12.312,
+              "audioEnd": 15.162
+            },
+            {
+              "text": "As they went further, the air became hot and hard to breathe.",
+              "audioStart": 16.025,
+              "audioEnd": 19.262
+            },
+            {
+              "text": "The walls around them were made of ancient stone and dark rock.",
+              "audioStart": 20.125,
+              "audioEnd": 23.125
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They had to use a special light to see the path ahead.",
+              "audioStart": 23.988,
+              "audioEnd": 26.6
+            },
+            {
+              "text": "Water ran down from the high ceiling, making a soft sound in the dark.",
+              "audioStart": 27.462,
+              "audioEnd": 31.2
+            },
+            {
+              "text": "The people had to be very careful because the road was steep.",
+              "audioStart": 32.062,
+              "audioEnd": 35.062
+            },
+            {
+              "text": "One wrong move would send a person falling down into the black space.",
+              "audioStart": 35.925,
+              "audioEnd": 39.475
+            },
+            {
+              "text": "However, they continued to move forward with hope in their minds.",
+              "audioStart": 40.337,
+              "audioEnd": 43.675
+            },
+            {
+              "text": "Each phase of the trip brought new challenges that tested their strength.",
+              "audioStart": 44.538,
+              "audioEnd": 47.925
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sometimes they stopped to rest and share a little food and water.",
+              "audioStart": 48.788,
+              "audioEnd": 51.9
+            },
+            {
+              "text": "During these quiet moments, they talked about the wonders they might find.",
+              "audioStart": 52.763,
+              "audioEnd": 56.45
+            },
+            {
+              "text": "No one wanted to turn back, although the way grew more difficult.",
+              "audioStart": 57.312,
+              "audioEnd": 60.562
+            },
+            {
+              "text": "They believed that something amazing waited for them at the center.",
+              "audioStart": 61.425,
+              "audioEnd": 64.463
+            },
+            {
+              "text": "The long journey under tested every member of the good team.",
+              "audioStart": 65.325,
+              "audioEnd": 68.287
+            },
+            {
+              "text": "They faced the dark earth with a strong will to succeed.",
+              "audioStart": 69.15,
+              "audioEnd": 71.787
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "This part of the trip was only the beginning of a massive project.",
+              "audioStart": 72.65,
+              "audioEnd": 75.812
+            },
+            {
+              "text": "They finally prepared themselves to take the next big step down.",
+              "audioStart": 76.675,
+              "audioEnd": 80.025
+            },
+            {
+              "text": "They have walked for a long time since the start of the trip.",
+              "audioStart": 80.888,
+              "audioEnd": 83.675
+            },
+            {
+              "text": "They knew that if they continued to walk, they would reach the center soon.",
+              "audioStart": 84.537,
+              "audioEnd": 88.013
+            },
+            {
+              "text": "The air is very hot now, and they drink water from a bottle.",
+              "audioStart": 88.875,
+              "audioEnd": 92.037
+            },
+            {
+              "text": "The group looks at the high ceiling above them every day.",
+              "audioStart": 92.9,
+              "audioEnd": 95.537
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Water drops fall softly on the stone floor in the dark space.",
+              "audioStart": 96.4,
+              "audioEnd": 99.862
+            },
+            {
+              "text": "They feel tired, but they do not stop their long trip.",
+              "audioStart": 100.725,
+              "audioEnd": 103.562
+            },
+            {
+              "text": "Every person carries a bag with food for the road.",
+              "audioStart": 104.425,
+              "audioEnd": 107.037
+            },
+            {
+              "text": "The road is long and difficult for everyone in the group.",
+              "audioStart": 107.9,
+              "audioEnd": 110.513
+            },
+            {
+              "text": "They walk carefully in the dark while they look around.",
+              "audioStart": 111.375,
+              "audioEnd": 113.938
+            },
+            {
+              "text": "Nothing can stop them today because they have great hope.",
+              "audioStart": 114.8,
+              "audioEnd": 117.55
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0230.mp3",
+      "wordTimings": "audio/b1/st-0230.timings.json",
+      "quiz": [
+        {
+          "q": "What did the travelers pack before they started to walk?",
+          "options": [
+            "Their bags",
+            "Their books",
+            "Their food only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What made a soft sound in the dark?",
+          "options": [
+            "The wind",
+            "Water running down from the high ceiling",
+            "The heavy stone walls"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why did the travelers have to be very careful?",
+          "options": [
+            "Because the road was steep",
+            "Because the air was cold",
+            "Because they were very tired"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The long journey down into the earth began with great excitement and fear.",
+              "audioStart": 0.1,
+              "audioEnd": 3.675
+            },
+            {
+              "text": "The small group of people packed their bags and started to walk.",
+              "audioStart": 4.537,
+              "audioEnd": 7.662
+            },
+            {
+              "text": "They knew that the ground below would hold many strange secrets.",
+              "audioStart": 8.525,
+              "audioEnd": 11.588
+            },
+            {
+              "text": "Every step took them deeper into a dark and quiet world.",
+              "audioStart": 12.45,
+              "audioEnd": 15.3
+            },
+            {
+              "text": "As they went further, the air became hot and hard to breathe.",
+              "audioStart": 16.163,
+              "audioEnd": 19.4
+            },
+            {
+              "text": "The walls around them were made of ancient stone and dark rock.",
+              "audioStart": 20.262,
+              "audioEnd": 23.262
+            },
+            {
+              "text": "They had to use a special light to see the path ahead.",
+              "audioStart": 24.125,
+              "audioEnd": 26.738
+            },
+            {
+              "text": "Water ran down from the high roof, making a soft sound in the dark.",
+              "audioStart": 27.6,
+              "audioEnd": 31.3
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The people had to be very careful because the road was hard.",
+              "audioStart": 32.163,
+              "audioEnd": 35.2
+            },
+            {
+              "text": "One wrong move would send a person falling down into the black space.",
+              "audioStart": 36.062,
+              "audioEnd": 39.612
+            },
+            {
+              "text": "However, they continued to move forward with hope in their minds.",
+              "audioStart": 40.475,
+              "audioEnd": 43.812
+            },
+            {
+              "text": "Each phase of the trip brought new challenges that tested their strength.",
+              "audioStart": 44.675,
+              "audioEnd": 48.062
+            },
+            {
+              "text": "Sometimes they stopped to rest and share a little food and water.",
+              "audioStart": 48.925,
+              "audioEnd": 52.038
+            },
+            {
+              "text": "During these quiet moments, they talked about the wonders they might find.",
+              "audioStart": 52.9,
+              "audioEnd": 56.587
+            },
+            {
+              "text": "No one wanted to turn back, although the way grew more difficult.",
+              "audioStart": 57.45,
+              "audioEnd": 60.7
+            },
+            {
+              "text": "They believed that something amazing waited for them at the center.",
+              "audioStart": 61.562,
+              "audioEnd": 64.6
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The long journey under the earth tested every member of the good team.",
+              "audioStart": 65.463,
+              "audioEnd": 68.713
+            },
+            {
+              "text": "They faced the dark earth with hope and a strong will to succeed.",
+              "audioStart": 69.575,
+              "audioEnd": 72.612
+            },
+            {
+              "text": "This part of the trip was only the beginning of a massive adventure.",
+              "audioStart": 73.475,
+              "audioEnd": 76.612
+            },
+            {
+              "text": "They finally prepared themselves to take the next big step down.",
+              "audioStart": 77.475,
+              "audioEnd": 80.825
+            },
+            {
+              "text": "As they walked, they thought about what might wait in the deep rock.",
+              "audioStart": 81.688,
+              "audioEnd": 84.862
+            },
+            {
+              "text": "If they had known how hard the path was, they would have stayed home.",
+              "audioStart": 85.725,
+              "audioEnd": 88.975
+            },
+            {
+              "text": "Yet every person felt that the effort was worth the risk.",
+              "audioStart": 89.838,
+              "audioEnd": 92.688
+            },
+            {
+              "text": "The light which was carried by the leader showed the way clearly.",
+              "audioStart": 93.55,
+              "audioEnd": 96.475
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Water that fell from the high roof made small pools on the ground.",
+              "audioStart": 97.338,
+              "audioEnd": 100.625
+            },
+            {
+              "text": "They stopped again to drink water and eat some food together.",
+              "audioStart": 101.487,
+              "audioEnd": 104.475
+            },
+            {
+              "text": "Each member of the team spoke about their ideas and hopes.",
+              "audioStart": 105.338,
+              "audioEnd": 108.325
+            },
+            {
+              "text": "No one was ready to give up their dream of finding the center.",
+              "audioStart": 109.188,
+              "audioEnd": 112.175
+            },
+            {
+              "text": "They knew that success would be reached if they stayed strong.",
+              "audioStart": 113.037,
+              "audioEnd": 115.85
+            },
+            {
+              "text": "The air remained hot, but they continued to walk without stopping.",
+              "audioStart": 116.713,
+              "audioEnd": 120.05
+            },
+            {
+              "text": "Every minute brought them closer to the secrets of the dark earth.",
+              "audioStart": 120.912,
+              "audioEnd": 123.963
+            },
+            {
+              "text": "They stepped carefully over the rough stone as the journey went on.",
+              "audioStart": 124.825,
+              "audioEnd": 128
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hours passed while the team moved further into the massive mountain.",
+              "audioStart": 128.863,
+              "audioEnd": 132.1
+            },
+            {
+              "text": "The special light helped them see every dangerous spot on the road.",
+              "audioStart": 132.963,
+              "audioEnd": 136.238
+            },
+            {
+              "text": "They talked about how wonderful the final discovery would be.",
+              "audioStart": 137.1,
+              "audioEnd": 140.025
+            },
+            {
+              "text": "Nothing could stop the group from reaching their important goal.",
+              "audioStart": 140.887,
+              "audioEnd": 143.713
+            },
+            {
+              "text": "The strange world below them was full of mystery and silence.",
+              "audioStart": 144.575,
+              "audioEnd": 147.562
+            },
+            {
+              "text": "They felt that something special was waiting for them very soon.",
+              "audioStart": 148.425,
+              "audioEnd": 151.438
+            },
+            {
+              "text": "Every person in the group kept a positive and strong mind.",
+              "audioStart": 152.3,
+              "audioEnd": 155.3
+            },
+            {
+              "text": "The long walk down into the earth was finally coming to an end.",
+              "audioStart": 156.162,
+              "audioEnd": 159.312
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They walked for many hours through the dark stone pathways.",
+              "audioStart": 160.175,
+              "audioEnd": 163.037
+            },
+            {
+              "text": "Each person kept moving forward despite the hard physical work.",
+              "audioStart": 163.9,
+              "audioEnd": 167.287
+            },
+            {
+              "text": "The light showed small details on the wet rock walls.",
+              "audioStart": 168.15,
+              "audioEnd": 170.95
+            },
+            {
+              "text": "They hoped that the center was near their current location.",
+              "audioStart": 171.812,
+              "audioEnd": 174.45
+            },
+            {
+              "text": "Every member shared water and food during short rests.",
+              "audioStart": 175.312,
+              "audioEnd": 178.213
+            },
+            {
+              "text": "The journey down required great strength and a calm mind.",
+              "audioStart": 179.075,
+              "audioEnd": 181.938
+            },
+            {
+              "text": "No one wanted to lose hope in this strange hidden place.",
+              "audioStart": 182.8,
+              "audioEnd": 185.55
+            },
+            {
+              "text": "They believed that their hard work would soon bring success.",
+              "audioStart": 186.412,
+              "audioEnd": 189.338
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "More time passed as they climbed down lower rock steps.",
+              "audioStart": 190.2,
+              "audioEnd": 193.162
+            },
+            {
+              "text": "The air stayed hot, but they kept walking together as a team.",
+              "audioStart": 194.025,
+              "audioEnd": 197.338
+            },
+            {
+              "text": "They talked about the history of the mountain and its secrets.",
+              "audioStart": 198.2,
+              "audioEnd": 201.075
+            },
+            {
+              "text": "Every step brought them closer to the final discovery.",
+              "audioStart": 201.938,
+              "audioEnd": 204.675
+            },
+            {
+              "text": "The leaders checked the path to ensure everyone was safe.",
+              "audioStart": 205.537,
+              "audioEnd": 208.425
+            },
+            {
+              "text": "They knew that turning back was never an option now.",
+              "audioStart": 209.287,
+              "audioEnd": 211.688
+            },
+            {
+              "text": "Their strong will kept them going through the difficult hours.",
+              "audioStart": 212.55,
+              "audioEnd": 215.188
+            },
+            {
+              "text": "The adventure continued into the deep and silent earth.",
+              "audioStart": 216.05,
+              "audioEnd": 218.725
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The group stayed together and watched the dark path closely.",
+              "audioStart": 219.588,
+              "audioEnd": 222.675
+            },
+            {
+              "text": "Water fell slowly from the high roof onto the cold stone.",
+              "audioStart": 223.537,
+              "audioEnd": 226.488
+            },
+            {
+              "text": "They drank some water and rested their tired legs again.",
+              "audioStart": 227.35,
+              "audioEnd": 230.25
+            },
+            {
+              "text": "Each person thought about the long way they had walked.",
+              "audioStart": 231.113,
+              "audioEnd": 233.662
+            },
+            {
+              "text": "The journey was hard, but their spirits remained very high.",
+              "audioStart": 234.525,
+              "audioEnd": 237.537
+            },
+            {
+              "text": "They prepared to take the final steps toward the center.",
+              "audioStart": 238.4,
+              "audioEnd": 241.088
+            },
+            {
+              "text": "The special light made the dark rock look bright and clear.",
+              "audioStart": 241.95,
+              "audioEnd": 244.912
+            },
+            {
+              "text": "They were ready to see what waited below the ground.",
+              "audioStart": 245.775,
+              "audioEnd": 248.012
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The final part of the walk started with quiet determination.",
+              "audioStart": 248.875,
+              "audioEnd": 251.938
+            },
+            {
+              "text": "They moved across the rough floor of the huge space.",
+              "audioStart": 252.8,
+              "audioEnd": 256.716
+            },
+            {
+              "text": "Every minute felt important as they reached the end.",
+              "audioStart": 257.578,
+              "audioEnd": 260.065
+            },
+            {
+              "text": "The team knew their great adventure was almost finished.",
+              "audioStart": 260.928,
+              "audioEnd": 263.553
+            },
+            {
+              "text": "They stood together and looked at the amazing sight ahead.",
+              "audioStart": 264.416,
+              "audioEnd": 267.14
+            },
+            {
+              "text": "All their hard work and risk had finally paid off.",
+              "audioStart": 268.003,
+              "audioEnd": 270.666
+            },
+            {
+              "text": "The deep secrets of the earth were open before them.",
+              "audioStart": 271.528,
+              "audioEnd": 273.966
+            },
+            {
+              "text": "They smiled because they had completed the long journey.",
+              "audioStart": 274.828,
+              "audioEnd": 277.403
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0230.mp3",
+      "wordTimings": "audio/b2/st-0230.timings.json",
+      "quiz": [
+        {
+          "q": "What did the travelers use to see the path ahead?",
+          "options": [
+            "A special light",
+            "A bright fire",
+            "The sun"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the air become as they went further down?",
+          "options": [
+            "Cold and clean",
+            "Hot and hard to breathe",
+            "Fresh and wet"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What ran down from the high ceiling?",
+          "options": [
+            "Water",
+            "Sand",
+            "Stone"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The protracted descent into the abyssal heart of the earth commenced amidst a palpable atmosphere of electric anticipation and latent dread.",
+              "audioStart": 0.1,
+              "audioEnd": 7.237
+            },
+            {
+              "text": "With meticulous care, the small band of intrepid explorers secured their packs, their leather boots crunching against the threshold of the known world.",
+              "audioStart": 8.1,
+              "audioEnd": 16.15
+            },
+            {
+              "text": "They carried with them the profound awareness that the subterranean strata below guarded secrets older than human memory.",
+              "audioStart": 17.012,
+              "audioEnd": 22.712
+            },
+            {
+              "text": "Every deliberate step plunged them deeper into a sovereign realm of perpetual gloom and profound, echoing silence.",
+              "audioStart": 23.575,
+              "audioEnd": 29.712
+            },
+            {
+              "text": "As they pressed onward, the atmosphere grew markedly heavier, radiating a stifling heat that made each inhalation an exercise in sheer willpower.",
+              "audioStart": 30.575,
+              "audioEnd": 38.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The looming walls pressed inward, composed of ancient, jagged stone and obsidian rock that seemed to absorb the meager illumination.",
+              "audioStart": 39.487,
+              "audioEnd": 46.562
+            },
+            {
+              "text": "To pierce the Stygian blackness, they relied upon a specialized luminescence, a brilliant portable flare that carved a narrow corridor of safety through the dark.",
+              "audioStart": 47.425,
+              "audioEnd": 55.862
+            },
+            {
+              "text": "High above, hidden in the unseen ceiling, subterranean moisture collected and precipitated, cascading down in erratic, rhythmic drops.",
+              "audioStart": 56.725,
+              "audioEnd": 64.513
+            },
+            {
+              "text": "These falling droplets struck the stone with a soft, solitary cadence that punctuated the vast quiet of the cavernous interior.",
+              "audioStart": 65.375,
+              "audioEnd": 72.225
+            },
+            {
+              "text": "Navigational precision was non-negotiable, for the treacherous pathway offered no margin for error or momentary distraction.",
+              "audioStart": 73.088,
+              "audioEnd": 80.025
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A single miscalculated step would have meant plunging irrevocably into bottomless voids that yawned hungrily beside the trail.",
+              "audioStart": 80.888,
+              "audioEnd": 87.2
+            },
+            {
+              "text": "Yet, despite the manifest perils, they forged ahead, buoyed by an unyielding hope that lived quietly in the chest of every traveler.",
+              "audioStart": 88.062,
+              "audioEnd": 95.562
+            },
+            {
+              "text": "Each successive phase of the arduous trek introduced novel obstacles that relentlessly tested their physical endurance and psychological resilience.",
+              "audioStart": 96.425,
+              "audioEnd": 104.138
+            },
+            {
+              "text": "From time to time, fatigue mandated a halt, prompting them to gather in the dim circle of light to share modest rations of food and water.",
+              "audioStart": 105,
+              "audioEnd": 112.362
+            },
+            {
+              "text": "During these hushed respites, their conversations naturally drifted toward the marvelous phenomena they half-expected to encounter.",
+              "audioStart": 113.225,
+              "audioEnd": 119.975
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Not a single member entertained the notion of retreat, even as the arduous route exacted a heavier toll on their aching muscles.",
+              "audioStart": 120.838,
+              "audioEnd": 127.487
+            },
+            {
+              "text": "They shared a collective conviction that something truly extraordinary awaited discovery at the elusive center of the terrestrial sphere.",
+              "audioStart": 128.35,
+              "audioEnd": 135.062
+            },
+            {
+              "text": "This grueling expedition tested the mettle of every single individual comprising the cohesive unit.",
+              "audioStart": 135.925,
+              "audioEnd": 141.338
+            },
+            {
+              "text": "They confronted the suffocating darkness with steady resolve and an unbreakable determination to achieve their grand objective.",
+              "audioStart": 142.2,
+              "audioEnd": 148.488
+            },
+            {
+              "text": "This subterranean passage, terrifying though it was, constituted merely the preliminary phase of a vastly grander adventure.",
+              "audioStart": 149.35,
+              "audioEnd": 156.375
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Steel-nerved and resolute, they finally prepared themselves to cross the threshold into the next profound stage of descent.",
+              "audioStart": 157.238,
+              "audioEnd": 163.325
+            },
+            {
+              "text": "As their boots resumed the rhythmic march, their minds wandered to the unimaginable wonders concealed within the deep rock.",
+              "audioStart": 164.188,
+              "audioEnd": 170.338
+            },
+            {
+              "text": "Had they fully comprehended the sheer magnitude of the hardship awaiting them, perhaps they would have remained safely at home.",
+              "audioStart": 171.2,
+              "audioEnd": 177.125
+            },
+            {
+              "text": "Yet, looking around at one another, every soul tacitly agreed that the breathtaking risk was entirely justified by the pursuit.",
+              "audioStart": 177.988,
+              "audioEnd": 185.3
+            },
+            {
+              "text": "At the vanguard of the column, the leader held the specialized lamp high, casting a steady beam that illuminated the rugged path clearly.",
+              "audioStart": 186.162,
+              "audioEnd": 193.238
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Infinitesimal droplets from the lofty ceiling continued to patter down, forming tiny, shimmering puddles on the uneven stone floor.",
+              "audioStart": 194.1,
+              "audioEnd": 201.637
+            },
+            {
+              "text": "Once more, exhaustion compelled the team to pause, seeking restorative sustenance and a momentary reprieve from the relentless walking.",
+              "audioStart": 202.5,
+              "audioEnd": 209.8
+            },
+            {
+              "text": "Within the intimate circle of lantern light, each participant voiced their personal aspirations and theories regarding what lay ahead.",
+              "audioStart": 210.662,
+              "audioEnd": 217.588
+            },
+            {
+              "text": "No one harbored any intention of relinquishing the shared dream of unearthing the planet's deepest core.",
+              "audioStart": 218.45,
+              "audioEnd": 223.625
+            },
+            {
+              "text": "They shared an unspoken understanding that ultimate success hinged entirely on maintaining their collective solidarity and strength.",
+              "audioStart": 224.488,
+              "audioEnd": 231.225
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Although the surrounding air remained uncomfortably warm and thick, they resumed their steady march without a single complaint.",
+              "audioStart": 232.088,
+              "audioEnd": 238.387
+            },
+            {
+              "text": "Each passing minute inexorably drew them closer to the enigmatic truths veiled by the subterranean dark.",
+              "audioStart": 239.25,
+              "audioEnd": 245.833
+            },
+            {
+              "text": "They navigated the treacherous, jagged stones with practiced caution as the expedition pressed deeper into the mountain's bowels.",
+              "audioStart": 246.696,
+              "audioEnd": 253.309
+            },
+            {
+              "text": "Hours slipped away unnoticed while the dedicated team traversed the colossal stone architecture of the subterranean world.",
+              "audioStart": 254.171,
+              "audioEnd": 260.308
+            },
+            {
+              "text": "The specialized light continued to faithfully reveal every hidden fissure, loose rock, and potential hazard along the winding road.",
+              "audioStart": 261.171,
+              "audioEnd": 268.483
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Conversations revolved around the magnificent revelation that would undoubtedly crown their exhaustive efforts.",
+              "audioStart": 269.346,
+              "audioEnd": 274.808
+            },
+            {
+              "text": "An absolute sense of purpose shielded them against doubt, ensuring that nothing could deter them from their vital destination.",
+              "audioStart": 275.671,
+              "audioEnd": 282.071
+            },
+            {
+              "text": "The alien world surrounding them thrummed with a heavy, magnetic silence that felt almost reverent.",
+              "audioStart": 282.933,
+              "audioEnd": 288.296
+            },
+            {
+              "text": "A profound intuition whispered to them that the culmination of their quest was drawing near with every step.",
+              "audioStart": 289.159,
+              "audioEnd": 294.271
+            },
+            {
+              "text": "Optimism remained the prevailing sentiment within the group, banishing any shadows of despair from their minds.",
+              "audioStart": 295.134,
+              "audioEnd": 300.858
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The grueling march down into the terrestrial depths was steadily approaching its long-awaited conclusion.",
+              "audioStart": 301.721,
+              "audioEnd": 306.871
+            },
+            {
+              "text": "For hours on end, they negotiated the labyrinthine stone pathways with relentless forward momentum.",
+              "audioStart": 307.733,
+              "audioEnd": 313.058
+            },
+            {
+              "text": "Physical exhaustion gnawed at their limbs, but sheer willpower propelled each person past their perceived limits.",
+              "audioStart": 313.921,
+              "audioEnd": 319.858
+            },
+            {
+              "text": "The guiding beam danced across damp rock walls, highlighting intricate mineral formations and glistening veins of ore.",
+              "audioStart": 320.721,
+              "audioEnd": 326.983
+            },
+            {
+              "text": "They clung to the fervent hope that the geographic center of their journey lay just beyond the next rocky ridge.",
+              "audioStart": 327.846,
+              "audioEnd": 333.308
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During brief rest intervals, the sharing of meager provisions reinforced the bonds of camaraderie forged in the dark.",
+              "audioStart": 334.171,
+              "audioEnd": 340.459
+            },
+            {
+              "text": "The descent demanded unwavering mental discipline alongside exceptional physical stamina.",
+              "audioStart": 341.321,
+              "audioEnd": 345.996
+            },
+            {
+              "text": "Despair found no purchase among them, for they refused to surrender their aspirations in this secluded subterranean sanctuary.",
+              "audioStart": 346.858,
+              "audioEnd": 353.534
+            },
+            {
+              "text": "They maintained a steadfast faith that their perseverance would soon be rewarded with undeniable triumph.",
+              "audioStart": 354.396,
+              "audioEnd": 359.483
+            },
+            {
+              "text": "Time lost its conventional meaning as they descended deeper series of natural rock steps cut by ancient forces.",
+              "audioStart": 360.346,
+              "audioEnd": 366.371
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The oppressive heat persisted, yet the team moved as a singular, harmonious organism through the rock.",
+              "audioStart": 367.233,
+              "audioEnd": 372.634
+            },
+            {
+              "text": "Discussions occasionally touched upon the primordial history of the mountain and the geological forces that birthed its secrets.",
+              "audioStart": 373.496,
+              "audioEnd": 379.871
+            },
+            {
+              "text": "Every single footfall brought them closer to the threshold of discovery, narrowing the distance to their destination.",
+              "audioStart": 380.733,
+              "audioEnd": 386.558
+            },
+            {
+              "text": "At critical junctures, the leaders meticulously inspected the terrain to guarantee the safety of every follower.",
+              "audioStart": 387.421,
+              "audioEnd": 393.358
+            },
+            {
+              "text": "Turning back had long since ceased to be a viable consideration; forward was the only direction left to them.",
+              "audioStart": 394.221,
+              "audioEnd": 400.046
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Their formidable resolve sustained them through the most grueling stretches of the underground marathon.",
+              "audioStart": 400.909,
+              "audioEnd": 405.721
+            },
+            {
+              "text": "The expedition persisted, cutting deeper into the silent, unyielding earth with quiet determination.",
+              "audioStart": 406.584,
+              "audioEnd": 412.134
+            },
+            {
+              "text": "As they crossed the final expanse of rough cavern floor, every passing second swelled with profound significance.",
+              "audioStart": 412.996,
+              "audioEnd": 419.171
+            },
+            {
+              "text": "They knew with absolute certainty that their monumental adventure was rapidly drawing to its dramatic close.",
+              "audioStart": 420.034,
+              "audioEnd": 425.409
+            },
+            {
+              "text": "Gathering together at the edge of the final overlook, they gazed out in breathless awe at the breathtaking vista waiting below.",
+              "audioStart": 426.271,
+              "audioEnd": 432.496
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0230.mp3",
+      "wordTimings": "audio/c1/st-0230.timings.json",
+      "quiz": [
+        {
+          "q": "What primary source of illumination did the explorers rely on to navigate the darkness?",
+          "options": [
+            "A specialized portable flare that cast a bright beam",
+            "Natural bioluminescent fungi growing on the stone walls",
+            "Open torches fueled by oil carried in their packs"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the travelers manage their fatigue and nutritional needs during the journey?",
+          "options": [
+            "They stopped periodically to rest, share food and water, and discuss their hopes",
+            "They continued walking without stopping until they reached the center",
+            "They set up elaborate camps and slept for several hours at a time"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What was the collective attitude of the group regarding turning back as the journey grew harder?",
+          "options": [
+            "Some members frequently begged the leader to return to the surface",
+            "They considered turning back whenever the heat became unbearable",
+            "No one entertained the notion of retreat and they believed success was near"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  }
+}

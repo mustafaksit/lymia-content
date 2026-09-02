@@ -1,0 +1,1233 @@
+{
+  "id": "st-0265",
+  "title": "Snow-White and Rose-Red",
+  "genre": "classic",
+  "summary": "Two sisters welcome a gentle bear who seeks shelter at their cozy home.",
+  "coverScene": "Two young girls sit by a warm fireplace with a friendly large black bear.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Two young girls live in a house.",
+              "audioStart": 0.106,
+              "audioEnd": 1.856
+            },
+            {
+              "text": "Their names are Snow-White and Rose-Red.",
+              "audioStart": 2.819,
+              "audioEnd": 4.931
+            },
+            {
+              "text": "They love their mother very much.",
+              "audioStart": 5.889,
+              "audioEnd": 7.722
+            },
+            {
+              "text": "Snow-White is very still.",
+              "audioStart": 8.681,
+              "audioEnd": 10.264
+            },
+            {
+              "text": "Rose-Red likes to play outside.",
+              "audioStart": 11.222,
+              "audioEnd": 13.181
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The year turns.",
+              "audioStart": 14.139,
+              "audioEnd": 15.264
+            },
+            {
+              "text": "A big black bear comes.",
+              "audioStart": 16.222,
+              "audioEnd": 17.889
+            },
+            {
+              "text": "He comes to the door.",
+              "audioStart": 18.847,
+              "audioEnd": 20.139
+            },
+            {
+              "text": "He wants a place to stay.",
+              "audioStart": 21.097,
+              "audioEnd": 22.681
+            },
+            {
+              "text": "The girls do not run away.",
+              "audioStart": 23.639,
+              "audioEnd": 25.181
+            },
+            {
+              "text": "The bear is good.",
+              "audioStart": 26.139,
+              "audioEnd": 27.264
+            },
+            {
+              "text": "He sits near a light.",
+              "audioStart": 28.222,
+              "audioEnd": 29.639
+            },
+            {
+              "text": "He stays there every day.",
+              "audioStart": 30.597,
+              "audioEnd": 32.153
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The year turns again.",
+              "audioStart": 33.111,
+              "audioEnd": 34.431
+            },
+            {
+              "text": "The bear must leave the house.",
+              "audioStart": 35.389,
+              "audioEnd": 37.042
+            },
+            {
+              "text": "He goes away to a big place.",
+              "audioStart": 38,
+              "audioEnd": 39.917
+            },
+            {
+              "text": "The girls feel bad.",
+              "audioStart": 40.875,
+              "audioEnd": 42.139
+            },
+            {
+              "text": "Later, they walk.",
+              "audioStart": 43.097,
+              "audioEnd": 44.569
+            },
+            {
+              "text": "They find a little man.",
+              "audioStart": 45.528,
+              "audioEnd": 46.889
+            },
+            {
+              "text": "He is in a problem.",
+              "audioStart": 47.847,
+              "audioEnd": 49
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The little man has a long face part.",
+              "audioStart": 49.958,
+              "audioEnd": 52.167
+            },
+            {
+              "text": "His head is in a tree.",
+              "audioStart": 53.125,
+              "audioEnd": 54.5
+            },
+            {
+              "text": "The girls help him.",
+              "audioStart": 55.458,
+              "audioEnd": 56.681
+            },
+            {
+              "text": "He is not good to them.",
+              "audioStart": 57.639,
+              "audioEnd": 58.958
+            },
+            {
+              "text": "He is bad.",
+              "audioStart": 59.917,
+              "audioEnd": 60.792
+            },
+            {
+              "text": "They see him again soon.",
+              "audioStart": 61.75,
+              "audioEnd": 63.236
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The bad man look at a bear.",
+              "audioStart": 64.194,
+              "audioEnd": 65.875
+            },
+            {
+              "text": "It is their friend, the big bear.",
+              "audioStart": 66.833,
+              "audioEnd": 68.833
+            },
+            {
+              "text": "The bear moves the bad man.",
+              "audioStart": 69.792,
+              "audioEnd": 71.403
+            },
+            {
+              "text": "The bad man run away.",
+              "audioStart": 72.361,
+              "audioEnd": 73.806
+            },
+            {
+              "text": "The bear becomes a man.",
+              "audioStart": 74.764,
+              "audioEnd": 76.208
+            },
+            {
+              "text": "He is a good prince.",
+              "audioStart": 77.167,
+              "audioEnd": 78.486
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The bad man take money.",
+              "audioStart": 79.444,
+              "audioEnd": 81.042
+            },
+            {
+              "text": "The prince tells the girls.",
+              "audioStart": 82,
+              "audioEnd": 83.625
+            },
+            {
+              "text": "Snow-White loves the prince.",
+              "audioStart": 84.583,
+              "audioEnd": 86.236
+            },
+            {
+              "text": "Rose-Red loves his family.",
+              "audioStart": 87.194,
+              "audioEnd": 88.931
+            },
+            {
+              "text": "They live in a large house.",
+              "audioStart": 89.889,
+              "audioEnd": 91.458
+            },
+            {
+              "text": "They give money to mother.",
+              "audioStart": 92.417,
+              "audioEnd": 93.806
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0265.mp3",
+      "wordTimings": "audio/a1/st-0265.timings.json",
+      "quiz": [
+        {
+          "q": "Who comes to the door in the winter?",
+          "options": [
+            "A big black bear",
+            "A little man",
+            "A rich prince"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the little man have?",
+          "options": [
+            "A long beard",
+            "A black coat",
+            "A gold ring"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who does Snow-White marry at the end?",
+          "options": [
+            "The bad man",
+            "The happy prince",
+            "The little man"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Two young girls lived near a deep forest.",
+              "audioStart": 0.106,
+              "audioEnd": 2.536
+            },
+            {
+              "text": "One girl was Snow-White.",
+              "audioStart": 3.5,
+              "audioEnd": 4.972
+            },
+            {
+              "text": "The other girl was Rose-Red.",
+              "audioStart": 5.931,
+              "audioEnd": 7.556
+            },
+            {
+              "text": "Snow-White was nice and good.",
+              "audioStart": 8.514,
+              "audioEnd": 10.208
+            },
+            {
+              "text": "Rose-Red loved to run and play outside.",
+              "audioStart": 11.167,
+              "audioEnd": 13.611
+            },
+            {
+              "text": "They loved their mother very much.",
+              "audioStart": 14.569,
+              "audioEnd": 16.444
+            },
+            {
+              "text": "The family lived in a small house.",
+              "audioStart": 17.403,
+              "audioEnd": 19.458
+            },
+            {
+              "text": "They had food to eat and beds to sleep.",
+              "audioStart": 20.417,
+              "audioEnd": 22.514
+            },
+            {
+              "text": "Life was good during most of the year.",
+              "audioStart": 23.472,
+              "audioEnd": 25.542
+            },
+            {
+              "text": "The sisters liked to help their mother.",
+              "audioStart": 26.5,
+              "audioEnd": 28.486
+            },
+            {
+              "text": "They cleaned the rooms every day.",
+              "audioStart": 29.444,
+              "audioEnd": 31.25
+            },
+            {
+              "text": "Then they went to play in the trees.",
+              "audioStart": 32.208,
+              "audioEnd": 34.083
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During cold months, a big black bear came.",
+              "audioStart": 35.042,
+              "audioEnd": 37.722
+            },
+            {
+              "text": "The animal walked up to the house.",
+              "audioStart": 38.681,
+              "audioEnd": 40.667
+            },
+            {
+              "text": "The big bear wanted to find a fire.",
+              "audioStart": 41.625,
+              "audioEnd": 43.847
+            },
+            {
+              "text": "At first, the children felt some fear.",
+              "audioStart": 44.806,
+              "audioEnd": 47.417
+            },
+            {
+              "text": "Soon, they let him sleep near the fire.",
+              "audioStart": 48.375,
+              "audioEnd": 51
+            },
+            {
+              "text": "The bear stayed with them for many days.",
+              "audioStart": 51.958,
+              "audioEnd": 54.208
+            },
+            {
+              "text": "The girls were nice to the large animal.",
+              "audioStart": 55.167,
+              "audioEnd": 57.278
+            },
+            {
+              "text": "He stayed until the air became hot.",
+              "audioStart": 58.236,
+              "audioEnd": 60.333
+            },
+            {
+              "text": "Then the bear had to leave the house.",
+              "audioStart": 61.292,
+              "audioEnd": 63.194
+            },
+            {
+              "text": "The sisters felt very bad when he left.",
+              "audioStart": 64.153,
+              "audioEnd": 66.611
+            },
+            {
+              "text": "They did not see the bear for weeks.",
+              "audioStart": 67.569,
+              "audioEnd": 69.528
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Weeks later, they found a small man.",
+              "audioStart": 70.486,
+              "audioEnd": 72.806
+            },
+            {
+              "text": "This man had a very long beard.",
+              "audioStart": 73.764,
+              "audioEnd": 75.736
+            },
+            {
+              "text": "His hair was caught in a tree.",
+              "audioStart": 76.694,
+              "audioEnd": 78.403
+            },
+            {
+              "text": "The sisters helped the man get free.",
+              "audioStart": 79.361,
+              "audioEnd": 81.431
+            },
+            {
+              "text": "He always spoke with much bad feeling.",
+              "audioStart": 82.389,
+              "audioEnd": 84.694
+            },
+            {
+              "text": "One day, they saw him make sad sounds.",
+              "audioStart": 85.653,
+              "audioEnd": 88.319
+            },
+            {
+              "text": "He was talking at a large animal.",
+              "audioStart": 89.278,
+              "audioEnd": 91.208
+            },
+            {
+              "text": "That animal was their old friend, the bear.",
+              "audioStart": 92.167,
+              "audioEnd": 94.708
+            },
+            {
+              "text": "The bear hit the mean man hard.",
+              "audioStart": 95.667,
+              "audioEnd": 97.444
+            },
+            {
+              "text": "The bad man ran away from them.",
+              "audioStart": 98.403,
+              "audioEnd": 100.278
+            },
+            {
+              "text": "Then the bear changed into a man.",
+              "audioStart": 101.236,
+              "audioEnd": 103.139
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man told them a long story.",
+              "audioStart": 104.097,
+              "audioEnd": 106
+            },
+            {
+              "text": "He spoke about his lost money.",
+              "audioStart": 106.958,
+              "audioEnd": 108.833
+            },
+            {
+              "text": "Snow-White married the man.",
+              "audioStart": 109.792,
+              "audioEnd": 111.347
+            },
+            {
+              "text": "Rose-Red married the brother of the man.",
+              "audioStart": 112.306,
+              "audioEnd": 114.389
+            },
+            {
+              "text": "They lived in a huge house.",
+              "audioStart": 115.347,
+              "audioEnd": 116.972
+            },
+            {
+              "text": "Their mother lived with them too.",
+              "audioStart": 117.931,
+              "audioEnd": 119.583
+            },
+            {
+              "text": "Everyone was happy at the end.",
+              "audioStart": 120.542,
+              "audioEnd": 122.333
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0265.mp3",
+      "wordTimings": "audio/a2/st-0265.timings.json",
+      "quiz": [
+        {
+          "q": "What animal came to the house during the winter?",
+          "options": [
+            "A big black bear",
+            "A small red dog",
+            "A green bird"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the sisters find during a walk later?",
+          "options": [
+            "A gold ring",
+            "A small man with a long beard",
+            "A lost house"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who did Snow-White marry at the end of the story?",
+          "options": [
+            "The bad man",
+            "The prince",
+            "The brother of the prince"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Two young sisters named Snow-White and Rose-Red lived in a small house.",
+              "audioStart": 0.1,
+              "audioEnd": 3.612
+            },
+            {
+              "text": "They lived near a deep forest.",
+              "audioStart": 4.475,
+              "audioEnd": 6.15
+            },
+            {
+              "text": "Snow-White was quiet and good.",
+              "audioStart": 7.013,
+              "audioEnd": 8.6
+            },
+            {
+              "text": "Rose-Red liked to run and play outside.",
+              "audioStart": 9.463,
+              "audioEnd": 11.675
+            },
+            {
+              "text": "They were good children.",
+              "audioStart": 12.537,
+              "audioEnd": 13.637
+            },
+            {
+              "text": "They loved their mother very much.",
+              "audioStart": 14.5,
+              "audioEnd": 16.188
+            },
+            {
+              "text": "Every single day, the sisters helped around the house.",
+              "audioStart": 17.05,
+              "audioEnd": 19.925
+            },
+            {
+              "text": "They cleaned the floors and prepared nice food for their family.",
+              "audioStart": 20.788,
+              "audioEnd": 23.9
+            },
+            {
+              "text": "The mother always thanked them for their hard work and support.",
+              "audioStart": 24.762,
+              "audioEnd": 27.65
+            },
+            {
+              "text": "Life was calm and quiet in the small home near the trees.",
+              "audioStart": 28.512,
+              "audioEnd": 31.425
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During the cold winter months, a big black bear often came to their door.",
+              "audioStart": 32.288,
+              "audioEnd": 36.2
+            },
+            {
+              "text": "He came to seek rest from the freezing weather outside.",
+              "audioStart": 37.062,
+              "audioEnd": 39.775
+            },
+            {
+              "text": "At first, the girls were afraid of him.",
+              "audioStart": 40.638,
+              "audioEnd": 42.812
+            },
+            {
+              "text": "The kind animal showed that he meant no trouble.",
+              "audioStart": 43.675,
+              "audioEnd": 46.013
+            },
+            {
+              "text": "They let him come inside.",
+              "audioStart": 46.875,
+              "audioEnd": 48.237
+            },
+            {
+              "text": "He slept near the fire every night.",
+              "audioStart": 49.1,
+              "audioEnd": 51.05
+            },
+            {
+              "text": "The sisters gave him food and water.",
+              "audioStart": 51.913,
+              "audioEnd": 53.775
+            },
+            {
+              "text": "They felt safe with their large new friend.",
+              "audioStart": 54.638,
+              "audioEnd": 56.7
+            },
+            {
+              "text": "The bear stayed warm until the snow began to pass away.",
+              "audioStart": 57.562,
+              "audioEnd": 60.388
+            },
+            {
+              "text": "He never hurt anyone in the house.",
+              "audioStart": 61.25,
+              "audioEnd": 62.975
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When spring arrived and the weather became warm, the bear had to leave.",
+              "audioStart": 63.837,
+              "audioEnd": 67.375
+            },
+            {
+              "text": "He went away to protect his gold from a bad man.",
+              "audioStart": 68.237,
+              "audioEnd": 70.688
+            },
+            {
+              "text": "The sisters were very sad to see their animal friend go into the woods.",
+              "audioStart": 71.55,
+              "audioEnd": 75.237
+            },
+            {
+              "text": "They had shared many wonderful moments with him during the winter months.",
+              "audioStart": 76.1,
+              "audioEnd": 79.425
+            },
+            {
+              "text": "They have missed him every single day since he left.",
+              "audioStart": 80.287,
+              "audioEnd": 82.9
+            },
+            {
+              "text": "The forest felt empty without his big presence near the door.",
+              "audioStart": 83.763,
+              "audioEnd": 86.9
+            },
+            {
+              "text": "Spring flowers grew around the house, but the girls still felt sad.",
+              "audioStart": 87.763,
+              "audioEnd": 91.35
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A few weeks later, while they were walking, they found a small man.",
+              "audioStart": 92.213,
+              "audioEnd": 95.787
+            },
+            {
+              "text": "The man had a long beard.",
+              "audioStart": 96.65,
+              "audioEnd": 98.05
+            },
+            {
+              "text": "This mean little man was in trouble because his hair was caught in a tree.",
+              "audioStart": 98.912,
+              "audioEnd": 102.4
+            },
+            {
+              "text": "The two sisters helped him several times.",
+              "audioStart": 103.263,
+              "audioEnd": 105.475
+            },
+            {
+              "text": "He was never nice to them.",
+              "audioStart": 106.338,
+              "audioEnd": 107.75
+            },
+            {
+              "text": "He always spoke with a strong voice and made angry sounds.",
+              "audioStart": 108.612,
+              "audioEnd": 111.75
+            },
+            {
+              "text": "The girls still helped him because they were good children.",
+              "audioStart": 112.612,
+              "audioEnd": 115.125
+            },
+            {
+              "text": "The small man showed no happiness for their help.",
+              "audioStart": 115.987,
+              "audioEnd": 118.412
+            },
+            {
+              "text": "He walked away and left them alone in the deep woods.",
+              "audioStart": 119.275,
+              "audioEnd": 122
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One day, they saw the same bad man shouting at a large animal.",
+              "audioStart": 122.862,
+              "audioEnd": 126.338
+            },
+            {
+              "text": "That animal was actually their old friend, the big bear.",
+              "audioStart": 127.2,
+              "audioEnd": 130.2
+            },
+            {
+              "text": "The bear had finally returned to catch the bad man.",
+              "audioStart": 131.062,
+              "audioEnd": 133.65
+            },
+            {
+              "text": "The bear hit the mean man hard until he ran away into the forest.",
+              "audioStart": 134.512,
+              "audioEnd": 137.838
+            },
+            {
+              "text": "Then the bear changed into a rich man because a spell had been broken.",
+              "audioStart": 138.7,
+              "audioEnd": 142.188
+            },
+            {
+              "text": "The man told them that the bad man had stolen his gold.",
+              "audioStart": 143.05,
+              "audioEnd": 145.887
+            },
+            {
+              "text": "He had also suffered a spell for a very long time.",
+              "audioStart": 146.75,
+              "audioEnd": 149.438
+            },
+            {
+              "text": "The sisters were amazed by this big change.",
+              "audioStart": 150.3,
+              "audioEnd": 152.662
+            },
+            {
+              "text": "They recognized their old friend immediately.",
+              "audioStart": 153.525,
+              "audioEnd": 155.762
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Snow-White later married the happy man.",
+              "audioStart": 156.625,
+              "audioEnd": 158.575
+            },
+            {
+              "text": "Rose-Red married his brother.",
+              "audioStart": 159.438,
+              "audioEnd": 160.938
+            },
+            {
+              "text": "They lived together in a huge house near the deep forest.",
+              "audioStart": 161.8,
+              "audioEnd": 164.75
+            },
+            {
+              "text": "They shared all their gold with their mother.",
+              "audioStart": 165.613,
+              "audioEnd": 167.488
+            },
+            {
+              "text": "They have lived a happy life since the spell ended.",
+              "audioStart": 168.35,
+              "audioEnd": 170.688
+            },
+            {
+              "text": "Their mother has enjoyed living with them in the big house.",
+              "audioStart": 171.55,
+              "audioEnd": 174.225
+            },
+            {
+              "text": "The two families have shared many wonderful meals together every week.",
+              "audioStart": 175.088,
+              "audioEnd": 178.825
+            },
+            {
+              "text": "Everyone in the area knows their story and remembers the big bear.",
+              "audioStart": 179.688,
+              "audioEnd": 182.9
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0265.mp3",
+      "wordTimings": "audio/b1/st-0265.timings.json",
+      "quiz": [
+        {
+          "q": "What animal came to the house during the winter?",
+          "options": [
+            "A big black bear",
+            "A small man with a beard",
+            "A rich prince"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did the bear have to leave when spring arrived?",
+          "options": [
+            "To protect his gold from a bad man",
+            "To find the sisters' mother",
+            "To live in a huge castle"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who did Snow-White marry at the end of the story?",
+          "options": [
+            "The bad man",
+            "The happy prince",
+            "The prince's brother"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Two young sisters lived near a deep forest.",
+              "audioStart": 0.1,
+              "audioEnd": 2.45
+            },
+            {
+              "text": "They were named Snow-White and Rose-Red.",
+              "audioStart": 3.312,
+              "audioEnd": 5.162
+            },
+            {
+              "text": "Snow-White was quiet and gentle.",
+              "audioStart": 6.025,
+              "audioEnd": 7.775
+            },
+            {
+              "text": "Rose-Red liked to run and play outside.",
+              "audioStart": 8.637,
+              "audioEnd": 10.85
+            },
+            {
+              "text": "They were good children who loved their mother very much.",
+              "audioStart": 11.713,
+              "audioEnd": 14.325
+            },
+            {
+              "text": "During the cold winter months, a big black animal often came to their door to seek comfort.",
+              "audioStart": 15.188,
+              "audioEnd": 20.012
+            },
+            {
+              "text": "At first, the girls were afraid of him.",
+              "audioStart": 20.875,
+              "audioEnd": 23.05
+            },
+            {
+              "text": "The good creature showed that he meant no harm.",
+              "audioStart": 23.913,
+              "audioEnd": 26.1
+            },
+            {
+              "text": "They let him come inside and sleep near the fire every night.",
+              "audioStart": 26.962,
+              "audioEnd": 30.125
+            },
+            {
+              "text": "When spring arrived and the weather became nice, the bear had to leave.",
+              "audioStart": 30.988,
+              "audioEnd": 34.625
+            },
+            {
+              "text": "He needed to protect his gold from a bad man.",
+              "audioStart": 35.487,
+              "audioEnd": 37.8
+            },
+            {
+              "text": "The sisters were very sad to see their soft friend go away into the woods.",
+              "audioStart": 38.663,
+              "audioEnd": 42.525
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A few weeks later, while they were walking, they found a small man with a long beard who was in trouble.",
+              "audioStart": 43.388,
+              "audioEnd": 48.725
+            },
+            {
+              "text": "This mean little man was always stuck because his hair or coat was caught in different places.",
+              "audioStart": 49.587,
+              "audioEnd": 54.362
+            },
+            {
+              "text": "The two sisters helped him several times.",
+              "audioStart": 55.225,
+              "audioEnd": 57.438
+            },
+            {
+              "text": "However, he was never nice to them and always spoke with anger.",
+              "audioStart": 58.3,
+              "audioEnd": 61.725
+            },
+            {
+              "text": "One day, they saw the same bad man shouting at a large animal that was about to attack him.",
+              "audioStart": 62.587,
+              "audioEnd": 67.375
+            },
+            {
+              "text": "That animal was actually their old friend, the big bear, who had finally returned to catch the bad man.",
+              "audioStart": 68.237,
+              "audioEnd": 73.787
+            },
+            {
+              "text": "The bear hit the mean man hard until he stopped moving and ran away into the forest.",
+              "audioStart": 74.65,
+              "audioEnd": 78.85
+            },
+            {
+              "text": "Then the bear changed into a rich royal man because a spell had been broken.",
+              "audioStart": 79.713,
+              "audioEnd": 83.513
+            },
+            {
+              "text": "The royal man told them that the bad man had stolen his gold and forced him to live as a wild animal.",
+              "audioStart": 84.375,
+              "audioEnd": 89.588
+            },
+            {
+              "text": "Snow-White later married the happy royal man, and Rose-Red married his brother.",
+              "audioStart": 90.45,
+              "audioEnd": 94.5
+            },
+            {
+              "text": "They lived together in a huge castle and shared all their gold with their mother.",
+              "audioStart": 95.362,
+              "audioEnd": 99.213
+            },
+            {
+              "text": "Every single day brought new joy to the family.",
+              "audioStart": 100.075,
+              "audioEnd": 102.487
+            },
+            {
+              "text": "The mother felt very proud of her daughters.",
+              "audioStart": 103.35,
+              "audioEnd": 105.475
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They spent many hours walking in the large garden near the river.",
+              "audioStart": 106.338,
+              "audioEnd": 109.487
+            },
+            {
+              "text": "Sometimes the brothers joined them for a pleasant meal in the evening.",
+              "audioStart": 110.35,
+              "audioEnd": 113.513
+            },
+            {
+              "text": "The sun shone brightly over the tall trees of the forest.",
+              "audioStart": 114.375,
+              "audioEnd": 117.275
+            },
+            {
+              "text": "No danger could ever reach them inside their secure home.",
+              "audioStart": 118.138,
+              "audioEnd": 121.062
+            },
+            {
+              "text": "People from the nearby town often visited the castle to see the happy couple.",
+              "audioStart": 121.925,
+              "audioEnd": 125.925
+            },
+            {
+              "text": "The sisters always welcomed guests with a big smile.",
+              "audioStart": 126.787,
+              "audioEnd": 129.613
+            },
+            {
+              "text": "Life in the castle was quiet and full of light.",
+              "audioStart": 130.475,
+              "audioEnd": 132.938
+            },
+            {
+              "text": "They never forgot the cold winter days when the big black bear used to sleep by their fire.",
+              "audioStart": 133.8,
+              "audioEnd": 138.262
+            },
+            {
+              "text": "That strange friendship had changed everything for the better.",
+              "audioStart": 139.125,
+              "audioEnd": 142
+            },
+            {
+              "text": "Now they had everything they could possibly want in the world.",
+              "audioStart": 142.863,
+              "audioEnd": 145.575
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The memory of the little man with the long beard became just a funny story that they told at dinner.",
+              "audioStart": 146.438,
+              "audioEnd": 151.012
+            },
+            {
+              "text": "They laughed whenever they thought about how angry he always looked.",
+              "audioStart": 151.875,
+              "audioEnd": 154.963
+            },
+            {
+              "text": "The gold remained safe inside the strong walls of the castle.",
+              "audioStart": 155.825,
+              "audioEnd": 158.875
+            },
+            {
+              "text": "Nothing could disturb their quiet happiness anymore.",
+              "audioStart": 159.738,
+              "audioEnd": 162.25
+            },
+            {
+              "text": "The two sisters stayed together and cared for their mother until she grew old.",
+              "audioStart": 163.113,
+              "audioEnd": 166.863
+            },
+            {
+              "text": "Their children played happily in the great halls and learned many useful things.",
+              "audioStart": 167.725,
+              "audioEnd": 171.775
+            },
+            {
+              "text": "The whole country knew about the good heart of Snow-White and Rose-Red.",
+              "audioStart": 172.637,
+              "audioEnd": 175.812
+            },
+            {
+              "text": "Their names were remembered for generations across the land.",
+              "audioStart": 176.675,
+              "audioEnd": 179.6
+            },
+            {
+              "text": "Even today, people talk about the wonderful sisters who lived near the deep forest.",
+              "audioStart": 180.463,
+              "audioEnd": 184.787
+            },
+            {
+              "text": "The story ends with peace and love ruling over everyone in the royal house.",
+              "audioStart": 185.65,
+              "audioEnd": 189.35
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0265.mp3",
+      "wordTimings": "audio/b2/st-0265.timings.json",
+      "quiz": [
+        {
+          "q": "What animal came to the girls' house during the winter?",
+          "options": [
+            "A big black bear",
+            "A small brown dog",
+            "A wild horse"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the two sisters find in the woods during spring?",
+          "options": [
+            "A magic ring",
+            "A small man with a long beard",
+            "A hidden gold box"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who did Snow-White marry at the end of the story?",
+          "options": [
+            "The bad man",
+            "The prince",
+            "Her brother"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "At the edge of a great and ancient forest stood a modest cottage where two sisters made their home. Their names were Snow-White and Rose-Red, matching the twin rose bushes that blossomed outside their window. Snow-White was of a quiet and gentle disposition, preferring the indoor warmth of books and spinning. Rose-Red, by contrast, possessed an ardent spirit that drew her out into the meadows to run and play. Despite their contrasting temperaments, they were devoted daughters who shared a deep affection for their widowed mother. Together, the three of them maintained a peaceful household sheltered by the whispering pines.",
+              "audioStart": 0.1,
+              "audioEnd": 35.25
+            },
+            {
+              "text": "As the bitter winds of winter descended upon the land, the forest grew menacing and silent. During these freezing months, a massive black bear frequently emerged from the deep woods to seek refuge at their door. At first, the girls recoiled in terror at the sight of such a formidable beast. Yet the creature soon demonstrated that he harbored no malicious intent toward them. Recognizing his gentle demeanor, they unlatched the heavy wooden door and welcomed him inside. Every evening, the bear stretched his heavy frame near the hearth, basking in the glow of the friendly fire.",
+              "audioStart": 36.112,
+              "audioEnd": 70.112
+            },
+            {
+              "text": "The sisters quickly lost their initial apprehension and treated the animal with genuine kindness. They would brush the snow from his thick fur and gently play with his rounded ears. The bear, for his part, accepted their affectionate ministrations with deep, rumbling contentment. When spring finally arrived and the harsh frost melted into sweet green grass, the bear had to depart. He explained to the bewildered household that he needed to venture deep into the woods to protect his gold from a wicked dwarf. Though they understood his urgent mission, the sisters felt a profound sadness as their noble friend vanished among the trees.",
+              "audioStart": 70.975,
+              "audioEnd": 107.375
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A few weeks after the bear's departure, the sisters ventured into the forest to gather dry wood for their hearth. While walking along a narrow path, they heard a sharp, complaining voice echoing through the undergrowth. Investigating the sound, they discovered a small man with an extraordinarily long, snowy beard. This mean-spirited little fellow was caught tightly in various obstacles, completely unable to free himself. First his beard was trapped in a fallen branch, and later his fine coat was snagged on a thorn bush. Each time they encountered him struggling, the two sisters immediately stepped forward to offer their assistance.",
+              "audioStart": 108.237,
+              "audioEnd": 145.963
+            },
+            {
+              "text": "However, gratitude was entirely foreign to the disposition of the ungracious little man. Instead of thanking the girls for their timely rescue, he invariably spoke to them with bitter anger and insults. He even snatched a piece of his own beard away from them rather than accept their gentle hands. Snow-White and Rose-Red simply shook their heads at his foolish pride and continued on their way. They had been raised to help those in distress, regardless of whether the recipient deserved their charity. Yet they could not help feeling relieved whenever the unpleasant creature finally hobbled away out of sight.",
+              "audioStart": 146.825,
+              "audioEnd": 181.4
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Fate brought the abrasive dwarf back into their lives on a bright morning later that season. While walking near the riverbank, the sisters caught sight of the familiar, angry little figure shouting furiously. He was standing near a large boulder, gesturing wildly at a massive animal that was about to attack him. That menacing creature was actually their old friend, the big black bear, who had finally returned from his arduous quest. The bear had tracked the wicked dwarf across the forest to recover the stolen treasure. Without a moment of hesitation, the great beast lunged forward and struck the mean man hard.",
+              "audioStart": 182.262,
+              "audioEnd": 218.162
+            },
+            {
+              "text": "The dwarf cried out in terror as the powerful blows rained down upon him from the furious bear. Realizing he could no longer escape his fate, he begged for mercy and promised to leave the forest forever. The bear gave him one final warning before the trembling creature turned and ran away into the dense woods. As the dust settled and the forest fell quiet, a remarkable transformation began to unfold before the astonished sisters. The great black bear suddenly cast off his animal skin and stood before them as a tall, handsome royal man. The heavy curse that had bound him to a beastly existence was finally broken forever.",
+              "audioStart": 219.025,
+              "audioEnd": 257.112
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The newly revealed prince explained the full truth of his long ordeal to the grateful family. He told them how the wicked dwarf had stolen his vast treasury and cast a cruel spell upon him. Only the defeat of the thief could break the enchantment and restore him to his rightful human form. Soon after these extraordinary events, Snow-White was wed to the royal man in a joyous ceremony that united their hearts. Her lively sister, Rose-Red, was married to the prince's loyal and kind-hearted brother shortly thereafter. The two couples decided to live together in a magnificent castle that overlooked the winding river and the dark forest.",
+              "audioStart": 257.974,
+              "audioEnd": 294.887
+            },
+            {
+              "text": "Generosity guided every aspect of their new life within the stone walls of the grand estate. They brought their beloved mother to live with them, ensuring she would never know hardship again. The vast gold that had been recovered from the dwarf was shared freely with the people of the land. Every single day brought new joy and laughter to the members of the united royal household. The mother felt an immense swell of pride whenever she looked upon her accomplished daughters. They spent countless serene hours walking through the vast garden while the sun shone brightly over the tall trees.",
+              "audioStart": 295.75,
+              "audioEnd": 328.149
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Evening meals were frequently shared with guests from the nearby town who traveled to witness the family's happiness. The sisters always welcomed visitors with a warm smile and a gracious demeanor that charmed everyone. Life inside the castle remained tranquil, anchored by a deep sense of security and enduring love. No shadow of danger could ever reach them behind the strong gates and the loyal guards. They often reminisced about the freezing winter days when the big black bear used to sleep peacefully by their fire. That strange and unlikely friendship had fundamentally altered the course of their lives for the better.",
+              "audioStart": 329.012,
+              "audioEnd": 364.325
+            },
+            {
+              "text": "The memory of the irritable little man with the long beard eventually faded into a mere dinner table anecdote. Whenever they recalled his frantic expressions and ungrateful words, the sisters could not help but laugh heartily. The recovered gold remained securely locked within the deep vaults of the castle, untouched by greed. Nothing could ever disturb the profound peace that had settled over their daily routines and quiet moments. The two sisters remained close companions, ensuring their mother was cared for with tenderness until her final days. Their children grew up strong and joyful within the great halls, learning the values of kindness and courage.",
+              "audioStart": 365.187,
+              "audioEnd": 403
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The entire country came to revere the noble heart and gentle spirit of Snow-White and Rose-Red. Their names were passed down through generations as a symbol of steadfast loyalty and compassion. Even years later, travelers walking near the deep forest would speak in hushed, affectionate tones about the wonderful sisters. The legacy of their remarkable journey lived on in the songs and stories told around winter hearths across the land. Peace and love reigned supreme within the royal house, governing every decision and every interaction. Thus, the sisters lived out their days in uninterrupted harmony, surrounded by the family they cherished so deeply.",
+              "audioStart": 403.862,
+              "audioEnd": 441.987
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0265.mp3",
+      "wordTimings": "audio/c1/st-0265.timings.json",
+      "quiz": [
+        {
+          "q": "What did the big black bear initially do when winter arrived?",
+          "options": [
+            "He hid in the forest to protect his gold from the wicked dwarf.",
+            "He came to the sisters' door seeking shelter and slept by their fire.",
+            "He attacked the cottage because he was angry at the villagers."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the little man with the long beard react when the sisters helped him?",
+          "options": [
+            "He thanked them warmly and shared his hidden treasure with them.",
+            "He was never nice to them and always spoke with bitter anger.",
+            "He asked them to come live with him in the deep woods."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened to the big black bear after he struck the mean dwarf near the river?",
+          "options": [
+            "He returned to the deep forest and was never seen again.",
+            "He turned back into a wild animal and ran away from the sisters.",
+            "He changed into a royal man because a spell had been broken."
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  }
+}

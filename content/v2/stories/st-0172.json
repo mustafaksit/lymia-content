@@ -1,0 +1,1403 @@
+{
+  "id": "st-0172",
+  "title": "The Princess and the Pea",
+  "genre": "classic",
+  "summary": "A prince searches worldwide for a true princess and plans an unusual test.",
+  "coverScene": "A young prince looks out a high castle window while a tiny green pea rests under a tall pile of soft mattresses.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "One young man wants a true girl.",
+              "audioStart": 0.106,
+              "audioEnd": 2.05
+            },
+            {
+              "text": "He goes across the world.",
+              "audioStart": 3.014,
+              "audioEnd": 4.542
+            },
+            {
+              "text": "Every girl has some problem.",
+              "audioStart": 5.5,
+              "audioEnd": 7.167
+            },
+            {
+              "text": "He can not be sure.",
+              "audioStart": 8.125,
+              "audioEnd": 9.431
+            },
+            {
+              "text": "He returns home to a large house.",
+              "audioStart": 10.389,
+              "audioEnd": 12.417
+            },
+            {
+              "text": "Bad water and wind move down.",
+              "audioStart": 13.375,
+              "audioEnd": 15.278
+            },
+            {
+              "text": "Someone comes to the big door.",
+              "audioStart": 16.236,
+              "audioEnd": 17.944
+            },
+            {
+              "text": "The old man opens it.",
+              "audioStart": 18.903,
+              "audioEnd": 20.417
+            },
+            {
+              "text": "A young girl stands outside.",
+              "audioStart": 21.375,
+              "audioEnd": 23.139
+            },
+            {
+              "text": "Water runs down her things.",
+              "audioStart": 24.097,
+              "audioEnd": 25.944
+            },
+            {
+              "text": "She says she is a real girl.",
+              "audioStart": 26.903,
+              "audioEnd": 28.556
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The old mother makes a test.",
+              "audioStart": 29.514,
+              "audioEnd": 31.347
+            },
+            {
+              "text": "The mother goes to the room.",
+              "audioStart": 32.306,
+              "audioEnd": 33.819
+            },
+            {
+              "text": "The mother puts one small thing down.",
+              "audioStart": 34.778,
+              "audioEnd": 36.944
+            },
+            {
+              "text": "Many small places are on it.",
+              "audioStart": 37.903,
+              "audioEnd": 39.681
+            },
+            {
+              "text": "The girl stays there.",
+              "audioStart": 40.639,
+              "audioEnd": 41.903
+            },
+            {
+              "text": "Morning comes now.",
+              "audioStart": 42.861,
+              "audioEnd": 44.028
+            },
+            {
+              "text": "The man and mother ask her about rest.",
+              "audioStart": 44.986,
+              "audioEnd": 47.389
+            },
+            {
+              "text": "The girl says something hard is under.",
+              "audioStart": 48.347,
+              "audioEnd": 50.361
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Her body is not good.",
+              "audioStart": 51.319,
+              "audioEnd": 52.792
+            },
+            {
+              "text": "Only a real girl feels the thing.",
+              "audioStart": 53.75,
+              "audioEnd": 55.778
+            },
+            {
+              "text": "The young man is very good.",
+              "audioStart": 56.736,
+              "audioEnd": 58.375
+            },
+            {
+              "text": "They love right away.",
+              "audioStart": 59.333,
+              "audioEnd": 60.528
+            },
+            {
+              "text": "They stay together in the house.",
+              "audioStart": 61.486,
+              "audioEnd": 63.278
+            },
+            {
+              "text": "Every day is a good day.",
+              "audioStart": 64.236,
+              "audioEnd": 65.708
+            },
+            {
+              "text": "They live long lives.",
+              "audioStart": 66.667,
+              "audioEnd": 68.083
+            },
+            {
+              "text": "They feel no more hurt.",
+              "audioStart": 69.042,
+              "audioEnd": 70.319
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0172.mp3",
+      "wordTimings": "audio/a1/st-0172.timings.json",
+      "quiz": [
+        {
+          "q": "What weather happens during the night?",
+          "options": [
+            "A storm with rain and thunder",
+            "Hot sun and dry wind",
+            "Snow and ice"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the queen put on the bed?",
+          "options": [
+            "A small green pea",
+            "A big stone",
+            "An old book"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happens at the end of the story?",
+          "options": [
+            "The prince and princess marry",
+            "The girl leaves the castle",
+            "The king goes away"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a young man wanted a true girl.",
+              "audioStart": 0.106,
+              "audioEnd": 3.189
+            },
+            {
+              "text": "He traveled across the whole world to find her.",
+              "audioStart": 4.153,
+              "audioEnd": 6.694
+            },
+            {
+              "text": "Every single person he met had some problem.",
+              "audioStart": 7.653,
+              "audioEnd": 10.333
+            },
+            {
+              "text": "Many girls looked nice, but he could never be sure.",
+              "audioStart": 11.292,
+              "audioEnd": 14.403
+            },
+            {
+              "text": "He wanted to marry someone real and true.",
+              "audioStart": 15.361,
+              "audioEnd": 17.708
+            },
+            {
+              "text": "He returned home to his big house feeling very low.",
+              "audioStart": 18.667,
+              "audioEnd": 21.625
+            },
+            {
+              "text": "One night, water fell down over the town.",
+              "audioStart": 22.583,
+              "audioEnd": 25.292
+            },
+            {
+              "text": "The state outside was bad with water and sound.",
+              "audioStart": 26.25,
+              "audioEnd": 28.972
+            },
+            {
+              "text": "Someone hit the big door hard.",
+              "audioStart": 29.931,
+              "audioEnd": 31.639
+            },
+            {
+              "text": "The old man went to open it.",
+              "audioStart": 32.597,
+              "audioEnd": 34.306
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A young girl stood outside in the water.",
+              "audioStart": 35.264,
+              "audioEnd": 37.444
+            },
+            {
+              "text": "Water ran down her hair and clothes.",
+              "audioStart": 38.403,
+              "audioEnd": 40.583
+            },
+            {
+              "text": "She told the man that she was a true girl.",
+              "audioStart": 41.542,
+              "audioEnd": 43.819
+            },
+            {
+              "text": "The old woman decided that a test should be made.",
+              "audioStart": 44.778,
+              "audioEnd": 47.556
+            },
+            {
+              "text": "The woman went to the room.",
+              "audioStart": 48.514,
+              "audioEnd": 49.958
+            },
+            {
+              "text": "She took all the clothes off the big bed.",
+              "audioStart": 50.917,
+              "audioEnd": 53.083
+            },
+            {
+              "text": "She placed one small green plant part on the low board.",
+              "audioStart": 54.042,
+              "audioEnd": 57.181
+            },
+            {
+              "text": "Then, twenty fine beds were put on top of that small part.",
+              "audioStart": 58.139,
+              "audioEnd": 61.806
+            },
+            {
+              "text": "The poor girl was told to sleep on that high bed.",
+              "audioStart": 62.764,
+              "audioEnd": 65.458
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When morning came, the man and woman asked her about her sleep.",
+              "audioStart": 66.417,
+              "audioEnd": 70.069
+            },
+            {
+              "text": "The girl answered that she had not closed her eyes.",
+              "audioStart": 71.028,
+              "audioEnd": 73.764
+            },
+            {
+              "text": "She said something hard was inside the bed.",
+              "audioStart": 74.722,
+              "audioEnd": 77.167
+            },
+            {
+              "text": "She said her whole body felt bad because of the thing.",
+              "audioStart": 78.125,
+              "audioEnd": 81.111
+            },
+            {
+              "text": "Only a true girl could feel that small part.",
+              "audioStart": 82.069,
+              "audioEnd": 84.583
+            },
+            {
+              "text": "She felt it through twenty fine beds.",
+              "audioStart": 85.542,
+              "audioEnd": 87.653
+            },
+            {
+              "text": "The young man was very happy.",
+              "audioStart": 88.611,
+              "audioEnd": 90.375
+            },
+            {
+              "text": "They were married right away because he knew she was true.",
+              "audioStart": 91.333,
+              "audioEnd": 94.292
+            },
+            {
+              "text": "She was the true girl they always wanted to find.",
+              "audioStart": 95.25,
+              "audioEnd": 97.944
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0172.mp3",
+      "wordTimings": "audio/a2/st-0172.timings.json",
+      "quiz": [
+        {
+          "q": "What kind of weather happened on the night the girl arrived?",
+          "options": [
+            "A sunny afternoon",
+            "A stormy night with rain and thunder",
+            "A cold winter snowstorm"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the queen put on the bottom board of the bed?",
+          "options": [
+            "One tiny green pea",
+            "Twenty soft mattresses",
+            "A heavy stone"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did the prince marry the girl in the end?",
+          "options": [
+            "She had a lot of money.",
+            "She was the true princess.",
+            "She brought him food."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a young man wanted to marry a true girl.",
+              "audioStart": 0.1,
+              "audioEnd": 3.3
+            },
+            {
+              "text": "He traveled across the world to find her.",
+              "audioStart": 4.162,
+              "audioEnd": 6.225
+            },
+            {
+              "text": "Every single person he met had some problem.",
+              "audioStart": 7.088,
+              "audioEnd": 9.5
+            },
+            {
+              "text": "Many ladies looked nice, but he could never be sure.",
+              "audioStart": 10.363,
+              "audioEnd": 13.238
+            },
+            {
+              "text": "He returned home to his big house feeling very sad.",
+              "audioStart": 14.1,
+              "audioEnd": 16.85
+            },
+            {
+              "text": "He had already visited many towns and met many people.",
+              "audioStart": 17.712,
+              "audioEnd": 20.725
+            },
+            {
+              "text": "However, he had not found the right partner yet.",
+              "audioStart": 21.587,
+              "audioEnd": 24.2
+            },
+            {
+              "text": "His family always hoped that he would find someone special.",
+              "audioStart": 25.062,
+              "audioEnd": 28.038
+            },
+            {
+              "text": "The young man spent much time thinking about his future.",
+              "audioStart": 28.9,
+              "audioEnd": 31.825
+            },
+            {
+              "text": "He wanted to share his life with someone truly good.",
+              "audioStart": 32.688,
+              "audioEnd": 35.275
+            },
+            {
+              "text": "Yet, every choice he made seemed to lead to bad things.",
+              "audioStart": 36.138,
+              "audioEnd": 39.163
+            },
+            {
+              "text": "He walked through the streets with a heavy heart.",
+              "audioStart": 40.025,
+              "audioEnd": 42.2
+            },
+            {
+              "text": "Sometimes he sat down by the water to rest his feet.",
+              "audioStart": 43.062,
+              "audioEnd": 45.938
+            },
+            {
+              "text": "He looked at the sky and wondered where she might be.",
+              "audioStart": 46.8,
+              "audioEnd": 49.188
+            },
+            {
+              "text": "Many months passed by while he continued his long journey.",
+              "audioStart": 50.05,
+              "audioEnd": 53.013
+            },
+            {
+              "text": "His friends told him to stop looking and go back home.",
+              "audioStart": 53.875,
+              "audioEnd": 56.562
+            },
+            {
+              "text": "They believed that searching for greatness was a waste of time.",
+              "audioStart": 57.425,
+              "audioEnd": 60.388
+            },
+            {
+              "text": "Still, the young man refused to give up his dream.",
+              "audioStart": 61.25,
+              "audioEnd": 64.062
+            },
+            {
+              "text": "He knew that true love existed somewhere in the world.",
+              "audioStart": 64.925,
+              "audioEnd": 67.487
+            },
+            {
+              "text": "So, he kept moving forward despite the difficulties he faced.",
+              "audioStart": 68.35,
+              "audioEnd": 71.963
+            },
+            {
+              "text": "He wanted to make sure his life had a good purpose.",
+              "audioStart": 72.825,
+              "audioEnd": 75.35
+            },
+            {
+              "text": "He had spent many days walking under the open sky.",
+              "audioStart": 76.213,
+              "audioEnd": 78.963
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One dark night, a terrible rain fell down over the town.",
+              "audioStart": 79.825,
+              "audioEnd": 83.05
+            },
+            {
+              "text": "Strong wind and water shook the ground.",
+              "audioStart": 83.912,
+              "audioEnd": 85.875
+            },
+            {
+              "text": "Someone knocked at the big house door.",
+              "audioStart": 86.737,
+              "audioEnd": 88.562
+            },
+            {
+              "text": "The old man went to open it.",
+              "audioStart": 89.425,
+              "audioEnd": 90.963
+            },
+            {
+              "text": "A young lady stood outside in the cold weather.",
+              "audioStart": 91.825,
+              "audioEnd": 94.175
+            },
+            {
+              "text": "Water ran down her hair and clothes.",
+              "audioStart": 95.037,
+              "audioEnd": 97
+            },
+            {
+              "text": "She claimed that she was a true lady from far away.",
+              "audioStart": 97.862,
+              "audioEnd": 100.438
+            },
+            {
+              "text": "The old woman decided that a careful test should be made.",
+              "audioStart": 101.3,
+              "audioEnd": 104.2
+            },
+            {
+              "text": "She wanted to know if the visitor spoke the truth.",
+              "audioStart": 105.062,
+              "audioEnd": 107.438
+            },
+            {
+              "text": "The woman went quietly to the bedroom.",
+              "audioStart": 108.3,
+              "audioEnd": 110.15
+            },
+            {
+              "text": "She took all the bed clothes off the big bed.",
+              "audioStart": 111.013,
+              "audioEnd": 113.263
+            },
+            {
+              "text": "She placed one tiny green plant seed on the bottom board.",
+              "audioStart": 114.125,
+              "audioEnd": 117.1
+            },
+            {
+              "text": "Twenty soft beds were put right on top of that small seed.",
+              "audioStart": 117.963,
+              "audioEnd": 121.15
+            },
+            {
+              "text": "The tired visitor was told to sleep on that tall bed.",
+              "audioStart": 122.013,
+              "audioEnd": 124.713
+            },
+            {
+              "text": "She climbed up the steps with great difficulty.",
+              "audioStart": 125.575,
+              "audioEnd": 128
+            },
+            {
+              "text": "Her clothes were completely damp from the heavy rain outside.",
+              "audioStart": 128.863,
+              "audioEnd": 131.887
+            },
+            {
+              "text": "She lay down and tried to close her eyes for the night.",
+              "audioStart": 132.75,
+              "audioEnd": 135.363
+            },
+            {
+              "text": "The room was dark and quiet except for the wind.",
+              "audioStart": 136.225,
+              "audioEnd": 138.675
+            },
+            {
+              "text": "She hoped that morning would bring a chance to rest.",
+              "audioStart": 139.537,
+              "audioEnd": 142.062
+            },
+            {
+              "text": "However, the night was long and full of pain.",
+              "audioStart": 142.925,
+              "audioEnd": 145.488
+            },
+            {
+              "text": "She tried to sleep but the bed felt very strange.",
+              "audioStart": 146.35,
+              "audioEnd": 148.988
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When morning came, the man and woman asked her about the night.",
+              "audioStart": 149.85,
+              "audioEnd": 153.062
+            },
+            {
+              "text": "The poor girl answered that she had hardly closed her eyes.",
+              "audioStart": 153.925,
+              "audioEnd": 156.875
+            },
+            {
+              "text": "She said something hard was inside the bed.",
+              "audioStart": 157.738,
+              "audioEnd": 159.938
+            },
+            {
+              "text": "She said her whole body felt hurt by the terrible thing.",
+              "audioStart": 160.8,
+              "audioEnd": 163.575
+            },
+            {
+              "text": "She explained that she had turned around for hours.",
+              "audioStart": 164.438,
+              "audioEnd": 166.938
+            },
+            {
+              "text": "Something under the beds had bothered her all night long.",
+              "audioStart": 167.8,
+              "audioEnd": 170.412
+            },
+            {
+              "text": "Only a real lady could feel a tiny seed through twenty beds.",
+              "audioStart": 171.275,
+              "audioEnd": 174.45
+            },
+            {
+              "text": "The man was extremely happy when he heard her report.",
+              "audioStart": 175.312,
+              "audioEnd": 178.037
+            },
+            {
+              "text": "They were married right away because he knew she was the true lady.",
+              "audioStart": 178.9,
+              "audioEnd": 181.938
+            },
+            {
+              "text": "He had finally found the person he had been looking for.",
+              "audioStart": 182.8,
+              "audioEnd": 185.662
+            },
+            {
+              "text": "The entire town celebrated their wonderful wedding.",
+              "audioStart": 186.525,
+              "audioEnd": 189.188
+            },
+            {
+              "text": "They lived a happy life together for many years.",
+              "audioStart": 190.05,
+              "audioEnd": 192.55
+            },
+            {
+              "text": "The story of the small seed became famous across the country.",
+              "audioStart": 193.412,
+              "audioEnd": 196.562
+            },
+            {
+              "text": "People remembered the test every time they spoke of true character.",
+              "audioStart": 197.425,
+              "audioEnd": 200.812
+            },
+            {
+              "text": "The young man never forgot the night the lady arrived.",
+              "audioStart": 201.675,
+              "audioEnd": 204.3
+            },
+            {
+              "text": "He always thanked the world for bringing her to his door.",
+              "audioStart": 205.162,
+              "audioEnd": 207.738
+            },
+            {
+              "text": "She also felt glad that she had found such a kind partner.",
+              "audioStart": 208.6,
+              "audioEnd": 211.613
+            },
+            {
+              "text": "Their relationship grew stronger with each passing day.",
+              "audioStart": 212.475,
+              "audioEnd": 215.2
+            },
+            {
+              "text": "They faced any new challenge as a team.",
+              "audioStart": 216.062,
+              "audioEnd": 218.1
+            },
+            {
+              "text": "And so, the journey ended with a perfect result.",
+              "audioStart": 218.963,
+              "audioEnd": 221.713
+            },
+            {
+              "text": "They knew they would always stay together.",
+              "audioStart": 222.575,
+              "audioEnd": 224.4
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0172.mp3",
+      "wordTimings": "audio/b1/st-0172.timings.json",
+      "quiz": [
+        {
+          "q": "What weather happened on the night the girl arrived?",
+          "options": [
+            "A stormy night with rain and thunder",
+            "A hot summer day with bright sun",
+            "A cold morning with snow"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the queen put at the bottom of the bed?",
+          "options": [
+            "A small stone",
+            "One tiny green pea",
+            "Twenty soft mattresses"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why did the prince marry the girl immediately at the end?",
+          "options": [
+            "Because she brought a lot of money",
+            "Because she was the true princess",
+            "Because she won a game"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, there lived a young man who wanted to marry a real lady.",
+              "audioStart": 0.1,
+              "audioEnd": 3.987
+            },
+            {
+              "text": "He traveled across the whole world to find her.",
+              "audioStart": 4.85,
+              "audioEnd": 7.138
+            },
+            {
+              "text": "Every single girl whom he met had some problem.",
+              "audioStart": 8,
+              "audioEnd": 10.387
+            },
+            {
+              "text": "Many young women looked nice, but he could never be completely sure whether they were true ladies.",
+              "audioStart": 11.25,
+              "audioEnd": 16.1
+            },
+            {
+              "text": "He returned home to his castle feeling very sad.",
+              "audioStart": 16.962,
+              "audioEnd": 19.65
+            },
+            {
+              "text": "He wanted a real wife so much that he cried every single night.",
+              "audioStart": 20.512,
+              "audioEnd": 24
+            },
+            {
+              "text": "One rainy night, a terrible bad weather fell down over the town.",
+              "audioStart": 24.863,
+              "audioEnd": 28.35
+            },
+            {
+              "text": "Loud sounds shook the ground outside.",
+              "audioStart": 29.212,
+              "audioEnd": 31.05
+            },
+            {
+              "text": "Suddenly, someone knocked loudly on the big castle door.",
+              "audioStart": 31.913,
+              "audioEnd": 35.038
+            },
+            {
+              "text": "The old ruler went to open the heavy door for the visitor.",
+              "audioStart": 35.9,
+              "audioEnd": 38.675
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A young girl stood outside in the wet weather.",
+              "audioStart": 39.538,
+              "audioEnd": 41.737
+            },
+            {
+              "text": "Water ran down her hair and clothes.",
+              "audioStart": 42.6,
+              "audioEnd": 44.562
+            },
+            {
+              "text": "She claimed that she was a true lady who had come from far away through the bad weather.",
+              "audioStart": 45.425,
+              "audioEnd": 49.513
+            },
+            {
+              "text": "Although she looked quite dirty, the old mother decided that a smart test should be made.",
+              "audioStart": 50.375,
+              "audioEnd": 54.925
+            },
+            {
+              "text": "The mother went quietly to the bedroom while nobody else was watching the room.",
+              "audioStart": 55.788,
+              "audioEnd": 59.462
+            },
+            {
+              "text": "She took all the bed clothes off the big bed.",
+              "audioStart": 60.325,
+              "audioEnd": 62.575
+            },
+            {
+              "text": "She placed one tiny small item on the bottom board.",
+              "audioStart": 63.438,
+              "audioEnd": 66.188
+            },
+            {
+              "text": "Then, twenty soft beds were piled right on top of that small item by the wise mother.",
+              "audioStart": 67.05,
+              "audioEnd": 71.8
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The tired girl was told to sleep on that tall bed during the dark night.",
+              "audioStart": 72.662,
+              "audioEnd": 76.237
+            },
+            {
+              "text": "When morning came, the ruler and his mother asked her how well she had slept until morning.",
+              "audioStart": 77.1,
+              "audioEnd": 81.65
+            },
+            {
+              "text": "The poor girl answered that she had hardly closed her eyes.",
+              "audioStart": 82.513,
+              "audioEnd": 85.463
+            },
+            {
+              "text": "Something hard was inside the bed, she explained.",
+              "audioStart": 86.325,
+              "audioEnd": 89.075
+            },
+            {
+              "text": "She said her whole body felt black and blue because the terrible thing had hurt her skin so much.",
+              "audioStart": 89.938,
+              "audioEnd": 94.8
+            },
+            {
+              "text": "Only a real lady could be so sensitive that she would feel a tiny small item through twenty soft beds.",
+              "audioStart": 95.662,
+              "audioEnd": 100.963
+            },
+            {
+              "text": "The young man was extremely happy.",
+              "audioStart": 101.825,
+              "audioEnd": 103.688
+            },
+            {
+              "text": "They were married right away because he knew she was the true lady.",
+              "audioStart": 104.55,
+              "audioEnd": 107.588
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many years passed after that wonderful wedding.",
+              "audioStart": 108.45,
+              "audioEnd": 110.888
+            },
+            {
+              "text": "The couple lived together in the large castle for a long time.",
+              "audioStart": 111.75,
+              "audioEnd": 114.888
+            },
+            {
+              "text": "They shared every meal and every happy moment with their family.",
+              "audioStart": 115.75,
+              "audioEnd": 118.9
+            },
+            {
+              "text": "People talked about the famous test across the entire country.",
+              "audioStart": 119.763,
+              "audioEnd": 123.05
+            },
+            {
+              "text": "Whenever visitors arrived at the front door, they asked about the special small item.",
+              "audioStart": 123.912,
+              "audioEnd": 128.213
+            },
+            {
+              "text": "The ruler always smiled because he knew the truth.",
+              "audioStart": 129.075,
+              "audioEnd": 131.588
+            },
+            {
+              "text": "His wife remained as sensitive as she had been on that first night.",
+              "audioStart": 132.45,
+              "audioEnd": 135.537
+            },
+            {
+              "text": "Even a small stone on the ground could bother her feet.",
+              "audioStart": 136.4,
+              "audioEnd": 139.162
+            },
+            {
+              "text": "They stayed together until they became very old.",
+              "audioStart": 140.025,
+              "audioEnd": 142.488
+            },
+            {
+              "text": "Their story was told to every child in the town.",
+              "audioStart": 143.35,
+              "audioEnd": 145.7
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Everyone remembered the day when the wet visitor knocked on the door.",
+              "audioStart": 146.562,
+              "audioEnd": 149.625
+            },
+            {
+              "text": "True love and good truth always win in the end, as the old books say.",
+              "audioStart": 150.488,
+              "audioEnd": 154.075
+            },
+            {
+              "text": "The castle remained a happy place where peace and joy lived forever.",
+              "audioStart": 154.938,
+              "audioEnd": 158.387
+            },
+            {
+              "text": "Many years would pass, but people would always tell this tale to their children.",
+              "audioStart": 159.25,
+              "audioEnd": 163.25
+            },
+            {
+              "text": "The young man and his wife shared a wonderful life together in the massive building.",
+              "audioStart": 164.113,
+              "audioEnd": 168.088
+            },
+            {
+              "text": "No one could ever forget the smart test which the mother had designed.",
+              "audioStart": 168.95,
+              "audioEnd": 172.387
+            },
+            {
+              "text": "Every single person within the country respected the royal family.",
+              "audioStart": 173.25,
+              "audioEnd": 176.625
+            },
+            {
+              "text": "The spirit of love remained inside the walls until the end of time.",
+              "audioStart": 177.488,
+              "audioEnd": 180.812
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0172.mp3",
+      "wordTimings": "audio/b2/st-0172.timings.json",
+      "quiz": [
+        {
+          "q": "What kind of weather happened on the night the girl arrived?",
+          "options": [
+            "A terrible rainstorm with thunder",
+            "A very hot and sunny afternoon",
+            "A heavy snowstorm during winter"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the queen put at the bottom of the bed for the test?",
+          "options": [
+            "A small coin",
+            "One tiny pea",
+            "A heavy stone"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why did the princess fail to sleep well?",
+          "options": [
+            "Because the room was too cold and dark",
+            "Because something hard in the bed hurt her body",
+            "Because loud music played outside her window"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, there lived a young prince whose heart was burdened by a singular, exacting desire.",
+              "audioStart": 0.1,
+              "audioEnd": 5.787
+            },
+            {
+              "text": "More than anything in the world, he wished to marry a woman of true nobility and undeniable refinement.",
+              "audioStart": 6.65,
+              "audioEnd": 11.963
+            },
+            {
+              "text": "To find this elusive paragon, he journeyed across the continents, traversing oceans and mountain ranges without finding satisfaction.",
+              "audioStart": 12.825,
+              "audioEnd": 20.288
+            },
+            {
+              "text": "Every single maiden whom he met presented some flaw or ambiguity that unsettled his hopeful spirit.",
+              "audioStart": 21.15,
+              "audioEnd": 26.337
+            },
+            {
+              "text": "Countless young women possessed lovely faces and graceful manners, yet he could never be completely certain of their lineage.",
+              "audioStart": 27.2,
+              "audioEnd": 33.513
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Weary and disheartened, he returned to his ancestral home, feeling a profound and lingering sorrow.",
+              "audioStart": 34.375,
+              "audioEnd": 39.612
+            },
+            {
+              "text": "He desired a genuine companion with such intensity that he wept silently into his pillow every single night.",
+              "audioStart": 40.475,
+              "audioEnd": 46.312
+            },
+            {
+              "text": "His royal parents watched his quiet despair, wishing they could mend the heavy grief that weighed upon their only son.",
+              "audioStart": 47.175,
+              "audioEnd": 53.212
+            },
+            {
+              "text": "Then, one tempestuous night, a violent storm broke across the kingdom with terrifying force and fury.",
+              "audioStart": 54.075,
+              "audioEnd": 59.913
+            },
+            {
+              "text": "Loud thunder shook the very foundations of the earth outside, while sheets of rain lashed mercilessly against the stone walls.",
+              "audioStart": 60.775,
+              "audioEnd": 67.112
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, amid the howling wind and roaring thunder, a heavy knock echoed against the massive oak doors of the castle.",
+              "audioStart": 67.975,
+              "audioEnd": 74
+            },
+            {
+              "text": "The wise old monarch himself went to answer the summons, curious who might venture abroad in such weather.",
+              "audioStart": 74.862,
+              "audioEnd": 80.15
+            },
+            {
+              "text": "He pulled back the heavy iron bolt and pushed open the creaking door to see who waited in the dark.",
+              "audioStart": 81.013,
+              "audioEnd": 85.737
+            },
+            {
+              "text": "A young girl stood shivering on the threshold, completely drenched by the relentless rain and icy wind.",
+              "audioStart": 86.6,
+              "audioEnd": 91.862
+            },
+            {
+              "text": "Water streamed down her matted hair and ruined her garments, turning her appearance into a picture of utter misery.",
+              "audioStart": 92.725,
+              "audioEnd": 98.537
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She declared with trembling lips that she was a true princess who had traveled from a distant realm.",
+              "audioStart": 99.4,
+              "audioEnd": 104.125
+            },
+            {
+              "text": "Despite her deplorable condition and the mud coating her shoes, the queen mother recognized a critical test.",
+              "audioStart": 104.987,
+              "audioEnd": 110.838
+            },
+            {
+              "text": "She decided that clever strategy must prevail over superficial impressions before any welcoming feasts were prepared.",
+              "audioStart": 111.7,
+              "audioEnd": 118.062
+            },
+            {
+              "text": "While the rest of the household was distracted, the queen mother slipped quietly up the grand staircase alone.",
+              "audioStart": 118.925,
+              "audioEnd": 124.388
+            },
+            {
+              "text": "She entered the royal guest chamber and stripped every single piece of bedding from the massive mahogany bedstead.",
+              "audioStart": 125.25,
+              "audioEnd": 130.738
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Having stripped the frame entirely bare, she reached into her pocket and placed one tiny green pea upon the wooden slats.",
+              "audioStart": 131.6,
+              "audioEnd": 138.225
+            },
+            {
+              "text": "Upon this microscopic foundation, she began the arduous task of constructing a towering edifice of softness.",
+              "audioStart": 139.088,
+              "audioEnd": 145.387
+            },
+            {
+              "text": "Twenty thick mattresses were piled directly on top of the tiny pea by the methodical and calculating mother.",
+              "audioStart": 146.25,
+              "audioEnd": 152.012
+            },
+            {
+              "text": "Furthermore, twenty heavy feather quilts were spread across the summit of those mattresses to complete the enormous stack.",
+              "audioStart": 152.875,
+              "audioEnd": 158.975
+            },
+            {
+              "text": "When the arrangement was finished, the bed rose so high toward the ceiling that a small ladder was nearly required to climb it.",
+              "audioStart": 159.838,
+              "audioEnd": 166.2
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The exhausted traveler was then led into this chamber and invited to rest upon the monumental structure for the night.",
+              "audioStart": 167.062,
+              "audioEnd": 172.912
+            },
+            {
+              "text": "She climbed laboriously into the towering bed, sinking only slightly into the sea of goose down and woven linen.",
+              "audioStart": 173.775,
+              "audioEnd": 179.65
+            },
+            {
+              "text": "Darkness enveloped the castle as the storm finally subsided into a steady, whispering drizzle against the windowpanes.",
+              "audioStart": 180.512,
+              "audioEnd": 187.113
+            },
+            {
+              "text": "The girl slept restlessly, tossing and turning throughout the long hours as the strange pressure bothered her spine.",
+              "audioStart": 187.975,
+              "audioEnd": 193.75
+            },
+            {
+              "text": "Morning light eventually filtered through the heavy velvet curtains, signaling the dawn of a decisive day.",
+              "audioStart": 194.613,
+              "audioEnd": 200
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Early in the morning, the king and his clever queen mother approached the guest room to inquire about her slumber.",
+              "audioStart": 200.863,
+              "audioEnd": 206.637
+            },
+            {
+              "text": "They asked how comfortably she had slept until morning and whether the immense bed had provided adequate rest.",
+              "audioStart": 207.5,
+              "audioEnd": 213.075
+            },
+            {
+              "text": "The poor girl answered with a weak voice that she had hardly closed her eyes for a single moment.",
+              "audioStart": 213.938,
+              "audioEnd": 218.738
+            },
+            {
+              "text": "Something remarkably hard was hidden deep inside the bedding, she explained with an expression of pure exhaustion.",
+              "audioStart": 219.6,
+              "audioEnd": 225.412
+            },
+            {
+              "text": "She lamented that her entire body felt bruised and aching because the terrible object had pressed into her skin all night.",
+              "audioStart": 226.275,
+              "audioEnd": 232.45
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Only a true lady could possess skin so delicate that she would feel a tiny object through twenty thick mattresses.",
+              "audioStart": 233.312,
+              "audioEnd": 239.2
+            },
+            {
+              "text": "The queen mother exchanged a knowing glance with her husband, secretly rejoicing at the undeniable proof.",
+              "audioStart": 240.062,
+              "audioEnd": 246.757
+            },
+            {
+              "text": "Upon hearing this report, the young prince felt an overwhelming wave of joy wash over his anxious soul.",
+              "audioStart": 247.62,
+              "audioEnd": 253.07
+            },
+            {
+              "text": "He knew without a shadow of a doubt that he had finally found his genuine princess.",
+              "audioStart": 253.933,
+              "audioEnd": 258.033
+            },
+            {
+              "text": "Plans for a magnificent wedding were set in motion immediately, uniting the joyful couple in a grand ceremony.",
+              "audioStart": 258.895,
+              "audioEnd": 264.87
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many peaceful years passed after that wonderful wedding celebration concluded in the great hall of the castle.",
+              "audioStart": 265.733,
+              "audioEnd": 271.395
+            },
+            {
+              "text": "The couple lived together in deep harmony, sharing every meal and every quiet moment with their growing family.",
+              "audioStart": 272.257,
+              "audioEnd": 278.082
+            },
+            {
+              "text": "Across the entire country, people whispered tales of the legendary test and the miraculous pea.",
+              "audioStart": 278.945,
+              "audioEnd": 284.27
+            },
+            {
+              "text": "Whenever curious visitors arrived at the front door, they invariably asked to see the famous chamber.",
+              "audioStart": 285.132,
+              "audioEnd": 290.507
+            },
+            {
+              "text": "The king always smiled warmly because he remembered the exact truth of that stormy night.",
+              "audioStart": 291.37,
+              "audioEnd": 295.933
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His wife remained just as remarkably sensitive as she had been when she first crossed the threshold.",
+              "audioStart": 296.795,
+              "audioEnd": 301.658
+            },
+            {
+              "text": "Even a small stone hidden beneath the garden paths could cause her discomfort during their afternoon walks.",
+              "audioStart": 302.52,
+              "audioEnd": 307.558
+            },
+            {
+              "text": "They remained devoted to one another until old age softened their steps and silvered their hair.",
+              "audioStart": 308.42,
+              "audioEnd": 313.183
+            },
+            {
+              "text": "Their extraordinary story was passed down from generation to generation, told to every child in the town.",
+              "audioStart": 314.045,
+              "audioEnd": 319.608
+            },
+            {
+              "text": "Everyone remembered the miraculous evening when the wet traveler knocked upon the ancient oak doors.",
+              "audioStart": 320.47,
+              "audioEnd": 325.295
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "True love and honest virtue always prevail in the end, just as the oldest wisdom books declare.",
+              "audioStart": 326.158,
+              "audioEnd": 331.283
+            },
+            {
+              "text": "The castle remained a beacon of happiness where peace and joy echoed through every stone corridor.",
+              "audioStart": 332.145,
+              "audioEnd": 336.82
+            },
+            {
+              "text": "Though decades would pass, the townspeople never forgot to tell this charming tale to their sons and daughters.",
+              "audioStart": 337.683,
+              "audioEnd": 343.32
+            },
+            {
+              "text": "The young prince and his refined wife shared a wonderful, prosperous life within the massive building.",
+              "audioStart": 344.183,
+              "audioEnd": 349.295
+            },
+            {
+              "text": "No one could ever forget the brilliant test which the queen mother had designed with such foresight.",
+              "audioStart": 350.158,
+              "audioEnd": 354.945
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every single person within the borders of the kingdom deeply respected the royal family and their legacy.",
+              "audioStart": 355.808,
+              "audioEnd": 361.045
+            },
+            {
+              "text": "The enduring spirit of love lingered inside those thick stone walls until the very end of time.",
+              "audioStart": 361.908,
+              "audioEnd": 366.67
+            },
+            {
+              "text": "Generations would come and go, but the memory of the sensitive princess would never fade away.",
+              "audioStart": 367.533,
+              "audioEnd": 372.233
+            },
+            {
+              "text": "It stood as a reminder that true nobility shines through the most unexpected circumstances.",
+              "audioStart": 373.095,
+              "audioEnd": 377.82
+            },
+            {
+              "text": "And so the kingdom rested in perpetual tranquility, cradled by the simple magic of an unforgettable night.",
+              "audioStart": 378.683,
+              "audioEnd": 384.382
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0172.mp3",
+      "wordTimings": "audio/c1/st-0172.timings.json",
+      "quiz": [
+        {
+          "q": "Why did the prince return home feeling sad after his travels?",
+          "options": [
+            "He spent all his money on hotels.",
+            "He could not be certain any girl was a true lady.",
+            "His parents ordered him to come back."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What object did the queen mother place at the bottom of the bed?",
+          "options": [
+            "A small green pea",
+            "A heavy iron key",
+            "A polished marble stone"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the visitor describe her night in the tall bed?",
+          "options": [
+            "She slept deeply and woke up refreshed.",
+            "She was kept awake by the howling storm outside.",
+            "She barely slept because something hard bruised her body."
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  }
+}

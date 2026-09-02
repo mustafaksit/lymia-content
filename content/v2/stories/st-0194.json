@@ -1,0 +1,1407 @@
+{
+  "id": "st-0194",
+  "title": "Momotaro, the Peach Boy",
+  "genre": "classic",
+  "summary": "Brave Momotaro sets out with animal friends to defeat distant bad people.",
+  "coverScene": "A young boy stands proudly holding a peach while animal friends look on near a small river.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "An old man lives near water.",
+              "audioStart": 0.106,
+              "audioEnd": 1.869
+            },
+            {
+              "text": "An old woman lives there too.",
+              "audioStart": 2.833,
+              "audioEnd": 4.583
+            },
+            {
+              "text": "The woman finds a big thing.",
+              "audioStart": 5.542,
+              "audioEnd": 7.25
+            },
+            {
+              "text": "It is a big fruit.",
+              "audioStart": 8.208,
+              "audioEnd": 9.417
+            },
+            {
+              "text": "They cut the fruit.",
+              "audioStart": 10.375,
+              "audioEnd": 11.514
+            },
+            {
+              "text": "A small child is born.",
+              "audioStart": 12.472,
+              "audioEnd": 13.986
+            },
+            {
+              "text": "They call him Momotaro.",
+              "audioStart": 14.944,
+              "audioEnd": 16.486
+            },
+            {
+              "text": "Momotaro grows up now.",
+              "audioStart": 17.444,
+              "audioEnd": 19.056
+            },
+            {
+              "text": "He is very strong.",
+              "audioStart": 20.014,
+              "audioEnd": 21.306
+            },
+            {
+              "text": "Bad people live in one place.",
+              "audioStart": 22.264,
+              "audioEnd": 24.236
+            },
+            {
+              "text": "They stay far away.",
+              "audioStart": 25.194,
+              "audioEnd": 26.486
+            },
+            {
+              "text": "Bad people stay far away.",
+              "audioStart": 27.444,
+              "audioEnd": 29.167
+            },
+            {
+              "text": "Momotaro wants to help the country.",
+              "audioStart": 30.125,
+              "audioEnd": 32.319
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His mother gives him food.",
+              "audioStart": 33.278,
+              "audioEnd": 34.889
+            },
+            {
+              "text": "Momotaro leaves home.",
+              "audioStart": 35.847,
+              "audioEnd": 37.319
+            },
+            {
+              "text": "He walks down the road.",
+              "audioStart": 38.278,
+              "audioEnd": 39.681
+            },
+            {
+              "text": "He meets a small friend.",
+              "audioStart": 40.639,
+              "audioEnd": 42.111
+            },
+            {
+              "text": "It is a little dog.",
+              "audioStart": 43.069,
+              "audioEnd": 44.292
+            },
+            {
+              "text": "Then he meets another friend.",
+              "audioStart": 45.25,
+              "audioEnd": 46.875
+            },
+            {
+              "text": "It is a small monkey.",
+              "audioStart": 47.833,
+              "audioEnd": 49.25
+            },
+            {
+              "text": "Then he meets a bird.",
+              "audioStart": 50.208,
+              "audioEnd": 51.403
+            },
+            {
+              "text": "The friends follow him.",
+              "audioStart": 52.361,
+              "audioEnd": 53.667
+            },
+            {
+              "text": "They walk toward the place.",
+              "audioStart": 54.625,
+              "audioEnd": 56.292
+            },
+            {
+              "text": "They reach the area.",
+              "audioStart": 57.25,
+              "audioEnd": 58.472
+            },
+            {
+              "text": "It is very late and night.",
+              "audioStart": 59.431,
+              "audioEnd": 61.042
+            },
+            {
+              "text": "The group stops the bad people.",
+              "audioStart": 62,
+              "audioEnd": 63.806
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They use special things.",
+              "audioStart": 64.764,
+              "audioEnd": 66.292
+            },
+            {
+              "text": "The group wins together.",
+              "audioStart": 67.25,
+              "audioEnd": 68.708
+            },
+            {
+              "text": "The bad people give back money.",
+              "audioStart": 69.667,
+              "audioEnd": 71.486
+            },
+            {
+              "text": "Momotaro and friends take money back.",
+              "audioStart": 72.444,
+              "audioEnd": 74.792
+            },
+            {
+              "text": "They return home.",
+              "audioStart": 75.75,
+              "audioEnd": 76.861
+            },
+            {
+              "text": "The parents are very happy.",
+              "audioStart": 77.819,
+              "audioEnd": 79.444
+            },
+            {
+              "text": "Momotaro is very strong.",
+              "audioStart": 80.403,
+              "audioEnd": 82.306
+            },
+            {
+              "text": "The family is good.",
+              "audioStart": 83.264,
+              "audioEnd": 84.597
+            },
+            {
+              "text": "They live well together.",
+              "audioStart": 85.556,
+              "audioEnd": 86.917
+            },
+            {
+              "text": "The story ends here now.",
+              "audioStart": 87.875,
+              "audioEnd": 89.25
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0194.mp3",
+      "wordTimings": "audio/a1/st-0194.timings.json",
+      "quiz": [
+        {
+          "q": "What do the old man and woman find in the water?",
+          "options": [
+            "A big peach",
+            "A small dog",
+            "Some money"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which animal does Momotaro meet first?",
+          "options": [
+            "A monkey",
+            "A dog",
+            "A bird"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What do the monsters give back?",
+          "options": [
+            "Food",
+            "Money",
+            "Books"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once an old man lived near big water.",
+              "audioStart": 0.106,
+              "audioEnd": 2.356
+            },
+            {
+              "text": "An old woman lived with him there.",
+              "audioStart": 3.319,
+              "audioEnd": 5.194
+            },
+            {
+              "text": "One day, the woman found a huge fruit in the water.",
+              "audioStart": 6.153,
+              "audioEnd": 9.236
+            },
+            {
+              "text": "They cut the fruit open.",
+              "audioStart": 10.194,
+              "audioEnd": 11.514
+            },
+            {
+              "text": "A boy was born inside.",
+              "audioStart": 12.472,
+              "audioEnd": 14.069
+            },
+            {
+              "text": "They named him Momotaro.",
+              "audioStart": 15.028,
+              "audioEnd": 16.528
+            },
+            {
+              "text": "This name meant fruit boy.",
+              "audioStart": 17.486,
+              "audioEnd": 18.944
+            },
+            {
+              "text": "Momotaro grew up strong and good.",
+              "audioStart": 19.903,
+              "audioEnd": 21.958
+            },
+            {
+              "text": "His parents took great care of him.",
+              "audioStart": 22.917,
+              "audioEnd": 24.944
+            },
+            {
+              "text": "He learned that bad guys lived on land.",
+              "audioStart": 25.903,
+              "audioEnd": 28.181
+            },
+            {
+              "text": "Those guys troubled local people.",
+              "audioStart": 29.139,
+              "audioEnd": 31.111
+            },
+            {
+              "text": "The child decided to save the country.",
+              "audioStart": 32.069,
+              "audioEnd": 34.25
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His mother prepared food for his long trip.",
+              "audioStart": 35.208,
+              "audioEnd": 37.819
+            },
+            {
+              "text": "Before he left home, Momotaro met a friendly dog.",
+              "audioStart": 38.778,
+              "audioEnd": 42.125
+            },
+            {
+              "text": "The dog wanted to help him.",
+              "audioStart": 43.083,
+              "audioEnd": 44.736
+            },
+            {
+              "text": "Soon, a little animal joined them.",
+              "audioStart": 45.694,
+              "audioEnd": 47.833
+            },
+            {
+              "text": "Then another animal joined them too.",
+              "audioStart": 48.792,
+              "audioEnd": 50.819
+            },
+            {
+              "text": "The animals liked the boy very much.",
+              "audioStart": 51.778,
+              "audioEnd": 54
+            },
+            {
+              "text": "They agreed to follow him across the sea.",
+              "audioStart": 54.958,
+              "audioEnd": 57.167
+            },
+            {
+              "text": "Together, they walked toward the land.",
+              "audioStart": 58.125,
+              "audioEnd": 60.472
+            },
+            {
+              "text": "They arrived at the dark land.",
+              "audioStart": 61.431,
+              "audioEnd": 63.111
+            },
+            {
+              "text": "The group faced many difficult challenges.",
+              "audioStart": 64.069,
+              "audioEnd": 66.653
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The bad guys were surprised by the small team.",
+              "audioStart": 67.611,
+              "audioEnd": 70.403
+            },
+            {
+              "text": "The dog and other animals used special skills.",
+              "audioStart": 71.361,
+              "audioEnd": 74.208
+            },
+            {
+              "text": "They fought with great force.",
+              "audioStart": 75.167,
+              "audioEnd": 76.875
+            },
+            {
+              "text": "They worked together as one team and won easily.",
+              "audioStart": 77.833,
+              "audioEnd": 80.75
+            },
+            {
+              "text": "The bad guys gave back all money.",
+              "audioStart": 81.708,
+              "audioEnd": 83.792
+            },
+            {
+              "text": "Momotaro and his friends took everything.",
+              "audioStart": 84.75,
+              "audioEnd": 87.167
+            },
+            {
+              "text": "They returned home with their new friends.",
+              "audioStart": 88.125,
+              "audioEnd": 90.208
+            },
+            {
+              "text": "They also brought lots of food.",
+              "audioStart": 91.167,
+              "audioEnd": 92.986
+            },
+            {
+              "text": "The old parents were happy to see their boy.",
+              "audioStart": 93.944,
+              "audioEnd": 96.278
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Momotaro lived a long and good life.",
+              "audioStart": 97.236,
+              "audioEnd": 99.611
+            },
+            {
+              "text": "His parents were very happy every day.",
+              "audioStart": 100.569,
+              "audioEnd": 102.972
+            },
+            {
+              "text": "The people in the country thanked him for his help.",
+              "audioStart": 103.931,
+              "audioEnd": 106.486
+            },
+            {
+              "text": "The animals stayed with him at his house.",
+              "audioStart": 107.444,
+              "audioEnd": 109.611
+            },
+            {
+              "text": "They played games together in the afternoon.",
+              "audioStart": 110.569,
+              "audioEnd": 112.972
+            },
+            {
+              "text": "Life was good and peaceful for the small family.",
+              "audioStart": 113.931,
+              "audioEnd": 116.569
+            },
+            {
+              "text": "No more bad guys came to the land.",
+              "audioStart": 117.528,
+              "audioEnd": 119.694
+            },
+            {
+              "text": "Everybody remembered his name with love and respect.",
+              "audioStart": 120.653,
+              "audioEnd": 123.472
+            },
+            {
+              "text": "The story of Momotaro lived on in time.",
+              "audioStart": 124.431,
+              "audioEnd": 126.917
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0194.mp3",
+      "wordTimings": "audio/a2/st-0194.timings.json",
+      "quiz": [
+        {
+          "q": "What did the woman find in the river?",
+          "options": [
+            "A huge peach",
+            "A small box",
+            "A friendly dog"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which animal did Momotaro meet first?",
+          "options": [
+            "A bird",
+            "A dog",
+            "A monkey"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the monsters give back to Momotaro?",
+          "options": [
+            "Sweet food",
+            "Stolen money",
+            "A small boat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, an old man and an old woman lived near a big river.",
+              "audioStart": 0.1,
+              "audioEnd": 3.95
+            },
+            {
+              "text": "They lived very quietly day after day.",
+              "audioStart": 4.812,
+              "audioEnd": 6.888
+            },
+            {
+              "text": "One day, the woman found a huge fruit moving down the water.",
+              "audioStart": 7.75,
+              "audioEnd": 10.963
+            },
+            {
+              "text": "She took it home to share with her husband.",
+              "audioStart": 11.825,
+              "audioEnd": 13.825
+            },
+            {
+              "text": "When they cut the fruit open, a wonderful baby boy was born inside.",
+              "audioStart": 14.688,
+              "audioEnd": 18.175
+            },
+            {
+              "text": "They named him Momotaro, which meant fruit boy in their language.",
+              "audioStart": 19.038,
+              "audioEnd": 22.337
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Momotaro grew up strong because his parents took great care of him.",
+              "audioStart": 23.2,
+              "audioEnd": 26.7
+            },
+            {
+              "text": "He learned that bad enemies were living on a far land and troubling local people.",
+              "audioStart": 27.562,
+              "audioEnd": 31.675
+            },
+            {
+              "text": "The young child decided that he must go and save the country from those people.",
+              "audioStart": 32.538,
+              "audioEnd": 36.35
+            },
+            {
+              "text": "His mother prepared sweet food for him to eat during his long journey.",
+              "audioStart": 37.212,
+              "audioEnd": 40.638
+            },
+            {
+              "text": "She wanted him to have enough energy for the road ahead.",
+              "audioStart": 41.5,
+              "audioEnd": 44.075
+            },
+            {
+              "text": "Momotaro thanked his mother and got ready to leave his house.",
+              "audioStart": 44.938,
+              "audioEnd": 48.062
+            },
+            {
+              "text": "If he left home, he would help the people.",
+              "audioStart": 48.925,
+              "audioEnd": 51.188
+            },
+            {
+              "text": "He has traveled far since he left.",
+              "audioStart": 52.05,
+              "audioEnd": 54.025
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Before he left home, Momotaro met a friendly dog who wanted to help him.",
+              "audioStart": 54.888,
+              "audioEnd": 58.975
+            },
+            {
+              "text": "The dog joined the boy immediately.",
+              "audioStart": 59.837,
+              "audioEnd": 61.737
+            },
+            {
+              "text": "Soon after that, a fine animal and a fine bird joined the small group.",
+              "audioStart": 62.6,
+              "audioEnd": 66.35
+            },
+            {
+              "text": "The animals liked the boy very much, so they agreed to follow him across the sea.",
+              "audioStart": 67.213,
+              "audioEnd": 71.487
+            },
+            {
+              "text": "Together, they walked toward the land where the enemies lived.",
+              "audioStart": 72.35,
+              "audioEnd": 75.463
+            },
+            {
+              "text": "They walked for many days until they reached the dark place.",
+              "audioStart": 76.325,
+              "audioEnd": 79.375
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When they arrived at the dark land, the group faced many difficult challenges.",
+              "audioStart": 80.237,
+              "audioEnd": 84.175
+            },
+            {
+              "text": "However, the enemies were surprised because the small team fought with great heart.",
+              "audioStart": 85.037,
+              "audioEnd": 89.388
+            },
+            {
+              "text": "The dog, the animal, and the bird used their special skills to beat the enemies.",
+              "audioStart": 90.25,
+              "audioEnd": 94.65
+            },
+            {
+              "text": "Because they worked together as one team, victory was easily achieved.",
+              "audioStart": 95.513,
+              "audioEnd": 99.2
+            },
+            {
+              "text": "The battle was hard, but they did not stop until the fight was over.",
+              "audioStart": 100.062,
+              "audioEnd": 103.55
+            },
+            {
+              "text": "They won the day with strength.",
+              "audioStart": 104.412,
+              "audioEnd": 105.888
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The sad enemies gave back all the stolen money and valuable things they had taken.",
+              "audioStart": 106.75,
+              "audioEnd": 111.075
+            },
+            {
+              "text": "Momotaro and his friends collected everything that belonged to the poor people.",
+              "audioStart": 111.938,
+              "audioEnd": 115.737
+            },
+            {
+              "text": "They returned home safely with their new partners and lots of wonderful food.",
+              "audioStart": 116.6,
+              "audioEnd": 120.425
+            },
+            {
+              "text": "The old parents were extremely happy to see their young boy return.",
+              "audioStart": 121.287,
+              "audioEnd": 124.675
+            },
+            {
+              "text": "They lived happily together for a long time after that great journey.",
+              "audioStart": 125.537,
+              "audioEnd": 129.037
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0194.mp3",
+      "wordTimings": "audio/b1/st-0194.timings.json",
+      "quiz": [
+        {
+          "q": "Where did the woman find the huge peach?",
+          "options": [
+            "Floating down the river",
+            "Growing on a high mountain",
+            "Sitting near their house"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which animals joined Momotaro before he crossed the sea?",
+          "options": [
+            "A dog, a cat, and a bird",
+            "A dog, a monkey, and a bird",
+            "A monkey, a horse, and a dog"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the monsters return to Momotaro and his friends?",
+          "options": [
+            "All the stolen money and valuable things",
+            "Only some old clothes and food",
+            "Nothing at all"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, an old man and woman lived quietly near a big river.",
+              "audioStart": 0.1,
+              "audioEnd": 4.037
+            },
+            {
+              "text": "One day, the woman found a huge fruit floating down the water.",
+              "audioStart": 4.9,
+              "audioEnd": 8.238
+            },
+            {
+              "text": "When they cut the fruit open, a wonderful baby boy was born inside.",
+              "audioStart": 9.1,
+              "audioEnd": 12.588
+            },
+            {
+              "text": "They named him Momotaro, which meant fruit boy in their language.",
+              "audioStart": 13.45,
+              "audioEnd": 16.75
+            },
+            {
+              "text": "Momotaro grew up strong and smart because his parents took great care of him.",
+              "audioStart": 17.613,
+              "audioEnd": 21.587
+            },
+            {
+              "text": "He learned that bad enemies were living on a distant island and troubling local people.",
+              "audioStart": 22.45,
+              "audioEnd": 26.712
+            },
+            {
+              "text": "The smart child decided that he must go and save the country from those creatures.",
+              "audioStart": 27.575,
+              "audioEnd": 31.675
+            },
+            {
+              "text": "His mother prepared sweet food for him to eat during his long journey.",
+              "audioStart": 32.538,
+              "audioEnd": 35.962
+            },
+            {
+              "text": "Before he left home, Momotaro met a friendly dog who wanted to help him.",
+              "audioStart": 36.825,
+              "audioEnd": 40.913
+            },
+            {
+              "text": "Soon after that, a smart animal and a good bird joined the small group.",
+              "audioStart": 41.775,
+              "audioEnd": 45.413
+            },
+            {
+              "text": "The animals liked the boy very much, so they agreed to follow him across the sea.",
+              "audioStart": 46.275,
+              "audioEnd": 50.55
+            },
+            {
+              "text": "Together, they walked toward the island where the enemies lived.",
+              "audioStart": 51.413,
+              "audioEnd": 54.6
+            },
+            {
+              "text": "When they arrived at the dark island, the group faced many difficult challenges.",
+              "audioStart": 55.462,
+              "audioEnd": 59.45
+            },
+            {
+              "text": "However, the enemies were surprised because the small team fought with great power.",
+              "audioStart": 60.312,
+              "audioEnd": 64.688
+            },
+            {
+              "text": "The dog, the animal, and the bird used their special skills to defeat the enemies.",
+              "audioStart": 65.55,
+              "audioEnd": 70.112
+            },
+            {
+              "text": "Because they worked together as one team, victory was easily achieved.",
+              "audioStart": 70.975,
+              "audioEnd": 74.662
+            },
+            {
+              "text": "If they had not worked together, they would not have won the battle.",
+              "audioStart": 75.525,
+              "audioEnd": 78.6
+            },
+            {
+              "text": "If Momotaro had stayed home, the country would have remained in danger.",
+              "audioStart": 79.463,
+              "audioEnd": 83.062
+            },
+            {
+              "text": "The enemies who lived on the island were defeated by the strong group.",
+              "audioStart": 83.925,
+              "audioEnd": 87.162
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The frightened enemies gave back all the stolen money and valuable things they had taken.",
+              "audioStart": 88.025,
+              "audioEnd": 92.463
+            },
+            {
+              "text": "Momotaro and his friends collected everything that belonged to the poor people.",
+              "audioStart": 93.325,
+              "audioEnd": 97.125
+            },
+            {
+              "text": "They returned home safely with their new friends and lots of wonderful food.",
+              "audioStart": 97.987,
+              "audioEnd": 101.662
+            },
+            {
+              "text": "The old parents were extremely happy to see their smart boy return.",
+              "audioStart": 102.525,
+              "audioEnd": 106
+            },
+            {
+              "text": "They lived happily for many years after that great adventure.",
+              "audioStart": 106.862,
+              "audioEnd": 109.925
+            },
+            {
+              "text": "People still tell the story of Momotaro today.",
+              "audioStart": 110.787,
+              "audioEnd": 113.188
+            },
+            {
+              "text": "Every child knows the tale of the boy who crossed the sea.",
+              "audioStart": 114.05,
+              "audioEnd": 116.875
+            },
+            {
+              "text": "He showed that working together can solve any problem.",
+              "audioStart": 117.737,
+              "audioEnd": 120.425
+            },
+            {
+              "text": "The dog, the bird, and the other animal remained his good friends forever.",
+              "audioStart": 121.287,
+              "audioEnd": 125.263
+            },
+            {
+              "text": "The country was safe, and peace returned to the land.",
+              "audioStart": 126.125,
+              "audioEnd": 128.9
+            },
+            {
+              "text": "The old parents were proud of everything he achieved.",
+              "audioStart": 129.762,
+              "audioEnd": 132.225
+            },
+            {
+              "text": "Life went back to normal, but the memory of the journey stayed with them.",
+              "audioStart": 133.088,
+              "audioEnd": 136.488
+            },
+            {
+              "text": "Momotaro always remembered the lessons he learned during his travels.",
+              "audioStart": 137.35,
+              "audioEnd": 140.938
+            },
+            {
+              "text": "The world outside their home was large, but home was always best.",
+              "audioStart": 141.8,
+              "audioEnd": 145.35
+            },
+            {
+              "text": "That is how the famous story ends.",
+              "audioStart": 146.213,
+              "audioEnd": 148
+            },
+            {
+              "text": "Every person who hears the tale feels happy.",
+              "audioStart": 148.863,
+              "audioEnd": 151.188
+            },
+            {
+              "text": "The victory that was won by Momotaro brought peace to the land.",
+              "audioStart": 152.05,
+              "audioEnd": 155.25
+            },
+            {
+              "text": "If anyone asks about the journey, people will tell the story.",
+              "audioStart": 156.113,
+              "audioEnd": 159.188
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The journey across the sea was long and full of unexpected sights.",
+              "audioStart": 160.05,
+              "audioEnd": 163.475
+            },
+            {
+              "text": "Momotaro walked for many miles before he reached the final shore.",
+              "audioStart": 164.338,
+              "audioEnd": 167.925
+            },
+            {
+              "text": "The water was blue and cold under the bright morning sun.",
+              "audioStart": 168.787,
+              "audioEnd": 171.625
+            },
+            {
+              "text": "His animal friends stayed close beside him through every difficult moment.",
+              "audioStart": 172.488,
+              "audioEnd": 176.1
+            },
+            {
+              "text": "They shared their food and rested together under the large trees.",
+              "audioStart": 176.963,
+              "audioEnd": 180.262
+            },
+            {
+              "text": "Every step they took brought them closer to the dark island.",
+              "audioStart": 181.125,
+              "audioEnd": 183.975
+            },
+            {
+              "text": "The local people had suffered for years because of the bad creatures.",
+              "audioStart": 184.838,
+              "audioEnd": 188.312
+            },
+            {
+              "text": "Now, hope was returning to the land because Momotaro was coming.",
+              "audioStart": 189.175,
+              "audioEnd": 192.85
+            },
+            {
+              "text": "The wind blew softly as the small boat moved across the waves.",
+              "audioStart": 193.713,
+              "audioEnd": 196.963
+            },
+            {
+              "text": "They knew the fight ahead would require all their strength and skill.",
+              "audioStart": 197.825,
+              "audioEnd": 200.863
+            },
+            {
+              "text": "The dog kept watch while the bird flew high to check the path.",
+              "audioStart": 201.725,
+              "audioEnd": 204.85
+            },
+            {
+              "text": "The other animal helped carry the heavy bags of food and supplies.",
+              "audioStart": 205.713,
+              "audioEnd": 209.2
+            },
+            {
+              "text": "Nothing could stop them because their goal was clear and true.",
+              "audioStart": 210.062,
+              "audioEnd": 212.963
+            },
+            {
+              "text": "When they finally touched the sand of the island, they prepared for battle.",
+              "audioStart": 213.825,
+              "audioEnd": 217.312
+            },
+            {
+              "text": "The enemies tried to look fierce, but the small team was not afraid.",
+              "audioStart": 218.175,
+              "audioEnd": 221.787
+            },
+            {
+              "text": "The fight was hard, but friendship and teamwork won the day.",
+              "audioStart": 222.65,
+              "audioEnd": 225.738
+            },
+            {
+              "text": "After the battle, the land was peaceful and quiet once again.",
+              "audioStart": 226.6,
+              "audioEnd": 229.938
+            },
+            {
+              "text": "The people of the country thanked Momotaro with all their heart.",
+              "audioStart": 230.8,
+              "audioEnd": 233.825
+            },
+            {
+              "text": "He smiled and told them that friends are the greatest treasure of all.",
+              "audioStart": 234.688,
+              "audioEnd": 237.775
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0194.mp3",
+      "wordTimings": "audio/b2/st-0194.timings.json",
+      "quiz": [
+        {
+          "q": "Where did the old woman find the huge peach?",
+          "options": [
+            "Floating down the river",
+            "Growing on a tall tree",
+            "Sitting near their front door"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which animals joined Momotaro on his journey?",
+          "options": [
+            "A cat, a rabbit, and a horse",
+            "A dog, a monkey, and a bird",
+            "A wolf, a bear, and a fox"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the monsters give back at the end?",
+          "options": [
+            "Books and clothes",
+            "Stolen money and valuable things",
+            "New houses and food"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, an old man and woman lived quietly near a great, winding river.",
+              "audioStart": 0.1,
+              "audioEnd": 4.838
+            },
+            {
+              "text": "Their days followed the quiet rhythm of the water, filled with simple tasks and peaceful silence.",
+              "audioStart": 5.7,
+              "audioEnd": 10.713
+            },
+            {
+              "text": "One afternoon, while washing clothes by the bank, the woman noticed a huge fruit floating down the current.",
+              "audioStart": 11.575,
+              "audioEnd": 17.163
+            },
+            {
+              "text": "It bobbed heavily over the small waves, glowing with an unusual, warm light.",
+              "audioStart": 18.025,
+              "audioEnd": 22.413
+            },
+            {
+              "text": "She reached out with a long branch and pulled the magnificent treasure toward the muddy shore.",
+              "audioStart": 23.275,
+              "audioEnd": 27.575
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When they carefully cut the strange fruit open in their small wooden kitchen, a wonderful baby boy was born inside.",
+              "audioStart": 28.438,
+              "audioEnd": 34.163
+            },
+            {
+              "text": "He cried out with a bright, healthy voice that filled the humble home with sudden life.",
+              "audioStart": 35.025,
+              "audioEnd": 39.2
+            },
+            {
+              "text": "Overjoyed by this unexpected gift from the river, they named him Momotaro, which meant fruit boy in their language.",
+              "audioStart": 40.062,
+              "audioEnd": 46.288
+            },
+            {
+              "text": "Momotaro grew up strong and remarkably smart because his devoted parents took great care of him every single day.",
+              "audioStart": 47.15,
+              "audioEnd": 53.212
+            },
+            {
+              "text": "He learned to read the signs of the forest and listen to the whispers of the flowing water.",
+              "audioStart": 54.075,
+              "audioEnd": 58.1
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As the boy matured into a capable youth, merchants and travelers brought troubling news to their quiet village.",
+              "audioStart": 58.962,
+              "audioEnd": 64.875
+            },
+            {
+              "text": "He learned that bad enemies were living on a distant island and troubling local people with their endless greed.",
+              "audioStart": 65.737,
+              "audioEnd": 71.037
+            },
+            {
+              "text": "The smart child decided with absolute conviction that he must go and save the country from those creatures.",
+              "audioStart": 71.9,
+              "audioEnd": 77.4
+            },
+            {
+              "text": "He could no longer sit by the river while his fellow citizens suffered under the shadow of fear.",
+              "audioStart": 78.263,
+              "audioEnd": 82.8
+            },
+            {
+              "text": "His mother prepared sweet millet dumplings for him to eat during his long and difficult journey across the unknown sea.",
+              "audioStart": 83.662,
+              "audioEnd": 89.487
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Before he left home, Momotaro met a friendly dog at the edge of the village who wanted to help him.",
+              "audioStart": 90.35,
+              "audioEnd": 95.45
+            },
+            {
+              "text": "The loyal animal sniffed the sweet food in his bag and pledged his fierce loyalty on the spot.",
+              "audioStart": 96.312,
+              "audioEnd": 101.213
+            },
+            {
+              "text": "Soon after that departure, a smart monkey and a good bird joined the small group as they walked.",
+              "audioStart": 102.075,
+              "audioEnd": 107
+            },
+            {
+              "text": "The animals liked the brave boy very much, so they readily agreed to follow him across the deep blue sea.",
+              "audioStart": 107.862,
+              "audioEnd": 113.4
+            },
+            {
+              "text": "Together, this unlikely band of travelers walked with steady purpose toward the distant island where the enemies lived.",
+              "audioStart": 114.263,
+              "audioEnd": 120.35
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The journey across the sea was long and full of unexpected sights beneath the wide, open sky.",
+              "audioStart": 121.213,
+              "audioEnd": 126.188
+            },
+            {
+              "text": "Momotaro walked for many miles before he finally reached the rocky shore at the edge of the world.",
+              "audioStart": 127.05,
+              "audioEnd": 132.088
+            },
+            {
+              "text": "The water was blue and cold under the bright morning sun, crashing against the dark stones with a loud roar.",
+              "audioStart": 132.95,
+              "audioEnd": 138.537
+            },
+            {
+              "text": "His loyal animal friends stayed close beside him through every difficult moment of the exhausting trek.",
+              "audioStart": 139.4,
+              "audioEnd": 144.625
+            },
+            {
+              "text": "They shared their food and rested together under the large trees whenever the shadows lengthened.",
+              "audioStart": 145.488,
+              "audioEnd": 150.137
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every step they took brought them closer to the dark island where the menacing creatures made their home.",
+              "audioStart": 151,
+              "audioEnd": 155.662
+            },
+            {
+              "text": "The local people had suffered for years because of the bad creatures, hiding their belongings in fear.",
+              "audioStart": 156.525,
+              "audioEnd": 161.787
+            },
+            {
+              "text": "Now, hope was returning to the land because Momotaro was coming with his trusted companions.",
+              "audioStart": 162.65,
+              "audioEnd": 167.812
+            },
+            {
+              "text": "The wind blew softly as their small wooden boat moved steadily across the rolling waves.",
+              "audioStart": 168.675,
+              "audioEnd": 173.1
+            },
+            {
+              "text": "They knew the fight ahead would require all their combined strength, courage, and clever skill.",
+              "audioStart": 173.963,
+              "audioEnd": 178.825
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The dog kept a sharp watch ahead, while the bird flew high into the clouds to check the path.",
+              "audioStart": 179.688,
+              "audioEnd": 184.6
+            },
+            {
+              "text": "The clever monkey helped carry the heavy bags of food and essential supplies through the dense brush.",
+              "audioStart": 185.463,
+              "audioEnd": 190.488
+            },
+            {
+              "text": "Nothing could stop them because their goal was clear, and their hearts were entirely true.",
+              "audioStart": 191.35,
+              "audioEnd": 195.887
+            },
+            {
+              "text": "When they finally touched the dark sand of the island, they prepared themselves silently for battle.",
+              "audioStart": 196.75,
+              "audioEnd": 201.575
+            },
+            {
+              "text": "The enemies tried to look fierce, shouting threats from behind their iron gates, but the small team was not afraid.",
+              "audioStart": 202.438,
+              "audioEnd": 208.525
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When they arrived at the dark island, the group faced many difficult challenges and narrow stone paths.",
+              "audioStart": 209.387,
+              "audioEnd": 214.6
+            },
+            {
+              "text": "However, the enemies were completely surprised because the small team fought with astonishing power and coordination.",
+              "audioStart": 215.463,
+              "audioEnd": 221.738
+            },
+            {
+              "text": "The dog, the monkey, and the bird used their special skills to confuse and defeat the guards.",
+              "audioStart": 222.6,
+              "audioEnd": 227.762
+            },
+            {
+              "text": "Because they worked together as one united team, quick victory was easily achieved before the sun reached its peak.",
+              "audioStart": 228.625,
+              "audioEnd": 234.812
+            },
+            {
+              "text": "If they had not trusted one another completely, they would not have won the fierce battle.",
+              "audioStart": 235.675,
+              "audioEnd": 240.012
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "If Momotaro had stayed home by the river, the entire country would have remained in grave danger.",
+              "audioStart": 240.875,
+              "audioEnd": 247.016
+            },
+            {
+              "text": "The frightened enemies surrendered unconditionally and gave back all the stolen money and valuable things they had taken.",
+              "audioStart": 247.879,
+              "audioEnd": 253.791
+            },
+            {
+              "text": "Momotaro and his grateful friends collected everything that rightfully belonged to the poor people of the mainland.",
+              "audioStart": 254.654,
+              "audioEnd": 260.166
+            },
+            {
+              "text": "They loaded the heavy treasures into large carts and prepared for the long journey back to their village.",
+              "audioStart": 261.029,
+              "audioEnd": 265.916
+            },
+            {
+              "text": "After the battle, the land across the sea became peaceful and quiet once again.",
+              "audioStart": 266.779,
+              "audioEnd": 271.016
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They returned home safely with their new animal friends and lots of wonderful food to share with everyone.",
+              "audioStart": 271.878,
+              "audioEnd": 276.978
+            },
+            {
+              "text": "The old parents were extremely happy and relieved to see their smart boy return unharmed from such peril.",
+              "audioStart": 277.841,
+              "audioEnd": 283.116
+            },
+            {
+              "text": "They lived happily for many years after that great adventure, surrounded by deep peace and quiet gratitude.",
+              "audioStart": 283.978,
+              "audioEnd": 289.841
+            },
+            {
+              "text": "People still tell the stirring story of Momotaro today, passing the ancient tale from generation to generation.",
+              "audioStart": 290.704,
+              "audioEnd": 296.478
+            },
+            {
+              "text": "Every child in the villages knows the famous tale of the brave boy who crossed the sea.",
+              "audioStart": 297.341,
+              "audioEnd": 301.529
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He showed the world that working together can solve any problem, no matter how impossible it might seem.",
+              "audioStart": 302.391,
+              "audioEnd": 307.678
+            },
+            {
+              "text": "The dog, the bird, and the monkey remained his good and faithful friends forever.",
+              "audioStart": 308.541,
+              "audioEnd": 312.878
+            },
+            {
+              "text": "The country was safe at last, and lasting peace returned to the rolling green land.",
+              "audioStart": 313.741,
+              "audioEnd": 318.053
+            },
+            {
+              "text": "The old parents were endlessly proud of everything he achieved through his courage and kindness.",
+              "audioStart": 318.916,
+              "audioEnd": 323.353
+            },
+            {
+              "text": "Life went back to normal, but the memory of the great journey stayed with them like a warm light.",
+              "audioStart": 324.216,
+              "audioEnd": 328.803
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Momotaro always remembered the valuable lessons he learned during his travels far beyond the river.",
+              "audioStart": 329.666,
+              "audioEnd": 334.716
+            },
+            {
+              "text": "The world outside their home was vast and intimidating, but they knew that home was always best.",
+              "audioStart": 335.579,
+              "audioEnd": 340.566
+            },
+            {
+              "text": "That is how the famous story ends, echoing softly through the valleys of the peaceful country.",
+              "audioStart": 341.428,
+              "audioEnd": 346.116
+            },
+            {
+              "text": "Every person who hears the inspiring tale feels happy and grateful for the quiet days they enjoy.",
+              "audioStart": 346.978,
+              "audioEnd": 351.904
+            },
+            {
+              "text": "The victory that was won by Momotaro brought enduring harmony to the land for all time.",
+              "audioStart": 352.766,
+              "audioEnd": 357.228
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0194.mp3",
+      "wordTimings": "audio/c1/st-0194.timings.json",
+      "quiz": [
+        {
+          "q": "What did the woman use to pull the giant fruit closer to the shore?",
+          "options": [
+            "A long wooden branch",
+            "A heavy iron rope",
+            "A small fishing net"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What specific item did Momotaro's mother prepare for him before he started his journey?",
+          "options": [
+            "Sweet millet dumplings",
+            "Dried river fish",
+            "Fresh baked bread"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which animal flew high into the sky to check the path ahead as they approached the island?",
+          "options": [
+            "The bird",
+            "The monkey",
+            "The dog"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  }
+}

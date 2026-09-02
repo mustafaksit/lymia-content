@@ -1,0 +1,1444 @@
+{
+  "id": "st-0195",
+  "title": "Urashima Taro",
+  "genre": "classic",
+  "summary": "Taro rescues a turtle, follows it underwater to a wondrous palace, receiving a secret box.",
+  "coverScene": "A young fisherman stands by the blue sea, looking toward a magical water palace under the waves.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Taro is a young man.",
+              "audioStart": 0.106,
+              "audioEnd": 1.481
+            },
+            {
+              "text": "He lives near water.",
+              "audioStart": 2.444,
+              "audioEnd": 3.722
+            },
+            {
+              "text": "He works for family.",
+              "audioStart": 4.681,
+              "audioEnd": 6.111
+            },
+            {
+              "text": "He gets food everyday.",
+              "audioStart": 7.069,
+              "audioEnd": 8.556
+            },
+            {
+              "text": "One day, small children make big problems.",
+              "audioStart": 9.514,
+              "audioEnd": 12.472
+            },
+            {
+              "text": "They hurt a small turtle.",
+              "audioStart": 13.431,
+              "audioEnd": 14.792
+            },
+            {
+              "text": "Taro feels bad for it.",
+              "audioStart": 15.75,
+              "audioEnd": 17.264
+            },
+            {
+              "text": "He asks the children to leave.",
+              "audioStart": 18.222,
+              "audioEnd": 19.986
+            },
+            {
+              "text": "The children go away.",
+              "audioStart": 20.944,
+              "audioEnd": 22.278
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Taro puts the turtle into water.",
+              "audioStart": 23.236,
+              "audioEnd": 25.167
+            },
+            {
+              "text": "It goes away.",
+              "audioStart": 26.125,
+              "audioEnd": 27.111
+            },
+            {
+              "text": "The next day, it comes back.",
+              "audioStart": 28.069,
+              "audioEnd": 30.125
+            },
+            {
+              "text": "It asks Taro to go with it.",
+              "audioStart": 31.083,
+              "audioEnd": 32.806
+            },
+            {
+              "text": "They go down under water.",
+              "audioStart": 33.764,
+              "audioEnd": 35.208
+            },
+            {
+              "text": "They reach a big place.",
+              "audioStart": 36.167,
+              "audioEnd": 37.667
+            },
+            {
+              "text": "A woman comes to the door.",
+              "audioStart": 38.625,
+              "audioEnd": 40.222
+            },
+            {
+              "text": "She is the turtle Taro helps.",
+              "audioStart": 41.181,
+              "audioEnd": 42.972
+            },
+            {
+              "text": "She gives him food and music.",
+              "audioStart": 43.931,
+              "audioEnd": 45.736
+            },
+            {
+              "text": "Taro stays in the place.",
+              "audioStart": 46.694,
+              "audioEnd": 48.306
+            },
+            {
+              "text": "He likes every moment there.",
+              "audioStart": 49.264,
+              "audioEnd": 50.903
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Taro misses his mother.",
+              "audioStart": 51.861,
+              "audioEnd": 53.333
+            },
+            {
+              "text": "He wants to return home.",
+              "audioStart": 54.292,
+              "audioEnd": 55.792
+            },
+            {
+              "text": "The woman gives him a box.",
+              "audioStart": 56.75,
+              "audioEnd": 58.403
+            },
+            {
+              "text": "She says not to open it.",
+              "audioStart": 59.361,
+              "audioEnd": 60.806
+            },
+            {
+              "text": "Taro goes back with the turtle.",
+              "audioStart": 61.764,
+              "audioEnd": 63.486
+            },
+            {
+              "text": "He reaches land.",
+              "audioStart": 64.444,
+              "audioEnd": 65.625
+            },
+            {
+              "text": "Taro looks around the place.",
+              "audioStart": 66.583,
+              "audioEnd": 68.361
+            },
+            {
+              "text": "Everything is different now.",
+              "audioStart": 69.319,
+              "audioEnd": 70.819
+            },
+            {
+              "text": "People are new to him.",
+              "audioStart": 71.778,
+              "audioEnd": 73.042
+            },
+            {
+              "text": "Nobody remembers his family name.",
+              "audioStart": 74,
+              "audioEnd": 76.056
+            },
+            {
+              "text": "Many years pass away.",
+              "audioStart": 77.014,
+              "audioEnd": 78.5
+            },
+            {
+              "text": "He sees the true time.",
+              "audioStart": 79.458,
+              "audioEnd": 80.931
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Taro feels sad and not glad.",
+              "audioStart": 81.889,
+              "audioEnd": 83.972
+            },
+            {
+              "text": "He opens the box.",
+              "audioStart": 84.931,
+              "audioEnd": 86.319
+            },
+            {
+              "text": "A white thing comes out.",
+              "audioStart": 87.278,
+              "audioEnd": 88.792
+            },
+            {
+              "text": "Taro grows old and not strong.",
+              "audioStart": 89.75,
+              "audioEnd": 91.694
+            },
+            {
+              "text": "He falls down.",
+              "audioStart": 92.653,
+              "audioEnd": 93.764
+            },
+            {
+              "text": "His life comes to an end.",
+              "audioStart": 94.722,
+              "audioEnd": 96.375
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0195.mp3",
+      "wordTimings": "audio/a1/st-0195.timings.json",
+      "quiz": [
+        {
+          "q": "What does Taro do for the turtle at first?",
+          "options": [
+            "He helps it go back to the sea.",
+            "He takes it to his home house.",
+            "He gives it food to eat."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who is the princess in the sea palace?",
+          "options": [
+            "Taro's mother from the village",
+            "The turtle that Taro saves",
+            "A stranger by the blue sea"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happens when Taro opens the box?",
+          "options": [
+            "He goes back to the sea palace.",
+            "He grows old and weak very fast.",
+            "He finds a lot of gold inside."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Taro was a young man.",
+              "audioStart": 0.106,
+              "audioEnd": 1.508
+            },
+            {
+              "text": "He lived in a small village near the blue sea.",
+              "audioStart": 2.472,
+              "audioEnd": 5.014
+            },
+            {
+              "text": "Every day he went out in his little transport.",
+              "audioStart": 5.972,
+              "audioEnd": 8.653
+            },
+            {
+              "text": "He wanted to catch fish for his family.",
+              "audioStart": 9.611,
+              "audioEnd": 11.917
+            },
+            {
+              "text": "One afternoon, he saw a group of kids.",
+              "audioStart": 12.875,
+              "audioEnd": 15.514
+            },
+            {
+              "text": "They made trouble for a small animal.",
+              "audioStart": 16.472,
+              "audioEnd": 18.458
+            },
+            {
+              "text": "It was a small animal with a hard body.",
+              "audioStart": 19.417,
+              "audioEnd": 21.639
+            },
+            {
+              "text": "Taro felt sorry for the poor animal.",
+              "audioStart": 22.597,
+              "audioEnd": 24.778
+            },
+            {
+              "text": "He walked over to ask kids to leave it alone.",
+              "audioStart": 25.736,
+              "audioEnd": 28.361
+            },
+            {
+              "text": "The kind man picked up the animal.",
+              "audioStart": 29.319,
+              "audioEnd": 31.333
+            },
+            {
+              "text": "He put it back into the water.",
+              "audioStart": 32.292,
+              "audioEnd": 33.958
+            },
+            {
+              "text": "The animal went away.",
+              "audioStart": 34.917,
+              "audioEnd": 36.278
+            },
+            {
+              "text": "It turned around and looked at Taro.",
+              "audioStart": 37.236,
+              "audioEnd": 39.208
+            },
+            {
+              "text": "The next day, the same animal appeared near his transport.",
+              "audioStart": 40.167,
+              "audioEnd": 43.764
+            },
+            {
+              "text": "It spoke to him.",
+              "audioStart": 44.722,
+              "audioEnd": 45.792
+            },
+            {
+              "text": "It asked him to visit a great house deep under the water.",
+              "audioStart": 46.75,
+              "audioEnd": 49.736
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Taro was very surprised.",
+              "audioStart": 50.694,
+              "audioEnd": 52.444
+            },
+            {
+              "text": "He got upon the back of the animal.",
+              "audioStart": 53.403,
+              "audioEnd": 55.319
+            },
+            {
+              "text": "They went down through the cold water.",
+              "audioStart": 56.278,
+              "audioEnd": 58.056
+            },
+            {
+              "text": "They reached a large place made of white rock and money.",
+              "audioStart": 59.014,
+              "audioEnd": 61.972
+            },
+            {
+              "text": "A beautiful girl came out to the door.",
+              "audioStart": 62.931,
+              "audioEnd": 65.028
+            },
+            {
+              "text": "She was the animal that he saved.",
+              "audioStart": 65.986,
+              "audioEnd": 67.847
+            },
+            {
+              "text": "She thanked him and offered him good food and music.",
+              "audioStart": 68.806,
+              "audioEnd": 71.583
+            },
+            {
+              "text": "Taro stayed in the place for a few days.",
+              "audioStart": 72.542,
+              "audioEnd": 74.861
+            },
+            {
+              "text": "He enjoyed every moment.",
+              "audioStart": 75.819,
+              "audioEnd": 77.361
+            },
+            {
+              "text": "However, he began to feel bad for his mother and his village.",
+              "audioStart": 78.319,
+              "audioEnd": 82.111
+            },
+            {
+              "text": "He told the girl that he must return home.",
+              "audioStart": 83.069,
+              "audioEnd": 85.361
+            },
+            {
+              "text": "He was sorry to leave her.",
+              "audioStart": 86.319,
+              "audioEnd": 87.792
+            },
+            {
+              "text": "The girl gave him a big box.",
+              "audioStart": 88.75,
+              "audioEnd": 90.528
+            },
+            {
+              "text": "She told him that he must never open it.",
+              "audioStart": 91.486,
+              "audioEnd": 93.778
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Taro went back on the animal to the land.",
+              "audioStart": 94.736,
+              "audioEnd": 97.056
+            },
+            {
+              "text": "He stepped upon the ground.",
+              "audioStart": 98.014,
+              "audioEnd": 99.597
+            },
+            {
+              "text": "He looked around with a bad face.",
+              "audioStart": 100.556,
+              "audioEnd": 102.556
+            },
+            {
+              "text": "Everything changed completely.",
+              "audioStart": 103.514,
+              "audioEnd": 105.375
+            },
+            {
+              "text": "The houses were different.",
+              "audioStart": 106.333,
+              "audioEnd": 107.764
+            },
+            {
+              "text": "The people were unknown persons.",
+              "audioStart": 108.722,
+              "audioEnd": 110.667
+            },
+            {
+              "text": "Nobody remembered his name or his family.",
+              "audioStart": 111.625,
+              "audioEnd": 114.028
+            },
+            {
+              "text": "He realized that hundreds of years passed while he was away.",
+              "audioStart": 114.986,
+              "audioEnd": 118.389
+            },
+            {
+              "text": "The old man felt very calm and sorry.",
+              "audioStart": 119.347,
+              "audioEnd": 121.708
+            },
+            {
+              "text": "He forgot the word of the girl.",
+              "audioStart": 122.667,
+              "audioEnd": 124.306
+            },
+            {
+              "text": "He opened the big box.",
+              "audioStart": 125.264,
+              "audioEnd": 126.806
+            },
+            {
+              "text": "A white air came out.",
+              "audioStart": 127.764,
+              "audioEnd": 129.167
+            },
+            {
+              "text": "Taro felt his body grow old in a second.",
+              "audioStart": 130.125,
+              "audioEnd": 132.681
+            },
+            {
+              "text": "He fell upon the ground.",
+              "audioStart": 133.639,
+              "audioEnd": 135.139
+            },
+            {
+              "text": "His long life ended.",
+              "audioStart": 136.097,
+              "audioEnd": 137.417
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0195.mp3",
+      "wordTimings": "audio/a2/st-0195.timings.json",
+      "quiz": [
+        {
+          "q": "What did Taro do for the turtle at the start of the story?",
+          "options": [
+            "He saved it from some kids.",
+            "He gave it food in his boat.",
+            "He caught it to eat for dinner."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who was the beautiful princess at the sea palace?",
+          "options": [
+            "Taro's mother",
+            "The turtle he saved",
+            "A stranger from the village"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened when Taro opened the heavy box at the end?",
+          "options": [
+            "He found a lot of gold.",
+            "He became young again.",
+            "He grew old very fast."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Taro was a young man who lived in a small village near the sea.",
+              "audioStart": 0.1,
+              "audioEnd": 3.237
+            },
+            {
+              "text": "Every day, he took his boat out to catch fish for his family.",
+              "audioStart": 4.1,
+              "audioEnd": 7.4
+            },
+            {
+              "text": "One afternoon, he saw a group of children making trouble for a small animal.",
+              "audioStart": 8.262,
+              "audioEnd": 12.262
+            },
+            {
+              "text": "Taro felt sorry for the animal and asked the kids to leave it alone.",
+              "audioStart": 13.125,
+              "audioEnd": 16.613
+            },
+            {
+              "text": "The kind man picked up the animal and put it back into the water.",
+              "audioStart": 17.475,
+              "audioEnd": 20.75
+            },
+            {
+              "text": "The animal swam away, but it looked back at Taro with a happy expression.",
+              "audioStart": 21.613,
+              "audioEnd": 25.6
+            },
+            {
+              "text": "The next day, the same animal appeared and invited him to visit a water place.",
+              "audioStart": 26.462,
+              "audioEnd": 30.738
+            },
+            {
+              "text": "Taro was surprised, but he climbed onto the back of the large animal.",
+              "audioStart": 31.6,
+              "audioEnd": 35.038
+            },
+            {
+              "text": "They went down through the water until they reached a house of gold and white stone.",
+              "audioStart": 35.9,
+              "audioEnd": 39.538
+            },
+            {
+              "text": "A beautiful woman came out to welcome him because she was the animal.",
+              "audioStart": 40.4,
+              "audioEnd": 43.663
+            },
+            {
+              "text": "She thanked him and offered him fine food and music inside the room.",
+              "audioStart": 44.525,
+              "audioEnd": 47.888
+            },
+            {
+              "text": "Taro stayed in the place for a few days and enjoyed every moment.",
+              "audioStart": 48.75,
+              "audioEnd": 52.138
+            },
+            {
+              "text": "However, he soon began to feel sad for his mother and his village.",
+              "audioStart": 53,
+              "audioEnd": 56.688
+            },
+            {
+              "text": "He told the woman that he must return home, though he was sad to leave.",
+              "audioStart": 57.55,
+              "audioEnd": 61.15
+            },
+            {
+              "text": "The woman gave him a heavy box, but she told him never to open it.",
+              "audioStart": 62.013,
+              "audioEnd": 65.412
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Taro rode back on the animal until he reached the familiar beach.",
+              "audioStart": 66.275,
+              "audioEnd": 69.662
+            },
+            {
+              "text": "When he stepped onto the land, he looked around because everything had changed.",
+              "audioStart": 70.525,
+              "audioEnd": 74.438
+            },
+            {
+              "text": "The houses were different, the people were new, and nobody knew his name.",
+              "audioStart": 75.3,
+              "audioEnd": 79.088
+            },
+            {
+              "text": "He realized that hundreds of years had passed while he was in the water place.",
+              "audioStart": 79.95,
+              "audioEnd": 83.912
+            },
+            {
+              "text": "Feeling very sad, the old man forgot the warning and opened the box.",
+              "audioStart": 84.775,
+              "audioEnd": 88.713
+            },
+            {
+              "text": "A white mass of smoke came out of the container up toward the sky.",
+              "audioStart": 89.575,
+              "audioEnd": 92.812
+            },
+            {
+              "text": "Taro felt his body grow old and weak in a single second.",
+              "audioStart": 93.675,
+              "audioEnd": 96.737
+            },
+            {
+              "text": "He fell onto the ground, finally returning to the past of history.",
+              "audioStart": 97.6,
+              "audioEnd": 101.075
+            },
+            {
+              "text": "If he had not opened the box, he would have stayed young.",
+              "audioStart": 101.938,
+              "audioEnd": 104.575
+            },
+            {
+              "text": "He has learned a hard lesson about the passage of time in this world.",
+              "audioStart": 105.438,
+              "audioEnd": 108.612
+            },
+            {
+              "text": "Many years have passed, and his family is gone.",
+              "audioStart": 109.475,
+              "audioEnd": 112.2
+            },
+            {
+              "text": "He will always remember the beautiful woman and the wonderful place under the sea.",
+              "audioStart": 113.062,
+              "audioEnd": 116.838
+            },
+            {
+              "text": "Taro will always keep these memories in his mind.",
+              "audioStart": 117.7,
+              "audioEnd": 120.213
+            },
+            {
+              "text": "The water place was very quiet and calm during his stay.",
+              "audioStart": 121.075,
+              "audioEnd": 124.037
+            },
+            {
+              "text": "He has understood that time moves fast when people are happy.",
+              "audioStart": 124.9,
+              "audioEnd": 128
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Life in the village continued without him through all those long years.",
+              "audioStart": 128.863,
+              "audioEnd": 132.262
+            },
+            {
+              "text": "The people who lived there now did not know his face or his name.",
+              "audioStart": 133.125,
+              "audioEnd": 136.15
+            },
+            {
+              "text": "He walked slowly along the beach where he had played as a boy.",
+              "audioStart": 137.012,
+              "audioEnd": 140
+            },
+            {
+              "text": "The sun came up brightly upon the water, but nothing looked familiar to him now.",
+              "audioStart": 140.863,
+              "audioEnd": 145.037
+            },
+            {
+              "text": "He sat down on a stone and thought about his mother and his old life.",
+              "audioStart": 145.9,
+              "audioEnd": 149.3
+            },
+            {
+              "text": "The heavy box remained in his hand as a reminder of his mistake.",
+              "audioStart": 150.162,
+              "audioEnd": 153.55
+            },
+            {
+              "text": "If he could change the past, he would make a different choice.",
+              "audioStart": 154.412,
+              "audioEnd": 157.45
+            },
+            {
+              "text": "He has accepted his end and the final stop of his long journey.",
+              "audioStart": 158.312,
+              "audioEnd": 161.55
+            },
+            {
+              "text": "The story of Taro remains an important lesson for everyone in the village.",
+              "audioStart": 162.412,
+              "audioEnd": 166.15
+            },
+            {
+              "text": "Children still listen to the old story when they gather near the water.",
+              "audioStart": 167.012,
+              "audioEnd": 170.238
+            },
+            {
+              "text": "They learn that being good and having time are valuable things in this life.",
+              "audioStart": 171.1,
+              "audioEnd": 174.75
+            },
+            {
+              "text": "Taro has found his final rest by the edge of the blue water.",
+              "audioStart": 175.613,
+              "audioEnd": 178.662
+            },
+            {
+              "text": "The waves wash softly against the land day after day.",
+              "audioStart": 179.525,
+              "audioEnd": 182.3
+            },
+            {
+              "text": "His name lives on in the history of the small town.",
+              "audioStart": 183.162,
+              "audioEnd": 185.637
+            },
+            {
+              "text": "Nobody will ever forget the man who traveled to the big house under the sea.",
+              "audioStart": 186.5,
+              "audioEnd": 190.15
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0195.mp3",
+      "wordTimings": "audio/b1/st-0195.timings.json",
+      "quiz": [
+        {
+          "q": "What did the children do to the small turtle?",
+          "options": [
+            "They made trouble for it.",
+            "They gave it fine food.",
+            "They took it to the sea palace."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who was the beautiful princess who welcomed Taro at the sea palace?",
+          "options": [
+            "His mother",
+            "The turtle he saved",
+            "A stranger from the village"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened when Taro opened the heavy box?",
+          "options": [
+            "He found a lot of gold.",
+            "He became a young boy again.",
+            "A white cloud of smoke came out and he grew old."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Urashima Taro was a young man who lived near the blue sea in a small village.",
+              "audioStart": 0.1,
+              "audioEnd": 4.088
+            },
+            {
+              "text": "Every day, he took his small boat out onto the water to catch fish for his family.",
+              "audioStart": 4.95,
+              "audioEnd": 9.262
+            },
+            {
+              "text": "One afternoon, while he was fishing near the coast, he saw a group of children making trouble for a small animal.",
+              "audioStart": 10.125,
+              "audioEnd": 16.025
+            },
+            {
+              "text": "Taro felt very sorry for the poor creature, so he walked over and asked the kids to leave it alone.",
+              "audioStart": 16.887,
+              "audioEnd": 22.137
+            },
+            {
+              "text": "The kind man picked up the animal and put it safely back into the blue sea.",
+              "audioStart": 23,
+              "audioEnd": 26.875
+            },
+            {
+              "text": "The creature swam away happily, but it turned around once and looked back at Taro with a smart expression.",
+              "audioStart": 27.738,
+              "audioEnd": 33.212
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The next day, while Taro was sitting in his boat, the same animal appeared near the surface of the water.",
+              "audioStart": 34.075,
+              "audioEnd": 39.462
+            },
+            {
+              "text": "The creature spoke to him and invited him to visit the wonderful sea building which stood deep under the waves.",
+              "audioStart": 40.325,
+              "audioEnd": 45.5
+            },
+            {
+              "text": "Taro was very surprised, but he climbed onto the shell of the large creature and began his journey.",
+              "audioStart": 46.362,
+              "audioEnd": 51.312
+            },
+            {
+              "text": "They went down through the cool water until they reached a grand castle made of white stone and gold.",
+              "audioStart": 52.175,
+              "audioEnd": 56.788
+            },
+            {
+              "text": "A beautiful woman came out to the door to welcome him, because she was actually the animal that he had saved.",
+              "audioStart": 57.65,
+              "audioEnd": 63.013
+            },
+            {
+              "text": "She thanked him for his help and offered him fine food and wonderful music inside the wondrous place.",
+              "audioStart": 63.875,
+              "audioEnd": 69.125
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man stayed in the sea building for what seemed like a few days, and he enjoyed every single moment.",
+              "audioStart": 69.987,
+              "audioEnd": 75.237
+            },
+            {
+              "text": "However, after a short period, Taro began to feel sad for his mother and his small village.",
+              "audioStart": 76.1,
+              "audioEnd": 81.325
+            },
+            {
+              "text": "He told the woman that he must return home, though he was quite sad to leave her and the lovely area.",
+              "audioStart": 82.188,
+              "audioEnd": 87.25
+            },
+            {
+              "text": "The woman gave him a heavy box, but she told him that he must never open it under any condition.",
+              "audioStart": 88.112,
+              "audioEnd": 93.225
+            },
+            {
+              "text": "Taro rode back on the animal until he reached the familiar beach where he had started his adventure.",
+              "audioStart": 94.088,
+              "audioEnd": 98.963
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When he stepped onto the land, he looked around with a confused face, because everything had changed completely.",
+              "audioStart": 99.825,
+              "audioEnd": 105.525
+            },
+            {
+              "text": "The houses were different, the people were strangers, and nobody remembered his family or his name.",
+              "audioStart": 106.388,
+              "audioEnd": 111.625
+            },
+            {
+              "text": "He soon realized that hundreds of years had passed on earth while he was away in the sea building.",
+              "audioStart": 112.487,
+              "audioEnd": 117.037
+            },
+            {
+              "text": "Feeling very sad and full of sorrow, the old man forgot the warning of the woman and opened the hidden box.",
+              "audioStart": 117.9,
+              "audioEnd": 123.55
+            },
+            {
+              "text": "A white cloud of smoke came out of the container and rose quickly up toward the open sky.",
+              "audioStart": 124.412,
+              "audioEnd": 128.838
+            },
+            {
+              "text": "Taro felt his body grow old and weak in a single second as the power took effect.",
+              "audioStart": 129.7,
+              "audioEnd": 134.075
+            },
+            {
+              "text": "He fell softly onto the sand, finally returning to the dust of history where his true time waited.",
+              "audioStart": 134.938,
+              "audioEnd": 140
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many years before these events, the village had grown around the bay where the blue water met the land.",
+              "audioStart": 140.863,
+              "audioEnd": 145.938
+            },
+            {
+              "text": "People lived peaceful lives and worked hard every single week to build their futures.",
+              "audioStart": 146.8,
+              "audioEnd": 151.4
+            },
+            {
+              "text": "Taro was just a simple person who loved his family and cared for the sea around his home.",
+              "audioStart": 152.262,
+              "audioEnd": 156.738
+            },
+            {
+              "text": "Whenever he went out in his boat, he always watched the waves and thought about the mysteries of the world.",
+              "audioStart": 157.6,
+              "audioEnd": 162.6
+            },
+            {
+              "text": "The ocean was deep and full of life, providing food and support for everyone in the community.",
+              "audioStart": 163.463,
+              "audioEnd": 168.475
+            },
+            {
+              "text": "No one could have guessed that a simple act of kindness would change his life forever.",
+              "audioStart": 169.338,
+              "audioEnd": 173.387
+            },
+            {
+              "text": "When he saved the small creature, he started a chain of events that led him into a different dimension of reality.",
+              "audioStart": 174.25,
+              "audioEnd": 179.9
+            },
+            {
+              "text": "The grand castle under the waves was more beautiful than anything he had ever imagined before.",
+              "audioStart": 180.762,
+              "audioEnd": 185.525
+            },
+            {
+              "text": "Music played softly through the halls, and the food tasted better than the meals in his mother house.",
+              "audioStart": 186.387,
+              "audioEnd": 191.463
+            },
+            {
+              "text": "He spent hours walking through the gardens and talking with the woman who ruled the underwater palace.",
+              "audioStart": 192.325,
+              "audioEnd": 196.975
+            },
+            {
+              "text": "She told him stories about the ocean and how the various creatures lived together in peace and harmony.",
+              "audioStart": 197.838,
+              "audioEnd": 202.775
+            },
+            {
+              "text": "Taro listened with great interest and felt that he had found a second home beneath the blue waves.",
+              "audioStart": 203.637,
+              "audioEnd": 208.363
+            },
+            {
+              "text": "Yet, the thought of his aging mother always remained in the back of his mind like a persistent shadow.",
+              "audioStart": 209.225,
+              "audioEnd": 214.25
+            },
+            {
+              "text": "He knew that she would worry about him if he stayed away for too much longer without sending any word.",
+              "audioStart": 215.113,
+              "audioEnd": 219.95
+            },
+            {
+              "text": "The woman understood his feelings and gave him the box as a final gift before his departure.",
+              "audioStart": 220.812,
+              "audioEnd": 225.613
+            },
+            {
+              "text": "She made him promise that he would never open it, because the container held a secret power.",
+              "audioStart": 226.475,
+              "audioEnd": 231.025
+            },
+            {
+              "text": "Taro agreed to her terms and thanked her for the wonderful time that he had experienced in the castle.",
+              "audioStart": 231.887,
+              "audioEnd": 236.875
+            },
+            {
+              "text": "The journey back to the surface was quiet and peaceful, taking him through the same cool water.",
+              "audioStart": 237.738,
+              "audioEnd": 243.632
+            },
+            {
+              "text": "When his feet touched the sand of the familiar beach, he felt a strange breeze blowing from the land.",
+              "audioStart": 244.494,
+              "audioEnd": 249.544
+            },
+            {
+              "text": "The world had moved on without him, leaving behind only memories and old stories told by strangers.",
+              "audioStart": 250.407,
+              "audioEnd": 255.595
+            },
+            {
+              "text": "Houses were rebuilt, trees grew tall, and the faces of the villagers were entirely unfamiliar to his eyes.",
+              "audioStart": 256.457,
+              "audioEnd": 262.644
+            },
+            {
+              "text": "He walked through the streets looking for someone who might remember his father or his mother.",
+              "audioStart": 263.507,
+              "audioEnd": 267.732
+            },
+            {
+              "text": "Every person he approached looked at him with surprise and told him that they had never heard his name.",
+              "audioStart": 268.594,
+              "audioEnd": 273.195
+            },
+            {
+              "text": "Realizing that time had played a cruel trick on him, he sat down on the ground and began to cry.",
+              "audioStart": 274.057,
+              "audioEnd": 279.295
+            },
+            {
+              "text": "The heavy box rested in his hands, feeling warmer than it had when the woman first placed it there.",
+              "audioStart": 280.157,
+              "audioEnd": 285.344
+            },
+            {
+              "text": "Overwhelmed by sadness and despair, he broke his promise and lifted the lid of the mysterious container.",
+              "audioStart": 286.207,
+              "audioEnd": 291.67
+            },
+            {
+              "text": "White smoke poured out into the air, carrying away the last remaining years of his youth in an instant.",
+              "audioStart": 292.532,
+              "audioEnd": 297.832
+            },
+            {
+              "text": "His skin grew wrinkled, his hair turned white, and his bones became weak as the years caught up with him.",
+              "audioStart": 298.695,
+              "audioEnd": 304.232
+            },
+            {
+              "text": "He lay down upon the sand and closed his eyes, drifting into a deep sleep that would last forever.",
+              "audioStart": 305.094,
+              "audioEnd": 310.382
+            },
+            {
+              "text": "The sea continued to crash against the shore, washing away the footprints of the man who had traveled through time.",
+              "audioStart": 311.245,
+              "audioEnd": 316.807
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0195.mp3",
+      "wordTimings": "audio/b2/st-0195.timings.json",
+      "quiz": [
+        {
+          "q": "What did Urashima Taro do for the turtle at the beginning of the story?",
+          "options": [
+            "He saved it from some children.",
+            "He caught it for dinner.",
+            "He bought it from a market."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where did the turtle take Taro after they met again?",
+          "options": [
+            "To a mountain castle",
+            "To a sea palace under the waves",
+            "To a secret city in the forest"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened when Taro opened the box at the end of the story?",
+          "options": [
+            "He found gold and money inside.",
+            "He became old very quickly.",
+            "He was able to return to the sea palace."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Many years before these profound events unfolded, a quiet fishing village had grown organically around the azure bay where the deep blue water met the jagged land.",
+              "audioStart": 0.1,
+              "audioEnd": 8.45
+            },
+            {
+              "text": "Here, humble people lived peaceful lives and worked hard every single week to build sustainable futures for their growing families.",
+              "audioStart": 9.312,
+              "audioEnd": 16.387
+            },
+            {
+              "text": "Taro was merely a simple young man who loved his elderly mother dearly and cared deeply for the vast ocean surrounding his modest home.",
+              "audioStart": 17.25,
+              "audioEnd": 24.262
+            },
+            {
+              "text": "Whenever he pushed his wooden boat out into the open water, he always watched the rolling waves and pondered the ancient mysteries of the world.",
+              "audioStart": 25.125,
+              "audioEnd": 32.013
+            },
+            {
+              "text": "The ocean was unimaginably deep and full of vibrant life, providing daily sustenance and quiet comfort for everyone in the coastal community.",
+              "audioStart": 32.875,
+              "audioEnd": 40.375
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every single day without fail, he took his small boat out onto the water to catch fish for his dependent family.",
+              "audioStart": 41.237,
+              "audioEnd": 47.062
+            },
+            {
+              "text": "One lazy afternoon, while he was fishing near the rocky coast, he noticed a group of cruel children making trouble for a small, defenseless creature.",
+              "audioStart": 47.925,
+              "audioEnd": 56.138
+            },
+            {
+              "text": "Taro felt an immediate pang of sorrow for the poor creature, so he walked over and firmly asked the kids to leave it alone.",
+              "audioStart": 57,
+              "audioEnd": 63.362
+            },
+            {
+              "text": "The kind man carefully picked up the frightened animal and placed it safely back into the cool blue sea where it belonged.",
+              "audioStart": 64.225,
+              "audioEnd": 70.15
+            },
+            {
+              "text": "The creature swam away happily into the depths, but before disappearing completely, it turned around once and looked back at Taro with a surprisingly smart expression.",
+              "audioStart": 71.013,
+              "audioEnd": 80.062
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "No one in the village could have guessed that a simple act of spontaneous kindness would alter the entire trajectory of his life forever.",
+              "audioStart": 80.925,
+              "audioEnd": 87.8
+            },
+            {
+              "text": "When he saved that small sea creature, he unknowingly started a chain of extraordinary events that led him straight into a different dimension of reality.",
+              "audioStart": 88.662,
+              "audioEnd": 96.375
+            },
+            {
+              "text": "The next day, while Taro was sitting alone in his boat, the exact same animal appeared near the sparkling surface of the water.",
+              "audioStart": 97.237,
+              "audioEnd": 104.05
+            },
+            {
+              "text": "The grateful creature spoke directly to him in a gentle voice and invited him to visit the wonderful sea building standing deep under the mysterious waves.",
+              "audioStart": 104.912,
+              "audioEnd": 112.588
+            },
+            {
+              "text": "Taro was thoroughly surprised by this impossible invitation, but without a moment of hesitation, he climbed onto the shell of the large creature and began his improbable journey.",
+              "audioStart": 113.45,
+              "audioEnd": 122.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They descended slowly through the cool, shimmering water until they finally reached a grand castle constructed entirely of white stone and gleaming gold.",
+              "audioStart": 123.487,
+              "audioEnd": 131.525
+            },
+            {
+              "text": "A remarkably beautiful woman emerged from the majestic doorway to warmly welcome him, revealing herself to be none other than the grateful animal he had rescued the day before.",
+              "audioStart": 132.387,
+              "audioEnd": 141.637
+            },
+            {
+              "text": "She thanked him sincerely for his timely help and offered him fine food and wonderful music inside the wondrous palace.",
+              "audioStart": 142.5,
+              "audioEnd": 148.762
+            },
+            {
+              "text": "The grand castle under the waves was vastly more beautiful than anything he had ever imagined seeing during his ordinary life on land.",
+              "audioStart": 149.625,
+              "audioEnd": 156.45
+            },
+            {
+              "text": "Soft music played continuously through the vaulted halls, and the exotic food tasted much better than the simple meals in his mother house.",
+              "audioStart": 157.312,
+              "audioEnd": 164.812
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He spent countless hours walking through the breathtaking gardens and talking intimately with the mysterious woman who ruled the underwater palace.",
+              "audioStart": 165.675,
+              "audioEnd": 172.575
+            },
+            {
+              "text": "She told him fascinating stories about the deep ocean and how the various marine creatures lived together in perfect peace and complete harmony.",
+              "audioStart": 173.438,
+              "audioEnd": 180.613
+            },
+            {
+              "text": "Taro listened with great interest to every word she spoke and felt deep down that he had somehow found a second home beneath the blue waves.",
+              "audioStart": 181.475,
+              "audioEnd": 188.25
+            },
+            {
+              "text": "The man stayed in the wondrous sea building for what felt like only a few days, and he thoroughly enjoyed every single magical moment.",
+              "audioStart": 189.113,
+              "audioEnd": 196
+            },
+            {
+              "text": "However, after this brief period had passed, Taro began to feel a sudden wave of sadness for his aging mother and his small village.",
+              "audioStart": 196.863,
+              "audioEnd": 204.363
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The persistent thought of his mother always remained in the back of his mind like a quiet shadow, reminding him of his familial duties.",
+              "audioStart": 205.225,
+              "audioEnd": 211.963
+            },
+            {
+              "text": "He knew quite well that she would worry endlessly about him if he stayed away for too much longer without sending any reassuring word.",
+              "audioStart": 212.825,
+              "audioEnd": 219.35
+            },
+            {
+              "text": "He politely told the woman that he must return home immediately, though he was quite sad to leave her and the lovely underwater domain behind.",
+              "audioStart": 220.213,
+              "audioEnd": 227.312
+            },
+            {
+              "text": "The understanding woman listened to his plea and gave him a heavy, ornate box as a final parting gift before his departure.",
+              "audioStart": 228.175,
+              "audioEnd": 235.767
+            },
+            {
+              "text": "However, she made him promise solemnly that he must never open the mysterious container under any condition whatsoever.",
+              "audioStart": 236.63,
+              "audioEnd": 243.017
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Taro agreed completely to her strict terms and thanked her profusely for the wonderful time that he had experienced within her magnificent castle.",
+              "audioStart": 243.88,
+              "audioEnd": 251.267
+            },
+            {
+              "text": "The journey back to the surface was remarkably quiet and peaceful, taking him smoothly through the same cool water that had brought him down.",
+              "audioStart": 252.13,
+              "audioEnd": 259.13
+            },
+            {
+              "text": "When his tired feet finally touched the familiar sand of the beach where he had started, he felt a strange, cold breeze blowing harshly from the land.",
+              "audioStart": 259.992,
+              "audioEnd": 267.904
+            },
+            {
+              "text": "He rode back steadily on the faithful animal until he reached the exact shore, stepping out into a world that felt entirely alien to his senses.",
+              "audioStart": 268.767,
+              "audioEnd": 276.93
+            },
+            {
+              "text": "When he stepped onto the dry land, he looked around with a deeply confused face, because everything had changed completely while he was away.",
+              "audioStart": 277.792,
+              "audioEnd": 285.017
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The familiar houses were entirely different, the people walking past were complete strangers, and nobody remembered his family or his proud name.",
+              "audioStart": 285.88,
+              "audioEnd": 293.967
+            },
+            {
+              "text": "He wandered aimlessly through the unfamiliar streets looking for someone who might recognize his father or remember his mother.",
+              "audioStart": 294.829,
+              "audioEnd": 300.93
+            },
+            {
+              "text": "Every single person he approached looked at him with sudden surprise and told him firmly that they had never heard his name before.",
+              "audioStart": 301.792,
+              "audioEnd": 308.067
+            },
+            {
+              "text": "He soon realized with mounting horror that hundreds of years had passed on earth while he was away living inside the magical sea building.",
+              "audioStart": 308.93,
+              "audioEnd": 315.529
+            },
+            {
+              "text": "The world had moved on relentlessly without him, leaving behind only forgotten memories and old, faded stories told by passing strangers.",
+              "audioStart": 316.392,
+              "audioEnd": 323.604
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Houses had been completely rebuilt, tall trees had grown and died, and the faces of the villagers were entirely unfamiliar to his tired eyes.",
+              "audioStart": 324.467,
+              "audioEnd": 332.492
+            },
+            {
+              "text": "Realizing fully that time had played a cruel and irreversible trick on him, he sat down heavily on the cold ground and began to cry.",
+              "audioStart": 333.354,
+              "audioEnd": 340.567
+            },
+            {
+              "text": "Feeling very sad and full of unbearable sorrow, the weary old man completely forgot the solemn warning of the woman and opened the hidden box.",
+              "audioStart": 341.43,
+              "audioEnd": 348.967
+            },
+            {
+              "text": "The heavy box rested in his trembling hands, feeling noticeably warmer than it had when the woman first placed it into his care.",
+              "audioStart": 349.829,
+              "audioEnd": 356.717
+            },
+            {
+              "text": "A thick white cloud of smoke billowed out of the opened container and rose quickly up toward the open, indifferent sky.",
+              "audioStart": 357.579,
+              "audioEnd": 363.567
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Taro felt his physical body grow old, frail, and weak in a single fraction of a second as the hidden power of the box took immediate effect.",
+              "audioStart": 364.43,
+              "audioEnd": 372.154
+            },
+            {
+              "text": "His skin grew deeply wrinkled, his hair turned stark white, and his bones became painfully weak as the stolen centuries caught up with him at last.",
+              "audioStart": 373.017,
+              "audioEnd": 380.979
+            },
+            {
+              "text": "Overwhelmed entirely by sudden despair, he fell softly onto the warm sand, finally returning to the dust of history where his true time had always waited.",
+              "audioStart": 381.842,
+              "audioEnd": 390.367
+            },
+            {
+              "text": "He lay down peacefully upon the shore and closed his heavy eyes, drifting slowly into a deep, unending sleep that would last forever.",
+              "audioStart": 391.229,
+              "audioEnd": 398.529
+            },
+            {
+              "text": "The vast ocean continued to crash rhythmically against the shore, washing away the final footprints of the man who had traveled far beyond the borders of mortal time.",
+              "audioStart": 399.392,
+              "audioEnd": 407.967
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0195.mp3",
+      "wordTimings": "audio/c1/st-0195.timings.json",
+      "quiz": [
+        {
+          "q": "Why did the woman at the underwater palace give Taro a heavy box?",
+          "options": [
+            "As a farewell gift when he insisted on returning home",
+            "As a payment for saving her life earlier",
+            "To help him buy a new boat on the surface"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What realization struck Taro immediately after he stepped back onto the land?",
+          "options": [
+            "That his mother had moved to another distant country",
+            "That hundreds of years had passed while he was underwater",
+            "That the children had finally learned their lesson about cruelty"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What specific consequence followed immediately after Taro lifted the lid of the box?",
+          "options": [
+            "A fierce storm destroyed his small wooden boat",
+            "White smoke poured out and aged him instantly",
+            "The underwater castle vanished beneath the waves"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

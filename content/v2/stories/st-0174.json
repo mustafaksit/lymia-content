@@ -1,0 +1,1361 @@
+{
+  "id": "st-0174",
+  "title": "The Wild Swans",
+  "genre": "classic",
+  "summary": "A girl must craft magical items to free her brothers turned into swans.",
+  "coverScene": "A young princess weaves shirts from green leaves while white swans fly near a stone castle.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A man is a leader in a house.",
+              "audioStart": 0.106,
+              "audioEnd": 1.856
+            },
+            {
+              "text": "He has many children.",
+              "audioStart": 2.819,
+              "audioEnd": 4.167
+            },
+            {
+              "text": "The oldest children are eleven boys.",
+              "audioStart": 5.125,
+              "audioEnd": 7.486
+            },
+            {
+              "text": "The youngest child is Kizkardes.",
+              "audioStart": 8.444,
+              "audioEnd": 10.458
+            },
+            {
+              "text": "They are all very well.",
+              "audioStart": 11.417,
+              "audioEnd": 12.764
+            },
+            {
+              "text": "A new mother comes.",
+              "audioStart": 13.722,
+              "audioEnd": 14.986
+            },
+            {
+              "text": "She is a bad person.",
+              "audioStart": 15.944,
+              "audioEnd": 17.333
+            },
+            {
+              "text": "She sends Kizkardes away.",
+              "audioStart": 18.292,
+              "audioEnd": 19.972
+            },
+            {
+              "text": "She changes the eleven boys into big animals.",
+              "audioStart": 20.931,
+              "audioEnd": 23.778
+            },
+            {
+              "text": "The big animals go far away.",
+              "audioStart": 24.736,
+              "audioEnd": 26.542
+            },
+            {
+              "text": "Kizkardes grows old.",
+              "audioStart": 27.5,
+              "audioEnd": 28.889
+            },
+            {
+              "text": "She returns to the house.",
+              "audioStart": 29.847,
+              "audioEnd": 31.431
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She walks through a forest.",
+              "audioStart": 32.389,
+              "audioEnd": 33.931
+            },
+            {
+              "text": "She sees the big animals.",
+              "audioStart": 34.889,
+              "audioEnd": 36.514
+            },
+            {
+              "text": "The animals become men at night.",
+              "audioStart": 37.472,
+              "audioEnd": 39.431
+            },
+            {
+              "text": "They talk about a problem.",
+              "audioStart": 40.389,
+              "audioEnd": 41.847
+            },
+            {
+              "text": "Kizkardes must make eleven things to put on.",
+              "audioStart": 42.806,
+              "audioEnd": 45.403
+            },
+            {
+              "text": "She uses small plants.",
+              "audioStart": 46.361,
+              "audioEnd": 47.958
+            },
+            {
+              "text": "She cannot speak a word.",
+              "audioStart": 48.917,
+              "audioEnd": 50.403
+            },
+            {
+              "text": "The girl works day and night.",
+              "audioStart": 51.361,
+              "audioEnd": 52.986
+            },
+            {
+              "text": "She sits in a small room.",
+              "audioStart": 53.944,
+              "audioEnd": 55.5
+            },
+            {
+              "text": "A leader finds her.",
+              "audioStart": 56.458,
+              "audioEnd": 57.708
+            },
+            {
+              "text": "He brings her to his big house.",
+              "audioStart": 58.667,
+              "audioEnd": 60.486
+            },
+            {
+              "text": "The leader loves her.",
+              "audioStart": 61.444,
+              "audioEnd": 62.694
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Bad people say she is bad.",
+              "audioStart": 63.653,
+              "audioEnd": 65.403
+            },
+            {
+              "text": "They bring her to a place.",
+              "audioStart": 66.361,
+              "audioEnd": 67.917
+            },
+            {
+              "text": "She holds the things to put on.",
+              "audioStart": 68.875,
+              "audioEnd": 70.625
+            },
+            {
+              "text": "Eleven big animals come down.",
+              "audioStart": 71.583,
+              "audioEnd": 73.486
+            },
+            {
+              "text": "Kizkardes gives the things to put on.",
+              "audioStart": 74.444,
+              "audioEnd": 76.514
+            },
+            {
+              "text": "The problem ends.",
+              "audioStart": 77.472,
+              "audioEnd": 78.639
+            },
+            {
+              "text": "The boys stand up.",
+              "audioStart": 79.597,
+              "audioEnd": 80.833
+            },
+            {
+              "text": "One boy has a part of a body like an animal.",
+              "audioStart": 81.792,
+              "audioEnd": 84.389
+            },
+            {
+              "text": "The family lives well.",
+              "audioStart": 85.347,
+              "audioEnd": 86.778
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0174.mp3",
+      "wordTimings": "audio/a1/st-0174.timings.json",
+      "quiz": [
+        {
+          "q": "Who is the youngest child?",
+          "options": [
+            "Kizkardes",
+            "The king",
+            "The queen"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the queen change the brothers into?",
+          "options": [
+            "Dogs",
+            "Swans",
+            "Men"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What must Kizkardes make?",
+          "options": [
+            "Eleven shirts",
+            "A house",
+            "A boat"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a man lived in a great house.",
+              "audioStart": 0.106,
+              "audioEnd": 3.092
+            },
+            {
+              "text": "He lived there with his children.",
+              "audioStart": 4.056,
+              "audioEnd": 5.708
+            },
+            {
+              "text": "The oldest children were eleven brothers.",
+              "audioStart": 6.667,
+              "audioEnd": 9
+            },
+            {
+              "text": "The youngest child was a good girl named Kizkardes.",
+              "audioStart": 9.958,
+              "audioEnd": 12.958
+            },
+            {
+              "text": "They were very happy until a bad new mother came.",
+              "audioStart": 13.917,
+              "audioEnd": 16.736
+            },
+            {
+              "text": "The woman did not love the children.",
+              "audioStart": 17.694,
+              "audioEnd": 19.569
+            },
+            {
+              "text": "She sent the young girl away to a place far off.",
+              "audioStart": 20.528,
+              "audioEnd": 23.264
+            },
+            {
+              "text": "The bad woman also changed the eleven brothers into animals.",
+              "audioStart": 24.222,
+              "audioEnd": 27.889
+            },
+            {
+              "text": "The big animals flew far away across the water.",
+              "audioStart": 28.847,
+              "audioEnd": 31.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Kizkardes grew older and returned to find her family.",
+              "audioStart": 32.583,
+              "audioEnd": 35.556
+            },
+            {
+              "text": "She walked through a deep forest.",
+              "audioStart": 36.514,
+              "audioEnd": 38.389
+            },
+            {
+              "text": "Then she saw the beautiful animals near the sea.",
+              "audioStart": 39.347,
+              "audioEnd": 41.986
+            },
+            {
+              "text": "The animals turned back into men when the light went down.",
+              "audioStart": 42.944,
+              "audioEnd": 46.153
+            },
+            {
+              "text": "They told her about a dark problem.",
+              "audioStart": 47.111,
+              "audioEnd": 48.986
+            },
+            {
+              "text": "Only a great deal could break it.",
+              "audioStart": 49.944,
+              "audioEnd": 51.861
+            },
+            {
+              "text": "Kizkardes had to make eleven clothes from green plants.",
+              "audioStart": 52.819,
+              "audioEnd": 56.014
+            },
+            {
+              "text": "She could never speak a single word until she finished.",
+              "audioStart": 56.972,
+              "audioEnd": 59.986
+            },
+            {
+              "text": "The good girl began to pick the green leaves.",
+              "audioStart": 60.944,
+              "audioEnd": 63.458
+            },
+            {
+              "text": "She worked day and night without rest.",
+              "audioStart": 64.417,
+              "audioEnd": 66.542
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She sat in a room all alone.",
+              "audioStart": 67.5,
+              "audioEnd": 69.264
+            },
+            {
+              "text": "A young man found her during a trip.",
+              "audioStart": 70.222,
+              "audioEnd": 72.208
+            },
+            {
+              "text": "He brought her to his house as his wife.",
+              "audioStart": 73.167,
+              "audioEnd": 75.361
+            },
+            {
+              "text": "The man loved her nice face very much.",
+              "audioStart": 76.319,
+              "audioEnd": 78.792
+            },
+            {
+              "text": "Bad people in the house told the man she was bad.",
+              "audioStart": 79.75,
+              "audioEnd": 82.542
+            },
+            {
+              "text": "They led her to a high public place.",
+              "audioStart": 83.5,
+              "audioEnd": 85.667
+            },
+            {
+              "text": "She would not answer their questions.",
+              "audioStart": 86.625,
+              "audioEnd": 88.667
+            },
+            {
+              "text": "The good girl held the green clothes.",
+              "audioStart": 89.625,
+              "audioEnd": 91.75
+            },
+            {
+              "text": "Eleven animals flew down from the top.",
+              "audioStart": 92.708,
+              "audioEnd": 95.014
+            },
+            {
+              "text": "Kizkardes threw the green clothes over the big animals.",
+              "audioStart": 95.972,
+              "audioEnd": 99.014
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The problem broke.",
+              "audioStart": 99.972,
+              "audioEnd": 101.097
+            },
+            {
+              "text": "The eleven brothers stood up as good young men.",
+              "audioStart": 102.056,
+              "audioEnd": 104.611
+            },
+            {
+              "text": "The youngest brother still had one animal hand.",
+              "audioStart": 105.569,
+              "audioEnd": 108.278
+            },
+            {
+              "text": "His clothes lacked a part.",
+              "audioStart": 109.236,
+              "audioEnd": 110.861
+            },
+            {
+              "text": "The family lived happily ever after.",
+              "audioStart": 111.819,
+              "audioEnd": 114.139
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0174.mp3",
+      "wordTimings": "audio/a2/st-0174.timings.json",
+      "quiz": [
+        {
+          "q": "Who sent Kizkardes away to a farm?",
+          "options": [
+            "The bad new queen",
+            "The young king",
+            "Her eleven brothers"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did Kizkardes have to make from green plants?",
+          "options": [
+            "Eleven shirts",
+            "A small house",
+            "Several large boats"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the youngest brother at the end?",
+          "options": [
+            "He stayed a swan forever",
+            "He still had one swan wing",
+            "He left the country"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a king lived in a great house with his dear children.",
+              "audioStart": 0.1,
+              "audioEnd": 3.85
+            },
+            {
+              "text": "The older children were eleven brothers.",
+              "audioStart": 4.713,
+              "audioEnd": 6.75
+            },
+            {
+              "text": "The youngest was a sweet little girl named Kizkardes.",
+              "audioStart": 7.612,
+              "audioEnd": 10.238
+            },
+            {
+              "text": "They were very happy until a bad new head came into their lives.",
+              "audioStart": 11.1,
+              "audioEnd": 14.325
+            },
+            {
+              "text": "The woman did not love the children.",
+              "audioStart": 15.188,
+              "audioEnd": 16.875
+            },
+            {
+              "text": "She sent the young girl away to a farm.",
+              "audioStart": 17.738,
+              "audioEnd": 19.725
+            },
+            {
+              "text": "The bad head also changed the eleven brothers into wild birds with a dark spell.",
+              "audioStart": 20.587,
+              "audioEnd": 24.938
+            },
+            {
+              "text": "The big birds flew far away across the water into another country.",
+              "audioStart": 25.8,
+              "audioEnd": 29.35
+            },
+            {
+              "text": "When Kizkardes grew older, she returned to the house to find her family.",
+              "audioStart": 30.212,
+              "audioEnd": 33.975
+            },
+            {
+              "text": "She walked through a deep forest until she saw the beautiful birds near the sea.",
+              "audioStart": 34.837,
+              "audioEnd": 38.65
+            },
+            {
+              "text": "The birds turned back into men when the sun went down behind the mountains.",
+              "audioStart": 39.513,
+              "audioEnd": 43.15
+            },
+            {
+              "text": "They told her about the dark spell which could only be broken by a great work.",
+              "audioStart": 44.013,
+              "audioEnd": 47.788
+            },
+            {
+              "text": "Kizkardes had to make eleven shirts from green plants that grew near the dark holes.",
+              "audioStart": 48.65,
+              "audioEnd": 52.812
+            },
+            {
+              "text": "She could never speak a single word until every shirt was completely finished.",
+              "audioStart": 53.675,
+              "audioEnd": 57.737
+            },
+            {
+              "text": "The strong girl began to pick the green leaves and work day and night without rest.",
+              "audioStart": 58.6,
+              "audioEnd": 62.788
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She sat in a quiet place and made the clothes with her own hands.",
+              "audioStart": 63.65,
+              "audioEnd": 67.05
+            },
+            {
+              "text": "A young king found her during a hunting trip.",
+              "audioStart": 67.912,
+              "audioEnd": 70.088
+            },
+            {
+              "text": "He brought her to his big house as his wife.",
+              "audioStart": 70.95,
+              "audioEnd": 73.15
+            },
+            {
+              "text": "Even though she never spoke to him, the king loved her nice face very much.",
+              "audioStart": 74.013,
+              "audioEnd": 77.975
+            },
+            {
+              "text": "Some bad people in the house told the king that his wife was a bad person.",
+              "audioStart": 78.838,
+              "audioEnd": 82.588
+            },
+            {
+              "text": "They led her to a high public square because she would not answer their questions.",
+              "audioStart": 83.45,
+              "audioEnd": 87.287
+            },
+            {
+              "text": "While the people watched from below, the strong girl held the green shirts in her hands.",
+              "audioStart": 88.15,
+              "audioEnd": 92.45
+            },
+            {
+              "text": "Eleven wild birds flew down from the sky and stood around her on the ground.",
+              "audioStart": 93.312,
+              "audioEnd": 97.138
+            },
+            {
+              "text": "Kizkardes threw the green shirts over the big birds just in time.",
+              "audioStart": 98,
+              "audioEnd": 101.25
+            },
+            {
+              "text": "The spell broke, and the eleven brothers stood up as healthy young men again.",
+              "audioStart": 102.112,
+              "audioEnd": 106
+            },
+            {
+              "text": "The youngest brother still had one bird part because his shirt lacked a hand cover.",
+              "audioStart": 106.862,
+              "audioEnd": 111.013
+            },
+            {
+              "text": "The woman's dark plan failed completely.",
+              "audioStart": 111.875,
+              "audioEnd": 114.075
+            },
+            {
+              "text": "The family lived happily ever after.",
+              "audioStart": 114.938,
+              "audioEnd": 117.025
+            },
+            {
+              "text": "If she had not finished the work, the spell would have stayed forever.",
+              "audioStart": 117.888,
+              "audioEnd": 121.138
+            },
+            {
+              "text": "Now the brothers have returned to their home.",
+              "audioStart": 122,
+              "audioEnd": 123.963
+            },
+            {
+              "text": "They have lived together in peace since that day.",
+              "audioStart": 124.825,
+              "audioEnd": 127.112
+            },
+            {
+              "text": "The king has understood the truth about his dear wife.",
+              "audioStart": 127.975,
+              "audioEnd": 130.65
+            },
+            {
+              "text": "They have built a wonderful life in the great house.",
+              "audioStart": 131.512,
+              "audioEnd": 133.988
+            },
+            {
+              "text": "Every person in the country has known their story well.",
+              "audioStart": 134.85,
+              "audioEnd": 137.488
+            },
+            {
+              "text": "The young girl has shown great strength and love for her family.",
+              "audioStart": 138.35,
+              "audioEnd": 141.387
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0174.mp3",
+      "wordTimings": "audio/b1/st-0174.timings.json",
+      "quiz": [
+        {
+          "q": "What did the wicked queen change the eleven brothers into?",
+          "options": [
+            "Wild birds",
+            "Big dogs",
+            "Small fish"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What material did Kizkardes use to make the eleven shirts?",
+          "options": [
+            "Green plants",
+            "White paper",
+            "Red clothes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What rule did Kizkardes have to follow while making the shirts?",
+          "options": [
+            "She could never speak a single word",
+            "She could never leave the dark cave",
+            "She could never see her brothers"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a king lived in a great house with his dear children.",
+              "audioStart": 0.1,
+              "audioEnd": 3.85
+            },
+            {
+              "text": "The oldest children were eleven brothers, and the youngest was a sweet little girl named Kizkardes.",
+              "audioStart": 4.713,
+              "audioEnd": 9.838
+            },
+            {
+              "text": "They were very happy until a bad new leader came into their lives.",
+              "audioStart": 10.7,
+              "audioEnd": 14.012
+            },
+            {
+              "text": "The leader did not love the children, and she sent the young girl away to a farm.",
+              "audioStart": 14.875,
+              "audioEnd": 18.863
+            },
+            {
+              "text": "The terrible leader also changed the eleven brothers into wild birds with a dark spell.",
+              "audioStart": 19.725,
+              "audioEnd": 24.275
+            },
+            {
+              "text": "The big birds flew far away across the water into another country.",
+              "audioStart": 25.137,
+              "audioEnd": 28.688
+            },
+            {
+              "text": "When Kizkardes grew older, she returned to the house to find her family.",
+              "audioStart": 29.55,
+              "audioEnd": 33.312
+            },
+            {
+              "text": "She walked through a deep forest until she saw the beautiful birds near the sea.",
+              "audioStart": 34.175,
+              "audioEnd": 37.987
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The birds turned back into men when the sun went down behind the mountains.",
+              "audioStart": 38.85,
+              "audioEnd": 42.487
+            },
+            {
+              "text": "They told her about the severe spell which could only be broken by a great effort.",
+              "audioStart": 43.35,
+              "audioEnd": 47.212
+            },
+            {
+              "text": "Kizkardes had to make eleven shirts from green plants that grew near the dark places.",
+              "audioStart": 48.075,
+              "audioEnd": 52.375
+            },
+            {
+              "text": "She could never speak a single word until every shirt was completely finished.",
+              "audioStart": 53.237,
+              "audioEnd": 57.3
+            },
+            {
+              "text": "The strong girl began to pick the green plants and work day and night without rest.",
+              "audioStart": 58.163,
+              "audioEnd": 62.312
+            },
+            {
+              "text": "She sat in a quiet place and made the clothes with her own hands.",
+              "audioStart": 63.175,
+              "audioEnd": 66.575
+            },
+            {
+              "text": "A young king found her during a hunting trip and brought her to his castle as his wife.",
+              "audioStart": 67.438,
+              "audioEnd": 71.638
+            },
+            {
+              "text": "Even though she never spoke to him, the king loved her gentle face very much.",
+              "audioStart": 72.5,
+              "audioEnd": 76.513
+            },
+            {
+              "text": "She worked very hard each day to finish the clothes for her brothers.",
+              "audioStart": 77.375,
+              "audioEnd": 80.85
+            },
+            {
+              "text": "She sat by the window and picked the green plants until her hands were tired.",
+              "audioStart": 81.713,
+              "audioEnd": 85.562
+            },
+            {
+              "text": "The king watched her from across the room and wondered about her silent life.",
+              "audioStart": 86.425,
+              "audioEnd": 90
+            },
+            {
+              "text": "She never made any sound, but she always showed a kind smile to him.",
+              "audioStart": 90.862,
+              "audioEnd": 94.425
+            },
+            {
+              "text": "Many people in the castle talked about her because she refused to speak.",
+              "audioStart": 95.287,
+              "audioEnd": 98.925
+            },
+            {
+              "text": "However, the king protected her from all the bad words that other people said.",
+              "audioStart": 99.787,
+              "audioEnd": 103.862
+            },
+            {
+              "text": "She continued to make the shirts because she loved her family so much.",
+              "audioStart": 104.725,
+              "audioEnd": 108.375
+            },
+            {
+              "text": "Every single plant was important to the final success of her great task.",
+              "audioStart": 109.237,
+              "audioEnd": 113.188
+            },
+            {
+              "text": "If she spoke just one word, her dear brothers would remain birds forever.",
+              "audioStart": 114.05,
+              "audioEnd": 117.975
+            },
+            {
+              "text": "Therefore, she stayed quiet and kept working through the long hours of the night.",
+              "audioStart": 118.838,
+              "audioEnd": 122.8
+            },
+            {
+              "text": "The green plants piled up around her chair as she worked without stopping.",
+              "audioStart": 123.662,
+              "audioEnd": 127.188
+            },
+            {
+              "text": "She knew that her family depended entirely on her strength and focus.",
+              "audioStart": 128.05,
+              "audioEnd": 131.713
+            },
+            {
+              "text": "The king often sat near her and tried to understand her quiet world.",
+              "audioStart": 132.575,
+              "audioEnd": 136.1
+            },
+            {
+              "text": "He brought her food and water, but she only thanked him with her eyes.",
+              "audioStart": 136.963,
+              "audioEnd": 140.363
+            },
+            {
+              "text": "The days passed quickly while she worked on the clothes in her small room.",
+              "audioStart": 141.225,
+              "audioEnd": 144.662
+            },
+            {
+              "text": "She felt tired, but her heart remained strong because of her deep love.",
+              "audioStart": 145.525,
+              "audioEnd": 149.312
+            },
+            {
+              "text": "The brothers flew near the castle every evening to check on her progress.",
+              "audioStart": 150.175,
+              "audioEnd": 153.838
+            },
+            {
+              "text": "They watched her from the sky and hoped that she would succeed soon.",
+              "audioStart": 154.7,
+              "audioEnd": 157.938
+            },
+            {
+              "text": "The time for the final test came closer with each passing week.",
+              "audioStart": 158.8,
+              "audioEnd": 162.2
+            },
+            {
+              "text": "She gathered all the finished shirts and placed them carefully in a box.",
+              "audioStart": 163.062,
+              "audioEnd": 166.75
+            },
+            {
+              "text": "Her fingers were tired from the work, but she felt happy and ready.",
+              "audioStart": 167.613,
+              "audioEnd": 171.2
+            },
+            {
+              "text": "The plan was almost complete, and her family would soon be safe again.",
+              "audioStart": 172.062,
+              "audioEnd": 175.762
+            },
+            {
+              "text": "She prepared herself for the final moment that would change everything.",
+              "audioStart": 176.625,
+              "audioEnd": 179.95
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Some bad people in the castle told the king that his wife was a bad person.",
+              "audioStart": 180.812,
+              "audioEnd": 184.713
+            },
+            {
+              "text": "They led her to a high public square because she would not answer their questions.",
+              "audioStart": 185.575,
+              "audioEnd": 189.412
+            },
+            {
+              "text": "While the people watched from below, the strong girl held the green shirts in her hands.",
+              "audioStart": 190.275,
+              "audioEnd": 194.575
+            },
+            {
+              "text": "Eleven wild birds flew down from the sky and stood around her on the ground.",
+              "audioStart": 195.438,
+              "audioEnd": 199.262
+            },
+            {
+              "text": "Kizkardes threw the green shirts over the big birds just in time.",
+              "audioStart": 200.125,
+              "audioEnd": 203.375
+            },
+            {
+              "text": "The spell broke, and the eleven brothers stood up as healthy young men again.",
+              "audioStart": 204.238,
+              "audioEnd": 208.125
+            },
+            {
+              "text": "The youngest brother still had one bird wing because his shirt lacked a part.",
+              "audioStart": 208.988,
+              "audioEnd": 212.875
+            },
+            {
+              "text": "The leader's dark plan failed completely, and the family lived happily ever after.",
+              "audioStart": 213.738,
+              "audioEnd": 218.312
+            },
+            {
+              "text": "The people in the square watched with great surprise as the birds became men.",
+              "audioStart": 219.175,
+              "audioEnd": 223
+            },
+            {
+              "text": "The king ran forward and held his wife because he finally understood everything.",
+              "audioStart": 223.863,
+              "audioEnd": 227.887
+            },
+            {
+              "text": "She looked at him and spoke her very first words with a happy smile.",
+              "audioStart": 228.75,
+              "audioEnd": 232.175
+            },
+            {
+              "text": "The king was amazed to hear her voice for the very first time.",
+              "audioStart": 233.037,
+              "audioEnd": 236.125
+            },
+            {
+              "text": "The brothers welcomed their sister and thanked her for her amazing strength.",
+              "audioStart": 236.988,
+              "audioEnd": 240.5
+            },
+            {
+              "text": "The bad people who made trouble were driven away from the castle forever.",
+              "audioStart": 241.363,
+              "audioEnd": 244.887
+            },
+            {
+              "text": "The king and his wife lived a wonderful life together with the eleven brothers.",
+              "audioStart": 245.75,
+              "audioEnd": 249.588
+            },
+            {
+              "text": "The family stayed in the great house and never experienced any more trouble.",
+              "audioStart": 250.45,
+              "audioEnd": 255.403
+            },
+            {
+              "text": "Everyone in the country celebrated the return of the strong young men.",
+              "audioStart": 256.265,
+              "audioEnd": 259.652
+            },
+            {
+              "text": "The story of Kizkardes and her brothers became famous across the whole land.",
+              "audioStart": 260.515,
+              "audioEnd": 264.34
+            },
+            {
+              "text": "People told the tale to their children for many years after that day.",
+              "audioStart": 265.202,
+              "audioEnd": 268.665
+            },
+            {
+              "text": "The power of love and family had defeated the terrible dark spell.",
+              "audioStart": 269.527,
+              "audioEnd": 272.79
+            },
+            {
+              "text": "Peace and joy returned to the country, and nothing could ever change it.",
+              "audioStart": 273.652,
+              "audioEnd": 277.277
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0174.mp3",
+      "wordTimings": "audio/b2/st-0174.timings.json",
+      "quiz": [
+        {
+          "q": "What happened to the eleven brothers because of the wicked queen?",
+          "options": [
+            "They were changed into wild swans.",
+            "They were sent to a distant school.",
+            "They became kings of another country."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What rule did Kizkardes have to follow while making the shirts?",
+          "options": [
+            "She could never speak a single word.",
+            "She had to finish them before the summer.",
+            "She was only allowed to work at night."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did Kizkardes break the spell at the end of the story?",
+          "options": [
+            "She threw the green shirts over the swans.",
+            "She spoke a magic word to the king.",
+            "She caught the birds in a large net."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In a sprawling estate of ancient stone and whispered memories, a benevolent monarch once lived surrounded by his cherished offspring.",
+              "audioStart": 0.1,
+              "audioEnd": 6.862
+            },
+            {
+              "text": "The household numbered twelve in total, comprising eleven proud brothers and their youngest sibling, a gentle girl named Kizkardes.",
+              "audioStart": 7.725,
+              "audioEnd": 14.675
+            },
+            {
+              "text": "Days drifted by in a golden haze of laughter and familial warmth until a severe, ambitious woman entered their domestic sphere.",
+              "audioStart": 15.537,
+              "audioEnd": 22.462
+            },
+            {
+              "text": "Devoid of maternal affection or genuine warmth, the newcomer viewed the royal children with cold calculation.",
+              "audioStart": 23.325,
+              "audioEnd": 29.288
+            },
+            {
+              "text": "She swiftly exiled the sweet young girl to a remote, desolate farm, severing her from the only life she had ever known.",
+              "audioStart": 30.15,
+              "audioEnd": 36.6
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Not content with mere banishment, the wicked stepmother cast a malicious spell upon the eleven brothers.",
+              "audioStart": 37.462,
+              "audioEnd": 43.038
+            },
+            {
+              "text": "In the span of a single breath, they were transformed into majestic wild birds with midnight feathers and desperate hearts.",
+              "audioStart": 43.9,
+              "audioEnd": 50.275
+            },
+            {
+              "text": "These bewildered creatures took flight, soaring across the vast expanse of the sea to seek refuge in an unfamiliar realm.",
+              "audioStart": 51.138,
+              "audioEnd": 57.65
+            },
+            {
+              "text": "Years dissolved into memory, and as Kizkardes blossomed into resilient womanhood, an irresistible urge drew her back to her ancestral home.",
+              "audioStart": 58.513,
+              "audioEnd": 66.138
+            },
+            {
+              "text": "She traversed a deep, impenetrable forest on foot until she reached the rocky coastline, where familiar silhouettes finally pierced the horizon.",
+              "audioStart": 67,
+              "audioEnd": 74.987
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As the sun dipped beneath the jagged mountain peaks, shedding its bruised gold light, the magnificent birds underwent a wondrous metamorphosis.",
+              "audioStart": 75.85,
+              "audioEnd": 83.325
+            },
+            {
+              "text": "They shed their feathers and stepped forward as flesh-and-blood men, greeting their long-lost sister with tearful, trembling embraces.",
+              "audioStart": 84.188,
+              "audioEnd": 91.312
+            },
+            {
+              "text": "Yet their reunion was shadowed by gravity, for the brothers revealed that a formidable enchantment bound them to their avian fate.",
+              "audioStart": 92.175,
+              "audioEnd": 98.625
+            },
+            {
+              "text": "Only through an act of supreme sacrifice and immense physical endurance could the cruel spell ever be permanently shattered.",
+              "audioStart": 99.487,
+              "audioEnd": 105.562
+            },
+            {
+              "text": "Kizkardes learned that she must weave eleven shirts entirely from stinging nettles gathered from dark, forgotten corners of the earth.",
+              "audioStart": 106.425,
+              "audioEnd": 113.175
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The instructions carried a heavy burden, demanding absolute silence from her lips until every single garment reached completion.",
+              "audioStart": 114.037,
+              "audioEnd": 120.9
+            },
+            {
+              "text": "Should she utter even a solitary syllable, the formidable magic would instantly seal her brothers' fate as birds forever.",
+              "audioStart": 121.763,
+              "audioEnd": 128.175
+            },
+            {
+              "text": "Without a moment of hesitation, the steadfast young woman began harvesting the rough, green plants despite the toll on her bare hands.",
+              "audioStart": 129.037,
+              "audioEnd": 136.262
+            },
+            {
+              "text": "She established a secluded sanctuary where she worked tirelessly through the shifting hours of day and night.",
+              "audioStart": 137.125,
+              "audioEnd": 142.238
+            },
+            {
+              "text": "Her dedication remained absolute, fueled solely by the desperate hope of restoring her family to their human forms.",
+              "audioStart": 143.1,
+              "audioEnd": 149.275
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Fate intervened one afternoon when a young king, tracking game through the quiet wilderness, stumbled upon her hidden refuge.",
+              "audioStart": 150.137,
+              "audioEnd": 156.875
+            },
+            {
+              "text": "Captivated by her serene grace and the quiet dignity radiating from her features, he offered her a place within his castle.",
+              "audioStart": 157.738,
+              "audioEnd": 164.463
+            },
+            {
+              "text": "She accepted his protection, though she maintained her strict vow of silence even as she crossed the threshold of her new home.",
+              "audioStart": 165.325,
+              "audioEnd": 171.475
+            },
+            {
+              "text": "The king grew deeply enamored of her gentle demeanor, often lingering in her chambers just to bask in her peaceful presence.",
+              "audioStart": 172.338,
+              "audioEnd": 178.713
+            },
+            {
+              "text": "Although he found her wordless existence profoundly mysterious, his growing affection insulated her from the rising tide of courtly gossip.",
+              "audioStart": 179.575,
+              "audioEnd": 186.9
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Envious courtiers whispered malicious speculations through the corridors, questioning the strange silence of the king's new bride.",
+              "audioStart": 187.762,
+              "audioEnd": 194.312
+            },
+            {
+              "text": "Yet the king stood resolutely between his wife and the petty detractors, shielding her with his unwavering trust and authority.",
+              "audioStart": 195.175,
+              "audioEnd": 201.637
+            },
+            {
+              "text": "Meanwhile, Kizkardes remained utterly focused on her arduous labor, sitting by the tall window as daylight waned into dusk.",
+              "audioStart": 202.5,
+              "audioEnd": 209.325
+            },
+            {
+              "text": "Her fingers grew calloused and bruised from working the stiff, prickly nettles into soft, wearable cloth.",
+              "audioStart": 210.188,
+              "audioEnd": 215.825
+            },
+            {
+              "text": "The green shirts accumulated slowly around her wooden chair, each finished seam representing a prayer for her displaced brothers.",
+              "audioStart": 216.688,
+              "audioEnd": 223.537
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every evening, the eleven brothers soared above the castle battlements, circling the high towers to check upon her grueling progress.",
+              "audioStart": 224.4,
+              "audioEnd": 231.275
+            },
+            {
+              "text": "Their silent vigilance offered her quiet comfort as she labored through the lonely hours while the rest of the citadel slept.",
+              "audioStart": 232.137,
+              "audioEnd": 237.988
+            },
+            {
+              "text": "The king often observed her from across the chamber, bringing trays of food and fresh water with tender concern.",
+              "audioStart": 238.85,
+              "audioEnd": 245.639
+            },
+            {
+              "text": "Unable to speak words of gratitude, Kizkardes would only thank him with the eloquent appreciation shining in her eyes.",
+              "audioStart": 246.502,
+              "audioEnd": 252.652
+            },
+            {
+              "text": "Weeks bled into months, and the climax of her long ordeal approached with the inexorable steady march of time.",
+              "audioStart": 253.514,
+              "audioEnd": 259.264
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At last, the final shirt was completed, and she carefully packed the woven garments into a sturdy wooden chest.",
+              "audioStart": 260.127,
+              "audioEnd": 266.44
+            },
+            {
+              "text": "Her hands throbbed with fatigue, but a profound sense of triumph warmed her chest as she prepared for the final test.",
+              "audioStart": 267.302,
+              "audioEnd": 273.427
+            },
+            {
+              "text": "Dark forces within the castle, however, made one last desperate attempt to turn the king's affection into doubt and fear.",
+              "audioStart": 274.289,
+              "audioEnd": 281.102
+            },
+            {
+              "text": "Conspiring courtiers convinced the monarch that his mute wife practiced illicit magic, pointing to her secretive habits as proof.",
+              "audioStart": 281.964,
+              "audioEnd": 289.177
+            },
+            {
+              "text": "Trapped by circumstance and unable to defend herself with spoken words, she was led toward a high public square for judgment.",
+              "audioStart": 290.039,
+              "audioEnd": 296.677
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A vast crowd gathered beneath the stone platform, whispering and pointing fingers at the pale yet resolute young woman.",
+              "audioStart": 297.539,
+              "audioEnd": 303.74
+            },
+            {
+              "text": "Kizkardes stood calm amid the hostile murmurs, clutching the bundle of green shirts tightly against her chest.",
+              "audioStart": 304.602,
+              "audioEnd": 310.339
+            },
+            {
+              "text": "Just as the officials prepared to condemn her, a rushing sound filled the air as eleven wild birds descended from the heavy clouds.",
+              "audioStart": 311.202,
+              "audioEnd": 318.089
+            },
+            {
+              "text": "They landed in a protective circle around her, beating their dark wings against the stone to keep the hostile crowd at bay.",
+              "audioStart": 318.952,
+              "audioEnd": 325.102
+            },
+            {
+              "text": "With a swift and practiced motion, Kizkardes stepped forward and threw the green shirts over the majestic creatures.",
+              "audioStart": 325.964,
+              "audioEnd": 331.852
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In an instant, the fierce enchantment shattered like fragile glass, and the eleven birds transformed back into healthy, grown men.",
+              "audioStart": 332.714,
+              "audioEnd": 339.839
+            },
+            {
+              "text": "Only the youngest brother retained a single feathered wing upon his left shoulder because his shirt had lacked a sleeve.",
+              "audioStart": 340.702,
+              "audioEnd": 346.527
+            },
+            {
+              "text": "The wicked stepmother's grand design collapsed completely, rendering her malicious efforts entirely and permanently void.",
+              "audioStart": 347.389,
+              "audioEnd": 353.99
+            },
+            {
+              "text": "Gasps of astonishment swept through the assembled crowd as the miraculous transformation unfolded before their eyes.",
+              "audioStart": 354.852,
+              "audioEnd": 360.852
+            },
+            {
+              "text": "Realizing the truth at last, the king rushed past the guards and pulled his bewildered, brave wife into a tight embrace.",
+              "audioStart": 361.714,
+              "audioEnd": 368.552
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Looking into his bewildered eyes, Kizkardes parted her lips and spoke her very first words with a radiant smile.",
+              "audioStart": 369.414,
+              "audioEnd": 375.502
+            },
+            {
+              "text": "The king stood frozen in utter amazement, hearing the sweet music of her voice for the very first time in his life.",
+              "audioStart": 376.365,
+              "audioEnd": 382.277
+            },
+            {
+              "text": "The eleven brothers crowded around their sister, offering tearful thanks for the unimaginable strength that saved them.",
+              "audioStart": 383.139,
+              "audioEnd": 389.315
+            },
+            {
+              "text": "The treacherous courtiers who had sown discord were swiftly driven from the castle gates, never to return.",
+              "audioStart": 390.177,
+              "audioEnd": 395.714
+            },
+            {
+              "text": "Peace and deep joy finally settled over the land, sealing a legendary tale of familial devotion that would echo through the ages.",
+              "audioStart": 396.577,
+              "audioEnd": 403.365
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0174.mp3",
+      "wordTimings": "audio/c1/st-0174.timings.json",
+      "quiz": [
+        {
+          "q": "What specific item did Kizkardes need to weave to break the spell?",
+          "options": [
+            "Eleven shirts made from green plants",
+            "A single royal cloak made of silk",
+            "Eleven blankets made from forest wool"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did the youngest brother retain a bird wing after the spell was broken?",
+          "options": [
+            "Because he refused to wear the shirt she made",
+            "Because his shirt was missing a sleeve",
+            "Because he was too far away from the crowd"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What condition was placed upon Kizkardes while she worked on the task?",
+          "options": [
+            "She had to live outside the castle walls",
+            "She could never speak a single word",
+            "She was forbidden from seeing her brothers"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

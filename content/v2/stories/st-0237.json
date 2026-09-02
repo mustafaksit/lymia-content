@@ -1,0 +1,1564 @@
+{
+  "id": "st-0237",
+  "title": "Treasure Island (tek epizod)",
+  "genre": "adventure",
+  "summary": "A group of friends searches for treasure while a mysterious stranger offers unexpected help.",
+  "coverScene": "A young boy looking at an old paper map on a wooden table inside a bright room near the sea.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Morning light is on the place.",
+              "audioStart": 0.106,
+              "audioEnd": 1.911
+            },
+            {
+              "text": "The group moves through big trees.",
+              "audioStart": 2.875,
+              "audioEnd": 4.792
+            },
+            {
+              "text": "Jim holds an old paper book.",
+              "audioStart": 5.75,
+              "audioEnd": 7.486
+            },
+            {
+              "text": "He looks around with much concern.",
+              "audioStart": 8.444,
+              "audioEnd": 10.431
+            },
+            {
+              "text": "The book shows a money prize.",
+              "audioStart": 11.389,
+              "audioEnd": 13.194
+            },
+            {
+              "text": "Money is there for them.",
+              "audioStart": 14.153,
+              "audioEnd": 15.486
+            },
+            {
+              "text": "Bad men come soon now.",
+              "audioStart": 16.444,
+              "audioEnd": 17.958
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Silver walks by the child.",
+              "audioStart": 18.917,
+              "audioEnd": 20.625
+            },
+            {
+              "text": "He talks in good ways.",
+              "audioStart": 21.583,
+              "audioEnd": 23.153
+            },
+            {
+              "text": "Jim follows him a bit.",
+              "audioStart": 24.111,
+              "audioEnd": 25.569
+            },
+            {
+              "text": "Bad things are near them.",
+              "audioStart": 26.528,
+              "audioEnd": 27.889
+            },
+            {
+              "text": "They go across a little water.",
+              "audioStart": 28.847,
+              "audioEnd": 30.514
+            },
+            {
+              "text": "They go up a hard high place.",
+              "audioStart": 31.472,
+              "audioEnd": 33.264
+            },
+            {
+              "text": "Trees grow big around them.",
+              "audioStart": 34.222,
+              "audioEnd": 35.792
+            },
+            {
+              "text": "Everything is still all around.",
+              "audioStart": 36.75,
+              "audioEnd": 38.486
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A big sound comes from trees.",
+              "audioStart": 39.444,
+              "audioEnd": 41.347
+            },
+            {
+              "text": "Silver stops and looks down.",
+              "audioStart": 42.306,
+              "audioEnd": 44.125
+            },
+            {
+              "text": "Jim holds his hand in doubt.",
+              "audioStart": 45.083,
+              "audioEnd": 46.75
+            },
+            {
+              "text": "A bad man comes out quick.",
+              "audioStart": 47.708,
+              "audioEnd": 49.486
+            },
+            {
+              "text": "He wears old fur body cover.",
+              "audioStart": 50.444,
+              "audioEnd": 52.264
+            },
+            {
+              "text": "The odd person says words.",
+              "audioStart": 53.222,
+              "audioEnd": 55.069
+            },
+            {
+              "text": "They do not understand him.",
+              "audioStart": 56.028,
+              "audioEnd": 57.556
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man runs toward them.",
+              "audioStart": 58.514,
+              "audioEnd": 60.014
+            },
+            {
+              "text": "He sees the friendly face.",
+              "audioStart": 60.972,
+              "audioEnd": 62.736
+            },
+            {
+              "text": "He stops and stands still.",
+              "audioStart": 63.694,
+              "audioEnd": 65.431
+            },
+            {
+              "text": "He falls down on his legs.",
+              "audioStart": 66.389,
+              "audioEnd": 68.153
+            },
+            {
+              "text": "He talks about his solitary life.",
+              "audioStart": 69.111,
+              "audioEnd": 71.361
+            },
+            {
+              "text": "His sound is hard now.",
+              "audioStart": 72.319,
+              "audioEnd": 73.694
+            },
+            {
+              "text": "He gives help to the group.",
+              "audioStart": 74.653,
+              "audioEnd": 76.056
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Jim hears the story.",
+              "audioStart": 77.014,
+              "audioEnd": 78.292
+            },
+            {
+              "text": "Wind goes through leaves.",
+              "audioStart": 79.25,
+              "audioEnd": 80.653
+            },
+            {
+              "text": "The new friend brings hope.",
+              "audioStart": 81.611,
+              "audioEnd": 83.083
+            },
+            {
+              "text": "They agree to bring him along.",
+              "audioStart": 84.042,
+              "audioEnd": 85.667
+            },
+            {
+              "text": "The team continues toward high land.",
+              "audioStart": 86.625,
+              "audioEnd": 88.806
+            },
+            {
+              "text": "Hope grows strong in minds.",
+              "audioStart": 89.764,
+              "audioEnd": 91.5
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0237.mp3",
+      "wordTimings": "audio/a1/st-0237.timings.json",
+      "quiz": [
+        {
+          "q": "What does Jim hold in his hands?",
+          "options": [
+            "A small piece of old paper",
+            "A gold coin",
+            "A big book"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who walks beside Jim?",
+          "options": [
+            "A wild man",
+            "Silver",
+            "A child"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does the wild man wear?",
+          "options": [
+            "Gold clothes",
+            "Animal skin clothes",
+            "New clothes"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The morning light moved across the small land.",
+              "audioStart": 0.106,
+              "audioEnd": 2.606
+            },
+            {
+              "text": "The boy held a small piece of old paper.",
+              "audioStart": 3.569,
+              "audioEnd": 5.931
+            },
+            {
+              "text": "He looked around the place with deep concern.",
+              "audioStart": 6.889,
+              "audioEnd": 9.403
+            },
+            {
+              "text": "The paper pointed toward a major goal.",
+              "audioStart": 10.361,
+              "audioEnd": 12.542
+            },
+            {
+              "text": "Bad men will catch them if they fail.",
+              "audioStart": 13.5,
+              "audioEnd": 15.736
+            },
+            {
+              "text": "Silver walked with the boy and smiled.",
+              "audioStart": 16.694,
+              "audioEnd": 18.847
+            },
+            {
+              "text": "He spoke in a very friendly voice.",
+              "audioStart": 19.806,
+              "audioEnd": 21.917
+            },
+            {
+              "text": "The boy knew the man well.",
+              "audioStart": 22.875,
+              "audioEnd": 24.361
+            },
+            {
+              "text": "Yet trouble could happen at any moment.",
+              "audioStart": 25.319,
+              "audioEnd": 27.514
+            },
+            {
+              "text": "They crossed a small water place together.",
+              "audioStart": 28.472,
+              "audioEnd": 30.819
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Trees grew large upon the ground.",
+              "audioStart": 31.778,
+              "audioEnd": 33.694
+            },
+            {
+              "text": "Everything remained good around them.",
+              "audioStart": 34.653,
+              "audioEnd": 36.542
+            },
+            {
+              "text": "Suddenly, a sound came from the area.",
+              "audioStart": 37.5,
+              "audioEnd": 39.833
+            },
+            {
+              "text": "Silver stopped and looked closely.",
+              "audioStart": 40.792,
+              "audioEnd": 42.847
+            },
+            {
+              "text": "The boy held his face in fear.",
+              "audioStart": 43.806,
+              "audioEnd": 45.708
+            },
+            {
+              "text": "A man came out into the open space.",
+              "audioStart": 46.667,
+              "audioEnd": 48.958
+            },
+            {
+              "text": "He wore clothes made from old animal body parts.",
+              "audioStart": 49.917,
+              "audioEnd": 52.778
+            },
+            {
+              "text": "The person spoke something.",
+              "audioStart": 53.736,
+              "audioEnd": 55.292
+            },
+            {
+              "text": "The man ran toward them quickly.",
+              "audioStart": 56.25,
+              "audioEnd": 58.125
+            },
+            {
+              "text": "He stopped when he saw Silver.",
+              "audioStart": 59.083,
+              "audioEnd": 60.875
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He fell down upon the ground.",
+              "audioStart": 61.833,
+              "audioEnd": 63.569
+            },
+            {
+              "text": "He talked about a long life.",
+              "audioStart": 64.528,
+              "audioEnd": 66.319
+            },
+            {
+              "text": "His voice sounded different.",
+              "audioStart": 67.278,
+              "audioEnd": 68.944
+            },
+            {
+              "text": "He promised to help the group.",
+              "audioStart": 69.903,
+              "audioEnd": 71.5
+            },
+            {
+              "text": "The boy listened to the story.",
+              "audioStart": 72.458,
+              "audioEnd": 74.083
+            },
+            {
+              "text": "The wind moved through the leaves.",
+              "audioStart": 75.042,
+              "audioEnd": 76.792
+            },
+            {
+              "text": "This new friend might provide a way out.",
+              "audioStart": 77.75,
+              "audioEnd": 80.042
+            },
+            {
+              "text": "They agreed to bring him along.",
+              "audioStart": 81,
+              "audioEnd": 82.667
+            },
+            {
+              "text": "The small team continued their trip.",
+              "audioStart": 83.625,
+              "audioEnd": 85.708
+            },
+            {
+              "text": "Hope grew stronger in their hearts.",
+              "audioStart": 86.667,
+              "audioEnd": 88.597
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They are going to walk further today.",
+              "audioStart": 89.556,
+              "audioEnd": 91.417
+            },
+            {
+              "text": "The paper is going to lead them.",
+              "audioStart": 92.375,
+              "audioEnd": 94.139
+            },
+            {
+              "text": "Silver will lead the small team.",
+              "audioStart": 95.097,
+              "audioEnd": 96.944
+            },
+            {
+              "text": "The boy will follow the older man.",
+              "audioStart": 97.903,
+              "audioEnd": 99.806
+            },
+            {
+              "text": "They want to find the goal soon.",
+              "audioStart": 100.764,
+              "audioEnd": 102.431
+            },
+            {
+              "text": "No one is going to stop them now.",
+              "audioStart": 103.389,
+              "audioEnd": 105.222
+            },
+            {
+              "text": "Every person feels ready for the challenge.",
+              "audioStart": 106.181,
+              "audioEnd": 108.639
+            },
+            {
+              "text": "The afternoon arrives with more light.",
+              "audioStart": 109.597,
+              "audioEnd": 111.694
+            },
+            {
+              "text": "They rest near a big tree.",
+              "audioStart": 112.653,
+              "audioEnd": 114.25
+            },
+            {
+              "text": "The boy looks at the old paper again.",
+              "audioStart": 115.208,
+              "audioEnd": 117.333
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Silver talks about the coming days.",
+              "audioStart": 118.292,
+              "audioEnd": 120.472
+            },
+            {
+              "text": "The new friend listens to every word.",
+              "audioStart": 121.431,
+              "audioEnd": 123.514
+            },
+            {
+              "text": "They share food and drink water.",
+              "audioStart": 124.472,
+              "audioEnd": 126.389
+            },
+            {
+              "text": "Quiet stays with them for a moment.",
+              "audioStart": 127.347,
+              "audioEnd": 129.292
+            },
+            {
+              "text": "Night comes fast over the land.",
+              "audioStart": 130.25,
+              "audioEnd": 132.111
+            },
+            {
+              "text": "They make a small fire for good air.",
+              "audioStart": 133.069,
+              "audioEnd": 135.139
+            },
+            {
+              "text": "The boy sits close to the friendly man.",
+              "audioStart": 136.097,
+              "audioEnd": 138.333
+            },
+            {
+              "text": "Silver watches the dark area around them.",
+              "audioStart": 139.292,
+              "audioEnd": 141.681
+            },
+            {
+              "text": "Nobody makes a strong sound.",
+              "audioStart": 142.639,
+              "audioEnd": 144.444
+            },
+            {
+              "text": "They sleep until the next morning comes.",
+              "audioStart": 145.403,
+              "audioEnd": 147.708
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0237.mp3",
+      "wordTimings": "audio/a2/st-0237.timings.json",
+      "quiz": [
+        {
+          "q": "What did Jim hold while walking through the trees?",
+          "options": [
+            "A small piece of old paper",
+            "A heavy gold chest",
+            "A sharp animal skin"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who walked beside Jim and spoke in a friendly voice?",
+          "options": [
+            "A wild man",
+            "Silver",
+            "The dangerous men"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the wild man wear?",
+          "options": [
+            "Clean modern clothes",
+            "Clothes made from old animal skins",
+            "Nothing at all"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The morning sun came across the quiet island.",
+              "audioStart": 0.1,
+              "audioEnd": 2.525
+            },
+            {
+              "text": "The group moved carefully through the green trees.",
+              "audioStart": 3.388,
+              "audioEnd": 5.812
+            },
+            {
+              "text": "Jim held a small piece of old paper.",
+              "audioStart": 6.675,
+              "audioEnd": 8.637
+            },
+            {
+              "text": "He looked around the strange place with deep concern.",
+              "audioStart": 9.5,
+              "audioEnd": 12.125
+            },
+            {
+              "text": "The map had been found inside the box.",
+              "audioStart": 12.988,
+              "audioEnd": 15.037
+            },
+            {
+              "text": "It pointed toward a hidden gold.",
+              "audioStart": 15.9,
+              "audioEnd": 17.45
+            },
+            {
+              "text": "If they did not find the gold soon, dangerous men would catch them.",
+              "audioStart": 18.312,
+              "audioEnd": 21.75
+            },
+            {
+              "text": "Silver walked next to the boy.",
+              "audioStart": 22.613,
+              "audioEnd": 24.25
+            },
+            {
+              "text": "He smiled and spoke in a very friendly voice.",
+              "audioStart": 25.113,
+              "audioEnd": 27.525
+            },
+            {
+              "text": "Although Jim trusted the man somewhat, trouble could happen anytime.",
+              "audioStart": 28.387,
+              "audioEnd": 31.95
+            },
+            {
+              "text": "They crossed a small water and climbed a hard hill.",
+              "audioStart": 32.812,
+              "audioEnd": 35.312
+            },
+            {
+              "text": "The trees grew thick around them.",
+              "audioStart": 36.175,
+              "audioEnd": 37.763
+            },
+            {
+              "text": "Everything was quiet.",
+              "audioStart": 38.625,
+              "audioEnd": 39.862
+            },
+            {
+              "text": "A strange feeling remained in the air.",
+              "audioStart": 40.725,
+              "audioEnd": 42.538
+            },
+            {
+              "text": "Suddenly, a big sound came from behind the plants.",
+              "audioStart": 43.4,
+              "audioEnd": 46.188
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Silver stopped and looked closely.",
+              "audioStart": 47.05,
+              "audioEnd": 48.9
+            },
+            {
+              "text": "Jim held his breath in clear fear.",
+              "audioStart": 49.763,
+              "audioEnd": 51.663
+            },
+            {
+              "text": "A wild man jumped out into the open space.",
+              "audioStart": 52.525,
+              "audioEnd": 55.013
+            },
+            {
+              "text": "He wore clothes made from old animal skins.",
+              "audioStart": 55.875,
+              "audioEnd": 58.225
+            },
+            {
+              "text": "The strange person shouted something.",
+              "audioStart": 59.087,
+              "audioEnd": 60.95
+            },
+            {
+              "text": "Neither of them could understand him at first.",
+              "audioStart": 61.812,
+              "audioEnd": 64.013
+            },
+            {
+              "text": "The man ran toward them.",
+              "audioStart": 64.875,
+              "audioEnd": 66.188
+            },
+            {
+              "text": "He stopped when he saw the friendly face of Silver.",
+              "audioStart": 67.05,
+              "audioEnd": 69.562
+            },
+            {
+              "text": "He fell down upon his legs.",
+              "audioStart": 70.425,
+              "audioEnd": 72.088
+            },
+            {
+              "text": "He began to talk about a long life on the island.",
+              "audioStart": 72.95,
+              "audioEnd": 75.487
+            },
+            {
+              "text": "He had lived alone for years.",
+              "audioStart": 76.35,
+              "audioEnd": 77.975
+            },
+            {
+              "text": "His voice sounded hard and strange.",
+              "audioStart": 78.838,
+              "audioEnd": 80.725
+            },
+            {
+              "text": "He promised that he would help the group.",
+              "audioStart": 81.588,
+              "audioEnd": 83.45
+            },
+            {
+              "text": "If they took him back home, he would assist them.",
+              "audioStart": 84.312,
+              "audioEnd": 86.787
+            },
+            {
+              "text": "Jim listened carefully to the story.",
+              "audioStart": 87.65,
+              "audioEnd": 89.5
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The wind blew soft through the leaves.",
+              "audioStart": 90.362,
+              "audioEnd": 92.237
+            },
+            {
+              "text": "This new friend might provide the right way out of danger.",
+              "audioStart": 93.1,
+              "audioEnd": 95.812
+            },
+            {
+              "text": "They agreed to bring him along.",
+              "audioStart": 96.675,
+              "audioEnd": 98.175
+            },
+            {
+              "text": "The small team continued their journey toward high ground.",
+              "audioStart": 99.037,
+              "audioEnd": 101.812
+            },
+            {
+              "text": "The heavy task was far from finished.",
+              "audioStart": 102.675,
+              "audioEnd": 104.775
+            },
+            {
+              "text": "Hope grew stronger in their hearts.",
+              "audioStart": 105.638,
+              "audioEnd": 107.375
+            },
+            {
+              "text": "They walked further into the green forest.",
+              "audioStart": 108.237,
+              "audioEnd": 110.375
+            },
+            {
+              "text": "The map showed another point near the high hill.",
+              "audioStart": 111.237,
+              "audioEnd": 113.5
+            },
+            {
+              "text": "Silver looked at the old paper and smiled again.",
+              "audioStart": 114.362,
+              "audioEnd": 116.787
+            },
+            {
+              "text": "He wanted to show that everything was good.",
+              "audioStart": 117.65,
+              "audioEnd": 119.675
+            },
+            {
+              "text": "Jim kept his hand on his pocket.",
+              "audioStart": 120.537,
+              "audioEnd": 122.362
+            },
+            {
+              "text": "A small metal tool was ready for any problem.",
+              "audioStart": 123.225,
+              "audioEnd": 125.688
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The wild man led them forward.",
+              "audioStart": 126.55,
+              "audioEnd": 128.262
+            },
+            {
+              "text": "He told stories about his long time alone.",
+              "audioStart": 129.125,
+              "audioEnd": 131.425
+            },
+            {
+              "text": "He explained that other people had visited the island.",
+              "audioStart": 132.287,
+              "audioEnd": 134.963
+            },
+            {
+              "text": "They had left him behind many years ago.",
+              "audioStart": 135.825,
+              "audioEnd": 137.925
+            },
+            {
+              "text": "If they continued that walk, they would reach the gold.",
+              "audioStart": 138.787,
+              "audioEnd": 141.537
+            },
+            {
+              "text": "Night will come down soon.",
+              "audioStart": 142.4,
+              "audioEnd": 143.787
+            },
+            {
+              "text": "Silver spoke these words to make the young boy feel better.",
+              "audioStart": 144.65,
+              "audioEnd": 147.525
+            },
+            {
+              "text": "They crossed another small water.",
+              "audioStart": 148.387,
+              "audioEnd": 150.062
+            },
+            {
+              "text": "They walked up toward a large tree that stood alone.",
+              "audioStart": 150.925,
+              "audioEnd": 153.463
+            },
+            {
+              "text": "The sun began to move down behind the high mountains.",
+              "audioStart": 154.325,
+              "audioEnd": 156.95
+            },
+            {
+              "text": "The air grew cold.",
+              "audioStart": 157.812,
+              "audioEnd": 158.85
+            },
+            {
+              "text": "They stopped for a short rest before the final part.",
+              "audioStart": 159.713,
+              "audioEnd": 162.438
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Jim sat down on the ground.",
+              "audioStart": 163.3,
+              "audioEnd": 164.825
+            },
+            {
+              "text": "He looked at the wild man with great interest.",
+              "audioStart": 165.688,
+              "audioEnd": 167.963
+            },
+            {
+              "text": "The man had survived by eating fruit and finding water.",
+              "audioStart": 168.825,
+              "audioEnd": 171.75
+            },
+            {
+              "text": "He promised again that he would help them.",
+              "audioStart": 172.613,
+              "audioEnd": 174.588
+            },
+            {
+              "text": "Silver moved his head and told the group to trust him.",
+              "audioStart": 175.45,
+              "audioEnd": 178.075
+            },
+            {
+              "text": "The wind blew through the trees.",
+              "audioStart": 178.938,
+              "audioEnd": 180.488
+            },
+            {
+              "text": "The night started to cover the dark island.",
+              "audioStart": 181.35,
+              "audioEnd": 183.425
+            },
+            {
+              "text": "They stood up again.",
+              "audioStart": 184.287,
+              "audioEnd": 185.338
+            },
+            {
+              "text": "They began to walk toward the final point on the map.",
+              "audioStart": 186.2,
+              "audioEnd": 188.8
+            },
+            {
+              "text": "If they found the gold the next day, they would escape.",
+              "audioStart": 189.662,
+              "audioEnd": 192.287
+            },
+            {
+              "text": "Danger will stay away from them.",
+              "audioStart": 193.15,
+              "audioEnd": 194.7
+            },
+            {
+              "text": "Hope stayed strong inside their minds.",
+              "audioStart": 195.562,
+              "audioEnd": 197.55
+            },
+            {
+              "text": "They finished the last miles of the day.",
+              "audioStart": 198.412,
+              "audioEnd": 200.425
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0237.mp3",
+      "wordTimings": "audio/b1/st-0237.timings.json",
+      "quiz": [
+        {
+          "q": "What did the old paper map point toward?",
+          "options": [
+            "A hidden fortune",
+            "A quiet village",
+            "An empty boat"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the wild man wear?",
+          "options": [
+            "Clothes made from old animal skins",
+            "A heavy black coat",
+            "Modern clothes from the city"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the wild man promise to do if they helped him?",
+          "options": [
+            "Help the group",
+            "Find more gold",
+            "Fight the dangerous men"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The morning sun shone across the quiet island as the group moved carefully through the green trees.",
+              "audioStart": 0.1,
+              "audioEnd": 4.95
+            },
+            {
+              "text": "Jim, who held a small piece of old paper, looked around the strange place with deep concern.",
+              "audioStart": 5.812,
+              "audioEnd": 10.912
+            },
+            {
+              "text": "The map, which had been found inside the chest, pointed toward a hidden fortune.",
+              "audioStart": 11.775,
+              "audioEnd": 15.938
+            },
+            {
+              "text": "If they did not find the gold soon, the dangerous men would catch them.",
+              "audioStart": 16.8,
+              "audioEnd": 20.387
+            },
+            {
+              "text": "Silver, who walked beside the boy, smiled and spoke in a very friendly voice.",
+              "audioStart": 21.25,
+              "audioEnd": 25.788
+            },
+            {
+              "text": "Although Jim trusted the man somewhat, he knew that trouble could happen at any moment.",
+              "audioStart": 26.65,
+              "audioEnd": 30.938
+            },
+            {
+              "text": "They crossed a small stream and climbed up a high hill where the trees grew thick.",
+              "audioStart": 31.8,
+              "audioEnd": 35.562
+            },
+            {
+              "text": "Everything around them was silent, yet a strange feeling remained in the air.",
+              "audioStart": 36.425,
+              "audioEnd": 40.15
+            },
+            {
+              "text": "Many hours passed while they walked further into the deep forest.",
+              "audioStart": 41.013,
+              "audioEnd": 44.263
+            },
+            {
+              "text": "The sun moved slowly across the sky above the green leaves.",
+              "audioStart": 45.125,
+              "audioEnd": 48.288
+            },
+            {
+              "text": "Every step brought them closer to the end of their long journey.",
+              "audioStart": 49.15,
+              "audioEnd": 52.1
+            },
+            {
+              "text": "The heavy task was far from finished, but hope grew stronger in their hearts.",
+              "audioStart": 52.962,
+              "audioEnd": 57.062
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, a loud sound came from behind the green plants near the path.",
+              "audioStart": 57.925,
+              "audioEnd": 61.775
+            },
+            {
+              "text": "Silver stopped and looked closely while Jim held his breath in pure fear.",
+              "audioStart": 62.638,
+              "audioEnd": 66.287
+            },
+            {
+              "text": "A wild man, who wore clothes made from old animal skins, jumped out into the open space.",
+              "audioStart": 67.15,
+              "audioEnd": 72.325
+            },
+            {
+              "text": "The strange person shouted something which neither of them could understand at first.",
+              "audioStart": 73.188,
+              "audioEnd": 77.237
+            },
+            {
+              "text": "The man ran toward them, but he stopped when he saw the friendly face of Silver.",
+              "audioStart": 78.1,
+              "audioEnd": 82.138
+            },
+            {
+              "text": "He fell down upon his knees and began to talk about a long and quiet life on the island.",
+              "audioStart": 83,
+              "audioEnd": 87.55
+            },
+            {
+              "text": "Because he had lived alone for years, his voice sounded rough and strange.",
+              "audioStart": 88.412,
+              "audioEnd": 92.263
+            },
+            {
+              "text": "He promised that he would help the group if they took him back home.",
+              "audioStart": 93.125,
+              "audioEnd": 96.125
+            },
+            {
+              "text": "The group listened to every word with great attention during this strange moment.",
+              "audioStart": 96.987,
+              "audioEnd": 100.713
+            },
+            {
+              "text": "Jim felt that this person could be trusted despite his wild appearance.",
+              "audioStart": 101.575,
+              "audioEnd": 105.125
+            },
+            {
+              "text": "The stranger explained how he survived on the island for many years.",
+              "audioStart": 105.987,
+              "audioEnd": 109.487
+            },
+            {
+              "text": "He told them that he knew every part of the land.",
+              "audioStart": 110.35,
+              "audioEnd": 112.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Jim listened carefully to the story while the wind blew gently through the leaves.",
+              "audioStart": 113.487,
+              "audioEnd": 117.3
+            },
+            {
+              "text": "Though the situation was difficult, this new friend might provide the right way out of danger.",
+              "audioStart": 118.162,
+              "audioEnd": 122.75
+            },
+            {
+              "text": "They agreed to bring him along, and the small team continued their journey toward the high ground.",
+              "audioStart": 123.612,
+              "audioEnd": 128.312
+            },
+            {
+              "text": "Silver looked at the man and asked him about the secret path.",
+              "audioStart": 129.175,
+              "audioEnd": 132.287
+            },
+            {
+              "text": "If they followed him closely, they would reach the end without any problem.",
+              "audioStart": 133.15,
+              "audioEnd": 136.762
+            },
+            {
+              "text": "The group walked together through the green forest under the bright sun.",
+              "audioStart": 137.625,
+              "audioEnd": 141.088
+            },
+            {
+              "text": "Silver talked quietly with the stranger about the island and the dangerous men.",
+              "audioStart": 141.95,
+              "audioEnd": 145.8
+            },
+            {
+              "text": "They knew that time was short and that danger was still near.",
+              "audioStart": 146.662,
+              "audioEnd": 149.463
+            },
+            {
+              "text": "However, confidence was rising among all the members of the team.",
+              "audioStart": 150.325,
+              "audioEnd": 153.85
+            },
+            {
+              "text": "Nothing could stop them now that they had found such a useful guide.",
+              "audioStart": 154.713,
+              "audioEnd": 157.887
+            },
+            {
+              "text": "The wild man pointed toward a distant part of the island where the gold was hidden.",
+              "audioStart": 158.75,
+              "audioEnd": 162.537
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hours passed as they continued moving forward through the thick trees.",
+              "audioStart": 163.4,
+              "audioEnd": 166.912
+            },
+            {
+              "text": "The map was checked again to ensure they were on the right path.",
+              "audioStart": 167.775,
+              "audioEnd": 170.725
+            },
+            {
+              "text": "Jim held the paper tightly in his hand while looking at the surrounding nature.",
+              "audioStart": 171.588,
+              "audioEnd": 175.3
+            },
+            {
+              "text": "They prepared themselves for the final challenge before the sun went down.",
+              "audioStart": 176.162,
+              "audioEnd": 179.875
+            },
+            {
+              "text": "Hope and confidence filled their minds as they approached the final goal.",
+              "audioStart": 180.738,
+              "audioEnd": 184.088
+            },
+            {
+              "text": "The air was warm, and the wind moved softly through the high branches.",
+              "audioStart": 184.95,
+              "audioEnd": 188.562
+            },
+            {
+              "text": "Each member of the team felt ready to face whatever came next.",
+              "audioStart": 189.425,
+              "audioEnd": 192.8
+            },
+            {
+              "text": "They knew that success was possible if they stayed together.",
+              "audioStart": 193.662,
+              "audioEnd": 196.5
+            },
+            {
+              "text": "The journey had been long, but the end was finally in sight.",
+              "audioStart": 197.363,
+              "audioEnd": 200.575
+            },
+            {
+              "text": "They took a short rest before making the final push toward the gold.",
+              "audioStart": 201.438,
+              "audioEnd": 204.825
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0237.mp3",
+      "wordTimings": "audio/b2/st-0237.timings.json",
+      "quiz": [
+        {
+          "q": "What did Jim hold while moving through the trees?",
+          "options": [
+            "A small piece of old paper",
+            "A heavy metal gun",
+            "A green wooden box"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who jumped out from behind the bushes near the path?",
+          "options": [
+            "A dangerous sailor from the ship",
+            "A wild man wearing animal skins",
+            "An old doctor from the town"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the strange person promise to do if they helped him?",
+          "options": [
+            "Give them all of his gold",
+            "Show them the secret way off the island",
+            "Help the group on their journey"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The morning sun cast a pale, golden light across the quiet island as the small group moved carefully through the green trees.",
+              "audioStart": 0.1,
+              "audioEnd": 6.688
+            },
+            {
+              "text": "Jim, who held a small piece of old paper, looked around the strange place with deep concern.",
+              "audioStart": 7.55,
+              "audioEnd": 12.65
+            },
+            {
+              "text": "The map, which had been found inside the chest, pointed toward a hidden fortune that could change their lives forever.",
+              "audioStart": 13.512,
+              "audioEnd": 19.462
+            },
+            {
+              "text": "If they did not find the gold soon, the dangerous men would catch them before they reached safety.",
+              "audioStart": 20.325,
+              "audioEnd": 25.225
+            },
+            {
+              "text": "Every shadow among the palms seemed to hide a threat, making the silence feel heavy and unnatural.",
+              "audioStart": 26.087,
+              "audioEnd": 31.238
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Silver, who walked beside the boy, smiled and spoke in a very friendly voice to calm his nerves.",
+              "audioStart": 32.1,
+              "audioEnd": 37.525
+            },
+            {
+              "text": "Although Jim trusted the man somewhat, he knew that trouble could happen at any moment on such a treacherous shore.",
+              "audioStart": 38.388,
+              "audioEnd": 44.038
+            },
+            {
+              "text": "They crossed a small stream where the water murmured over dark stones and climbed up a high hill where the trees grew thick.",
+              "audioStart": 44.9,
+              "audioEnd": 50.625
+            },
+            {
+              "text": "Everything around them was silent, yet a strange feeling remained in the air like an unspoken warning.",
+              "audioStart": 51.487,
+              "audioEnd": 56.513
+            },
+            {
+              "text": "The atmosphere was thick with humidity and the earthy scent of rotting leaves.",
+              "audioStart": 57.375,
+              "audioEnd": 61.087
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many hours passed while they walked further into the deep forest, leaving the open beaches far behind.",
+              "audioStart": 61.95,
+              "audioEnd": 67.338
+            },
+            {
+              "text": "The sun moved slowly across the sky above the green leaves, casting dappled patterns on the forest floor.",
+              "audioStart": 68.2,
+              "audioEnd": 74.062
+            },
+            {
+              "text": "Every step brought them closer to the end of their long journey and the prize they sought.",
+              "audioStart": 74.925,
+              "audioEnd": 79.013
+            },
+            {
+              "text": "The heavy task was far from finished, but hope grew stronger in their hearts despite the physical exhaustion.",
+              "audioStart": 79.875,
+              "audioEnd": 85.55
+            },
+            {
+              "text": "They paused briefly to catch their breath, listening to the distant call of an unknown bird.",
+              "audioStart": 86.412,
+              "audioEnd": 90.925
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, a loud sound came from behind the green plants near the narrow path they were following.",
+              "audioStart": 91.787,
+              "audioEnd": 96.65
+            },
+            {
+              "text": "Silver stopped and looked closely while Jim held his breath in pure fear, his hand gripping the hilt of his small knife.",
+              "audioStart": 97.513,
+              "audioEnd": 103.638
+            },
+            {
+              "text": "A wild man, who wore clothes made from old animal skins, jumped out into the open space with startling speed.",
+              "audioStart": 104.5,
+              "audioEnd": 110.638
+            },
+            {
+              "text": "The strange person shouted something which neither of them could understand at first, his voice cracking from disuse.",
+              "audioStart": 111.5,
+              "audioEnd": 117.513
+            },
+            {
+              "text": "The man ran toward them with frantic gestures, but he stopped abruptly when he saw the friendly face of Silver.",
+              "audioStart": 118.375,
+              "audioEnd": 124.25
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He fell down upon his knees and began to talk about a long and quiet life on the island that had driven him nearly mad.",
+              "audioStart": 125.112,
+              "audioEnd": 131.05
+            },
+            {
+              "text": "Because he had lived alone for years without human speech, his voice sounded rough and strange to their ears.",
+              "audioStart": 131.912,
+              "audioEnd": 137.512
+            },
+            {
+              "text": "He promised that he would help the group if they took him back home to civilization and safety.",
+              "audioStart": 138.375,
+              "audioEnd": 142.887
+            },
+            {
+              "text": "The group listened to every word with great attention during this strange and unexpected moment.",
+              "audioStart": 143.75,
+              "audioEnd": 148.375
+            },
+            {
+              "text": "Jim felt that this person could be trusted despite his wild appearance and erratic movements.",
+              "audioStart": 149.238,
+              "audioEnd": 153.925
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The stranger explained how he survived on the island for many years by eating wild fruit and catching small fish.",
+              "audioStart": 154.787,
+              "audioEnd": 160.85
+            },
+            {
+              "text": "He told them that he knew every part of the land, from the highest hills to the deepest caves.",
+              "audioStart": 161.713,
+              "audioEnd": 166.438
+            },
+            {
+              "text": "Jim listened carefully to the story while the wind blew gently through the leaves above them.",
+              "audioStart": 167.3,
+              "audioEnd": 171.45
+            },
+            {
+              "text": "Though the situation was difficult, this new friend might provide the right way out of danger and past their enemies.",
+              "audioStart": 172.312,
+              "audioEnd": 178.15
+            },
+            {
+              "text": "They agreed to bring him along, and the small team continued their journey toward the high ground.",
+              "audioStart": 179.012,
+              "audioEnd": 183.713
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Silver looked at the man and asked him about the secret path that led to the heart of the island.",
+              "audioStart": 184.575,
+              "audioEnd": 189.062
+            },
+            {
+              "text": "If they followed him closely, they would reach the end without any problem and avoid the traps set by the mutineers.",
+              "audioStart": 189.925,
+              "audioEnd": 195.662
+            },
+            {
+              "text": "The group walked together through the green forest under the bright sun, their pace quickened by renewed purpose.",
+              "audioStart": 196.525,
+              "audioEnd": 202.287
+            },
+            {
+              "text": "Silver talked quietly with the stranger about the island and the dangerous men who lurked in the shadows.",
+              "audioStart": 203.15,
+              "audioEnd": 208.238
+            },
+            {
+              "text": "They knew that time was short and that danger was still near, yet determination kept them moving forward.",
+              "audioStart": 209.1,
+              "audioEnd": 214.4
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "However, confidence was rising among all the members of the team as they navigated the difficult terrain.",
+              "audioStart": 215.262,
+              "audioEnd": 220.588
+            },
+            {
+              "text": "Nothing could stop them now that they had found such a useful guide who knew the hidden trails.",
+              "audioStart": 221.45,
+              "audioEnd": 225.762
+            },
+            {
+              "text": "The wild man pointed toward a distant part of the island where the gold was hidden beneath the ancient trees.",
+              "audioStart": 226.625,
+              "audioEnd": 231.713
+            },
+            {
+              "text": "His weathered face showed a mixture of fear and hope at the prospect of finally leaving his lonely prison.",
+              "audioStart": 232.575,
+              "audioEnd": 238.874
+            },
+            {
+              "text": "They exchanged encouraging glances, feeling that fortune was at last beginning to favor their cause.",
+              "audioStart": 239.736,
+              "audioEnd": 245.274
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hours passed as they continued moving forward through the thick trees and over rocky ridges.",
+              "audioStart": 246.136,
+              "audioEnd": 250.911
+            },
+            {
+              "text": "The map was checked again to ensure they were on the right path and heading toward the correct landmark.",
+              "audioStart": 251.774,
+              "audioEnd": 256.623
+            },
+            {
+              "text": "Jim held the paper tightly in his hand while looking at the surrounding nature with a more critical eye.",
+              "audioStart": 257.486,
+              "audioEnd": 262.286
+            },
+            {
+              "text": "They prepared themselves for the final challenge before the sun went down and darkness swallowed the forest.",
+              "audioStart": 263.149,
+              "audioEnd": 268.461
+            },
+            {
+              "text": "Every step required intense concentration to avoid slipping on the loose stones and wet soil.",
+              "audioStart": 269.324,
+              "audioEnd": 274.324
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hope and confidence filled their minds as they approached the final goal of their arduous expedition.",
+              "audioStart": 275.186,
+              "audioEnd": 280.024
+            },
+            {
+              "text": "The air was warm, and the wind moved softly through the high branches, carrying the distant scent of the salt sea.",
+              "audioStart": 280.886,
+              "audioEnd": 286.724
+            },
+            {
+              "text": "Each member of the team felt ready to face whatever came next, knowing the hardships they had already overcome.",
+              "audioStart": 287.586,
+              "audioEnd": 293.524
+            },
+            {
+              "text": "They knew that success was possible if they stayed together and trusted their new companion completely.",
+              "audioStart": 294.386,
+              "audioEnd": 299.411
+            },
+            {
+              "text": "The journey had been long and exhausting, but the end was finally in sight beyond the next ridge.",
+              "audioStart": 300.274,
+              "audioEnd": 305.436
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They took a short rest before making the final push toward the gold and the resolution of their quest.",
+              "audioStart": 306.298,
+              "audioEnd": 311.561
+            },
+            {
+              "text": "Sitting quietly in the shade, they shared a small amount of water from their flasks to refresh their tired bodies.",
+              "audioStart": 312.423,
+              "audioEnd": 318.324
+            },
+            {
+              "text": "Silver whispered final instructions to the group, ensuring everyone understood their role in the moments ahead.",
+              "audioStart": 319.186,
+              "audioEnd": 324.736
+            },
+            {
+              "text": "The stranger pointed once more through the trees to a clearing where their destination supposedly awaited them.",
+              "audioStart": 325.599,
+              "audioEnd": 330.873
+            },
+            {
+              "text": "With steady resolve, they stood up together and stepped forward into the last stage of their adventure.",
+              "audioStart": 331.736,
+              "audioEnd": 336.899
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0237.mp3",
+      "wordTimings": "audio/c1/st-0237.timings.json",
+      "quiz": [
+        {
+          "q": "What caused the wild man to stop running toward Jim and Silver?",
+          "options": [
+            "He recognized the friendly face of Silver.",
+            "He heard a loud sound behind the green plants.",
+            "He saw that Jim was holding a knife."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How had the strange man managed to survive on the island for many years?",
+          "options": [
+            "By trading with passing ships and visiting sailors.",
+            "By eating wild fruit and catching small fish.",
+            "By living inside a hidden cave filled with gold."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the group agree to do after listening to the stranger's story?",
+          "options": [
+            "Leave him behind on the island to protect their secret.",
+            "Bring him along to help guide them toward the high ground.",
+            "Send him back to the beach to wait for the ship."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

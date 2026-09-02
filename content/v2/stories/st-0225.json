@@ -1,0 +1,1337 @@
+{
+  "id": "st-0225",
+  "title": "The Green Door",
+  "genre": "daily",
+  "summary": "A curious man discovers a mysterious old door in the city at night.",
+  "coverScene": "A young man stands in a dark city street, looking closely at a bright green door.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A young man walks in the big city.",
+              "audioStart": 0.106,
+              "audioEnd": 2.133
+            },
+            {
+              "text": "It is night.",
+              "audioStart": 3.097,
+              "audioEnd": 3.958
+            },
+            {
+              "text": "Many people live here.",
+              "audioStart": 4.917,
+              "audioEnd": 6.319
+            },
+            {
+              "text": "He moves down a way.",
+              "audioStart": 7.278,
+              "audioEnd": 8.556
+            },
+            {
+              "text": "He sees a sign.",
+              "audioStart": 9.514,
+              "audioEnd": 10.694
+            },
+            {
+              "text": "It is a door.",
+              "audioStart": 11.653,
+              "audioEnd": 12.611
+            },
+            {
+              "text": "The door is old.",
+              "audioStart": 13.569,
+              "audioEnd": 14.611
+            },
+            {
+              "text": "It stands between a house and a shop.",
+              "audioStart": 15.569,
+              "audioEnd": 17.667
+            },
+            {
+              "text": "The man wants to look.",
+              "audioStart": 18.625,
+              "audioEnd": 19.986
+            },
+            {
+              "text": "He puts a hand on the door.",
+              "audioStart": 20.944,
+              "audioEnd": 22.528
+            },
+            {
+              "text": "The door opens.",
+              "audioStart": 23.486,
+              "audioEnd": 24.667
+            },
+            {
+              "text": "He does not hear any sound.",
+              "audioStart": 25.625,
+              "audioEnd": 27.306
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A light comes from the room.",
+              "audioStart": 28.264,
+              "audioEnd": 29.792
+            },
+            {
+              "text": "A woman sits by a table.",
+              "audioStart": 30.75,
+              "audioEnd": 32.486
+            },
+            {
+              "text": "She looks at him.",
+              "audioStart": 33.444,
+              "audioEnd": 34.556
+            },
+            {
+              "text": "She is very still.",
+              "audioStart": 35.514,
+              "audioEnd": 36.778
+            },
+            {
+              "text": "The man looks at her.",
+              "audioStart": 37.736,
+              "audioEnd": 39.014
+            },
+            {
+              "text": "He asks about the door.",
+              "audioStart": 39.972,
+              "audioEnd": 41.431
+            },
+            {
+              "text": "She tells him about the place.",
+              "audioStart": 42.389,
+              "audioEnd": 44.208
+            },
+            {
+              "text": "People find good things here.",
+              "audioStart": 45.167,
+              "audioEnd": 46.806
+            },
+            {
+              "text": "They talk for several hours.",
+              "audioStart": 47.764,
+              "audioEnd": 49.486
+            },
+            {
+              "text": "They speak about life.",
+              "audioStart": 50.444,
+              "audioEnd": 51.903
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man feels a good thing.",
+              "audioStart": 52.861,
+              "audioEnd": 54.417
+            },
+            {
+              "text": "He is very glad.",
+              "audioStart": 55.375,
+              "audioEnd": 56.611
+            },
+            {
+              "text": "This thing changes his night.",
+              "audioStart": 57.569,
+              "audioEnd": 59.25
+            },
+            {
+              "text": "Morning comes.",
+              "audioStart": 60.208,
+              "audioEnd": 61.292
+            },
+            {
+              "text": "He thanks the woman.",
+              "audioStart": 62.25,
+              "audioEnd": 63.5
+            },
+            {
+              "text": "He leaves the room.",
+              "audioStart": 64.458,
+              "audioEnd": 65.639
+            },
+            {
+              "text": "He walks back into the city.",
+              "audioStart": 66.597,
+              "audioEnd": 68.306
+            },
+            {
+              "text": "He thinks about the old house.",
+              "audioStart": 69.264,
+              "audioEnd": 71
+            },
+            {
+              "text": "The night is black.",
+              "audioStart": 71.958,
+              "audioEnd": 73.139
+            },
+            {
+              "text": "The man is glad.",
+              "audioStart": 74.097,
+              "audioEnd": 75.292
+            },
+            {
+              "text": "He goes home.",
+              "audioStart": 76.25,
+              "audioEnd": 77.222
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0225.mp3",
+      "wordTimings": "audio/a1/st-0225.timings.json",
+      "quiz": [
+        {
+          "q": "What does the young man see on the dark road?",
+          "options": [
+            "A bright green door",
+            "A big dark house",
+            "A small old shop"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who is sitting by a table in the room?",
+          "options": [
+            "A young man",
+            "A woman",
+            "No one"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What do the man and woman do for several hours?",
+          "options": [
+            "Eat food",
+            "Sleep",
+            "Talk about life"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A young man wanted some fun.",
+              "audioStart": 0.106,
+              "audioEnd": 1.953
+            },
+            {
+              "text": "He went out during a long night.",
+              "audioStart": 2.917,
+              "audioEnd": 4.681
+            },
+            {
+              "text": "He walked inside the big city.",
+              "audioStart": 5.639,
+              "audioEnd": 7.5
+            },
+            {
+              "text": "He walked through many streets.",
+              "audioStart": 8.458,
+              "audioEnd": 10.194
+            },
+            {
+              "text": "Thousands of people lived there.",
+              "audioStart": 11.153,
+              "audioEnd": 12.861
+            },
+            {
+              "text": "He moved along a dark road.",
+              "audioStart": 13.819,
+              "audioEnd": 15.556
+            },
+            {
+              "text": "A sign caught his eye.",
+              "audioStart": 16.514,
+              "audioEnd": 17.889
+            },
+            {
+              "text": "It was a green door.",
+              "audioStart": 18.847,
+              "audioEnd": 20.125
+            },
+            {
+              "text": "The door stood between a building and a shop.",
+              "audioStart": 21.083,
+              "audioEnd": 23.417
+            },
+            {
+              "text": "The man felt very interested.",
+              "audioStart": 24.375,
+              "audioEnd": 26.236
+            },
+            {
+              "text": "He had never seen such a door.",
+              "audioStart": 27.194,
+              "audioEnd": 29.097
+            },
+            {
+              "text": "He decided to open it now.",
+              "audioStart": 30.056,
+              "audioEnd": 31.694
+            },
+            {
+              "text": "His hand touched the door.",
+              "audioStart": 32.653,
+              "audioEnd": 34.194
+            },
+            {
+              "text": "The door moved fast.",
+              "audioStart": 35.153,
+              "audioEnd": 36.625
+            },
+            {
+              "text": "A light came from the room.",
+              "audioStart": 37.583,
+              "audioEnd": 39.097
+            },
+            {
+              "text": "A woman sat by a table.",
+              "audioStart": 40.056,
+              "audioEnd": 41.764
+            },
+            {
+              "text": "She looked at him with surprise.",
+              "audioStart": 42.722,
+              "audioEnd": 44.556
+            },
+            {
+              "text": "He stepped across the space.",
+              "audioStart": 45.514,
+              "audioEnd": 47.292
+            },
+            {
+              "text": "The man smiled at her.",
+              "audioStart": 48.25,
+              "audioEnd": 49.681
+            },
+            {
+              "text": "He asked about the open door.",
+              "audioStart": 50.639,
+              "audioEnd": 52.403
+            },
+            {
+              "text": "She told him something important.",
+              "audioStart": 53.361,
+              "audioEnd": 55.139
+            },
+            {
+              "text": "People without energy could find rest here.",
+              "audioStart": 56.097,
+              "audioEnd": 58.569
+            },
+            {
+              "text": "They talked for several hours.",
+              "audioStart": 59.528,
+              "audioEnd": 61.306
+            },
+            {
+              "text": "They spoke about life.",
+              "audioStart": 62.264,
+              "audioEnd": 63.708
+            },
+            {
+              "text": "They shared different experiences.",
+              "audioStart": 64.667,
+              "audioEnd": 66.722
+            },
+            {
+              "text": "The man felt a deep feeling.",
+              "audioStart": 67.681,
+              "audioEnd": 69.472
+            },
+            {
+              "text": "He realized his choice changed everything.",
+              "audioStart": 70.431,
+              "audioEnd": 72.931
+            },
+            {
+              "text": "Morning came very soon.",
+              "audioStart": 73.889,
+              "audioEnd": 75.444
+            },
+            {
+              "text": "He thanked her for the time.",
+              "audioStart": 76.403,
+              "audioEnd": 77.944
+            },
+            {
+              "text": "Then he left the room.",
+              "audioStart": 78.903,
+              "audioEnd": 80.222
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man walked down the road.",
+              "audioStart": 81.181,
+              "audioEnd": 82.847
+            },
+            {
+              "text": "He thought about the meeting.",
+              "audioStart": 83.806,
+              "audioEnd": 85.236
+            },
+            {
+              "text": "The night was still dark.",
+              "audioStart": 86.194,
+              "audioEnd": 87.639
+            },
+            {
+              "text": "He went back to his home.",
+              "audioStart": 88.597,
+              "audioEnd": 90.042
+            },
+            {
+              "text": "He never forgot that place.",
+              "audioStart": 91,
+              "audioEnd": 92.847
+            },
+            {
+              "text": "Life felt different now.",
+              "audioStart": 93.806,
+              "audioEnd": 95.208
+            },
+            {
+              "text": "He wanted to return again.",
+              "audioStart": 96.167,
+              "audioEnd": 97.792
+            },
+            {
+              "text": "Days passed by very calmly.",
+              "audioStart": 98.75,
+              "audioEnd": 100.694
+            },
+            {
+              "text": "He remembered the green door.",
+              "audioStart": 101.653,
+              "audioEnd": 103.278
+            },
+            {
+              "text": "He hoped to see it soon.",
+              "audioStart": 104.236,
+              "audioEnd": 105.764
+            },
+            {
+              "text": "The city was very big.",
+              "audioStart": 106.722,
+              "audioEnd": 108.181
+            },
+            {
+              "text": "Many streets looked the same.",
+              "audioStart": 109.139,
+              "audioEnd": 110.833
+            },
+            {
+              "text": "He walked around looking closely.",
+              "audioStart": 111.792,
+              "audioEnd": 113.764
+            },
+            {
+              "text": "He wanted that rest back.",
+              "audioStart": 114.722,
+              "audioEnd": 116.333
+            },
+            {
+              "text": "His heart felt bad sometimes.",
+              "audioStart": 117.292,
+              "audioEnd": 119.236
+            },
+            {
+              "text": "He kept moving every evening.",
+              "audioStart": 120.194,
+              "audioEnd": 122.014
+            },
+            {
+              "text": "He looked for the sign.",
+              "audioStart": 122.972,
+              "audioEnd": 124.306
+            },
+            {
+              "text": "The door did not appear.",
+              "audioStart": 125.264,
+              "audioEnd": 126.736
+            },
+            {
+              "text": "He stayed strong and full of hope.",
+              "audioStart": 127.694,
+              "audioEnd": 129.625
+            },
+            {
+              "text": "He knew life goes on.",
+              "audioStart": 130.583,
+              "audioEnd": 131.944
+            },
+            {
+              "text": "He smiled at the memory.",
+              "audioStart": 132.903,
+              "audioEnd": 134.431
+            },
+            {
+              "text": "That night stayed with him.",
+              "audioStart": 135.389,
+              "audioEnd": 136.833
+            },
+            {
+              "text": "He grew up a lot.",
+              "audioStart": 137.792,
+              "audioEnd": 138.986
+            },
+            {
+              "text": "He learned about himself.",
+              "audioStart": 139.944,
+              "audioEnd": 141.5
+            },
+            {
+              "text": "He felt ready for tomorrow.",
+              "audioStart": 142.458,
+              "audioEnd": 144.097
+            },
+            {
+              "text": "He is going to find it again.",
+              "audioStart": 145.056,
+              "audioEnd": 146.736
+            },
+            {
+              "text": "He will walk down the street.",
+              "audioStart": 147.694,
+              "audioEnd": 149.319
+            },
+            {
+              "text": "He will look for that green door.",
+              "audioStart": 150.278,
+              "audioEnd": 152.083
+            },
+            {
+              "text": "He wants to see her again.",
+              "audioStart": 153.042,
+              "audioEnd": 154.611
+            },
+            {
+              "text": "He will talk to her once more.",
+              "audioStart": 155.569,
+              "audioEnd": 157.333
+            },
+            {
+              "text": "They are going to share more stories.",
+              "audioStart": 158.292,
+              "audioEnd": 160.236
+            },
+            {
+              "text": "He believes in the future.",
+              "audioStart": 161.194,
+              "audioEnd": 162.75
+            },
+            {
+              "text": "He is going to be happy.",
+              "audioStart": 163.708,
+              "audioEnd": 165.139
+            },
+            {
+              "text": "That night changed his life.",
+              "audioStart": 166.097,
+              "audioEnd": 167.861
+            },
+            {
+              "text": "He will always remember the room.",
+              "audioStart": 168.819,
+              "audioEnd": 170.597
+            },
+            {
+              "text": "He is ready for every new day.",
+              "audioStart": 171.556,
+              "audioEnd": 173.375
+            },
+            {
+              "text": "Life is good for him now.",
+              "audioStart": 174.333,
+              "audioEnd": 175.778
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0225.mp3",
+      "wordTimings": "audio/a2/st-0225.timings.json",
+      "quiz": [
+        {
+          "q": "What did the young man find on the dark road?",
+          "options": [
+            "A bright green door",
+            "A small old shop",
+            "A big dark building"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who was sitting inside the room by a table?",
+          "options": [
+            "An old man",
+            "A woman",
+            "A young child"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the woman say the place was for?",
+          "options": [
+            "Tired people could find peace",
+            "People could buy food",
+            "Workers could make money"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A young man wanted a great journey.",
+              "audioStart": 0.1,
+              "audioEnd": 1.925
+            },
+            {
+              "text": "He spent a long night in the big city.",
+              "audioStart": 2.788,
+              "audioEnd": 4.8
+            },
+            {
+              "text": "He walked through many streets.",
+              "audioStart": 5.662,
+              "audioEnd": 7.225
+            },
+            {
+              "text": "Thousands of people lived and worked there.",
+              "audioStart": 8.088,
+              "audioEnd": 10.15
+            },
+            {
+              "text": "While he was moving along a dark road, a strange sign caught his eye.",
+              "audioStart": 11.012,
+              "audioEnd": 14.512
+            },
+            {
+              "text": "It was a bright green door.",
+              "audioStart": 15.375,
+              "audioEnd": 16.788
+            },
+            {
+              "text": "It stood between an old house and a small shop.",
+              "audioStart": 17.65,
+              "audioEnd": 20.075
+            },
+            {
+              "text": "The man became very interested.",
+              "audioStart": 20.938,
+              "audioEnd": 22.675
+            },
+            {
+              "text": "He had never seen such a door before.",
+              "audioStart": 23.538,
+              "audioEnd": 25.663
+            },
+            {
+              "text": "He had always liked old places in this large city.",
+              "audioStart": 26.525,
+              "audioEnd": 29.188
+            },
+            {
+              "text": "He decided to open it immediately.",
+              "audioStart": 30.05,
+              "audioEnd": 31.9
+            },
+            {
+              "text": "He wanted to see what was hidden inside.",
+              "audioStart": 32.763,
+              "audioEnd": 34.663
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When his hand touched the handle, the door swung open without any noise.",
+              "audioStart": 35.525,
+              "audioEnd": 39.275
+            },
+            {
+              "text": "A warm light came from the room behind the open way.",
+              "audioStart": 40.138,
+              "audioEnd": 42.737
+            },
+            {
+              "text": "Inside the space, a woman was sitting quietly by a table.",
+              "audioStart": 43.6,
+              "audioEnd": 46.825
+            },
+            {
+              "text": "She looked at him with surprise when he stepped across the open line.",
+              "audioStart": 47.688,
+              "audioEnd": 50.913
+            },
+            {
+              "text": "The man smiled and asked why the green door had been left open.",
+              "audioStart": 51.775,
+              "audioEnd": 55.075
+            },
+            {
+              "text": "She told him that it was a special place.",
+              "audioStart": 55.938,
+              "audioEnd": 58.05
+            },
+            {
+              "text": "Tired people could find peace there.",
+              "audioStart": 58.913,
+              "audioEnd": 60.75
+            },
+            {
+              "text": "They talked for several hours about life and their different experiences.",
+              "audioStart": 61.612,
+              "audioEnd": 65.263
+            },
+            {
+              "text": "The man felt a deep connection.",
+              "audioStart": 66.125,
+              "audioEnd": 67.85
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He had not expected to find it.",
+              "audioStart": 68.713,
+              "audioEnd": 70.537
+            },
+            {
+              "text": "He realized that this simple choice had changed his evening completely.",
+              "audioStart": 71.4,
+              "audioEnd": 75.013
+            },
+            {
+              "text": "Before the morning came, he thanked her.",
+              "audioStart": 75.875,
+              "audioEnd": 78.025
+            },
+            {
+              "text": "He left the room with a happy heart.",
+              "audioStart": 78.888,
+              "audioEnd": 80.725
+            },
+            {
+              "text": "The night was still dark when he walked back onto the street.",
+              "audioStart": 81.588,
+              "audioEnd": 84.513
+            },
+            {
+              "text": "He had spent many hours talking with the woman in that quiet room.",
+              "audioStart": 85.375,
+              "audioEnd": 88.612
+            },
+            {
+              "text": "If he went back the next day, he would find the same door again.",
+              "audioStart": 89.475,
+              "audioEnd": 92.713
+            },
+            {
+              "text": "He has learned that simple choices can change a person's life.",
+              "audioStart": 93.575,
+              "audioEnd": 96.713
+            },
+            {
+              "text": "Many people walk through these dark roads every single week.",
+              "audioStart": 97.575,
+              "audioEnd": 100.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They never notice the small green doors hidden between old houses.",
+              "audioStart": 101.487,
+              "audioEnd": 104.8
+            },
+            {
+              "text": "The young man will always remember this wonderful night.",
+              "audioStart": 105.662,
+              "audioEnd": 108.362
+            },
+            {
+              "text": "He feels happy because he has found such a calm place.",
+              "audioStart": 109.225,
+              "audioEnd": 112.075
+            },
+            {
+              "text": "The city is large, but he knows where to go when he feels tired.",
+              "audioStart": 112.938,
+              "audioEnd": 116.35
+            },
+            {
+              "text": "He will tell his best friend about this amazing experience soon.",
+              "audioStart": 117.213,
+              "audioEnd": 120.475
+            },
+            {
+              "text": "Life is full of surprises for those who look closely.",
+              "audioStart": 121.338,
+              "audioEnd": 124.025
+            },
+            {
+              "text": "Every street has something special waiting for a good traveler.",
+              "audioStart": 124.888,
+              "audioEnd": 127.888
+            },
+            {
+              "text": "The man walks home slowly while the cool night air touches his face.",
+              "audioStart": 128.75,
+              "audioEnd": 132.287
+            },
+            {
+              "text": "He knows that his future will be different after this night.",
+              "audioStart": 133.15,
+              "audioEnd": 135.812
+            },
+            {
+              "text": "The green door remains open for anyone who needs rest and peace.",
+              "audioStart": 136.675,
+              "audioEnd": 140.162
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0225.mp3",
+      "wordTimings": "audio/b1/st-0225.timings.json",
+      "quiz": [
+        {
+          "q": "What did the young man see while walking along a dark road?",
+          "options": [
+            "A bright green door",
+            "A big dark house",
+            "A small old shop"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who was sitting quietly by a table inside the room?",
+          "options": [
+            "An old man",
+            "A woman",
+            "A young child"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the woman say the room was for?",
+          "options": [
+            "Where tired people could find peace",
+            "Where people could buy food and drink",
+            "Where workers could meet their boss"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A young man wanted some adventure during a long night in the big city.",
+              "audioStart": 0.1,
+              "audioEnd": 3.562
+            },
+            {
+              "text": "He walked through many streets where thousands of people lived and worked.",
+              "audioStart": 4.425,
+              "audioEnd": 7.775
+            },
+            {
+              "text": "While he was moving along a dark road, a strange sign caught his eye.",
+              "audioStart": 8.637,
+              "audioEnd": 12.137
+            },
+            {
+              "text": "It was a bright green door which stood between an old house and a small shop.",
+              "audioStart": 13,
+              "audioEnd": 16.663
+            },
+            {
+              "text": "The man became very curious because he had never seen such a door before.",
+              "audioStart": 17.525,
+              "audioEnd": 21.512
+            },
+            {
+              "text": "He decided to open it immediately to see what was hidden inside.",
+              "audioStart": 22.375,
+              "audioEnd": 25.488
+            },
+            {
+              "text": "When his hand touched the handle, the door swung open without any noise.",
+              "audioStart": 26.35,
+              "audioEnd": 30.1
+            },
+            {
+              "text": "A warm light shone from the room behind the entrance.",
+              "audioStart": 30.962,
+              "audioEnd": 33.55
+            },
+            {
+              "text": "Inside the space, a woman was sitting quietly by a table.",
+              "audioStart": 34.413,
+              "audioEnd": 37.638
+            },
+            {
+              "text": "She looked at him with surprise when he stepped across the door.",
+              "audioStart": 38.5,
+              "audioEnd": 41.362
+            },
+            {
+              "text": "The man smiled and asked why the green door had been left open.",
+              "audioStart": 42.225,
+              "audioEnd": 45.525
+            },
+            {
+              "text": "She told him that it was a special place where tired people could find peace.",
+              "audioStart": 46.388,
+              "audioEnd": 50.288
+            },
+            {
+              "text": "They talked for several hours about life and their different experiences.",
+              "audioStart": 51.15,
+              "audioEnd": 54.8
+            },
+            {
+              "text": "The man felt a deep connection which he had not hoped to find.",
+              "audioStart": 55.663,
+              "audioEnd": 58.812
+            },
+            {
+              "text": "He realized that this simple choice had changed his evening completely.",
+              "audioStart": 59.675,
+              "audioEnd": 63.288
+            },
+            {
+              "text": "Before the morning came, he thanked her and left the room with a happy heart.",
+              "audioStart": 64.15,
+              "audioEnd": 68.013
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He walked down the long street again because the night was still young.",
+              "audioStart": 68.875,
+              "audioEnd": 72.175
+            },
+            {
+              "text": "The city was full of lights and sounds which made him feel alive.",
+              "audioStart": 73.037,
+              "audioEnd": 76.25
+            },
+            {
+              "text": "If he had stayed at home, he would never have experienced that moment.",
+              "audioStart": 77.112,
+              "audioEnd": 80.65
+            },
+            {
+              "text": "The strange room was hidden from the main road by the old house.",
+              "audioStart": 81.513,
+              "audioEnd": 84.475
+            },
+            {
+              "text": "Many people passed by the green door without noticing it at all.",
+              "audioStart": 85.338,
+              "audioEnd": 88.562
+            },
+            {
+              "text": "The woman inside was someone who understood the quiet parts of life.",
+              "audioStart": 89.425,
+              "audioEnd": 92.825
+            },
+            {
+              "text": "She offered him a cup of tea while they discussed various subjects.",
+              "audioStart": 93.688,
+              "audioEnd": 96.987
+            },
+            {
+              "text": "They spoke about the world and how people changed over time.",
+              "audioStart": 97.85,
+              "audioEnd": 100.812
+            },
+            {
+              "text": "The man remembered every word that she had said to him.",
+              "audioStart": 101.675,
+              "audioEnd": 104.3
+            },
+            {
+              "text": "He knew that he would return to visit that special place soon.",
+              "audioStart": 105.162,
+              "audioEnd": 108.037
+            },
+            {
+              "text": "After they finished talking, he felt much more relaxed than before.",
+              "audioStart": 108.9,
+              "audioEnd": 112.6
+            },
+            {
+              "text": "The green door remained open for anyone who needed a moment of peace.",
+              "audioStart": 113.463,
+              "audioEnd": 116.987
+            },
+            {
+              "text": "When he finally stepped outside, the cool air touched his face gently.",
+              "audioStart": 117.85,
+              "audioEnd": 121.638
+            },
+            {
+              "text": "He looked back at the bright green paint which shone in the dark.",
+              "audioStart": 122.5,
+              "audioEnd": 125.525
+            },
+            {
+              "text": "His heart was full of joy as he continued his journey home.",
+              "audioStart": 126.388,
+              "audioEnd": 129.387
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Life in the big city can sometimes be very busy and tiring.",
+              "audioStart": 130.25,
+              "audioEnd": 133.475
+            },
+            {
+              "text": "People work hard every single day to achieve their personal goals.",
+              "audioStart": 134.338,
+              "audioEnd": 137.75
+            },
+            {
+              "text": "They often forget to look around them for small surprises.",
+              "audioStart": 138.613,
+              "audioEnd": 141.6
+            },
+            {
+              "text": "A simple walk can lead to new discoveries if you are lucky.",
+              "audioStart": 142.463,
+              "audioEnd": 145.438
+            },
+            {
+              "text": "The young man was glad that he had decided to explore that night.",
+              "audioStart": 146.3,
+              "audioEnd": 149.613
+            },
+            {
+              "text": "His adventure proved that magic could still be found in ordinary places.",
+              "audioStart": 150.475,
+              "audioEnd": 154.375
+            },
+            {
+              "text": "The woman inside the room had created a safe space for tired souls.",
+              "audioStart": 155.238,
+              "audioEnd": 159.037
+            },
+            {
+              "text": "She believed that everyone deserved a moment of quiet rest.",
+              "audioStart": 159.9,
+              "audioEnd": 162.9
+            },
+            {
+              "text": "Their conversation was filled with laughter and deep understanding.",
+              "audioStart": 163.762,
+              "audioEnd": 167.025
+            },
+            {
+              "text": "The hours passed quickly while they shared their personal stories.",
+              "audioStart": 167.887,
+              "audioEnd": 171.025
+            },
+            {
+              "text": "Neither of them wanted the evening to end so soon.",
+              "audioStart": 171.887,
+              "audioEnd": 174.425
+            },
+            {
+              "text": "However, the morning sun began to rise above the tall houses.",
+              "audioStart": 175.287,
+              "audioEnd": 178.938
+            },
+            {
+              "text": "The man knew that he had to leave before the city woke up.",
+              "audioStart": 179.8,
+              "audioEnd": 182.613
+            },
+            {
+              "text": "He said goodbye to the kind woman and promised to come back.",
+              "audioStart": 183.475,
+              "audioEnd": 186.475
+            },
+            {
+              "text": "The green door closed softly behind him as he started walking.",
+              "audioStart": 187.338,
+              "audioEnd": 190.65
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "That night remained in his memory like a beautiful dream.",
+              "audioStart": 191.512,
+              "audioEnd": 194.238
+            },
+            {
+              "text": "Whenever he felt stressed by his daily work, he thought of the green door.",
+              "audioStart": 195.1,
+              "audioEnd": 198.8
+            },
+            {
+              "text": "He wondered if the room would still be there if he went back.",
+              "audioStart": 199.662,
+              "audioEnd": 202.325
+            },
+            {
+              "text": "Perhaps the secret place only appeared to those who needed it most.",
+              "audioStart": 203.188,
+              "audioEnd": 206.45
+            },
+            {
+              "text": "Such questions had no easy answers, but they brought him comfort.",
+              "audioStart": 207.312,
+              "audioEnd": 210.85
+            },
+            {
+              "text": "He decided to keep looking for adventure during future nights.",
+              "audioStart": 211.713,
+              "audioEnd": 214.85
+            },
+            {
+              "text": "The big city held many secrets which were waiting to be found.",
+              "audioStart": 215.713,
+              "audioEnd": 218.85
+            },
+            {
+              "text": "You just had to pay attention to the signs around you.",
+              "audioStart": 219.713,
+              "audioEnd": 222.262
+            },
+            {
+              "text": "A single choice could change your entire perspective on life.",
+              "audioStart": 223.125,
+              "audioEnd": 226.338
+            },
+            {
+              "text": "The young man learned that every street had a story to tell.",
+              "audioStart": 227.2,
+              "audioEnd": 230.1
+            },
+            {
+              "text": "He smiled at the thought of his next new journey.",
+              "audioStart": 230.963,
+              "audioEnd": 233.188
+            },
+            {
+              "text": "The night air felt fresh as he moved toward his apartment.",
+              "audioStart": 234.05,
+              "audioEnd": 236.863
+            },
+            {
+              "text": "He opened his door and went inside to sleep until morning.",
+              "audioStart": 237.725,
+              "audioEnd": 240.575
+            },
+            {
+              "text": "His life had been touched by something truly wonderful and rare.",
+              "audioStart": 241.438,
+              "audioEnd": 244.675
+            },
+            {
+              "text": "He would never forget the woman behind the bright green door.",
+              "audioStart": 245.537,
+              "audioEnd": 248.375
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0225.mp3",
+      "wordTimings": "audio/b2/st-0225.timings.json",
+      "quiz": [
+        {
+          "q": "What did the young man find while walking through the city streets?",
+          "options": [
+            "A bright green door",
+            "A large public park",
+            "An old closed restaurant"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who was sitting inside the room behind the door?",
+          "options": [
+            "A young man",
+            "A woman",
+            "An old doctor"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the man and the woman do after he entered?",
+          "options": [
+            "They slept for several hours",
+            "They talked about life and their experiences",
+            "They cleaned the whole room together"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The metropolis hummed with a relentless nocturnal energy, its arteries congested with the frantic pulse of ambition. For a young man seeking an escape from the predictable monotony, the city offered an endless labyrinth of asphalt and neon. He wandered through innumerable thoroughfares where thousands of anonymous souls labored in pursuit of elusive futures. While he was navigating a particularly somber and neglected road, a curious anomaly arrested his progress. It was a violently verdant portal, sandwiched incongruously between the peeling facade of an antique residential building and a modest mercantile shop.",
+              "audioStart": 0.1,
+              "audioEnd": 35.638
+            },
+            {
+              "text": "An acute sense of fascination immediately gripped him, for he had never encountered such a striking splash of color in this dreary district. Without pausing to weigh the prudence of the impulse, he resolved to investigate the hidden interior behind the painted timber. When his fingertips brushed the polished brass handle, the barrier yielded with an eerie, frictionless silence. A soft, amber illumination spilled outward from the secluded chamber, cutting through the shadows of the alleyway. Stepping across the threshold, he found himself observed by a woman who sat quietly beside a rustic wooden table.",
+              "audioStart": 36.5,
+              "audioEnd": 71.45
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She regarded him with a mixture of quiet astonishment rather than alarm as he intruded upon her solitude. Offering an apologetic yet disarming smile, the young man inquired why such a vivid green door had been left invitingly ajar. With a gentle cadence in her voice, she explained that this sanctuary existed expressly for weary travelers who needed respite from the urban storm. They began to converse, drifting effortlessly from mundane observations into profound reflections on their respective existences. He experienced a profound sense of kinship, an intimate resonance he had scarcely dared to hope for in this vast city.",
+              "audioStart": 72.312,
+              "audioEnd": 109.125
+            },
+            {
+              "text": "He recognized with sudden clarity that a single capricious choice had irrevocably altered the trajectory of his evening. Before the premature fingers of dawn began to graze the horizon, he expressed his gratitude with genuine sincerity. Leaving the quiet room, he stepped back into the cool night air with a spirit remarkably lightened. He retraced his steps down the extended street, acutely aware that the nocturnal hours still held immense possibility. The surrounding metropolis continued to pulse with lights and sounds that made him feel intensely alive.",
+              "audioStart": 109.987,
+              "audioEnd": 142.113
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Had he elected to remain within the stifling confines of his apartment, he would have remained entirely oblivious to this ephemeral magic. The extraordinary chamber was cleverly obscured from the primary thoroughfare by the looming bulk of the adjacent tenement. Countless pedestrians hurried past the brilliant green barrier every single day without so much as a sideways glance. Only someone attuned to the quieter rhythms of existence could appreciate the sanctuary residing behind that painted wood. Inside, the woman had offered him a steaming cup of tea while they engaged in diverse and stimulating topics.",
+              "audioStart": 142.975,
+              "audioEnd": 177.787
+            },
+            {
+              "text": "They discussed the relentless transformation of the world and how human ambitions inevitably shift across the passage of time. He committed every deliberate word she uttered to his memory, sensing their enduring value. Knowing intuitively that this unique geographical anomaly would draw him back, he resolved to return soon. The conversation finally tapering off, he felt an unprecedented state of relaxation permeate his limbs and mind. The green door remained miraculously open, a silent invitation for anyone burdened by the relentless weight of the city.",
+              "audioStart": 178.65,
+              "audioEnd": 211.562
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As he finally emerged onto the pavement, a gentle nocturnal breeze caressed his skin with soothing tenderness. He cast one lingering glance backward at the vibrant green paint that seemed to absorb the streetlights. His chest swelled with an uncontainable joy as he resumed his solitary march toward his distant residence. Urban existence was undeniably demanding, forcing individuals to sacrifice their hours at the altar of productivity. People routinely marched through their daily routines, utterly blind to the subtle anomalies tucked away in forgotten corners.",
+              "audioStart": 212.425,
+              "audioEnd": 246.399
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A seemingly insignificant stroll could yield astonishing revelations for anyone fortunate enough to possess an observant eye. The young man felt profoundly grateful for the bold impulse that had dictated his evening explorations. His impromptu adventure provided tangible proof that enchantment could still flourish amidst the concrete and steel. The woman who presided over the hidden room had consciously cultivated a haven for exhausted spirits. She firmly believed that every individual deserved moments of uninterrupted stillness away from societal pressures.",
+              "audioStart": 247.262,
+              "audioEnd": 279.212
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Their dialogue flowed effortlessly, peppered with shared laughter and an uncanny mutual understanding of life's complexities. Hours dissolved into insignificance as they traded fragments of their personal histories like precious commodities. Neither of them wished for the prolonged night to reach its inevitable conclusion so precipitously. Yet, the pale harbinger of morning slowly began to manifest above the towering silhouettes of the residential blocks. He understood that discretion required him to depart before the bustling metropolis resumed its noisy operations.",
+              "audioStart": 280.075,
+              "audioEnd": 312.812
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Bidding a fond farewell to his gracious host, he extracted a promise from himself to revisit the sanctuary. The green portal clicked shut with a muffled softness as he stepped off the threshold and onto the pavement. That singular night etched itself permanently into his consciousness, glowing with the pristine clarity of a cherished dream. Whenever the inevitable pressures of his professional occupation threatened to overwhelm him, his thoughts drifted instinctively toward the green door. He frequently pondered whether the secluded room would materialize if he dared to seek it out again.",
+              "audioStart": 313.675,
+              "audioEnd": 346.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Perhaps such miraculous architecture revealed itself exclusively to those whose desperation exceeded their skepticism. Although these inquiries yielded no definitive answers, simply entertaining them provided immense psychological comfort. He determined to maintain his vigilance during future nocturnal excursions, refusing to let the magic of the city pass him by. The vast urban expanse clearly harbored countless secrets that demanded only curiosity and attention to reveal themselves. One simply needed to cultivate the awareness required to interpret the subtle signs scattered across the urban landscape.",
+              "audioStart": 347.487,
+              "audioEnd": 382.887
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A solitary decision possessed the transformative capacity to entirely reframe an individual's worldview. The young man smiled inwardly, already anticipating the potential discoveries awaiting him on subsequent journeys. The midnight atmosphere felt invigorating as he directed his strides toward his modest apartment building. Unlocking his front door, he slipped inside to embrace the deep slumber of a contented traveler. His ordinary existence had been irrevocably brushed by something exceptionally rare and wondrous. He knew with absolute certainty that he would never forget the woman residing behind the brilliant green door.",
+              "audioStart": 383.75,
+              "audioEnd": 420.412
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0225.mp3",
+      "wordTimings": "audio/c1/st-0225.timings.json",
+      "quiz": [
+        {
+          "q": "What prompted the young man to investigate the doorway in the first place?",
+          "options": [
+            "He heard someone calling his name from inside.",
+            "A strange and brightly colored green sign caught his eye.",
+            "A woman standing outside invited him to enter."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the woman inside the room offer to the young man during their meeting?",
+          "options": [
+            "A warm cup of tea and a conversation",
+            "A map of the city's hidden streets",
+            "A place to sleep until the morning"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did the young man eventually decide to leave the room?",
+          "options": [
+            "The woman asked him to leave because she was tired.",
+            "The morning sun began to rise above the houses.",
+            "He heard police sirens approaching the building."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

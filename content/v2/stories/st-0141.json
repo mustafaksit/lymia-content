@@ -1,0 +1,1579 @@
+{
+  "id": "st-0141",
+  "title": "Rikki-Tikki-Tavi",
+  "genre": "adventure",
+  "summary": "A brave small mongoose helps a kind family and fights two bad snakes.",
+  "coverScene": "A brave young mongoose stands proudly in a green garden beside a small house.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Young Rikki is small.",
+              "audioStart": 0.106,
+              "audioEnd": 1.508
+            },
+            {
+              "text": "A water bring him to a house.",
+              "audioStart": 2.472,
+              "audioEnd": 4.278
+            },
+            {
+              "text": "A kind family help him.",
+              "audioStart": 5.236,
+              "audioEnd": 6.889
+            },
+            {
+              "text": "They give him a home.",
+              "audioStart": 7.847,
+              "audioEnd": 8.958
+            },
+            {
+              "text": "He walks around the big place.",
+              "audioStart": 9.917,
+              "audioEnd": 11.833
+            },
+            {
+              "text": "He looks at the land.",
+              "audioStart": 12.792,
+              "audioEnd": 14.097
+            },
+            {
+              "text": "He learns about life.",
+              "audioStart": 15.056,
+              "audioEnd": 16.542
+            },
+            {
+              "text": "He sees two bad thing here.",
+              "audioStart": 17.5,
+              "audioEnd": 19.139
+            },
+            {
+              "text": "Nag and Nagaina rule this area.",
+              "audioStart": 20.097,
+              "audioEnd": 22.056
+            },
+            {
+              "text": "They want to make people bad.",
+              "audioStart": 23.014,
+              "audioEnd": 24.569
+            },
+            {
+              "text": "They also make other little life bad.",
+              "audioStart": 25.528,
+              "audioEnd": 27.694
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Rikki is very good.",
+              "audioStart": 28.653,
+              "audioEnd": 30.014
+            },
+            {
+              "text": "He decide to keep people well.",
+              "audioStart": 30.972,
+              "audioEnd": 32.764
+            },
+            {
+              "text": "He goes after both bad thing.",
+              "audioStart": 33.722,
+              "audioEnd": 35.514
+            },
+            {
+              "text": "He works hard in every day.",
+              "audioStart": 36.472,
+              "audioEnd": 38.167
+            },
+            {
+              "text": "He looks down around the land.",
+              "audioStart": 39.125,
+              "audioEnd": 40.861
+            },
+            {
+              "text": "He finds a last little thing.",
+              "audioStart": 41.819,
+              "audioEnd": 43.667
+            },
+            {
+              "text": "It is a small thing.",
+              "audioStart": 44.625,
+              "audioEnd": 45.889
+            },
+            {
+              "text": "It is in a little house.",
+              "audioStart": 46.847,
+              "audioEnd": 48.264
+            },
+            {
+              "text": "He break that little house right now.",
+              "audioStart": 49.222,
+              "audioEnd": 51.222
+            },
+            {
+              "text": "Bad time end in this place.",
+              "audioStart": 52.181,
+              "audioEnd": 53.972
+            },
+            {
+              "text": "Good life come back to everyone.",
+              "audioStart": 54.931,
+              "audioEnd": 56.75
+            },
+            {
+              "text": "The family live well every day.",
+              "audioStart": 57.708,
+              "audioEnd": 59.681
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The land is very good now.",
+              "audioStart": 60.639,
+              "audioEnd": 62.222
+            },
+            {
+              "text": "Little things feel very good too.",
+              "audioStart": 63.181,
+              "audioEnd": 65.083
+            },
+            {
+              "text": "Rikki watch the house all day.",
+              "audioStart": 66.042,
+              "audioEnd": 67.806
+            },
+            {
+              "text": "He stays near the people always.",
+              "audioStart": 68.764,
+              "audioEnd": 70.792
+            },
+            {
+              "text": "He love these good people much.",
+              "audioStart": 71.75,
+              "audioEnd": 73.611
+            },
+            {
+              "text": "His good life keep everyone well.",
+              "audioStart": 74.569,
+              "audioEnd": 76.542
+            },
+            {
+              "text": "He stays in the house.",
+              "audioStart": 77.5,
+              "audioEnd": 78.931
+            },
+            {
+              "text": "He is a good friend.",
+              "audioStart": 79.889,
+              "audioEnd": 81.139
+            },
+            {
+              "text": "The family love him too.",
+              "audioStart": 82.097,
+              "audioEnd": 83.681
+            },
+            {
+              "text": "They live well every day.",
+              "audioStart": 84.639,
+              "audioEnd": 86.194
+            },
+            {
+              "text": "Rikki watch over the home.",
+              "audioStart": 87.153,
+              "audioEnd": 88.639
+            },
+            {
+              "text": "He is very glad.",
+              "audioStart": 89.597,
+              "audioEnd": 90.833
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0141.mp3",
+      "wordTimings": "audio/a1/st-0141.timings.json",
+      "quiz": [
+        {
+          "q": "Who brings Rikki-Tikki to the garden?",
+          "options": [
+            "A flood",
+            "Nag and Nagaina",
+            "The family"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What are the names of the two cobras?",
+          "options": [
+            "Rikki and Tikki",
+            "Nag and Nagaina",
+            "House and Garden"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does Rikki-Tikki find at the end?",
+          "options": [
+            "A new house",
+            "A big flood",
+            "Nagaina's last hidden egg"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A young friend came into a big garden.",
+              "audioStart": 0.106,
+              "audioEnd": 2.217
+            },
+            {
+              "text": "A water problem brought him there.",
+              "audioStart": 3.181,
+              "audioEnd": 5
+            },
+            {
+              "text": "A kind family took him inside their house.",
+              "audioStart": 5.958,
+              "audioEnd": 8.514
+            },
+            {
+              "text": "The house felt very nice.",
+              "audioStart": 9.472,
+              "audioEnd": 11.125
+            },
+            {
+              "text": "He walked around the large garden.",
+              "audioStart": 12.083,
+              "audioEnd": 13.958
+            },
+            {
+              "text": "He wanted to learn about it.",
+              "audioStart": 14.917,
+              "audioEnd": 16.458
+            },
+            {
+              "text": "He looked at the trees and the ground.",
+              "audioStart": 17.417,
+              "audioEnd": 19.278
+            },
+            {
+              "text": "He felt happy in the new place.",
+              "audioStart": 20.236,
+              "audioEnd": 22.208
+            },
+            {
+              "text": "The light came down upon the green land.",
+              "audioStart": 23.167,
+              "audioEnd": 25.444
+            },
+            {
+              "text": "He ran through the green land every day.",
+              "audioStart": 26.403,
+              "audioEnd": 28.639
+            },
+            {
+              "text": "He found many interesting things to see.",
+              "audioStart": 29.597,
+              "audioEnd": 31.931
+            },
+            {
+              "text": "He liked the open space very much.",
+              "audioStart": 32.889,
+              "audioEnd": 35.167
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He found two bad animals named Nag and Nagaina.",
+              "audioStart": 36.125,
+              "audioEnd": 38.958
+            },
+            {
+              "text": "They were a problem for the family.",
+              "audioStart": 39.917,
+              "audioEnd": 41.722
+            },
+            {
+              "text": "They were also a problem for other animals.",
+              "audioStart": 42.681,
+              "audioEnd": 45.069
+            },
+            {
+              "text": "The family lived near the garden.",
+              "audioStart": 46.028,
+              "audioEnd": 47.778
+            },
+            {
+              "text": "The animals were bad and full of sound.",
+              "audioStart": 48.736,
+              "audioEnd": 51.028
+            },
+            {
+              "text": "The friend decided to protect his new home.",
+              "audioStart": 51.986,
+              "audioEnd": 54.361
+            },
+            {
+              "text": "He did not want the bad animals to stay.",
+              "audioStart": 55.319,
+              "audioEnd": 57.611
+            },
+            {
+              "text": "He watched them day and night.",
+              "audioStart": 58.569,
+              "audioEnd": 60.25
+            },
+            {
+              "text": "He walked close to the house.",
+              "audioStart": 61.208,
+              "audioEnd": 62.931
+            },
+            {
+              "text": "He wanted to keep the people well.",
+              "audioStart": 63.889,
+              "audioEnd": 65.736
+            },
+            {
+              "text": "The family loved him a lot.",
+              "audioStart": 66.694,
+              "audioEnd": 68.389
+            },
+            {
+              "text": "They knew he would help them.",
+              "audioStart": 69.347,
+              "audioEnd": 70.764
+            },
+            {
+              "text": "He stayed ready for any action.",
+              "audioStart": 71.722,
+              "audioEnd": 73.736
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He fought the bad animals with great power.",
+              "audioStart": 74.694,
+              "audioEnd": 77.125
+            },
+            {
+              "text": "He used his head and his fast movement.",
+              "audioStart": 78.083,
+              "audioEnd": 80.417
+            },
+            {
+              "text": "He won against them in the end.",
+              "audioStart": 81.375,
+              "audioEnd": 83.125
+            },
+            {
+              "text": "He worked hard to keep the family well.",
+              "audioStart": 84.083,
+              "audioEnd": 86.222
+            },
+            {
+              "text": "Then he looked all around the place.",
+              "audioStart": 87.181,
+              "audioEnd": 89.153
+            },
+            {
+              "text": "He wanted to find the last thing.",
+              "audioStart": 90.111,
+              "audioEnd": 92.014
+            },
+            {
+              "text": "He looked behind every tree.",
+              "audioStart": 92.972,
+              "audioEnd": 94.722
+            },
+            {
+              "text": "He looked near the dark door.",
+              "audioStart": 95.681,
+              "audioEnd": 97.319
+            },
+            {
+              "text": "At last, he found a small white item.",
+              "audioStart": 98.278,
+              "audioEnd": 100.75
+            },
+            {
+              "text": "It was a round object on the ground.",
+              "audioStart": 101.708,
+              "audioEnd": 103.792
+            },
+            {
+              "text": "It was from the bad animals.",
+              "audioStart": 104.75,
+              "audioEnd": 106.403
+            },
+            {
+              "text": "He knew he must finish his job.",
+              "audioStart": 107.361,
+              "audioEnd": 109.222
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He broke that final object right then.",
+              "audioStart": 110.181,
+              "audioEnd": 112.528
+            },
+            {
+              "text": "He did not let it stay.",
+              "audioStart": 113.486,
+              "audioEnd": 114.958
+            },
+            {
+              "text": "He ended their bad rule for all time.",
+              "audioStart": 115.917,
+              "audioEnd": 118.306
+            },
+            {
+              "text": "Quiet time returned to the lovely place.",
+              "audioStart": 119.264,
+              "audioEnd": 121.653
+            },
+            {
+              "text": "The family felt very good again.",
+              "audioStart": 122.611,
+              "audioEnd": 124.542
+            },
+            {
+              "text": "Small animals also felt secure in the garden.",
+              "audioStart": 125.5,
+              "audioEnd": 128.194
+            },
+            {
+              "text": "The friend watched the house day and night.",
+              "audioStart": 129.153,
+              "audioEnd": 131.333
+            },
+            {
+              "text": "He always stayed close to the people.",
+              "audioStart": 132.292,
+              "audioEnd": 134.361
+            },
+            {
+              "text": "He loved the family very much.",
+              "audioStart": 135.319,
+              "audioEnd": 137.222
+            },
+            {
+              "text": "His strong heart kept everyone well.",
+              "audioStart": 138.181,
+              "audioEnd": 140.417
+            },
+            {
+              "text": "No bad animal could come back now.",
+              "audioStart": 141.375,
+              "audioEnd": 143.403
+            },
+            {
+              "text": "The garden was a nice home for all.",
+              "audioStart": 144.361,
+              "audioEnd": 146.403
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0141.mp3",
+      "wordTimings": "audio/a2/st-0141.timings.json",
+      "quiz": [
+        {
+          "q": "How did Rikki-Tikki arrive at the family's garden?",
+          "options": [
+            "A water problem brought him there",
+            "He walked from the city",
+            "The family bought him"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What were the names of the two bad cobras?",
+          "options": [
+            "Rikki and Tikki",
+            "Nag and Nagaina",
+            "Tom and Anna"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did Rikki-Tikki find at the end to stop the cobras?",
+          "options": [
+            "A new house",
+            "A hidden egg",
+            "Some food"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A young animal named Rikki-Tikki was brought into a garden by water.",
+              "audioStart": 0.1,
+              "audioEnd": 3.425
+            },
+            {
+              "text": "A kind family dried him and took him inside their warm home.",
+              "audioStart": 4.287,
+              "audioEnd": 7.338
+            },
+            {
+              "text": "While exploring the big garden, he learned an important lesson.",
+              "audioStart": 8.2,
+              "audioEnd": 11.338
+            },
+            {
+              "text": "He discovered that two dangerous enemies ruled the area.",
+              "audioStart": 12.2,
+              "audioEnd": 15
+            },
+            {
+              "text": "They threatened the family and other small individuals near the house.",
+              "audioStart": 15.863,
+              "audioEnd": 19.212
+            },
+            {
+              "text": "Rikki-Tikki decided to protect his new home because he was strong.",
+              "audioStart": 20.075,
+              "audioEnd": 23.512
+            },
+            {
+              "text": "He has protected the garden for a long time.",
+              "audioStart": 24.375,
+              "audioEnd": 26.675
+            },
+            {
+              "text": "If any problem appeared, he would face it immediately.",
+              "audioStart": 27.538,
+              "audioEnd": 30.387
+            },
+            {
+              "text": "The family has always supported him during every difficulty.",
+              "audioStart": 31.25,
+              "audioEnd": 34.337
+            },
+            {
+              "text": "He has won many fights since he arrived here.",
+              "audioStart": 35.2,
+              "audioEnd": 37.5
+            },
+            {
+              "text": "Proud Rikki-Tikki kept a careful watch over the house day and night.",
+              "audioStart": 38.362,
+              "audioEnd": 41.75
+            },
+            {
+              "text": "He always stayed near the people he had come to love.",
+              "audioStart": 42.612,
+              "audioEnd": 45.1
+            },
+            {
+              "text": "His strong heart and quick mind ensured everyone lived safely.",
+              "audioStart": 45.962,
+              "audioEnd": 49.263
+            },
+            {
+              "text": "The sun sends light upon the green land every morning.",
+              "audioStart": 50.125,
+              "audioEnd": 52.888
+            },
+            {
+              "text": "The lovely flowers grow tall near the warm house.",
+              "audioStart": 53.75,
+              "audioEnd": 56.337
+            },
+            {
+              "text": "Birds sing beautiful songs while children play outside.",
+              "audioStart": 57.2,
+              "audioEnd": 59.975
+            },
+            {
+              "text": "No danger remains in this quiet community now.",
+              "audioStart": 60.837,
+              "audioEnd": 63.3
+            },
+            {
+              "text": "Everyone feels happy because Rikki-Tikki watches over them.",
+              "audioStart": 64.162,
+              "audioEnd": 67.225
+            },
+            {
+              "text": "Life in the garden is peaceful now.",
+              "audioStart": 68.088,
+              "audioEnd": 69.875
+            },
+            {
+              "text": "The green grass grows around the house.",
+              "audioStart": 70.737,
+              "audioEnd": 72.75
+            },
+            {
+              "text": "Children play games while birds sing songs.",
+              "audioStart": 73.612,
+              "audioEnd": 75.938
+            },
+            {
+              "text": "Rikki-Tikki walks through the flowers every single day.",
+              "audioStart": 76.8,
+              "audioEnd": 79.638
+            },
+            {
+              "text": "He looks at the trees and the sky above.",
+              "audioStart": 80.5,
+              "audioEnd": 82.525
+            },
+            {
+              "text": "The family gives him good food every evening.",
+              "audioStart": 83.388,
+              "audioEnd": 85.787
+            },
+            {
+              "text": "He eats and then sleeps near the door.",
+              "audioStart": 86.65,
+              "audioEnd": 88.625
+            },
+            {
+              "text": "The house is safe because he is there.",
+              "audioStart": 89.487,
+              "audioEnd": 91.388
+            },
+            {
+              "text": "Nothing can hurt the people in this home.",
+              "audioStart": 92.25,
+              "audioEnd": 94.175
+            },
+            {
+              "text": "He feels proud of his work in the garden.",
+              "audioStart": 95.037,
+              "audioEnd": 96.963
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He had defeated both enemies during several dangerous encounters.",
+              "audioStart": 97.825,
+              "audioEnd": 101.275
+            },
+            {
+              "text": "He fought hard so that the family would remain safe.",
+              "audioStart": 102.138,
+              "audioEnd": 104.775
+            },
+            {
+              "text": "After defeating the big animals, he found the last hidden egg.",
+              "audioStart": 105.638,
+              "audioEnd": 108.938
+            },
+            {
+              "text": "Destroying that final egg ended their terrible control over the garden.",
+              "audioStart": 109.8,
+              "audioEnd": 113.312
+            },
+            {
+              "text": "Peace returned to the lovely place where the family lived.",
+              "audioStart": 114.175,
+              "audioEnd": 116.925
+            },
+            {
+              "text": "The garden was quiet again, and small individuals felt safe.",
+              "audioStart": 117.787,
+              "audioEnd": 121.312
+            },
+            {
+              "text": "He has won many fights since he arrived here.",
+              "audioStart": 122.175,
+              "audioEnd": 124.475
+            },
+            {
+              "text": "He remembers the fights he had with the big snakes.",
+              "audioStart": 125.338,
+              "audioEnd": 127.9
+            },
+            {
+              "text": "They tried to hurt the family and take the house.",
+              "audioStart": 128.762,
+              "audioEnd": 131.088
+            },
+            {
+              "text": "Rikki-Tikki stood against them and fought with all his power.",
+              "audioStart": 131.95,
+              "audioEnd": 134.925
+            },
+            {
+              "text": "He never stopped until the danger was gone.",
+              "audioStart": 135.787,
+              "audioEnd": 137.963
+            },
+            {
+              "text": "The snakes lost the fight because he was too strong.",
+              "audioStart": 138.825,
+              "audioEnd": 141.463
+            },
+            {
+              "text": "The garden became a safe place for everyone.",
+              "audioStart": 142.325,
+              "audioEnd": 144.688
+            },
+            {
+              "text": "He found the last hidden egg under the green plants.",
+              "audioStart": 145.55,
+              "audioEnd": 148.137
+            },
+            {
+              "text": "That ended their control over the area completely.",
+              "audioStart": 149,
+              "audioEnd": 151.662
+            },
+            {
+              "text": "Now the world is quiet and full of light.",
+              "audioStart": 152.525,
+              "audioEnd": 154.6
+            },
+            {
+              "text": "No bad animals can live here anymore.",
+              "audioStart": 155.463,
+              "audioEnd": 157.45
+            },
+            {
+              "text": "The family smiles when they see him walking around.",
+              "audioStart": 158.312,
+              "audioEnd": 160.825
+            },
+            {
+              "text": "They know he will always keep them safe from harm.",
+              "audioStart": 161.688,
+              "audioEnd": 164.075
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He always stayed near the people he had come to love.",
+              "audioStart": 164.938,
+              "audioEnd": 167.425
+            },
+            {
+              "text": "The sun sends light upon the green land every morning.",
+              "audioStart": 168.287,
+              "audioEnd": 171.05
+            },
+            {
+              "text": "The lovely flowers grow tall near the warm house.",
+              "audioStart": 171.912,
+              "audioEnd": 174.5
+            },
+            {
+              "text": "Birds sing beautiful songs while children play outside.",
+              "audioStart": 175.363,
+              "audioEnd": 178.137
+            },
+            {
+              "text": "No danger remains in this quiet community now.",
+              "audioStart": 179,
+              "audioEnd": 181.463
+            },
+            {
+              "text": "Everyone feels happy because Rikki-Tikki watches over them.",
+              "audioStart": 182.325,
+              "audioEnd": 185.387
+            },
+            {
+              "text": "The days pass slowly and happily in the sunny garden.",
+              "audioStart": 186.25,
+              "audioEnd": 189.012
+            },
+            {
+              "text": "Rikki-Tikki rests under the shade of a big tree.",
+              "audioStart": 189.875,
+              "audioEnd": 192.412
+            },
+            {
+              "text": "The wind blows softly through the green leaves.",
+              "audioStart": 193.275,
+              "audioEnd": 195.575
+            },
+            {
+              "text": "He closes his eyes for a short rest.",
+              "audioStart": 196.438,
+              "audioEnd": 198.575
+            },
+            {
+              "text": "Then he opens them and looks around the yard.",
+              "audioStart": 199.438,
+              "audioEnd": 201.537
+            },
+            {
+              "text": "Everything is quiet and good.",
+              "audioStart": 202.4,
+              "audioEnd": 203.925
+            },
+            {
+              "text": "The family comes outside to sit in the warm sun.",
+              "audioStart": 204.787,
+              "audioEnd": 207.262
+            },
+            {
+              "text": "They look at Rikki-Tikki with love and thank him.",
+              "audioStart": 208.125,
+              "audioEnd": 210.363
+            },
+            {
+              "text": "He wags his tail and makes a happy sound.",
+              "audioStart": 211.225,
+              "audioEnd": 213.525
+            },
+            {
+              "text": "The story of his bravery lives on in the home.",
+              "audioStart": 214.387,
+              "audioEnd": 216.512
+            },
+            {
+              "text": "He is a true hero to the people who love him.",
+              "audioStart": 217.375,
+              "audioEnd": 219.65
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0141.mp3",
+      "wordTimings": "audio/b1/st-0141.timings.json",
+      "quiz": [
+        {
+          "q": "What brought Rikki-Tikki into the garden?",
+          "options": [
+            "A flood",
+            "The family",
+            "A storm"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who ruled the area before Rikki-Tikki arrived?",
+          "options": [
+            "The family",
+            "Nag and Nagaina",
+            "Small creatures"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did Rikki-Tikki find after defeating the big snakes?",
+          "options": [
+            "A hidden house",
+            "Nagaina's last hidden egg",
+            "Another mongoose"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A young animal named Rikki-Tikki was swept by a flood into the garden of a kind English family.",
+              "audioStart": 0.1,
+              "audioEnd": 4.9
+            },
+            {
+              "text": "The family dried him off and took him into their warm home.",
+              "audioStart": 5.763,
+              "audioEnd": 8.5
+            },
+            {
+              "text": "While exploring the big garden, he learned an important lesson about his new home.",
+              "audioStart": 9.363,
+              "audioEnd": 13.375
+            },
+            {
+              "text": "He discovered that two dangerous enemies ruled the area.",
+              "audioStart": 14.238,
+              "audioEnd": 17.038
+            },
+            {
+              "text": "They threatened both the family and the other small creatures living near the house.",
+              "audioStart": 17.9,
+              "audioEnd": 21.75
+            },
+            {
+              "text": "Because he was strong and quick, Rikki-Tikki decided to defend his new home from them.",
+              "audioStart": 22.613,
+              "audioEnd": 26.938
+            },
+            {
+              "text": "Through work and smart action, he managed to trick both enemies during several dangerous encounters.",
+              "audioStart": 27.8,
+              "audioEnd": 33.062
+            },
+            {
+              "text": "He fought hard against them so that the family would remain safe from harm.",
+              "audioStart": 33.925,
+              "audioEnd": 37.462
+            },
+            {
+              "text": "After defeating the big animals, he searched everywhere until he found the last hidden egg.",
+              "audioStart": 38.325,
+              "audioEnd": 42.95
+            },
+            {
+              "text": "Destroying that final egg ended their terrible control over the garden once and for all.",
+              "audioStart": 43.812,
+              "audioEnd": 48.288
+            },
+            {
+              "text": "Peace returned to the lovely place where the family lived happily every day.",
+              "audioStart": 49.15,
+              "audioEnd": 52.812
+            },
+            {
+              "text": "The garden was quiet again, and all the small creatures felt safe once more.",
+              "audioStart": 53.675,
+              "audioEnd": 57.763
+            },
+            {
+              "text": "If he had not arrived, the danger would have continued.",
+              "audioStart": 58.625,
+              "audioEnd": 61.312
+            },
+            {
+              "text": "Every single person was very grateful for his courage.",
+              "audioStart": 62.175,
+              "audioEnd": 65.125
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Proud Rikki-Tikki kept a careful watch over the house day and night.",
+              "audioStart": 65.987,
+              "audioEnd": 69.375
+            },
+            {
+              "text": "He always stayed near the people he had come to love so deeply.",
+              "audioStart": 70.237,
+              "audioEnd": 73.338
+            },
+            {
+              "text": "His strong heart and quick mind ensured that everyone lived safely in their quiet home.",
+              "audioStart": 74.2,
+              "audioEnd": 78.513
+            },
+            {
+              "text": "He walked around the garden every morning to check if anything was wrong.",
+              "audioStart": 79.375,
+              "audioEnd": 82.85
+            },
+            {
+              "text": "The family felt very happy because they knew that Rikki-Tikki was watching them.",
+              "audioStart": 83.713,
+              "audioEnd": 87.537
+            },
+            {
+              "text": "He slept near the door during the night, keeping watch against any possible danger.",
+              "audioStart": 88.4,
+              "audioEnd": 92.7
+            },
+            {
+              "text": "Many small creatures came to him to say thank you for his hard work.",
+              "audioStart": 93.562,
+              "audioEnd": 96.963
+            },
+            {
+              "text": "They told him stories about how much the area had changed since he arrived.",
+              "audioStart": 97.825,
+              "audioEnd": 101.6
+            },
+            {
+              "text": "Before he came, nobody could walk outside without fear.",
+              "audioStart": 102.463,
+              "audioEnd": 105.6
+            },
+            {
+              "text": "Now, children played on the grass and birds sang in the trees.",
+              "audioStart": 106.463,
+              "audioEnd": 109.725
+            },
+            {
+              "text": "Rikki-Tikki smiled and told them that keeping everyone safe was his primary goal.",
+              "audioStart": 110.588,
+              "audioEnd": 114.862
+            },
+            {
+              "text": "The sun shone brightly upon the lovely flowers and green plants.",
+              "audioStart": 115.725,
+              "audioEnd": 119.15
+            },
+            {
+              "text": "Life went on smoothly day after day.",
+              "audioStart": 120.013,
+              "audioEnd": 122.037
+            },
+            {
+              "text": "He spent his hours resting in the warm sun.",
+              "audioStart": 122.9,
+              "audioEnd": 125.237
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Days passed into weeks, and the calm environment remained completely the same.",
+              "audioStart": 126.1,
+              "audioEnd": 130.225
+            },
+            {
+              "text": "The family spent many hours sitting together in the garden while reading books.",
+              "audioStart": 131.088,
+              "audioEnd": 134.85
+            },
+            {
+              "text": "Rikki-Tikki lay nearby, enjoying the warm light on his soft body.",
+              "audioStart": 135.713,
+              "audioEnd": 139.512
+            },
+            {
+              "text": "Whenever a strange sound occurred, he stood up quickly to investigate.",
+              "audioStart": 140.375,
+              "audioEnd": 143.975
+            },
+            {
+              "text": "Nothing could surprise him because his attention never stopped.",
+              "audioStart": 144.838,
+              "audioEnd": 147.838
+            },
+            {
+              "text": "The kind family provided him with good food and a special place to sleep.",
+              "audioStart": 148.7,
+              "audioEnd": 152.55
+            },
+            {
+              "text": "He appreciated their love and gave them his absolute trust in return.",
+              "audioStart": 153.412,
+              "audioEnd": 157.012
+            },
+            {
+              "text": "This wonderful relationship brought joy to everyone living in the house.",
+              "audioStart": 157.875,
+              "audioEnd": 161.512
+            },
+            {
+              "text": "The garden remained a safe place for all creatures who lived there.",
+              "audioStart": 162.375,
+              "audioEnd": 165.575
+            },
+            {
+              "text": "Rikki-Tikki became a true hero whose name would be remembered forever.",
+              "audioStart": 166.438,
+              "audioEnd": 169.912
+            },
+            {
+              "text": "His story spread across the country, showing how one small animal could change everything.",
+              "audioStart": 170.775,
+              "audioEnd": 175.412
+            },
+            {
+              "text": "People talked about his great work whenever they visited the area.",
+              "audioStart": 176.275,
+              "audioEnd": 179.412
+            },
+            {
+              "text": "He was known as the best defender in the world.",
+              "audioStart": 180.275,
+              "audioEnd": 182.488
+            },
+            {
+              "text": "No one could ever forget his brave actions.",
+              "audioStart": 183.35,
+              "audioEnd": 185.7
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Even though the battles were difficult, Rikki-Tikki never lost hope.",
+              "audioStart": 186.562,
+              "audioEnd": 189.975
+            },
+            {
+              "text": "He always believed that good would win over evil in the end.",
+              "audioStart": 190.838,
+              "audioEnd": 193.725
+            },
+            {
+              "text": "His friends supported him through every single challenge he faced.",
+              "audioStart": 194.588,
+              "audioEnd": 197.787
+            },
+            {
+              "text": "Together, they built a society based on trust and mutual respect.",
+              "audioStart": 198.65,
+              "audioEnd": 202.525
+            },
+            {
+              "text": "The memory of those dangerous days faded slowly into the background.",
+              "audioStart": 203.387,
+              "audioEnd": 206.725
+            },
+            {
+              "text": "New flowers grew where the old problems once existed.",
+              "audioStart": 207.588,
+              "audioEnd": 210.35
+            },
+            {
+              "text": "The air felt fresh and clean every morning.",
+              "audioStart": 211.213,
+              "audioEnd": 213.512
+            },
+            {
+              "text": "Rikki-Tikki looked around his home with a sense of deep satisfaction.",
+              "audioStart": 214.375,
+              "audioEnd": 217.887
+            },
+            {
+              "text": "He knew that his job was done properly and well.",
+              "audioStart": 218.75,
+              "audioEnd": 221.125
+            },
+            {
+              "text": "The house stood tall against the background of the beautiful blue sky.",
+              "audioStart": 221.988,
+              "audioEnd": 225.125
+            },
+            {
+              "text": "Every member of the family smiled when they looked at their little defender.",
+              "audioStart": 225.988,
+              "audioEnd": 229.338
+            },
+            {
+              "text": "Life went on smoothly, bringing happiness to all who shared this special place.",
+              "audioStart": 230.2,
+              "audioEnd": 234.363
+            },
+            {
+              "text": "If anyone needed help, he was always ready.",
+              "audioStart": 235.225,
+              "audioEnd": 237.725
+            },
+            {
+              "text": "The community lived in peace and harmony forever.",
+              "audioStart": 238.588,
+              "audioEnd": 241.15
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0141.mp3",
+      "wordTimings": "audio/b2/st-0141.timings.json",
+      "quiz": [
+        {
+          "q": "How did Rikki-Tikki first arrive in the garden?",
+          "options": [
+            "He was swept there by a flood.",
+            "He walked there from another city.",
+            "The family brought him from school."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who ruled the garden before Rikki-Tikki arrived?",
+          "options": [
+            "Two dangerous cobras named Nag and Nagaina.",
+            "A group of friendly dogs and cats.",
+            "The kind English family."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did Rikki-Tikki find that finally ended the cobras' reign?",
+          "options": [
+            "Nagaina's last hidden egg.",
+            "A secret door in the house.",
+            "An old book about animals."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "When the merciless summer flood tore through the valley, a violent surge of muddy water swept a young mongoose far from his familiar home.",
+              "audioStart": 0.1,
+              "audioEnd": 6.8
+            },
+            {
+              "text": "Carried helplessly along the raging current, Rikki-Tikki-Tavi found himself deposited upon the manicured lawn of a sprawling bungalow.",
+              "audioStart": 7.662,
+              "audioEnd": 14.85
+            },
+            {
+              "text": "There, a kind English family discovered the exhausted creature shivering near the flowerbeds, soaked to the skin and desperately needing shelter.",
+              "audioStart": 15.713,
+              "audioEnd": 23.275
+            },
+            {
+              "text": "With gentle hands, they dried his damp fur with a soft towel and carried him into the warmth of their sunlit veranda.",
+              "audioStart": 24.137,
+              "audioEnd": 30.025
+            },
+            {
+              "text": "It was a hospitality that would forever alter the destiny of both the household and the wild garden surrounding it.",
+              "audioStart": 30.887,
+              "audioEnd": 36.413
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Exploring his vast new domain on hesitant paws, the young mongoose soon realized that paradise had a darker, more menacing side.",
+              "audioStart": 37.275,
+              "audioEnd": 44.675
+            },
+            {
+              "text": "Two formidable cobras ruled the high grass with absolute tyranny, instilling terror in every living creature that dared to cross their path.",
+              "audioStart": 45.538,
+              "audioEnd": 53.1
+            },
+            {
+              "text": "They posed an immediate, lethal threat not only to the helpless birds in the hedges but to the human family resting inside the house.",
+              "audioStart": 53.962,
+              "audioEnd": 60.663
+            },
+            {
+              "text": "Endowed with the fierce courage and lightning reflexes of his kind, Rikki-Tikki resolved that he would not let fear dictate his new life.",
+              "audioStart": 61.525,
+              "audioEnd": 68.438
+            },
+            {
+              "text": "He quietly vowed to defend his human benefactors against the shadowy rulers who lurked beneath the roots of the rose bushes.",
+              "audioStart": 69.3,
+              "audioEnd": 75.688
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Through calculated cunning and swift maneuvers, Rikki-Tikki confronted his fearsome adversaries in a series of tense, heart-pounding encounters.",
+              "audioStart": 76.55,
+              "audioEnd": 84.688
+            },
+            {
+              "text": "He relied not merely on his physical agility, but upon a sharp intellect that anticipated every sudden strike of his venomous foes.",
+              "audioStart": 85.55,
+              "audioEnd": 92.775
+            },
+            {
+              "text": "Every shadow in the garden seemed to conceal a hidden danger, yet his vigilance never wavered for a single solitary moment.",
+              "audioStart": 93.638,
+              "audioEnd": 100.138
+            },
+            {
+              "text": "When the larger cobra crept toward the veranda under the cover of dusk, the watchful mongoose intercepted the threat with startling precision.",
+              "audioStart": 101,
+              "audioEnd": 108.213
+            },
+            {
+              "text": "Hard-fought and exhausting, the skirmish tested every ounce of his stamina as he struggled to keep the household safe from harm.",
+              "audioStart": 109.075,
+              "audioEnd": 115.463
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Victory, however, demanded absolute thoroughness, for the ultimate peril remained hidden beneath the damp earth of the melon patch.",
+              "audioStart": 116.325,
+              "audioEnd": 123.463
+            },
+            {
+              "text": "Searching frantically through the tangled roots and shadowed corners, Rikki-Tikki hunted down every last hidden egg left by the serpents.",
+              "audioStart": 124.325,
+              "audioEnd": 131.588
+            },
+            {
+              "text": "With each shell he crushed, the terrible control that the venomous pair had exercised over the garden slipped further away.",
+              "audioStart": 132.45,
+              "audioEnd": 138.725
+            },
+            {
+              "text": "Destroying that final clutch of potential terror broke the dynasty of fear once and for all, liberating the entire estate from oppression.",
+              "audioStart": 139.588,
+              "audioEnd": 146.925
+            },
+            {
+              "text": "Not until the very last threat was eradicated did the young defender allow himself a moment to breathe in the quiet air.",
+              "audioStart": 147.787,
+              "audioEnd": 153.75
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Instantly, a profound peace settled over the lovely landscape where the family had lived in quiet apprehension for so long.",
+              "audioStart": 154.613,
+              "audioEnd": 161.125
+            },
+            {
+              "text": "The garden transformed into a tranquil sanctuary where small creatures bustled about their daily routines without glancing fearfully behind them.",
+              "audioStart": 161.988,
+              "audioEnd": 169.338
+            },
+            {
+              "text": "Had the little mongoose not arrived when the flood cast him ashore, the tragedy of the serpents would surely have continued unchecked.",
+              "audioStart": 170.2,
+              "audioEnd": 176.975
+            },
+            {
+              "text": "Every single member of the household expressed deep gratitude for the courage of the small animal who guarded their threshold.",
+              "audioStart": 177.838,
+              "audioEnd": 183.775
+            },
+            {
+              "text": "Proud and alert, Rikki-Tikki assumed his self-appointed duty, keeping a careful watch over the house through both day and night.",
+              "audioStart": 184.637,
+              "audioEnd": 191.075
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He invariably remained close to the people he had grown to love with a fierce, unwavering devotion that guided his every waking hour.",
+              "audioStart": 191.938,
+              "audioEnd": 198.825
+            },
+            {
+              "text": "His strong heart and sharp instincts ensured that absolute safety reigned within the walls of their quiet, sunlit home.",
+              "audioStart": 199.688,
+              "audioEnd": 205.812
+            },
+            {
+              "text": "Every morning began with a meticulous patrol of the garden paths to ensure no new intruder had breached the perimeter.",
+              "audioStart": 206.675,
+              "audioEnd": 212.613
+            },
+            {
+              "text": "The family smiled serenely at breakfast, entirely confident that their vigilant guardian was patrolling the perimeter of their happiness.",
+              "audioStart": 213.475,
+              "audioEnd": 220.525
+            },
+            {
+              "text": "When darkness fell across the lawns, he curled up near the screen door, standing sentinel against any possible danger from the dark.",
+              "audioStart": 221.387,
+              "audioEnd": 228.75
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Dozens of small garden creatures approached him regularly to express their heartfelt gratitude for his tireless labor.",
+              "audioStart": 229.613,
+              "audioEnd": 235.6
+            },
+            {
+              "text": "They whispered stories of how drastically the atmosphere of the valley had shifted since the day he washed ashore.",
+              "audioStart": 236.463,
+              "audioEnd": 243.22
+            },
+            {
+              "text": "Before his arrival, nobody dared venture into the tall grass without a paralyzing sense of dread gripping their hearts.",
+              "audioStart": 244.082,
+              "audioEnd": 250.169
+            },
+            {
+              "text": "Now, children chased colorful butterflies across the emerald lawn while melodic birds sang joyfully from the high branches.",
+              "audioStart": 251.032,
+              "audioEnd": 257.532
+            },
+            {
+              "text": "Rikki-Tikki simply smiled, explaining to his admirers that securing the well-being of his community was his highest priority.",
+              "audioStart": 258.394,
+              "audioEnd": 264.969
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Golden sunlight poured down upon the vibrant flowerbeds and lush green foliage, illuminating a scene of absolute serenity.",
+              "audioStart": 265.832,
+              "audioEnd": 272.657
+            },
+            {
+              "text": "Life flowed onward with a gentle rhythm, bringing steady comfort and predictability to the days that stretched before them.",
+              "audioStart": 273.519,
+              "audioEnd": 279.719
+            },
+            {
+              "text": "He spent his afternoons basking lazily in the warm rays, letting the heat soothe his muscles after long hours of vigilance.",
+              "audioStart": 280.582,
+              "audioEnd": 287.32
+            },
+            {
+              "text": "Weeks melted effortlessly into months, yet the tranquil environment remained wonderfully unchanged by any further threat.",
+              "audioStart": 288.182,
+              "audioEnd": 294.857
+            },
+            {
+              "text": "The family spent peaceful afternoons reading beneath the shade of the grand oak tree while their protector dozed nearby.",
+              "audioStart": 295.719,
+              "audioEnd": 301.357
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Whenever an unfamiliar rustle stirred the dry leaves, Rikki-Tikki sprang to attention instantly to investigate the disturbance.",
+              "audioStart": 302.219,
+              "audioEnd": 308.907
+            },
+            {
+              "text": "Nothing could catch him off guard, for his concentration remained absolute and unbroken throughout the changing seasons.",
+              "audioStart": 309.769,
+              "audioEnd": 315.957
+            },
+            {
+              "text": "In return for his faithful service, the kind family provided him with delicious meals and a cozy sleeping basket.",
+              "audioStart": 316.82,
+              "audioEnd": 323.132
+            },
+            {
+              "text": "He cherished their affection, offering them his absolute trust in a bond that enriched everyone residing under that roof.",
+              "audioStart": 323.995,
+              "audioEnd": 330.295
+            },
+            {
+              "text": "This harmonious coexistence brought endless joy to the household, turning a simple cottage into a legendary stronghold of peace.",
+              "audioStart": 331.157,
+              "audioEnd": 337.92
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The garden remained an inviolable sanctuary for every gentle creature that chose to share its verdant borders.",
+              "audioStart": 338.782,
+              "audioEnd": 344.295
+            },
+            {
+              "text": "Rikki-Tikki evolved into a true legend whose remarkable name would be whispered with reverence for generations to come.",
+              "audioStart": 345.157,
+              "audioEnd": 351.144
+            },
+            {
+              "text": "Stories of his daring exploits traveled far beyond the valley, inspiring awe throughout the surrounding countryside.",
+              "audioStart": 352.007,
+              "audioEnd": 358.17
+            },
+            {
+              "text": "People visiting the estate invariably asked to see the small hero who had accomplished what an entire army could not.",
+              "audioStart": 359.032,
+              "audioEnd": 365.219
+            },
+            {
+              "text": "He was universally celebrated as the greatest defender of the realm, and nobody could ever forget his incomparable bravery.",
+              "audioStart": 366.082,
+              "audioEnd": 372.332
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Though the battles he had fought were perilous and demanding, Rikki-Tikki retained an optimistic spirit and a calm demeanor.",
+              "audioStart": 373.195,
+              "audioEnd": 379.269
+            },
+            {
+              "text": "He firmly believed that goodness would inevitably prevail over malice if met with unwavering courage and unity.",
+              "audioStart": 380.132,
+              "audioEnd": 385.632
+            },
+            {
+              "text": "The memory of those dark, tense days receded gradually into the past, replaced by vibrant new blossoms pushing through the earth.",
+              "audioStart": 386.495,
+              "audioEnd": 393.657
+            },
+            {
+              "text": "Every morning brought a crisp, refreshing breeze that carried the sweet scent of blooming jasmine across the lawn.",
+              "audioStart": 394.519,
+              "audioEnd": 400.094
+            },
+            {
+              "text": "Looking out over his peaceful domain, the little mongoose felt a profound sense of satisfaction and completion.",
+              "audioStart": 400.957,
+              "audioEnd": 406.782
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0141.mp3",
+      "wordTimings": "audio/c1/st-0141.timings.json",
+      "quiz": [
+        {
+          "q": "How did Rikki-Tikki first arrive at the family's home?",
+          "options": [
+            "He was carried into the garden by a severe flood.",
+            "He was purchased from a traveler passing through the valley.",
+            "He wandered in search of food during a harsh winter."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What action finally broke the control of the dangerous enemies over the garden?",
+          "options": [
+            "Driving the adult cobras away into the deep forest",
+            "Destroying the final hidden clutch of eggs",
+            "Building a strong fence around the perimeter"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What role did Rikki-Tikki assume after the conflicts were resolved?",
+          "options": [
+            "He became a traveling guide for visitors.",
+            "He served as a watchful guardian over the house and garden.",
+            "He left the family to find a larger territory."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

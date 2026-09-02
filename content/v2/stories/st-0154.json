@@ -1,0 +1,1146 @@
+{
+  "id": "st-0154",
+  "title": "The Elves and the Shoemaker",
+  "genre": "classic",
+  "summary": "Poor shoemakers find mystery help at night and try to discover who makes shoes.",
+  "coverScene": "A tiny wooden workbench glows in the warm candlelight, featuring two pairs of neat leather shoes.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once, a man lives in a town.",
+              "audioStart": 0.106,
+              "audioEnd": 2.203
+            },
+            {
+              "text": "A woman lives with him.",
+              "audioStart": 3.167,
+              "audioEnd": 4.556
+            },
+            {
+              "text": "They work hard each day.",
+              "audioStart": 5.514,
+              "audioEnd": 6.986
+            },
+            {
+              "text": "They have no money for food.",
+              "audioStart": 7.944,
+              "audioEnd": 9.569
+            },
+            {
+              "text": "Times are very difficult now.",
+              "audioStart": 10.528,
+              "audioEnd": 12.208
+            },
+            {
+              "text": "The man has only one set.",
+              "audioStart": 13.167,
+              "audioEnd": 15.014
+            },
+            {
+              "text": "He cuts the parts before night.",
+              "audioStart": 15.972,
+              "audioEnd": 17.917
+            },
+            {
+              "text": "He leaves the set on a table.",
+              "audioStart": 18.875,
+              "audioEnd": 20.597
+            },
+            {
+              "text": "He wants to work in the morning.",
+              "audioStart": 21.556,
+              "audioEnd": 23.208
+            },
+            {
+              "text": "Next day, he sees the product.",
+              "audioStart": 24.167,
+              "audioEnd": 26.375
+            },
+            {
+              "text": "The set is all done.",
+              "audioStart": 27.333,
+              "audioEnd": 28.625
+            },
+            {
+              "text": "A customer buys them from him.",
+              "audioStart": 29.583,
+              "audioEnd": 31.389
+            },
+            {
+              "text": "The customer pays much money.",
+              "audioStart": 32.347,
+              "audioEnd": 34.153
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man buys more for work.",
+              "audioStart": 35.111,
+              "audioEnd": 36.764
+            },
+            {
+              "text": "Night after night, this happens.",
+              "audioStart": 37.722,
+              "audioEnd": 39.917
+            },
+            {
+              "text": "The family becomes very glad.",
+              "audioStart": 40.875,
+              "audioEnd": 42.806
+            },
+            {
+              "text": "They get much money now.",
+              "audioStart": 43.764,
+              "audioEnd": 45.111
+            },
+            {
+              "text": "The two want to know someone.",
+              "audioStart": 46.069,
+              "audioEnd": 47.597
+            },
+            {
+              "text": "They want to find the small people.",
+              "audioStart": 48.556,
+              "audioEnd": 50.361
+            },
+            {
+              "text": "They stay behind a door at night.",
+              "audioStart": 51.319,
+              "audioEnd": 53.153
+            },
+            {
+              "text": "Two small people come into the room.",
+              "audioStart": 54.111,
+              "audioEnd": 56.083
+            },
+            {
+              "text": "The little people sit down.",
+              "audioStart": 57.042,
+              "audioEnd": 58.625
+            },
+            {
+              "text": "They start making things until morning.",
+              "audioStart": 59.583,
+              "audioEnd": 61.694
+            },
+            {
+              "text": "The two want to give thanks.",
+              "audioStart": 62.653,
+              "audioEnd": 64.181
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They make little things for them.",
+              "audioStart": 65.139,
+              "audioEnd": 66.819
+            },
+            {
+              "text": "They leave the things on the table.",
+              "audioStart": 67.778,
+              "audioEnd": 69.583
+            },
+            {
+              "text": "The small people see the things.",
+              "audioStart": 70.542,
+              "audioEnd": 72.444
+            },
+            {
+              "text": "They move away into the night.",
+              "audioStart": 73.403,
+              "audioEnd": 74.972
+            },
+            {
+              "text": "The work is all done.",
+              "audioStart": 75.931,
+              "audioEnd": 77.292
+            },
+            {
+              "text": "The small people are never seen again.",
+              "audioStart": 78.25,
+              "audioEnd": 80.417
+            },
+            {
+              "text": "The man and his woman live well.",
+              "audioStart": 81.375,
+              "audioEnd": 83.236
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0154.mp3",
+      "wordTimings": "audio/a1/st-0154.timings.json",
+      "quiz": [
+        {
+          "q": "What does the shoemaker have left at the start?",
+          "options": [
+            "Leather for one pair of shoes",
+            "Money for food",
+            "Many pairs of shoes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who helps the shoemaker at night?",
+          "options": [
+            "A customer",
+            "Two tiny bare elves",
+            "His wife"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What do the couple leave for the helpers?",
+          "options": [
+            "More leather",
+            "Little clothes and tiny shoes",
+            "Much money"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a poor man lived in a small town.",
+              "audioStart": 0.106,
+              "audioEnd": 3.356
+            },
+            {
+              "text": "He was a man who made shoes for people.",
+              "audioStart": 4.319,
+              "audioEnd": 6.625
+            },
+            {
+              "text": "He lived with his wife.",
+              "audioStart": 7.583,
+              "audioEnd": 9.069
+            },
+            {
+              "text": "They worked hard every day.",
+              "audioStart": 10.028,
+              "audioEnd": 11.653
+            },
+            {
+              "text": "However, they became very poor.",
+              "audioStart": 12.611,
+              "audioEnd": 14.806
+            },
+            {
+              "text": "Times were difficult for them.",
+              "audioStart": 15.764,
+              "audioEnd": 17.333
+            },
+            {
+              "text": "At last, the poor man had only enough material.",
+              "audioStart": 18.292,
+              "audioEnd": 21.625
+            },
+            {
+              "text": "He had material for one final set.",
+              "audioStart": 22.583,
+              "audioEnd": 25.083
+            },
+            {
+              "text": "He had material for only two items left.",
+              "audioStart": 26.042,
+              "audioEnd": 28.847
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He cut the pieces down before he went to sleep that evening.",
+              "audioStart": 29.806,
+              "audioEnd": 33.069
+            },
+            {
+              "text": "He left the material upon his table.",
+              "audioStart": 34.028,
+              "audioEnd": 36.417
+            },
+            {
+              "text": "He wanted to build everything in the morning.",
+              "audioStart": 37.375,
+              "audioEnd": 39.625
+            },
+            {
+              "text": "He went to sleep.",
+              "audioStart": 40.583,
+              "audioEnd": 41.653
+            },
+            {
+              "text": "When he opened his eyes early next day, he found the shoes finished well.",
+              "audioStart": 42.611,
+              "audioEnd": 46.75
+            },
+            {
+              "text": "The customer who bought them paid much money.",
+              "audioStart": 47.708,
+              "audioEnd": 50.097
+            },
+            {
+              "text": "The man could buy more material now.",
+              "audioStart": 51.056,
+              "audioEnd": 53.056
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Night after night, the same good thing kept happening while they slept.",
+              "audioStart": 54.014,
+              "audioEnd": 57.889
+            },
+            {
+              "text": "Help continued to arrive.",
+              "audioStart": 58.847,
+              "audioEnd": 60.458
+            },
+            {
+              "text": "The family began to grow.",
+              "audioStart": 61.417,
+              "audioEnd": 63.097
+            },
+            {
+              "text": "They lived happily together.",
+              "audioStart": 64.056,
+              "audioEnd": 65.639
+            },
+            {
+              "text": "The couple wanted to know who their friend was.",
+              "audioStart": 66.597,
+              "audioEnd": 69.069
+            },
+            {
+              "text": "They decided to stay up one night.",
+              "audioStart": 70.028,
+              "audioEnd": 72
+            },
+            {
+              "text": "They waited quietly behind a door.",
+              "audioStart": 72.958,
+              "audioEnd": 75.028
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Two small people entered the room.",
+              "audioStart": 75.986,
+              "audioEnd": 77.847
+            },
+            {
+              "text": "The little ones sat down immediately.",
+              "audioStart": 78.806,
+              "audioEnd": 80.972
+            },
+            {
+              "text": "They started working until morning light.",
+              "audioStart": 81.931,
+              "audioEnd": 84.208
+            },
+            {
+              "text": "The happy couple wanted to thank them well.",
+              "audioStart": 85.167,
+              "audioEnd": 87.403
+            },
+            {
+              "text": "They made little clothes and small shoes.",
+              "audioStart": 88.361,
+              "audioEnd": 90.694
+            },
+            {
+              "text": "They left these nice presents upon the table.",
+              "audioStart": 91.653,
+              "audioEnd": 94.208
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The people found the presents.",
+              "audioStart": 95.167,
+              "audioEnd": 96.847
+            },
+            {
+              "text": "The happy people saw the clothes.",
+              "audioStart": 97.806,
+              "audioEnd": 99.722
+            },
+            {
+              "text": "They danced away into the night.",
+              "audioStart": 100.681,
+              "audioEnd": 102.375
+            },
+            {
+              "text": "Their work was finally done.",
+              "audioStart": 103.333,
+              "audioEnd": 105.056
+            },
+            {
+              "text": "The small group were never seen again.",
+              "audioStart": 106.014,
+              "audioEnd": 108.139
+            },
+            {
+              "text": "However, the man and his wife lived well.",
+              "audioStart": 109.097,
+              "audioEnd": 111.764
+            },
+            {
+              "text": "They lived well for the rest of their lives.",
+              "audioStart": 112.722,
+              "audioEnd": 115.069
+            },
+            {
+              "text": "They had a good home and much food.",
+              "audioStart": 116.028,
+              "audioEnd": 117.889
+            },
+            {
+              "text": "They were very happy each day.",
+              "audioStart": 118.847,
+              "audioEnd": 120.653
+            },
+            {
+              "text": "Their life was full of quiet.",
+              "audioStart": 121.611,
+              "audioEnd": 123.389
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0154.mp3",
+      "wordTimings": "audio/a2/st-0154.timings.json",
+      "quiz": [
+        {
+          "q": "What did the shoemaker have left at the beginning of the story?",
+          "options": [
+            "Enough leather for one final pair of shoes",
+            "A lot of money to buy food",
+            "Many pairs of finished shoes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who came into the room at night to help the shoemaker?",
+          "options": [
+            "Two tiny bare elves",
+            "A rich customer",
+            "His mother and father"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the shoemaker and his wife leave for the helpers as a gift?",
+          "options": [
+            "Little clothes and tiny shoes",
+            "More leather for shoes",
+            "A lot of money"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a poor man lived in a small town with his wife.",
+              "audioStart": 0.1,
+              "audioEnd": 3.75
+            },
+            {
+              "text": "Although they worked very hard, they became extremely poor because times were difficult.",
+              "audioStart": 4.612,
+              "audioEnd": 9.088
+            },
+            {
+              "text": "The poor man had only enough paper and material left for one final pair of shoes.",
+              "audioStart": 9.95,
+              "audioEnd": 14.55
+            },
+            {
+              "text": "He cut the pieces out carefully before he went to sleep that evening.",
+              "audioStart": 15.412,
+              "audioEnd": 18.712
+            },
+            {
+              "text": "He left the material upon his table so that he could make everything in the morning.",
+              "audioStart": 19.575,
+              "audioEnd": 23.6
+            },
+            {
+              "text": "When he woke up early next day, he found the shoes finished perfectly.",
+              "audioStart": 24.462,
+              "audioEnd": 28.163
+            },
+            {
+              "text": "If the customer who bought them paid money, then the man could buy more stuff.",
+              "audioStart": 29.025,
+              "audioEnd": 32.85
+            },
+            {
+              "text": "Night after night, the same wonderful thing kept happening while they slept.",
+              "audioStart": 33.712,
+              "audioEnd": 37.6
+            },
+            {
+              "text": "Because this nice support continued, the family began to grow and live well.",
+              "audioStart": 38.462,
+              "audioEnd": 42.513
+            },
+            {
+              "text": "Strange to know who their secret friend was, the couple decided to hide one night.",
+              "audioStart": 43.375,
+              "audioEnd": 47.75
+            },
+            {
+              "text": "They waited quietly behind a door until two tiny small people entered the room.",
+              "audioStart": 48.612,
+              "audioEnd": 52.737
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The little people sat down immediately and started working busily until morning.",
+              "audioStart": 53.6,
+              "audioEnd": 57.65
+            },
+            {
+              "text": "To thank them properly, the good couple secretly made little clothes and tiny shoes.",
+              "audioStart": 58.513,
+              "audioEnd": 63.025
+            },
+            {
+              "text": "They left these nice gifts upon the table instead of material for the visitors to find.",
+              "audioStart": 63.888,
+              "audioEnd": 68.55
+            },
+            {
+              "text": "When the delighted visitors saw the clothes, they danced away into the night.",
+              "audioStart": 69.412,
+              "audioEnd": 73.05
+            },
+            {
+              "text": "Their work was finally done, and the tiny helpers were never seen again.",
+              "audioStart": 73.912,
+              "audioEnd": 77.763
+            },
+            {
+              "text": "However, the man and his wife have lived well for the rest of their lives.",
+              "audioStart": 78.625,
+              "audioEnd": 82.513
+            },
+            {
+              "text": "If they had not received that support, they would not have survived the cold winter.",
+              "audioStart": 83.375,
+              "audioEnd": 87.287
+            },
+            {
+              "text": "They always remembered the small friends who brought much joy into their home.",
+              "audioStart": 88.15,
+              "audioEnd": 91.713
+            },
+            {
+              "text": "Every single day, the couple felt good for the wonderful change in their situation.",
+              "audioStart": 92.575,
+              "audioEnd": 96.838
+            },
+            {
+              "text": "No one in the town ever forgot the strange story of the tiny visitors.",
+              "audioStart": 97.7,
+              "audioEnd": 101.325
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many months passed by while the family enjoyed their new life.",
+              "audioStart": 102.188,
+              "audioEnd": 105.338
+            },
+            {
+              "text": "The man made many shoes every single week.",
+              "audioStart": 106.2,
+              "audioEnd": 108.612
+            },
+            {
+              "text": "People came from far away to buy his wonderful work.",
+              "audioStart": 109.475,
+              "audioEnd": 112.188
+            },
+            {
+              "text": "The business grew larger and larger each month.",
+              "audioStart": 113.05,
+              "audioEnd": 115.412
+            },
+            {
+              "text": "They never forgot the tiny people who came during the dark night.",
+              "audioStart": 116.275,
+              "audioEnd": 119.375
+            },
+            {
+              "text": "Their house became full of light and sound.",
+              "audioStart": 120.237,
+              "audioEnd": 122.375
+            },
+            {
+              "text": "They always kept the little shoes on a special board.",
+              "audioStart": 123.237,
+              "audioEnd": 125.713
+            },
+            {
+              "text": "Every visitor looked at the shoes with great wonder.",
+              "audioStart": 126.575,
+              "audioEnd": 129
+            },
+            {
+              "text": "The couple told the story to all their children.",
+              "audioStart": 129.863,
+              "audioEnd": 132.037
+            },
+            {
+              "text": "Thus, the memory stayed alive in the town.",
+              "audioStart": 132.9,
+              "audioEnd": 135.3
+            },
+            {
+              "text": "Nobody ever saw the small visitors again, but their gift remained in everyone heart.",
+              "audioStart": 136.162,
+              "audioEnd": 140.613
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0154.mp3",
+      "wordTimings": "audio/b1/st-0154.timings.json",
+      "quiz": [
+        {
+          "q": "What did the shoemaker have left on the first night?",
+          "options": [
+            "Enough leather for one final pair of shoes",
+            "Money to buy a new house",
+            "Many pairs of finished shoes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who came into the room while the couple hid behind the door?",
+          "options": [
+            "A rich customer",
+            "Two tiny bare elves",
+            "Their family from another town"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the couple leave on the bench to thank the helpers?",
+          "options": [
+            "More leather and gold",
+            "Little clothes and tiny shoes",
+            "Food and wine"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, an honest maker of shoes lived in a small town with his wife.",
+              "audioStart": 0.1,
+              "audioEnd": 4.45
+            },
+            {
+              "text": "Although they worked very hard, they became extremely poor because times were difficult.",
+              "audioStart": 5.312,
+              "audioEnd": 9.787
+            },
+            {
+              "text": "Eventually, the poor man had only enough leather left for one final pair of shoes.",
+              "audioStart": 10.65,
+              "audioEnd": 15.375
+            },
+            {
+              "text": "He cut the pieces out carefully before he went to sleep that evening.",
+              "audioStart": 16.238,
+              "audioEnd": 19.538
+            },
+            {
+              "text": "He left the leather upon his wooden table so that he could make everything in the morning.",
+              "audioStart": 20.4,
+              "audioEnd": 24.45
+            },
+            {
+              "text": "When he woke up early next day, he found the shoes finished completely and perfectly.",
+              "audioStart": 25.312,
+              "audioEnd": 29.788
+            },
+            {
+              "text": "The customer who bought them paid so much money that the worker could buy more leather.",
+              "audioStart": 30.65,
+              "audioEnd": 34.65
+            },
+            {
+              "text": "Night after night, the same wonderful thing kept happening while they slept.",
+              "audioStart": 35.513,
+              "audioEnd": 39.4
+            },
+            {
+              "text": "Because this incredible help continued, the family began to grow and live happily.",
+              "audioStart": 40.263,
+              "audioEnd": 44.65
+            },
+            {
+              "text": "Curious to know who their secret friend was, the couple decided to hide one night.",
+              "audioStart": 45.513,
+              "audioEnd": 49.938
+            },
+            {
+              "text": "They waited quietly behind a door until two tiny people without shoes entered the room.",
+              "audioStart": 50.8,
+              "audioEnd": 55.237
+            },
+            {
+              "text": "The little creatures sat down immediately and started working busily until the sun came up.",
+              "audioStart": 56.1,
+              "audioEnd": 60.7
+            },
+            {
+              "text": "To thank them properly, the grateful couple secretly made little clothes and tiny shoes.",
+              "audioStart": 61.562,
+              "audioEnd": 66.375
+            },
+            {
+              "text": "They left these nice gifts upon the table instead of leather for the tiny people to find.",
+              "audioStart": 67.237,
+              "audioEnd": 71.9
+            },
+            {
+              "text": "When the delighted people saw the clothes, they moved away into the night.",
+              "audioStart": 72.763,
+              "audioEnd": 76.275
+            },
+            {
+              "text": "Their work was finally done, and the tiny supporters were never seen again.",
+              "audioStart": 77.138,
+              "audioEnd": 81.125
+            },
+            {
+              "text": "However, the maker of shoes and his wife lived well for the rest of their lives.",
+              "audioStart": 81.987,
+              "audioEnd": 86.2
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0154.mp3",
+      "wordTimings": "audio/b2/st-0154.timings.json",
+      "quiz": [
+        {
+          "q": "What did the shoemaker leave on his bench on the first night?",
+          "options": [
+            "Only enough leather for one pair of shoes",
+            "A large amount of money and gold",
+            "Some old clothes and tiny shoes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who did the shoemaker and his wife find when they hid at night?",
+          "options": [
+            "Two big giants from the forest",
+            "Two tiny bare elves stitching busily",
+            "A group of poor children from the town"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the couple make for the elves to show their thanks?",
+          "options": [
+            "A large wooden table",
+            "Little clothes and shoes",
+            "A big box of food"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In a winding cobblestone street of a quiet town, there once lived an honest shoemaker and his devoted wife.",
+              "audioStart": 0.1,
+              "audioEnd": 5.912
+            },
+            {
+              "text": "Although they labored from dawn until dusk with admirable diligence, relentless economic hardship reduced them to extreme poverty.",
+              "audioStart": 6.775,
+              "audioEnd": 13.6
+            },
+            {
+              "text": "Times were profoundly difficult, and every passing week stripped away another layer of their modest security.",
+              "audioStart": 14.463,
+              "audioEnd": 20.075
+            },
+            {
+              "text": "Eventually, the poor man found himself with barely enough quality leather left for one final pair of shoes.",
+              "audioStart": 20.938,
+              "audioEnd": 26.9
+            },
+            {
+              "text": "Desperation hung heavily in their small workshop, yet he resolved to maintain his professional pride until the very end.",
+              "audioStart": 27.762,
+              "audioEnd": 33.987
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "With steady hands and a heavy heart, he measured and cut the remaining leather pieces out carefully before he went to sleep that evening.",
+              "audioStart": 34.85,
+              "audioEnd": 41.45
+            },
+            {
+              "text": "The task was solemn, reminding him of all that he and his wife stood to lose if their fortunes failed to turn.",
+              "audioStart": 42.312,
+              "audioEnd": 47.85
+            },
+            {
+              "text": "He left the prepared leather upon his wooden workbench so that he could assemble everything swiftly in the morning.",
+              "audioStart": 48.712,
+              "audioEnd": 54.1
+            },
+            {
+              "text": "The workshop grew cold as the embers in the hearth faded into grey ash, leaving the room wrapped in profound silence.",
+              "audioStart": 54.962,
+              "audioEnd": 61.025
+            },
+            {
+              "text": "They retired to their meager bed, praying silently for a miracle that neither dared to genuinely expect.",
+              "audioStart": 61.888,
+              "audioEnd": 67.388
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When he woke up early the next day, a strange sense of anticipation drew him immediately toward the workshop.",
+              "audioStart": 68.25,
+              "audioEnd": 73.688
+            },
+            {
+              "text": "Upon entering the dusky room, he rubbed his eyes in sheer disbelief at the transformation before him.",
+              "audioStart": 74.55,
+              "audioEnd": 79.925
+            },
+            {
+              "text": "He found the shoes finished completely and perfectly, every stitch executed with an elegance that surpassed his finest craftsmanship.",
+              "audioStart": 80.787,
+              "audioEnd": 87.95
+            },
+            {
+              "text": "Not a single thread was out of place, and the leather gleamed with a mysterious, captivating luster.",
+              "audioStart": 88.812,
+              "audioEnd": 94.325
+            },
+            {
+              "text": "He called for his wife in a hushed whisper, and together they stared at the miraculous artifact in absolute wonder.",
+              "audioStart": 95.188,
+              "audioEnd": 101.2
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Later that morning, a discerning customer entered the humble shop and noticed the exquisite footwear displayed in the window.",
+              "audioStart": 102.062,
+              "audioEnd": 108.013
+            },
+            {
+              "text": "Struck by the unparalleled quality of the construction, the buyer insisted on paying an extraordinarily generous price.",
+              "audioStart": 108.875,
+              "audioEnd": 115.362
+            },
+            {
+              "text": "The customer who bought them paid so much money that the astonished worker could immediately buy enough raw materials for two new pairs.",
+              "audioStart": 116.225,
+              "audioEnd": 122.975
+            },
+            {
+              "text": "The shoemaker hurried back home, his spirits lifted by a renewed hope that had eluded them for months.",
+              "audioStart": 123.838,
+              "audioEnd": 129.162
+            },
+            {
+              "text": "He carefully measured twice as much leather that evening, filled with an inexplicable sense of comfort.",
+              "audioStart": 130.025,
+              "audioEnd": 135.325
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Night after night, the same wonderful thing kept happening while they slept, defying all logic and reason.",
+              "audioStart": 136.188,
+              "audioEnd": 141.912
+            },
+            {
+              "text": "Every morning brought a new pair of masterfully crafted shoes, leaving the workbench pristine and empty of materials.",
+              "audioStart": 142.775,
+              "audioEnd": 149.125
+            },
+            {
+              "text": "The local townspeople soon began to talk, and customers lined up outside the door for a chance to purchase the miraculous creations.",
+              "audioStart": 149.988,
+              "audioEnd": 157.125
+            },
+            {
+              "text": "Because this incredible help continued week after week, the family began to grow more stable and live happily.",
+              "audioStart": 157.988,
+              "audioEnd": 163.887
+            },
+            {
+              "text": "The constant shadow of hunger lifted, replaced by the warm hearth fire of modest prosperity.",
+              "audioStart": 164.75,
+              "audioEnd": 169.85
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Curious to know who their secret benefactor was, the couple decided to hide one night and uncover the truth.",
+              "audioStart": 170.713,
+              "audioEnd": 176.7
+            },
+            {
+              "text": "They extinguished the primary lamp and waited quietly behind a heavy wooden door that offered a clear view of the bench.",
+              "audioStart": 177.562,
+              "audioEnd": 183.3
+            },
+            {
+              "text": "The hours stretched slowly as the grandfather clock ticked rhythmically against the stillness of the midnight house.",
+              "audioStart": 184.162,
+              "audioEnd": 189.738
+            },
+            {
+              "text": "Just as the clock struck midnight, a soft patter of footsteps echoed faintly across the wooden floorboards.",
+              "audioStart": 190.6,
+              "audioEnd": 196.15
+            },
+            {
+              "text": "They held their breath as two tiny people without shoes entered the room through a sliver of moonlight.",
+              "audioStart": 197.012,
+              "audioEnd": 201.7
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The little creatures were clad in ragged, threadbare garments that offered little protection against the midnight chill.",
+              "audioStart": 202.562,
+              "audioEnd": 208.35
+            },
+            {
+              "text": "Without a moment of hesitation, the little creatures sat down immediately at the workbench.",
+              "audioStart": 209.213,
+              "audioEnd": 213.887
+            },
+            {
+              "text": "Their nimble fingers started working busily, stitching, hammering, and polishing with astonishing speed and coordination.",
+              "audioStart": 214.75,
+              "audioEnd": 221.35
+            },
+            {
+              "text": "The shoemaker and his wife watched from their hiding place, entirely mesmerized by the sheer joy radiating from the tiny workers.",
+              "audioStart": 222.213,
+              "audioEnd": 229.175
+            },
+            {
+              "text": "The miniature artisans continued their labor without pause until the first pale fingers of dawn stretched across the sky.",
+              "audioStart": 230.037,
+              "audioEnd": 236.2
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As soon as the sun came up, the finished shoes stood neatly aligned upon the table, and the little figures vanished into the morning shadows.",
+              "audioStart": 237.062,
+              "audioEnd": 245.462
+            },
+            {
+              "text": "The shoemaker and his wife looked at each other, their hearts overflowing with profound gratitude for the help they had received.",
+              "audioStart": 246.325,
+              "audioEnd": 252.512
+            },
+            {
+              "text": "To thank them properly for saving their livelihood, the grateful couple decided to take immediate action.",
+              "audioStart": 253.375,
+              "audioEnd": 258.724
+            },
+            {
+              "text": "They spent the entire afternoon sewing and crafting with immense care and devotion.",
+              "audioStart": 259.587,
+              "audioEnd": 263.774
+            },
+            {
+              "text": "Secretly, the couple made little coats, tiny trousers, miniature waistcoats, and small, delicate shoes.",
+              "audioStart": 264.637,
+              "audioEnd": 271.312
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They wanted every garment to fit the tiny helpers perfectly, tailoring them with the finest cloth they could find.",
+              "audioStart": 272.175,
+              "audioEnd": 278.125
+            },
+            {
+              "text": "They left these nice gifts upon the table instead of leather for the tiny people to find before nightfall.",
+              "audioStart": 278.987,
+              "audioEnd": 284.437
+            },
+            {
+              "text": "Instead of raw materials to be shaped into commodities, the workbench now held tokens of pure appreciation.",
+              "audioStart": 285.3,
+              "audioEnd": 291.312
+            },
+            {
+              "text": "They stepped back into the shadows of their bedroom, eager to witness the reaction of their nocturnal guests.",
+              "audioStart": 292.175,
+              "audioEnd": 297.512
+            },
+            {
+              "text": "The workshop waited in breathless anticipation as the evening shadows lengthened once again.",
+              "audioStart": 298.375,
+              "audioEnd": 303.125
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When midnight arrived, the two tiny figures skipped into the room, expecting to find their usual piles of leather.",
+              "audioStart": 303.987,
+              "audioEnd": 309.912
+            },
+            {
+              "text": "Instead of work to be done, they discovered the exquisite miniature garments tailored specifically for them.",
+              "audioStart": 310.774,
+              "audioEnd": 316.2
+            },
+            {
+              "text": "When the delighted people saw the clothes, they gasped with pure joy and quickly tried them on with great excitement.",
+              "audioStart": 317.062,
+              "audioEnd": 322.937
+            },
+            {
+              "text": "They danced around the workshop, admiring their new attire and clapping their hands together in sheer delight.",
+              "audioStart": 323.8,
+              "audioEnd": 329.274
+            },
+            {
+              "text": "Singing a merry tune, they moved away into the night, stepping gracefully out the door and into the starlit street.",
+              "audioStart": 330.137,
+              "audioEnd": 336.024
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Their work was finally done, and the tiny supporters were never seen again by the mortal couple.",
+              "audioStart": 336.887,
+              "audioEnd": 341.862
+            },
+            {
+              "text": "Though the mysterious visitors did not return, the memory of their kindness remained deeply etched in the hearts of the household.",
+              "audioStart": 342.724,
+              "audioEnd": 348.837
+            },
+            {
+              "text": "The shoemaker continued his craft with his own hands, sustained by the skill and confidence he had regained during those miraculous months.",
+              "audioStart": 349.7,
+              "audioEnd": 356.899
+            },
+            {
+              "text": "However, the maker of shoes and his wife lived well for the rest of their lives, never forgetting the lesson of gratitude.",
+              "audioStart": 357.762,
+              "audioEnd": 364.287
+            },
+            {
+              "text": "The small shop remained a place of warmth, prosperity, and enduring wonder in the heart of the grateful town.",
+              "audioStart": 365.149,
+              "audioEnd": 370.637
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0154.mp3",
+      "wordTimings": "audio/c1/st-0154.timings.json",
+      "quiz": [
+        {
+          "q": "What did the shoemaker leave on his workbench on the very first night before the miracle occurred?",
+          "options": [
+            "Enough leather for one final pair of shoes",
+            "Materials to make two coats and tiny trousers",
+            "A generous sum of money from a customer"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did the shoemaker and his wife decide to hide behind the door one night?",
+          "options": [
+            "They wanted to catch a thief who was stealing their leather",
+            "They were curious to discover who their secret benefactor was",
+            "They wanted to surprise the morning customers early"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What gifts did the couple leave on the table for the tiny people instead of leather?",
+          "options": [
+            "Finely crafted leather boots and heavy woolen coats",
+            "Little clothes and tiny shoes tailored specially for them",
+            "A large sum of gold coins and polished tools"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

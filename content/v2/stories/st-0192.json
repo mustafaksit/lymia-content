@@ -1,0 +1,1486 @@
+{
+  "id": "st-0192",
+  "title": "The Voyages of Sinbad (tek sefer)",
+  "genre": "adventure",
+  "summary": "Sinbad joins a crew and sails to a strange island that suddenly moves.",
+  "coverScene": "A brave sailor stands on a large wooden ship while blue waves rise around him.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sinbad lives in a big city.",
+              "audioStart": 0.106,
+              "audioEnd": 1.911
+            },
+            {
+              "text": "He wants a great life.",
+              "audioStart": 2.875,
+              "audioEnd": 4.361
+            },
+            {
+              "text": "He joins a group of men.",
+              "audioStart": 5.319,
+              "audioEnd": 6.847
+            },
+            {
+              "text": "They go on a big place.",
+              "audioStart": 7.806,
+              "audioEnd": 9.333
+            },
+            {
+              "text": "They move on a large home.",
+              "audioStart": 10.292,
+              "audioEnd": 11.722
+            },
+            {
+              "text": "They go through the water.",
+              "audioStart": 12.681,
+              "audioEnd": 13.917
+            },
+            {
+              "text": "The long day is very good.",
+              "audioStart": 14.875,
+              "audioEnd": 16.486
+            },
+            {
+              "text": "They stay on the water.",
+              "audioStart": 17.444,
+              "audioEnd": 18.708
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The head man stops near land.",
+              "audioStart": 19.667,
+              "audioEnd": 21.528
+            },
+            {
+              "text": "It looks like a part of land.",
+              "audioStart": 22.486,
+              "audioEnd": 24.097
+            },
+            {
+              "text": "The people go down to walk.",
+              "audioStart": 25.056,
+              "audioEnd": 26.708
+            },
+            {
+              "text": "Sinbad stays under a big tree.",
+              "audioStart": 27.667,
+              "audioEnd": 29.694
+            },
+            {
+              "text": "His friends look around the place.",
+              "audioStart": 30.653,
+              "audioEnd": 32.653
+            },
+            {
+              "text": "The land moves with great force.",
+              "audioStart": 33.611,
+              "audioEnd": 35.681
+            },
+            {
+              "text": "The land is a still body.",
+              "audioStart": 36.639,
+              "audioEnd": 38.208
+            },
+            {
+              "text": "It opens up from day light.",
+              "audioStart": 39.167,
+              "audioEnd": 40.847
+            },
+            {
+              "text": "People run back toward the water.",
+              "audioStart": 41.806,
+              "audioEnd": 43.694
+            },
+            {
+              "text": "The thing goes down into water.",
+              "audioStart": 44.653,
+              "audioEnd": 46.361
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sinbad stays on the land.",
+              "audioStart": 47.319,
+              "audioEnd": 49.014
+            },
+            {
+              "text": "The big home goes away.",
+              "audioStart": 49.972,
+              "audioEnd": 51.444
+            },
+            {
+              "text": "He has no food or money.",
+              "audioStart": 52.403,
+              "audioEnd": 54
+            },
+            {
+              "text": "A large thing moves down.",
+              "audioStart": 54.958,
+              "audioEnd": 56.556
+            },
+            {
+              "text": "It carries him to a high place.",
+              "audioStart": 57.514,
+              "audioEnd": 59.444
+            },
+            {
+              "text": "Sinbad finds good things there.",
+              "audioStart": 60.403,
+              "audioEnd": 62.319
+            },
+            {
+              "text": "He gives them to other people.",
+              "audioStart": 63.278,
+              "audioEnd": 64.972
+            },
+            {
+              "text": "He builds a new life.",
+              "audioStart": 65.931,
+              "audioEnd": 67.319
+            },
+            {
+              "text": "He returns home to his family.",
+              "audioStart": 68.278,
+              "audioEnd": 70.167
+            },
+            {
+              "text": "He is well to be right now.",
+              "audioStart": 71.125,
+              "audioEnd": 72.667
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has a good time every day.",
+              "audioStart": 73.625,
+              "audioEnd": 75.361
+            },
+            {
+              "text": "He looks at the water and land.",
+              "audioStart": 76.319,
+              "audioEnd": 78.097
+            },
+            {
+              "text": "He feels very well at home.",
+              "audioStart": 79.056,
+              "audioEnd": 80.806
+            },
+            {
+              "text": "His family is very well too.",
+              "audioStart": 81.764,
+              "audioEnd": 83.75
+            },
+            {
+              "text": "They live well in the big city.",
+              "audioStart": 84.708,
+              "audioEnd": 86.444
+            },
+            {
+              "text": "Sinbad does not go away again.",
+              "audioStart": 87.403,
+              "audioEnd": 89.361
+            },
+            {
+              "text": "He stays with his family always.",
+              "audioStart": 90.319,
+              "audioEnd": 92.444
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0192.mp3",
+      "wordTimings": "audio/a1/st-0192.timings.json",
+      "quiz": [
+        {
+          "q": "What do Sinbad and the merchants join?",
+          "options": [
+            "A large ship",
+            "A small car",
+            "A train"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is the island really?",
+          "options": [
+            "A big house",
+            "A sleeping animal",
+            "A high mountain"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What carries Sinbad to the mountain?",
+          "options": [
+            "A large bird",
+            "A big fish",
+            "The ship"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sinbad lived a good life in a big city.",
+              "audioStart": 0.106,
+              "audioEnd": 2.453
+            },
+            {
+              "text": "He wanted a great experience.",
+              "audioStart": 3.417,
+              "audioEnd": 5.375
+            },
+            {
+              "text": "On one early morning, he joined a group.",
+              "audioStart": 6.333,
+              "audioEnd": 8.819
+            },
+            {
+              "text": "He joined men in a large room.",
+              "audioStart": 9.778,
+              "audioEnd": 11.694
+            },
+            {
+              "text": "They went across the blue water.",
+              "audioStart": 12.653,
+              "audioEnd": 14.306
+            },
+            {
+              "text": "They traveled for many weeks.",
+              "audioStart": 15.264,
+              "audioEnd": 17.014
+            },
+            {
+              "text": "The trip was very quiet and fine.",
+              "audioStart": 17.972,
+              "audioEnd": 20.056
+            },
+            {
+              "text": "Sinbad had a good time with friends.",
+              "audioStart": 21.014,
+              "audioEnd": 23.153
+            },
+            {
+              "text": "They talked about the future every day.",
+              "audioStart": 24.111,
+              "audioEnd": 26.222
+            },
+            {
+              "text": "The leader dropped something near land.",
+              "audioStart": 27.181,
+              "audioEnd": 29.194
+            },
+            {
+              "text": "The land looked very nice.",
+              "audioStart": 30.153,
+              "audioEnd": 31.917
+            },
+            {
+              "text": "People went down to walk.",
+              "audioStart": 32.875,
+              "audioEnd": 34.403
+            },
+            {
+              "text": "They wanted to enjoy good food.",
+              "audioStart": 35.361,
+              "audioEnd": 37.167
+            },
+            {
+              "text": "Sinbad rested under a big tree.",
+              "audioStart": 38.125,
+              "audioEnd": 40.208
+            },
+            {
+              "text": "His friends looked around the area.",
+              "audioStart": 41.167,
+              "audioEnd": 43.083
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, the ground began to move.",
+              "audioStart": 44.042,
+              "audioEnd": 46.444
+            },
+            {
+              "text": "The place was a huge sleeping animal.",
+              "audioStart": 47.403,
+              "audioEnd": 49.542
+            },
+            {
+              "text": "It moved from the hot fire.",
+              "audioStart": 50.5,
+              "audioEnd": 52.181
+            },
+            {
+              "text": "People started to shout out and run.",
+              "audioStart": 53.139,
+              "audioEnd": 55.097
+            },
+            {
+              "text": "They ran toward the water.",
+              "audioStart": 56.056,
+              "audioEnd": 57.472
+            },
+            {
+              "text": "The animal went down under the sea.",
+              "audioStart": 58.431,
+              "audioEnd": 60.458
+            },
+            {
+              "text": "Sinbad stayed behind on the land.",
+              "audioStart": 61.417,
+              "audioEnd": 63.486
+            },
+            {
+              "text": "His group went away across the water.",
+              "audioStart": 64.444,
+              "audioEnd": 66.681
+            },
+            {
+              "text": "He felt very worried about life.",
+              "audioStart": 67.639,
+              "audioEnd": 69.667
+            },
+            {
+              "text": "He had no food.",
+              "audioStart": 70.625,
+              "audioEnd": 71.889
+            },
+            {
+              "text": "He had no way home.",
+              "audioStart": 72.847,
+              "audioEnd": 74.181
+            },
+            {
+              "text": "A large animal flew down from above.",
+              "audioStart": 75.139,
+              "audioEnd": 77.333
+            },
+            {
+              "text": "It carried him to another high place.",
+              "audioStart": 78.292,
+              "audioEnd": 80.528
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From that place, Sinbad found value.",
+              "audioStart": 81.486,
+              "audioEnd": 84.028
+            },
+            {
+              "text": "He traded items with other men.",
+              "audioStart": 84.986,
+              "audioEnd": 86.972
+            },
+            {
+              "text": "He got more money.",
+              "audioStart": 87.931,
+              "audioEnd": 89.125
+            },
+            {
+              "text": "He built a new life in the area.",
+              "audioStart": 90.083,
+              "audioEnd": 91.931
+            },
+            {
+              "text": "He finally returned home to family.",
+              "audioStart": 92.889,
+              "audioEnd": 95.069
+            },
+            {
+              "text": "He brought great stories.",
+              "audioStart": 96.028,
+              "audioEnd": 97.653
+            },
+            {
+              "text": "He was happy to be well again.",
+              "audioStart": 98.611,
+              "audioEnd": 100.361
+            },
+            {
+              "text": "Sinbad would remember this event.",
+              "audioStart": 101.319,
+              "audioEnd": 103.292
+            },
+            {
+              "text": "He would remember for many years.",
+              "audioStart": 104.25,
+              "audioEnd": 106.236
+            },
+            {
+              "text": "He would tell children about the animal.",
+              "audioStart": 107.194,
+              "audioEnd": 109.278
+            },
+            {
+              "text": "Everyone in the city listened.",
+              "audioStart": 110.236,
+              "audioEnd": 111.944
+            },
+            {
+              "text": "They thought it was a great experience.",
+              "audioStart": 112.903,
+              "audioEnd": 115.014
+            },
+            {
+              "text": "Sinbad stayed home.",
+              "audioStart": 115.972,
+              "audioEnd": 117.306
+            },
+            {
+              "text": "He never went back to the sea.",
+              "audioStart": 118.264,
+              "audioEnd": 119.958
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0192.mp3",
+      "wordTimings": "audio/a2/st-0192.timings.json",
+      "quiz": [
+        {
+          "q": "What did Sinbad join on one bright morning?",
+          "options": [
+            "A group of merchants on a ship",
+            "A big family in the city",
+            "A team of workers on land"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What was the strange island actually?",
+          "options": [
+            "A high mountain",
+            "A huge sleeping animal",
+            "A large boat"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Sinbad leave the island?",
+          "options": [
+            "He swam across the water.",
+            "A large bird carried him.",
+            "He took his ship back."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sinbad lived a comfortable life in a big city.",
+              "audioStart": 0.1,
+              "audioEnd": 2.612
+            },
+            {
+              "text": "He wanted a great trip.",
+              "audioStart": 3.475,
+              "audioEnd": 4.838
+            },
+            {
+              "text": "One bright morning, he joined business friends and boarded a large ship.",
+              "audioStart": 5.7,
+              "audioEnd": 9.475
+            },
+            {
+              "text": "They traveled across the blue water for many weeks.",
+              "audioStart": 10.338,
+              "audioEnd": 12.963
+            },
+            {
+              "text": "The journey was very quiet and calm.",
+              "audioStart": 13.825,
+              "audioEnd": 15.713
+            },
+            {
+              "text": "Sinbad felt happy to see the world.",
+              "audioStart": 16.575,
+              "audioEnd": 18.512
+            },
+            {
+              "text": "He had money and food for the long days ahead.",
+              "audioStart": 19.375,
+              "audioEnd": 21.725
+            },
+            {
+              "text": "Many people were on the ship with him.",
+              "audioStart": 22.587,
+              "audioEnd": 24.413
+            },
+            {
+              "text": "They talked and laughed during the morning hours.",
+              "audioStart": 25.275,
+              "audioEnd": 27.562
+            },
+            {
+              "text": "The weather was nice and the sky was clear.",
+              "audioStart": 28.425,
+              "audioEnd": 30.663
+            },
+            {
+              "text": "Sinbad thought that everything was completely fine.",
+              "audioStart": 31.525,
+              "audioEnd": 34.062
+            },
+            {
+              "text": "He loved the feeling of the wind.",
+              "audioStart": 34.925,
+              "audioEnd": 36.538
+            },
+            {
+              "text": "The large ship moved well through the deep water.",
+              "audioStart": 37.4,
+              "audioEnd": 39.675
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man in charge dropped a heavy metal tool near a strange island.",
+              "audioStart": 40.538,
+              "audioEnd": 43.9
+            },
+            {
+              "text": "The island looked like green land.",
+              "audioStart": 44.763,
+              "audioEnd": 46.513
+            },
+            {
+              "text": "Passengers went off the ship to walk on the ground.",
+              "audioStart": 47.375,
+              "audioEnd": 49.837
+            },
+            {
+              "text": "They wanted to enjoy fresh food and rest.",
+              "audioStart": 50.7,
+              "audioEnd": 52.95
+            },
+            {
+              "text": "Sinbad rested under a tree while friends explored the beautiful beach.",
+              "audioStart": 53.812,
+              "audioEnd": 57.4
+            },
+            {
+              "text": "They walked around and looked at the trees.",
+              "audioStart": 58.263,
+              "audioEnd": 60.3
+            },
+            {
+              "text": "Some people made a small fire to stay warm.",
+              "audioStart": 61.163,
+              "audioEnd": 63.525
+            },
+            {
+              "text": "The day was long and full of fun.",
+              "audioStart": 64.388,
+              "audioEnd": 66.188
+            },
+            {
+              "text": "Sinbad sat down and closed his eyes for a moment.",
+              "audioStart": 67.05,
+              "audioEnd": 69.75
+            },
+            {
+              "text": "He did not know what would happen next.",
+              "audioStart": 70.612,
+              "audioEnd": 72.55
+            },
+            {
+              "text": "The friends talked about their home and family.",
+              "audioStart": 73.412,
+              "audioEnd": 75.525
+            },
+            {
+              "text": "Everyone felt safe on the land.",
+              "audioStart": 76.388,
+              "audioEnd": 78.075
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, the ground began to move under them with great force.",
+              "audioStart": 78.938,
+              "audioEnd": 82.362
+            },
+            {
+              "text": "The island was actually a huge sleeping animal.",
+              "audioStart": 83.225,
+              "audioEnd": 85.763
+            },
+            {
+              "text": "It woke up from the heat of their fire.",
+              "audioStart": 86.625,
+              "audioEnd": 88.463
+            },
+            {
+              "text": "People started to shout and run back toward the water.",
+              "audioStart": 89.325,
+              "audioEnd": 91.938
+            },
+            {
+              "text": "The big animal went down into the sea.",
+              "audioStart": 92.8,
+              "audioEnd": 94.725
+            },
+            {
+              "text": "Sinbad was left behind on the land while his ship traveled quickly away.",
+              "audioStart": 95.588,
+              "audioEnd": 99.325
+            },
+            {
+              "text": "He felt very worried because he had no food and no way to return home.",
+              "audioStart": 100.188,
+              "audioEnd": 103.9
+            },
+            {
+              "text": "He looked around and saw only water and sky.",
+              "audioStart": 104.763,
+              "audioEnd": 107.175
+            },
+            {
+              "text": "The heavy waves hit the land hard.",
+              "audioStart": 108.037,
+              "audioEnd": 109.775
+            },
+            {
+              "text": "Sinbad did not know what he should do now.",
+              "audioStart": 110.638,
+              "audioEnd": 112.612
+            },
+            {
+              "text": "He wished that he was safe with his family.",
+              "audioStart": 113.475,
+              "audioEnd": 115.625
+            },
+            {
+              "text": "The big ship was already far away from the land.",
+              "audioStart": 116.487,
+              "audioEnd": 118.938
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "However, a large bird flew down from the sky.",
+              "audioStart": 119.8,
+              "audioEnd": 122.388
+            },
+            {
+              "text": "The animal carried him safely.",
+              "audioStart": 123.25,
+              "audioEnd": 125.013
+            },
+            {
+              "text": "It took him to a high mountain.",
+              "audioStart": 125.875,
+              "audioEnd": 127.3
+            },
+            {
+              "text": "Sinbad stood on the high rock and looked down.",
+              "audioStart": 128.162,
+              "audioEnd": 130.488
+            },
+            {
+              "text": "He thanked the bird for its help.",
+              "audioStart": 131.35,
+              "audioEnd": 132.9
+            },
+            {
+              "text": "The wind blew cold air across the mountain top.",
+              "audioStart": 133.762,
+              "audioEnd": 136.137
+            },
+            {
+              "text": "Sinbad walked slowly to find a safe place.",
+              "audioStart": 137,
+              "audioEnd": 139.588
+            },
+            {
+              "text": "He had no food or water left.",
+              "audioStart": 140.45,
+              "audioEnd": 142.387
+            },
+            {
+              "text": "He hoped that he would find something good.",
+              "audioStart": 143.25,
+              "audioEnd": 145.175
+            },
+            {
+              "text": "The sun began to go down behind the hills.",
+              "audioStart": 146.037,
+              "audioEnd": 148.325
+            },
+            {
+              "text": "Night came quickly over the high place.",
+              "audioStart": 149.188,
+              "audioEnd": 151.287
+            },
+            {
+              "text": "Sinbad tried to sleep and wait for the morning.",
+              "audioStart": 152.15,
+              "audioEnd": 154.488
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From that place, Sinbad found valuable items.",
+              "audioStart": 155.35,
+              "audioEnd": 158.113
+            },
+            {
+              "text": "He traded them with other business men for money.",
+              "audioStart": 158.975,
+              "audioEnd": 161.412
+            },
+            {
+              "text": "He built a new life and finally returned home to his family with great stories.",
+              "audioStart": 162.275,
+              "audioEnd": 166.35
+            },
+            {
+              "text": "Even though the trip was dangerous, he was happy to be safe again.",
+              "audioStart": 167.213,
+              "audioEnd": 170.6
+            },
+            {
+              "text": "He told his family about the big bird and the strange land.",
+              "audioStart": 171.463,
+              "audioEnd": 174.488
+            },
+            {
+              "text": "They listened with wide eyes and big smiles.",
+              "audioStart": 175.35,
+              "audioEnd": 177.713
+            },
+            {
+              "text": "Sinbad decided that he would stay home for a long time.",
+              "audioStart": 178.575,
+              "audioEnd": 181.412
+            },
+            {
+              "text": "He never forgot the lessons of that hard journey.",
+              "audioStart": 182.275,
+              "audioEnd": 184.65
+            },
+            {
+              "text": "His life became quiet and calm once more.",
+              "audioStart": 185.512,
+              "audioEnd": 187.925
+            },
+            {
+              "text": "He always remembered the great mountain and the big animal.",
+              "audioStart": 188.787,
+              "audioEnd": 191.488
+            },
+            {
+              "text": "Sinbad was glad for his safe return.",
+              "audioStart": 192.35,
+              "audioEnd": 194.463
+            },
+            {
+              "text": "He has traveled many times since then, but this journey was special.",
+              "audioStart": 195.325,
+              "audioEnd": 198.887
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0192.mp3",
+      "wordTimings": "audio/b1/st-0192.timings.json",
+      "quiz": [
+        {
+          "q": "What did Sinbad do on one bright morning?",
+          "options": [
+            "He joined merchants and boarded a large ship.",
+            "He built a new house in the city.",
+            "He went to the high mountain alone."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did the island begin to move?",
+          "options": [
+            "An earthquake shook the ground.",
+            "It was a huge sleeping animal that woke up from the heat of their fire.",
+            "The ship hit the shore with great force."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did Sinbad leave the island after his ship sailed away?",
+          "options": [
+            "He swam across the blue water.",
+            "A large bird carried him safely to another high mountain.",
+            "Other merchants came back on a small boat."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sinbad lived a comfortable life in a big city, but he wanted a great adventure.",
+              "audioStart": 0.1,
+              "audioEnd": 4.237
+            },
+            {
+              "text": "One bright morning, he joined a group of men and boarded a large ship.",
+              "audioStart": 5.1,
+              "audioEnd": 8.75
+            },
+            {
+              "text": "They sailed across the blue water for many weeks, and the journey was very calm.",
+              "audioStart": 9.613,
+              "audioEnd": 13.738
+            },
+            {
+              "text": "After some time, the leader dropped metal down near a strange land which looked like green grass.",
+              "audioStart": 14.6,
+              "audioEnd": 19.587
+            },
+            {
+              "text": "The passengers went down to walk on the ground and enjoy some fresh food.",
+              "audioStart": 20.45,
+              "audioEnd": 24.113
+            },
+            {
+              "text": "Sinbad rested under a tree while his friends explored the beautiful beach.",
+              "audioStart": 24.975,
+              "audioEnd": 28.775
+            },
+            {
+              "text": "Suddenly, the ground began to move beneath them with great force.",
+              "audioStart": 29.637,
+              "audioEnd": 33.2
+            },
+            {
+              "text": "The land was actually a huge sleeping animal which woke up from the heat of their fire.",
+              "audioStart": 34.062,
+              "audioEnd": 38.337
+            },
+            {
+              "text": "People started to shout and run back toward the water as the animal sank down.",
+              "audioStart": 39.2,
+              "audioEnd": 43.1
+            },
+            {
+              "text": "Sinbad was left behind on the coast while his ship sailed quickly away across the waves.",
+              "audioStart": 43.962,
+              "audioEnd": 48.562
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He felt very worried because he had no food and no way to return home.",
+              "audioStart": 49.425,
+              "audioEnd": 53.138
+            },
+            {
+              "text": "However, a large bird flew down from the sky and carried him safely to another high mountain.",
+              "audioStart": 54,
+              "audioEnd": 58.962
+            },
+            {
+              "text": "From that place, Sinbad found valuable items which he traded with other people for money.",
+              "audioStart": 59.825,
+              "audioEnd": 64.575
+            },
+            {
+              "text": "He built a new life and finally returned home to his family with great stories.",
+              "audioStart": 65.438,
+              "audioEnd": 69.513
+            },
+            {
+              "text": "Even though the adventure was dangerous, he was happy to be safe again.",
+              "audioStart": 70.375,
+              "audioEnd": 73.875
+            },
+            {
+              "text": "He had many days to think about everything that happened during the long trip.",
+              "audioStart": 74.737,
+              "audioEnd": 78.4
+            },
+            {
+              "text": "The large animal was something which nobody could believe until they saw it.",
+              "audioStart": 79.263,
+              "audioEnd": 82.7
+            },
+            {
+              "text": "If he stayed in the city, he would never know such a wonderful world.",
+              "audioStart": 83.562,
+              "audioEnd": 86.95
+            },
+            {
+              "text": "Every person who heard the story was amazed by the strange events.",
+              "audioStart": 87.812,
+              "audioEnd": 91.112
+            },
+            {
+              "text": "Sinbad decided that another journey might happen in some future year.",
+              "audioStart": 91.975,
+              "audioEnd": 95.438
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He spent much time with his family, but his mind was always on the sea.",
+              "audioStart": 96.3,
+              "audioEnd": 100.15
+            },
+            {
+              "text": "The money which he brought back was used to help poor people in the city.",
+              "audioStart": 101.013,
+              "audioEnd": 104.375
+            },
+            {
+              "text": "His friends often came to visit him and talk about the past adventure.",
+              "audioStart": 105.237,
+              "audioEnd": 108.713
+            },
+            {
+              "text": "They remember the day when the ground moved beneath their feet.",
+              "audioStart": 109.575,
+              "audioEnd": 112.525
+            },
+            {
+              "text": "Life in the city was quiet, but Sinbad sometimes missed the open water.",
+              "audioStart": 113.388,
+              "audioEnd": 117.375
+            },
+            {
+              "text": "He would look at the ocean and think about the bird that saved him.",
+              "audioStart": 118.237,
+              "audioEnd": 121.175
+            },
+            {
+              "text": "No one could imagine how high the mountain was where he landed.",
+              "audioStart": 122.037,
+              "audioEnd": 124.85
+            },
+            {
+              "text": "The valuable items changed his life completely and brought him much success.",
+              "audioStart": 125.713,
+              "audioEnd": 129.8
+            },
+            {
+              "text": "When people asked him about the journey, he told them every detail.",
+              "audioStart": 130.662,
+              "audioEnd": 134.012
+            },
+            {
+              "text": "He explained how the large animal woke up and went under the waves.",
+              "audioStart": 134.875,
+              "audioEnd": 138.1
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The listeners were always surprised by the facts of the strange story.",
+              "audioStart": 138.963,
+              "audioEnd": 142.387
+            },
+            {
+              "text": "Sinbad knew that he was lucky to survive such a dangerous test.",
+              "audioStart": 143.25,
+              "audioEnd": 146.762
+            },
+            {
+              "text": "His family was glad that he finally came back without any serious injury.",
+              "audioStart": 147.625,
+              "audioEnd": 151.688
+            },
+            {
+              "text": "Years passed, and he remained happy in his comfortable home.",
+              "audioStart": 152.55,
+              "audioEnd": 155.725
+            },
+            {
+              "text": "Yet, the call of the ocean was something which he could never forget.",
+              "audioStart": 156.588,
+              "audioEnd": 159.975
+            },
+            {
+              "text": "Perhaps another adventure would wait for him when the time was right.",
+              "audioStart": 160.838,
+              "audioEnd": 164
+            },
+            {
+              "text": "If he had not gone to the sea, he would have missed the great world.",
+              "audioStart": 164.863,
+              "audioEnd": 168.05
+            },
+            {
+              "text": "The wonderful memories stayed with him through every single day.",
+              "audioStart": 168.912,
+              "audioEnd": 171.838
+            },
+            {
+              "text": "His friends always asked him to repeat the story again and again.",
+              "audioStart": 172.7,
+              "audioEnd": 175.912
+            },
+            {
+              "text": "He told them that life was full of surprising moments.",
+              "audioStart": 176.775,
+              "audioEnd": 179.488
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0192.mp3",
+      "wordTimings": "audio/b2/st-0192.timings.json",
+      "quiz": [
+        {
+          "q": "What did Sinbad and the merchants mistake the island for?",
+          "options": [
+            "A huge sleeping animal",
+            "A floating house",
+            "A boat full of food"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did Sinbad leave the strange island after his ship sailed away?",
+          "options": [
+            "He swam across the ocean",
+            "A large bird carried him",
+            "He built a small wooden boat"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did Sinbad do after he reached the high mountain?",
+          "options": [
+            "He traded valuable items with merchants",
+            "He stayed there for the rest of his life",
+            "He became the king of the island"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sinbad lived a comfortable life within the bustling walls of a great city, yet a quiet restlessness continuously gnawed at his spirit.",
+              "audioStart": 0.1,
+              "audioEnd": 7.237
+            },
+            {
+              "text": "Though his coffers were adequate and his days passed without hardship, he yearned for something far grander than ordinary routine.",
+              "audioStart": 8.1,
+              "audioEnd": 14.725
+            },
+            {
+              "text": "One particularly bright morning, driven by an irresistible impulse, he joined a group of adventurous men at the harbor.",
+              "audioStart": 15.588,
+              "audioEnd": 22.1
+            },
+            {
+              "text": "Without hesitation, they boarded a magnificent ship that promised to carry them toward uncharted horizons.",
+              "audioStart": 22.962,
+              "audioEnd": 28.7
+            },
+            {
+              "text": "As the vessel slipped away from the familiar docks, Sinbad felt a profound sense of liberation take hold of him.",
+              "audioStart": 29.562,
+              "audioEnd": 35.462
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They sailed across the vast blue expanse of the ocean for many weeks under an endless sky.",
+              "audioStart": 36.325,
+              "audioEnd": 40.95
+            },
+            {
+              "text": "The journey proved remarkably calm, allowing the travelers to share stories and marvel at the changing colors of the water.",
+              "audioStart": 41.812,
+              "audioEnd": 48.062
+            },
+            {
+              "text": "No storms threatened their passage, and the gentle winds guided them steadily toward unknown destinations.",
+              "audioStart": 48.925,
+              "audioEnd": 54.513
+            },
+            {
+              "text": "After a considerable amount of time, the captain decided it was wise to check their bearings and replenish their supplies.",
+              "audioStart": 55.375,
+              "audioEnd": 61.85
+            },
+            {
+              "text": "The leader dropped heavy metal anchors down near a strange landmass which looked deceptively like a strip of green grass.",
+              "audioStart": 62.712,
+              "audioEnd": 68.675
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Eager to stretch their legs, the passengers descended from the ship to walk upon the unfamiliar ground.",
+              "audioStart": 69.537,
+              "audioEnd": 74.938
+            },
+            {
+              "text": "They breathed in the fresh coastal air and prepared a modest meal using firewood gathered from the shore.",
+              "audioStart": 75.8,
+              "audioEnd": 80.938
+            },
+            {
+              "text": "Sinbad sought out a quiet spot to rest under the comforting shade of a large tree while his companions explored the beach.",
+              "audioStart": 81.8,
+              "audioEnd": 88.062
+            },
+            {
+              "text": "The afternoon sun beat down warmly upon the landscape, creating an atmosphere of profound tranquility.",
+              "audioStart": 88.925,
+              "audioEnd": 94.5
+            },
+            {
+              "text": "No one suspected that beneath the peaceful surface, an ancient slumber was about to be disturbed.",
+              "audioStart": 95.362,
+              "audioEnd": 100.325
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, the ground began to shudder beneath them with a terrifying and unnatural force.",
+              "audioStart": 101.188,
+              "audioEnd": 106.088
+            },
+            {
+              "text": "What they had mistaken for firm earth was in reality a colossal sleeping animal that had rested in the ocean for centuries.",
+              "audioStart": 106.95,
+              "audioEnd": 113.188
+            },
+            {
+              "text": "The intense heat from their cooking fire had penetrated its thick hide, rousing the creature from its deep slumber.",
+              "audioStart": 114.05,
+              "audioEnd": 120.075
+            },
+            {
+              "text": "Panic instantly replaced the previous calm as people started to shout in absolute terror.",
+              "audioStart": 120.938,
+              "audioEnd": 125.612
+            },
+            {
+              "text": "They scrambled frantically back toward the water, desperate to reach the safety of the waiting boats.",
+              "audioStart": 126.475,
+              "audioEnd": 131.537
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sinbad was left stranded on the crumbling coast as the massive beast began to shift its weight into the sea.",
+              "audioStart": 132.4,
+              "audioEnd": 138.075
+            },
+            {
+              "text": "The ship's crew, fearing for their own survival, hoisted the sails and pulled away quickly across the rising waves.",
+              "audioStart": 138.938,
+              "audioEnd": 145.137
+            },
+            {
+              "text": "He watched with a sinking heart as his only means of escape vanished into the distance.",
+              "audioStart": 146,
+              "audioEnd": 150.262
+            },
+            {
+              "text": "Left entirely alone on the sinking shore, a wave of deep worry washed over him.",
+              "audioStart": 151.125,
+              "audioEnd": 155.55
+            },
+            {
+              "text": "He realized with grim certainty that he possessed neither food nor any conceivable way to return home.",
+              "audioStart": 156.412,
+              "audioEnd": 161.7
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Just as despair threatened to overwhelm his senses, a colossal shadow fell across the beach.",
+              "audioStart": 162.562,
+              "audioEnd": 167.475
+            },
+            {
+              "text": "A gigantic bird, legendary in its proportions, descended gracefully from the open sky.",
+              "audioStart": 168.338,
+              "audioEnd": 173.45
+            },
+            {
+              "text": "With swift precision, it scooped Sinbad up from the dangerous coast without causing him any harm.",
+              "audioStart": 174.312,
+              "audioEnd": 179.363
+            },
+            {
+              "text": "The creature carried him safely through the clouds, far away from the sinking monster and the treacherous sea.",
+              "audioStart": 180.225,
+              "audioEnd": 185.65
+            },
+            {
+              "text": "Eventually, it deposited him gently upon the stony summit of a high and desolate mountain.",
+              "audioStart": 186.512,
+              "audioEnd": 191.338
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Standing upon that elevated plateau, Sinbad looked around and noticed glittering objects scattered among the rocks.",
+              "audioStart": 192.2,
+              "audioEnd": 198.35
+            },
+            {
+              "text": "To his astonishment, these were remarkably valuable items left behind by previous visitors or the giant bird itself.",
+              "audioStart": 199.213,
+              "audioEnd": 205.925
+            },
+            {
+              "text": "He gathered as many precious goods as his pockets could hold, recognizing his incredible fortune.",
+              "audioStart": 206.787,
+              "audioEnd": 212.062
+            },
+            {
+              "text": "When other travelers eventually passed through the region, he traded these treasures in exchange for considerable wealth.",
+              "audioStart": 212.925,
+              "audioEnd": 218.975
+            },
+            {
+              "text": "This unexpected windfall allowed him to build a new life of security and eventually secure passage back to his family.",
+              "audioStart": 219.838,
+              "audioEnd": 226.188
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When he finally walked through his front door, his relatives greeted him with tears of joy and disbelief.",
+              "audioStart": 227.05,
+              "audioEnd": 232.5
+            },
+            {
+              "text": "He regaled them with great stories of his miraculous survival and the strange wonders he had witnessed.",
+              "audioStart": 233.363,
+              "audioEnd": 238.488
+            },
+            {
+              "text": "Even though the adventure had proven exceedingly dangerous, he felt profoundly happy simply to be safe again.",
+              "audioStart": 239.35,
+              "audioEnd": 246.29
+            },
+            {
+              "text": "He spent many quiet days reflecting upon everything that had happened during the long and arduous trip.",
+              "audioStart": 247.153,
+              "audioEnd": 252.315
+            },
+            {
+              "text": "The enormous animal he had encountered remained something which nobody could truly believe until they heard it from his lips.",
+              "audioStart": 253.178,
+              "audioEnd": 258.928
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Had he chosen to remain safely in the city, he would never have known such a magnificent and varied world.",
+              "audioStart": 259.79,
+              "audioEnd": 265.103
+            },
+            {
+              "text": "Every person who listened to the tale was utterly amazed by the bizarre events he described.",
+              "audioStart": 265.965,
+              "audioEnd": 270.502
+            },
+            {
+              "text": "Despite the hardships he endured, Sinbad decided that another journey might happen in some future year.",
+              "audioStart": 271.365,
+              "audioEnd": 276.603
+            },
+            {
+              "text": "He spent much time with his family, yet his wandering mind remained perpetually fixed on the distant sea.",
+              "audioStart": 277.465,
+              "audioEnd": 283.027
+            },
+            {
+              "text": "The substantial wealth which he brought back was generously used to help poor people throughout the city.",
+              "audioStart": 283.89,
+              "audioEnd": 288.803
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His loyal friends often came to visit him just to talk about the dramatic past adventure.",
+              "audioStart": 289.665,
+              "audioEnd": 294.277
+            },
+            {
+              "text": "Together, they vividly remembered the terrifying day when the solid ground moved beneath their feet.",
+              "audioStart": 295.14,
+              "audioEnd": 300.327
+            },
+            {
+              "text": "Life in the city was undeniably quiet, but Sinbad frequently missed the unpredictable rhythm of the open water.",
+              "audioStart": 301.19,
+              "audioEnd": 307.127
+            },
+            {
+              "text": "He would often gaze out toward the ocean and think about the magnificent bird that had saved his life.",
+              "audioStart": 307.99,
+              "audioEnd": 312.777
+            },
+            {
+              "text": "No one in the neighborhood could quite imagine the staggering height of the mountain where he had finally landed.",
+              "audioStart": 313.64,
+              "audioEnd": 318.615
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The valuable items had changed his daily existence completely, bringing him lasting success and comfort.",
+              "audioStart": 319.478,
+              "audioEnd": 325.478
+            },
+            {
+              "text": "Whenever curious neighbors asked him about the journey, he patiently recounted every single detail.",
+              "audioStart": 326.34,
+              "audioEnd": 331.59
+            },
+            {
+              "text": "He explained precisely how the colossal animal woke up and dragged itself back beneath the waves.",
+              "audioStart": 332.452,
+              "audioEnd": 337.39
+            },
+            {
+              "text": "His listeners were invariably surprised by the sheer scale of the strange story.",
+              "audioStart": 338.252,
+              "audioEnd": 342.29
+            },
+            {
+              "text": "Sinbad knew beyond a doubt that he was extraordinarily lucky to survive such a dangerous test.",
+              "audioStart": 343.152,
+              "audioEnd": 348.265
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His family remained deeply glad that he had finally returned home without sustaining any serious injury.",
+              "audioStart": 349.127,
+              "audioEnd": 354.74
+            },
+            {
+              "text": "As years passed by, he remained comfortably settled, yet the irresistible call of the ocean never truly faded.",
+              "audioStart": 355.603,
+              "audioEnd": 361.865
+            },
+            {
+              "text": "He understood that if he had never braved the sea, he would have missed the true vastness of existence.",
+              "audioStart": 362.728,
+              "audioEnd": 367.765
+            },
+            {
+              "text": "The wonderful memories stayed vividly with him through every single day of his remaining life.",
+              "audioStart": 368.627,
+              "audioEnd": 373.077
+            },
+            {
+              "text": "Whenever his friends asked him to repeat the story, he smiled and told them that life was always full of surprising moments.",
+              "audioStart": 373.94,
+              "audioEnd": 380.24
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0192.mp3",
+      "wordTimings": "audio/c1/st-0192.timings.json",
+      "quiz": [
+        {
+          "q": "Why did the sleeping animal suddenly wake up?",
+          "options": [
+            "The heat from the passengers' fire woke it.",
+            "The anchor struck its head directly.",
+            "An earthquake shook the ocean floor."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did Sinbad escape from the island after the ship left him behind?",
+          "options": [
+            "He built a small wooden raft.",
+            "A large bird carried him to a mountain.",
+            "Another trading ship rescued him immediately."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did Sinbad do with the valuable items he found on the mountain?",
+          "options": [
+            "He hid them in the city streets.",
+            "He traded them with other people for money.",
+            "He gave them all to the giant bird."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

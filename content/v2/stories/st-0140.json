@@ -1,0 +1,1482 @@
+{
+  "id": "st-0140",
+  "title": "The Elephant's Child",
+  "genre": "adventure",
+  "summary": "A curious young animal leaves home to find answers and starts a strange river adventure.",
+  "coverScene": "A young elephant stands by a green river while another animal watches closely.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, one big family has no long face part.",
+              "audioStart": 0.106,
+              "audioEnd": 3.592
+            },
+            {
+              "text": "They have only small ones.",
+              "audioStart": 4.556,
+              "audioEnd": 6.167
+            },
+            {
+              "text": "One young member wants to know everything.",
+              "audioStart": 7.125,
+              "audioEnd": 9.431
+            },
+            {
+              "text": "He asks many questions about each thing.",
+              "audioStart": 10.389,
+              "audioEnd": 12.819
+            },
+            {
+              "text": "He speaks too much.",
+              "audioStart": 13.778,
+              "audioEnd": 15.167
+            },
+            {
+              "text": "The other group members do not like him.",
+              "audioStart": 16.125,
+              "audioEnd": 18.333
+            },
+            {
+              "text": "They do not want to talk.",
+              "audioStart": 19.292,
+              "audioEnd": 20.75
+            },
+            {
+              "text": "They want him to go away from them.",
+              "audioStart": 21.708,
+              "audioEnd": 23.486
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One day, he asks a special question.",
+              "audioStart": 24.444,
+              "audioEnd": 27.125
+            },
+            {
+              "text": "What does the big animal eat for food?",
+              "audioStart": 28.083,
+              "audioEnd": 30.139
+            },
+            {
+              "text": "No one has a good answer for him.",
+              "audioStart": 31.097,
+              "audioEnd": 32.972
+            },
+            {
+              "text": "He wants to find out right now.",
+              "audioStart": 33.931,
+              "audioEnd": 35.653
+            },
+            {
+              "text": "He walks away from home.",
+              "audioStart": 36.611,
+              "audioEnd": 38.139
+            },
+            {
+              "text": "He reaches a great water line.",
+              "audioStart": 39.097,
+              "audioEnd": 40.944
+            },
+            {
+              "text": "He looks all over for the animal.",
+              "audioStart": 41.903,
+              "audioEnd": 43.778
+            },
+            {
+              "text": "The animal lives in the water.",
+              "audioStart": 44.736,
+              "audioEnd": 46.361
+            },
+            {
+              "text": "He waits for food.",
+              "audioStart": 47.319,
+              "audioEnd": 48.583
+            },
+            {
+              "text": "The young one asks his question.",
+              "audioStart": 49.542,
+              "audioEnd": 51.444
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The animal tells him to come close.",
+              "audioStart": 52.403,
+              "audioEnd": 54.597
+            },
+            {
+              "text": "The animal takes his little face part.",
+              "audioStart": 55.556,
+              "audioEnd": 57.792
+            },
+            {
+              "text": "The animal takes and takes.",
+              "audioStart": 58.75,
+              "audioEnd": 60.5
+            },
+            {
+              "text": "A long game starts now.",
+              "audioStart": 61.458,
+              "audioEnd": 63
+            },
+            {
+              "text": "His face part goes and goes.",
+              "audioStart": 63.958,
+              "audioEnd": 65.833
+            },
+            {
+              "text": "It becomes a long hand.",
+              "audioStart": 66.792,
+              "audioEnd": 68.361
+            },
+            {
+              "text": "The young one goes away.",
+              "audioStart": 69.319,
+              "audioEnd": 70.75
+            },
+            {
+              "text": "He runs back home.",
+              "audioStart": 71.708,
+              "audioEnd": 73.014
+            },
+            {
+              "text": "His new face part feels bad at first.",
+              "audioStart": 73.972,
+              "audioEnd": 76.486
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He sees it is very good.",
+              "audioStart": 77.444,
+              "audioEnd": 79
+            },
+            {
+              "text": "He uses it for food and water.",
+              "audioStart": 79.958,
+              "audioEnd": 81.819
+            },
+            {
+              "text": "He uses it for small things too.",
+              "audioStart": 82.778,
+              "audioEnd": 84.806
+            },
+            {
+              "text": "He returns home to his family.",
+              "audioStart": 85.764,
+              "audioEnd": 87.653
+            },
+            {
+              "text": "All other big family members want a long face part too.",
+              "audioStart": 88.611,
+              "audioEnd": 91.917
+            },
+            {
+              "text": "They ask the same questions.",
+              "audioStart": 92.875,
+              "audioEnd": 94.639
+            },
+            {
+              "text": "They want to find out.",
+              "audioStart": 95.597,
+              "audioEnd": 96.889
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0140.mp3",
+      "wordTimings": "audio/a1/st-0140.timings.json",
+      "quiz": [
+        {
+          "q": "What does the young elephant ask about?",
+          "options": [
+            "What the crocodile eats for dinner",
+            "Where the river is",
+            "How to swim in the water"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the crocodile do to the elephant?",
+          "options": [
+            "He gives him food.",
+            "He seizes his little nose.",
+            "He runs away from him."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happens to the elephant's nose?",
+          "options": [
+            "It becomes a long trunk.",
+            "It falls off in the water.",
+            "It stays very small."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, young animals had no long face parts.",
+              "audioStart": 0.106,
+              "audioEnd": 3.439
+            },
+            {
+              "text": "They only had small ones.",
+              "audioStart": 4.403,
+              "audioEnd": 6.083
+            },
+            {
+              "text": "One young person was very full of questions.",
+              "audioStart": 7.042,
+              "audioEnd": 9.819
+            },
+            {
+              "text": "He asked many questions.",
+              "audioStart": 10.778,
+              "audioEnd": 12.514
+            },
+            {
+              "text": "He asked questions about everything in the world.",
+              "audioStart": 13.472,
+              "audioEnd": 16.111
+            },
+            {
+              "text": "The other people were tired of him.",
+              "audioStart": 17.069,
+              "audioEnd": 19.028
+            },
+            {
+              "text": "He spoke too much every day.",
+              "audioStart": 19.986,
+              "audioEnd": 21.722
+            },
+            {
+              "text": "He did not stop talking to his family.",
+              "audioStart": 22.681,
+              "audioEnd": 24.931
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One day, he asked about the food of the big animal.",
+              "audioStart": 25.889,
+              "audioEnd": 28.986
+            },
+            {
+              "text": "The family members could not give a good answer.",
+              "audioStart": 29.944,
+              "audioEnd": 32.583
+            },
+            {
+              "text": "Full of interest, he decided to travel to find out.",
+              "audioStart": 33.542,
+              "audioEnd": 36.806
+            },
+            {
+              "text": "He walked away from home.",
+              "audioStart": 37.764,
+              "audioEnd": 39.264
+            },
+            {
+              "text": "He walked until he reached the great water.",
+              "audioStart": 40.222,
+              "audioEnd": 42.639
+            },
+            {
+              "text": "He looked all around for the big animal.",
+              "audioStart": 43.597,
+              "audioEnd": 45.681
+            },
+            {
+              "text": "The big animal lived by the water.",
+              "audioStart": 46.639,
+              "audioEnd": 48.597
+            },
+            {
+              "text": "He waited for food by the river.",
+              "audioStart": 49.556,
+              "audioEnd": 51.472
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The young person asked a question.",
+              "audioStart": 52.431,
+              "audioEnd": 54.417
+            },
+            {
+              "text": "The big animal told him to come close.",
+              "audioStart": 55.375,
+              "audioEnd": 57.667
+            },
+            {
+              "text": "Suddenly, the big animal hold his little face part.",
+              "audioStart": 58.625,
+              "audioEnd": 61.861
+            },
+            {
+              "text": "He pulled very hard.",
+              "audioStart": 62.819,
+              "audioEnd": 64.111
+            },
+            {
+              "text": "A long pull game started.",
+              "audioStart": 65.069,
+              "audioEnd": 66.639
+            },
+            {
+              "text": "It was between the young person and the water animal.",
+              "audioStart": 67.597,
+              "audioEnd": 70.403
+            },
+            {
+              "text": "Both pulled with all their power.",
+              "audioStart": 71.361,
+              "audioEnd": 73.194
+            },
+            {
+              "text": "His face part grew and grew.",
+              "audioStart": 74.153,
+              "audioEnd": 75.903
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "It became a long line after a long time.",
+              "audioStart": 76.861,
+              "audioEnd": 79.542
+            },
+            {
+              "text": "Finally, the young person pulled away.",
+              "audioStart": 80.5,
+              "audioEnd": 82.861
+            },
+            {
+              "text": "He went back home to his family.",
+              "audioStart": 83.819,
+              "audioEnd": 85.681
+            },
+            {
+              "text": "At first, his new long face part felt bad to him.",
+              "audioStart": 86.639,
+              "audioEnd": 90.069
+            },
+            {
+              "text": "Soon, he realized that it was useful for daily life.",
+              "audioStart": 91.028,
+              "audioEnd": 94.681
+            },
+            {
+              "text": "He could use it for eating and drinking.",
+              "audioStart": 95.639,
+              "audioEnd": 97.708
+            },
+            {
+              "text": "He could move bad flies away.",
+              "audioStart": 98.667,
+              "audioEnd": 100.444
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He returned home to his house.",
+              "audioStart": 101.403,
+              "audioEnd": 103.181
+            },
+            {
+              "text": "The family members saw his new feature.",
+              "audioStart": 104.139,
+              "audioEnd": 106.389
+            },
+            {
+              "text": "They wanted one too.",
+              "audioStart": 107.347,
+              "audioEnd": 108.778
+            },
+            {
+              "text": "The young person smiled.",
+              "audioStart": 109.736,
+              "audioEnd": 111.236
+            },
+            {
+              "text": "He liked his new long face part.",
+              "audioStart": 112.194,
+              "audioEnd": 114.236
+            },
+            {
+              "text": "He went to the water again to see friends.",
+              "audioStart": 115.194,
+              "audioEnd": 117.5
+            },
+            {
+              "text": "Everyone saw him by the river.",
+              "audioStart": 118.458,
+              "audioEnd": 120.236
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They asked him about his new feature.",
+              "audioStart": 121.194,
+              "audioEnd": 123.153
+            },
+            {
+              "text": "He told them the story about the big water animal.",
+              "audioStart": 124.111,
+              "audioEnd": 126.833
+            },
+            {
+              "text": "Many other young persons wanted a long face part too.",
+              "audioStart": 127.792,
+              "audioEnd": 131.028
+            },
+            {
+              "text": "They walked to the great water.",
+              "audioStart": 131.986,
+              "audioEnd": 133.583
+            },
+            {
+              "text": "They wanted to find the big animal.",
+              "audioStart": 134.542,
+              "audioEnd": 136.319
+            },
+            {
+              "text": "They wanted to pull and grow their face parts.",
+              "audioStart": 137.278,
+              "audioEnd": 139.778
+            },
+            {
+              "text": "From that day, all of them had long face parts.",
+              "audioStart": 140.736,
+              "audioEnd": 143.806
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0140.mp3",
+      "wordTimings": "audio/a2/st-0140.timings.json",
+      "quiz": [
+        {
+          "q": "What did the young elephant do because he was curious?",
+          "options": [
+            "He asked many questions.",
+            "He went to sleep.",
+            "He ran away from water."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What animal did the young elephant look for by the river?",
+          "options": [
+            "A crocodile",
+            "A big dog",
+            "Another elephant"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the elephant's nose during the pull?",
+          "options": [
+            "It stretched and became a long trunk.",
+            "It fell off into the water.",
+            "It became very short and small."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, animals had no long face parts.",
+              "audioStart": 0.1,
+              "audioEnd": 2.837
+            },
+            {
+              "text": "They only had small ones.",
+              "audioStart": 3.7,
+              "audioEnd": 5.213
+            },
+            {
+              "text": "One young animal was very interested.",
+              "audioStart": 6.075,
+              "audioEnd": 8.05
+            },
+            {
+              "text": "He asked many questions about everything.",
+              "audioStart": 8.912,
+              "audioEnd": 11.1
+            },
+            {
+              "text": "He asked about the world that he saw.",
+              "audioStart": 11.963,
+              "audioEnd": 13.787
+            },
+            {
+              "text": "The other animals were tired of him.",
+              "audioStart": 14.65,
+              "audioEnd": 16.45
+            },
+            {
+              "text": "He spoke too much every single day.",
+              "audioStart": 17.312,
+              "audioEnd": 19.238
+            },
+            {
+              "text": "He wanted to know more about the world.",
+              "audioStart": 20.1,
+              "audioEnd": 21.9
+            },
+            {
+              "text": "He spoke to his family and friends.",
+              "audioStart": 22.762,
+              "audioEnd": 24.65
+            },
+            {
+              "text": "They did not like his constant talk.",
+              "audioStart": 25.512,
+              "audioEnd": 27.363
+            },
+            {
+              "text": "He would always ask about food and rivers.",
+              "audioStart": 28.225,
+              "audioEnd": 30.425
+            },
+            {
+              "text": "His parents told him to stop asking.",
+              "audioStart": 31.288,
+              "audioEnd": 33.275
+            },
+            {
+              "text": "However, he could not stop his mind.",
+              "audioStart": 34.138,
+              "audioEnd": 36.237
+            },
+            {
+              "text": "He wanted to find out about everything.",
+              "audioStart": 37.1,
+              "audioEnd": 39.038
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One day, he asked a special question.",
+              "audioStart": 39.9,
+              "audioEnd": 42.325
+            },
+            {
+              "text": "He asked what the water animal ate for dinner.",
+              "audioStart": 43.188,
+              "audioEnd": 45.487
+            },
+            {
+              "text": "None of the other animals gave an answer.",
+              "audioStart": 46.35,
+              "audioEnd": 48.312
+            },
+            {
+              "text": "Full of interest, he decided to travel.",
+              "audioStart": 49.175,
+              "audioEnd": 51.475
+            },
+            {
+              "text": "He walked away from home.",
+              "audioStart": 52.337,
+              "audioEnd": 53.688
+            },
+            {
+              "text": "He reached the great river.",
+              "audioStart": 54.55,
+              "audioEnd": 55.938
+            },
+            {
+              "text": "He looked everywhere for the water animal.",
+              "audioStart": 56.8,
+              "audioEnd": 58.75
+            },
+            {
+              "text": "The water animal lived in the water.",
+              "audioStart": 59.612,
+              "audioEnd": 61.388
+            },
+            {
+              "text": "It waited quietly for food.",
+              "audioStart": 62.25,
+              "audioEnd": 63.837
+            },
+            {
+              "text": "The young animal asked his question.",
+              "audioStart": 64.7,
+              "audioEnd": 66.638
+            },
+            {
+              "text": "The river animal told him to come closer.",
+              "audioStart": 67.5,
+              "audioEnd": 69.662
+            },
+            {
+              "text": "Suddenly, the animal caught his little face part.",
+              "audioStart": 70.525,
+              "audioEnd": 73.237
+            },
+            {
+              "text": "It pulled very hard.",
+              "audioStart": 74.1,
+              "audioEnd": 75.25
+            },
+            {
+              "text": "A long pull started between them.",
+              "audioStart": 76.112,
+              "audioEnd": 77.862
+            },
+            {
+              "text": "His face part stretched and stretched.",
+              "audioStart": 78.725,
+              "audioEnd": 80.713
+            },
+            {
+              "text": "It became a long body part.",
+              "audioStart": 81.575,
+              "audioEnd": 83.263
+            },
+            {
+              "text": "Finally, the young animal pulled away.",
+              "audioStart": 84.125,
+              "audioEnd": 86.3
+            },
+            {
+              "text": "He escaped back home.",
+              "audioStart": 87.162,
+              "audioEnd": 88.463
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At first, his new long face part felt strange.",
+              "audioStart": 89.325,
+              "audioEnd": 92.3
+            },
+            {
+              "text": "He soon realized that it was useful.",
+              "audioStart": 93.162,
+              "audioEnd": 95.1
+            },
+            {
+              "text": "He could use it for eating food.",
+              "audioStart": 95.963,
+              "audioEnd": 97.575
+            },
+            {
+              "text": "He could drink water and move flies away.",
+              "audioStart": 98.438,
+              "audioEnd": 100.575
+            },
+            {
+              "text": "He has returned home to his family.",
+              "audioStart": 101.438,
+              "audioEnd": 103.275
+            },
+            {
+              "text": "All the other animals saw his new feature.",
+              "audioStart": 104.138,
+              "audioEnd": 106.15
+            },
+            {
+              "text": "They wanted one too.",
+              "audioStart": 107.013,
+              "audioEnd": 108.3
+            },
+            {
+              "text": "If he had not gone to the river, he would not have found the answer.",
+              "audioStart": 109.162,
+              "audioEnd": 112.45
+            },
+            {
+              "text": "He has learned that interest brings changes.",
+              "audioStart": 113.312,
+              "audioEnd": 115.487
+            },
+            {
+              "text": "The other animals have seen the long feature.",
+              "audioStart": 116.35,
+              "audioEnd": 118.5
+            },
+            {
+              "text": "They want to have long face parts now.",
+              "audioStart": 119.362,
+              "audioEnd": 121.213
+            },
+            {
+              "text": "Many days have passed since he returned.",
+              "audioStart": 122.075,
+              "audioEnd": 124.3
+            },
+            {
+              "text": "The young animal has lived a happy life.",
+              "audioStart": 125.162,
+              "audioEnd": 127.25
+            },
+            {
+              "text": "He has always shared his wonderful stories.",
+              "audioStart": 128.113,
+              "audioEnd": 130.387
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0140.mp3",
+      "wordTimings": "audio/b1/st-0140.timings.json",
+      "quiz": [
+        {
+          "q": "What did the young elephant want to know before his journey?",
+          "options": [
+            "What the crocodile ate for dinner",
+            "Where the great river was located",
+            "Why the other animals were tired"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened when the young elephant reached the river?",
+          "options": [
+            "He ran away from the crocodile immediately",
+            "The crocodile seized his little nose and pulled",
+            "The other animals told him a good answer"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the elephant realize about his new long nose?",
+          "options": [
+            "It was completely useless for everyday life",
+            "It was marvelously useful for eating and drinking",
+            "It felt strange and he never went home"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, animals of that kind had no long nose parts, only small ones.",
+              "audioStart": 0.1,
+              "audioEnd": 4.638
+            },
+            {
+              "text": "One young animal was full of interest and asked many questions.",
+              "audioStart": 5.5,
+              "audioEnd": 8.825
+            },
+            {
+              "text": "He asked questions about everything that he saw in the world.",
+              "audioStart": 9.688,
+              "audioEnd": 12.575
+            },
+            {
+              "text": "The other people of the group were tired of him because he spoke too much.",
+              "audioStart": 13.438,
+              "audioEnd": 16.988
+            },
+            {
+              "text": "He spoke too much every day, and his family members did not like his habit.",
+              "audioStart": 17.85,
+              "audioEnd": 21.85
+            },
+            {
+              "text": "They wanted him to stop speaking, but he could not stop his mind from thinking about things.",
+              "audioStart": 22.712,
+              "audioEnd": 27.325
+            },
+            {
+              "text": "He always wanted to know more about the world, and every single moment was a chance to ask something new.",
+              "audioStart": 28.188,
+              "audioEnd": 33.375
+            },
+            {
+              "text": "His friends tried to ignore him, and they walked away when he came close.",
+              "audioStart": 34.237,
+              "audioEnd": 38
+            },
+            {
+              "text": "Still, he did not care about their mind and soul.",
+              "audioStart": 38.862,
+              "audioEnd": 41.575
+            },
+            {
+              "text": "He kept asking questions from morning until night, but no one could give him a good answer.",
+              "audioStart": 42.438,
+              "audioEnd": 47.125
+            },
+            {
+              "text": "He felt that he must find out the truth because his mind was never quiet.",
+              "audioStart": 47.987,
+              "audioEnd": 51.7
+            },
+            {
+              "text": "He wanted to understand how everything worked, while the other creatures were very sad with him.",
+              "audioStart": 52.562,
+              "audioEnd": 57.35
+            },
+            {
+              "text": "They hoped that he would find a new interest soon.",
+              "audioStart": 58.212,
+              "audioEnd": 60.462
+            },
+            {
+              "text": "He always thought about the future and what he might learn next.",
+              "audioStart": 61.325,
+              "audioEnd": 64.362
+            },
+            {
+              "text": "His parents told him to be quiet, but he did not listen to them.",
+              "audioStart": 65.225,
+              "audioEnd": 68.625
+            },
+            {
+              "text": "Many days passed, and his questions never stopped growing.",
+              "audioStart": 69.487,
+              "audioEnd": 72.737
+            },
+            {
+              "text": "Every animal in the group felt that he was too difficult.",
+              "audioStart": 73.6,
+              "audioEnd": 76.35
+            },
+            {
+              "text": "They did not want to hear his voice anymore.",
+              "audioStart": 77.213,
+              "audioEnd": 79.312
+            },
+            {
+              "text": "He wondered why nobody would answer his great questions.",
+              "audioStart": 80.175,
+              "audioEnd": 82.975
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One day, he asked a very special question about what the large water animal ate for dinner.",
+              "audioStart": 83.838,
+              "audioEnd": 88.787
+            },
+            {
+              "text": "None of the other creatures could give him a good answer.",
+              "audioStart": 89.65,
+              "audioEnd": 92.125
+            },
+            {
+              "text": "Full of interest, he decided to travel to find out for himself.",
+              "audioStart": 92.987,
+              "audioEnd": 96.562
+            },
+            {
+              "text": "He walked away from home until he reached the great river, which was long and wide.",
+              "audioStart": 97.425,
+              "audioEnd": 101.612
+            },
+            {
+              "text": "He walked for many days to reach that place, and the journey was difficult and long.",
+              "audioStart": 102.475,
+              "audioEnd": 106.725
+            },
+            {
+              "text": "He felt tired, but he did not stop because he wanted to find the answer.",
+              "audioStart": 107.588,
+              "audioEnd": 111.525
+            },
+            {
+              "text": "When he arrived at the river, he looked everywhere for the water animal.",
+              "audioStart": 112.388,
+              "audioEnd": 115.787
+            },
+            {
+              "text": "The water animal lived in the water and waited quietly for food.",
+              "audioStart": 116.65,
+              "audioEnd": 120
+            },
+            {
+              "text": "When the young animal asked his question, the water animal told him to come closer.",
+              "audioStart": 120.862,
+              "audioEnd": 125.237
+            },
+            {
+              "text": "Suddenly, the water animal caught his little nose part and pulled very hard.",
+              "audioStart": 126.1,
+              "audioEnd": 130.113
+            },
+            {
+              "text": "A long pull started between the small animal and the large river creature.",
+              "audioStart": 130.975,
+              "audioEnd": 134.713
+            },
+            {
+              "text": "While they pulled against each other, his nose part stretched and stretched.",
+              "audioStart": 135.575,
+              "audioEnd": 139.25
+            },
+            {
+              "text": "It became a long form after they pulled for a long time.",
+              "audioStart": 140.113,
+              "audioEnd": 143
+            },
+            {
+              "text": "Finally, the young animal was able to pull away and escape back home.",
+              "audioStart": 143.863,
+              "audioEnd": 147.637
+            },
+            {
+              "text": "He ran as fast as he could, and his heart beat fast with fear.",
+              "audioStart": 148.5,
+              "audioEnd": 151.975
+            },
+            {
+              "text": "He was glad to be free again.",
+              "audioStart": 152.838,
+              "audioEnd": 154.438
+            },
+            {
+              "text": "He felt the pain in his nose while he ran through the forest.",
+              "audioStart": 155.3,
+              "audioEnd": 158.137
+            },
+            {
+              "text": "The water animal watched him leave and went back into the deep water.",
+              "audioStart": 159,
+              "audioEnd": 162.312
+            },
+            {
+              "text": "The journey home was long, but he did not stop for anything.",
+              "audioStart": 163.175,
+              "audioEnd": 166.338
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At first, his new long nose part felt very strange to him.",
+              "audioStart": 167.2,
+              "audioEnd": 170.75
+            },
+            {
+              "text": "However, he soon realized that it was useful for everyday life.",
+              "audioStart": 171.613,
+              "audioEnd": 175.287
+            },
+            {
+              "text": "He could use it for eating food, drinking water, and moving away bad animals.",
+              "audioStart": 176.15,
+              "audioEnd": 180.463
+            },
+            {
+              "text": "When he returned home, all the other animals saw his new feature and wanted one too.",
+              "audioStart": 181.325,
+              "audioEnd": 185.588
+            },
+            {
+              "text": "They looked at him with great surprise, and they could not believe their eyes.",
+              "audioStart": 186.45,
+              "audioEnd": 190.188
+            },
+            {
+              "text": "His mother and father were also shocked, and they asked him how his nose part became so long.",
+              "audioStart": 191.05,
+              "audioEnd": 196.025
+            },
+            {
+              "text": "He told them the whole story about the river and the water animal.",
+              "audioStart": 196.887,
+              "audioEnd": 199.838
+            },
+            {
+              "text": "Then, the other animals decided to make the same journey, and they walked to the great river one by one.",
+              "audioStart": 200.7,
+              "audioEnd": 206.188
+            },
+            {
+              "text": "They wanted to get long nose parts of their own.",
+              "audioStart": 207.05,
+              "audioEnd": 209.312
+            },
+            {
+              "text": "When they met the water animal, the same thing happened to them.",
+              "audioStart": 210.175,
+              "audioEnd": 213.238
+            },
+            {
+              "text": "They all came back home with long nose parts too.",
+              "audioStart": 214.1,
+              "audioEnd": 216.662
+            },
+            {
+              "text": "From that day on, every animal of that kind had a long nose part.",
+              "audioStart": 217.525,
+              "audioEnd": 221.1
+            },
+            {
+              "text": "They lived happily and used their new features every day.",
+              "audioStart": 221.963,
+              "audioEnd": 224.787
+            },
+            {
+              "text": "The young animal was finally happy because he had found his answer.",
+              "audioStart": 225.65,
+              "audioEnd": 228.9
+            },
+            {
+              "text": "He never stopped asking questions, though, and he always found new things to learn.",
+              "audioStart": 229.762,
+              "audioEnd": 234.137
+            },
+            {
+              "text": "His life was full of adventure from that time forward.",
+              "audioStart": 235,
+              "audioEnd": 237.688
+            },
+            {
+              "text": "The other creatures were happy with their new noses as well.",
+              "audioStart": 238.55,
+              "audioEnd": 241.312
+            },
+            {
+              "text": "They used their long parts to reach food in high places.",
+              "audioStart": 242.175,
+              "audioEnd": 245.15
+            },
+            {
+              "text": "Everything was peaceful in the group, and no one complained anymore.",
+              "audioStart": 246.012,
+              "audioEnd": 249.438
+            },
+            {
+              "text": "The young animal continued to ask questions for the rest of his days.",
+              "audioStart": 250.3,
+              "audioEnd": 253.8
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0140.mp3",
+      "wordTimings": "audio/b2/st-0140.timings.json",
+      "quiz": [
+        {
+          "q": "What did the young elephant ask about?",
+          "options": [
+            "What the crocodile ate for dinner",
+            "Where the great river was",
+            "Why the other animals were tired"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened when the elephant reached the river?",
+          "options": [
+            "The crocodile seized his little nose and pulled hard",
+            "He drank water and went back home immediately",
+            "The other elephants met him there"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the other elephants want after he returned home?",
+          "options": [
+            "Long trunks of their own",
+            "To travel to the river",
+            "A good answer to his question"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In a time when the world was still learning its own shapes, the creatures of that kind possessed no elongated snout, but merely a small and unremarkable protuberance where a nose should be.",
+              "audioStart": 0.1,
+              "audioEnd": 9.787
+            },
+            {
+              "text": "Among them lived a young creature whose mind was utterly consumed by an insatiable curiosity, questioning the very fabric of existence.",
+              "audioStart": 10.65,
+              "audioEnd": 18.1
+            },
+            {
+              "text": "Scarcely a moment passed without him posing yet another inquiry about the mechanisms of the world, probing deeply into matters that others preferred to leave undisturbed.",
+              "audioStart": 18.962,
+              "audioEnd": 27.575
+            },
+            {
+              "text": "His incessant voice grated upon the patience of his extended family, who found his relentless interrogation wearing upon their daily peace.",
+              "audioStart": 28.438,
+              "audioEnd": 35.837
+            },
+            {
+              "text": "They longed for him to lapse into silence, yet his intellect refused to remain dormant, driven as it was by a profound need to comprehend the universe.",
+              "audioStart": 36.7,
+              "audioEnd": 44.75
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Not a single member of his herd could tolerate his presence for long, choosing instead to slip away whenever his familiar footsteps approached.",
+              "audioStart": 45.612,
+              "audioEnd": 53.025
+            },
+            {
+              "text": "He remained entirely unperturbed by their cold indifference, marching resolutely to the rhythm of his own relentless thoughts.",
+              "audioStart": 53.888,
+              "audioEnd": 60.35
+            },
+            {
+              "text": "From the first light of dawn until the deep shadows of dusk, he bombarded anyone who would listen with questions that defied easy answers.",
+              "audioStart": 61.212,
+              "audioEnd": 68.412
+            },
+            {
+              "text": "No one possessed the wisdom to satisfy his cravings for truth, leaving him to wander the plains with a mind that burned like a restless fire.",
+              "audioStart": 69.275,
+              "audioEnd": 76.675
+            },
+            {
+              "text": "While his companions despaired of his eccentricities, hoping quietly that he might outgrow his burdensome obsession, he looked perpetually toward the horizon.",
+              "audioStart": 77.537,
+              "audioEnd": 85.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His parents offered stern warnings, urging him to moderate his tone and conform to the quiet dignity expected of their kind.",
+              "audioStart": 86.487,
+              "audioEnd": 93.162
+            },
+            {
+              "text": "Yet their admonitions drifted past him like the dry savanna wind, leaving no lasting impression upon his fiercely independent spirit.",
+              "audioStart": 94.025,
+              "audioEnd": 101.175
+            },
+            {
+              "text": "As days accumulated into weeks, the volume and complexity of his inquiries only escalated, pushing his community to the absolute brink of endurance.",
+              "audioStart": 102.037,
+              "audioEnd": 110.562
+            },
+            {
+              "text": "Every single creature in the group regarded him as an exhausting burden, wishing desperately that they might never hear his voice again.",
+              "audioStart": 111.425,
+              "audioEnd": 118.1
+            },
+            {
+              "text": "He could not fathom why profound questions were met with such hostility, wondering endlessly why the world was populated by minds so stubbornly closed.",
+              "audioStart": 118.963,
+              "audioEnd": 127.013
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The pivotal moment arrived on a humid morning when he posed a query so specific and unprecedented that even the oldest elders fell completely silent.",
+              "audioStart": 127.875,
+              "audioEnd": 135.625
+            },
+            {
+              "text": "He demanded to know, with absolute precision, what the great bi-colored-python-rock-snake consumed for its evening meal.",
+              "audioStart": 136.488,
+              "audioEnd": 142.875
+            },
+            {
+              "text": "Not a single soul in the surrounding territory could furnish a satisfactory reply, leaving him suspended in a vacuum of ignorance.",
+              "audioStart": 143.738,
+              "audioEnd": 150.775
+            },
+            {
+              "text": "Driven by an intense compulsion that brooked no denial, he resolved to undertake a perilous expedition to uncover the truth himself.",
+              "audioStart": 151.637,
+              "audioEnd": 158.713
+            },
+            {
+              "text": "He turned his back upon the familiar paths of home, setting his course toward the distant, winding river where the mysterious creature was rumored to dwell.",
+              "audioStart": 159.575,
+              "audioEnd": 167.488
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He walked for numerous days across harsh and unforgiving terrain, his physical strength waning under the relentless heat of the midday sun.",
+              "audioStart": 168.35,
+              "audioEnd": 175.4
+            },
+            {
+              "text": "Fatigue gnawed at his muscles, yet his burning curiosity acted as an invisible shield against complete exhaustion.",
+              "audioStart": 176.262,
+              "audioEnd": 182.488
+            },
+            {
+              "text": "When he finally crested the muddy banks of the great river, the water stretched out before him like a broad, sluggish mirror of slate.",
+              "audioStart": 183.35,
+              "audioEnd": 190.2
+            },
+            {
+              "text": "He scoured the reedy shallows with his eyes, searching for any sign of the elusive reptile that waited silently in the muddy depths.",
+              "audioStart": 191.062,
+              "audioEnd": 197.775
+            },
+            {
+              "text": "Spotted at last near the riverbank, the creature raised its heavy head, advising him with a sinister hiss to step much closer.",
+              "audioStart": 198.637,
+              "audioEnd": 205.675
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Without a second thought, the young adventurer stepped forward, leaning down to repeat his forbidden question about the evening meal.",
+              "audioStart": 206.537,
+              "audioEnd": 212.988
+            },
+            {
+              "text": "In a flash of deceptive speed, the large reptile lunged forward and clamped its powerful jaws firmly around his tiny, unassuming nose.",
+              "audioStart": 213.85,
+              "audioEnd": 221.488
+            },
+            {
+              "text": "A fierce and desperate struggle ensued right there on the muddy bank, transforming the quiet river edge into a battlefield of raw tension.",
+              "audioStart": 222.35,
+              "audioEnd": 229.438
+            },
+            {
+              "text": "As the snake pulled downstream with immense force and the young creature braced his feet against the soil, a remarkable transformation began.",
+              "audioStart": 230.3,
+              "audioEnd": 237.512
+            },
+            {
+              "text": "Under the strain of that monumental tug-of-war, his little nose stretched and elongated, pulling outward like elastic under stress.",
+              "audioStart": 238.375,
+              "audioEnd": 246.649
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The struggle continued until the skin and muscle had been drawn out to an astonishing length, defying all natural precedent.",
+              "audioStart": 247.511,
+              "audioEnd": 254.011
+            },
+            {
+              "text": "With a sudden, violent wrench, the young animal managed to tear himself free from the reptile's crushing grip.",
+              "audioStart": 254.874,
+              "audioEnd": 260.636
+            },
+            {
+              "text": "He scrambled backward up the bank, his heart hammering wildly against his ribs as adrenaline flooded his trembling veins.",
+              "audioStart": 261.498,
+              "audioEnd": 268.024
+            },
+            {
+              "text": "The great river creature watched him retreat with cold indifference before sinking slowly back into the murky depths.",
+              "audioStart": 268.886,
+              "audioEnd": 274.586
+            },
+            {
+              "text": "Pain burned fiercely through his newly transformed facial feature, yet gratitude for his escape propelled him forward without a pause.",
+              "audioStart": 275.449,
+              "audioEnd": 282.386
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The long journey home was undertaken in a haze of shock and physical discomfort, with every step accompanied by the strange sensation of his altered face.",
+              "audioStart": 283.248,
+              "audioEnd": 291.349
+            },
+            {
+              "text": "He wrapped his elongated nose around low branches to steady himself, discovering quite by accident that the appendage possessed unexpected utility.",
+              "audioStart": 292.211,
+              "audioEnd": 300.261
+            },
+            {
+              "text": "When he finally limped back into the clearing of his home community, the gathered animals stopped dead in their tracks.",
+              "audioStart": 301.123,
+              "audioEnd": 306.998
+            },
+            {
+              "text": "They stared at him with wide, unblinking eyes, utterly paralyzed by astonishment at the bizarre apparition standing before them.",
+              "audioStart": 307.861,
+              "audioEnd": 314.711
+            },
+            {
+              "text": "His parents stared in horror and disbelief, demanding to know what catastrophic accident had transformed his features beyond all recognition.",
+              "audioStart": 315.574,
+              "audioEnd": 323.186
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He recounted every detail of his perilous journey to the great river and his dramatic encounter with the river serpent.",
+              "audioStart": 324.048,
+              "audioEnd": 330.074
+            },
+            {
+              "text": "As they listened to the tale of utility and adaptation, a wave of thoughtful consideration rippled through the skeptical crowd.",
+              "audioStart": 330.936,
+              "audioEnd": 337.236
+            },
+            {
+              "text": "One by one, driven by a sudden envy of his newfound capability, the other members of the herd decided to retrace his steps.",
+              "audioStart": 338.099,
+              "audioEnd": 345.211
+            },
+            {
+              "text": "They packed into single file and marched away toward the distant river, determined to secure long noses of their own.",
+              "audioStart": 346.074,
+              "audioEnd": 352.099
+            },
+            {
+              "text": "When each of them finally confronted the reptile in the shallows, the exact same dramatic stretching occurred.",
+              "audioStart": 352.961,
+              "audioEnd": 358.548
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They returned to the community trailing identical elongated appendages, completely altering the physical identity of their entire species.",
+              "audioStart": 359.411,
+              "audioEnd": 367.099
+            },
+            {
+              "text": "From that eventful day onward, no member of the herd possessed a short face, and their daily existence was revolutionized.",
+              "audioStart": 367.961,
+              "audioEnd": 374.511
+            },
+            {
+              "text": "The young adventurer felt a profound sense of vindication, knowing that his reckless curiosity had permanently bettered his kind.",
+              "audioStart": 375.373,
+              "audioEnd": 381.949
+            },
+            {
+              "text": "He never ceased his habit of asking questions, continuing to probe the mysteries of the world with unwavering persistence.",
+              "audioStart": 382.811,
+              "audioEnd": 389.186
+            },
+            {
+              "text": "Peace settled over the herd as they utilized their new instruments to reach high foliage and navigate their environment with ease.",
+              "audioStart": 390.048,
+              "audioEnd": 396.286
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Life in the savanna assumed a harmonious rhythm, entirely devoid of the previous complaints and petty arguments.",
+              "audioStart": 397.149,
+              "audioEnd": 403.349
+            },
+            {
+              "text": "The young creature lived out his days surrounded by peers who now respected his inquisitive mind rather than shunning it.",
+              "audioStart": 404.211,
+              "audioEnd": 409.998
+            },
+            {
+              "text": "Every single sunrise brought new opportunities for exploration, and he seized them all with characteristic enthusiasm.",
+              "audioStart": 410.861,
+              "audioEnd": 417.036
+            },
+            {
+              "text": "His elongated nose served him faithfully in every imaginable endeavor, proving that the pursuit of truth carries tangible rewards.",
+              "audioStart": 417.899,
+              "audioEnd": 424.748
+            },
+            {
+              "text": "And so he remained forever curious, asking the universe questions until the very end of his extraordinary life.",
+              "audioStart": 425.611,
+              "audioEnd": 431.711
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0140.mp3",
+      "wordTimings": "audio/c1/st-0140.timings.json",
+      "quiz": [
+        {
+          "q": "What specific question prompted the young creature to leave his home?",
+          "options": [
+            "What the great river animal ate for dinner",
+            "How the world was originally created",
+            "Why the other animals disliked his voice"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the young animal's nose become long?",
+          "options": [
+            "It grew gradually as he asked more questions over the years.",
+            "It stretched during a violent tug-of-war with a river reptile.",
+            "He stretched it himself with heavy vines to impress his family."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the other animals do after seeing the protagonist's transformed face?",
+          "options": [
+            "They banished him from the herd for altering his natural appearance.",
+            "They traveled to the great river one by one to get long noses too.",
+            "They refused to speak to him until his nose returned to normal size."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

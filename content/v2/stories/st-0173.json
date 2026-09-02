@@ -1,0 +1,1372 @@
+{
+  "id": "st-0173",
+  "title": "The Nightingale",
+  "genre": "classic",
+  "summary": "A rich man keeps a singing bird until a strange metal bird arrives.",
+  "coverScene": "A tiny real bird sits on a large green leaf next to a shining golden mechanical toy under the soft moon.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, a great man lives.",
+              "audioStart": 0.106,
+              "audioEnd": 2.369
+            },
+            {
+              "text": "He lives in a big house.",
+              "audioStart": 3.333,
+              "audioEnd": 4.861
+            },
+            {
+              "text": "His house has a white floor.",
+              "audioStart": 5.819,
+              "audioEnd": 7.611
+            },
+            {
+              "text": "The floor goes to a green place.",
+              "audioStart": 8.569,
+              "audioEnd": 10.625
+            },
+            {
+              "text": "A little living being makes music there.",
+              "audioStart": 11.583,
+              "audioEnd": 13.819
+            },
+            {
+              "text": "Many people come to hear it.",
+              "audioStart": 14.778,
+              "audioEnd": 16.333
+            },
+            {
+              "text": "The man reads a book.",
+              "audioStart": 17.292,
+              "audioEnd": 18.583
+            },
+            {
+              "text": "He asks men to bring the living being.",
+              "audioStart": 19.542,
+              "audioEnd": 21.792
+            },
+            {
+              "text": "The living being makes good music.",
+              "audioStart": 22.75,
+              "audioEnd": 24.708
+            },
+            {
+              "text": "The man is very pleased.",
+              "audioStart": 25.667,
+              "audioEnd": 27.278
+            },
+            {
+              "text": "They keep the living being in that small room.",
+              "audioStart": 28.236,
+              "audioEnd": 30.625
+            },
+            {
+              "text": "They stay in the room all day long.",
+              "audioStart": 31.583,
+              "audioEnd": 33.528
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One day, another man sends a play thing.",
+              "audioStart": 34.486,
+              "audioEnd": 37.236
+            },
+            {
+              "text": "The play thing has strong parts.",
+              "audioStart": 38.194,
+              "audioEnd": 40.028
+            },
+            {
+              "text": "It plays music with a turn part.",
+              "audioStart": 40.986,
+              "audioEnd": 43.069
+            },
+            {
+              "text": "The first living being goes away.",
+              "audioStart": 44.028,
+              "audioEnd": 45.958
+            },
+            {
+              "text": "People like the play thing a lot.",
+              "audioStart": 46.917,
+              "audioEnd": 48.736
+            },
+            {
+              "text": "Years pass by today.",
+              "audioStart": 49.694,
+              "audioEnd": 51.111
+            },
+            {
+              "text": "The play thing stops work.",
+              "audioStart": 52.069,
+              "audioEnd": 53.694
+            },
+            {
+              "text": "The man is very bad in bed.",
+              "audioStart": 54.653,
+              "audioEnd": 56.486
+            },
+            {
+              "text": "End sits near him in the room.",
+              "audioStart": 57.444,
+              "audioEnd": 59.097
+            },
+            {
+              "text": "The man wants music now.",
+              "audioStart": 60.056,
+              "audioEnd": 61.681
+            },
+            {
+              "text": "The broken play thing is low.",
+              "audioStart": 62.639,
+              "audioEnd": 64.375
+            },
+            {
+              "text": "It is on a table.",
+              "audioStart": 65.333,
+              "audioEnd": 66.5
+            },
+            {
+              "text": "The man looks at the table.",
+              "audioStart": 67.458,
+              "audioEnd": 68.986
+            },
+            {
+              "text": "He wants help from music.",
+              "audioStart": 69.944,
+              "audioEnd": 71.528
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A good sound comes from outside.",
+              "audioStart": 72.486,
+              "audioEnd": 74.403
+            },
+            {
+              "text": "The real living being sits on a tree part.",
+              "audioStart": 75.361,
+              "audioEnd": 77.792
+            },
+            {
+              "text": "It makes a good sound.",
+              "audioStart": 78.75,
+              "audioEnd": 80.083
+            },
+            {
+              "text": "End goes away from the room.",
+              "audioStart": 81.042,
+              "audioEnd": 82.625
+            },
+            {
+              "text": "The man feels strong again.",
+              "audioStart": 83.583,
+              "audioEnd": 85.264
+            },
+            {
+              "text": "He gives thanks to the living being.",
+              "audioStart": 86.222,
+              "audioEnd": 88.111
+            },
+            {
+              "text": "He is very pleased at home.",
+              "audioStart": 89.069,
+              "audioEnd": 90.764
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0173.mp3",
+      "wordTimings": "audio/a1/st-0173.timings.json",
+      "quiz": [
+        {
+          "q": "Where does the emperor live?",
+          "options": [
+            "In a great white house",
+            "In a dark forest",
+            "In a gold cage"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the other king send?",
+          "options": [
+            "A real nightingale",
+            "A machine bird",
+            "A white stone"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who makes death go away at the end?",
+          "options": [
+            "The officers",
+            "The machine bird",
+            "The real nightingale"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, a great man lived in a big white house.",
+              "audioStart": 0.106,
+              "audioEnd": 3.356
+            },
+            {
+              "text": "His house had a very nice garden with lovely plants.",
+              "audioStart": 4.319,
+              "audioEnd": 7.444
+            },
+            {
+              "text": "The garden went far into a dark forest.",
+              "audioStart": 8.403,
+              "audioEnd": 10.792
+            },
+            {
+              "text": "A little animal sang good music there every single night.",
+              "audioStart": 11.75,
+              "audioEnd": 15.083
+            },
+            {
+              "text": "Many people visited the country just to hear it sing.",
+              "audioStart": 16.042,
+              "audioEnd": 19.042
+            },
+            {
+              "text": "They loved the nice sound very much.",
+              "audioStart": 20,
+              "audioEnd": 22.083
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The ruler read books about his country and the animal.",
+              "audioStart": 23.042,
+              "audioEnd": 25.972
+            },
+            {
+              "text": "He asked his officers to bring the little singer home.",
+              "audioStart": 26.931,
+              "audioEnd": 29.875
+            },
+            {
+              "text": "The little animal made a song for him.",
+              "audioStart": 30.833,
+              "audioEnd": 32.917
+            },
+            {
+              "text": "The ruler felt happy and had water in his eyes.",
+              "audioStart": 33.875,
+              "audioEnd": 36.736
+            },
+            {
+              "text": "They put the animal in a small box made of iron.",
+              "audioStart": 37.694,
+              "audioEnd": 40.458
+            },
+            {
+              "text": "The little singer wanted to fly back to the green trees.",
+              "audioStart": 41.417,
+              "audioEnd": 44.597
+            },
+            {
+              "text": "It looked outside through the window every single day.",
+              "audioStart": 45.556,
+              "audioEnd": 48.361
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One day, another leader sent a machine singer.",
+              "audioStart": 49.319,
+              "audioEnd": 52.278
+            },
+            {
+              "text": "This machine could play a song when you turned it.",
+              "audioStart": 53.236,
+              "audioEnd": 55.778
+            },
+            {
+              "text": "The real animal flew away through an open window.",
+              "audioStart": 56.736,
+              "audioEnd": 59.431
+            },
+            {
+              "text": "Nobody noticed that it was not there at all.",
+              "audioStart": 60.389,
+              "audioEnd": 62.806
+            },
+            {
+              "text": "The court became very happy with the machine.",
+              "audioStart": 63.764,
+              "audioEnd": 66.208
+            },
+            {
+              "text": "They listened to the same song again and again.",
+              "audioStart": 67.167,
+              "audioEnd": 69.694
+            },
+            {
+              "text": "The people thought the machine was quite good.",
+              "audioStart": 70.653,
+              "audioEnd": 72.986
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Several years passed, and the machine broke down.",
+              "audioStart": 73.944,
+              "audioEnd": 76.986
+            },
+            {
+              "text": "The ruler became very weak and not strong.",
+              "audioStart": 77.944,
+              "audioEnd": 80.583
+            },
+            {
+              "text": "Death sat near him in the dark room.",
+              "audioStart": 81.542,
+              "audioEnd": 83.611
+            },
+            {
+              "text": "The broken machine stayed still on the table.",
+              "audioStart": 84.569,
+              "audioEnd": 87.069
+            },
+            {
+              "text": "Nothing moved in the large room for hours.",
+              "audioStart": 88.028,
+              "audioEnd": 90.361
+            },
+            {
+              "text": "The ruler felt that his life was going to end soon.",
+              "audioStart": 91.319,
+              "audioEnd": 94.153
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, a lovely sound came from outside the window.",
+              "audioStart": 95.111,
+              "audioEnd": 98.319
+            },
+            {
+              "text": "The real singer sat upon a tree part.",
+              "audioStart": 99.278,
+              "audioEnd": 101.653
+            },
+            {
+              "text": "It sang a very good song.",
+              "audioStart": 102.611,
+              "audioEnd": 104.236
+            },
+            {
+              "text": "The dark part of death went away from the room.",
+              "audioStart": 105.194,
+              "audioEnd": 107.708
+            },
+            {
+              "text": "The ruler felt strong again and thanked the animal.",
+              "audioStart": 108.667,
+              "audioEnd": 111.486
+            },
+            {
+              "text": "The little animal promised to visit every single night.",
+              "audioStart": 112.444,
+              "audioEnd": 115.431
+            },
+            {
+              "text": "The ruler was going to live a long and happy life.",
+              "audioStart": 116.389,
+              "audioEnd": 119.292
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0173.mp3",
+      "wordTimings": "audio/a2/st-0173.timings.json",
+      "quiz": [
+        {
+          "q": "What did the emperor keep the real nightingale in?",
+          "options": [
+            "A small gold cage",
+            "A dark forest",
+            "A white stone room"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did another king send to the emperor?",
+          "options": [
+            "A book about music",
+            "A gold machine bird",
+            "A new white house"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the real nightingale help the sick emperor at the end?",
+          "options": [
+            "It brought him food from the garden",
+            "It fixed the broken machine",
+            "It sang a sweet song and drove death away"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, a great leader lived in a big house made of white stone.",
+              "audioStart": 0.1,
+              "audioEnd": 3.675
+            },
+            {
+              "text": "His home was famous because it had a wonderful garden with lovely flowers.",
+              "audioStart": 4.537,
+              "audioEnd": 8.338
+            },
+            {
+              "text": "The garden went far into a dark forest.",
+              "audioStart": 9.2,
+              "audioEnd": 11.35
+            },
+            {
+              "text": "A little bird sang sweet music every evening in that place.",
+              "audioStart": 12.213,
+              "audioEnd": 15.412
+            },
+            {
+              "text": "Many people visited the country just to hear this small animal sing.",
+              "audioStart": 16.275,
+              "audioEnd": 19.725
+            },
+            {
+              "text": "They have always loved the wonderful music from the forest.",
+              "audioStart": 20.587,
+              "audioEnd": 23.438
+            },
+            {
+              "text": "The leader has heard many stories about the beautiful animal.",
+              "audioStart": 24.3,
+              "audioEnd": 27.137
+            },
+            {
+              "text": "He wanted to know more about the famous forest singer.",
+              "audioStart": 28,
+              "audioEnd": 30.712
+            },
+            {
+              "text": "People talked about the sweet voice of the tiny animal.",
+              "audioStart": 31.575,
+              "audioEnd": 34.237
+            },
+            {
+              "text": "The leader loved the song very much every day.",
+              "audioStart": 35.1,
+              "audioEnd": 37.425
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the leader read books about his country, he found a note about the little bird.",
+              "audioStart": 38.288,
+              "audioEnd": 42.175
+            },
+            {
+              "text": "He asked officers to bring the animal to the house so that he could listen.",
+              "audioStart": 43.038,
+              "audioEnd": 46.575
+            },
+            {
+              "text": "The little small bird arrived and sang a song which made the leader cry happy tears.",
+              "audioStart": 47.438,
+              "audioEnd": 51.688
+            },
+            {
+              "text": "They kept the bird inside a small box.",
+              "audioStart": 52.55,
+              "audioEnd": 54.625
+            },
+            {
+              "text": "Although it wanted to fly back to the green trees.",
+              "audioStart": 55.487,
+              "audioEnd": 57.888
+            },
+            {
+              "text": "The bird has lived in the small room for many weeks now.",
+              "audioStart": 58.75,
+              "audioEnd": 61.425
+            },
+            {
+              "text": "If the leader opened the box, the bird would fly away.",
+              "audioStart": 62.288,
+              "audioEnd": 65.088
+            },
+            {
+              "text": "The animal has not sung its usual song for a long time.",
+              "audioStart": 65.95,
+              "audioEnd": 68.95
+            },
+            {
+              "text": "Many visitors have asked about the small bird inside the room.",
+              "audioStart": 69.812,
+              "audioEnd": 72.9
+            },
+            {
+              "text": "They have hoped to hear the sweet music again.",
+              "audioStart": 73.763,
+              "audioEnd": 75.862
+            },
+            {
+              "text": "The room was very quiet without any song.",
+              "audioStart": 76.725,
+              "audioEnd": 79.05
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One day, a package arrived from another king with a metal bird covered in yellow money.",
+              "audioStart": 79.912,
+              "audioEnd": 84.35
+            },
+            {
+              "text": "This machine could play a song when someone wound it up.",
+              "audioStart": 85.213,
+              "audioEnd": 87.838
+            },
+            {
+              "text": "The real bird flew away through an open window because nobody noticed its leaving.",
+              "audioStart": 88.7,
+              "audioEnd": 92.7
+            },
+            {
+              "text": "The court became very happy with the machine since it played the same song every time.",
+              "audioStart": 93.562,
+              "audioEnd": 97.838
+            },
+            {
+              "text": "The machine has played many different songs during the past year.",
+              "audioStart": 98.7,
+              "audioEnd": 101.825
+            },
+            {
+              "text": "If someone wound the metal bird, it would start to play immediately.",
+              "audioStart": 102.688,
+              "audioEnd": 105.938
+            },
+            {
+              "text": "The court has enjoyed the machine because it never stops working.",
+              "audioStart": 106.8,
+              "audioEnd": 109.925
+            },
+            {
+              "text": "Many people have watched the metal bird move its body.",
+              "audioStart": 110.787,
+              "audioEnd": 113.5
+            },
+            {
+              "text": "They have thought that the machine was truly wonderful.",
+              "audioStart": 114.362,
+              "audioEnd": 116.85
+            },
+            {
+              "text": "The metal machine played music all day long for the court.",
+              "audioStart": 117.713,
+              "audioEnd": 120.6
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Several years passed, and the metal bird broke down because internal parts stopped working.",
+              "audioStart": 121.463,
+              "audioEnd": 126.25
+            },
+            {
+              "text": "The leader became very sick, and he lay in his bed feeling weak and cold.",
+              "audioStart": 127.112,
+              "audioEnd": 131.088
+            },
+            {
+              "text": "Death sat near him while dark forms filled the room.",
+              "audioStart": 131.95,
+              "audioEnd": 134.525
+            },
+            {
+              "text": "He wanted to hear music again, but the broken machine remained quiet.",
+              "audioStart": 135.387,
+              "audioEnd": 139.15
+            },
+            {
+              "text": "The leader has suffered from his illness for many days now.",
+              "audioStart": 140.012,
+              "audioEnd": 142.7
+            },
+            {
+              "text": "If the machine had not broken, it would have played a song.",
+              "audioStart": 143.562,
+              "audioEnd": 146.4
+            },
+            {
+              "text": "The room has become very dark and cold during the night.",
+              "audioStart": 147.262,
+              "audioEnd": 149.975
+            },
+            {
+              "text": "Many friends have visited the sick man to check his health.",
+              "audioStart": 150.838,
+              "audioEnd": 153.762
+            },
+            {
+              "text": "They have worried about the future of the country.",
+              "audioStart": 154.625,
+              "audioEnd": 156.713
+            },
+            {
+              "text": "The leader needed help from the real bird again.",
+              "audioStart": 157.575,
+              "audioEnd": 159.738
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, a lovely sound came from outside the window.",
+              "audioStart": 160.6,
+              "audioEnd": 163.488
+            },
+            {
+              "text": "The real bird sat upon a branch.",
+              "audioStart": 164.35,
+              "audioEnd": 166.2
+            },
+            {
+              "text": "The bird sang a sweet song which drove away the dark form of death.",
+              "audioStart": 167.062,
+              "audioEnd": 170.438
+            },
+            {
+              "text": "The leader felt strong again, and he thanked the little animal.",
+              "audioStart": 171.3,
+              "audioEnd": 174.375
+            },
+            {
+              "text": "The bird promised to visit him every night to sing about everything happening in the country.",
+              "audioStart": 175.238,
+              "audioEnd": 179.525
+            },
+            {
+              "text": "The little singer has returned to the garden to share its music.",
+              "audioStart": 180.387,
+              "audioEnd": 183.325
+            },
+            {
+              "text": "If the bird continued to sing, the leader would stay strong and healthy.",
+              "audioStart": 184.188,
+              "audioEnd": 187.787
+            },
+            {
+              "text": "The garden has become full of life once more.",
+              "audioStart": 188.65,
+              "audioEnd": 190.988
+            },
+            {
+              "text": "Many people have thanked the small animal for its help.",
+              "audioStart": 191.85,
+              "audioEnd": 194.45
+            },
+            {
+              "text": "The country has celebrated the return of the true singer.",
+              "audioStart": 195.312,
+              "audioEnd": 198
+            },
+            {
+              "text": "The happy leader listened to the sweet song.",
+              "audioStart": 198.863,
+              "audioEnd": 200.95
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0173.mp3",
+      "wordTimings": "audio/b1/st-0173.timings.json",
+      "quiz": [
+        {
+          "q": "What did the emperor do when he read about the nightingale?",
+          "options": [
+            "He asked officers to bring the bird to the palace.",
+            "He built a golden cage in the garden.",
+            "He wrote a book about the dark forest."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did the real nightingale fly away?",
+          "options": [
+            "Because the emperor opened the door.",
+            "Because nobody noticed its departure through an open window.",
+            "Because the mechanical bird attacked it."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened when the real nightingale sang at the end of the story?",
+          "options": [
+            "The emperor fell asleep forever.",
+            "The mechanical machine started working again.",
+            "The bird drove away the dark shadow of death and the emperor felt strong."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Long ago, the ruler of a great country lived in a home made of the finest white stone.",
+              "audioStart": 0.1,
+              "audioEnd": 4.688
+            },
+            {
+              "text": "His house was known throughout the world because it had the most beautiful garden filled with lovely flowers.",
+              "audioStart": 5.55,
+              "audioEnd": 10.713
+            },
+            {
+              "text": "The garden extended far into a dark forest where a little bird sang sweet music every single night.",
+              "audioStart": 11.575,
+              "audioEnd": 16.85
+            },
+            {
+              "text": "Many people from different parts of the planet visited the empire just to hear the creature sing.",
+              "audioStart": 17.712,
+              "audioEnd": 22.387
+            },
+            {
+              "text": "When the ruler read books about his own country, he found a special note regarding the little animal.",
+              "audioStart": 23.25,
+              "audioEnd": 28.2
+            },
+            {
+              "text": "He asked his officers to bring the bird to the home so that he could listen to its wonderful voice.",
+              "audioStart": 29.062,
+              "audioEnd": 33.812
+            },
+            {
+              "text": "The little animal arrived and sang a song which made the ruler cry happy tears.",
+              "audioStart": 34.675,
+              "audioEnd": 38.725
+            },
+            {
+              "text": "They kept the bird inside a small golden box, though it wanted to fly back to the green trees.",
+              "audioStart": 39.587,
+              "audioEnd": 44.462
+            },
+            {
+              "text": "They kept the bird inside a small golden box, while it wanted to fly back to the green trees.",
+              "audioStart": 45.325,
+              "audioEnd": 50.263
+            },
+            {
+              "text": "They kept the bird inside a small golden box, if it wanted to fly back to the green trees.",
+              "audioStart": 51.125,
+              "audioEnd": 56.025
+            },
+            {
+              "text": "They kept the bird inside a small golden box, because it wanted to fly back to the green trees.",
+              "audioStart": 56.888,
+              "audioEnd": 61.962
+            },
+            {
+              "text": "They kept the bird inside a small golden box, although it wanted to fly back to the green trees.",
+              "audioStart": 62.825,
+              "audioEnd": 67.787
+            },
+            {
+              "text": "They kept the bird inside a small golden box, unless it wanted to fly back to the green trees.",
+              "audioStart": 68.65,
+              "audioEnd": 73.737
+            },
+            {
+              "text": "They kept the bird inside a small golden box, until it wanted to fly back to the green trees.",
+              "audioStart": 74.6,
+              "audioEnd": 79.725
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One day, a package arrived from another king who sent a machine bird covered in gold and valuable items.",
+              "audioStart": 80.588,
+              "audioEnd": 86.125
+            },
+            {
+              "text": "This machine could play a song when someone wound it up with a tiny key.",
+              "audioStart": 86.987,
+              "audioEnd": 90.55
+            },
+            {
+              "text": "The real bird flew away through an open window because nobody noticed its leaving.",
+              "audioStart": 91.412,
+              "audioEnd": 95.412
+            },
+            {
+              "text": "The court became very happy with the machine since it played the same tune every time without rest.",
+              "audioStart": 96.275,
+              "audioEnd": 101.25
+            },
+            {
+              "text": "The court became very happy with the machine as it played the same tune every time without rest.",
+              "audioStart": 102.112,
+              "audioEnd": 107.037
+            },
+            {
+              "text": "The court became very happy with the machine though it played the same tune every time without rest.",
+              "audioStart": 107.9,
+              "audioEnd": 112.725
+            },
+            {
+              "text": "The court became very happy with the machine if it played the same tune every time without rest.",
+              "audioStart": 113.588,
+              "audioEnd": 118.438
+            },
+            {
+              "text": "The court became very happy with the machine while it played the same tune every time without rest.",
+              "audioStart": 119.3,
+              "audioEnd": 124.138
+            },
+            {
+              "text": "The court became very happy with the machine until it played the same tune every time without rest.",
+              "audioStart": 125,
+              "audioEnd": 130.05
+            },
+            {
+              "text": "The court became very happy with the machine unless it played the same tune every time without rest.",
+              "audioStart": 130.912,
+              "audioEnd": 135.963
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Several years passed, and the machine bird broke down because internal parts stopped working properly.",
+              "audioStart": 136.825,
+              "audioEnd": 142.2
+            },
+            {
+              "text": "Several years passed, and the machine bird broke down as internal parts stopped working properly.",
+              "audioStart": 143.062,
+              "audioEnd": 148.262
+            },
+            {
+              "text": "Several years passed, and the machine bird broke down though internal parts stopped working properly.",
+              "audioStart": 149.125,
+              "audioEnd": 154.275
+            },
+            {
+              "text": "Several years passed, and the machine bird broke down if internal parts stopped working properly.",
+              "audioStart": 155.137,
+              "audioEnd": 160.275
+            },
+            {
+              "text": "Several years passed, and the machine bird broke down while internal parts stopped working properly.",
+              "audioStart": 161.137,
+              "audioEnd": 166.375
+            },
+            {
+              "text": "Several years passed, and the machine bird broke down until internal parts stopped working properly.",
+              "audioStart": 167.238,
+              "audioEnd": 172.575
+            },
+            {
+              "text": "Several years passed, and the machine bird broke down unless internal parts stopped working properly.",
+              "audioStart": 173.438,
+              "audioEnd": 178.825
+            },
+            {
+              "text": "The ruler became very sick as time went on, and he lay in his bed feeling weak and cold.",
+              "audioStart": 179.688,
+              "audioEnd": 184.475
+            },
+            {
+              "text": "Death sat near him while dark shadows filled the large room.",
+              "audioStart": 185.338,
+              "audioEnd": 188.238
+            },
+            {
+              "text": "Death sat near him as dark shadows filled the large room.",
+              "audioStart": 189.1,
+              "audioEnd": 192.012
+            },
+            {
+              "text": "Death sat near him though dark shadows filled the large room.",
+              "audioStart": 192.875,
+              "audioEnd": 195.812
+            },
+            {
+              "text": "Death sat near him if dark shadows filled the large room.",
+              "audioStart": 196.675,
+              "audioEnd": 199.512
+            },
+            {
+              "text": "Death sat near him because dark shadows filled the large room.",
+              "audioStart": 200.375,
+              "audioEnd": 203.488
+            },
+            {
+              "text": "Death sat near him until dark shadows filled the large room.",
+              "audioStart": 204.35,
+              "audioEnd": 207.35
+            },
+            {
+              "text": "Death sat near him unless dark shadows filled the large room.",
+              "audioStart": 208.213,
+              "audioEnd": 211.287
+            },
+            {
+              "text": "He wanted to hear music again, but the broken machine remained silent on the table.",
+              "audioStart": 212.15,
+              "audioEnd": 216.5
+            },
+            {
+              "text": "Death sat near him while dark shadows filled the large room.",
+              "audioStart": 217.363,
+              "audioEnd": 220.262
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Suddenly, a lovely sound came from outside the window where the real bird sat upon a branch.",
+              "audioStart": 221.125,
+              "audioEnd": 225.863
+            },
+            {
+              "text": "The bird sang a sweet song which drove away the dark shadow of death from the room.",
+              "audioStart": 226.725,
+              "audioEnd": 230.675
+            },
+            {
+              "text": "The ruler felt strong again, and he thanked the little animal with all his heart.",
+              "audioStart": 231.537,
+              "audioEnd": 235.562
+            },
+            {
+              "text": "The bird promised to visit him every night to sing about everything happening in the country.",
+              "audioStart": 236.425,
+              "audioEnd": 240.713
+            },
+            {
+              "text": "If the ruler had listened to the real bird earlier, he would have felt much better.",
+              "audioStart": 241.575,
+              "audioEnd": 246.72
+            },
+            {
+              "text": "If the bird had not flown away, the ruler would have been very happy.",
+              "audioStart": 247.583,
+              "audioEnd": 250.907
+            },
+            {
+              "text": "The song which was sung by the bird brought great joy to the entire country.",
+              "audioStart": 251.77,
+              "audioEnd": 255.52
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0173.mp3",
+      "wordTimings": "audio/b2/st-0173.timings.json",
+      "quiz": [
+        {
+          "q": "What was the emperor's palace made of?",
+          "options": [
+            "Fine white stone",
+            "Red wood and glass",
+            "Gold and silver"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the other king send to the emperor?",
+          "options": [
+            "A real bird",
+            "A mechanical bird",
+            "A green plant"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened to the mechanical bird after several years?",
+          "options": [
+            "It flew away",
+            "It broke down",
+            "It learned new songs"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In an era long since surrendered to the mists of history, the sovereign of a magnificent realm inhabited a palace constructed from the purest white stone.",
+              "audioStart": 0.1,
+              "audioEnd": 8.175
+            },
+            {
+              "text": "This architectural marvel commanded the admiration of the entire world, primarily because it boasted a legendary garden filled with botanical wonders.",
+              "audioStart": 9.037,
+              "audioEnd": 17.25
+            },
+            {
+              "text": "Vibrant blossoms unfurled their petals across immaculate lawns, creating a tapestry of fragrance that captivated every visitor who passed through the towering gates.",
+              "audioStart": 18.113,
+              "audioEnd": 27.113
+            },
+            {
+              "text": "The magnificent garden did not merely terminate at the palace walls; rather, it extended deep into the ancient embrace of a shadowy, formidable forest.",
+              "audioStart": 27.975,
+              "audioEnd": 36.712
+            },
+            {
+              "text": "Within the mysterious depths of those darkening woods, a tiny, unassuming creature found its home and sang melodies of incomparable sweetness.",
+              "audioStart": 37.575,
+              "audioEnd": 45.237
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every single night, as twilight surrendered to the velvet mantle of darkness, the little bird would pour forth a cascade of pure, resonant notes.",
+              "audioStart": 46.1,
+              "audioEnd": 54.125
+            },
+            {
+              "text": "Travelers, scholars, and monarchs from distant corners of the globe journeyed to the imperial capital for the sole purpose of hearing this legendary song.",
+              "audioStart": 54.987,
+              "audioEnd": 63.125
+            },
+            {
+              "text": "They stood in hushed reverence beneath the canopy of trees, marveling at how such an insignificant form could produce music of such profound emotional resonance.",
+              "audioStart": 63.987,
+              "audioEnd": 72.475
+            },
+            {
+              "text": "It was inevitable that word of this auditory marvel would eventually reach the supreme ruler through the royal chronicles and official documents of his own domain.",
+              "audioStart": 73.338,
+              "audioEnd": 81.312
+            },
+            {
+              "text": "Intrigued by what he read regarding the feathered musician, the sovereign commanded his highest-ranking officers to locate and secure the creature immediately.",
+              "audioStart": 82.175,
+              "audioEnd": 90.2
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The royal entourage scoured the forest until they finally discovered the modest brown bird perched upon a mossy branch, pouring its heart into the evening air.",
+              "audioStart": 91.062,
+              "audioEnd": 99.338
+            },
+            {
+              "text": "They brought the trembling little creature back to the gleaming palace, presenting it to the sovereign as if it were a rare jewel plundered from an exotic land.",
+              "audioStart": 100.2,
+              "audioEnd": 107.763
+            },
+            {
+              "text": "Moved by curiosity and a desire for exclusive ownership, the ruler commanded that the animal be placed in a miniature cage fashioned entirely from solid gold.",
+              "audioStart": 108.625,
+              "audioEnd": 117.3
+            },
+            {
+              "text": "When the guards opened the tiny door and urged the bird to sing for the court, the creature opened its beak and produced a melody so poignant.",
+              "audioStart": 118.162,
+              "audioEnd": 125.138
+            },
+            {
+              "text": "The song was so exquisite and filled with such delicate longing that the powerful ruler found himself weeping tears of pure, unexpected happiness.",
+              "audioStart": 126,
+              "audioEnd": 133.887
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Despite the opulent surroundings and the lavish attention of the court, the little bird experienced a profound sense of imprisonment within its golden confines.",
+              "audioStart": 134.75,
+              "audioEnd": 142.963
+            },
+            {
+              "text": "It longed desperately to spread its weary wings and soar back to the familiar, whispering green trees of the dark forest where it was born.",
+              "audioStart": 143.825,
+              "audioEnd": 151.1
+            },
+            {
+              "text": "Day after day, the bird remained trapped inside the gleaming cage, its glorious songs gradually tinged with a subtle undertone of captive sorrow.",
+              "audioStart": 151.963,
+              "audioEnd": 159.85
+            },
+            {
+              "text": "The courtiers, however, were entirely consumed by the novelty of their prize, paying little heed to the obvious distress of their captive guest.",
+              "audioStart": 160.713,
+              "audioEnd": 168.775
+            },
+            {
+              "text": "They believed that a golden prison was sufficient compensation for the loss of freedom, provided the music continued to flow without interruption.",
+              "audioStart": 169.637,
+              "audioEnd": 177.012
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The status quo of the imperial court shifted dramatically upon the arrival of an ornate package sent by a neighboring monarch of great wealth.",
+              "audioStart": 177.875,
+              "audioEnd": 185.2
+            },
+            {
+              "text": "Inside the velvet-lined box rested a mechanical masterpiece: an artificial bird completely covered in gleaming gold and encrusted with precious diamonds and rubies.",
+              "audioStart": 186.062,
+              "audioEnd": 194.988
+            },
+            {
+              "text": "This ingenious invention possessed a complex internal mechanism that allowed it to sing a delightful melody whenever someone wound it up with a tiny key.",
+              "audioStart": 195.85,
+              "audioEnd": 203.562
+            },
+            {
+              "text": "While the courtiers and the sovereign were distracted by the dazzling display of craftsmanship and the mechanical song, the real bird slipped away.",
+              "audioStart": 204.425,
+              "audioEnd": 211.525
+            },
+            {
+              "text": "Taking advantage of an open window and the general preoccupation of the guards, the little creature flew out into the open sky and returned to the forest.",
+              "audioStart": 212.387,
+              "audioEnd": 220.488
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Not a single person in the crowded hall noticed the quiet departure of the living bird, so completely mesmerized were they by the glittering newcomer.",
+              "audioStart": 221.35,
+              "audioEnd": 228.938
+            },
+            {
+              "text": "The imperial court embraced the mechanical substitute with immense enthusiasm, delighted by the fact that it could perform the exact same tune repeatedly.",
+              "audioStart": 229.8,
+              "audioEnd": 239.353
+            },
+            {
+              "text": "Every noble and advisor declared that the artificial creation was far superior to the unpredictable and fragile creature of flesh and blood.",
+              "audioStart": 240.215,
+              "audioEnd": 247.49
+            },
+            {
+              "text": "After all, the machine never grew tired, never demanded freedom, and unfailingly delivered the identical performance whenever its tiny golden key was turned.",
+              "audioStart": 248.353,
+              "audioEnd": 257.041
+            },
+            {
+              "text": "For months and years, the court basked in the comforting predictability of the mechanical song, content in their golden illusion of perfection.",
+              "audioStart": 257.903,
+              "audioEnd": 265.378
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Several years drifted past in a predictable rhythm, until the complex internal gears of the mechanical bird began to grind and stall.",
+              "audioStart": 266.24,
+              "audioEnd": 273.478
+            },
+            {
+              "text": "The delicate springs inside the golden body wore down from endless repetition, and the intricate music sputtered to a sudden, permanent halt.",
+              "audioStart": 274.341,
+              "audioEnd": 281.841
+            },
+            {
+              "text": "When the royal watchmakers examined the device, they shook their heads solemnly and declared that the internal damage was completely irreparable.",
+              "audioStart": 282.703,
+              "audioEnd": 289.94
+            },
+            {
+              "text": "Simultaneously, the aging sovereign fell into a severe decline, his body growing progressively weaker, colder, and more fragile with each passing day.",
+              "audioStart": 290.803,
+              "audioEnd": 299.865
+            },
+            {
+              "text": "He lay upon his grand imperial bed beneath heavy silk sheets, struggling to draw breath while oppressive shadows gathered in the corners of the vast bedchamber.",
+              "audioStart": 300.728,
+              "audioEnd": 309.115
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A heavy silence settled over the gloomy room, broken only by the labored breathing of the dying ruler who stared blankly at the ceiling.",
+              "audioStart": 309.978,
+              "audioEnd": 316.828
+            },
+            {
+              "text": "The silent, broken machine rested uselessly upon a nearby table, serving as a bitter reminder of the fragility of human artifice and ambition.",
+              "audioStart": 317.69,
+              "audioEnd": 325.69
+            },
+            {
+              "text": "As the sovereign looked into the gathering darkness, he realized with terrifying clarity that the cold specter of death was sitting quietly beside his bed.",
+              "audioStart": 326.553,
+              "audioEnd": 334.353
+            },
+            {
+              "text": "Desperate for comfort, the frail ruler whispered a feeble request for music, hoping that some melody might drive away the creeping chill.",
+              "audioStart": 335.216,
+              "audioEnd": 342.49
+            },
+            {
+              "text": "Yet the golden machine remained mute on its stand, unable to offer a single note to soothe the troubled spirit of the failing monarch.",
+              "audioStart": 343.353,
+              "audioEnd": 349.978
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Just as despair threatened to consume the final remnants of his life, a magnificent, unexpected sound drifted softly in through the open window.",
+              "audioStart": 350.841,
+              "audioEnd": 358.553
+            },
+            {
+              "text": "Perched gracefully upon a familiar branch outside, the real nightingale was pouring forth a cascade of notes more radiant than any heard before.",
+              "audioStart": 359.416,
+              "audioEnd": 366.99
+            },
+            {
+              "text": "The sweet, unadorned music flooded the royal chamber, acting as an invisible shield that slowly drove away the dark shadow of death.",
+              "audioStart": 367.853,
+              "audioEnd": 374.99
+            },
+            {
+              "text": "Color began to return to the pale cheeks of the ruler as the powerful vitality of the forest song washed over his weary frame.",
+              "audioStart": 375.853,
+              "audioEnd": 382.328
+            },
+            {
+              "text": "With a surge of renewed strength, the sovereign sat up in his bed and thanked the little animal with every ounce of his grateful heart.",
+              "audioStart": 383.19,
+              "audioEnd": 389.628
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The little bird listened to the ruler's words of gratitude and offered a solemn promise to return to the palace gardens every single night.",
+              "audioStart": 390.49,
+              "audioEnd": 397.365
+            },
+            {
+              "text": "It vowed to sing of everything happening across the vast empire, bringing news of both the humble peasants and the mighty lords.",
+              "audioStart": 398.228,
+              "audioEnd": 404.753
+            },
+            {
+              "text": "The sovereign acknowledged that if he had truly listened to the living bird in the past, he would have avoided much needless sorrow.",
+              "audioStart": 405.615,
+              "audioEnd": 411.94
+            },
+            {
+              "text": "He also understood that his own carelessness had driven the creature away, and he marveled at the boundless forgiveness of the tiny singer.",
+              "audioStart": 412.803,
+              "audioEnd": 419.628
+            },
+            {
+              "text": "The triumphant song of the returned nightingale echoed across the palace grounds, bringing immense joy and lasting peace to the entire country.",
+              "audioStart": 420.49,
+              "audioEnd": 427.94
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0173.mp3",
+      "wordTimings": "audio/c1/st-0173.timings.json",
+      "quiz": [
+        {
+          "q": "What object did the neighboring king send to the ruler?",
+          "options": [
+            "A golden cage",
+            "A machine bird covered in gold and jewels",
+            "A book about forest animals"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the real nightingale escape from the palace?",
+          "options": [
+            "It flew out through an open window while everyone was distracted.",
+            "The ruler opened the cage door and set it free.",
+            "The mechanical bird broke the cage and helped it escape."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the mechanical bird after several years?",
+          "options": [
+            "It was stolen by a visitor.",
+            "Its internal parts stopped working properly.",
+            "It flew away to join the real birds."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1540 @@
+{
+  "id": "st-0241",
+  "title": "The Remarkable Rocket",
+  "genre": "classic",
+  "summary": "A proud and boastful rocket believes he is the most important star of the show.",
+  "coverScene": "A proud small rocket sits alone in the green grass beneath a bright blue sky.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "There is a big thing.",
+              "audioStart": 0.106,
+              "audioEnd": 1.314
+            },
+            {
+              "text": "He thinks he is very important.",
+              "audioStart": 2.278,
+              "audioEnd": 4.097
+            },
+            {
+              "text": "A big meeting is coming.",
+              "audioStart": 5.056,
+              "audioEnd": 6.556
+            },
+            {
+              "text": "The man feels very great.",
+              "audioStart": 7.514,
+              "audioEnd": 9.25
+            },
+            {
+              "text": "Other people try to be good.",
+              "audioStart": 10.208,
+              "audioEnd": 11.847
+            },
+            {
+              "text": "The man looks down on them.",
+              "audioStart": 12.806,
+              "audioEnd": 14.333
+            },
+            {
+              "text": "He feels bad because he is great.",
+              "audioStart": 15.292,
+              "audioEnd": 17.5
+            },
+            {
+              "text": "He believe his water show love.",
+              "audioStart": 18.458,
+              "audioEnd": 20.347
+            },
+            {
+              "text": "The night show is very big.",
+              "audioStart": 21.306,
+              "audioEnd": 22.917
+            },
+            {
+              "text": "The man knows he is best.",
+              "audioStart": 23.875,
+              "audioEnd": 25.583
+            },
+            {
+              "text": "Many lights go up high.",
+              "audioStart": 26.542,
+              "audioEnd": 28.083
+            },
+            {
+              "text": "People watch with big eyes.",
+              "audioStart": 29.042,
+              "audioEnd": 30.708
+            },
+            {
+              "text": "Other men try to light the man.",
+              "audioStart": 31.667,
+              "audioEnd": 33.556
+            },
+            {
+              "text": "The man do not take light.",
+              "audioStart": 34.514,
+              "audioEnd": 36.153
+            },
+            {
+              "text": "His part is not dry from water.",
+              "audioStart": 37.111,
+              "audioEnd": 39.111
+            },
+            {
+              "text": "Men send him away.",
+              "audioStart": 40.069,
+              "audioEnd": 41.375
+            },
+            {
+              "text": "He fall into a bad home.",
+              "audioStart": 42.333,
+              "audioEnd": 43.931
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He still try to move.",
+              "audioStart": 44.889,
+              "audioEnd": 46.292
+            },
+            {
+              "text": "Two children find him next morning.",
+              "audioStart": 47.25,
+              "audioEnd": 49.319
+            },
+            {
+              "text": "They put him in hand.",
+              "audioStart": 50.278,
+              "audioEnd": 51.528
+            },
+            {
+              "text": "Children put him on the land.",
+              "audioStart": 52.486,
+              "audioEnd": 54.097
+            },
+            {
+              "text": "They put fire under him.",
+              "audioStart": 55.056,
+              "audioEnd": 56.583
+            },
+            {
+              "text": "The man feels very strong.",
+              "audioStart": 57.542,
+              "audioEnd": 59.292
+            },
+            {
+              "text": "He thinks he will see.",
+              "audioStart": 60.25,
+              "audioEnd": 61.583
+            },
+            {
+              "text": "He goes up very high.",
+              "audioStart": 62.542,
+              "audioEnd": 63.931
+            },
+            {
+              "text": "Nobody sees him go.",
+              "audioStart": 64.889,
+              "audioEnd": 66.306
+            },
+            {
+              "text": "He fall down and go away.",
+              "audioStart": 67.264,
+              "audioEnd": 68.972
+            },
+            {
+              "text": "The man is in the open air.",
+              "audioStart": 69.931,
+              "audioEnd": 71.542
+            },
+            {
+              "text": "He looks at the night lights.",
+              "audioStart": 72.5,
+              "audioEnd": 74.139
+            },
+            {
+              "text": "He thinks about his great life.",
+              "audioStart": 75.097,
+              "audioEnd": 77.028
+            },
+            {
+              "text": "The people look at him.",
+              "audioStart": 77.986,
+              "audioEnd": 79.292
+            },
+            {
+              "text": "He feels very good now.",
+              "audioStart": 80.25,
+              "audioEnd": 81.708
+            },
+            {
+              "text": "He knows he is important.",
+              "audioStart": 82.667,
+              "audioEnd": 84.167
+            },
+            {
+              "text": "The show is very long.",
+              "audioStart": 85.125,
+              "audioEnd": 86.569
+            },
+            {
+              "text": "The man stays up high.",
+              "audioStart": 87.528,
+              "audioEnd": 88.958
+            },
+            {
+              "text": "Then he start to go down.",
+              "audioStart": 89.917,
+              "audioEnd": 91.472
+            },
+            {
+              "text": "He fall into the water.",
+              "audioStart": 92.431,
+              "audioEnd": 93.819
+            },
+            {
+              "text": "His part is not dry again.",
+              "audioStart": 94.778,
+              "audioEnd": 96.583
+            },
+            {
+              "text": "He goes down very quick.",
+              "audioStart": 97.542,
+              "audioEnd": 99.139
+            },
+            {
+              "text": "The day comes back again.",
+              "audioStart": 100.097,
+              "audioEnd": 101.653
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0241.mp3",
+      "wordTimings": "audio/a1/st-0241.timings.json",
+      "quiz": [
+        {
+          "q": "Why does the rocket not burn?",
+          "options": [
+            "His powder is wet from tears",
+            "The workers have no fire",
+            "The night is too dark"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where do the workers throw the rocket?",
+          "options": [
+            "Into a dirty ditch",
+            "Into the royal castle",
+            "Into the high sky"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What do the two boys do with the rocket?",
+          "options": [
+            "Put fire under him",
+            "Give him to the king",
+            "Put him in water"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "There was once a person.",
+              "audioStart": 0.106,
+              "audioEnd": 1.508
+            },
+            {
+              "text": "He was a special fire thing.",
+              "audioStart": 2.472,
+              "audioEnd": 4.292
+            },
+            {
+              "text": "He thought he was better than all other things.",
+              "audioStart": 5.25,
+              "audioEnd": 7.694
+            },
+            {
+              "text": "He was made for a big event.",
+              "audioStart": 8.653,
+              "audioEnd": 10.375
+            },
+            {
+              "text": "This made him feel very important.",
+              "audioStart": 11.333,
+              "audioEnd": 13.361
+            },
+            {
+              "text": "People spoke to him.",
+              "audioStart": 14.319,
+              "audioEnd": 15.611
+            },
+            {
+              "text": "He answered with a high opinion.",
+              "audioStart": 16.569,
+              "audioEnd": 18.375
+            },
+            {
+              "text": "He thought his mind was above others.",
+              "audioStart": 19.333,
+              "audioEnd": 21.472
+            },
+            {
+              "text": "Other fire things tried to be nice.",
+              "audioStart": 22.431,
+              "audioEnd": 24.681
+            },
+            {
+              "text": "However, the fire thing only looked down.",
+              "audioStart": 25.639,
+              "audioEnd": 28.375
+            },
+            {
+              "text": "He even began to feel water in his eyes.",
+              "audioStart": 29.333,
+              "audioEnd": 31.875
+            },
+            {
+              "text": "He thought about how good he truly was.",
+              "audioStart": 32.833,
+              "audioEnd": 35.042
+            },
+            {
+              "text": "His eyes had real water.",
+              "audioStart": 36,
+              "audioEnd": 37.528
+            },
+            {
+              "text": "He believed this showed his deep nature.",
+              "audioStart": 38.486,
+              "audioEnd": 40.681
+            },
+            {
+              "text": "The leader son was going to join a special time.",
+              "audioStart": 41.639,
+              "audioEnd": 44.389
+            },
+            {
+              "text": "A big show of lights was planned for the evening.",
+              "audioStart": 45.347,
+              "audioEnd": 47.944
+            },
+            {
+              "text": "The fire thing knew his part would be the best event.",
+              "audioStart": 48.903,
+              "audioEnd": 51.708
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The big moment finally arrived.",
+              "audioStart": 52.667,
+              "audioEnd": 54.708
+            },
+            {
+              "text": "Many lights went up into the dark air.",
+              "audioStart": 55.667,
+              "audioEnd": 57.861
+            },
+            {
+              "text": "They made good colors.",
+              "audioStart": 58.819,
+              "audioEnd": 60.208
+            },
+            {
+              "text": "Everyone watched with happy eyes.",
+              "audioStart": 61.167,
+              "audioEnd": 63.181
+            },
+            {
+              "text": "Workers tried to light the fire thing.",
+              "audioStart": 64.139,
+              "audioEnd": 66.306
+            },
+            {
+              "text": "He did not want to fail.",
+              "audioStart": 67.264,
+              "audioEnd": 68.75
+            },
+            {
+              "text": "His thing became cold from his own water.",
+              "audioStart": 69.708,
+              "audioEnd": 72
+            },
+            {
+              "text": "Nothing happened at all.",
+              "audioStart": 72.958,
+              "audioEnd": 74.333
+            },
+            {
+              "text": "The workers felt very bad.",
+              "audioStart": 75.292,
+              "audioEnd": 76.958
+            },
+            {
+              "text": "They threw him away into a place near water.",
+              "audioStart": 77.917,
+              "audioEnd": 80.236
+            },
+            {
+              "text": "The fire thing remained there in the ground.",
+              "audioStart": 81.194,
+              "audioEnd": 83.472
+            },
+            {
+              "text": "He felt quite bad.",
+              "audioStart": 84.431,
+              "audioEnd": 85.708
+            },
+            {
+              "text": "He still tried to act important.",
+              "audioStart": 86.667,
+              "audioEnd": 88.597
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Two local boys found him the next morning.",
+              "audioStart": 89.556,
+              "audioEnd": 91.986
+            },
+            {
+              "text": "They were walking along the water.",
+              "audioStart": 92.944,
+              "audioEnd": 94.736
+            },
+            {
+              "text": "They thought the old object might be useful.",
+              "audioStart": 95.694,
+              "audioEnd": 98.042
+            },
+            {
+              "text": "They put him into their box.",
+              "audioStart": 99,
+              "audioEnd": 100.611
+            },
+            {
+              "text": "Later, the boys placed him on the ground.",
+              "audioStart": 101.569,
+              "audioEnd": 104.194
+            },
+            {
+              "text": "They lit a fire under him to see what would happen.",
+              "audioStart": 105.153,
+              "audioEnd": 107.764
+            },
+            {
+              "text": "The fire thing was very happy.",
+              "audioStart": 108.722,
+              "audioEnd": 110.681
+            },
+            {
+              "text": "This was his second chance to show himself.",
+              "audioStart": 111.639,
+              "audioEnd": 114.097
+            },
+            {
+              "text": "He went up into the air.",
+              "audioStart": 115.056,
+              "audioEnd": 116.5
+            },
+            {
+              "text": "He flew so fast that nobody saw him go.",
+              "audioStart": 117.458,
+              "audioEnd": 120.167
+            },
+            {
+              "text": "He fell back down into a field.",
+              "audioStart": 121.125,
+              "audioEnd": 123.014
+            },
+            {
+              "text": "He made a small sound.",
+              "audioStart": 123.972,
+              "audioEnd": 125.403
+            },
+            {
+              "text": "He completely went away.",
+              "audioStart": 126.361,
+              "audioEnd": 127.931
+            },
+            {
+              "text": "He was very glad to move so fast.",
+              "audioStart": 128.889,
+              "audioEnd": 131.306
+            },
+            {
+              "text": "The morning sun shone on the green field.",
+              "audioStart": 132.264,
+              "audioEnd": 134.569
+            },
+            {
+              "text": "His long journey finally came to an end.",
+              "audioStart": 135.528,
+              "audioEnd": 137.972
+            },
+            {
+              "text": "No one ever saw him again after that day.",
+              "audioStart": 138.931,
+              "audioEnd": 141.486
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0241.mp3",
+      "wordTimings": "audio/a2/st-0241.timings.json",
+      "quiz": [
+        {
+          "q": "Why did the rocket fail to burn during the show?",
+          "options": [
+            "His powder was wet from his tears.",
+            "The workers forgot to use fire.",
+            "The king stopped the show."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the two local boys do with the rocket first?",
+          "options": [
+            "They threw him into the river.",
+            "They put him into their pocket.",
+            "They sold him to a worker."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Where did the rocket land after flying fast into the air?",
+          "options": [
+            "Into a dirty ditch",
+            "Into the royal castle",
+            "Into a field"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "There was once a person who felt very important.",
+              "audioStart": 0.1,
+              "audioEnd": 2.438
+            },
+            {
+              "text": "He believed he was better than all other things.",
+              "audioStart": 3.3,
+              "audioEnd": 5.638
+            },
+            {
+              "text": "He was made for a special event.",
+              "audioStart": 6.5,
+              "audioEnd": 8.238
+            },
+            {
+              "text": "This made him feel very important every single day.",
+              "audioStart": 9.1,
+              "audioEnd": 11.812
+            },
+            {
+              "text": "When people spoke to him, he answered with great strength.",
+              "audioStart": 12.675,
+              "audioEnd": 15.6
+            },
+            {
+              "text": "Other items tried to be nice.",
+              "audioStart": 16.462,
+              "audioEnd": 18.175
+            },
+            {
+              "text": "However, the special one only looked down upon them.",
+              "audioStart": 19.038,
+              "audioEnd": 21.913
+            },
+            {
+              "text": "He even began to cry when he thought about how good he truly was.",
+              "audioStart": 22.775,
+              "audioEnd": 26.2
+            },
+            {
+              "text": "His tears were real.",
+              "audioStart": 27.062,
+              "audioEnd": 28.262
+            },
+            {
+              "text": "He believed they showed his special nature.",
+              "audioStart": 29.125,
+              "audioEnd": 31.163
+            },
+            {
+              "text": "The great king man was getting married.",
+              "audioStart": 32.025,
+              "audioEnd": 33.962
+            },
+            {
+              "text": "A big show was planned for the town.",
+              "audioStart": 34.825,
+              "audioEnd": 36.663
+            },
+            {
+              "text": "He knew his part in the event would be the most amazing thing.",
+              "audioStart": 37.525,
+              "audioEnd": 40.438
+            },
+            {
+              "text": "When the big moment arrived, many bright lights shot up into the dark sky.",
+              "audioStart": 41.3,
+              "audioEnd": 45.15
+            },
+            {
+              "text": "They made wonderful colors.",
+              "audioStart": 46.013,
+              "audioEnd": 47.575
+            },
+            {
+              "text": "Everyone watched with happy eyes.",
+              "audioStart": 48.438,
+              "audioEnd": 50.25
+            },
+            {
+              "text": "However, when workers tried to light the special one, he refused to burn.",
+              "audioStart": 51.112,
+              "audioEnd": 55.163
+            },
+            {
+              "text": "Because his material had become water from his tears, nothing happened at all.",
+              "audioStart": 56.025,
+              "audioEnd": 60.225
+            },
+            {
+              "text": "The workers felt very angry.",
+              "audioStart": 61.087,
+              "audioEnd": 62.7
+            },
+            {
+              "text": "They threw him away into a dark place.",
+              "audioStart": 63.562,
+              "audioEnd": 65.55
+            },
+            {
+              "text": "The item remained there in the soft ground, still trying to act important.",
+              "audioStart": 66.412,
+              "audioEnd": 70.225
+            },
+            {
+              "text": "Two local boys found him the next morning while they were walking.",
+              "audioStart": 71.088,
+              "audioEnd": 74.237
+            },
+            {
+              "text": "They thought the old metal part might be useful.",
+              "audioStart": 75.1,
+              "audioEnd": 77.35
+            },
+            {
+              "text": "They put him into their small pocket.",
+              "audioStart": 78.213,
+              "audioEnd": 80.025
+            },
+            {
+              "text": "Later, the boys placed him on the ground and lit a fire under him.",
+              "audioStart": 80.888,
+              "audioEnd": 84.537
+            },
+            {
+              "text": "The object was very excited because he thought this was his second chance.",
+              "audioStart": 85.4,
+              "audioEnd": 89.188
+            },
+            {
+              "text": "He rose up into the air.",
+              "audioStart": 90.05,
+              "audioEnd": 91.388
+            },
+            {
+              "text": "He flew so fast nobody saw him.",
+              "audioStart": 92.25,
+              "audioEnd": 94.275
+            },
+            {
+              "text": "He fell back down into a field.",
+              "audioStart": 95.138,
+              "audioEnd": 96.838
+            },
+            {
+              "text": "He made a tiny sound and completely disappeared.",
+              "audioStart": 97.7,
+              "audioEnd": 100.325
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many days passed after that strange morning.",
+              "audioStart": 101.188,
+              "audioEnd": 103.6
+            },
+            {
+              "text": "People talked about the big show for a long time.",
+              "audioStart": 104.463,
+              "audioEnd": 107.013
+            },
+            {
+              "text": "Children played games near the field where the item had fallen.",
+              "audioStart": 107.875,
+              "audioEnd": 110.9
+            },
+            {
+              "text": "They searched for any sign of the lost thing.",
+              "audioStart": 111.763,
+              "audioEnd": 113.9
+            },
+            {
+              "text": "No one ever found the small piece again.",
+              "audioStart": 114.763,
+              "audioEnd": 116.825
+            },
+            {
+              "text": "The story became a lesson for everyone in the local community.",
+              "audioStart": 117.688,
+              "audioEnd": 120.888
+            },
+            {
+              "text": "If you think too much about your own power, you might lose everything.",
+              "audioStart": 121.75,
+              "audioEnd": 125.112
+            },
+            {
+              "text": "True friends always stay quiet and kind.",
+              "audioStart": 125.975,
+              "audioEnd": 128.213
+            },
+            {
+              "text": "They do not look down upon other people.",
+              "audioStart": 129.075,
+              "audioEnd": 131.037
+            },
+            {
+              "text": "Life is short, so we should enjoy every single moment.",
+              "audioStart": 131.9,
+              "audioEnd": 134.963
+            },
+            {
+              "text": "We have learned that this often brings a bad end.",
+              "audioStart": 135.825,
+              "audioEnd": 138.062
+            },
+            {
+              "text": "Now, the town is quiet and calm.",
+              "audioStart": 138.925,
+              "audioEnd": 141
+            },
+            {
+              "text": "Children grow up knowing the old story by heart.",
+              "audioStart": 141.863,
+              "audioEnd": 144.225
+            },
+            {
+              "text": "They understand that being quiet is much better than being proud.",
+              "audioStart": 145.088,
+              "audioEnd": 148.225
+            },
+            {
+              "text": "Every year, people remember the strange event with a smile.",
+              "audioStart": 149.088,
+              "audioEnd": 152.213
+            },
+            {
+              "text": "They tell the story to new visitors who come to the town.",
+              "audioStart": 153.075,
+              "audioEnd": 155.7
+            },
+            {
+              "text": "The memory remains alive in their hearts now.",
+              "audioStart": 156.562,
+              "audioEnd": 158.713
+            },
+            {
+              "text": "Nothing can change the past now.",
+              "audioStart": 159.575,
+              "audioEnd": 161.262
+            },
+            {
+              "text": "We must always care for one another.",
+              "audioStart": 162.125,
+              "audioEnd": 164.037
+            },
+            {
+              "text": "That is the best way to live a good life.",
+              "audioStart": 164.9,
+              "audioEnd": 167.037
+            },
+            {
+              "text": "If you were good to others, you would find joy.",
+              "audioStart": 167.9,
+              "audioEnd": 170.213
+            },
+            {
+              "text": "People have shared this lesson through many generations.",
+              "audioStart": 171.075,
+              "audioEnd": 173.812
+            },
+            {
+              "text": "We must keep these thoughts in mind every single day.",
+              "audioStart": 174.675,
+              "audioEnd": 177.363
+            },
+            {
+              "text": "The sun will rise again, and the world will move forward.",
+              "audioStart": 178.225,
+              "audioEnd": 181.075
+            },
+            {
+              "text": "Every person can learn from the past.",
+              "audioStart": 181.938,
+              "audioEnd": 184.012
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0241.mp3",
+      "wordTimings": "audio/b1/st-0241.timings.json",
+      "quiz": [
+        {
+          "q": "Why did the rocket refuse to burn during the show?",
+          "options": [
+            "His powder became wet from his own tears.",
+            "The workers forgot to use any fire.",
+            "The king stopped the celebration early."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the workers do after the rocket failed to burn?",
+          "options": [
+            "They put him back in the royal box.",
+            "They threw him away into a dirty ditch.",
+            "They gave him to the king son."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened when the two boys lit a fire beneath the rocket?",
+          "options": [
+            "He flew up so fast nobody saw him and disappeared.",
+            "He stayed on the ground and cried again.",
+            "He made a loud noise and frightened the boys."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "There was once a very proud light who believed that he was better than all other lights.",
+              "audioStart": 0.1,
+              "audioEnd": 4.138
+            },
+            {
+              "text": "He was made for a royal wedding, which made him feel extremely important.",
+              "audioStart": 5,
+              "audioEnd": 8.925
+            },
+            {
+              "text": "When people spoke to him, he answered with great pride because he thought his mind was very high.",
+              "audioStart": 9.787,
+              "audioEnd": 14.512
+            },
+            {
+              "text": "Other lights tried to be nice, but the light only looked down upon them.",
+              "audioStart": 15.375,
+              "audioEnd": 19.1
+            },
+            {
+              "text": "He even began to cry when he thought about how wonderful he truly was.",
+              "audioStart": 19.962,
+              "audioEnd": 23.788
+            },
+            {
+              "text": "His tears were real, but he believed they showed how deeply he cared about his own brilliant nature.",
+              "audioStart": 24.65,
+              "audioEnd": 29.65
+            },
+            {
+              "text": "The king son was getting married, and a grand show of lights was planned for the evening.",
+              "audioStart": 30.512,
+              "audioEnd": 34.85
+            },
+            {
+              "text": "The light knew that his part in the celebration would be the most amazing event of the night.",
+              "audioStart": 35.712,
+              "audioEnd": 39.9
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the big moment finally arrived, many bright lights shot up into the dark sky.",
+              "audioStart": 40.763,
+              "audioEnd": 45.15
+            },
+            {
+              "text": "They made wonderful colors that everyone watched with happy eyes.",
+              "audioStart": 46.013,
+              "audioEnd": 49.362
+            },
+            {
+              "text": "However, when workers tried to light the proud light, he refused to burn properly.",
+              "audioStart": 50.225,
+              "audioEnd": 54.663
+            },
+            {
+              "text": "Because his liquid had become wet from his own silly tears, nothing happened at all.",
+              "audioStart": 55.525,
+              "audioEnd": 59.925
+            },
+            {
+              "text": "The workers felt very angry and threw him away into a dark hole near a small stream.",
+              "audioStart": 60.788,
+              "audioEnd": 65.2
+            },
+            {
+              "text": "The light remained there in the soft ground, feeling quite sad though he still tried to act important.",
+              "audioStart": 66.062,
+              "audioEnd": 71
+            },
+            {
+              "text": "Two local boys found him the next morning while they were walking along the water.",
+              "audioStart": 71.862,
+              "audioEnd": 75.7
+            },
+            {
+              "text": "They thought the old metal tube might be useful for a small game, so they put him into their pocket.",
+              "audioStart": 76.562,
+              "audioEnd": 81.45
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Later, the boys placed him on the ground and lit a fire beneath him to see what would happen.",
+              "audioStart": 82.312,
+              "audioEnd": 86.95
+            },
+            {
+              "text": "The light was very excited because he thought this was his second chance to shine.",
+              "audioStart": 87.812,
+              "audioEnd": 91.725
+            },
+            {
+              "text": "He rose up into the air, but he flew so fast that nobody even saw him go.",
+              "audioStart": 92.588,
+              "audioEnd": 96.987
+            },
+            {
+              "text": "He fell back down into a field, made a tiny sound, and completely went away.",
+              "audioStart": 97.85,
+              "audioEnd": 102.2
+            },
+            {
+              "text": "Many people remember the story of the proud light who failed during the royal wedding.",
+              "audioStart": 103.062,
+              "audioEnd": 106.963
+            },
+            {
+              "text": "If his liquid had not become wet, he would have shone brightly across the sky.",
+              "audioStart": 107.825,
+              "audioEnd": 111.888
+            },
+            {
+              "text": "Instead, he spent his time in the ground before the boys found him by the water.",
+              "audioStart": 112.75,
+              "audioEnd": 116.888
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Everything that happened to him taught a lesson about pride and how people should behave.",
+              "audioStart": 117.75,
+              "audioEnd": 121.787
+            },
+            {
+              "text": "He always wanted to be the center of attention, but he only ended up in a small field.",
+              "audioStart": 122.65,
+              "audioEnd": 127.162
+            },
+            {
+              "text": "Perhaps if he had been nice to others, his life would have taken a different path.",
+              "audioStart": 128.025,
+              "audioEnd": 132.188
+            },
+            {
+              "text": "We can learn from his mistakes and try to remain small no matter how important we feel.",
+              "audioStart": 133.05,
+              "audioEnd": 137.387
+            },
+            {
+              "text": "Life is full of moments where our choices define who we truly are in the end.",
+              "audioStart": 138.25,
+              "audioEnd": 142.025
+            },
+            {
+              "text": "The royal wedding was an event that many generations would discuss for a long time.",
+              "audioStart": 142.887,
+              "audioEnd": 147.188
+            },
+            {
+              "text": "Guests came from all over the country to see the wonderful celebration and the bright shows.",
+              "audioStart": 148.05,
+              "audioEnd": 152.425
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every worker worked hard to ensure that everything went according to the strict plan.",
+              "audioStart": 153.287,
+              "audioEnd": 157.338
+            },
+            {
+              "text": "When the light failed, the crowd was quite surprised by the strange silence.",
+              "audioStart": 158.2,
+              "audioEnd": 162.075
+            },
+            {
+              "text": "Workers usually check every detail before they start any important show.",
+              "audioStart": 162.938,
+              "audioEnd": 166.662
+            },
+            {
+              "text": "However, nobody could predict that the light would cry and ruin his own chance to shine.",
+              "audioStart": 167.525,
+              "audioEnd": 171.9
+            },
+            {
+              "text": "The little boys who found him later had no idea about his royal background.",
+              "audioStart": 172.762,
+              "audioEnd": 176.637
+            },
+            {
+              "text": "They just saw a metal object that might be fun to play with during their morning walk.",
+              "audioStart": 177.5,
+              "audioEnd": 181.65
+            },
+            {
+              "text": "After the boys placed him on the ground, the final moment of the light finally came.",
+              "audioStart": 182.512,
+              "audioEnd": 186.938
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He shot up into the air so fast that people could barely follow his movement.",
+              "audioStart": 187.8,
+              "audioEnd": 191.75
+            },
+            {
+              "text": "His journey ended quickly when he fell back down into the open grass.",
+              "audioStart": 192.613,
+              "audioEnd": 196.15
+            },
+            {
+              "text": "Nobody heard him make any significant sound as he went away from sight.",
+              "audioStart": 197.012,
+              "audioEnd": 200.7
+            },
+            {
+              "text": "The story remains a classic example of how pride often leads to a strange fall.",
+              "audioStart": 201.562,
+              "audioEnd": 205.8
+            },
+            {
+              "text": "Even today, children and adults both can enjoy the tale of the light and his tears.",
+              "audioStart": 206.662,
+              "audioEnd": 211.175
+            },
+            {
+              "text": "We should always remember to treat everyone with respect and care every single day.",
+              "audioStart": 212.037,
+              "audioEnd": 216.238
+            },
+            {
+              "text": "That way, we can avoid the same result as the proud light who thought he was better than everyone else.",
+              "audioStart": 217.1,
+              "audioEnd": 222.075
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0241.mp3",
+      "wordTimings": "audio/b2/st-0241.timings.json",
+      "quiz": [
+        {
+          "q": "Why did the rocket fail to work during the royal wedding?",
+          "options": [
+            "His powder was wet from his own tears.",
+            "The workers forgot to light him.",
+            "The king stopped the show."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where did the workers throw the rocket after he failed to go off?",
+          "options": [
+            "Into a deep dark cave",
+            "Into a dirty ditch near a stream",
+            "Back into the royal box"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the two boys do with the rocket when they found him?",
+          "options": [
+            "They put him in a museum.",
+            "They sold him to a store.",
+            "They put him on the ground and lit a fire beneath him."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "There was once a remarkably haughty pyrotechnic device who harbored the absolute conviction that he was vastly superior to all other illuminations in the realm.",
+              "audioStart": 0.1,
+              "audioEnd": 8.225
+            },
+            {
+              "text": "Fashioned expressly for a royal wedding, he felt an intoxicating sense of importance pulsing through his metallic core.",
+              "audioStart": 9.088,
+              "audioEnd": 15.4
+            },
+            {
+              "text": "Whenever lesser candles or lanterns spoke to him, he would reply with an air of profound condescension, utterly convinced of his superior intellect.",
+              "audioStart": 16.262,
+              "audioEnd": 24.137
+            },
+            {
+              "text": "Other lights occasionally attempted to cultivate a pleasant conversation, but the arrogant cylinder consistently looked down upon their humble flickers.",
+              "audioStart": 25,
+              "audioEnd": 32.675
+            },
+            {
+              "text": "So moved was he by his own imagined magnificence that he would frequently weep gentle tears of pure admiration for his own brilliant nature.",
+              "audioStart": 33.538,
+              "audioEnd": 40.688
+            },
+            {
+              "text": "Though his moisture was entirely genuine, he convinced himself that these emotional drops were proof of his deep sensitivity and noble spirit.",
+              "audioStart": 41.55,
+              "audioEnd": 49.125
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The young prince of the kingdom was preparing to take his bride, and a magnificent display of illumination was meticulously planned for the evening festivities.",
+              "audioStart": 49.987,
+              "audioEnd": 58.225
+            },
+            {
+              "text": "The proud rocket knew without a single doubt that his grand finale would eclipse every other event of the evening.",
+              "audioStart": 59.087,
+              "audioEnd": 64.487
+            },
+            {
+              "text": "He envisioned himself soaring into the velvety darkness, leaving the entire court gasping at his unprecedented radiance.",
+              "audioStart": 65.35,
+              "audioEnd": 71.85
+            },
+            {
+              "text": "Every worker labored tirelessly behind the scenes to ensure that every detail of the strict schedule proceeded without a flaw.",
+              "audioStart": 72.713,
+              "audioEnd": 78.925
+            },
+            {
+              "text": "When the crucial moment finally arrived, a chorus of brilliant lights shot up into the dark sky with breathtaking velocity.",
+              "audioStart": 79.787,
+              "audioEnd": 86.1
+            },
+            {
+              "text": "They burst into wondrous cascades of color that every spectator watched with wide, happy eyes.",
+              "audioStart": 86.963,
+              "audioEnd": 92.2
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "However, when the technicians finally attempted to ignite the proud rocket, he stubbornly refused to cooperate or burn properly.",
+              "audioStart": 93.062,
+              "audioEnd": 100.162
+            },
+            {
+              "text": "Because his internal composition had become dampened by his own excessive and foolish tears, nothing happened at all.",
+              "audioStart": 101.025,
+              "audioEnd": 107.125
+            },
+            {
+              "text": "The spark hissed briefly against the damp paper and vanished, leaving the cylinder completely inert.",
+              "audioStart": 107.987,
+              "audioEnd": 113.175
+            },
+            {
+              "text": "Overcome by sudden fury at the ruined schedule, the workers felt deeply angry and hurled the heavy tube away.",
+              "audioStart": 114.037,
+              "audioEnd": 119.775
+            },
+            {
+              "text": "It fell unceremoniously into a dark, muddy hole near a small, babbling stream.",
+              "audioStart": 120.638,
+              "audioEnd": 125.375
+            },
+            {
+              "text": "The light remained half-buried in the soft ground, feeling quite miserable yet still attempting to maintain his grand posture.",
+              "audioStart": 126.237,
+              "audioEnd": 132.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The following morning, two local boys happened to walk along the winding water while searching for adventure.",
+              "audioStart": 133.488,
+              "audioEnd": 138.838
+            },
+            {
+              "text": "Their sharp eyes soon discovered the discarded metal tube resting quietly in the damp earth.",
+              "audioStart": 139.7,
+              "audioEnd": 144.012
+            },
+            {
+              "text": "Believing that the cylindrical object might prove useful for a small game they were inventing, they reached down and retrieved it.",
+              "audioStart": 144.875,
+              "audioEnd": 151.35
+            },
+            {
+              "text": "Without any inkling of its royal background, they slipped the heavy metal casing directly into their pocket.",
+              "audioStart": 152.213,
+              "audioEnd": 157.812
+            },
+            {
+              "text": "They continued their morning walk, quite satisfied with their curious little treasure and eager to test its capabilities.",
+              "audioStart": 158.675,
+              "audioEnd": 165.125
+            },
+            {
+              "text": "The rocket, trapped inside the dark fabric of the pocket, listened to their muffled voices with a renewed surge of vanity.",
+              "audioStart": 165.988,
+              "audioEnd": 172.3
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Later in the day, the boys placed the damp tube upright on the open ground and carefully built a small fire beneath it.",
+              "audioStart": 173.162,
+              "audioEnd": 179.512
+            },
+            {
+              "text": "They wanted to see what kind of reaction the mysterious object might produce.",
+              "audioStart": 180.375,
+              "audioEnd": 184.213
+            },
+            {
+              "text": "The rocket felt a sudden jolt of intense excitement, fully convinced that this was his long-awaited second chance to shine.",
+              "audioStart": 185.075,
+              "audioEnd": 191.512
+            },
+            {
+              "text": "He puffed his chest out metaphorically, preparing for an ascent that would surely astonish the entire countryside.",
+              "audioStart": 192.375,
+              "audioEnd": 198.213
+            },
+            {
+              "text": "With a sudden hiss of pent-up energy, he shot straight up into the air with astonishing speed.",
+              "audioStart": 199.075,
+              "audioEnd": 203.787
+            },
+            {
+              "text": "His departure was so rapid that nobody standing nearby even managed to catch a glimpse of his trajectory.",
+              "audioStart": 204.65,
+              "audioEnd": 210.262
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He climbed far higher than anyone could have anticipated, piercing the upper air before gravity finally recalled him.",
+              "audioStart": 211.125,
+              "audioEnd": 217.213
+            },
+            {
+              "text": "He tumbled headfirst back down toward the earth, landing heavily in a quiet, empty field.",
+              "audioStart": 218.075,
+              "audioEnd": 223.088
+            },
+            {
+              "text": "Upon impact, he made a tiny, pathetic sound and completely sputtered out of existence.",
+              "audioStart": 223.95,
+              "audioEnd": 229.162
+            },
+            {
+              "text": "No grand applause greeted his arrival, and not a single spectator watched his descent from the heavens.",
+              "audioStart": 230.025,
+              "audioEnd": 235.463
+            },
+            {
+              "text": "The magnificent promise of his royal debut had ended in absolute obscurity among the quiet grass.",
+              "audioStart": 236.325,
+              "audioEnd": 243.064
+            },
+            {
+              "text": "His brief, blinding career was finished forever in a matter of mere seconds.",
+              "audioStart": 243.926,
+              "audioEnd": 248.151
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many people across the kingdom continued to remember the strange story of the proud light who failed during the royal celebration.",
+              "audioStart": 249.013,
+              "audioEnd": 255.314
+            },
+            {
+              "text": "If only his internal components had not been spoiled by moisture, he would have truly shone brilliantly across the evening sky.",
+              "audioStart": 256.176,
+              "audioEnd": 262.851
+            },
+            {
+              "text": "Instead, he spent his humiliating hours hiding in the damp ground before the children found him by the water.",
+              "audioStart": 263.714,
+              "audioEnd": 269.426
+            },
+            {
+              "text": "Everything that happened to him offered a clear lesson about the dangers of excessive vanity and improper behavior.",
+              "audioStart": 270.288,
+              "audioEnd": 275.976
+            },
+            {
+              "text": "He had desperately wanted to remain the absolute center of attention at every possible moment.",
+              "audioStart": 276.839,
+              "audioEnd": 281.663
+            },
+            {
+              "text": "Yet his stubborn obsession with his own importance only delivered him to an anonymous field.",
+              "audioStart": 282.526,
+              "audioEnd": 287.014
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Had he chosen to treat others with kindness and humility, his life story might have taken a vastly different path.",
+              "audioStart": 287.876,
+              "audioEnd": 293.938
+            },
+            {
+              "text": "We can all learn valuable lessons from his ridiculous mistakes and try to remain modest no matter how important we feel.",
+              "audioStart": 294.801,
+              "audioEnd": 301.139
+            },
+            {
+              "text": "Human existence is constantly filled with defining moments where our choices reveal who we truly are beneath the surface.",
+              "audioStart": 302.001,
+              "audioEnd": 308.113
+            },
+            {
+              "text": "The royal wedding itself remained a legendary event that generations of townspeople would discuss for many decades.",
+              "audioStart": 308.976,
+              "audioEnd": 315.001
+            },
+            {
+              "text": "Guests had traveled from distant provinces just to witness the grand celebration and the dazzling shows.",
+              "audioStart": 315.863,
+              "audioEnd": 321.151
+            },
+            {
+              "text": "Every laborer had worked tirelessly to guarantee that the elaborate schedule unfolded according to plan.",
+              "audioStart": 322.014,
+              "audioEnd": 327.201
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the proud light malfunctioned, the surrounding crowd had been genuinely surprised by the sudden, awkward silence.",
+              "audioStart": 328.063,
+              "audioEnd": 334.238
+            },
+            {
+              "text": "Experienced technicians usually inspect every single component with extreme care before launching any ambitious exhibition.",
+              "audioStart": 335.101,
+              "audioEnd": 342.001
+            },
+            {
+              "text": "However, no professional could possibly have predicted that a pyrotechnic device would ruin its own performance through sheer vanity.",
+              "audioStart": 342.863,
+              "audioEnd": 349.464
+            },
+            {
+              "text": "The little boys who discovered him by the stream had no concept of his grand origins or his failed destiny.",
+              "audioStart": 350.326,
+              "audioEnd": 355.901
+            },
+            {
+              "text": "They simply recognized a discarded piece of metal that might provide amusement during their morning excursion.",
+              "audioStart": 356.764,
+              "audioEnd": 362.001
+            },
+            {
+              "text": "When they finally set him upon the earth and applied the flame, the final chapter of his existence began.",
+              "audioStart": 362.863,
+              "audioEnd": 368.214
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He had shot upward with such tremendous velocity that onlookers could barely follow his motion through the air.",
+              "audioStart": 369.076,
+              "audioEnd": 374.464
+            },
+            {
+              "text": "His grand journey concluded abruptly as he plummeted back into the open grass without an audience.",
+              "audioStart": 375.326,
+              "audioEnd": 380.413
+            },
+            {
+              "text": "Scarcely anyone heard him make a significant sound as he vanished permanently from the visual field.",
+              "audioStart": 381.276,
+              "audioEnd": 386.326
+            },
+            {
+              "text": "This unfortunate tale remains a classic example of how unchecked arrogance consistently paves the way for a peculiar fall.",
+              "audioStart": 387.188,
+              "audioEnd": 393.663
+            },
+            {
+              "text": "To this day, both children and adults can reflect upon the cautionary tale of the weeping light.",
+              "audioStart": 394.526,
+              "audioEnd": 399.639
+            },
+            {
+              "text": "We must continually remind ourselves to treat every person with genuine respect and thoughtful consideration.",
+              "audioStart": 400.501,
+              "audioEnd": 406.276
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "By practicing humility in our daily interactions, we can easily avoid sharing the miserable fate of the boastful rocket.",
+              "audioStart": 407.139,
+              "audioEnd": 413.813
+            },
+            {
+              "text": "He had truly believed that his superior intellect set him apart from every other creation in the workshop.",
+              "audioStart": 414.676,
+              "audioEnd": 420.101
+            },
+            {
+              "text": "Yet his refusal to connect with those around him guaranteed his eventual downfall in the mud.",
+              "audioStart": 420.964,
+              "audioEnd": 425.563
+            },
+            {
+              "text": "True worth is rarely found in loud boasts or manufactured tears of self-admiration.",
+              "audioStart": 426.426,
+              "audioEnd": 431.038
+            },
+            {
+              "text": "Instead, it emerges quietly through kindness, patience, and a willingness to stand shoulder to shoulder with others.",
+              "audioStart": 431.901,
+              "audioEnd": 438.251
+            },
+            {
+              "text": "Let us remember the lesson of the field and choose a path of grace over the empty pursuit of pride.",
+              "audioStart": 439.113,
+              "audioEnd": 443.876
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0241.mp3",
+      "wordTimings": "audio/c1/st-0241.timings.json",
+      "quiz": [
+        {
+          "q": "Why did the proud light fail to burn properly during the royal wedding celebration?",
+          "options": [
+            "His internal liquid had been dampened by his own foolish tears.",
+            "The workers forgot to apply any fire beneath him.",
+            "A sudden rainstorm put out the fuse before it was lit."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who found the discarded light by the stream the morning after the wedding?",
+          "options": [
+            "Two local boys looking for a toy",
+            "The young prince taking a morning walk",
+            "A pair of royal wedding technicians"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What happened to the rocket after the boys lit a fire beneath him during their game?",
+          "options": [
+            "He shone brightly across the sky for an hour.",
+            "He shot up so fast nobody saw him, fell into a field, and vanished.",
+            "He burst into a colorful display that amazed the villagers."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

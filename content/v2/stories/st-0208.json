@@ -1,0 +1,1366 @@
+{
+  "id": "st-0208",
+  "title": "Stone Soup",
+  "genre": "classic",
+  "summary": "Two hungry strangers arrive in a town and try to start a soup.",
+  "coverScene": "Two tired travelers hold a simple pot over an open fire while curious villagers gather around to watch.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Two men walk into the town.",
+              "audioStart": 0.106,
+              "audioEnd": 1.814
+            },
+            {
+              "text": "They have no food.",
+              "audioStart": 2.778,
+              "audioEnd": 3.972
+            },
+            {
+              "text": "They feel very bad.",
+              "audioStart": 4.931,
+              "audioEnd": 6.181
+            },
+            {
+              "text": "The men look at every house.",
+              "audioStart": 7.139,
+              "audioEnd": 8.806
+            },
+            {
+              "text": "They touch each door.",
+              "audioStart": 9.764,
+              "audioEnd": 11.042
+            },
+            {
+              "text": "Local people do not share food.",
+              "audioStart": 12,
+              "audioEnd": 13.958
+            },
+            {
+              "text": "Every person says no to them.",
+              "audioStart": 14.917,
+              "audioEnd": 16.778
+            },
+            {
+              "text": "The men stand in the way.",
+              "audioStart": 17.736,
+              "audioEnd": 19.222
+            },
+            {
+              "text": "They think of a plan.",
+              "audioStart": 20.181,
+              "audioEnd": 21.458
+            },
+            {
+              "text": "They need to eat something.",
+              "audioStart": 22.417,
+              "audioEnd": 23.792
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The men build a big light.",
+              "audioStart": 24.75,
+              "audioEnd": 26.333
+            },
+            {
+              "text": "They put water into a large bowl.",
+              "audioStart": 27.292,
+              "audioEnd": 29.292
+            },
+            {
+              "text": "The water gets very big.",
+              "audioStart": 30.25,
+              "audioEnd": 31.847
+            },
+            {
+              "text": "One man puts a stone into the water.",
+              "audioStart": 32.806,
+              "audioEnd": 34.972
+            },
+            {
+              "text": "A person comes close to them.",
+              "audioStart": 35.931,
+              "audioEnd": 37.694
+            },
+            {
+              "text": "He asks about the bowl.",
+              "audioStart": 38.653,
+              "audioEnd": 40.139
+            },
+            {
+              "text": "The man says it is stone food.",
+              "audioStart": 41.097,
+              "audioEnd": 42.958
+            },
+            {
+              "text": "He says the food needs support.",
+              "audioStart": 43.917,
+              "audioEnd": 45.806
+            },
+            {
+              "text": "The person brings support.",
+              "audioStart": 46.764,
+              "audioEnd": 48.347
+            },
+            {
+              "text": "Another person comes to the light.",
+              "audioStart": 49.306,
+              "audioEnd": 51.347
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Women bring different things.",
+              "audioStart": 52.306,
+              "audioEnd": 54.028
+            },
+            {
+              "text": "People bring food and things for the bowl.",
+              "audioStart": 54.986,
+              "audioEnd": 57.25
+            },
+            {
+              "text": "The good thing goes through the town.",
+              "audioStart": 58.208,
+              "audioEnd": 59.931
+            },
+            {
+              "text": "More people come to the place.",
+              "audioStart": 60.889,
+              "audioEnd": 62.694
+            },
+            {
+              "text": "Everyone shares the food together.",
+              "audioStart": 63.653,
+              "audioEnd": 65.625
+            },
+            {
+              "text": "The people understand how to work together.",
+              "audioStart": 66.583,
+              "audioEnd": 68.903
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0208.mp3",
+      "wordTimings": "audio/a1/st-0208.timings.json",
+      "quiz": [
+        {
+          "q": "What do the travelers put into the pot first?",
+          "options": [
+            "A stone",
+            "Some meat",
+            "Potatoes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What do the local people do at first?",
+          "options": [
+            "Refuse to share food",
+            "Give them much meat",
+            "Invite them home"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What do villagers bring to the soup?",
+          "options": [
+            "Salt and vegetables",
+            "Only water",
+            "Nothing at all"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Two people walked into a small town after a long time.",
+              "audioStart": 0.106,
+              "audioEnd": 3.397
+            },
+            {
+              "text": "They had no food left in anything.",
+              "audioStart": 4.361,
+              "audioEnd": 6.5
+            },
+            {
+              "text": "They felt very low inside.",
+              "audioStart": 7.458,
+              "audioEnd": 9.125
+            },
+            {
+              "text": "They came close to several doors.",
+              "audioStart": 10.083,
+              "audioEnd": 12.083
+            },
+            {
+              "text": "Local people would not share anything.",
+              "audioStart": 13.042,
+              "audioEnd": 15.139
+            },
+            {
+              "text": "Every person said they only had enough food for themselves.",
+              "audioStart": 16.097,
+              "audioEnd": 19.514
+            },
+            {
+              "text": "Every person had little food for themselves today.",
+              "audioStart": 20.472,
+              "audioEnd": 23.319
+            },
+            {
+              "text": "The travelers felt very hungry and tired.",
+              "audioStart": 24.278,
+              "audioEnd": 26.806
+            },
+            {
+              "text": "They needed a plan to find some help.",
+              "audioStart": 27.764,
+              "audioEnd": 29.847
+            },
+            {
+              "text": "The town was very quiet and cold.",
+              "audioStart": 30.806,
+              "audioEnd": 32.958
+            },
+            {
+              "text": "No one wanted to open their door.",
+              "audioStart": 33.917,
+              "audioEnd": 35.875
+            },
+            {
+              "text": "The travelers walked down the empty street together.",
+              "audioStart": 36.833,
+              "audioEnd": 39.694
+            },
+            {
+              "text": "They looked at each other with sad faces.",
+              "audioStart": 40.653,
+              "audioEnd": 42.931
+            },
+            {
+              "text": "They sat down near a large building to rest.",
+              "audioStart": 43.889,
+              "audioEnd": 46.556
+            },
+            {
+              "text": "The sun began to go down behind the hills.",
+              "audioStart": 47.514,
+              "audioEnd": 50.056
+            },
+            {
+              "text": "They knew they must do something fast.",
+              "audioStart": 51.014,
+              "audioEnd": 53.125
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since nobody would offer food, they made a plan.",
+              "audioStart": 54.083,
+              "audioEnd": 56.958
+            },
+            {
+              "text": "They brought plant items and built a big fire.",
+              "audioStart": 57.917,
+              "audioEnd": 60.625
+            },
+            {
+              "text": "They placed a large set of water over it.",
+              "audioStart": 61.583,
+              "audioEnd": 63.917
+            },
+            {
+              "text": "After water became very hot, one person dropped a clean object inside.",
+              "audioStart": 64.875,
+              "audioEnd": 69.625
+            },
+            {
+              "text": "A person walked over and asked what was happening.",
+              "audioStart": 70.583,
+              "audioEnd": 73.375
+            },
+            {
+              "text": "They smiled and explained they were making a special water meal.",
+              "audioStart": 74.333,
+              "audioEnd": 77.694
+            },
+            {
+              "text": "The fire crackled loudly in the cool evening air.",
+              "audioStart": 78.653,
+              "audioEnd": 81.542
+            },
+            {
+              "text": "The water started to bubble and turn very hot.",
+              "audioStart": 82.5,
+              "audioEnd": 85.292
+            },
+            {
+              "text": "The travelers watched the pot carefully.",
+              "audioStart": 86.25,
+              "audioEnd": 88.597
+            },
+            {
+              "text": "They hoped someone would come to see the fire.",
+              "audioStart": 89.556,
+              "audioEnd": 91.889
+            },
+            {
+              "text": "The bright flames lit up the dark street.",
+              "audioStart": 92.847,
+              "audioEnd": 95.111
+            },
+            {
+              "text": "People inside their houses looked through the windows.",
+              "audioStart": 96.069,
+              "audioEnd": 98.819
+            },
+            {
+              "text": "They wondered what the two travelers were doing outside.",
+              "audioStart": 99.778,
+              "audioEnd": 102.667
+            },
+            {
+              "text": "Curiosity grew among the local residents.",
+              "audioStart": 103.625,
+              "audioEnd": 106.222
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They added it would be better with something else.",
+              "audioStart": 107.181,
+              "audioEnd": 109.486
+            },
+            {
+              "text": "A local person went home and brought some things.",
+              "audioStart": 110.444,
+              "audioEnd": 113.222
+            },
+            {
+              "text": "Soon another person came close.",
+              "audioStart": 114.181,
+              "audioEnd": 116.264
+            },
+            {
+              "text": "They told her different food would make the meal fine.",
+              "audioStart": 117.222,
+              "audioEnd": 119.986
+            },
+            {
+              "text": "The woman returned with different things.",
+              "audioStart": 120.944,
+              "audioEnd": 123.069
+            },
+            {
+              "text": "Good air spread through the town.",
+              "audioStart": 124.028,
+              "audioEnd": 125.75
+            },
+            {
+              "text": "More people came out with food.",
+              "audioStart": 126.708,
+              "audioEnd": 128.5
+            },
+            {
+              "text": "Everyone gave items to the set.",
+              "audioStart": 129.458,
+              "audioEnd": 131.514
+            },
+            {
+              "text": "Villagers understood working together could create a great dinner.",
+              "audioStart": 132.472,
+              "audioEnd": 136.042
+            },
+            {
+              "text": "They were very happy in the end.",
+              "audioStart": 137,
+              "audioEnd": 138.819
+            },
+            {
+              "text": "They shared the food until the night came.",
+              "audioStart": 139.778,
+              "audioEnd": 142.028
+            },
+            {
+              "text": "Everyone learned a good message about life.",
+              "audioStart": 142.986,
+              "audioEnd": 145.347
+            },
+            {
+              "text": "The bowls were full of hot and tasty liquid.",
+              "audioStart": 146.306,
+              "audioEnd": 148.847
+            },
+            {
+              "text": "Children laughed and played around the warm fire.",
+              "audioStart": 149.806,
+              "audioEnd": 152.528
+            },
+            {
+              "text": "Nobody felt hungry anymore.",
+              "audioStart": 153.486,
+              "audioEnd": 155.333
+            },
+            {
+              "text": "The town became a place of joy and friendship.",
+              "audioStart": 156.292,
+              "audioEnd": 158.889
+            },
+            {
+              "text": "They would always remember this special evening.",
+              "audioStart": 159.847,
+              "audioEnd": 162.208
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0208.mp3",
+      "wordTimings": "audio/a2/st-0208.timings.json",
+      "quiz": [
+        {
+          "q": "What did the travelers drop into the pot first?",
+          "options": [
+            "A clean stone",
+            "Some onions",
+            "A potato"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the local people say when the travelers knocked on doors?",
+          "options": [
+            "They had plenty of food",
+            "They barely had enough food for themselves",
+            "They would share everything"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the villagers learn at the end of the story?",
+          "options": [
+            "Stone soup tastes bad",
+            "Working together could create a great feast",
+            "Travelers are dangerous"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Two tired people walked into a small town after a long journey.",
+              "audioStart": 0.1,
+              "audioEnd": 3.475
+            },
+            {
+              "text": "They had no food left in bags.",
+              "audioStart": 4.338,
+              "audioEnd": 6.213
+            },
+            {
+              "text": "Bodies felt very empty.",
+              "audioStart": 7.075,
+              "audioEnd": 8.512
+            },
+            {
+              "text": "People knocked on several doors.",
+              "audioStart": 9.375,
+              "audioEnd": 11.1
+            },
+            {
+              "text": "Local individuals refused to share anything.",
+              "audioStart": 11.963,
+              "audioEnd": 14.4
+            },
+            {
+              "text": "Every person said that they had little food.",
+              "audioStart": 15.262,
+              "audioEnd": 17.425
+            },
+            {
+              "text": "If nobody would offer a meal, the group would remain empty of energy.",
+              "audioStart": 18.288,
+              "audioEnd": 21.9
+            },
+            {
+              "text": "People have tried to find another way.",
+              "audioStart": 22.762,
+              "audioEnd": 24.538
+            },
+            {
+              "text": "Since nobody would offer a meal, bright people made a plan.",
+              "audioStart": 25.4,
+              "audioEnd": 28.525
+            },
+            {
+              "text": "They gathered dry wood and built a big fire in the center of the street.",
+              "audioStart": 29.387,
+              "audioEnd": 32.888
+            },
+            {
+              "text": "Then they placed a large container of water over it.",
+              "audioStart": 33.75,
+              "audioEnd": 36.337
+            },
+            {
+              "text": "After water became very hot, one person took a clean stone from the ground.",
+              "audioStart": 37.2,
+              "audioEnd": 41.425
+            },
+            {
+              "text": "He dropped it carefully into the container.",
+              "audioStart": 42.288,
+              "audioEnd": 44.4
+            },
+            {
+              "text": "People have shown that water and stone can start a meal.",
+              "audioStart": 45.263,
+              "audioEnd": 47.888
+            },
+            {
+              "text": "If people looked closely, they saw the start of wonderful food.",
+              "audioStart": 48.75,
+              "audioEnd": 51.925
+            },
+            {
+              "text": "They have made a fire.",
+              "audioStart": 52.788,
+              "audioEnd": 53.962
+            },
+            {
+              "text": "They have found water.",
+              "audioStart": 54.825,
+              "audioEnd": 55.9
+            },
+            {
+              "text": "They have put a stone in water.",
+              "audioStart": 56.763,
+              "audioEnd": 58.225
+            },
+            {
+              "text": "Many hours passed by the fire.",
+              "audioStart": 59.087,
+              "audioEnd": 60.913
+            },
+            {
+              "text": "The water was very hot now.",
+              "audioStart": 61.775,
+              "audioEnd": 63.325
+            },
+            {
+              "text": "The stone stayed down in the water.",
+              "audioStart": 64.188,
+              "audioEnd": 65.825
+            },
+            {
+              "text": "People watched the street.",
+              "audioStart": 66.688,
+              "audioEnd": 68
+            },
+            {
+              "text": "They wanted to see what would happen next.",
+              "audioStart": 68.862,
+              "audioEnd": 70.875
+            },
+            {
+              "text": "A strange neighbor walked over and looked into the container.",
+              "audioStart": 71.737,
+              "audioEnd": 74.575
+            },
+            {
+              "text": "She asked what was happening.",
+              "audioStart": 75.438,
+              "audioEnd": 76.85
+            },
+            {
+              "text": "The man smiled and explained that they were making wonderful stone food.",
+              "audioStart": 77.713,
+              "audioEnd": 81.237
+            },
+            {
+              "text": "He added that food would taste even better if someone had a little extra item.",
+              "audioStart": 82.1,
+              "audioEnd": 85.95
+            },
+            {
+              "text": "Interested by the idea, the neighbor went home quickly.",
+              "audioStart": 86.812,
+              "audioEnd": 89.8
+            },
+            {
+              "text": "She brought back some extra things and a few plant parts.",
+              "audioStart": 90.662,
+              "audioEnd": 93.7
+            },
+            {
+              "text": "Soon, another neighbor came close.",
+              "audioStart": 94.562,
+              "audioEnd": 96.7
+            },
+            {
+              "text": "People told her that plants would make the stone dish rich.",
+              "audioStart": 97.562,
+              "audioEnd": 100.388
+            },
+            {
+              "text": "The woman agreed, returning shortly with sweet roots and round roots.",
+              "audioStart": 101.25,
+              "audioEnd": 104.963
+            },
+            {
+              "text": "As a nice smell spread through the town, more people came out with meat and other food items.",
+              "audioStart": 105.825,
+              "audioEnd": 110.513
+            },
+            {
+              "text": "Everyone contributed something to the container.",
+              "audioStart": 111.375,
+              "audioEnd": 113.713
+            },
+            {
+              "text": "The food was shared among the whole group.",
+              "audioStart": 114.575,
+              "audioEnd": 116.4
+            },
+            {
+              "text": "Neighbors finally understood that working together could create a great party from a single stone.",
+              "audioStart": 117.263,
+              "audioEnd": 122.138
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0208.mp3",
+      "wordTimings": "audio/b1/st-0208.timings.json",
+      "quiz": [
+        {
+          "q": "What did the travelers drop into the pot of hot water first?",
+          "options": [
+            "A clean stone",
+            "Some salt and onions",
+            "Carrots and potatoes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did the villagers initially refuse to give food to the travelers?",
+          "options": [
+            "They did not like strangers",
+            "They said they barely had enough food for themselves",
+            "They were saving food for a big party"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the villagers finally understand at the end of the story?",
+          "options": [
+            "Stones can make delicious soup without anything else",
+            "Working together could create a great feast",
+            "Travelers should always bring their own food"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Two tired persons walked into a small town after a long journey.",
+              "audioStart": 0.1,
+              "audioEnd": 3.6
+            },
+            {
+              "text": "They had no food left in their bags.",
+              "audioStart": 4.463,
+              "audioEnd": 6.525
+            },
+            {
+              "text": "Their stomachs felt very empty.",
+              "audioStart": 7.388,
+              "audioEnd": 9.1
+            },
+            {
+              "text": "The persons knocked on several doors.",
+              "audioStart": 9.963,
+              "audioEnd": 11.925
+            },
+            {
+              "text": "The local people refused to share anything.",
+              "audioStart": 12.787,
+              "audioEnd": 15.012
+            },
+            {
+              "text": "Every person in the community said something.",
+              "audioStart": 15.875,
+              "audioEnd": 18.137
+            },
+            {
+              "text": "They said that they barely had enough food for themselves.",
+              "audioStart": 19,
+              "audioEnd": 21.775
+            },
+            {
+              "text": "Nobody would offer them a meal.",
+              "audioStart": 22.637,
+              "audioEnd": 24.2
+            },
+            {
+              "text": "The smart persons decided to make a plan.",
+              "audioStart": 25.062,
+              "audioEnd": 27.337
+            },
+            {
+              "text": "They gathered some dry wood.",
+              "audioStart": 28.2,
+              "audioEnd": 29.562
+            },
+            {
+              "text": "They built a big fire.",
+              "audioStart": 30.425,
+              "audioEnd": 31.725
+            },
+            {
+              "text": "The fire was in the center of the street.",
+              "audioStart": 32.587,
+              "audioEnd": 34.562
+            },
+            {
+              "text": "They placed a large pot of water over it.",
+              "audioStart": 35.425,
+              "audioEnd": 37.538
+            },
+            {
+              "text": "The water became very hot.",
+              "audioStart": 38.4,
+              "audioEnd": 40
+            },
+            {
+              "text": "One person took a clean ordinary stone from the ground.",
+              "audioStart": 40.862,
+              "audioEnd": 43.737
+            },
+            {
+              "text": "He dropped it carefully into the pot.",
+              "audioStart": 44.6,
+              "audioEnd": 46.575
+            },
+            {
+              "text": "A curious person from the town walked over.",
+              "audioStart": 47.438,
+              "audioEnd": 49.825
+            },
+            {
+              "text": "He looked into the pot.",
+              "audioStart": 50.688,
+              "audioEnd": 51.975
+            },
+            {
+              "text": "He asked what was happening.",
+              "audioStart": 52.837,
+              "audioEnd": 54.237
+            },
+            {
+              "text": "The person smiled.",
+              "audioStart": 55.1,
+              "audioEnd": 56.25
+            },
+            {
+              "text": "He explained that they were making a wonderful stone meal.",
+              "audioStart": 57.112,
+              "audioEnd": 59.85
+            },
+            {
+              "text": "He added that the stone meal tasted good.",
+              "audioStart": 60.712,
+              "audioEnd": 62.888
+            },
+            {
+              "text": "It would be even better if someone had a little bit of salt or plant to put inside.",
+              "audioStart": 63.75,
+              "audioEnd": 67.713
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Fascinated by the idea, the person went home quickly.",
+              "audioStart": 68.575,
+              "audioEnd": 71.638
+            },
+            {
+              "text": "He brought back some salt and a few plants.",
+              "audioStart": 72.5,
+              "audioEnd": 74.775
+            },
+            {
+              "text": "Soon, another neighbor came close.",
+              "audioStart": 75.638,
+              "audioEnd": 77.775
+            },
+            {
+              "text": "The persons told her that green food would make the stone meal rich and special.",
+              "audioStart": 78.638,
+              "audioEnd": 82.513
+            },
+            {
+              "text": "The woman agreed.",
+              "audioStart": 83.375,
+              "audioEnd": 84.375
+            },
+            {
+              "text": "She returned shortly with roots and potatoes from her kitchen.",
+              "audioStart": 85.237,
+              "audioEnd": 88.175
+            },
+            {
+              "text": "The wonderful smell spread through the town.",
+              "audioStart": 89.037,
+              "audioEnd": 91.125
+            },
+            {
+              "text": "More people came out with meat and other food items.",
+              "audioStart": 91.987,
+              "audioEnd": 94.6
+            },
+            {
+              "text": "Everyone contributed something to the pot.",
+              "audioStart": 95.463,
+              "audioEnd": 97.625
+            },
+            {
+              "text": "The food was shared among the whole group.",
+              "audioStart": 98.487,
+              "audioEnd": 100.312
+            },
+            {
+              "text": "The residents finally understood that working together could create a great party from a single stone.",
+              "audioStart": 101.175,
+              "audioEnd": 106.312
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Let us think about the journey of these people.",
+              "audioStart": 107.175,
+              "audioEnd": 109.263
+            },
+            {
+              "text": "They were very hungry when they arrived.",
+              "audioStart": 110.125,
+              "audioEnd": 111.963
+            },
+            {
+              "text": "They had nothing to eat.",
+              "audioStart": 112.825,
+              "audioEnd": 114.112
+            },
+            {
+              "text": "The people in the village were not nice at first.",
+              "audioStart": 114.975,
+              "audioEnd": 117.388
+            },
+            {
+              "text": "They kept their food inside their homes.",
+              "audioStart": 118.25,
+              "audioEnd": 120.312
+            },
+            {
+              "text": "They did not want to give any help.",
+              "audioStart": 121.175,
+              "audioEnd": 122.775
+            },
+            {
+              "text": "However, the smart travelers did not stop.",
+              "audioStart": 123.638,
+              "audioEnd": 126.15
+            },
+            {
+              "text": "They made a fire in the street.",
+              "audioStart": 127.013,
+              "audioEnd": 128.562
+            },
+            {
+              "text": "They boiled water in a pot.",
+              "audioStart": 129.425,
+              "audioEnd": 130.963
+            },
+            {
+              "text": "They put a stone inside.",
+              "audioStart": 131.825,
+              "audioEnd": 133.15
+            },
+            {
+              "text": "This action made the local residents very curious.",
+              "audioStart": 134.012,
+              "audioEnd": 136.863
+            },
+            {
+              "text": "One person came out to watch.",
+              "audioStart": 137.725,
+              "audioEnd": 139.338
+            },
+            {
+              "text": "He asked questions about the pot.",
+              "audioStart": 140.2,
+              "audioEnd": 142.062
+            },
+            {
+              "text": "The travelers spoke about the meal.",
+              "audioStart": 142.925,
+              "audioEnd": 144.713
+            },
+            {
+              "text": "They said it needed salt.",
+              "audioStart": 145.575,
+              "audioEnd": 146.912
+            },
+            {
+              "text": "The local person went to get some.",
+              "audioStart": 147.775,
+              "audioEnd": 149.6
+            },
+            {
+              "text": "Another person brought potatoes.",
+              "audioStart": 150.463,
+              "audioEnd": 152.3
+            },
+            {
+              "text": "Soon, many people came with food.",
+              "audioStart": 153.162,
+              "audioEnd": 155.213
+            },
+            {
+              "text": "They added meat and vegetables to the pot.",
+              "audioStart": 156.075,
+              "audioEnd": 158.262
+            },
+            {
+              "text": "Everyone helped to cook the dinner.",
+              "audioStart": 159.125,
+              "audioEnd": 160.7
+            },
+            {
+              "text": "They shared the meal together.",
+              "audioStart": 161.562,
+              "audioEnd": 162.975
+            },
+            {
+              "text": "They had a wonderful time.",
+              "audioStart": 163.838,
+              "audioEnd": 165.238
+            },
+            {
+              "text": "They learned that sharing is good.",
+              "audioStart": 166.1,
+              "audioEnd": 167.637
+            },
+            {
+              "text": "Working together brings happiness to everyone.",
+              "audioStart": 168.5,
+              "audioEnd": 170.887
+            },
+            {
+              "text": "The small town became a happy place because of the stone soup.",
+              "audioStart": 171.75,
+              "audioEnd": 174.9
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "People talked about the event for a long time.",
+              "audioStart": 175.762,
+              "audioEnd": 178.1
+            },
+            {
+              "text": "They remembered the day when the strangers came.",
+              "audioStart": 178.963,
+              "audioEnd": 181.188
+            },
+            {
+              "text": "They realized that they could make a feast from nothing if they shared their resources.",
+              "audioStart": 182.05,
+              "audioEnd": 186.175
+            },
+            {
+              "text": "The travelers were happy too.",
+              "audioStart": 187.037,
+              "audioEnd": 188.625
+            },
+            {
+              "text": "Their stomachs were full.",
+              "audioStart": 189.488,
+              "audioEnd": 190.825
+            },
+            {
+              "text": "They left the town the next morning.",
+              "audioStart": 191.688,
+              "audioEnd": 193.412
+            },
+            {
+              "text": "The residents waved goodbye.",
+              "audioStart": 194.275,
+              "audioEnd": 195.738
+            },
+            {
+              "text": "They never forgot the lesson of the stone soup.",
+              "audioStart": 196.6,
+              "audioEnd": 198.863
+            },
+            {
+              "text": "Every person in the community changed their attitude toward strangers.",
+              "audioStart": 199.725,
+              "audioEnd": 203.275
+            },
+            {
+              "text": "They became much more kind and generous.",
+              "audioStart": 204.137,
+              "audioEnd": 206.25
+            },
+            {
+              "text": "If a traveler came again, they would receive a warm meal.",
+              "audioStart": 207.113,
+              "audioEnd": 210
+            },
+            {
+              "text": "The story spread to other towns as well.",
+              "audioStart": 210.863,
+              "audioEnd": 212.925
+            },
+            {
+              "text": "Many people heard about the stone soup.",
+              "audioStart": 213.787,
+              "audioEnd": 215.7
+            },
+            {
+              "text": "They tried to make it themselves.",
+              "audioStart": 216.562,
+              "audioEnd": 218.225
+            },
+            {
+              "text": "They learned the same valuable lesson.",
+              "audioStart": 219.088,
+              "audioEnd": 220.95
+            },
+            {
+              "text": "Cooperation is the key to a good life.",
+              "audioStart": 221.812,
+              "audioEnd": 223.95
+            },
+            {
+              "text": "When people work together, great things happen.",
+              "audioStart": 224.812,
+              "audioEnd": 227.312
+            },
+            {
+              "text": "This is the true meaning of community.",
+              "audioStart": 228.175,
+              "audioEnd": 229.988
+            },
+            {
+              "text": "We should always remember to help each other.",
+              "audioStart": 230.85,
+              "audioEnd": 232.825
+            },
+            {
+              "text": "Even a small contribution can make a big difference.",
+              "audioStart": 233.688,
+              "audioEnd": 236.475
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Just like the stone in the pot, a small idea can start something wonderful.",
+              "audioStart": 237.338,
+              "audioEnd": 241.2
+            },
+            {
+              "text": "The end of the story brings joy to all readers.",
+              "audioStart": 242.062,
+              "audioEnd": 244.425
+            },
+            {
+              "text": "We can see how friendship grows from simple acts of kindness.",
+              "audioStart": 245.287,
+              "audioEnd": 248.425
+            },
+            {
+              "text": "Many other towns heard about the event.",
+              "audioStart": 249.287,
+              "audioEnd": 251.225
+            },
+            {
+              "text": "People everywhere began to talk about the stone meal.",
+              "audioStart": 252.088,
+              "audioEnd": 254.775
+            },
+            {
+              "text": "Children played in the streets while parents watched.",
+              "audioStart": 255.637,
+              "audioEnd": 258.1
+            },
+            {
+              "text": "Everyone agreed that sharing brought people together.",
+              "audioStart": 258.962,
+              "audioEnd": 261.425
+            },
+            {
+              "text": "If anyone needed help, the community was ready to give it.",
+              "audioStart": 262.288,
+              "audioEnd": 265.4
+            },
+            {
+              "text": "The residents knew that no one should ever feel alone.",
+              "audioStart": 266.262,
+              "audioEnd": 268.962
+            },
+            {
+              "text": "Life in the town remained peaceful and happy.",
+              "audioStart": 269.825,
+              "audioEnd": 272.125
+            },
+            {
+              "text": "New visitors often stopped by to see the place where the famous soup was made.",
+              "audioStart": 272.988,
+              "audioEnd": 276.812
+            },
+            {
+              "text": "The residents always welcomed them with open arms.",
+              "audioStart": 277.675,
+              "audioEnd": 280.225
+            },
+            {
+              "text": "They told the story of the stone over and over again.",
+              "audioStart": 281.087,
+              "audioEnd": 284.738
+            },
+            {
+              "text": "It became a tradition for the local people.",
+              "audioStart": 285.601,
+              "audioEnd": 287.851
+            },
+            {
+              "text": "Every new generation learned the important lesson.",
+              "audioStart": 288.713,
+              "audioEnd": 291.138
+            },
+            {
+              "text": "Friends and family gathered often to eat together.",
+              "audioStart": 292,
+              "audioEnd": 294.513
+            },
+            {
+              "text": "No person ever went hungry in that town again.",
+              "audioStart": 295.375,
+              "audioEnd": 297.901
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0208.mp3",
+      "wordTimings": "audio/b2/st-0208.timings.json",
+      "quiz": [
+        {
+          "q": "What did the travelers put into the pot of hot water first?",
+          "options": [
+            "A stone",
+            "Some meat",
+            "A potato"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did the villagers initially refuse to give food to the travelers?",
+          "options": [
+            "They were angry at strangers.",
+            "They felt they barely had enough food for themselves.",
+            "They were saving everything for a big holiday."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happened at the end of the story?",
+          "options": [
+            "The travelers left the village without eating anything.",
+            "The villagers ate a great feast together from the shared soup.",
+            "The travelers cooked a meal using only magic."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Two weary travelers emerged from the swirling dust of the highway, their silhouettes long and distorted against the dying light of dusk. They stepped into the cobblestone streets of a small, tight-fisted town, their heavy leather bags hanging completely empty at their sides. Every muscle in their bodies ached from the endless miles, and their stomachs echoed with a hollow, persistent emptiness. They knew better than to expect charity, yet necessity drove them to knock on several heavy oak doors along the shadowed lane. Not a single threshold opened with warmth, nor did a single face greet them with anything other than suspicion.",
+              "audioStart": 0.1,
+              "audioEnd": 36.1
+            },
+            {
+              "text": "Behind bolted locks and drawn curtains, the local residents offered the exact same rehearsed excuse with varying degrees of coldness. Every person in the community claimed that they barely possessed enough meager provisions to sustain their own families through the approaching winter. To ask for bread was to ask for the impossible, and to beg for a warm hearth was to invite rejection. Not a single soul in the settlement was willing to offer even a crust or a cup of water to the exhausted strangers. Realizing that direct appeals would yield nothing, the smarter of the two travelers formulated a quiet, calculated plan in the gathering dark.",
+              "audioStart": 36.962,
+              "audioEnd": 73.812
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "They gathered a heap of dry twigs and weathered branches from the overgrown edges of the lane, stacking the wood with practiced care. Striking a flint against steel, they coaxed a bright, crackling fire into existence right in the middle of the main street. The flames cast wild, flickering shadows across the shuttered windows, drawing wary eyes from behind cracked glass. Carefully, the travelers hoisted a massive iron pot filled with cold well water directly over the roaring center of the flames. Within a short span of time, the water began to murmur, then to steam, and finally to boil with vigorous, bubbling energy.",
+              "audioStart": 74.675,
+              "audioEnd": 111.625
+            },
+            {
+              "text": "One of the travelers stooped down and picked up an ordinary, dust-covered stone from the gutter, turning it over in his calloused palm. With a theatrical flourish that demanded attention, he dropped the rock directly into the boiling depths of the iron pot. A particularly curious local resident, unable to contain his bewilderment any longer, crept cautiously out from his doorway and approached the strange scene. He peered down through the rising clouds of steam, blinking against the heat, and demanded to know what kind of madness they were attempting. The traveler smiled warmly, explaining that they were engaged in the ancient art of brewing a wonderful stone meal.",
+              "audioStart": 112.487,
+              "audioEnd": 150.412
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The traveler added, with a perfectly straight face, that the stone soup already tasted remarkably good, though it would undeniably benefit from a pinch of salt. Fascinated by the bizarre spectacle and caught off guard by the sheer confidence of the strangers, the curious resident hurried back to his home. He returned within moments, clutching a small bag of white salt and a handful of bitter field herbs to drop into the bubbling water. Almost immediately, a second neighbor was drawn from the shadows by the rising, savory steam and the sight of the growing crowd. The travelers greeted her warmly, remarking casually that a bit of green foliage would elevate the stone broth into something truly rich and special.",
+              "audioStart": 151.275,
+              "audioEnd": 191.812
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Intrigued despite herself, the woman nodded in agreement and hurried back to her kitchen, returning shortly with a basket of earthy roots and firm potatoes. She sliced them directly into the pot, watching as the pale water clouded into a thick, fragrant broth that smelled surprisingly appetizing. By this time, the rich and inviting aroma had drifted down every alleyway, teasing the senses of the remaining villagers behind their locked doors. More and more people emerged from their homes, some carrying stray carrots, others clutching dried onions or scraps of cured meat from their cellars. Everyone felt compelled to contribute something small to the communal vessel, transforming a solitary prank into a collaborative effort.",
+              "audioStart": 192.675,
+              "audioEnd": 235.15
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The food bubbling within the iron pot was shared generously among the entire gathering of villagers, who crowded closely together in the cooling night air. As they tasted the rich broth, the residents finally understood a profound truth that had eluded them for generations. Working together with open hands could create an abundant feast out of nothing more than a single stone and a collective will. The cold suspicion that had defined their community for so long melted away under the influence of shared warmth and good food. Laughter echoed off the stone walls for the first time in memory, turning an ordinary evening into a genuine celebration of human connection.",
+              "audioStart": 236.012,
+              "audioEnd": 274.368
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Reflecting upon their long journey, the travelers felt a deep sense of satisfaction as they sat among the newly awakened townsfolk. They had arrived with empty bags and aching limbs, facing a wall of hostility and closed doors in a strange place. Yet through patience and a clever design, they had melted the ice of indifference without ever casting a single accusation. The villagers, who had initially guarded their larders like dragons guarding gold, now shared their tables with genuine smiles. The act of boiling water and a stone had broken the invisible barriers that kept the community isolated from the wider world.",
+              "audioStart": 275.23,
+              "audioEnd": 311.48
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The following morning arrived with bright sunshine and a transformed atmosphere throughout the entire village. The travelers packed their light belongings, their stomachs comfortably full and their spirits lifted by the unexpected hospitality of their final evening. As they walked down the dusty road leading out of town, dozens of residents stood at their doorsteps and waved a warm goodbye. The people never forgot the profound lesson of the stone soup, realizing that hoarding resources only impoverished the spirit. Every person in the community changed their attitude toward strangers, vowing to replace suspicion with immediate welcome whenever a traveler passed their way.",
+              "audioStart": 312.342,
+              "audioEnd": 350.38
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Word of the remarkable event traveled swiftly along the trade routes, carrying the story of the stone soup to neighboring villages and distant cities. Hearing the tale, people in other settlements tried to replicate the experiment, discovering the very same valuable lesson in cooperation and shared effort. They learned that community was not merely a collection of houses, but an active commitment to helping one another through hard times. Even the smallest contribution, when pooled with the efforts of others, could make a massive difference in the quality of daily life. The story became a living philosophy, passed down through oral tradition to remind future generations that isolation is a choice nobody needs to make.",
+              "audioStart": 351.243,
+              "audioEnd": 392.793
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Just like the ordinary stone dropped into the pot, a tiny, unassuming idea had catalyzed a profound and lasting cultural transformation. The conclusion of the strange event brought enduring joy to everyone involved, proving that friendship often grows from the simplest acts of kindness. Children returned to playing freely in the streets while their parents watched with relaxed expressions, knowing their neighbors were reliable allies. Everyone agreed that the willingness to share resources had bound the town together in an unbreakable web of mutual trust and support. If any traveler happened to arrive in need of shelter, the entire community was instantly prepared to open their doors and share whatever they had.",
+              "audioStart": 393.655,
+              "audioEnd": 434.043
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The residents knew with absolute certainty that no human being should ever feel alone or abandoned within their borders. Life in the small town remained remarkably peaceful and happy for all the years that followed the famous visit. New visitors frequently stopped by the settlement just to see the exact street corner where the legendary stone soup had been concocted. The residents always welcomed these newcomers with open arms, eager to recount every detail of the miraculous night. It became an annual tradition for the local families to gather in the square and cook a massive pot of stew together in remembrance.",
+              "audioStart": 434.905,
+              "audioEnd": 469.442
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every new generation absorbed the vital lesson embedded in the tradition, ensuring that selfishness never again took root in the town. Friends and family gathered often around crackling fires, sharing stories and food long into the evening hours. Not a single person ever went hungry in that community again, because the villagers understood that true wealth lay in generosity. The stone that started it all was eventually placed on a wooden pedestal in the town hall as a quiet symbol of unity. Through a simple trick played by clever strangers, an entire society learned how to live as one harmonious family.",
+              "audioStart": 470.305,
+              "audioEnd": 507.166
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0208.mp3",
+      "wordTimings": "audio/c1/st-0208.timings.json",
+      "quiz": [
+        {
+          "q": "What specific item did the travelers place into the pot of boiling water first?",
+          "options": [
+            "A regular stone from the ground",
+            "A handful of bitter field herbs",
+            "A small piece of cured meat"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How did the local villagers initially react when the travelers first knocked on their doors?",
+          "options": [
+            "They welcomed them with bread and warm water.",
+            "They refused to share and claimed they had barely enough food.",
+            "They invited them inside to sit by the fire."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the first curious villager bring back after speaking with the travelers by the pot?",
+          "options": [
+            "Roots and potatoes from his cellar",
+            "Some salt and a handful of field herbs",
+            "A large iron pot and dry firewood"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1269 @@
+{
+  "id": "st-0200",
+  "title": "The Blue Jackal",
+  "genre": "classic",
+  "summary": "A hungry man falls into bright blue dye and becomes the king of animals.",
+  "coverScene": "A clever jackal covered in bright blue paint stands proudly in the middle of a quiet forest.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A poor man lives near a big town.",
+              "audioStart": 0.106,
+              "audioEnd": 2.272
+            },
+            {
+              "text": "He wants food every single day.",
+              "audioStart": 3.236,
+              "audioEnd": 5.333
+            },
+            {
+              "text": "One morning, he walks near a house.",
+              "audioStart": 6.292,
+              "audioEnd": 8.681
+            },
+            {
+              "text": "A man has a color vessel.",
+              "audioStart": 9.639,
+              "audioEnd": 11.306
+            },
+            {
+              "text": "The color is a special kind.",
+              "audioStart": 12.264,
+              "audioEnd": 14.097
+            },
+            {
+              "text": "The man runs around the place.",
+              "audioStart": 15.056,
+              "audioEnd": 16.944
+            },
+            {
+              "text": "He falls into the color vessel.",
+              "audioStart": 17.903,
+              "audioEnd": 19.764
+            },
+            {
+              "text": "He gets out of the vessel.",
+              "audioStart": 20.722,
+              "audioEnd": 22.139
+            },
+            {
+              "text": "His body is a new color now.",
+              "audioStart": 23.097,
+              "audioEnd": 24.944
+            },
+            {
+              "text": "No one knows him right now.",
+              "audioStart": 25.903,
+              "audioEnd": 27.486
+            },
+            {
+              "text": "He thinks about his new look.",
+              "audioStart": 28.444,
+              "audioEnd": 30.083
+            },
+            {
+              "text": "He walks back to the forest.",
+              "audioStart": 31.042,
+              "audioEnd": 32.819
+            },
+            {
+              "text": "Many other things live right there.",
+              "audioStart": 33.778,
+              "audioEnd": 35.653
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The group sees the color body.",
+              "audioStart": 36.611,
+              "audioEnd": 38.431
+            },
+            {
+              "text": "They stop and look at him.",
+              "audioStart": 39.389,
+              "audioEnd": 40.833
+            },
+            {
+              "text": "Much care is in the group.",
+              "audioStart": 41.792,
+              "audioEnd": 43.292
+            },
+            {
+              "text": "The large cat is the head.",
+              "audioStart": 44.25,
+              "audioEnd": 45.833
+            },
+            {
+              "text": "He asks who is standing there.",
+              "audioStart": 46.792,
+              "audioEnd": 48.569
+            },
+            {
+              "text": "The wise man speaks to them.",
+              "audioStart": 49.528,
+              "audioEnd": 51.278
+            },
+            {
+              "text": "He says a high power helps.",
+              "audioStart": 52.236,
+              "audioEnd": 54
+            },
+            {
+              "text": "This power gives him the rule.",
+              "audioStart": 54.958,
+              "audioEnd": 56.694
+            },
+            {
+              "text": "The group believes every single word.",
+              "audioStart": 57.653,
+              "audioEnd": 59.792
+            },
+            {
+              "text": "They are very quiet too.",
+              "audioStart": 60.75,
+              "audioEnd": 62.264
+            },
+            {
+              "text": "They bend down to the man.",
+              "audioStart": 63.222,
+              "audioEnd": 64.667
+            },
+            {
+              "text": "He is the new head now.",
+              "audioStart": 65.625,
+              "audioEnd": 66.931
+            },
+            {
+              "text": "He gets good food every day.",
+              "audioStart": 67.889,
+              "audioEnd": 69.736
+            },
+            {
+              "text": "His side grows very big now.",
+              "audioStart": 70.694,
+              "audioEnd": 72.542
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One evening, other people make sound.",
+              "audioStart": 73.5,
+              "audioEnd": 75.875
+            },
+            {
+              "text": "The color man hears them.",
+              "audioStart": 76.833,
+              "audioEnd": 78.361
+            },
+            {
+              "text": "He wants to join them too.",
+              "audioStart": 79.319,
+              "audioEnd": 80.944
+            },
+            {
+              "text": "He opens his face up.",
+              "audioStart": 81.903,
+              "audioEnd": 83.431
+            },
+            {
+              "text": "He starts to make the sound.",
+              "audioStart": 84.389,
+              "audioEnd": 86.056
+            },
+            {
+              "text": "The group hears his true sound.",
+              "audioStart": 87.014,
+              "audioEnd": 88.764
+            },
+            {
+              "text": "The group knows the way out.",
+              "audioStart": 89.722,
+              "audioEnd": 91.306
+            },
+            {
+              "text": "They are very bad to him.",
+              "audioStart": 92.264,
+              "audioEnd": 93.694
+            },
+            {
+              "text": "They run to him right away.",
+              "audioStart": 94.653,
+              "audioEnd": 96.139
+            },
+            {
+              "text": "The man runs away from them.",
+              "audioStart": 97.097,
+              "audioEnd": 98.736
+            },
+            {
+              "text": "His new color brings his end.",
+              "audioStart": 99.694,
+              "audioEnd": 101.514
+            },
+            {
+              "text": "Colors cannot change true life.",
+              "audioStart": 102.472,
+              "audioEnd": 104.528
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0200.mp3",
+      "wordTimings": "audio/a1/st-0200.timings.json",
+      "quiz": [
+        {
+          "q": "Where does the jackal fall?",
+          "options": [
+            "Into blue paint",
+            "Into the river",
+            "Into a hole"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who is the king of the forest?",
+          "options": [
+            "The jackal",
+            "The lion",
+            "The painter"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What makes the animals know the trick?",
+          "options": [
+            "His blue color washes off",
+            "He starts to howl",
+            "The lion tells them"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once, an animal lived near a large town.",
+              "audioStart": 0.106,
+              "audioEnd": 2.856
+            },
+            {
+              "text": "Every day, he went into the town for food.",
+              "audioStart": 3.819,
+              "audioEnd": 6.611
+            },
+            {
+              "text": "One morning, the animal walked close to a house.",
+              "audioStart": 7.569,
+              "audioEnd": 10.611
+            },
+            {
+              "text": "A painter kept paint items there.",
+              "audioStart": 11.569,
+              "audioEnd": 13.625
+            },
+            {
+              "text": "The animal ran around and fell into blue paint.",
+              "audioStart": 14.583,
+              "audioEnd": 17.403
+            },
+            {
+              "text": "He got out, and his body was blue.",
+              "audioStart": 18.361,
+              "audioEnd": 20.736
+            },
+            {
+              "text": "He looked at himself in the water.",
+              "audioStart": 21.694,
+              "audioEnd": 23.569
+            },
+            {
+              "text": "He knew nobody would recognize him now.",
+              "audioStart": 24.528,
+              "audioEnd": 26.681
+            },
+            {
+              "text": "He thought he could use this new look.",
+              "audioStart": 27.639,
+              "audioEnd": 29.528
+            },
+            {
+              "text": "He walked back toward the forest with other animals.",
+              "audioStart": 30.486,
+              "audioEnd": 33.458
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The other animals saw the blue person approach.",
+              "audioStart": 34.417,
+              "audioEnd": 36.972
+            },
+            {
+              "text": "They stopped and stared at him.",
+              "audioStart": 37.931,
+              "audioEnd": 39.556
+            },
+            {
+              "text": "Fear came through the group quickly.",
+              "audioStart": 40.514,
+              "audioEnd": 42.361
+            },
+            {
+              "text": "The big animal was the leader of the forest.",
+              "audioStart": 43.319,
+              "audioEnd": 45.722
+            },
+            {
+              "text": "He stepped forward and asked who the person was.",
+              "audioStart": 46.681,
+              "audioEnd": 49.458
+            },
+            {
+              "text": "The animal spoke with a strong voice.",
+              "audioStart": 50.417,
+              "audioEnd": 52.653
+            },
+            {
+              "text": "He claimed color made him rule them.",
+              "audioStart": 53.611,
+              "audioEnd": 55.625
+            },
+            {
+              "text": "The animals believed every word because of fear.",
+              "audioStart": 56.583,
+              "audioEnd": 59.403
+            },
+            {
+              "text": "They went down and made him their new leader.",
+              "audioStart": 60.361,
+              "audioEnd": 62.611
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "For several days, the blue animal enjoyed good food.",
+              "audioStart": 63.569,
+              "audioEnd": 66.972
+            },
+            {
+              "text": "The others served him with respect.",
+              "audioStart": 67.931,
+              "audioEnd": 69.792
+            },
+            {
+              "text": "His power grew strong.",
+              "audioStart": 70.75,
+              "audioEnd": 72.236
+            },
+            {
+              "text": "He forgot he was just a common animal.",
+              "audioStart": 73.194,
+              "audioEnd": 75.472
+            },
+            {
+              "text": "One evening, other animals began to sound far away.",
+              "audioStart": 76.431,
+              "audioEnd": 79.625
+            },
+            {
+              "text": "The blue animal heard the normal sound.",
+              "audioStart": 80.583,
+              "audioEnd": 82.653
+            },
+            {
+              "text": "He felt a deep wish to join them.",
+              "audioStart": 83.611,
+              "audioEnd": 85.528
+            },
+            {
+              "text": "He forgot the risk.",
+              "audioStart": 86.486,
+              "audioEnd": 87.806
+            },
+            {
+              "text": "He opened his face part and started to sound.",
+              "audioStart": 88.764,
+              "audioEnd": 91.403
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The forest animals heard his true voice.",
+              "audioStart": 92.361,
+              "audioEnd": 94.708
+            },
+            {
+              "text": "They realized the game.",
+              "audioStart": 95.667,
+              "audioEnd": 97.069
+            },
+            {
+              "text": "The animals felt bad by his lies.",
+              "audioStart": 98.028,
+              "audioEnd": 100.292
+            },
+            {
+              "text": "They attacked the animal.",
+              "audioStart": 101.25,
+              "audioEnd": 102.667
+            },
+            {
+              "text": "The animal ran away as fast as possible.",
+              "audioStart": 103.625,
+              "audioEnd": 106.181
+            },
+            {
+              "text": "His power brought his end.",
+              "audioStart": 107.139,
+              "audioEnd": 108.722
+            },
+            {
+              "text": "Bad colors cannot cover a true person.",
+              "audioStart": 109.681,
+              "audioEnd": 112.194
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0200.mp3",
+      "wordTimings": "audio/a2/st-0200.timings.json",
+      "quiz": [
+        {
+          "q": "Where did the jackal fall into blue paint?",
+          "options": [
+            "Near a painter house",
+            "Inside a deep cave",
+            "At the forest center"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who made the blue jackal their new leader?",
+          "options": [
+            "The town people",
+            "The forest animals",
+            "The other jackals"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why did the animals attack the jackal at the end?",
+          "options": [
+            "He tried to eat them",
+            "They heard his true voice",
+            "He stole their food"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a poor dog lived near a large town.",
+              "audioStart": 0.1,
+              "audioEnd": 3.325
+            },
+            {
+              "text": "Every day, he went into the town because he wanted to find some food.",
+              "audioStart": 4.188,
+              "audioEnd": 7.95
+            },
+            {
+              "text": "One morning, the animal walked too close to a house where a man kept his paint.",
+              "audioStart": 8.812,
+              "audioEnd": 13.15
+            },
+            {
+              "text": "While he was running around, he fell right into a big container of blue paint.",
+              "audioStart": 14.012,
+              "audioEnd": 17.975
+            },
+            {
+              "text": "When the animal climbed back out, his entire body was bright blue.",
+              "audioStart": 18.837,
+              "audioEnd": 22.525
+            },
+            {
+              "text": "He looked at himself in wonder, realizing that nobody would recognize him now.",
+              "audioStart": 23.387,
+              "audioEnd": 27.475
+            },
+            {
+              "text": "The dog thought that he could use this strange new look to his advantage.",
+              "audioStart": 28.337,
+              "audioEnd": 31.738
+            },
+            {
+              "text": "He walked back toward the forest, where many wild animals lived together.",
+              "audioStart": 32.6,
+              "audioEnd": 36.5
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the other animals saw the blue animal approach, they stopped and stared.",
+              "audioStart": 37.362,
+              "audioEnd": 40.962
+            },
+            {
+              "text": "They had never seen anything like him, and fear quickly spread through the group.",
+              "audioStart": 41.825,
+              "audioEnd": 45.763
+            },
+            {
+              "text": "The king of the forest stepped forward and asked who he was.",
+              "audioStart": 46.625,
+              "audioEnd": 49.7
+            },
+            {
+              "text": "The dog spoke with a high voice.",
+              "audioStart": 50.562,
+              "audioEnd": 52.337
+            },
+            {
+              "text": "He claimed that a strange power had painted him specially to rule over them.",
+              "audioStart": 53.2,
+              "audioEnd": 56.85
+            },
+            {
+              "text": "Because they were afraid of his strange color, the animals believed every word he said.",
+              "audioStart": 57.712,
+              "audioEnd": 62.175
+            },
+            {
+              "text": "They went down before him and made him their new leader.",
+              "audioStart": 63.038,
+              "audioEnd": 65.525
+            },
+            {
+              "text": "For several days, the blue dog enjoyed great food and respect while the others served him.",
+              "audioStart": 66.388,
+              "audioEnd": 71.138
+            },
+            {
+              "text": "His mind grew so strong that he forgot he was just a common dog.",
+              "audioStart": 72,
+              "audioEnd": 75.525
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One evening, a large group of dogs began to make noise somewhere in the distance.",
+              "audioStart": 76.388,
+              "audioEnd": 80.662
+            },
+            {
+              "text": "The blue dog heard the familiar sound and felt a deep urge to join them.",
+              "audioStart": 81.525,
+              "audioEnd": 85.175
+            },
+            {
+              "text": "Without thinking about the danger, he opened his mouth.",
+              "audioStart": 86.037,
+              "audioEnd": 88.938
+            },
+            {
+              "text": "He started to make noise just like them.",
+              "audioStart": 89.8,
+              "audioEnd": 91.912
+            },
+            {
+              "text": "The other forest animals heard his true voice and realized the truth.",
+              "audioStart": 92.775,
+              "audioEnd": 96.338
+            },
+            {
+              "text": "The wild animals attacked the animal.",
+              "audioStart": 97.2,
+              "audioEnd": 99.162
+            },
+            {
+              "text": "The dog ran away as fast as he could, but his mind had brought his end.",
+              "audioStart": 100.025,
+              "audioEnd": 103.787
+            },
+            {
+              "text": "From that day on, everyone knew that simple colors cannot hide a true identity.",
+              "audioStart": 104.65,
+              "audioEnd": 108.925
+            },
+            {
+              "text": "He has learned his lesson well after that terrible event.",
+              "audioStart": 109.787,
+              "audioEnd": 112.612
+            },
+            {
+              "text": "He has never forgotten how dangerous it is to hide your true self.",
+              "audioStart": 113.475,
+              "audioEnd": 116.75
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0200.mp3",
+      "wordTimings": "audio/b1/st-0200.timings.json",
+      "quiz": [
+        {
+          "q": "Where did the jackal fall into the blue paint?",
+          "options": [
+            "Near a painter house",
+            "Inside a dark cave",
+            "Deep in the forest"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who was the king of the forest who asked who the blue creature was?",
+          "options": [
+            "The clever jackal",
+            "The lion",
+            "A wild beast"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What made the other animals realize the trick?",
+          "options": [
+            "They saw the blue paint wash off",
+            "They heard his true voice when he howled",
+            "The lion discovered the truth"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, a thin dog lived near a large town.",
+              "audioStart": 0.1,
+              "audioEnd": 3.263
+            },
+            {
+              "text": "Every day, he went into the town because he wanted to find some food.",
+              "audioStart": 4.125,
+              "audioEnd": 7.888
+            },
+            {
+              "text": "One morning, the animal walked too close to a house where a painter kept his boxes.",
+              "audioStart": 8.75,
+              "audioEnd": 13.4
+            },
+            {
+              "text": "While he was running around, he fell right into a big container of blue paint.",
+              "audioStart": 14.262,
+              "audioEnd": 18.225
+            },
+            {
+              "text": "When the creature climbed back out, his entire body was bright blue.",
+              "audioStart": 19.087,
+              "audioEnd": 22.738
+            },
+            {
+              "text": "He looked at himself in wonder, realizing that nobody would recognize him now.",
+              "audioStart": 23.6,
+              "audioEnd": 27.688
+            },
+            {
+              "text": "The dog thought that he could use this strange new look to his advantage.",
+              "audioStart": 28.55,
+              "audioEnd": 31.95
+            },
+            {
+              "text": "He walked back toward the forest, where many wild animals lived together.",
+              "audioStart": 32.812,
+              "audioEnd": 36.712
+            },
+            {
+              "text": "When the other creatures saw the blue person approach, they stopped and stared.",
+              "audioStart": 37.575,
+              "audioEnd": 41.2
+            },
+            {
+              "text": "They had never seen anything like him, and fear quickly spread through the group.",
+              "audioStart": 42.062,
+              "audioEnd": 46
+            },
+            {
+              "text": "The leader, who was the king of the forest, stepped forward and asked who he was.",
+              "audioStart": 46.862,
+              "audioEnd": 51.275
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The smart dog spoke with a proud voice, claiming that God had painted him specially to rule over them.",
+              "audioStart": 52.138,
+              "audioEnd": 57.4
+            },
+            {
+              "text": "Because they were afraid of his strange color, the animals believed every word he said.",
+              "audioStart": 58.263,
+              "audioEnd": 62.725
+            },
+            {
+              "text": "They bent down before him and made him their new boss.",
+              "audioStart": 63.587,
+              "audioEnd": 66.15
+            },
+            {
+              "text": "For several days, the blue dog enjoyed great food and respect while the others served him.",
+              "audioStart": 67.013,
+              "audioEnd": 71.763
+            },
+            {
+              "text": "His pride grew so strong that he forgot he was just a common animal.",
+              "audioStart": 72.625,
+              "audioEnd": 76.2
+            },
+            {
+              "text": "One evening, a large group of dogs began to cry somewhere in the distance.",
+              "audioStart": 77.062,
+              "audioEnd": 81.013
+            },
+            {
+              "text": "The blue dog heard the familiar sound and felt a deep urge to join them.",
+              "audioStart": 81.875,
+              "audioEnd": 85.525
+            },
+            {
+              "text": "Without thinking about the danger, he opened his mouth and started to cry just like them.",
+              "audioStart": 86.388,
+              "audioEnd": 90.862
+            },
+            {
+              "text": "The other forest animals heard his true voice and realized the trick.",
+              "audioStart": 91.725,
+              "audioEnd": 95.275
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Angered by his lies, the wild animals attacked the silly creature.",
+              "audioStart": 96.138,
+              "audioEnd": 99.875
+            },
+            {
+              "text": "The dog ran away as fast as he could, but his pride had brought his end.",
+              "audioStart": 100.737,
+              "audioEnd": 104.562
+            },
+            {
+              "text": "From that day on, everyone knew that false colors cannot hide a true identity.",
+              "audioStart": 105.425,
+              "audioEnd": 109.65
+            },
+            {
+              "text": "He had lived a lie for many days, but the truth came out in the end.",
+              "audioStart": 110.513,
+              "audioEnd": 114.112
+            },
+            {
+              "text": "If he had stayed silent, the animals might never have known the truth.",
+              "audioStart": 114.975,
+              "audioEnd": 118.487
+            },
+            {
+              "text": "The forest returned to normal after the blue creature left the area.",
+              "audioStart": 119.35,
+              "audioEnd": 122.775
+            },
+            {
+              "text": "Every single animal learned an important lesson about truth and pride.",
+              "audioStart": 123.638,
+              "audioEnd": 127.013
+            },
+            {
+              "text": "Nobody trusted him again because his actions showed his true character.",
+              "audioStart": 127.875,
+              "audioEnd": 131.488
+            },
+            {
+              "text": "The story spread across the whole region, teaching a lesson to everyone who heard it.",
+              "audioStart": 132.35,
+              "audioEnd": 136.637
+            },
+            {
+              "text": "True identity always wins over false appearances in the end.",
+              "audioStart": 137.5,
+              "audioEnd": 140.775
+            },
+            {
+              "text": "He ran through the trees until he reached the far side of the forest where nobody could see him.",
+              "audioStart": 141.637,
+              "audioEnd": 146.125
+            },
+            {
+              "text": "If he had known how bad the situation would become, he never would have entered the town that morning.",
+              "audioStart": 146.988,
+              "audioEnd": 151.75
+            },
+            {
+              "text": "The local residents often told this story to their children so that everyone would remember the important lesson.",
+              "audioStart": 152.613,
+              "audioEnd": 157.9
+            },
+            {
+              "text": "False colors will always fade when the truth finally comes out into the open space of reality.",
+              "audioStart": 158.762,
+              "audioEnd": 163.575
+            },
+            {
+              "text": "Every single person who heard the story understood that honesty is better than living a lie.",
+              "audioStart": 164.438,
+              "audioEnd": 168.85
+            },
+            {
+              "text": "The smart leader of the forest made sure that no other strange animal could trick them again.",
+              "audioStart": 169.713,
+              "audioEnd": 174.125
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0200.mp3",
+      "wordTimings": "audio/b2/st-0200.timings.json",
+      "quiz": [
+        {
+          "q": "What caused the jackal to turn blue?",
+          "options": [
+            "He fell into a container of blue paint.",
+            "He rolled in blue flowers.",
+            "The lion painted him."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why did the other animals make the jackal their leader?",
+          "options": [
+            "They wanted a strong fighter.",
+            "They were afraid of his strange color and believed his claims.",
+            "He won a contest."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How did the other animals discover the truth about the jackal?",
+          "options": [
+            "The paint washed off in the river.",
+            "Another jackal told them the secret.",
+            "He started to howl like a normal jackal."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Once upon a time, residing near the chaotic periphery of a bustling town, there lived a remarkably thin and desperate dog.",
+              "audioStart": 0.1,
+              "audioEnd": 6.975
+            },
+            {
+              "text": "His daily existence was an exhausting trial of survival, driven entirely by the relentless pangs of hunger that gnawed at his ribs.",
+              "audioStart": 7.838,
+              "audioEnd": 15.125
+            },
+            {
+              "text": "Every single morning, compelled by the desperate need to sustain himself, he ventured away from the quiet alleys and into the crowded human settlement.",
+              "audioStart": 15.988,
+              "audioEnd": 23.913
+            },
+            {
+              "text": "He wandered through the bustling market squares and narrow pathways, searching eagerly for discarded scraps of food or forgotten portions.",
+              "audioStart": 24.775,
+              "audioEnd": 32.075
+            },
+            {
+              "text": "The town was a labyrinth of noise and strange smells, offering both potential salvation and immediate danger to a stray creature.",
+              "audioStart": 32.938,
+              "audioEnd": 39.987
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On one particularly fateful morning, the unfortunate animal walked far too close to a quiet house owned by a local painter.",
+              "audioStart": 40.85,
+              "audioEnd": 47.712
+            },
+            {
+              "text": "The artist kept numerous open boxes and vats filled with vibrant pigments, creating a pungent aroma that drifted into the street.",
+              "audioStart": 48.575,
+              "audioEnd": 55.538
+            },
+            {
+              "text": "While the wandering dog was darting frantically around the courtyard, a sudden movement startled him.",
+              "audioStart": 56.4,
+              "audioEnd": 61.288
+            },
+            {
+              "text": "He lost his footing entirely and tumbled headfirst into a massive, deep container of heavy blue paint.",
+              "audioStart": 62.15,
+              "audioEnd": 67.975
+            },
+            {
+              "text": "The thick, vivid liquid completely submerged him, coating his fur in an unnatural, startling shade of azure.",
+              "audioStart": 68.838,
+              "audioEnd": 75.088
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When the shivering creature finally managed to climb back out, his entire appearance had been radically transformed.",
+              "audioStart": 75.95,
+              "audioEnd": 81.987
+            },
+            {
+              "text": "No longer did he resemble a humble, dust-covered stray; instead, his coat shone with a brilliant, supernatural blue.",
+              "audioStart": 82.85,
+              "audioEnd": 89.688
+            },
+            {
+              "text": "He stood by a puddle, staring down at his reflection in absolute wonder and disbelief.",
+              "audioStart": 90.55,
+              "audioEnd": 95.375
+            },
+            {
+              "text": "A cunning realization slowly began to form in his clever mind, recognizing that not even his closest companions would recognize him now.",
+              "audioStart": 96.237,
+              "audioEnd": 103.8
+            },
+            {
+              "text": "He quickly understood that he could leverage this bizarre accident to his distinct advantage in the wild world beyond the town.",
+              "audioStart": 104.662,
+              "audioEnd": 110.888
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Without hesitation, the transformed dog turned away from the human settlement and trotted steadily back toward the deep forest.",
+              "audioStart": 111.75,
+              "audioEnd": 118.338
+            },
+            {
+              "text": "This ancient woodland was inhabited by a diverse community of wild animals who lived according to their own strict laws.",
+              "audioStart": 119.2,
+              "audioEnd": 125.15
+            },
+            {
+              "text": "As the strange blue figure approached the shaded paths, the other creatures abruptly stopped their daily routines and stared.",
+              "audioStart": 126.013,
+              "audioEnd": 132.4
+            },
+            {
+              "text": "Never before had any of them witnessed a living being with such an extraordinary and impossible coloration.",
+              "audioStart": 133.262,
+              "audioEnd": 138.625
+            },
+            {
+              "text": "A palpable wave of apprehension and fear rippled swiftly through the assembled group of deer, foxes, and boars.",
+              "audioStart": 139.488,
+              "audioEnd": 145.85
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sensing their hesitation, the alpha predator of the region, who held the undisputed title of forest king, cautiously stepped forward.",
+              "audioStart": 146.713,
+              "audioEnd": 154.338
+            },
+            {
+              "text": "He fixed his intense gaze on the newcomer and demanded to know the identity and purpose of this peculiar visitor.",
+              "audioStart": 155.2,
+              "audioEnd": 160.8
+            },
+            {
+              "text": "Instead of showing any sign of panic, the clever dog adopted an upright posture and spoke with a remarkably proud, resonant voice.",
+              "audioStart": 161.662,
+              "audioEnd": 169.125
+            },
+            {
+              "text": "He boldly claimed that the supreme forces of the cosmos had painted him in these royal hues specifically to rule over them.",
+              "audioStart": 169.988,
+              "audioEnd": 176.225
+            },
+            {
+              "text": "Because they were deeply intimidated by his unprecedented color, the superstitious animals believed every single word of his fabricated tale.",
+              "audioStart": 177.088,
+              "audioEnd": 184.625
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Overwhelmed by a mixture of awe and terror, the majestic stags and fierce wolves bent their heads in absolute submission.",
+              "audioStart": 185.488,
+              "audioEnd": 191.938
+            },
+            {
+              "text": "They formally declared him their new sovereign leader, offering complete obedience to his every command.",
+              "audioStart": 192.8,
+              "audioEnd": 198.025
+            },
+            {
+              "text": "For several luxurious days, the blue impostor basked in unprecedented comfort, enjoying rich food and absolute deference from his subjects.",
+              "audioStart": 198.887,
+              "audioEnd": 207.113
+            },
+            {
+              "text": "The forest dwellers served him continuously, ensuring that his every whim was satisfied without question or delay.",
+              "audioStart": 207.975,
+              "audioEnd": 214.2
+            },
+            {
+              "text": "So intoxicating was this sudden elevation in status that his arrogance swelled beyond all reasonable bounds.",
+              "audioStart": 215.062,
+              "audioEnd": 220.988
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His pride grew so overwhelmingly strong that he completely forgot his humble origins as a common, scavenging town dog.",
+              "audioStart": 221.85,
+              "audioEnd": 228.55
+            },
+            {
+              "text": "He began to view himself as a truly noble creature, far superior to the forest folk who bowed before him.",
+              "audioStart": 229.412,
+              "audioEnd": 235.325
+            },
+            {
+              "text": "However, fate is rarely kind to those who build their kingdoms upon fragile falsehoods and deceit.",
+              "audioStart": 236.188,
+              "audioEnd": 241.262
+            },
+            {
+              "text": "One quiet evening, as the shadows lengthened across the mossy ground, a large pack of ordinary dogs began to howl in the distance.",
+              "audioStart": 242.125,
+              "audioEnd": 250.456
+            },
+            {
+              "text": "Hearing that familiar, resonant sound vibrating through the cool night air struck a deep, primal chord within the blue dog's soul.",
+              "audioStart": 251.318,
+              "audioEnd": 257.918
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A powerful, irresistible urge to join his own kind surged upward from the depths of his being.",
+              "audioStart": 258.781,
+              "audioEnd": 263.88
+            },
+            {
+              "text": "Without taking a single second to calculate the catastrophic danger of his impulsive action, he lifted his snout toward the canopy.",
+              "audioStart": 264.743,
+              "audioEnd": 271.906
+            },
+            {
+              "text": "He opened his jaws wide and started to howl with the exact same frantic rhythm and tone as the distant pack.",
+              "audioStart": 272.768,
+              "audioEnd": 278.305
+            },
+            {
+              "text": "The illusion shattered instantly as his unmistakable, authentic voice echoed clearly through the silent trees.",
+              "audioStart": 279.168,
+              "audioEnd": 284.955
+            },
+            {
+              "text": "The surrounding forest animals froze in absolute shock as they heard the unmistakable sound of a common dog.",
+              "audioStart": 285.818,
+              "audioEnd": 291.343
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Realizing that they had been cruelly deceived by an ordinary stray, the wild creatures were consumed by sudden rage.",
+              "audioStart": 292.205,
+              "audioEnd": 298.393
+            },
+            {
+              "text": "Blinded by fury at his elaborate lies, the powerful beasts lunged forward to punish the fraudulent creature.",
+              "audioStart": 299.255,
+              "audioEnd": 305.305
+            },
+            {
+              "text": "Panic finally seizing his heart, the terrified dog turned and fled down the familiar paths as fast as his trembling legs could carry him.",
+              "audioStart": 306.168,
+              "audioEnd": 313.668
+            },
+            {
+              "text": "He sprinted blindly through the dense undergrowth, acutely aware that his own vanity had brought about his total ruin.",
+              "audioStart": 314.531,
+              "audioEnd": 320.318
+            },
+            {
+              "text": "From that exact moment onward, every resident of the woodland understood a harsh and enduring truth about false appearances.",
+              "audioStart": 321.18,
+              "audioEnd": 327.593
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He had managed to sustain a dangerous lie for many days, but the undeniable truth had ultimately broken through.",
+              "audioStart": 328.455,
+              "audioEnd": 334.63
+            },
+            {
+              "text": "Had he possessed the wisdom to remain silent that evening, the forest animals might never have uncovered his deception.",
+              "audioStart": 335.493,
+              "audioEnd": 341.481
+            },
+            {
+              "text": "The woodland gradually returned to its normal rhythm only after the disgraced creature had permanently fled the territory.",
+              "audioStart": 342.343,
+              "audioEnd": 348.343
+            },
+            {
+              "text": "Every single animal absorbed a profound lesson regarding the dangerous intersection of unwarranted pride and deliberate falsehood.",
+              "audioStart": 349.205,
+              "audioEnd": 355.805
+            },
+            {
+              "text": "Not a single creature would ever trust him again, because his desperate actions had permanently revealed his true, flawed character.",
+              "audioStart": 356.668,
+              "audioEnd": 363.781
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The humiliating story spread rapidly across the entire region, serving as a permanent cautionary tale for all who heard it.",
+              "audioStart": 364.643,
+              "audioEnd": 371.406
+            },
+            {
+              "text": "It reminded young and old alike that authentic identity will always inevitably triumph over superficial deception.",
+              "audioStart": 372.268,
+              "audioEnd": 378.231
+            },
+            {
+              "text": "He continued running through the dense thickets until he reached the distant, desolate edge of the forest where no eyes could follow.",
+              "audioStart": 379.093,
+              "audioEnd": 385.531
+            },
+            {
+              "text": "If only he had anticipated the disastrous consequences, he never would have wandered near the painter's courtyard that fateful morning.",
+              "audioStart": 386.393,
+              "audioEnd": 393.08
+            },
+            {
+              "text": "The local villagers frequently recounted this strange event to their children to ensure the moral lesson endured through the generations.",
+              "audioStart": 393.943,
+              "audioEnd": 400.618
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "False colors, they explained, must inevitably fade when exposed to the uncompromising light of reality.",
+              "audioStart": 401.481,
+              "audioEnd": 407.268
+            },
+            {
+              "text": "Every listener readily understood that a modest life rooted in honesty is infinitely superior to an existence built upon lies.",
+              "audioStart": 408.13,
+              "audioEnd": 414.83
+            },
+            {
+              "text": "The wise leaders of the forest community instituted new safeguards to guarantee that no imposter could ever manipulate them again.",
+              "audioStart": 415.693,
+              "audioEnd": 422.43
+            },
+            {
+              "text": "Peace was restored beneath the ancient trees, leaving behind only the whispered memory of the blue dog.",
+              "audioStart": 423.293,
+              "audioEnd": 428.493
+            },
+            {
+              "text": "Thus, truth reclaimed its rightful place as the ultimate foundation of trust among all living inhabitants of the region.",
+              "audioStart": 429.356,
+              "audioEnd": 435.731
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0200.mp3",
+      "wordTimings": "audio/c1/st-0200.timings.json",
+      "quiz": [
+        {
+          "q": "How did the dog's coat become bright blue?",
+          "options": [
+            "He rolled in colored dust in the forest.",
+            "He fell into a large container of paint.",
+            "He was born with a rare genetic mutation."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why did the forest animals initially obey the dog?",
+          "options": [
+            "They believed he was sent by divine forces because of his color.",
+            "They recognized him as a legendary warrior from the town.",
+            "They were forced to serve him under the threat of physical violence."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What specific action caused the forest animals to discover the trick?",
+          "options": [
+            "He tried to steal food from the royal storage.",
+            "He forgot himself and howled like a common dog.",
+            "He confessed his true identity to the forest king."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

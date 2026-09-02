@@ -1,0 +1,1531 @@
+{
+  "id": "st-0268",
+  "title": "Chicken Little (Henny Penny)",
+  "genre": "classic",
+  "summary": "A frightened bird thinks the sky is falling and gathers friends for a wild journey.",
+  "coverScene": "A little chicken looks up in surprise while a small piece falls from above onto the green grass.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Little Little lives in a small house.",
+              "audioStart": 0.106,
+              "audioEnd": 2.119
+            },
+            {
+              "text": "She lives in a small house.",
+              "audioStart": 3.083,
+              "audioEnd": 4.736
+            },
+            {
+              "text": "She lives in a small house.",
+              "audioStart": 5.694,
+              "audioEnd": 7.347
+            },
+            {
+              "text": "She walks under a big plant.",
+              "audioStart": 8.306,
+              "audioEnd": 10.069
+            },
+            {
+              "text": "Something falls on her head.",
+              "audioStart": 11.028,
+              "audioEnd": 12.625
+            },
+            {
+              "text": "She looks up at the open top.",
+              "audioStart": 13.583,
+              "audioEnd": 15.333
+            },
+            {
+              "text": "She says the top is down.",
+              "audioStart": 16.292,
+              "audioEnd": 17.903
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She says the top is down.",
+              "audioStart": 18.861,
+              "audioEnd": 20.472
+            },
+            {
+              "text": "She runs down the long way.",
+              "audioStart": 21.431,
+              "audioEnd": 23.097
+            },
+            {
+              "text": "She runs down the long way.",
+              "audioStart": 24.056,
+              "audioEnd": 25.722
+            },
+            {
+              "text": "She meets Henny Penny.",
+              "audioStart": 26.681,
+              "audioEnd": 28.028
+            },
+            {
+              "text": "Henny Penny runs with her.",
+              "audioStart": 28.986,
+              "audioEnd": 30.583
+            },
+            {
+              "text": "They meet Cocky Locky.",
+              "audioStart": 31.542,
+              "audioEnd": 33.028
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He joins the group now.",
+              "audioStart": 33.986,
+              "audioEnd": 35.472
+            },
+            {
+              "text": "He joins the group now.",
+              "audioStart": 36.431,
+              "audioEnd": 37.917
+            },
+            {
+              "text": "He joins the group now.",
+              "audioStart": 38.875,
+              "audioEnd": 40.361
+            },
+            {
+              "text": "They meet Ducky Lucky and Goosey Loosey.",
+              "audioStart": 41.319,
+              "audioEnd": 43.75
+            },
+            {
+              "text": "Many other living things run together.",
+              "audioStart": 44.708,
+              "audioEnd": 46.917
+            },
+            {
+              "text": "They meet Turkey Lurkey.",
+              "audioStart": 47.875,
+              "audioEnd": 49.347
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Turkey Lurkey asks about the top.",
+              "audioStart": 50.306,
+              "audioEnd": 52.403
+            },
+            {
+              "text": "Bad friend Foxy comes out.",
+              "audioStart": 53.361,
+              "audioEnd": 55.25
+            },
+            {
+              "text": "Bad friend Foxy leads them away.",
+              "audioStart": 56.208,
+              "audioEnd": 58.389
+            },
+            {
+              "text": "They follow him into a hole.",
+              "audioStart": 59.347,
+              "audioEnd": 60.917
+            },
+            {
+              "text": "They never come out of the room.",
+              "audioStart": 61.875,
+              "audioEnd": 63.444
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0268.mp3",
+      "wordTimings": "audio/a1/st-0268.timings.json",
+      "quiz": [
+        {
+          "q": "What hits Chicken Little on the head?",
+          "options": [
+            "Something from the sky",
+            "A big rock",
+            "A small bird"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who is the first friend Chicken Little meets?",
+          "options": [
+            "Cocky Locky",
+            "Henny Penny",
+            "Foxy Loxy"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Where do the animals go at the end?",
+          "options": [
+            "Into a dark cave",
+            "Back to the house",
+            "Across the green garden"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Little animal lived in a small house near the green garden.",
+              "audioStart": 0.106,
+              "audioEnd": 3.217
+            },
+            {
+              "text": "One fine morning, she walked under a large tree for food.",
+              "audioStart": 4.181,
+              "audioEnd": 7.75
+            },
+            {
+              "text": "Suddenly, something hit her head hard.",
+              "audioStart": 8.708,
+              "audioEnd": 11.069
+            },
+            {
+              "text": "She looked up quickly, but she only saw blue light.",
+              "audioStart": 12.028,
+              "audioEnd": 15.139
+            },
+            {
+              "text": "What a bad day!",
+              "audioStart": 16.097,
+              "audioEnd": 17.139
+            },
+            {
+              "text": "She felt very much worry.",
+              "audioStart": 18.097,
+              "audioEnd": 19.722
+            },
+            {
+              "text": "The world is falling down upon the ground.",
+              "audioStart": 20.681,
+              "audioEnd": 22.889
+            },
+            {
+              "text": "We must run away at once.",
+              "audioStart": 23.847,
+              "audioEnd": 25.556
+            },
+            {
+              "text": "She left the garden immediately and ran down the road.",
+              "audioStart": 26.514,
+              "audioEnd": 29.514
+            },
+            {
+              "text": "Soon, she met her good friend Henny Penny.",
+              "audioStart": 30.472,
+              "audioEnd": 33.153
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Where are you going?",
+              "audioStart": 34.111,
+              "audioEnd": 35.222
+            },
+            {
+              "text": "asked Henny Penny.",
+              "audioStart": 36.181,
+              "audioEnd": 37.375
+            },
+            {
+              "text": "The world is falling, and I am running to save my life.",
+              "audioStart": 38.333,
+              "audioEnd": 41.611
+            },
+            {
+              "text": "Really?",
+              "audioStart": 42.569,
+              "audioEnd": 43.167
+            },
+            {
+              "text": "said Henny Penny.",
+              "audioStart": 44.125,
+              "audioEnd": 45.292
+            },
+            {
+              "text": "Her eyes opened wide with fear.",
+              "audioStart": 46.25,
+              "audioEnd": 48.083
+            },
+            {
+              "text": "If the world is falling, I will go with you right now.",
+              "audioStart": 49.042,
+              "audioEnd": 51.875
+            },
+            {
+              "text": "The two worried animals ran together along the small road.",
+              "audioStart": 52.833,
+              "audioEnd": 56.056
+            },
+            {
+              "text": "After a short time, they met Cocky Locky.",
+              "audioStart": 57.014,
+              "audioEnd": 59.708
+            },
+            {
+              "text": "Why are you running so fast?",
+              "audioStart": 60.667,
+              "audioEnd": 62.514
+            },
+            {
+              "text": "asked Cocky Locky.",
+              "audioStart": 63.472,
+              "audioEnd": 64.889
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The world is falling down, and we are moving away.",
+              "audioStart": 65.847,
+              "audioEnd": 68.75
+            },
+            {
+              "text": "they told him.",
+              "audioStart": 69.708,
+              "audioEnd": 70.653
+            },
+            {
+              "text": "Cocky Locky became very worried.",
+              "audioStart": 71.611,
+              "audioEnd": 73.653
+            },
+            {
+              "text": "He decided to join their group without any pause.",
+              "audioStart": 74.611,
+              "audioEnd": 77.569
+            },
+            {
+              "text": "The little group ran across the field.",
+              "audioStart": 78.528,
+              "audioEnd": 80.625
+            },
+            {
+              "text": "They met Ducky Lucky and Goosey Loosey.",
+              "audioStart": 81.583,
+              "audioEnd": 84.042
+            },
+            {
+              "text": "Every animal heard the same bad story.",
+              "audioStart": 85,
+              "audioEnd": 87.292
+            },
+            {
+              "text": "The world is falling.",
+              "audioStart": 88.25,
+              "audioEnd": 89.528
+            },
+            {
+              "text": "they cried to everyone.",
+              "audioStart": 90.486,
+              "audioEnd": 91.806
+            },
+            {
+              "text": "More animals joined the large group.",
+              "audioStart": 92.764,
+              "audioEnd": 94.861
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many people ran together.",
+              "audioStart": 95.819,
+              "audioEnd": 97.444
+            },
+            {
+              "text": "Finally, they met Turkey Lurkey near the dark forest.",
+              "audioStart": 98.403,
+              "audioEnd": 101.736
+            },
+            {
+              "text": "Turkey Lurkey listened to the report.",
+              "audioStart": 102.694,
+              "audioEnd": 104.806
+            },
+            {
+              "text": "He felt quite unclear.",
+              "audioStart": 105.764,
+              "audioEnd": 107.292
+            },
+            {
+              "text": "Who told you this?",
+              "audioStart": 108.25,
+              "audioEnd": 109.444
+            },
+            {
+              "text": "asked Turkey Lurkey.",
+              "audioStart": 110.403,
+              "audioEnd": 111.819
+            },
+            {
+              "text": "Little animal told us, because something hit her head.",
+              "audioStart": 112.778,
+              "audioEnd": 115.903
+            },
+            {
+              "text": "answered the others.",
+              "audioStart": 116.861,
+              "audioEnd": 118.056
+            },
+            {
+              "text": "Turkey Lurkey suggested a place to stay.",
+              "audioStart": 119.014,
+              "audioEnd": 121.528
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "If we follow this dog, we will be fine.",
+              "audioStart": 122.486,
+              "audioEnd": 125.014
+            },
+            {
+              "text": "said Foxy Loxy.",
+              "audioStart": 125.972,
+              "audioEnd": 127.486
+            },
+            {
+              "text": "He appeared from behind the trees.",
+              "audioStart": 128.444,
+              "audioEnd": 130.389
+            },
+            {
+              "text": "The animals believed the fine animal completely.",
+              "audioStart": 131.347,
+              "audioEnd": 134.097
+            },
+            {
+              "text": "They all followed him into his dark room.",
+              "audioStart": 135.056,
+              "audioEnd": 137.194
+            },
+            {
+              "text": "They never came out again.",
+              "audioStart": 138.153,
+              "audioEnd": 139.625
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0268.mp3",
+      "wordTimings": "audio/a2/st-0268.timings.json",
+      "quiz": [
+        {
+          "q": "What hit Chicken Little on the head?",
+          "options": [
+            "Something hard",
+            "A large bird",
+            "A green apple"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who was the first friend Chicken Little met?",
+          "options": [
+            "Cocky Locky",
+            "Henny Penny",
+            "Turkey Lurkey"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Where did the animals go at the end of the story?",
+          "options": [
+            "Back to the green garden",
+            "Into a dark cave",
+            "Across the open field"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chicken Little lived in a small house near the green garden.",
+              "audioStart": 0.1,
+              "audioEnd": 2.8
+            },
+            {
+              "text": "One fine morning, she walked under a large tree to find some food.",
+              "audioStart": 3.663,
+              "audioEnd": 7.325
+            },
+            {
+              "text": "Suddenly, something hit her soft head hard.",
+              "audioStart": 8.188,
+              "audioEnd": 10.625
+            },
+            {
+              "text": "She looked up quickly, but she could only see blue sky.",
+              "audioStart": 11.488,
+              "audioEnd": 14.387
+            },
+            {
+              "text": "That is bad, cried Chicken Little, who was very sad.",
+              "audioStart": 15.25,
+              "audioEnd": 18.425
+            },
+            {
+              "text": "The sky is falling down upon the ground, and we must run away at once.",
+              "audioStart": 19.288,
+              "audioEnd": 23.05
+            },
+            {
+              "text": "She left the garden immediately and ran fast down the country road.",
+              "audioStart": 23.913,
+              "audioEnd": 27.462
+            },
+            {
+              "text": "Soon, she met her good friend Henny Penny.",
+              "audioStart": 28.325,
+              "audioEnd": 30.738
+            },
+            {
+              "text": "Where are you going in such a rush, asked Henny Penny.",
+              "audioStart": 31.6,
+              "audioEnd": 34.475
+            },
+            {
+              "text": "The sky is falling, and I am running to save my life, answered Chicken Little.",
+              "audioStart": 35.337,
+              "audioEnd": 39.325
+            },
+            {
+              "text": "Really, said Henny Penny, whose eyes opened wide with fear.",
+              "audioStart": 40.188,
+              "audioEnd": 43.525
+            },
+            {
+              "text": "If the sky is falling, then I shall go with you right now.",
+              "audioStart": 44.388,
+              "audioEnd": 47.212
+            },
+            {
+              "text": "The two sad birds ran together along the path.",
+              "audioStart": 48.075,
+              "audioEnd": 50.663
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After a short time, they met Cocky Locky.",
+              "audioStart": 51.525,
+              "audioEnd": 53.95
+            },
+            {
+              "text": "Why are you running so fast, asked Cocky Locky.",
+              "audioStart": 54.812,
+              "audioEnd": 57.788
+            },
+            {
+              "text": "The sky is falling down, and we are escaping from the danger, they cried.",
+              "audioStart": 58.65,
+              "audioEnd": 62.638
+            },
+            {
+              "text": "Cocky Locky became very worried, and he decided to join their group without delay.",
+              "audioStart": 63.5,
+              "audioEnd": 67.875
+            },
+            {
+              "text": "As the small group ran across the open field, they met Ducky Lucky and Goosey Loosey.",
+              "audioStart": 68.737,
+              "audioEnd": 73.388
+            },
+            {
+              "text": "Every animal was told the same terrible story.",
+              "audioStart": 74.25,
+              "audioEnd": 76.675
+            },
+            {
+              "text": "The sky is falling, they shouted to everyone.",
+              "audioStart": 77.537,
+              "audioEnd": 79.975
+            },
+            {
+              "text": "More and more birds joined the sad crowd until there were many animals running together.",
+              "audioStart": 80.838,
+              "audioEnd": 85.138
+            },
+            {
+              "text": "Finally, they met Turkey Lurkey near the edge of the dark forest.",
+              "audioStart": 86,
+              "audioEnd": 89.5
+            },
+            {
+              "text": "Turkey Lurkey listened to the strange report, and he felt quite doubtful.",
+              "audioStart": 90.362,
+              "audioEnd": 94.088
+            },
+            {
+              "text": "Who told you that this was happening, asked Turkey Lurkey.",
+              "audioStart": 94.95,
+              "audioEnd": 97.987
+            },
+            {
+              "text": "Chicken Little told us, because the sky hit her head, answered the others.",
+              "audioStart": 98.85,
+              "audioEnd": 102.838
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Turkey Lurkey suggested that they should find a safe place to hide.",
+              "audioStart": 103.7,
+              "audioEnd": 107.05
+            },
+            {
+              "text": "If they followed that animal, they would be completely safe from the falling sky.",
+              "audioStart": 107.912,
+              "audioEnd": 111.812
+            },
+            {
+              "text": "A strange animal suddenly appeared from behind the trees.",
+              "audioStart": 112.675,
+              "audioEnd": 115.537
+            },
+            {
+              "text": "This animal spoke with a calm voice.",
+              "audioStart": 116.4,
+              "audioEnd": 118.388
+            },
+            {
+              "text": "The simple animals trusted the smart leader completely.",
+              "audioStart": 119.25,
+              "audioEnd": 122.075
+            },
+            {
+              "text": "They all followed him into his dark home, and they never came out again.",
+              "audioStart": 122.938,
+              "audioEnd": 126.35
+            },
+            {
+              "text": "Many days passed, but the birds were never seen again by anyone in the country.",
+              "audioStart": 127.213,
+              "audioEnd": 131.5
+            },
+            {
+              "text": "Chicken Little had lived in the house for many years before this day.",
+              "audioStart": 132.363,
+              "audioEnd": 135.662
+            },
+            {
+              "text": "She always found good food near the green garden every morning.",
+              "audioStart": 136.525,
+              "audioEnd": 139.675
+            },
+            {
+              "text": "Henny Penny had walked along the country road many times in the past.",
+              "audioStart": 140.537,
+              "audioEnd": 144.262
+            },
+            {
+              "text": "Cocky Locky had known Ducky Lucky since they were young animals in the field.",
+              "audioStart": 145.125,
+              "audioEnd": 148.963
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Goosey Loosey had met Turkey Lurkey near the dark forest several times.",
+              "audioStart": 149.825,
+              "audioEnd": 153.725
+            },
+            {
+              "text": "Turkey Lurkey had never seen such a strange thing happen before this moment.",
+              "audioStart": 154.588,
+              "audioEnd": 158.438
+            },
+            {
+              "text": "The animal had waited behind the trees for a long time.",
+              "audioStart": 159.3,
+              "audioEnd": 162.15
+            },
+            {
+              "text": "The animals had trusted him because he seemed very helpful.",
+              "audioStart": 163.012,
+              "audioEnd": 166.025
+            },
+            {
+              "text": "They had walked into the dark home without any fear at all.",
+              "audioStart": 166.887,
+              "audioEnd": 169.688
+            },
+            {
+              "text": "Nobody had expected that the journey would end in such a way.",
+              "audioStart": 170.55,
+              "audioEnd": 173.438
+            },
+            {
+              "text": "The other animals in the country had wondered about the missing birds.",
+              "audioStart": 174.3,
+              "audioEnd": 177.537
+            },
+            {
+              "text": "They had searched the green garden and the open field for many days.",
+              "audioStart": 178.4,
+              "audioEnd": 181.825
+            },
+            {
+              "text": "However, the birds had remained inside the dark home during all that time.",
+              "audioStart": 182.688,
+              "audioEnd": 186.55
+            },
+            {
+              "text": "This story has been told by many parents to their children through the years.",
+              "audioStart": 187.412,
+              "audioEnd": 190.988
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0268.mp3",
+      "wordTimings": "audio/b1/st-0268.timings.json",
+      "quiz": [
+        {
+          "q": "What hit Chicken Little on the head?",
+          "options": [
+            "An apple",
+            "Something from the sky",
+            "A stone"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who was the first friend that Chicken Little met?",
+          "options": [
+            "Henny Penny",
+            "Cocky Locky",
+            "Turkey Lurkey"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where did Foxy Loxy lead all the animals?",
+          "options": [
+            "To a green garden",
+            "Into his dark cave",
+            "Across the open field"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chicken Little lived in a small house near the green garden.",
+              "audioStart": 0.1,
+              "audioEnd": 2.8
+            },
+            {
+              "text": "One fine morning, she walked under a large tree to find some food.",
+              "audioStart": 3.663,
+              "audioEnd": 7.325
+            },
+            {
+              "text": "Suddenly, something hit her soft head hard.",
+              "audioStart": 8.188,
+              "audioEnd": 10.625
+            },
+            {
+              "text": "She looked up quickly, but she could only see blue sky.",
+              "audioStart": 11.488,
+              "audioEnd": 14.387
+            },
+            {
+              "text": "No, cried Chicken Little, who was very frightened.",
+              "audioStart": 15.25,
+              "audioEnd": 18.137
+            },
+            {
+              "text": "The sky is falling down upon the ground, and we must run away immediately.",
+              "audioStart": 19,
+              "audioEnd": 22.863
+            },
+            {
+              "text": "She left the garden at once and ran fast down the country road.",
+              "audioStart": 23.725,
+              "audioEnd": 27.1
+            },
+            {
+              "text": "Soon, she met her good friend Henny Penny.",
+              "audioStart": 27.962,
+              "audioEnd": 30.375
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Where are you going in such a rush, asked Henny Penny.",
+              "audioStart": 31.238,
+              "audioEnd": 34.112
+            },
+            {
+              "text": "The sky is falling, and I am running to save my life, answered Chicken Little.",
+              "audioStart": 34.975,
+              "audioEnd": 38.962
+            },
+            {
+              "text": "Really, said Henny Penny, whose eyes opened wide with fear.",
+              "audioStart": 39.825,
+              "audioEnd": 43.163
+            },
+            {
+              "text": "If the sky is falling, then I shall go with you right now.",
+              "audioStart": 44.025,
+              "audioEnd": 46.85
+            },
+            {
+              "text": "The two frightened birds ran together along the small path.",
+              "audioStart": 47.712,
+              "audioEnd": 50.763
+            },
+            {
+              "text": "After a short time, they met Cocky Locky.",
+              "audioStart": 51.625,
+              "audioEnd": 54.05
+            },
+            {
+              "text": "Why are you running so fast, asked Cocky Locky.",
+              "audioStart": 54.913,
+              "audioEnd": 57.888
+            },
+            {
+              "text": "The sky is falling down, and we are escaping from the danger, they cried.",
+              "audioStart": 58.75,
+              "audioEnd": 62.737
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Cocky Locky became very nervous, and he decided to join their group without delay.",
+              "audioStart": 63.6,
+              "audioEnd": 68.125
+            },
+            {
+              "text": "As the small group ran across the open field, they met Ducky Lucky and Goosey Loosey.",
+              "audioStart": 68.987,
+              "audioEnd": 73.638
+            },
+            {
+              "text": "Every animal was told the same terrible story.",
+              "audioStart": 74.5,
+              "audioEnd": 76.925
+            },
+            {
+              "text": "The sky is falling, they shouted to everyone.",
+              "audioStart": 77.787,
+              "audioEnd": 80.225
+            },
+            {
+              "text": "More and more birds joined the scared crowd until there were many animals running together.",
+              "audioStart": 81.088,
+              "audioEnd": 85.412
+            },
+            {
+              "text": "Finally, they met Turkey Lurkey near the edge of the dark forest.",
+              "audioStart": 86.275,
+              "audioEnd": 89.775
+            },
+            {
+              "text": "Turkey Lurkey listened to the crazy report, and he felt quite doubtful.",
+              "audioStart": 90.638,
+              "audioEnd": 94.4
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Who told you that this was happening, asked Turkey Lurkey.",
+              "audioStart": 95.263,
+              "audioEnd": 98.3
+            },
+            {
+              "text": "Chicken Little told us, because the sky hit her head, answered the others.",
+              "audioStart": 99.162,
+              "audioEnd": 103.15
+            },
+            {
+              "text": "Turkey Lurkey suggested that they should find a safe place to hide.",
+              "audioStart": 104.013,
+              "audioEnd": 107.362
+            },
+            {
+              "text": "If we follow this wild dog, we will be completely safe from the falling sky.",
+              "audioStart": 108.225,
+              "audioEnd": 112.3
+            },
+            {
+              "text": "This was said by Foxy Loxy, who suddenly appeared from behind the trees.",
+              "audioStart": 113.162,
+              "audioEnd": 117.25
+            },
+            {
+              "text": "The silly animals trusted the smart leader completely.",
+              "audioStart": 118.112,
+              "audioEnd": 120.9
+            },
+            {
+              "text": "They all followed him into his dark hole, and they never came out again.",
+              "audioStart": 121.763,
+              "audioEnd": 125.188
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Long ago, the animals lived calm lives in the green land.",
+              "audioStart": 126.05,
+              "audioEnd": 129.262
+            },
+            {
+              "text": "No one worried about the sky falling down.",
+              "audioStart": 130.125,
+              "audioEnd": 132.225
+            },
+            {
+              "text": "Chicken Little was simply walking near the garden when the strange event occurred.",
+              "audioStart": 133.088,
+              "audioEnd": 136.625
+            },
+            {
+              "text": "If she had not walked under that large tree, nothing would have happened to her soft head.",
+              "audioStart": 137.488,
+              "audioEnd": 141.787
+            },
+            {
+              "text": "Many other birds joined the group as they ran along the road.",
+              "audioStart": 142.65,
+              "audioEnd": 145.5
+            },
+            {
+              "text": "Each animal believed the frightening story without asking any questions.",
+              "audioStart": 146.363,
+              "audioEnd": 150.037
+            },
+            {
+              "text": "They ran through the fields and past the forest because they wanted to stay alive.",
+              "audioStart": 150.9,
+              "audioEnd": 154.875
+            },
+            {
+              "text": "If they had stayed at home, they would have been completely safe.",
+              "audioStart": 155.738,
+              "audioEnd": 158.787
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Foxy Loxy watched the large group of animals approach.",
+              "audioStart": 159.65,
+              "audioEnd": 162.65
+            },
+            {
+              "text": "He knew that they were silly and easy to trick.",
+              "audioStart": 163.512,
+              "audioEnd": 165.825
+            },
+            {
+              "text": "The brilliant leader smiled when he saw them running toward him.",
+              "audioStart": 166.688,
+              "audioEnd": 169.525
+            },
+            {
+              "text": "He promised that his dark hole was a safe place.",
+              "audioStart": 170.387,
+              "audioEnd": 173.088
+            },
+            {
+              "text": "If the animals had been smarter, they would have run away from him.",
+              "audioStart": 173.95,
+              "audioEnd": 177.012
+            },
+            {
+              "text": "Instead, they walked right into his trap.",
+              "audioStart": 177.875,
+              "audioEnd": 180.175
+            },
+            {
+              "text": "The door of the dark hole closed behind them, and they were never seen again.",
+              "audioStart": 181.037,
+              "audioEnd": 184.812
+            },
+            {
+              "text": "That is why everyone should think carefully before believing strange stories.",
+              "audioStart": 185.675,
+              "audioEnd": 189.363
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many days passed after the animals disappeared into the dark hole.",
+              "audioStart": 190.225,
+              "audioEnd": 193.65
+            },
+            {
+              "text": "The green garden remained quiet and empty.",
+              "audioStart": 194.512,
+              "audioEnd": 196.662
+            },
+            {
+              "text": "Other birds often talked about what had happened near the large tree.",
+              "audioStart": 197.525,
+              "audioEnd": 200.838
+            },
+            {
+              "text": "If they had known the truth, they would have avoided the same mistake.",
+              "audioStart": 201.7,
+              "audioEnd": 204.925
+            },
+            {
+              "text": "Life continued in the country, but the story was remembered by everyone.",
+              "audioStart": 205.787,
+              "audioEnd": 209.588
+            },
+            {
+              "text": "Whenever the wind blew through the trees, people thought about Chicken Little.",
+              "audioStart": 210.45,
+              "audioEnd": 213.938
+            },
+            {
+              "text": "They learned that listening to crazy reports without proof can lead to great danger.",
+              "audioStart": 214.8,
+              "audioEnd": 218.85
+            },
+            {
+              "text": "That is why making careful choices is always important in life.",
+              "audioStart": 219.713,
+              "audioEnd": 223.125
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sometimes people hear news that sounds very frightening.",
+              "audioStart": 223.988,
+              "audioEnd": 226.7
+            },
+            {
+              "text": "If the news is not true, one should not panic or run away.",
+              "audioStart": 227.562,
+              "audioEnd": 230.85
+            },
+            {
+              "text": "Instead, people must stop and think about the situation clearly.",
+              "audioStart": 231.713,
+              "audioEnd": 235.225
+            },
+            {
+              "text": "Asking questions can help save a person from serious trouble.",
+              "audioStart": 236.088,
+              "audioEnd": 239.4
+            },
+            {
+              "text": "If Chicken Little had asked more questions, she would not have scared all her friends.",
+              "audioStart": 240.262,
+              "audioEnd": 244.625
+            },
+            {
+              "text": "Instead of running away, she should have looked up at the sky again.",
+              "audioStart": 245.488,
+              "audioEnd": 248.625
+            },
+            {
+              "text": "Then she would have known that the sky was not falling down at all.",
+              "audioStart": 249.488,
+              "audioEnd": 252.438
+            },
+            {
+              "text": "Every story needs careful attention before anyone believes it.",
+              "audioStart": 253.3,
+              "audioEnd": 256.575
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The dark forest was a place where danger could hide easily.",
+              "audioStart": 257.438,
+              "audioEnd": 260.562
+            },
+            {
+              "text": "Animals walked through the trees without knowing the risks.",
+              "audioStart": 261.532,
+              "audioEnd": 264.307
+            },
+            {
+              "text": "If Foxy Loxy had not been waiting there, the group would have been fine.",
+              "audioStart": 265.17,
+              "audioEnd": 268.894
+            },
+            {
+              "text": "Bad leaders often try to trick others into following them.",
+              "audioStart": 269.757,
+              "audioEnd": 272.732
+            },
+            {
+              "text": "If someone offers you a quick way out of trouble, be very careful.",
+              "audioStart": 273.594,
+              "audioEnd": 277.07
+            },
+            {
+              "text": "Smart people always check the facts before they make a decision.",
+              "audioStart": 277.932,
+              "audioEnd": 281.157
+            },
+            {
+              "text": "That is the best lesson to learn from the tale of Chicken Little.",
+              "audioStart": 282.019,
+              "audioEnd": 284.995
+            },
+            {
+              "text": "May everyone remember this story when they hear something strange.",
+              "audioStart": 285.857,
+              "audioEnd": 288.957
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0268.mp3",
+      "wordTimings": "audio/b2/st-0268.timings.json",
+      "quiz": [
+        {
+          "q": "What hit Chicken Little on the head at the beginning of the story?",
+          "options": [
+            "Something from the sky",
+            "A large rock",
+            "A heavy fruit"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who was the very first animal that Chicken Little met after running away?",
+          "options": [
+            "Henny Penny",
+            "Turkey Lurkey",
+            "Foxy Loxy"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Where did Foxy Loxy lead the frightened animals at the end?",
+          "options": [
+            "Into his dark cave",
+            "To a safe green garden",
+            "Back to their houses"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chicken Little inhabited a modest, unassuming cottage nestled comfortably near the edge of a remarkably green and flourishing garden.",
+              "audioStart": 0.1,
+              "audioEnd": 6.987
+            },
+            {
+              "text": "One fine and radiant morning, she ventured beneath the sprawling canopy of a majestic, ancient tree with the sole intention of foraging for some suitable food.",
+              "audioStart": 7.85,
+              "audioEnd": 16.475
+            },
+            {
+              "text": "Suddenly, an unexpected impact struck her soft head with a sharp and startling force.",
+              "audioStart": 17.337,
+              "audioEnd": 22.25
+            },
+            {
+              "text": "Instantly, she cast her gaze upward, yet her searching eyes encountered nothing save for the vast, uninterrupted expanse of the serene blue sky.",
+              "audioStart": 23.113,
+              "audioEnd": 31.15
+            },
+            {
+              "text": "No, cried Chicken Little, whose chest tightened with a sudden and overwhelming terror that threatened to paralyze her limbs.",
+              "audioStart": 32.013,
+              "audioEnd": 38.375
+            },
+            {
+              "text": "The sky is falling down upon the ground, she whispered to herself in disbelief, and we must run away immediately.",
+              "audioStart": 39.237,
+              "audioEnd": 45.275
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Without a moment's hesitation, she abandoned the sanctuary of the garden and sprinted with desperate urgency down the dusty country road.",
+              "audioStart": 46.138,
+              "audioEnd": 53.175
+            },
+            {
+              "text": "Before long, she crossed paths with her good friend Henny Penny, who was pecking idly at the gravel.",
+              "audioStart": 54.038,
+              "audioEnd": 59.587
+            },
+            {
+              "text": "Where are you going in such a rush, inquired Henny Penny, pausing with her head tilted in genuine curiosity.",
+              "audioStart": 60.45,
+              "audioEnd": 66.412
+            },
+            {
+              "text": "The sky is falling, and I am running to save my life, answered Chicken Little, her voice trembling with unabated panic.",
+              "audioStart": 67.275,
+              "audioEnd": 73.65
+            },
+            {
+              "text": "Really, said Henny Penny, her eyes widening dramatically with sudden, contagious fear.",
+              "audioStart": 74.513,
+              "audioEnd": 79.425
+            },
+            {
+              "text": "If the sky is falling, then I shall certainly go with you right now.",
+              "audioStart": 80.287,
+              "audioEnd": 83.525
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The two frightened birds took off together, their wings brushing against one another as they dashed along the narrow, winding path.",
+              "audioStart": 84.388,
+              "audioEnd": 91.325
+            },
+            {
+              "text": "After a brief yet exhausting stretch, they encountered Cocky Locky strutting near a low stone fence.",
+              "audioStart": 92.188,
+              "audioEnd": 97.675
+            },
+            {
+              "text": "Why are you running so fast, asked Cocky Locky, observing their frantic pace with mounting bewilderment.",
+              "audioStart": 98.537,
+              "audioEnd": 104.438
+            },
+            {
+              "text": "The sky is falling down, and we are escaping from the impending danger, they cried in unison, barely breaking their stride.",
+              "audioStart": 105.3,
+              "audioEnd": 112.013
+            },
+            {
+              "text": "Cocky Locky felt a shiver of anxiety ripple through his feathers, and he resolved to join their desperate group without any delay.",
+              "audioStart": 112.875,
+              "audioEnd": 119.475
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As the small, growing company hurried across the wide-open field, they happened upon Ducky Lucky and Goosey Loosey.",
+              "audioStart": 120.338,
+              "audioEnd": 126.612
+            },
+            {
+              "text": "Every single animal they encountered along the way was immediately met with the same terrifying report of impending doom.",
+              "audioStart": 127.475,
+              "audioEnd": 133.375
+            },
+            {
+              "text": "The sky is falling, they shouted loudly to anyone who would listen, gesturing wildly toward the horizon.",
+              "audioStart": 134.238,
+              "audioEnd": 139.85
+            },
+            {
+              "text": "More and more bewildered birds heard the commotion and chose to join the panicked crowd until a chaotic multitude of animals was rushing together across the meadow.",
+              "audioStart": 140.713,
+              "audioEnd": 148.75
+            },
+            {
+              "text": "Finally, they reached the very edge of the dark, looming forest, where Turkey Lurkey stood quietly observing the commotion.",
+              "audioStart": 149.613,
+              "audioEnd": 156.387
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Turkey Lurkey listened intently to the hysterical report, his wise old eyes narrowing as he assessed the situation with considerable doubt.",
+              "audioStart": 157.25,
+              "audioEnd": 164.512
+            },
+            {
+              "text": "Who told you that this catastrophic event was actually happening, asked Turkey Lurkey, his calm demeanor standing in sharp contrast to the surrounding panic.",
+              "audioStart": 165.375,
+              "audioEnd": 174.162
+            },
+            {
+              "text": "Chicken Little told us directly, because the sky literally fell and hit her head, answered the frantic chorus of surrounding birds.",
+              "audioStart": 175.025,
+              "audioEnd": 181.875
+            },
+            {
+              "text": "Sensing the overwhelming confusion among the flock, Turkey Lurkey prudently suggested that they find a secure and hidden place before disaster struck.",
+              "audioStart": 182.738,
+              "audioEnd": 190.775
+            },
+            {
+              "text": "Scarcely had the words left his beak when a sleek, cunning figure emerged from the shadowy undergrowth of the trees.",
+              "audioStart": 191.637,
+              "audioEnd": 197.562
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "If we follow this clever guide, we will be completely safe from the falling sky, announced Foxy Loxy, stepping forward with an oily, reassuring smile.",
+              "audioStart": 198.425,
+              "audioEnd": 207.125
+            },
+            {
+              "text": "This proposal was delivered by the charismatic fox, who had appeared so conveniently from behind the dense foliage to rescue them.",
+              "audioStart": 207.988,
+              "audioEnd": 215.05
+            },
+            {
+              "text": "The exceedingly gullible animals trusted their self-appointed leader completely, mistaking his flattering words for genuine benevolence.",
+              "audioStart": 215.912,
+              "audioEnd": 223.1
+            },
+            {
+              "text": "Without pausing to question his motives, they all followed him obediently into the dark, yawning mouth of his underground burrow.",
+              "audioStart": 223.963,
+              "audioEnd": 230.5
+            },
+            {
+              "text": "Once the last feathered tail had slipped inside, the heavy silence of the forest reclaimed the clearing, and they never emerged again.",
+              "audioStart": 231.363,
+              "audioEnd": 238.488
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Long ago, before that fateful morning, the animals had lived entirely calm and peaceful lives across the green and bountiful land.",
+              "audioStart": 239.35,
+              "audioEnd": 247.748
+            },
+            {
+              "text": "Not a single creature had ever worried for a moment about the vast heavens collapsing upon their heads.",
+              "audioStart": 248.611,
+              "audioEnd": 253.748
+            },
+            {
+              "text": "Chicken Little was simply walking near the familiar garden when that strange and deceptive incident occurred.",
+              "audioStart": 254.611,
+              "audioEnd": 259.486
+            },
+            {
+              "text": "Had she not chosen to wander directly under the heavy branches of that particular tree, nothing would have ever disturbed her soft head.",
+              "audioStart": 260.348,
+              "audioEnd": 267.111
+            },
+            {
+              "text": "Yet, because she yielded instantly to panic, a tragic chain of events was set irrevocably into motion.",
+              "audioStart": 267.973,
+              "audioEnd": 273.711
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Foxy Loxy had watched the approach of the noisy, panicked procession from his hiding place with calculating amusement.",
+              "audioStart": 274.573,
+              "audioEnd": 280.885
+            },
+            {
+              "text": "He recognized immediately that they were exceptionally foolish and remarkably easy to manipulate through their own fears.",
+              "audioStart": 281.748,
+              "audioEnd": 287.798
+            },
+            {
+              "text": "A triumphant grin spread across his face as he watched them rush blindly toward his waiting claws.",
+              "audioStart": 288.661,
+              "audioEnd": 293.685
+            },
+            {
+              "text": "He had promised them absolute safety within his dark hole, using their own terror as the ultimate tool of persuasion.",
+              "audioStart": 294.548,
+              "audioEnd": 300.685
+            },
+            {
+              "text": "If any among them had possessed a shred of critical thought, they would have fled from the fox instead of walking willingly into his trap.",
+              "audioStart": 301.548,
+              "audioEnd": 308.348
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many silent days passed into history after the flock vanished into the subterranean depths of the forest.",
+              "audioStart": 309.211,
+              "audioEnd": 314.773
+            },
+            {
+              "text": "The green garden remained utterly quiet and empty, devoid of the familiar chirping that once animated the afternoons.",
+              "audioStart": 315.635,
+              "audioEnd": 321.873
+            },
+            {
+              "text": "Surviving birds in the surrounding countryside frequently discussed the mysterious disappearance near the large tree.",
+              "audioStart": 322.736,
+              "audioEnd": 328.548
+            },
+            {
+              "text": "Had they possessed the wisdom to seek out the truth, they might have avoided repeating the same fatal errors of judgment.",
+              "audioStart": 329.411,
+              "audioEnd": 335.273
+            },
+            {
+              "text": "The memory of the event endured as a sobering reminder of the fragility of reason in times of collective hysteria.",
+              "audioStart": 336.135,
+              "audioEnd": 341.911
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Whenever the autumn wind whispered through the branches, the local residents recalled the folly of Chicken Little and her followers.",
+              "audioStart": 342.773,
+              "audioEnd": 349.135
+            },
+            {
+              "text": "The tale served as a permanent testament to the dangers of accepting hysterical rumors without demanding concrete evidence.",
+              "audioStart": 349.998,
+              "audioEnd": 356.236
+            },
+            {
+              "text": "Sometimes people hear startling news that sounds profoundly threatening to their daily routines and comfort.",
+              "audioStart": 357.098,
+              "audioEnd": 362.361
+            },
+            {
+              "text": "If such claims prove entirely groundless, one must resolutely resist the urge to surrender to blind panic and unthinking flight.",
+              "audioStart": 363.223,
+              "audioEnd": 370.423
+            },
+            {
+              "text": "Instead, stepping back to analyze the situation with a clear and rational mind remains the only proper course of action.",
+              "audioStart": 371.286,
+              "audioEnd": 377.848
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The dark forest always harbored unseen risks for those who wandered through its shaded trails without vigilance.",
+              "audioStart": 378.711,
+              "audioEnd": 384.31
+            },
+            {
+              "text": "Had Foxy Loxy not been lying in wait that morning, the fleeing flock might have eventually calmed down and dispersed safely.",
+              "audioStart": 385.173,
+              "audioEnd": 391.935
+            },
+            {
+              "text": "Deceitful leaders frequently exploit moments of widespread anxiety to herd vulnerable populations toward their own destruction.",
+              "audioStart": 392.798,
+              "audioEnd": 399.56
+            },
+            {
+              "text": "Prudent individuals invariably verify the underlying facts before committing themselves to any sudden or irreversible decisions.",
+              "audioStart": 400.423,
+              "audioEnd": 407.56
+            },
+            {
+              "text": "That enduring truth constitutes the most vital lesson embedded within the tragic and cautionary tale of Chicken Little.",
+              "audioStart": 408.423,
+              "audioEnd": 414.373
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0268.mp3",
+      "wordTimings": "audio/c1/st-0268.timings.json",
+      "quiz": [
+        {
+          "q": "What specific physical sensation first initiated Chicken Little's panic in the garden?",
+          "options": [
+            "A sudden, heavy impact struck her soft head.",
+            "A loud thunderclap echoed across the blue sky.",
+            "A falling branch narrowly missed her left wing."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which animal first expressed doubt regarding the validity of the falling sky story?",
+          "options": [
+            "Henny Penny",
+            "Turkey Lurkey",
+            "Cocky Locky"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Where did Foxy Loxy lead the trusting animals at the conclusion of their journey?",
+          "options": [
+            "To a secluded clearing deep within the forest",
+            "Into the dark hole of his underground burrow",
+            "To a secure sanctuary behind the stone fence"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+}

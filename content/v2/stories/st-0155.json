@@ -1,0 +1,1530 @@
+{
+  "id": "st-0155",
+  "title": "How the Camel Got His Hump",
+  "genre": "classic",
+  "summary": "A lazy worker refuses to help, so a big man gives him a special change.",
+  "coverScene": "A lazy camel resting alone in a sunny desert while looking away from other animals.",
+  "levels": {
+    "A1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "At the start, a man has help.",
+              "audioStart": 0.106,
+              "audioEnd": 2.064
+            },
+            {
+              "text": "A man lives in a place.",
+              "audioStart": 3.028,
+              "audioEnd": 4.653
+            },
+            {
+              "text": "The place has no water.",
+              "audioStart": 5.611,
+              "audioEnd": 7.069
+            },
+            {
+              "text": "A big worker lives there.",
+              "audioStart": 8.028,
+              "audioEnd": 9.583
+            },
+            {
+              "text": "He does not want to work.",
+              "audioStart": 10.542,
+              "audioEnd": 12
+            },
+            {
+              "text": "He has very low power.",
+              "audioStart": 12.958,
+              "audioEnd": 14.514
+            },
+            {
+              "text": "He only says one word.",
+              "audioStart": 15.472,
+              "audioEnd": 17.014
+            },
+            {
+              "text": "He says, Humph.",
+              "audioStart": 17.972,
+              "audioEnd": 19.431
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The man has other help.",
+              "audioStart": 20.389,
+              "audioEnd": 21.778
+            },
+            {
+              "text": "One help is a big worker.",
+              "audioStart": 22.736,
+              "audioEnd": 24.389
+            },
+            {
+              "text": "Another help is a small friend.",
+              "audioStart": 25.347,
+              "audioEnd": 27.181
+            },
+            {
+              "text": "A new help takes things.",
+              "audioStart": 28.139,
+              "audioEnd": 29.722
+            },
+            {
+              "text": "These three friends are bad.",
+              "audioStart": 30.681,
+              "audioEnd": 32.264
+            },
+            {
+              "text": "They are not happy at all.",
+              "audioStart": 33.222,
+              "audioEnd": 34.75
+            },
+            {
+              "text": "They do the bad worker job.",
+              "audioStart": 35.708,
+              "audioEnd": 37.333
+            },
+            {
+              "text": "They feel bad all day long.",
+              "audioStart": 38.292,
+              "audioEnd": 40.014
+            },
+            {
+              "text": "The bad worker just sits down.",
+              "audioStart": 40.972,
+              "audioEnd": 42.958
+            },
+            {
+              "text": "He does not help them.",
+              "audioStart": 43.917,
+              "audioEnd": 45.236
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A big man hears them.",
+              "audioStart": 46.194,
+              "audioEnd": 47.639
+            },
+            {
+              "text": "He goes to the place.",
+              "audioStart": 48.597,
+              "audioEnd": 50.014
+            },
+            {
+              "text": "He speaks to the bad worker.",
+              "audioStart": 50.972,
+              "audioEnd": 52.722
+            },
+            {
+              "text": "He asks him about the work.",
+              "audioStart": 53.681,
+              "audioEnd": 55.319
+            },
+            {
+              "text": "The bad worker only says Humph again.",
+              "audioStart": 56.278,
+              "audioEnd": 58.611
+            },
+            {
+              "text": "The big man is not happy.",
+              "audioStart": 59.569,
+              "audioEnd": 61.264
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The big man gives him a change.",
+              "audioStart": 62.222,
+              "audioEnd": 64.25
+            },
+            {
+              "text": "He gives him a part on his back.",
+              "audioStart": 65.208,
+              "audioEnd": 67.014
+            },
+            {
+              "text": "He gives him a big part.",
+              "audioStart": 67.972,
+              "audioEnd": 69.486
+            },
+            {
+              "text": "The big part is on his body.",
+              "audioStart": 70.444,
+              "audioEnd": 72.222
+            },
+            {
+              "text": "Now he can work without much food.",
+              "audioStart": 73.181,
+              "audioEnd": 75.208
+            },
+            {
+              "text": "He can walk for a long time.",
+              "audioStart": 76.167,
+              "audioEnd": 77.958
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Workers carry things across the world.",
+              "audioStart": 78.917,
+              "audioEnd": 81.181
+            },
+            {
+              "text": "The part helps them in the place.",
+              "audioStart": 82.139,
+              "audioEnd": 84.083
+            },
+            {
+              "text": "Food is little there.",
+              "audioStart": 85.042,
+              "audioEnd": 86.264
+            },
+            {
+              "text": "The worker gets his right job.",
+              "audioStart": 87.222,
+              "audioEnd": 88.931
+            },
+            {
+              "text": "He learns to work every day.",
+              "audioStart": 89.889,
+              "audioEnd": 91.611
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a1/st-0155.mp3",
+      "wordTimings": "audio/a1/st-0155.timings.json",
+      "quiz": [
+        {
+          "q": "Where does the lazy camel live?",
+          "options": [
+            "In the middle of a desert",
+            "At a school",
+            "In a big city"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the camel say when people ask for help?",
+          "options": [
+            "Humph",
+            "Yes",
+            "No work"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does the Djinn give the camel?",
+          "options": [
+            "A big house",
+            "A big hump",
+            "A new car"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "A2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "At the very beginning of the world, animals worked for man.",
+              "audioStart": 0.106,
+              "audioEnd": 3.481
+            },
+            {
+              "text": "A large animal lived alone in a dry place.",
+              "audioStart": 4.444,
+              "audioEnd": 7.181
+            },
+            {
+              "text": "He did not want to do any work.",
+              "audioStart": 8.139,
+              "audioEnd": 9.972
+            },
+            {
+              "text": "When people asked him for help, he only said one word.",
+              "audioStart": 10.931,
+              "audioEnd": 14.25
+            },
+            {
+              "text": "He simply said humph.",
+              "audioStart": 15.208,
+              "audioEnd": 16.625
+            },
+            {
+              "text": "The other animal, the dog, and a friend grew very bad.",
+              "audioStart": 17.583,
+              "audioEnd": 21.139
+            },
+            {
+              "text": "They had to do the work of the slow animal.",
+              "audioStart": 22.097,
+              "audioEnd": 24.208
+            },
+            {
+              "text": "They also did their own daily tasks.",
+              "audioStart": 25.167,
+              "audioEnd": 27.472
+            },
+            {
+              "text": "Each animal felt less while watching the quiet animal rest.",
+              "audioStart": 28.431,
+              "audioEnd": 31.875
+            },
+            {
+              "text": "A great person was in charge of all dry places.",
+              "audioStart": 32.833,
+              "audioEnd": 35.819
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He heard their talk from far away.",
+              "audioStart": 36.778,
+              "audioEnd": 38.764
+            },
+            {
+              "text": "He went across the ground to speak with the animal.",
+              "audioStart": 39.722,
+              "audioEnd": 42.25
+            },
+            {
+              "text": "However, the animal only looked at him.",
+              "audioStart": 43.208,
+              "audioEnd": 45.722
+            },
+            {
+              "text": "He said humph once again.",
+              "audioStart": 46.681,
+              "audioEnd": 48.222
+            },
+            {
+              "text": "The great person became full of feeling with the big animal.",
+              "audioStart": 49.181,
+              "audioEnd": 52.292
+            },
+            {
+              "text": "He decided to give him a trouble.",
+              "audioStart": 53.25,
+              "audioEnd": 55.069
+            },
+            {
+              "text": "He gave the animal a big part upon his back.",
+              "audioStart": 56.028,
+              "audioEnd": 58.722
+            },
+            {
+              "text": "This new shape would help him work without food for days.",
+              "audioStart": 59.681,
+              "audioEnd": 62.889
+            },
+            {
+              "text": "Since that day, animals have carried their parts around.",
+              "audioStart": 63.847,
+              "audioEnd": 67.139
+            },
+            {
+              "text": "The part helps them live when food is less.",
+              "audioStart": 68.097,
+              "audioEnd": 70.653
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "That is how the animal received his right load.",
+              "audioStart": 71.611,
+              "audioEnd": 74.042
+            },
+            {
+              "text": "Let us think about the story.",
+              "audioStart": 75,
+              "audioEnd": 76.625
+            },
+            {
+              "text": "The animal lived in a dry place.",
+              "audioStart": 77.583,
+              "audioEnd": 79.639
+            },
+            {
+              "text": "He did not want to move or help.",
+              "audioStart": 80.597,
+              "audioEnd": 82.361
+            },
+            {
+              "text": "He only said humph to everyone.",
+              "audioStart": 83.319,
+              "audioEnd": 85.153
+            },
+            {
+              "text": "The other animal and the dog were working hard.",
+              "audioStart": 86.111,
+              "audioEnd": 88.722
+            },
+            {
+              "text": "They worked hard every day.",
+              "audioStart": 89.681,
+              "audioEnd": 91.306
+            },
+            {
+              "text": "They felt bad about the situation.",
+              "audioStart": 92.264,
+              "audioEnd": 94.306
+            },
+            {
+              "text": "Then a great person came to see them.",
+              "audioStart": 95.264,
+              "audioEnd": 97.347
+            },
+            {
+              "text": "He wanted to fix the problem.",
+              "audioStart": 98.306,
+              "audioEnd": 100.028
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He spoke to the animal with care.",
+              "audioStart": 100.986,
+              "audioEnd": 102.861
+            },
+            {
+              "text": "The animal did not listen to him.",
+              "audioStart": 103.819,
+              "audioEnd": 105.764
+            },
+            {
+              "text": "He only said humph again.",
+              "audioStart": 106.722,
+              "audioEnd": 108.319
+            },
+            {
+              "text": "So the great person made a plan.",
+              "audioStart": 109.278,
+              "audioEnd": 111.264
+            },
+            {
+              "text": "He gave the animal a big part on his back.",
+              "audioStart": 112.222,
+              "audioEnd": 114.778
+            },
+            {
+              "text": "The animal was going to live with it all the time.",
+              "audioStart": 115.736,
+              "audioEnd": 118.333
+            },
+            {
+              "text": "Now animals carry this part all around.",
+              "audioStart": 119.292,
+              "audioEnd": 121.736
+            },
+            {
+              "text": "They can live through hard days.",
+              "audioStart": 122.694,
+              "audioEnd": 124.361
+            },
+            {
+              "text": "They do not need much food.",
+              "audioStart": 125.319,
+              "audioEnd": 126.931
+            },
+            {
+              "text": "The story shows how things change.",
+              "audioStart": 127.889,
+              "audioEnd": 129.847
+            },
+            {
+              "text": "Everyone must work together in the world.",
+              "audioStart": 130.806,
+              "audioEnd": 133.014
+            }
+          ]
+        }
+      ],
+      "audio": "audio/a2/st-0155.mp3",
+      "wordTimings": "audio/a2/st-0155.timings.json",
+      "quiz": [
+        {
+          "q": "Where did the lazy camel live?",
+          "options": [
+            "In the middle of a desert",
+            "At a school in the city",
+            "Inside a large house"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the camel always say when someone asked for help?",
+          "options": [
+            "Yes, I will help",
+            "Humph",
+            "No money"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the Djinn magically give the camel?",
+          "options": [
+            "A huge hump upon his back",
+            "A new car for the road",
+            "Some food and water"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    "B1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "At the very beginning of the world, animals had just begun to work for man.",
+              "audioStart": 0.1,
+              "audioEnd": 3.962
+            },
+            {
+              "text": "A strange animal lived alone in the hot land and refused to do any work.",
+              "audioStart": 4.825,
+              "audioEnd": 8.662
+            },
+            {
+              "text": "If anyone asked him to help, he only answered with one word.",
+              "audioStart": 9.525,
+              "audioEnd": 12.812
+            },
+            {
+              "text": "He always said, Humph, when people spoke to him.",
+              "audioStart": 13.675,
+              "audioEnd": 16.538
+            },
+            {
+              "text": "The horse, the dog, and the other animal grew very angry because of this behavior.",
+              "audioStart": 17.4,
+              "audioEnd": 21.962
+            },
+            {
+              "text": "They had to do the extra share of the work.",
+              "audioStart": 22.825,
+              "audioEnd": 24.825
+            },
+            {
+              "text": "They also had to do their own daily tasks.",
+              "audioStart": 25.688,
+              "audioEnd": 28.025
+            },
+            {
+              "text": "Each animal felt tired while watching the strange animal rest all day long.",
+              "audioStart": 28.887,
+              "audioEnd": 32.825
+            },
+            {
+              "text": "A powerful person who was in charge of all hot lands heard their complaint.",
+              "audioStart": 33.688,
+              "audioEnd": 37.438
+            },
+            {
+              "text": "He went across the ground to speak with the animal about his bad attitude.",
+              "audioStart": 38.3,
+              "audioEnd": 41.825
+            },
+            {
+              "text": "However, the difficult animal only looked at him and said Humph once again.",
+              "audioStart": 42.688,
+              "audioEnd": 46.6
+            },
+            {
+              "text": "The powerful person became angry and decided to give the slow creature a bad response.",
+              "audioStart": 47.462,
+              "audioEnd": 52
+            },
+            {
+              "text": "He gave the animal a great back part, a huge load, right upon his back.",
+              "audioStart": 52.862,
+              "audioEnd": 57.125
+            },
+            {
+              "text": "This strange new shape was given so that he could work for three days without food.",
+              "audioStart": 57.987,
+              "audioEnd": 62
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since that day, animals have carried their loads everywhere they go across the world.",
+              "audioStart": 62.862,
+              "audioEnd": 67.138
+            },
+            {
+              "text": "The load helps them survive in the land when times are hard and food is low.",
+              "audioStart": 68,
+              "audioEnd": 71.7
+            },
+            {
+              "text": "And that is how the slow animal finally received his proper load.",
+              "audioStart": 72.562,
+              "audioEnd": 75.775
+            },
+            {
+              "text": "He has carried this load for many years.",
+              "audioStart": 76.638,
+              "audioEnd": 78.812
+            },
+            {
+              "text": "The other animals have accepted him because he now carries his share.",
+              "audioStart": 79.675,
+              "audioEnd": 83.05
+            },
+            {
+              "text": "Life in the world became much better for everyone after that day.",
+              "audioStart": 83.912,
+              "audioEnd": 87.213
+            },
+            {
+              "text": "The horse and the other animal can now do their own work without extra trouble.",
+              "audioStart": 88.075,
+              "audioEnd": 91.888
+            },
+            {
+              "text": "The dog is also happy to help man with daily tasks.",
+              "audioStart": 92.75,
+              "audioEnd": 95.662
+            },
+            {
+              "text": "The powerful person made sure that all rules were clear to everyone.",
+              "audioStart": 96.525,
+              "audioEnd": 99.95
+            },
+            {
+              "text": "Therefore, no one tries to avoid work in the present time.",
+              "audioStart": 100.812,
+              "audioEnd": 104.025
+            },
+            {
+              "text": "The strange animal learned his lesson and never refused to help again.",
+              "audioStart": 104.888,
+              "audioEnd": 108.412
+            },
+            {
+              "text": "He stands in the hot land and carries his load with care.",
+              "audioStart": 109.275,
+              "audioEnd": 112.25
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Many people visit the land to see the animal and his big load.",
+              "audioStart": 113.112,
+              "audioEnd": 116.3
+            },
+            {
+              "text": "They always remember the story of how he received his bad response.",
+              "audioStart": 117.162,
+              "audioEnd": 120.463
+            },
+            {
+              "text": "It is a famous story that people tell their children.",
+              "audioStart": 121.325,
+              "audioEnd": 123.825
+            },
+            {
+              "text": "He will probably look at you and make a strange sound.",
+              "audioStart": 124.688,
+              "audioEnd": 127.362
+            },
+            {
+              "text": "Perhaps he will say Humph just like he did in the old days.",
+              "audioStart": 128.225,
+              "audioEnd": 131.125
+            },
+            {
+              "text": "The world has changed a lot since the beginning of time.",
+              "audioStart": 131.988,
+              "audioEnd": 134.7
+            },
+            {
+              "text": "Many things have come and gone over the long years.",
+              "audioStart": 135.562,
+              "audioEnd": 138.037
+            },
+            {
+              "text": "However, some things remain exactly the same as they were before.",
+              "audioStart": 138.9,
+              "audioEnd": 142.425
+            },
+            {
+              "text": "The animal and his load are part of this history.",
+              "audioStart": 143.287,
+              "audioEnd": 145.625
+            },
+            {
+              "text": "We can still learn important lessons from these old stories today.",
+              "audioStart": 146.488,
+              "audioEnd": 149.6
+            },
+            {
+              "text": "Good work brings peace and a good feeling to every group of living things.",
+              "audioStart": 150.463,
+              "audioEnd": 154.1
+            },
+            {
+              "text": "That is the true meaning of the story from the beginning of the world.",
+              "audioStart": 154.963,
+              "audioEnd": 157.95
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b1/st-0155.mp3",
+      "wordTimings": "audio/b1/st-0155.timings.json",
+      "quiz": [
+        {
+          "q": "What did the camel always say when someone asked him to help?",
+          "options": [
+            "Humph!",
+            "No work!",
+            "Hello!"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which animals grew very angry because of the camel's behavior?",
+          "options": [
+            "The cat, the bird, and the fish",
+            "The horse, the dog, and the ox",
+            "The lion, the tiger, and the bear"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What did the Djinn magically give to the camel as a punishment?",
+          "options": [
+            "A long tail",
+            "A huge hump",
+            "A heavy rock"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "B2": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "At the very beginning of the world, animals had just begun to work for man.",
+              "audioStart": 0.1,
+              "audioEnd": 3.962
+            },
+            {
+              "text": "A lazy person lived alone in the middle of a desert and refused to do any work at all.",
+              "audioStart": 4.825,
+              "audioEnd": 9.25
+            },
+            {
+              "text": "Whenever anyone asked him to help, he only answered with a bad word, saying simply, No!",
+              "audioStart": 10.113,
+              "audioEnd": 15.287
+            },
+            {
+              "text": "He was a lazy worker who did nothing while other people labored.",
+              "audioStart": 16.15,
+              "audioEnd": 19.288
+            },
+            {
+              "text": "The horse, the dog, and the farm animal grew very angry because of this behavior.",
+              "audioStart": 20.15,
+              "audioEnd": 24.738
+            },
+            {
+              "text": "They had to do the lazy worker share of the work as well as their own daily tasks.",
+              "audioStart": 25.6,
+              "audioEnd": 29.65
+            },
+            {
+              "text": "Each animal felt tired and sad while watching the lazy person rest all day long.",
+              "audioStart": 30.512,
+              "audioEnd": 34.95
+            },
+            {
+              "text": "They felt that the situation was very unfair to them.",
+              "audioStart": 35.812,
+              "audioEnd": 38.575
+            },
+            {
+              "text": "Every single morning brought new trouble for the hardworking group.",
+              "audioStart": 39.438,
+              "audioEnd": 42.5
+            },
+            {
+              "text": "They had to run across the hot sand and carry heavy loads.",
+              "audioStart": 43.362,
+              "audioEnd": 46.475
+            },
+            {
+              "text": "Meanwhile, the lazy individual stayed in the same place without moving a muscle.",
+              "audioStart": 47.337,
+              "audioEnd": 51.625
+            },
+            {
+              "text": "He did not care about the pain of his friends.",
+              "audioStart": 52.487,
+              "audioEnd": 54.725
+            },
+            {
+              "text": "He just wanted to sleep and eat good food all day long.",
+              "audioStart": 55.587,
+              "audioEnd": 58.462
+            },
+            {
+              "text": "This bad behavior made everyone feel miserable and hopeless.",
+              "audioStart": 59.325,
+              "audioEnd": 62.538
+            },
+            {
+              "text": "They knew that something must change very soon.",
+              "audioStart": 63.4,
+              "audioEnd": 65.675
+            },
+            {
+              "text": "The working group decided to speak about the problem together.",
+              "audioStart": 66.537,
+              "audioEnd": 69.537
+            },
+            {
+              "text": "They hoped that a solution would appear before the end of the week.",
+              "audioStart": 70.4,
+              "audioEnd": 73.4
+            },
+            {
+              "text": "Life in the desert was already difficult enough without this extra trouble.",
+              "audioStart": 74.263,
+              "audioEnd": 78.037
+            },
+            {
+              "text": "Every animal wished for a peaceful and quiet environment.",
+              "audioStart": 78.9,
+              "audioEnd": 81.85
+            },
+            {
+              "text": "They wanted to share the burden equally among all members of the group.",
+              "audioStart": 82.713,
+              "audioEnd": 85.938
+            },
+            {
+              "text": "However, the lazy worker always refused to listen to their advice.",
+              "audioStart": 86.8,
+              "audioEnd": 90.662
+            },
+            {
+              "text": "He only laughed at their words and turned his back on them.",
+              "audioStart": 91.525,
+              "audioEnd": 94.3
+            },
+            {
+              "text": "This made the situation even worse than before.",
+              "audioStart": 95.162,
+              "audioEnd": 97.688
+            },
+            {
+              "text": "They felt completely powerless against such a strange creature.",
+              "audioStart": 98.55,
+              "audioEnd": 101.75
+            },
+            {
+              "text": "The sun shone brightly upon the yellow sand every single afternoon.",
+              "audioStart": 102.612,
+              "audioEnd": 106.225
+            },
+            {
+              "text": "The heat was terrible and made everyone feel weak and tired.",
+              "audioStart": 107.088,
+              "audioEnd": 110.2
+            },
+            {
+              "text": "Yet the lazy worker continued to sit down and do nothing at all.",
+              "audioStart": 111.062,
+              "audioEnd": 114.438
+            },
+            {
+              "text": "He did not care about the rising temperature or the lack of water.",
+              "audioStart": 115.3,
+              "audioEnd": 118.5
+            },
+            {
+              "text": "His heart was as cold as ice toward his fellow creatures.",
+              "audioStart": 119.362,
+              "audioEnd": 122.275
+            },
+            {
+              "text": "They could not understand how anyone could be so lazy.",
+              "audioStart": 123.138,
+              "audioEnd": 125.95
+            },
+            {
+              "text": "The horse spoke to the dog about the terrible situation.",
+              "audioStart": 126.812,
+              "audioEnd": 129.575
+            },
+            {
+              "text": "The dog agreed that the lazy worker was a major problem.",
+              "audioStart": 130.438,
+              "audioEnd": 133.312
+            },
+            {
+              "text": "They decided to bring the matter before someone in charge.",
+              "audioStart": 134.175,
+              "audioEnd": 137.012
+            },
+            {
+              "text": "They hoped that a powerful leader would fix the issue for them.",
+              "audioStart": 137.875,
+              "audioEnd": 140.762
+            },
+            {
+              "text": "The desert was a huge place where many strange things happened.",
+              "audioStart": 141.625,
+              "audioEnd": 144.8
+            },
+            {
+              "text": "It was a world of sand and wind where life was never easy.",
+              "audioStart": 145.662,
+              "audioEnd": 148.6
+            },
+            {
+              "text": "Animals had to work together if they wanted to survive the harsh conditions.",
+              "audioStart": 149.463,
+              "audioEnd": 153.262
+            },
+            {
+              "text": "Only through hard work could they find enough food to eat.",
+              "audioStart": 154.125,
+              "audioEnd": 156.925
+            },
+            {
+              "text": "Therefore, the presence of the lazy worker was a danger to everyone.",
+              "audioStart": 157.787,
+              "audioEnd": 161.375
+            },
+            {
+              "text": "He took food from the common supply without giving anything back.",
+              "audioStart": 162.238,
+              "audioEnd": 165.588
+            },
+            {
+              "text": "This unfairness could not be allowed to continue much longer.",
+              "audioStart": 166.45,
+              "audioEnd": 169.512
+            },
+            {
+              "text": "The time had come for a major change in the desert community.",
+              "audioStart": 170.375,
+              "audioEnd": 173.325
+            },
+            {
+              "text": "They looked around for someone who could help them.",
+              "audioStart": 174.188,
+              "audioEnd": 176.338
+            },
+            {
+              "text": "They wanted a strong leader to settle the dispute once and for all.",
+              "audioStart": 177.2,
+              "audioEnd": 180.438
+            },
+            {
+              "text": "The sun began to set behind the high mountains in the distance.",
+              "audioStart": 181.3,
+              "audioEnd": 184.35
+            },
+            {
+              "text": "The sky turned red and orange as the evening approached.",
+              "audioStart": 185.213,
+              "audioEnd": 187.875
+            },
+            {
+              "text": "It was a quiet moment in the vast and empty desert.",
+              "audioStart": 188.738,
+              "audioEnd": 191.6
+            },
+            {
+              "text": "Yet the problem of the lazy worker remained unsolved.",
+              "audioStart": 192.463,
+              "audioEnd": 195.175
+            },
+            {
+              "text": "The animals went to sleep with heavy hearts and worried minds.",
+              "audioStart": 196.037,
+              "audioEnd": 199.1
+            },
+            {
+              "text": "They knew that tomorrow would bring new challenges for them.",
+              "audioStart": 199.963,
+              "audioEnd": 202.537
+            },
+            {
+              "text": "They hoped that help would arrive before the next morning.",
+              "audioStart": 203.4,
+              "audioEnd": 206.012
+            },
+            {
+              "text": "The night was long and cold across the open land.",
+              "audioStart": 206.875,
+              "audioEnd": 209.387
+            },
+            {
+              "text": "Stars filled the dark sky above the sleeping desert.",
+              "audioStart": 210.25,
+              "audioEnd": 212.925
+            },
+            {
+              "text": "Nothing moved except the gentle wind blowing over the sand.",
+              "audioStart": 213.787,
+              "audioEnd": 216.85
+            },
+            {
+              "text": "The lazy worker slept deeply without any worries on his mind.",
+              "audioStart": 217.713,
+              "audioEnd": 221.037
+            },
+            {
+              "text": "He did not care about the trouble he had caused.",
+              "audioStart": 221.9,
+              "audioEnd": 224.225
+            },
+            {
+              "text": "He dreamed of a life where no one would ever ask him to work.",
+              "audioStart": 225.088,
+              "audioEnd": 228.162
+            },
+            {
+              "text": "It was a selfish dream that ignored the needs of others.",
+              "audioStart": 229.025,
+              "audioEnd": 231.75
+            },
+            {
+              "text": "Morning came quickly with the bright light of the sun.",
+              "audioStart": 232.613,
+              "audioEnd": 235.113
+            },
+            {
+              "text": "A powerful Djinn who was in charge of all deserts heard their complaint.",
+              "audioStart": 235.975,
+              "audioEnd": 239.5
+            },
+            {
+              "text": "He went across the sand to speak with the lazy worker about his bad attitude.",
+              "audioStart": 240.363,
+              "audioEnd": 244.188
+            },
+            {
+              "text": "However, the difficult animal only looked at him and said No once again.",
+              "audioStart": 245.05,
+              "audioEnd": 248.925
+            },
+            {
+              "text": "The Djinn became very angry and decided to give the lazy creature a fitting lesson.",
+              "audioStart": 249.787,
+              "audioEnd": 254
+            },
+            {
+              "text": "He magically gave the person a great word, a huge part, right upon his back.",
+              "audioStart": 254.863,
+              "audioEnd": 260.589
+            },
+            {
+              "text": "This strange new shape was given so that he could work for three days without eating any food.",
+              "audioStart": 261.452,
+              "audioEnd": 265.99
+            },
+            {
+              "text": "Since that day, workers have carried their big loads everywhere they go across the world.",
+              "audioStart": 266.852,
+              "audioEnd": 271.302
+            },
+            {
+              "text": "The heavy load helps them survive in the desert when times are hard and food is difficult to find.",
+              "audioStart": 272.164,
+              "audioEnd": 277.002
+            },
+            {
+              "text": "And that is how the lazy person finally received his proper load.",
+              "audioStart": 277.865,
+              "audioEnd": 281.227
+            },
+            {
+              "text": "Everyone in the desert learned an important lesson about hard work and responsibility.",
+              "audioStart": 282.089,
+              "audioEnd": 286.289
+            },
+            {
+              "text": "They understood that every member of the community must do his part.",
+              "audioStart": 287.152,
+              "audioEnd": 290.452
+            },
+            {
+              "text": "The horse, the dog, and the farm animal were very happy with the final result.",
+              "audioStart": 291.315,
+              "audioEnd": 295.615
+            },
+            {
+              "text": "They returned to their daily tasks with a new sense of hope and joy.",
+              "audioStart": 296.477,
+              "audioEnd": 299.764
+            },
+            {
+              "text": "The lazy worker now had to carry his own heavy load across the desert.",
+              "audioStart": 300.627,
+              "audioEnd": 304.402
+            },
+            {
+              "text": "He could no longer rest all day while others did his share of the work.",
+              "audioStart": 305.264,
+              "audioEnd": 308.74
+            },
+            {
+              "text": "He finally understood why fairness was so important for everyone.",
+              "audioStart": 309.602,
+              "audioEnd": 313.039
+            },
+            {
+              "text": "Life in the desert became much better after that day.",
+              "audioStart": 313.902,
+              "audioEnd": 316.777
+            },
+            {
+              "text": "The animals lived together in peace and mutual respect.",
+              "audioStart": 317.639,
+              "audioEnd": 320.652
+            },
+            {
+              "text": "They worked hard and shared the responsibilities of daily life.",
+              "audioStart": 321.514,
+              "audioEnd": 324.74
+            },
+            {
+              "text": "And so the great story of the desert came to a happy end.",
+              "audioStart": 325.602,
+              "audioEnd": 328.464
+            },
+            {
+              "text": "People still talk about this famous event today.",
+              "audioStart": 329.327,
+              "audioEnd": 331.752
+            },
+            {
+              "text": "It remains a wonderful example of justice and hard work for everyone to remember.",
+              "audioStart": 332.615,
+              "audioEnd": 336.952
+            }
+          ]
+        }
+      ],
+      "audio": "audio/b2/st-0155.mp3",
+      "wordTimings": "audio/b2/st-0155.timings.json",
+      "quiz": [
+        {
+          "q": "Where did the lazy camel live?",
+          "options": [
+            "In a big city",
+            "In the middle of a desert",
+            "Near a large river"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which animals had to do the camel's share of the work?",
+          "options": [
+            "The horse, the dog, and the ox",
+            "The cat, the mouse, and the bird",
+            "The lion, the bear, and the wolf"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What did the Djinn magically give the camel as a punishment?",
+          "options": [
+            "A long tail",
+            "A great hump upon his back",
+            "A pair of heavy shoes"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "C1": {
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "At the very dawn of creation, when the world was freshly minted and the ink of existence still wet upon the page, animals had only just begun to labor under the command of man.",
+              "audioStart": 0.1,
+              "audioEnd": 9.588
+            },
+            {
+              "text": "In the desolate heart of a howling wilderness, a creature of singular indolence dwelt entirely alone.",
+              "audioStart": 10.45,
+              "audioEnd": 15.863
+            },
+            {
+              "text": "While the rest of the nascent world strained their muscles against the yoke of responsibility, this stubborn dweller refused to perform even the smallest scrap of labor.",
+              "audioStart": 16.725,
+              "audioEnd": 25.15
+            },
+            {
+              "text": "Whenever anyone approached to solicit his assistance or merely to offer a polite greeting, he responded with nothing more than a single, defiant syllable.",
+              "audioStart": 26.012,
+              "audioEnd": 34.1
+            },
+            {
+              "text": "To every entreaty, he uttered only a lazy and absolute refusal, content to let the universe pass him by while he remained utterly inert upon the shifting dunes.",
+              "audioStart": 34.962,
+              "audioEnd": 43.65
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a profoundly idle worker who contributed nothing to the collective endeavor while all around him others toiled under the blistering sun.",
+              "audioStart": 44.513,
+              "audioEnd": 51.425
+            },
+            {
+              "text": "Before long, the horse, the dog, and the heavy-set ox grew incandescent with resentment at such flagrant dereliction of duty.",
+              "audioStart": 52.288,
+              "audioEnd": 59.487
+            },
+            {
+              "text": "They found themselves unjustly burdened, forced to shoulder not only their own daily quotas of toil but also the hidden share belonging to the desert sluggard.",
+              "audioStart": 60.35,
+              "audioEnd": 68.162
+            },
+            {
+              "text": "Each loyal beast felt a profound weariness settle into his bones while watching the lazy creature recline in the shade hour after tedious hour.",
+              "audioStart": 69.025,
+              "audioEnd": 76.388
+            },
+            {
+              "text": "It was a situation so glaringly inequitable that it poisoned the morning air before the dew had even evaporated from the sand.",
+              "audioStart": 77.25,
+              "audioEnd": 83.612
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Every single sunrise ushered in a fresh wave of hardship for the hardworking contingent, who were driven across scorching expanses with heavy burdens strapped to their backs.",
+              "audioStart": 84.475,
+              "audioEnd": 93.525
+            },
+            {
+              "text": "Meanwhile, the lazy individual remained entirely stationary, refusing to disturb so much as a single grain of sand beneath his sprawling limbs.",
+              "audioStart": 94.388,
+              "audioEnd": 102.575
+            },
+            {
+              "text": "He manifested a complete and callous indifference toward the physical suffering of his peers, caring for little beyond the simple luxuries of sleep and sustenance.",
+              "audioStart": 103.438,
+              "audioEnd": 111.85
+            },
+            {
+              "text": "This egregious disregard for communal harmony plunged the community into a state of deep despondency and silent despair.",
+              "audioStart": 112.713,
+              "audioEnd": 119.312
+            },
+            {
+              "text": "They recognized that unless a swift remedy could be found, the fragile structure of their cooperative existence would inevitably fracture under the strain.",
+              "audioStart": 120.175,
+              "audioEnd": 128.05
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Driven to the brink of endurance, the working group convened an informal assembly beneath the blinding glare of the afternoon sky to debate their grievances.",
+              "audioStart": 128.912,
+              "audioEnd": 136.9
+            },
+            {
+              "text": "They earnestly hoped that a viable solution might materialize before the week had drawn to its weary close, sparing them further degradation.",
+              "audioStart": 137.762,
+              "audioEnd": 145.338
+            },
+            {
+              "text": "The desert was already a formidable adversary, a merciless expanse where survival demanded absolute unity and relentless vigilance from every living soul.",
+              "audioStart": 146.2,
+              "audioEnd": 154.75
+            },
+            {
+              "text": "Every animal secretly yearned for a tranquil sanctuary where the burdens of existence were distributed with fairness and mutual respect.",
+              "audioStart": 155.613,
+              "audioEnd": 162.562
+            },
+            {
+              "text": "Yet whenever they attempted to reason with the offender, he merely laughed mockingly and turned his broad back upon their earnest entreaties.",
+              "audioStart": 163.425,
+              "audioEnd": 170.3
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Such insolence compounded their misery, leaving them feeling profoundly powerless in the face of such stubborn recalcitrance.",
+              "audioStart": 171.162,
+              "audioEnd": 177.762
+            },
+            {
+              "text": "The sun beat down with relentless ferocity upon the golden dunes, driving temperatures to heights that sapped the very will to live from the weary travelers.",
+              "audioStart": 178.625,
+              "audioEnd": 186.588
+            },
+            {
+              "text": "Yet the lazy worker remained utterly indifferent to the thermal onslaught, his heart seemingly as cold and unyielding as the bedrock deep beneath the sand.",
+              "audioStart": 187.45,
+              "audioEnd": 195.275
+            },
+            {
+              "text": "The sheer incomprehensibility of his unwavering apathy baffled those who understood the harsh biological realities of their arid domain.",
+              "audioStart": 196.137,
+              "audioEnd": 203.125
+            },
+            {
+              "text": "How any living creature could embrace such absolute stagnation in a world so dependent on cooperation remained an insoluble mystery to them.",
+              "audioStart": 203.988,
+              "audioEnd": 211.512
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Seeking counsel in their mutual distress, the horse drew close to the dog to analyze the mounting crisis.",
+              "audioStart": 212.375,
+              "audioEnd": 218.262
+            },
+            {
+              "text": "The dog readily concurred that the lazy resident constituted an existential threat to the peace and prosperity of the entire community.",
+              "audioStart": 219.125,
+              "audioEnd": 226.238
+            },
+            {
+              "text": "Together, they resolved to escalate the matter to a higher authority, placing their hopes in someone possessing the power to enforce justice.",
+              "audioStart": 227.1,
+              "audioEnd": 234.463
+            },
+            {
+              "text": "They knew the desert was vast and unpredictable, a theatre of ancient forces where extraordinary interventions were known to occur.",
+              "audioStart": 235.325,
+              "audioEnd": 243.159
+            },
+            {
+              "text": "Only through coordinated appeal to a higher power could they hope to restore equilibrium to their fractured world.",
+              "audioStart": 244.022,
+              "audioEnd": 249.434
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Survival in this unforgiving crucible required every resident to contribute their utmost energy to the common storehouse.",
+              "audioStart": 250.297,
+              "audioEnd": 256.697
+            },
+            {
+              "text": "Because the idle dweller consumed resources without ever replenishing them, his continued presence represented a parasitic danger to all.",
+              "audioStart": 257.559,
+              "audioEnd": 264.872
+            },
+            {
+              "text": "Such flagrant injustice could no longer be tolerated without inviting total ruin upon their cooperative society.",
+              "audioStart": 265.734,
+              "audioEnd": 271.734
+            },
+            {
+              "text": "The time had arrived for a decisive reckoning that would settle the dispute once and for all and restore order to the shifting sands.",
+              "audioStart": 272.596,
+              "audioEnd": 278.971
+            },
+            {
+              "text": "With heavy hearts and anxious minds, the animals watched the sun descend behind the distant jagged peaks, painting the horizon in bruised shades of crimson and amber.",
+              "audioStart": 279.834,
+              "audioEnd": 288.747
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As twilight settled over the silent wilderness, the cool breath of evening offered a brief respite from the daytime heat, yet brought no comfort to their troubled thoughts.",
+              "audioStart": 289.609,
+              "audioEnd": 298.122
+            },
+            {
+              "text": "They retired to their resting places beneath a canopy of brilliant stars, acutely aware that tomorrow would demand the same exhausting labor.",
+              "audioStart": 298.984,
+              "audioEnd": 306.471
+            },
+            {
+              "text": "The night stretched endlessly across the open plains, a quiet expanse where only the nocturnal winds whispered secrets to the dunes.",
+              "audioStart": 307.334,
+              "audioEnd": 314.259
+            },
+            {
+              "text": "While the hardworking beasts tossed and turned with worry, the lazy worker slumbered deeply, untroubled by conscience or remorse.",
+              "audioStart": 315.122,
+              "audioEnd": 322.022
+            },
+            {
+              "text": "He dreamed exclusively of a world engineered for perpetual rest, blissfully ignorant of the storm gathering on the horizon.",
+              "audioStart": 322.884,
+              "audioEnd": 329.334
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Dawn broke with sudden brilliance, banishing the shadows and flooding the desert with an intense, unfiltered glare.",
+              "audioStart": 330.197,
+              "audioEnd": 336.346
+            },
+            {
+              "text": "At that very moment, a powerful Djinn who held dominion over all arid lands strode across the sand to investigate the growing unrest.",
+              "audioStart": 337.209,
+              "audioEnd": 344.459
+            },
+            {
+              "text": "He approached the lazy creature with purposeful steps, intending to call him to account for his disruptive behavior and uncooperative spirit.",
+              "audioStart": 345.322,
+              "audioEnd": 352.759
+            },
+            {
+              "text": "Yet when challenged, the stubborn animal merely cast a dismissive glance upward and repeated his favorite word of defiance.",
+              "audioStart": 353.622,
+              "audioEnd": 360.122
+            },
+            {
+              "text": "Stunned by such audacious insolence, the Djinn felt a surge of righteous indignation and resolved to administer a lesson that would endure through the ages.",
+              "audioStart": 360.984,
+              "audioEnd": 368.697
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "With a sweeping gesture of magical authority, the Djinn bestowed upon the sluggard a magnificent and unexpected addition directly upon his spine.",
+              "audioStart": 369.559,
+              "audioEnd": 377.334
+            },
+            {
+              "text": "This extraordinary anatomical modification materialized as a great, swelling mound designed to store nourishment for extended periods.",
+              "audioStart": 378.197,
+              "audioEnd": 385.659
+            },
+            {
+              "text": "Through this ingenious curse, the lazy creature was granted the biological capacity to labor for three consecutive days without requiring a single morsel of food.",
+              "audioStart": 386.522,
+              "audioEnd": 395.272
+            },
+            {
+              "text": "Ever since that fateful morning, creatures burdened with this specific adaptation have carried their great loads across the continents with stoic endurance.",
+              "audioStart": 396.134,
+              "audioEnd": 403.846
+            },
+            {
+              "text": "The wondrous hump provides the exact sustenance required to navigate the most unforgiving terrain when provisions are scarce and distances immense.",
+              "audioStart": 404.709,
+              "audioEnd": 412.359
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Thus the lazy worker finally received his proper load, permanently altered to reflect the responsibilities he had long sought to evade.",
+              "audioStart": 413.221,
+              "audioEnd": 420.459
+            },
+            {
+              "text": "A profound sense of vindication rippled through the desert community as they witnessed the brilliant resolution to their protracted ordeal.",
+              "audioStart": 421.322,
+              "audioEnd": 428.009
+            },
+            {
+              "text": "The horse, the dog, and the ox resumed their daily duties with renewed vigor, comforted by the restoration of cosmic fairness.",
+              "audioStart": 428.872,
+              "audioEnd": 436.022
+            },
+            {
+              "text": "No longer could the recalcitrant dweller lounge in idleness while others bore the brunt of existence; he now carried his own destiny upon his back.",
+              "audioStart": 436.884,
+              "audioEnd": 444.622
+            },
+            {
+              "text": "Harmony was restored to the wilderness, leaving behind a timeless legend that generations would recount whenever discussions of duty and equity arose.",
+              "audioStart": 445.484,
+              "audioEnd": 453.209
+            }
+          ]
+        }
+      ],
+      "audio": "audio/c1/st-0155.mp3",
+      "wordTimings": "audio/c1/st-0155.timings.json",
+      "quiz": [
+        {
+          "q": "Which animals initially discussed the problem of the lazy worker and decided to seek higher help?",
+          "options": [
+            "The horse and the dog",
+            "The dog and the Djinn",
+            "The ox and the horse"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What single word did the lazy worker use to reply whenever anyone asked him to help?",
+          "options": [
+            "Wait",
+            "No",
+            "Never"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What specific magical gift did the Djinn place upon the lazy worker's back?",
+          "options": [
+            "A pair of wings for flying over the sand",
+            "A thick coat of fur to block the cold nights",
+            "A great hump to store food for three days of work"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  }
+}
