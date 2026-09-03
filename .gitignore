@@ -14,6 +14,10 @@ pipeline/v2-originals.draft.json
 !.env.example
 .autopilot.log
 
+# Vocab pipeline (aşama 1/2): venv + cache git'e girmez, çıktı content/v2/vocab yayınlanır
+pipeline/vocab/.venv-vocab/
+pipeline/vocab/cache/
+
 # Geçici/debug çıktıları (yayınlanmaz)
 *.out
 .autopilot.nohup.log
