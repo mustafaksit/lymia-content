@@ -39,6 +39,12 @@ const D_BATCH = 50;   // çift / istek (çekim)
 const MAX_REPRESENTATIVE = 5;
 const MAX_ATTEMPTS = 3;
 const BASE_TAGS = new Set(['VB', 'NN', 'JJ', 'RB']); // gloss_tr aynen (çekimsiz)
+// İşlev (function word) tag'leri: içerik kelimesi değil -> vocab hedefi DEĞİL
+// (stopword filtresine takılmayanlar da buradan elenir; gloss undefined kalmasın).
+const FUNCTION_TAGS = new Set([
+  'IN', 'UH', 'RBR', 'RBS', 'CC', 'DT', 'TO', 'MD', 'PRP', 'PRP$',
+  'WDT', 'WP', 'WP$', 'WRB', 'EX', 'PDT', 'RP', 'POS', 'LS', 'SYM', 'FW',
+]);
 
 fs.mkdirSync(VOCAB_OUT_DIR, { recursive: true });
 for (const s of ['B', 'C', 'D']) fs.mkdirSync(path.join(CACHE_DIR, `stage-${s}`), { recursive: true });
@@ -99,7 +105,7 @@ function buildInventory(storyIds) {
     for (const [level, d] of Object.entries(a.levels)) {
       for (const sent of d.sentences) {
         sent.tokens.forEach((t, ti) => {
-          if (t.is_stop || t.is_propn || t.is_num) return;
+          if (t.is_stop || t.is_propn || t.is_num || FUNCTION_TAGS.has(t.tag)) return;
           totalTarget++;
           const key = `${t.lemma}\t${t.pos}`;
           let e = inv.get(key);
@@ -408,7 +414,7 @@ function stageE(storyIds, keys, invMap, senseMap, senseObj, stats, frozen) {
       const sentences = d.sentences.map((sent) => ({
         p: sent.p, s: sent.s,
         tokens: sent.tokens.map((t, ti) => {
-          if (t.is_stop || t.is_propn || t.is_num) return [t.surface, -1, t.tag];
+          if (t.is_stop || t.is_propn || t.is_num || FUNCTION_TAGS.has(t.tag)) return [t.surface, -1, t.tag];
           target++;
           const rec = occId.get(`${storyId}:${level}:${sent.p}:${sent.s}:${ti}`);
           const idx = rec && idIndex.has(rec.sid) ? idIndex.get(rec.sid) : -1;

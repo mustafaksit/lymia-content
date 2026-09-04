@@ -53,13 +53,24 @@ const cases = [
   ['VBG', 'sarmak', { dep: 'advcl' }, 'sararak'], // ulaç
   ['VBG', 'okumak', { dep: 'advcl' }, 'okuyarak'],
   ['VBG', 'koşmak', {}, 'koşuyor'], // aux/dep yok -> varsayılan sürerlik
-  // --- VBZ / VBP ---
-  ['VBZ', 'sarmak', {}, 'sarıyor'],
-  ['VBP', 'gelmek', {}, 'geliyor'],
-  ['VBZ', 'söylemek', {}, 'söylüyor'],
+  // --- VBZ / VBP geniş zaman ---
+  ['VBZ', 'sarmak', {}, 'sarar'],
+  ['VBZ', 'bakmak', {}, 'bakar'],       // tek heceli -> ar
+  ['VBZ', 'koşmak', {}, 'koşar'],
+  ['VBZ', 'aramak', {}, 'arar'],        // ünlü -> r
+  ['VBZ', 'okumak', {}, 'okur'],
+  ['VBP', 'gelmek', {}, 'gelir'],       // istisna -ir
+  ['VBZ', 'almak', {}, 'alır'],         // istisna
+  ['VBZ', 'vermek', {}, 'verir'],       // istisna
+  ['VBZ', 'görmek', {}, 'görür'],       // istisna
+  ['VBZ', 'olmak', {}, 'olur'],         // istisna
+  ['VBZ', 'gitmek', {}, 'gider'],       // yumuşama t->d, tek heceli -> er
+  ['VBZ', 'etmek', {}, 'eder'],         // yumuşama
+  ['VBZ', 'çalışmak', {}, 'çalışır'],   // çok heceli -> ır
+  ['VBP', 'bilmek', {}, 'bilir'],       // istisna
+  ['VBG', 'söylemek', {aux:['be']}, 'söylüyor'], // VBG+be değişmez
   ['JJR', 'daha iyi', {}, 'daha iyi'],
   ['JJS', 'en iyi', {}, 'en iyi'],
-  ['VBG', 'söylemek', {aux:['be']}, 'söylüyor'],
   // --- taban tag: gloss aynen ---
   ['VB', 'sarmak', {}, 'sarmak'],
   ['NN', 'kitap', {}, 'kitap'],

@@ -90,6 +90,15 @@ function converb(root) {
   if (endsVowel(root)) return root + 'y' + suf; // oku->okuyarak
   return soften(root) + suf;
 }
+// Geniş zaman -ır/-ir/-ur/-ür alan tek heceli istisna fiiller.
+const AORIST_IR = new Set(['al', 'bil', 'bul', 'dur', 'gel', 'gör', 'kal', 'ol', 'öl', 'san', 'var', 'ver', 'vur']);
+function aorist(root) {
+  if (endsVowel(root)) return root + 'r';                       // ara->arar, oku->okur
+  if (AORIST_IR.has(root)) return soften(root) + fourWay(root) + 'r'; // gel->gelir, al->alır
+  const vc = [...root].filter((c) => VOWELS.has(c)).length;
+  if (vc >= 2) return soften(root) + fourWay(root) + 'r';       // çalış->çalışır (çok heceli)
+  return soften(root) + (twoWay(root) === 'a' ? 'ar' : 'er');   // bak->bakar, git->gider (tek heceli)
+}
 
 /** Çok sözcüklü gloss'ta yalnız SON sözcük (asıl fiil) çekilir. */
 function applyToLastVerb(gloss, fn) {
@@ -145,7 +154,7 @@ export function inflect(gloss, pos, tag, ctx = {}) {
     }
     case 'VBZ':
     case 'VBP':
-      return exc?.VBZ ?? applyToLastVerb(g, continuous);
+      return exc?.VBZ ?? applyToLastVerb(g, aorist); // geniş zaman (bakar, gelir)
     default:
       return g; // RB, JJ, NN, VB ve diğerleri: sözlük hali
   }
