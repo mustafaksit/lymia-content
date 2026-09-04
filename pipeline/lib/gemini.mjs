@@ -251,6 +251,36 @@ export async function callGemini(prompt, { json = false } = {}) {
   throw lastError ?? new Error('LLM çağrısı başarısız');
 }
 
+/**
+ * Başlangıç anahtar testi: her ucu bir kez küçük bir istekle yoklar; başarısız
+ * (401/auth vb.) uçları rotasyondan çıkarır (dead) ve sonucu döner. Böylece
+ * geçersiz anahtarlar (ör. iptal edilmiş Groq) baştan elenir ve raporlanır.
+ */
+export async function probeEndpoints() {
+  const results = [];
+  for (const ep of POOL) {
+    if (dead.has(ep.id)) { results.push({ id: ep.id, ok: false, reason: 'zaten dead' }); continue; }
+    try {
+      const out = ep.type === 'openai'
+        ? await callOpenAI(ep, 'Reply with the single word: OK', false)
+        : await callGeminiEndpoint(ep, 'Reply with the single word: OK', false);
+      if (out.text && out.text.trim()) {
+        results.push({ id: ep.id, ok: true });
+      } else if (out.retriable === 'quota') {
+        dead.add(ep.id);
+        results.push({ id: ep.id, ok: false, reason: `kota (${out.status})` });
+      } else {
+        // rate/server: gecici -> uc canli birakilir ama testte 'belirsiz' isaretlenir
+        results.push({ id: ep.id, ok: true, reason: `gecici ${out.retriable || ''}`.trim() });
+      }
+    } catch (e) {
+      dead.add(ep.id);
+      results.push({ id: ep.id, ok: false, reason: e.message.slice(0, 70) });
+    }
+  }
+  return results;
+}
+
 /** Parses a JSON response, tolerating markdown code fences. */
 export function parseJsonResponse(text) {
   let cleaned = text

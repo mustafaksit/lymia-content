@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 """
-Vocab pipeline - DOĞRULAMA. Her content/v2/vocab/{id}.json dosyasını kaynak
-content/v2/stories/{id}.json ile karşılaştırır:
-  - seviye kümesi story ile birebir eşleşir,
+Vocab pipeline v2 - DOĞRULAMA. Yeni format:
+  content/v2/vocab/senses.json  -> { vocabVersion, senses: [ {id, lemma, pos, ...} ] }
+  content/v2/vocab/{id}.json    -> { levels: { LV: { sentences: [ {p,s,tokens:[[surface,idx,tag]]} ] } } }
+
+Her hikaye dosyası için:
+  - seviye kümesi story JSON ile birebir eşleşir,
   - her cümle için p/s var ve story'de o indekste cümle mevcut,
-  - token surface'leri birleştirilince cümlenin kelime akışıyla (noktalama hariç)
-    SIRA ve SAYI olarak eşleşir,
-  - her token'ın senseId'si ya null ya da senses sözlüğünde tanımlı.
+  - token surface akışı cümle kelime akışıyla (noktalama hariç) SIRA+SAYI eşleşir,
+  - her token indeksi -1 (yok) ya da 0 <= idx < len(senses).
 
-Uyumsuzluk varsa dosya "GEÇERSİZ" işaretlenir (yayınlanmamalı) ve hata yazılır.
-content/ ve stories dosyalarına DOKUNULMAZ (yalnız okunur).
-
-Kullanım: validate.py st-0001 st-0004 st-0150   (argsız: vocab/ içindeki tümü)
+content/ ve stories'e DOKUNULMAZ (yalnız okunur).
+Kullanım: validate.py st-0001 ...   (argsız: vocab/ içindeki tüm {storyId}.json)
 """
 import json
 import re
@@ -29,7 +29,14 @@ def words_of(text: str):
     return [w.lower() for w in WORD_RE.findall(text)]
 
 
-def validate_story(story_id: str):
+def load_senses():
+    p = VOCAB_DIR / "senses.json"
+    if not p.exists():
+        return None
+    return json.loads(p.read_text(encoding="utf-8")).get("senses", [])
+
+
+def validate_story(story_id: str, n_senses: int):
     errors = []
     vpath = VOCAB_DIR / f"{story_id}.json"
     spath = STORIES_DIR / f"{story_id}.json"
@@ -40,9 +47,7 @@ def validate_story(story_id: str):
 
     vocab = json.loads(vpath.read_text(encoding="utf-8"))
     story = json.loads(spath.read_text(encoding="utf-8"))
-    senses = vocab.get("senses", {})
 
-    # 1) seviye kümesi eşleşir
     v_levels = set(vocab.get("levels", {}).keys())
     s_levels = set(story.get("levels", {}).keys())
     if v_levels != s_levels:
@@ -51,12 +56,10 @@ def validate_story(story_id: str):
     for level in sorted(v_levels & s_levels):
         s_paras = story["levels"][level]["paragraphs"]
         v_sents = vocab["levels"][level]["sentences"]
-        # story'deki (p,s) -> text haritası
         s_map = {}
         for p_idx, para in enumerate(s_paras):
             for s_idx, sent in enumerate(para["sentences"]):
                 s_map[(p_idx, s_idx)] = sent["text"]
-        # her vocab cümlesi için hizalama
         seen = set()
         for vs in v_sents:
             key = (vs["p"], vs["s"])
@@ -70,14 +73,12 @@ def validate_story(story_id: str):
             if expected != actual:
                 errors.append(
                     f"{level} p{vs['p']}s{vs['s']}: kelime akışı uyuşmuyor "
-                    f"(story={len(expected)} tok, vocab={len(actual)} tok)"
+                    f"(story={len(expected)}, vocab={len(actual)})"
                 )
-            # senseId geçerliliği
             for tok in vs["tokens"]:
-                sid = tok[1]
-                if sid is not None and sid not in senses:
-                    errors.append(f"{level} p{vs['p']}s{vs['s']}: tanımsız senseId '{sid}'")
-        # story'de olup vocab'da olmayan cümle var mı
+                idx = tok[1]
+                if idx != -1 and not (0 <= idx < n_senses):
+                    errors.append(f"{level} p{vs['p']}s{vs['s']}: geçersiz sense indeksi {idx} (sınır {n_senses})")
         missing = set(s_map.keys()) - seen
         if missing:
             errors.append(f"{level}: {len(missing)} cümle vocab'da eksik (ör. {sorted(missing)[:3]})")
@@ -86,25 +87,29 @@ def validate_story(story_id: str):
 
 
 def main():
+    senses = load_senses()
+    if senses is None:
+        print("senses.json yok - önce build çalıştırın.")
+        sys.exit(2)
+    n = len(senses)
+    print(f"senses.json: {n} anlam")
+
     ids = sys.argv[1:]
     if not ids:
-        ids = sorted(p.stem for p in VOCAB_DIR.glob("*.json"))
-    if not ids:
-        print("vocab/ boş, doğrulanacak dosya yok.")
-        return
+        ids = sorted(p.stem for p in VOCAB_DIR.glob("*.json") if p.stem != "senses")
 
-    total_ok = 0
+    ok = 0
     for story_id in ids:
-        errors = validate_story(story_id)
+        errors = validate_story(story_id, n)
         if errors:
             print(f"✗ {story_id}: GEÇERSİZ ({len(errors)} hata)")
             for e in errors[:20]:
                 print(f"    - {e}")
         else:
-            total_ok += 1
+            ok += 1
             print(f"✓ {story_id}: geçerli")
-    print(f"\nSonuç: {total_ok}/{len(ids)} dosya geçerli.")
-    sys.exit(0 if total_ok == len(ids) else 2)
+    print(f"\nSonuç: {ok}/{len(ids)} dosya geçerli.")
+    sys.exit(0 if ok == len(ids) else 2)
 
 
 if __name__ == "__main__":
