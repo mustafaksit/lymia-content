@@ -24,6 +24,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import { callGemini, parseJsonResponse, poolStatus, probeEndpoints } from '../lib/gemini.mjs';
+import { inflect } from './tr-morph.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..', '..');
@@ -43,6 +44,27 @@ fs.mkdirSync(VOCAB_OUT_DIR, { recursive: true });
 for (const s of ['B', 'C', 'D']) fs.mkdirSync(path.join(CACHE_DIR, `stage-${s}`), { recursive: true });
 
 const sha1 = (s) => crypto.createHash('sha1').update(s).digest('hex').slice(0, 20);
+
+/**
+ * SÜREÇ KURALI: senses.json DONDURULUR. Var olan lemma|pos için B yeniden
+ * çağrılmaz (buradan yüklenir). Yeni lemma veya 0-dönen token için ek-tur B
+ * çalışır ve MEVCUT listeye EKLER. Var olan senseId asla silinmez/yeniden
+ * numaralanmaz. senses.json'un KENDİSİ referanstır (cache'ten bağımsız).
+ */
+function loadFrozenSenses() {
+  const p = path.join(VOCAB_OUT_DIR, 'senses.json');
+  if (!fs.existsSync(p)) return { byKey: new Map(), byId: new Map() };
+  const arr = JSON.parse(fs.readFileSync(p, 'utf8')).senses || [];
+  const byKey = new Map(); const byId = new Map();
+  for (const s of arr) {
+    byId.set(s.id, s);
+    const key = `${s.lemma}\t${s.pos}`;
+    const n = Number(s.id.split('|').pop());
+    if (!byKey.has(key)) byKey.set(key, []);
+    byKey.get(key)[n - 1] = { def_en: s.def_en, gloss_tr: s.gloss_tr, example_en: s.example_en, forms: s.forms || {} };
+  }
+  return { byKey, byId };
+}
 const wc = (s) => s.trim().split(/\s+/).filter(Boolean).length;
 const lc = (s) => s.toLowerCase();
 
@@ -82,7 +104,7 @@ function buildInventory(storyIds) {
           const key = `${t.lemma}\t${t.pos}`;
           let e = inv.get(key);
           if (!e) { e = { lemma: t.lemma, pos: t.pos, occ: [], tags: new Set() }; inv.set(key, e); }
-          e.occ.push({ storyId: id, level, p: sent.p, s: sent.s, ti, surface: t.surface, tag: t.tag });
+          e.occ.push({ storyId: id, level, p: sent.p, s: sent.s, ti, surface: t.surface, tag: t.tag, dep: t.dep, aux: t.aux || [] });
           e.tags.add(t.tag);
         });
       }
@@ -146,11 +168,13 @@ SADECE şu JSON'u döndür, sıra kelime sırasıyla aynı:
 {"items":[{"lemma":"","pos":"","senses":[{"def_en":"","gloss_tr":"","example_en":""}]}]}`;
 }
 
-async function stageB(keys, invMap, stats) {
+async function stageB(keys, invMap, stats, frozen) {
   // key -> [{def_en,gloss_tr,example_en}] (kapıdan geçmiş)
   const senseMap = new Map();
   const todo = [];
   for (const key of keys) {
+    // DONDURULMUŞ lemma: senses.json'dan yükle, B'yi ÇAĞIRMA (süreç kuralı).
+    if (frozen?.byKey.has(key)) { senseMap.set(key, frozen.byKey.get(key)); stats.bFrozen++; continue; }
     const e = invMap.get(key);
     const cacheKey = `B:${key}:${pickRepresentative(e.occ).map((o) => sentText(o)).join('|')}`;
     const cached = cacheGet('B', cacheKey);
@@ -317,102 +341,51 @@ ${blocks}
 SADECE JSON, sıra kelime sırasıyla: {"items":[{"lemma":"","pos":"","new_senses":[{"def_en":"","gloss_tr":"","example_en":""}]}]}`;
 }
 
-// ---- Aşama D: çekimli karşılık ----
-async function stageD(keys, invMap, senseMap, senseObj, stats) {
-  // kullanılan (senseId, tag) çiftlerini topla
-  const pairs = new Map(); // senseId|tag -> {senseId, tag, lemma, pos, gloss_tr, sample}
+// ---- Aşama D: çekimli karşılık - KURAL TABANLI (LLM YOK, tr-morph.mjs) ----
+function stageD(keys, invMap, senseMap, senseObj, stats) {
+  // (senseId, tag) -> temsili bağlam. Aynı çift farklı bağlamlarda geçebilir;
+  // forms tag başına tek değer tutar -> aux'lu (be/have) bağlamı yeğle (kanonik).
+  const pairs = new Map();
   for (const key of keys) {
     const e = invMap.get(key); const senses = senseMap.get(key); if (!senses) continue;
-    const [lemma, pos] = key.split('\t');
-    for (const o of e.occ) {
+    const [, pos] = key.split('\t');
+    for (const o of occOf(e)) {
       if (!o.senseId) continue;
       const n = Number(o.senseId.split('|').pop());
       const sn = senses[n - 1]; if (!sn) continue;
       const pk = `${o.senseId}|${o.tag}`;
-      if (!pairs.has(pk)) pairs.set(pk, { senseId: o.senseId, tag: o.tag, lemma, pos, gloss_tr: sn.gloss_tr, sample: o.surface });
+      if (!pairs.has(pk)) pairs.set(pk, { senseId: o.senseId, tag: o.tag, pos, gloss_tr: sn.gloss_tr, dep: o.dep, aux: o.aux || [] });
+      else { const ex = pairs.get(pk); if ((ex.aux?.length ?? 0) === 0 && (o.aux?.length ?? 0) > 0) { ex.dep = o.dep; ex.aux = o.aux; } }
     }
   }
-  const list = [...pairs.values()];
-  const needLLM = [];
-  for (const pr of list) {
-    if (BASE_TAGS.has(pr.tag)) { setForm(senseObj, pr.senseId, pr.tag, pr.gloss_tr); stats.dBase++; }
-    else needLLM.push(pr);
+  stats.dPairs = pairs.size;
+  for (const pr of pairs.values()) {
+    if (BASE_TAGS.has(pr.tag)) { setForm(senseObj, pr.senseId, pr.tag, pr.gloss_tr); stats.dBase++; continue; }
+    const form = inflect(pr.gloss_tr, pr.pos, pr.tag, { dep: pr.dep, aux: pr.aux });
+    if (!form || lc(form) === lc(pr.gloss_tr)) {
+      // Kural çekim üretemedi (gloss düzgün mastar değil vb.) -> forms'a yazma, raporla.
+      stats.dFails.push({ pos: pr.pos, tag: pr.tag, gloss_tr: pr.gloss_tr });
+    } else { setForm(senseObj, pr.senseId, pr.tag, form); stats.dWritten++; }
   }
-  const batches = [];
-  for (let i = 0; i < needLLM.length; i += D_BATCH) batches.push(needLLM.slice(i, i + D_BATCH));
-  await mapPool(batches, async (batch) => {
-    // cache anahtarı v2 ('D2:') -> eski (fallback'e düşmüş) D cache'i BAŞTAN yeniden üretilir.
-    const cacheKey = `D2:${batch.map((p) => `${p.lemma}|${p.tag}|${p.gloss_tr}|${p.sample}`).join('||')}`;
-    const cached = cacheGet('D', cacheKey) || {}; // { batchIndex: çekimli }
-    let pending = batch.map((p, i) => ({ p, i })).filter(({ i }) => cached[i] == null);
-    for (let attempt = 1; attempt <= MAX_ATTEMPTS && pending.length; attempt++) {
-      stats.dRequests++;
-      let forms = [];
-      try {
-        const raw = await callGemini(dPrompt(pending.map((x) => x.p)), { json: true });
-        forms = parseJsonResponse(raw)?.forms || [];
-      } catch { stats.dErrors++; if (attempt === MAX_ATTEMPTS) break; continue; }
-      const next = [];
-      pending.forEach((x, idx) => {
-        const v = String(forms[idx] ?? '').trim();
-        // KAPI (Düzeltme 1): boş, İngilizce lemma ile aynı, VEYA gloss_tr sözlük
-        // hali ile birebir aynı -> FAIL (çekim üretilmemiş). Taban tag'ler zaten
-        // buraya gelmez (VB/NN/JJ/RB ayrıldı).
-        const bad = !v || lc(v) === lc(x.p.lemma) || lc(v) === lc(x.p.gloss_tr);
-        if (bad) {
-          next.push(x);
-          if (attempt === MAX_ATTEMPTS) stats.dFails.push({ lemma: x.p.lemma, pos: x.p.pos, tag: x.p.tag, gloss_tr: x.p.gloss_tr, got: v });
-        } else cached[x.i] = v;
-      });
-      pending = next;
-    }
-    cacheSet('D', cacheKey, cached);
-    batch.forEach((pr, i) => { if (cached[i] != null) { setForm(senseObj, pr.senseId, pr.tag, cached[i]); stats.dWritten++; } });
-  }, liveConcurrency());
-  stats.dPairs = list.length;
-  stats.dNeedLLM = needLLM.length;
 }
+function occOf(e, target) { return target ? e.occ.filter((o) => target.has(o.storyId)) : e.occ; }
 function setForm(senseObj, senseId, tag, val) {
   const sn = senseObj.get(senseId); if (!sn) return;
   sn.forms = sn.forms || {}; sn.forms[tag] = val;
 }
-// Penn tag -> Türkçe çekim talimatı (D prompt'unda kullanılır).
-const TAG_HINT = {
-  VBD: 'geçmiş zaman (ör. sardı, koştu)',
-  VBN: 'geçmiş ortaç/edilgen (ör. sarılmış, yazılmış)',
-  VBG: 'şimdiki/sürerlik veya -en ortaç (ör. sarıyor / saran)',
-  VBZ: 'geniş zaman 3. tekil (ör. sarar, koşar)',
-  VBP: 'geniş zaman (ör. sararım/sararlar)',
-  NNS: 'çoğul (ör. kitaplar, evler)',
-  NNPS: 'çoğul (ör. kitaplar)',
-  JJR: 'karşılaştırma "daha" (ör. daha büyük)',
-  JJS: 'üstünlük "en" (ör. en büyük)',
-  RBR: 'karşılaştırma "daha" (ör. daha hızlı)',
-  RBS: 'üstünlük "en" (ör. en hızlı)',
-};
-function dPrompt(batch) {
-  const lines = batch.map((p, i) => `${i + 1}. ${p.lemma} | ${p.pos} | ${p.gloss_tr} | ${p.tag} (${TAG_HINT[p.tag] || 'çekimli hal'}) | ${p.sample}`).join('\n');
-  return `Her satırda İngilizce kelimenin Türkçe karşılığını, verilen Penn tag ÇEKİMİNE uygun halinde yaz.
-gloss_tr SÖZLÜK halidir; sen o kelimenin cümledeki ÇEKİMLİ halini üret; gloss_tr ile AYNI OLAMAZ (aksi halde yanlış).
-Örnekler:
-  "look | VERB | bakmak | VBD (geçmiş zaman) | looked" -> "baktı"
-  "look | VERB | bakmak | VBG (sürerlik/-en) | looking" -> "bakıyor"
-  "book | NOUN | kitap | NNS (çoğul) | books" -> "kitaplar"
-  "big  | ADJ  | büyük | JJR (daha) | bigger" -> "daha büyük"
-  "fast | ADV  | hızlı | RBS (en) | fastest" -> "en hızlı"
-Satırlar (lemma | pos | gloss_tr | tag | surface):
-${lines}
-SADECE JSON, satır sırasına göre: {"forms":["baktı","kitaplar"]}`;
-}
 
 // ---- Aşama E: dosya üretimi ----
-function stageE(storyIds, keys, invMap, senseMap, senseObj, stats) {
-  // referans edilen senseId'ler -> senses dizisi + index
+function stageE(storyIds, keys, invMap, senseMap, senseObj, stats, frozen) {
+  // Yayınlanacak senseId'ler = bu koşuda referans edilenler ∪ DONDURULMUŞ tümü
+  // (süreç kuralı: var olan senseId asla düşmez). Her id senseObj'den, yoksa
+  // dondurulmuş senses.json'dan çözülür.
   const usedIds = new Set();
   for (const key of keys) { const e = invMap.get(key); for (const o of e.occ) if (o.senseId) usedIds.add(o.senseId); }
+  for (const id of frozen?.byId.keys() ?? []) usedIds.add(id);
   const senseArr = [...usedIds].sort().map((id) => {
     const sn = senseObj.get(id);
-    return { id, lemma: sn.lemma, pos: sn.pos, def_en: sn.def_en, gloss_tr: sn.gloss_tr, example_en: sn.example_en, forms: sn.forms || {} };
+    if (sn) return { id, lemma: sn.lemma, pos: sn.pos, def_en: sn.def_en, gloss_tr: sn.gloss_tr, example_en: sn.example_en, forms: sn.forms || {} };
+    return frozen.byId.get(id); // bu koşuda dokunulmayan dondurulmuş anlam aynen korunur
   });
   const idIndex = new Map(senseArr.map((s, i) => [s.id, i]));
 
@@ -490,8 +463,9 @@ async function main() {
   else { console.error('--stories a,b,c ya da --all gerekli'); process.exit(1); }
 
   const started = Date.now();
+  const frozen = loadFrozenSenses();
   const stats = {
-    bRequests: 0, bErrors: 0, bCache: 0, bNull: 0,
+    bRequests: 0, bErrors: 0, bCache: 0, bNull: 0, bFrozen: 0,
     cRequests: 0, cErrors: 0, cAuto: 0, cZero: 0, cLowConf: 0, extraLemmas: 0,
     dRequests: 0, dErrors: 0, dBase: 0, dPairs: 0, dNeedLLM: 0, dWritten: 0, dFails: [],
     storyFiles: [], senseCount: 0, sensesFileBytes: 0, ready: [], notReady: [],
@@ -504,9 +478,9 @@ async function main() {
   const keys = [...inv.keys()].filter((k) => inv.get(k).occ.some((o) => pilotSet.has(o.storyId)));
   console.log(`işlenecek lemma|pos: ${keys.length} (hedef hikayeler: ${storyIds.join(', ')})`);
 
-  console.log('Aşama B (anlam envanteri)...');
-  const senseMap = await stageB(keys, inv, stats);
-  console.log(`  B bitti: ${stats.bRequests} istek, ${stats.bCache} cache, ${stats.bNull} lemma anlamsız`);
+  console.log(`Aşama B (anlam envanteri)... dondurulmuş senses.json: ${frozen.byId.size} anlam`);
+  const senseMap = await stageB(keys, inv, stats, frozen);
+  console.log(`  B bitti: ${stats.bRequests} istek, ${stats.bCache} cache, ${stats.bFrozen} dondurulmuş, ${stats.bNull} lemma anlamsız`);
 
   console.log('Aşama C (sınıflandırma)...');
   await stageC(keys, inv, senseMap, stats, pilotSet);
@@ -520,12 +494,12 @@ async function main() {
     senses.forEach((sn, i) => senseObj.set(`${lemma}|${pos}|${i + 1}`, { lemma, pos, def_en: sn.def_en.trim(), gloss_tr: sn.gloss_tr.trim(), example_en: sn.example_en.trim() }));
   }
 
-  console.log('Aşama D (çekimli karşılık)...');
-  await stageD(keys, inv, senseMap, senseObj, stats);
-  console.log(`  D bitti: ${stats.dRequests} istek | çift toplam: ${stats.dPairs}, taban-tag(LLM'siz): ${stats.dBase}, LLM'e giden: ${stats.dNeedLLM}, yazılan: ${stats.dWritten}, FAIL: ${stats.dFails.length}`);
+  console.log('Aşama D (çekimli karşılık - KURAL tabanlı, LLM yok)...');
+  stageD(keys, inv, senseMap, senseObj, stats);
+  console.log(`  D bitti (KURAL): çift ${stats.dPairs}, taban-tag ${stats.dBase}, çekilen ${stats.dWritten}, üretilemeyen ${stats.dFails.length}`);
 
   console.log('Aşama E (dosya üretimi)...');
-  stageE(storyIds, keys, inv, senseMap, senseObj, stats);
+  stageE(storyIds, keys, inv, senseMap, senseObj, stats, frozen);
 
   stats.durationSec = ((Date.now() - started) / 1000).toFixed(1);
   stats.totalRequests = stats.bRequests + stats.cRequests + stats.dRequests;
@@ -534,7 +508,7 @@ async function main() {
 
   console.log('\n=== ÖZET (yeni pipeline) ===');
   console.log('lemma|pos işlendi:', keys.length, '| üretilen sense:', stats.senseCount);
-  console.log('LLM isteği TOPLAM:', stats.totalRequests, `(B=${stats.bRequests} C=${stats.cRequests} D=${stats.dRequests})`);
+  console.log('LLM isteği TOPLAM:', stats.totalRequests, `(B=${stats.bRequests} C=${stats.cRequests}; D=KURAL, LLM yok)`);
   console.log('senses.json:', (stats.sensesFileBytes / 1024).toFixed(1), 'KB | hikaye dosyaları:', stats.storyFiles.map((f) => `${f.storyId}=${(f.bytes / 1024).toFixed(1)}KB(düşük-güven %${f.lowConfPct})`).join(', '));
   console.log('D FAIL (forms yazılmadı):', stats.dFails.length, stats.dFails.length ? '(ör. ' + stats.dFails.slice(0, 5).map((x) => `${x.lemma}/${x.tag}`).join(', ') + ')' : '');
   console.log('yayına hazır:', stats.ready.join(', ') || '-', '| hazır DEĞİL (>%2 düşük güven):', stats.notReady.join(', ') || '-');

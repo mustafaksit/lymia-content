@@ -44,12 +44,18 @@ def annotate_sentence(nlp, text: str):
             if tokens:
                 tokens[-1]["surface"] += tok.text
             continue
+        # Çekim için bağımlılık bağlamı: dep etiketi + bu token'ın yardımcı fiil
+        # (aux/auxpass) çocuklarının lemma'ları (have/be) - VBN aktif/edilgen ve
+        # VBG sürerlik/sıfat-fiil ayrımı bunlara dayanır.
+        aux = [c.lemma_.lower() for c in tok.children if c.dep_ in ("aux", "auxpass")]
         tokens.append(
             {
                 "surface": tok.text,
                 "lemma": tok.lemma_.lower(),
                 "pos": tok.pos_,
                 "tag": tok.tag_,
+                "dep": tok.dep_,
+                "aux": aux,
                 "is_stop": bool(tok.is_stop),
                 "is_propn": tok.pos_ == "PROPN",
                 "is_num": tok.pos_ == "NUM" or bool(tok.like_num),
@@ -91,9 +97,13 @@ def annotate_story(nlp, story_id: str):
 
 
 def main():
-    ids = sys.argv[1:]
+    args = sys.argv[1:]
+    if args == ["--all"]:
+        ids = sorted(p.stem for p in STORIES_DIR.glob("*.json"))
+    else:
+        ids = args
     if not ids:
-        print("kullanım: annotate.py <storyId> [storyId...]", file=sys.stderr)
+        print("kullanım: annotate.py <storyId> [storyId...]  |  annotate.py --all", file=sys.stderr)
         sys.exit(1)
 
     ANNOT_DIR.mkdir(parents=True, exist_ok=True)
