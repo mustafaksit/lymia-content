@@ -388,11 +388,15 @@ function stageE(storyIds, keys, invMap, senseMap, senseObj, stats, frozen) {
   const usedIds = new Set();
   for (const key of keys) { const e = invMap.get(key); for (const o of e.occ) if (o.senseId) usedIds.add(o.senseId); }
   for (const id of frozen?.byId.keys() ?? []) usedIds.add(id);
+  let dropped = 0;
   const senseArr = [...usedIds].sort().map((id) => {
     const sn = senseObj.get(id);
     if (sn) return { id, lemma: sn.lemma, pos: sn.pos, def_en: sn.def_en, gloss_tr: sn.gloss_tr, example_en: sn.example_en, forms: sn.forms || {} };
-    return frozen.byId.get(id); // bu koşuda dokunulmayan dondurulmuş anlam aynen korunur
-  });
+    const fz = frozen?.byId.get(id);
+    if (fz) return fz; // bu koşuda dokunulmayan dondurulmuş anlam aynen korunur
+    dropped++; return null; // çözülemeyen id (nadir): token -1'e düşer, çökme yok
+  }).filter(Boolean);
+  stats.droppedIds = dropped;
   const idIndex = new Map(senseArr.map((s, i) => [s.id, i]));
 
   fs.writeFileSync(path.join(VOCAB_OUT_DIR, 'senses.json'),
@@ -497,7 +501,11 @@ async function main() {
   for (const key of keys) {
     const senses = senseMap.get(key); if (!senses) continue;
     const [lemma, pos] = key.split('\t');
-    senses.forEach((sn, i) => senseObj.set(`${lemma}|${pos}|${i + 1}`, { lemma, pos, def_en: sn.def_en.trim(), gloss_tr: sn.gloss_tr.trim(), example_en: sn.example_en.trim() }));
+    // for-döngü (forEach seyrek dizi DELİKLERİNİ atlar; frozen dizide delik olabilir)
+    for (let i = 0; i < senses.length; i++) {
+      const sn = senses[i]; if (!sn) continue;
+      senseObj.set(`${lemma}|${pos}|${i + 1}`, { lemma, pos, def_en: (sn.def_en || '').trim(), gloss_tr: (sn.gloss_tr || '').trim(), example_en: (sn.example_en || '').trim() });
+    }
   }
 
   console.log('Aşama D (çekimli karşılık - KURAL tabanlı, LLM yok)...');
