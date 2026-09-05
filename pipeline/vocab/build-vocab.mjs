@@ -222,7 +222,7 @@ async function stageB(keys, invMap, stats, frozen) {
   const batches = [];
   for (let i = 0; i < todo.length; i += B_BATCH) batches.push(todo.slice(i, i + B_BATCH));
 
-  await mapPool(batches, async (batch) => {
+  const runBatch = async (batch) => {
     let pending = batch.slice();
     for (let attempt = 1; attempt <= MAX_ATTEMPTS && pending.length; attempt++) {
       stats.bRequests++;
@@ -230,7 +230,19 @@ async function stageB(keys, invMap, stats, frozen) {
       try {
         const raw = await callGemini(bPrompt(pending.map((x) => x.e)), { json: true });
         items = parseJsonResponse(raw)?.items || [];
-      } catch { stats.bErrors++; if (attempt === MAX_ATTEMPTS) break; continue; }
+      } catch (err) {
+        stats.bErrors++;
+        // 413 (tüm canlı uçlar için batch çok büyük, ör. yalnız Groq canlıyken):
+        // batch'i ikiye böl, küçük parçalarla dene -> uç-bazlı küçük batch etkisi.
+        if (/\b413\b|too large/i.test(String(err?.message)) && pending.length > 1) {
+          const mid = Math.ceil(pending.length / 2);
+          await runBatch(pending.slice(0, mid));
+          await runBatch(pending.slice(mid));
+          return;
+        }
+        if (attempt === MAX_ATTEMPTS) break;
+        continue;
+      }
       const next = [];
       pending.forEach((x, idx) => {
         const it = items[idx] || items.find((m) => lc(m?.lemma || '') === lc(x.e.lemma));
@@ -240,7 +252,8 @@ async function stageB(keys, invMap, stats, frozen) {
       });
       pending = next;
     }
-  }, liveConcurrency());
+  };
+  await mapPool(batches, runBatch, liveConcurrency());
   return senseMap;
 }
 
