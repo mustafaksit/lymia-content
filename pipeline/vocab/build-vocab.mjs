@@ -263,7 +263,7 @@ function cPrompt(lemma, pos, senses, sents) {
   const ql = sents.map((t, i) => `${i + 1}. "${t}"`).join('\n');
   return `Kelime: ${lemma} (${pos}). Olası anlamlar:
 ${sl}
-Aşağıdaki her cümlede "${lemma}" hangi anlamda kullanılmış? Sadece anlam NUMARASINI ver; hiçbiri uymuyorsa 0.
+Aşağıdaki her cümlede "${lemma}" hangi anlamda kullanılmış? YAKIN bir anlam varsa onu seç; "0"ı YALNIZ hiçbir anlam açıkça uymuyorsa kullan (deyim/phrasal veya farklı kelime türü). Sadece anlam NUMARASINI ver.
 Cümleler:
 ${ql}
 SADECE JSON, cümle sırasına göre: {"answers":[1,2,0]}`;
