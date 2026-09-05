@@ -5,7 +5,7 @@
  *
  * Aşamalar (hepsi cache'li, kaldığı yerden devam eder):
  *   A Envanter  : spaCy annot -> her lemma|pos'un tüm geçişleri (deterministik, LLM yok).
- *   B Anlam env.: lemma|pos başına <=5 temsili cümle -> FARKLI anlamlar (LLM, 20 lemma/istek).
+ *   B Anlam env.: lemma|pos başına <=8 temsili cümle -> FARKLI anlamlar (LLM, 20 lemma/istek).
  *   C Sınıflandırma: tek anlamlı -> otomatik; çok anlamlı -> geçişler 40'lık paket, anlam no (LLM).
  *   D Çekim     : (senseId, tag) çiftleri; taban tag (VB/NN/JJ/RB) LLM'siz; diğerleri 50/istek.
  *   E Dosya     : content/v2/vocab/senses.json + {storyId}.json (token=[surface,index,tag]).
@@ -36,7 +36,7 @@ const VOCAB_VERSION = 1;
 const B_BATCH = 20;   // lemma / istek (anlam envanteri)
 const C_BATCH = 40;   // cümle / istek (sınıflandırma)
 const D_BATCH = 50;   // çift / istek (çekim)
-const MAX_REPRESENTATIVE = 5;
+const MAX_REPRESENTATIVE = 8;
 const MAX_ATTEMPTS = 3;
 const BASE_TAGS = new Set(['VB', 'NN', 'JJ', 'RB']); // gloss_tr aynen (çekimsiz)
 // İşlev (function word) tag'leri: içerik kelimesi değil -> vocab hedefi DEĞİL
@@ -130,15 +130,41 @@ async function mapPool(items, worker, concurrency) {
 }
 const liveConcurrency = () => Math.max(2, poolStatus().filter((e) => !e.dead).length * 2);
 
-// ---- temsili cümle seçimi: farklı hikaye/seviye, benzersiz metin ----
+// bir geçişin komşu kelime imzası (önceki|sonraki surface) - bağlam çeşitliliği için
+function occNeighbor(o) {
+  const a = loadAnnot(o.storyId);
+  const sent = a.levels[o.level]?.sentences.find((x) => x.p === o.p && x.s === o.s);
+  if (!sent) return '^|$';
+  const prev = sent.tokens[o.ti - 1]?.surface || '^';
+  const next = sent.tokens[o.ti + 1]?.surface || '$';
+  return `${lc(prev)}|${lc(next)}`;
+}
+
+// ---- temsili cümle seçimi (<=MAX_REPRESENTATIVE) ----
+// Öncelik sırası: farklı HİKAYE > farklı SEVİYE > cümle UZUNLUĞU kovası > komşu
+// kelime çeşitliliği. Açgözlü: her turda en çok yeni boyut ekleyen geçiş seçilir.
+// Lemma MAX'tan az farklı cümlede geçiyorsa hepsi döner.
 function pickRepresentative(occ) {
   const seen = new Set(); const uniq = [];
   for (const o of occ) { const t = sentText(o).trim(); if (!t || seen.has(t)) continue; seen.add(t); uniq.push(o); }
-  const byStory = new Map();
-  for (const o of uniq) { if (!byStory.has(o.storyId)) byStory.set(o.storyId, []); byStory.get(o.storyId).push(o); }
-  const groups = [...byStory.values()]; const picks = []; let gi = 0;
-  while (picks.length < MAX_REPRESENTATIVE && groups.some((g) => g.length)) {
-    const g = groups[gi % groups.length]; if (g.length) picks.push(g.shift()); gi++;
+  if (uniq.length <= MAX_REPRESENTATIVE) return uniq;
+  const lenBucket = (o) => Math.min(6, Math.floor(wc(sentText(o)) / 5)); // 0..6
+  const usedStory = new Set(), usedLevel = new Set(), usedLen = new Set(), usedNb = new Set();
+  const picks = []; const pool = uniq.slice();
+  while (picks.length < MAX_REPRESENTATIVE && pool.length) {
+    let best = 0, bestScore = -1;
+    for (let i = 0; i < pool.length; i++) {
+      const o = pool[i];
+      const score =
+        (usedStory.has(o.storyId) ? 0 : 8) +
+        (usedLevel.has(o.level) ? 0 : 4) +
+        (usedLen.has(lenBucket(o)) ? 0 : 2) +
+        (usedNb.has(occNeighbor(o)) ? 0 : 1);
+      if (score > bestScore) { bestScore = score; best = i; }
+    }
+    const o = pool.splice(best, 1)[0];
+    usedStory.add(o.storyId); usedLevel.add(o.level); usedLen.add(lenBucket(o)); usedNb.add(occNeighbor(o));
+    picks.push(o);
   }
   return picks;
 }
@@ -155,12 +181,19 @@ const gateSense = (lemma, sn) => {
 };
 
 // ---- Aşama B: anlam envanteri ----
+// bir lemma'nın katalogdaki farklı (benzersiz) cümle sayısı
+function uniqSentCount(e) {
+  const seen = new Set();
+  for (const o of e.occ) { const t = sentText(o).trim(); if (t) seen.add(t); }
+  return seen.size;
+}
 function bPrompt(batch) {
   const blocks = batch.map((e, i) => {
+    const x = uniqSentCount(e);
     const ex = pickRepresentative(e.occ).map((o) => `   - "${sentText(o)}"`).join('\n');
-    return `${i + 1}) ${e.lemma} (${e.pos}):\n${ex}`;
+    return `${i + 1}) ${e.lemma} (${e.pos}) — bu kelime katalogda ${x} farklı cümlede geçiyor, aşağıdakiler temsili örnek:\n${ex}`;
   }).join('\n');
-  return `Aşağıdaki her İngilizce kelime için, SADECE verilen örnek cümlelerde KULLANILAN farklı anlamları listele (sözlükteki tüm anlamları DEĞİL).
+  return `Aşağıdaki her İngilizce kelime için, SADECE verilen örnek cümlelerde GÖRÜNEN farklı anlamları listele (sözlükteki tüm anlamları DEĞİL). Örnekler arasında anlam farkı yoksa TEK anlam ver.
 Her anlam için:
 - def_en: bu anlamın İngilizce tanımı, EN FAZLA 12 kelime.
 - gloss_tr: Türkçe karşılığın sözlük hali (fiil=mastar, isim=yalın).
@@ -202,7 +235,7 @@ async function stageB(keys, invMap, stats, frozen) {
       pending.forEach((x, idx) => {
         const it = items[idx] || items.find((m) => lc(m?.lemma || '') === lc(x.e.lemma));
         const senses = Array.isArray(it?.senses) ? it.senses.filter((sn) => !gateSense(x.e.lemma, sn)) : [];
-        if (senses.length === 0) { next.push(x); if (attempt === MAX_ATTEMPTS) stats.bNull++; }
+        if (senses.length === 0) { next.push(x); if (attempt === MAX_ATTEMPTS) { stats.bNull++; stats.bNullList.push(x.key.replace('\t', '|')); } }
         else { senseMap.set(x.key, senses); cacheSet('B', x.cacheKey, senses); }
       });
       pending = next;
@@ -457,7 +490,62 @@ async function main() {
     return;
   }
 
-  if (cmd !== 'build') { console.error('kullanım: build-vocab.mjs inventory | build --stories a,b,c | build --all'); process.exit(1); }
+  if (cmd === 'diagnose') {
+    // C ÖNCESİ TEŞHİS: yeni B anlam dağılımı + eski koşuda sınıflandırılamayan
+    // (lowConf/0-dönen) token'lar, yeni B anlam listeleriyle yan yana. C BAŞLATMAZ.
+    const allIds = fs.readdirSync(ANNOT_DIR).filter((f) => f.endsWith('.json')).map((f) => f.replace('.json', '')).sort();
+    const { inv } = buildInventory(allIds);
+    const senseFromCache = (key) => {
+      const e = inv.get(key); if (!e) return null;
+      const ck = `B:${key}:${pickRepresentative(e.occ).map((o) => sentText(o)).join('|')}`;
+      return cacheGet('B', ck);
+    };
+    // yeni B anlam sayısı dağılımı (cache'i olan lemma|pos üzerinden)
+    const dist = { 1: 0, 2: 0, 3: 0, '4+': 0, none: 0 };
+    let totalSenses = 0, withCache = 0;
+    for (const key of inv.keys()) {
+      const s = senseFromCache(key);
+      if (s === null) continue;
+      withCache++;
+      if (!s.length) { dist.none++; continue; }
+      totalSenses += s.length;
+      dist[s.length >= 4 ? '4+' : s.length]++;
+    }
+    // eski koşuda sınıflandırılamayan token'lar = pilot dosyalarında lowConf (4. eleman=1)
+    const pilotIds = ['st-0001', 'st-0004', 'st-0150'];
+    const zeros = [];
+    for (const sid of pilotIds) {
+      const vpath = path.join(VOCAB_OUT_DIR, `${sid}.json`);
+      if (!fs.existsSync(vpath)) continue;
+      const v = JSON.parse(fs.readFileSync(vpath, 'utf8'));
+      const a = loadAnnot(sid);
+      for (const [level, d] of Object.entries(v.levels)) {
+        for (const sent of d.sentences) {
+          sent.tokens.forEach((tok, ti) => {
+            if (!Array.isArray(tok) || tok.length < 4 || tok[3] !== 1) return;
+            const asent = a.levels[level]?.sentences.find((x) => x.p === sent.p && x.s === sent.s);
+            const at = asent?.tokens[ti]; if (!at) return;
+            const key = `${at.lemma}\t${at.pos}`;
+            zeros.push({
+              storyId: sid, level, surface: tok[0], lemma: at.lemma, pos: at.pos, tag: at.tag,
+              sentence: sentText({ storyId: sid, level, p: sent.p, s: sent.s }),
+              newSenses: (senseFromCache(key) || []).map((s) => `${s.gloss_tr} — ${s.def_en}`),
+            });
+          });
+        }
+      }
+    }
+    for (let i = zeros.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [zeros[i], zeros[j]] = [zeros[j], zeros[i]]; }
+    const sample = zeros.slice(0, 30);
+    const out = { senseDist: dist, totalSenses, keysWithCache: withCache, zeroTotal: zeros.length, sampleCount: sample.length, sample };
+    fs.writeFileSync(path.join(CACHE_DIR, 'diagnose.json'), JSON.stringify(out, null, 2));
+    console.log('=== C ÖNCESİ TEŞHİS ===');
+    console.log('yeni B anlam dağılımı:', JSON.stringify(dist), '| toplam anlam:', totalSenses, '| cache lemma|pos:', withCache);
+    console.log('eski sınıflandırılamayan token:', zeros.length, '-> örnek', sample.length, 'yazıldı ->', path.join(CACHE_DIR, 'diagnose.json'));
+    return;
+  }
+
+  if (cmd !== 'build') { console.error('kullanım: build-vocab.mjs inventory | build [--all|--stories a,b,c] [--only-b] | diagnose'); process.exit(1); }
 
   if (doProbe) {
     console.log('anahtarlar test ediliyor (preflight)...');
@@ -472,10 +560,16 @@ async function main() {
   else if (sIdx >= 0 && rest[sIdx + 1]) storyIds = rest[sIdx + 1].split(',').map((s) => s.trim());
   else { console.error('--stories a,b,c ya da --all gerekli'); process.exit(1); }
 
+  const onlyB = rest.includes('--only-b');
   const started = Date.now();
-  const frozen = loadFrozenSenses();
+  // DONDURMA yalnız yayından SONRA: senses.json CDN'e çıkınca PUBLISHED_VERSION
+  // tanımlanır ve var olan anlamlar korunur. Tanımlı değilse tam yeniden kurulum
+  // serbest (yayın öncesi). Bkz. README "Dondurma".
+  const frozen = process.env.PUBLISHED_VERSION
+    ? loadFrozenSenses()
+    : { byKey: new Map(), byId: new Map() };
   const stats = {
-    bRequests: 0, bErrors: 0, bCache: 0, bNull: 0, bFrozen: 0,
+    bRequests: 0, bErrors: 0, bCache: 0, bNull: 0, bNullList: [], bFrozen: 0,
     cRequests: 0, cErrors: 0, cAuto: 0, cZero: 0, cLowConf: 0, extraLemmas: 0,
     dRequests: 0, dErrors: 0, dBase: 0, dPairs: 0, dNeedLLM: 0, dWritten: 0, dFails: [],
     storyFiles: [], senseCount: 0, sensesFileBytes: 0, ready: [], notReady: [],
@@ -491,6 +585,31 @@ async function main() {
   console.log(`Aşama B (anlam envanteri)... dondurulmuş senses.json: ${frozen.byId.size} anlam`);
   const senseMap = await stageB(keys, inv, stats, frozen);
   console.log(`  B bitti: ${stats.bRequests} istek, ${stats.bCache} cache, ${stats.bFrozen} dondurulmuş, ${stats.bNull} lemma anlamsız`);
+
+  if (onlyB) {
+    // Anlam sayısı dağılımı (kaç lemma 1/2/3/4+ anlam)
+    const dist = { 1: 0, 2: 0, 3: 0, '4+': 0, none: 0 };
+    let totalSenses = 0;
+    for (const key of keys) {
+      const s = senseMap.get(key);
+      if (!s || s.length === 0) { dist.none++; continue; }
+      totalSenses += s.length;
+      dist[s.length >= 4 ? '4+' : s.length]++;
+    }
+    stats.senseDist = dist;
+    stats.totalSenses = totalSenses;
+    stats.keysProcessed = keys.length;
+    stats.durationSec = ((Date.now() - started) / 1000).toFixed(1);
+    stats.poolUsed = poolStatus().filter((e) => e.calls > 0);
+    fs.writeFileSync(path.join(CACHE_DIR, 'b-stats.json'), JSON.stringify(stats, null, 2));
+    console.log('\n=== AŞAMA B (yalnız) ÖZET ===');
+    console.log('lemma|pos:', keys.length, '| toplam anlam:', totalSenses, '| null (anlamsız):', stats.bNull);
+    console.log('anlam dağılımı:', JSON.stringify(dist));
+    console.log('B istek:', stats.bRequests, '| hata:', stats.bErrors, '| cache:', stats.bCache, '| süre:', stats.durationSec, 'sn');
+    console.log('uçlar:', stats.poolUsed.map((e) => `${e.id}(${e.calls}${e.dead ? ',ölü' : ''})`).join(', '));
+    console.log('istatistik ->', path.join(CACHE_DIR, 'b-stats.json'));
+    return;
+  }
 
   console.log('Aşama C (sınıflandırma)...');
   await stageC(keys, inv, senseMap, stats, pilotSet);

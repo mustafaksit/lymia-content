@@ -9,7 +9,7 @@ bağlama göre Türkçe karşılık üretir. Çıktı: `content/v2/vocab/senses.
 | Aşama | Dosya | LLM? | İş |
 |---|---|---|---|
 | A envanter | `annotate.py` + `build-vocab.mjs inventory` | Hayır | spaCy tokenizasyon + lemma/POS/tag + dep/aux; lemma\|pos geçiş envanteri |
-| B anlam envanteri | `build-vocab.mjs` | Evet | lemma\|pos başına <=5 temsili cümle → farklı anlamlar (20 lemma/istek) |
+| B anlam envanteri | `build-vocab.mjs` | Evet | lemma\|pos başına <=8 temsili cümle → farklı anlamlar (20 lemma/istek) |
 | C sınıflandırma | `build-vocab.mjs` | Evet | tek anlamlı→otomatik; çok anlamlı→geçişler 40'lık paket, anlam no |
 | D çekim | `tr-morph.mjs` | **Hayır (KURAL)** | ünlü uyumu + ek kuralları ile Türkçe çekim |
 | E dosya | `build-vocab.mjs` | Hayır | senses.json + {storyId}.json (compact) |
@@ -24,21 +24,25 @@ NNS `-lar/-ler`, JJR `daha +`, JJS `en +`, VBD/VBN/VBG/VBZ fiil ekleri
 (dörtlü ünlü uyumu, sert ünsüz, yumuşama, spaCy dep/aux bağlamı). Birim test:
 `node tr-morph.test.mjs`.
 
-## SÜREÇ KURALI — senses.json DONDURULUR (ZORUNLU)
+## SÜREÇ KURALI — DONDURMA YALNIZ YAYINDAN SONRA
 
-Temiz tam koşudan sonra `content/v2/vocab/senses.json` **referanstır** ve dondurulur:
+`senses.json` CDN'e **yayınlandıktan sonra** dondurulur (istemcinin token→senseIdx
+eşlemeleri sürümler arası kararlı kalsın). Yayın **öncesi** tam yeniden kurulum serbesttir.
 
-- Sonraki çalıştırmalar, **var olan lemma\|pos için Aşama B'yi yeniden çağırmaz**;
-  anlamları doğrudan `senses.json`'dan yükler (`loadFrozenSenses`).
-- Yalnız **yeni lemma** veya **0 dönen token** için ek-tur B çalışır ve yeni anlamları
-  **mevcut listeye EKLER** (`{lemma}|{pos}|{n}`, n = mevcut en yüksek + 1).
-- **Var olan senseId hiçbir zaman silinmez veya yeniden numaralanmaz.** Bir koşuda
-  referans edilmeyen dondurulmuş anlamlar bile çıktı senses.json'da aynen korunur.
-- Bu kural **cache'ten bağımsızdır**; `cache/stage-*` silinse bile `senses.json`'un
-  kendisi kaynaktır. (Temiz baseline üretmek için `senses.json` + `{storyId}.json`
-  dosyaları elle silinir.)
+Kapı: **`PUBLISHED_VERSION` env değişkeni**.
 
-Böylece istemcinin token→senseIdx eşlemeleri sürümler arası kararlı kalır.
+- `PUBLISHED_VERSION` **tanımlı DEĞİLSE** (yayın öncesi, varsayılan): `loadFrozenSenses`
+  devreye girmez, tüm lemma\|pos için Aşama B baştan çalışır. Katalog çapında temiz
+  kurulum bu moddadır.
+- `PUBLISHED_VERSION` **tanımlıysa** (yayından sonra): var olan lemma\|pos için B
+  yeniden çağrılmaz, anlamlar `senses.json`'dan yüklenir; yalnız **yeni lemma** veya
+  **0 dönen token** için ek-tur B çalışır ve yeni anlamları **mevcut listeye EKLER**
+  (`{lemma}|{pos}|{n}`). **Var olan senseId asla silinmez/yeniden numaralanmaz**;
+  koşuda referans edilmeyen dondurulmuş anlamlar bile çıktı senses.json'da korunur.
+
+Temiz baseline için `content/v2/vocab/senses.json` (ve gerekiyorsa `{storyId}.json`)
+`pipeline/vocab/archive/` altına taşınır; `cache/stage-B` temsili-cümle bağımlı olduğu
+için `MAX_REPRESENTATIVE` değişince eski girdiler zaten eşleşmez.
 
 ## Çalıştırma
 
