@@ -1,0 +1,1147 @@
+{
+  "count": 163,
+  "zipfMin": 1.5,
+  "dropped": [
+    {
+      "key": "storytelle|VERB",
+      "lemma": "storytelle",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "unhurrie|VERB",
+      "lemma": "unhurrie",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "unmarke|VERB",
+      "lemma": "unmarke",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "clothe|NOUN",
+      "lemma": "clothe",
+      "pos": "NOUN",
+      "zipf": 2.75,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "holme|NOUN",
+      "lemma": "holme",
+      "pos": "NOUN",
+      "zipf": 2.39,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "lamplit|ADJ",
+      "lemma": "lamplit",
+      "pos": "ADJ",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "dishevel|VERB",
+      "lemma": "dishevel",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "endure|NOUN",
+      "lemma": "endure",
+      "pos": "NOUN",
+      "zipf": 3.82,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "confine|NOUN",
+      "lemma": "confine",
+      "pos": "NOUN",
+      "zipf": 2.92,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "scrooge'ssingle|NOUN",
+      "lemma": "scrooge'ssingle",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "temp|ADJ",
+      "lemma": "temp",
+      "pos": "ADJ",
+      "zipf": 3.75,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "unabate|VERB",
+      "lemma": "unabate",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "breathtake|VERB",
+      "lemma": "breathtake",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "chirrup|VERB",
+      "lemma": "chirrup",
+      "pos": "VERB",
+      "zipf": 1.48,
+      "reason": "zipf 1.48 < 1.5"
+    },
+    {
+      "key": "unchallenge|VERB",
+      "lemma": "unchallenge",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "summon|NOUN",
+      "lemma": "summon",
+      "pos": "NOUN",
+      "zipf": 3.55,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "fevere|VERB",
+      "lemma": "fevere",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "unyielde|VERB",
+      "lemma": "unyielde",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "untouche|VERB",
+      "lemma": "untouche",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "colonnade|VERB",
+      "lemma": "colonnade",
+      "pos": "VERB",
+      "zipf": 2.41,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "gnarl|VERB",
+      "lemma": "gnarl",
+      "pos": "VERB",
+      "zipf": 1.23,
+      "reason": "zipf 1.23 < 1.5"
+    },
+    {
+      "key": "untethere|VERB",
+      "lemma": "untethere",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "servomotor|NOUN",
+      "lemma": "servomotor",
+      "pos": "NOUN",
+      "zipf": 1.3,
+      "reason": "zipf 1.30 < 1.5"
+    },
+    {
+      "key": "unforgive|VERB",
+      "lemma": "unforgive",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "diagnostic|NOUN",
+      "lemma": "diagnostic",
+      "pos": "NOUN",
+      "zipf": 3.83,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "lamplit|NOUN",
+      "lemma": "lamplit",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "unmove|VERB",
+      "lemma": "unmove",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "surrounding|NOUN",
+      "lemma": "surrounding",
+      "pos": "NOUN",
+      "zipf": 4.49,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "impend|VERB",
+      "lemma": "impend",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "waypoint|NOUN",
+      "lemma": "waypoint",
+      "pos": "NOUN",
+      "zipf": 2.38,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "cosmo|NOUN",
+      "lemma": "cosmo",
+      "pos": "NOUN",
+      "zipf": 3.17,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "sparrow|VERB",
+      "lemma": "sparrow",
+      "pos": "VERB",
+      "zipf": 3.48,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "encrust|VERB",
+      "lemma": "encrust",
+      "pos": "VERB",
+      "zipf": 1.12,
+      "reason": "zipf 1.12 < 1.5"
+    },
+    {
+      "key": "farth|ADJ",
+      "lemma": "farth",
+      "pos": "ADJ",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "recycler|NOUN",
+      "lemma": "recycler",
+      "pos": "NOUN",
+      "zipf": 2.12,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "millimetric|ADJ",
+      "lemma": "millimetric",
+      "pos": "ADJ",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "repurpose|VERB",
+      "lemma": "repurpose",
+      "pos": "VERB",
+      "zipf": 2.41,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "grow|NOUN",
+      "lemma": "grow",
+      "pos": "NOUN",
+      "zipf": 4.9,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "petale|VERB",
+      "lemma": "petale",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "wristpad|NOUN",
+      "lemma": "wristpad",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "weightlessly|ADV",
+      "lemma": "weightlessly",
+      "pos": "ADV",
+      "zipf": 1.12,
+      "reason": "zipf 1.12 < 1.5"
+    },
+    {
+      "key": "chilie|NOUN",
+      "lemma": "chilie",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "kindre|VERB",
+      "lemma": "kindre",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "exobiologist|NOUN",
+      "lemma": "exobiologist",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "unanchore|VERB",
+      "lemma": "unanchore",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "logistic|NOUN",
+      "lemma": "logistic",
+      "pos": "NOUN",
+      "zipf": 3.11,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "wither|NOUN",
+      "lemma": "wither",
+      "pos": "NOUN",
+      "zipf": 3.02,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "streetlamp|VERB",
+      "lemma": "streetlamp",
+      "pos": "VERB",
+      "zipf": 1.66,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "pawnbroke|VERB",
+      "lemma": "pawnbroke",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "intensifie|NOUN",
+      "lemma": "intensifie",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "trelli|NOUN",
+      "lemma": "trelli",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "parch|VERB",
+      "lemma": "parch",
+      "pos": "VERB",
+      "zipf": 1.45,
+      "reason": "zipf 1.45 < 1.5"
+    },
+    {
+      "key": "protract|VERB",
+      "lemma": "protract",
+      "pos": "VERB",
+      "zipf": 1.35,
+      "reason": "zipf 1.35 < 1.5"
+    },
+    {
+      "key": "lungful|NOUN",
+      "lemma": "lungful",
+      "pos": "NOUN",
+      "zipf": 1.43,
+      "reason": "zipf 1.43 < 1.5"
+    },
+    {
+      "key": "impost|ADJ",
+      "lemma": "impost",
+      "pos": "ADJ",
+      "zipf": 2.1,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "earning|NOUN",
+      "lemma": "earning",
+      "pos": "NOUN",
+      "zipf": 4.23,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "corvid|NOUN",
+      "lemma": "corvid",
+      "pos": "NOUN",
+      "zipf": 1.36,
+      "reason": "zipf 1.36 < 1.5"
+    },
+    {
+      "key": "odd|NOUN",
+      "lemma": "odd",
+      "pos": "NOUN",
+      "zipf": 4.42,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "unwavere|VERB",
+      "lemma": "unwavere",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "annal|NOUN",
+      "lemma": "annal",
+      "pos": "NOUN",
+      "zipf": 1.64,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "woode|VERB",
+      "lemma": "woode",
+      "pos": "VERB",
+      "zipf": 1.4,
+      "reason": "zipf 1.40 < 1.5"
+    },
+    {
+      "key": "bloodcurdle|VERB",
+      "lemma": "bloodcurdle",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "desolately|ADV",
+      "lemma": "desolately",
+      "pos": "ADV",
+      "zipf": 1.02,
+      "reason": "zipf 1.02 < 1.5"
+    },
+    {
+      "key": "wanderer|VERB",
+      "lemma": "wanderer",
+      "pos": "VERB",
+      "zipf": 3.01,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "agilely|ADV",
+      "lemma": "agilely",
+      "pos": "ADV",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "dan'l|NOUN",
+      "lemma": "dan'l",
+      "pos": "NOUN",
+      "zipf": 1.3,
+      "reason": "zipf 1.30 < 1.5"
+    },
+    {
+      "key": "unspool|VERB",
+      "lemma": "unspool",
+      "pos": "VERB",
+      "zipf": 1.26,
+      "reason": "zipf 1.26 < 1.5"
+    },
+    {
+      "key": "acrobatic|NOUN",
+      "lemma": "acrobatic",
+      "pos": "NOUN",
+      "zipf": 2.81,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "unalloye|VERB",
+      "lemma": "unalloye",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "transfix|VERB",
+      "lemma": "transfix",
+      "pos": "VERB",
+      "zipf": 1.44,
+      "reason": "zipf 1.44 < 1.5"
+    },
+    {
+      "key": "conquer|NOUN",
+      "lemma": "conquer",
+      "pos": "NOUN",
+      "zipf": 3.77,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "whipcrack|NOUN",
+      "lemma": "whipcrack",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "transcend|NOUN",
+      "lemma": "transcend",
+      "pos": "NOUN",
+      "zipf": 3.1,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "hardworke|VERB",
+      "lemma": "hardworke",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "eave|NOUN",
+      "lemma": "eave",
+      "pos": "NOUN",
+      "zipf": 2.11,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "furth|ADJ",
+      "lemma": "furth",
+      "pos": "ADJ",
+      "zipf": 2.1,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "nestmate|NOUN",
+      "lemma": "nestmate",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "sumptuousness|NOUN",
+      "lemma": "sumptuousness",
+      "pos": "NOUN",
+      "zipf": 1.45,
+      "reason": "zipf 1.45 < 1.5"
+    },
+    {
+      "key": "fraudster|NOUN",
+      "lemma": "fraudster",
+      "pos": "NOUN",
+      "zipf": 2.49,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "rheumy|NOUN",
+      "lemma": "rheumy",
+      "pos": "NOUN",
+      "zipf": 1.44,
+      "reason": "zipf 1.44 < 1.5"
+    },
+    {
+      "key": "councilor|NOUN",
+      "lemma": "councilor",
+      "pos": "NOUN",
+      "zipf": 2.85,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "belove|VERB",
+      "lemma": "belove",
+      "pos": "VERB",
+      "zipf": 1.1,
+      "reason": "zipf 1.10 < 1.5"
+    },
+    {
+      "key": "sluggard|NOUN",
+      "lemma": "sluggard",
+      "pos": "NOUN",
+      "zipf": 1.42,
+      "reason": "zipf 1.42 < 1.5"
+    },
+    {
+      "key": "untrouble|VERB",
+      "lemma": "untrouble",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "ninepin|NOUN",
+      "lemma": "ninepin",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "indoor|NOUN",
+      "lemma": "indoor",
+      "pos": "NOUN",
+      "zipf": 4.09,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "remain|NOUN",
+      "lemma": "remain",
+      "pos": "NOUN",
+      "zipf": 4.83,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "unconcealed|ADJ",
+      "lemma": "unconcealed",
+      "pos": "ADJ",
+      "zipf": 1.48,
+      "reason": "zipf 1.48 < 1.5"
+    },
+    {
+      "key": "undisturbe|VERB",
+      "lemma": "undisturbe",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "wreathe|VERB",
+      "lemma": "wreathe",
+      "pos": "VERB",
+      "zipf": 1.29,
+      "reason": "zipf 1.29 < 1.5"
+    },
+    {
+      "key": "unfaile|VERB",
+      "lemma": "unfaile",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "bedclothe|NOUN",
+      "lemma": "bedclothe",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "outmatch|VERB",
+      "lemma": "outmatch",
+      "pos": "VERB",
+      "zipf": 1.4,
+      "reason": "zipf 1.40 < 1.5"
+    },
+    {
+      "key": "cockchafer|NOUN",
+      "lemma": "cockchafer",
+      "pos": "NOUN",
+      "zipf": 1.12,
+      "reason": "zipf 1.12 < 1.5"
+    },
+    {
+      "key": "overarch|VERB",
+      "lemma": "overarch",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "kizkarde|NOUN",
+      "lemma": "kizkarde",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "uninvite|VERB",
+      "lemma": "uninvite",
+      "pos": "VERB",
+      "zipf": 1.41,
+      "reason": "zipf 1.41 < 1.5"
+    },
+    {
+      "key": "saple|VERB",
+      "lemma": "saple",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "captivation|NOUN",
+      "lemma": "captivation",
+      "pos": "NOUN",
+      "zipf": 1.34,
+      "reason": "zipf 1.34 < 1.5"
+    },
+    {
+      "key": "intentione|VERB",
+      "lemma": "intentione",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "understandingly|ADV",
+      "lemma": "understandingly",
+      "pos": "ADV",
+      "zipf": 1.28,
+      "reason": "zipf 1.28 < 1.5"
+    },
+    {
+      "key": "retelling|NOUN",
+      "lemma": "retelling",
+      "pos": "NOUN",
+      "zipf": 2.95,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "invigoratingly|ADV",
+      "lemma": "invigoratingly",
+      "pos": "ADV",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "undiminishe|VERB",
+      "lemma": "undiminishe",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "waterbird|NOUN",
+      "lemma": "waterbird",
+      "pos": "NOUN",
+      "zipf": 1.44,
+      "reason": "zipf 1.44 < 1.5"
+    },
+    {
+      "key": "unscarre|VERB",
+      "lemma": "unscarre",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "gruele|VERB",
+      "lemma": "gruele",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "unguarde|VERB",
+      "lemma": "unguarde",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "बचाने|NOUN",
+      "lemma": "बचाने",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "outsize|VERB",
+      "lemma": "outsize",
+      "pos": "VERB",
+      "zipf": 2.05,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "emanate|NOUN",
+      "lemma": "emanate",
+      "pos": "NOUN",
+      "zipf": 2.51,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "belate|VERB",
+      "lemma": "belate",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "uncompromise|VERB",
+      "lemma": "uncompromise",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "strategize|VERB",
+      "lemma": "strategize",
+      "pos": "VERB",
+      "zipf": 2.45,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "caprine|NOUN",
+      "lemma": "caprine",
+      "pos": "NOUN",
+      "zipf": 1.29,
+      "reason": "zipf 1.29 < 1.5"
+    },
+    {
+      "key": "eld|ADJ",
+      "lemma": "eld",
+      "pos": "ADJ",
+      "zipf": 2.35,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "everlaste|VERB",
+      "lemma": "everlaste",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "overjoy|VERB",
+      "lemma": "overjoy",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "pren|NOUN",
+      "lemma": "pren",
+      "pos": "NOUN",
+      "zipf": 1.46,
+      "reason": "zipf 1.46 < 1.5"
+    },
+    {
+      "key": "sible|VERB",
+      "lemma": "sible",
+      "pos": "VERB",
+      "zipf": 1.48,
+      "reason": "zipf 1.48 < 1.5"
+    },
+    {
+      "key": "vasilisa|NOUN",
+      "lemma": "vasilisa",
+      "pos": "NOUN",
+      "zipf": 1.49,
+      "reason": "zipf 1.49 < 1.5"
+    },
+    {
+      "key": "unerre|VERB",
+      "lemma": "unerre",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "willow|VERB",
+      "lemma": "willow",
+      "pos": "VERB",
+      "zipf": 3.69,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "fiste|VERB",
+      "lemma": "fiste",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "herb|VERB",
+      "lemma": "herb",
+      "pos": "VERB",
+      "zipf": 3.77,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "molasse|NOUN",
+      "lemma": "molasse",
+      "pos": "NOUN",
+      "zipf": 1.36,
+      "reason": "zipf 1.36 < 1.5"
+    },
+    {
+      "key": "overthinke|VERB",
+      "lemma": "overthinke",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "cloy|VERB",
+      "lemma": "cloy",
+      "pos": "VERB",
+      "zipf": 1.48,
+      "reason": "zipf 1.48 < 1.5"
+    },
+    {
+      "key": "unfeele|VERB",
+      "lemma": "unfeele",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "outstretche|VERB",
+      "lemma": "outstretche",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "steeple|VERB",
+      "lemma": "steeple",
+      "pos": "VERB",
+      "zipf": 2.74,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "hoofprint|NOUN",
+      "lemma": "hoofprint",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "regiman|NOUN",
+      "lemma": "regiman",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "callouse|NOUN",
+      "lemma": "callouse",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "newsboy|VERB",
+      "lemma": "newsboy",
+      "pos": "VERB",
+      "zipf": 2.08,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "alm|NOUN",
+      "lemma": "alm",
+      "pos": "NOUN",
+      "zipf": 2.67,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "lidde|VERB",
+      "lemma": "lidde",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "economic|NOUN",
+      "lemma": "economic",
+      "pos": "NOUN",
+      "zipf": 5.1,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "speciman|NOUN",
+      "lemma": "speciman",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "wander|NOUN",
+      "lemma": "wander",
+      "pos": "NOUN",
+      "zipf": 3.67,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "milkless|NOUN",
+      "lemma": "milkless",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "congest|VERB",
+      "lemma": "congest",
+      "pos": "VERB",
+      "zipf": 1.48,
+      "reason": "zipf 1.48 < 1.5"
+    },
+    {
+      "key": "unvisite|VERB",
+      "lemma": "unvisite",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "lighthearte|VERB",
+      "lemma": "lighthearte",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "unlatche|VERB",
+      "lemma": "unlatche",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "throate|VERB",
+      "lemma": "throate",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "disembody|VERB",
+      "lemma": "disembody",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "exhaustingly|ADV",
+      "lemma": "exhaustingly",
+      "pos": "ADV",
+      "zipf": 1.4,
+      "reason": "zipf 1.40 < 1.5"
+    },
+    {
+      "key": "trustingly|ADV",
+      "lemma": "trustingly",
+      "pos": "ADV",
+      "zipf": 1.41,
+      "reason": "zipf 1.41 < 1.5"
+    },
+    {
+      "key": "suffocatingly|ADV",
+      "lemma": "suffocatingly",
+      "pos": "ADV",
+      "zipf": 1.29,
+      "reason": "zipf 1.29 < 1.5"
+    },
+    {
+      "key": "levelheadedness|NOUN",
+      "lemma": "levelheadedness",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "bedraggle|VERB",
+      "lemma": "bedraggle",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "unexcite|VERB",
+      "lemma": "unexcite",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "sunbaked|ADJ",
+      "lemma": "sunbaked",
+      "pos": "ADJ",
+      "zipf": 1.44,
+      "reason": "zipf 1.44 < 1.5"
+    },
+    {
+      "key": "androcle|NOUN",
+      "lemma": "androcle",
+      "pos": "NOUN",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "mitten|VERB",
+      "lemma": "mitten",
+      "pos": "VERB",
+      "zipf": 2.48,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "exhilarate|VERB",
+      "lemma": "exhilarate",
+      "pos": "VERB",
+      "zipf": 1.36,
+      "reason": "zipf 1.36 < 1.5"
+    },
+    {
+      "key": "unclose|VERB",
+      "lemma": "unclose",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "unthinke|VERB",
+      "lemma": "unthinke",
+      "pos": "VERB",
+      "zipf": 0.0,
+      "reason": "zipf 0.00 < 1.5"
+    },
+    {
+      "key": "eke|VERB",
+      "lemma": "eke",
+      "pos": "VERB",
+      "zipf": 2.63,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    },
+    {
+      "key": "rhapsodize|VERB",
+      "lemma": "rhapsodize",
+      "pos": "VERB",
+      "zipf": 1.18,
+      "reason": "zipf 1.18 < 1.5"
+    },
+    {
+      "key": "immovably|ADV",
+      "lemma": "immovably",
+      "pos": "ADV",
+      "zipf": 1.25,
+      "reason": "zipf 1.25 < 1.5"
+    },
+    {
+      "key": "lane|VERB",
+      "lemma": "lane",
+      "pos": "VERB",
+      "zipf": 4.57,
+      "reason": "wordnet yok + yuzeyle eslesmiyor"
+    }
+  ]
+}
