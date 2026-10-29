@@ -1,0 +1,49 @@
+{
+  "id": "st-0313",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"My hand must make gold\" is slightly stilted; \"I want everything I touch to turn to gold\" is beyond A1, so a simpler option is \"I want my hand to make gold!\"",
+        "Plot order matches Hawthorne's 'The Golden Touch' (wish, sunrise, bed, roses, breakfast, Marygold, stranger's return, river, restoration). Omitting the golden hair ending is acceptable condensing."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"His clothes became gold too. He put on his glasses, but they turned to gold too.\" repeats 'too'; consider \"His glasses turned to gold as well.\"",
+        "\"Marygold's hair kept a little golden color\" is a slightly odd collocation; \"a light golden color\" (as in B1) reads more naturally.",
+        "\"Everything must turn to gold under my hand\" is a little textbook-like but understandable."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"he loved gold more than anything else in the world. The only thing he loved more was his little daughter\" is literally self-contradictory (also in Hawthorne's phrasing); \"more than almost anything else\" would remove the wobble.",
+        "\"I would not give one hair of her head for all the gold in the world\" uses hypothetical 'would' without 'if'; acceptable at B1 but sits at the edge of the no-conditionals rule."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Same mild 'more than anything else' / 'valued even more' contradiction as B1; could read \"more than almost anything else\".",
+        "The golden Pactolus sand and the naming of the river come from Ovid's version of the myth rather than Hawthorne's (where it is just the river at the bottom of the garden). Both are literary sources, so this is not a fidelity failure."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"it is a mere trifle when you consider what I might have, if only I had more time\" is a little muddier than Hawthorne's sense (a lifetime of collecting); optional rewording: \"it is a mere trifle, when you consider that it has taken me my whole life to gather it.\"",
+        "Genuinely literary register, close to Hawthorne's details (spectacles, trout/cake/egg/potato, violet-like flower, shoes left on, brown curls turned faintly golden, grandchildren)."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels faithfully retell Hawthorne's 'The Golden Touch' in the right order, with consistent details across levels, correct quiz keys and gentle, 4+ appropriate handling of Marygold's transformation. Grammar fits each level's limits. Remaining points are minor wording preferences recorded as notes."
+}

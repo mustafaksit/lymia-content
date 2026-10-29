@@ -1,0 +1,56 @@
+{
+  "id": "st-0285",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "The two friends waited in a small room. At last the sailors gave up.",
+          "problem": "No attack is ever mentioned, so 'the sailors gave up' has nothing to refer to. The reader cannot tell what the sailors gave up or why the friends were waiting. Every other level makes the attack on the round-house explicit.",
+          "fix": "Alan and David went into a small room. The sailors attacked the door, but the two friends held it. At last the sailors gave up."
+        }
+      ],
+      "notes": [
+        "\"The stairs stopped, and below was nothing!\" reads a little stiffly. \"The stairs stopped, and there was nothing below!\" is more natural.",
+        "\"That night\" comes straight after David's arrival, so it suggests the tower test happened on his first night. In the novel it happens on a later night, and A2 has \"One stormy night\". \"One night\" would be safer.",
+        "A1 and A2 call the object in the tower a \"box\", while B1 to C1 call it a \"chest\". This is acceptable simplification, but it could be made consistent.",
+        "\"said a friend\": the other levels have the minister. \"said the village minister\" or \"said a kind man\" would keep the levels aligned."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The sailors locked him in the bottom of the ship.\" The next scene puts David in the round-house without explaining how he got there. One short sentence would bridge the gap, for example: \"Later, David worked for the captain in the round-house, a cabin on deck.\"",
+        "\"Ebenezer promised David most of the money every year\": \"most of the money from the land\" is clearer."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Someone committed a crime nearby\": the backshift is wrong, because this event happened before 'there was terrible news'. \"Someone had committed a crime nearby\" uses the past perfect, which is allowed at B1 and avoids the passive.",
+        "\"The crew planned to steal the gold\" is fine. In the novel the captain is part of the plot, which C1 reflects."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Hoseason agreed to put him ashore, but the officers secretly planned to take the gold.\" This could be read as clearing Hoseason, but in the novel he leads the plot (C1 has 'the captain and his officers'). Suggested wording: \"but Hoseason and his officers secretly planned to take the gold.\""
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"sell him into years of labor, where no inconvenient nephew would trouble the house of Shaws again\" is a little awkward, because 'where' refers back to 'labor'. \"sell him into years of labor across the sea, from which no inconvenient nephew would return to trouble the house of Shaws\" reads more cleanly.",
+        "The prose is genuinely literary and not padded. Events are faithful to Stevenson: the tower stairs, the Covenant, the round-house, the Earraid tidal island, the Appin murder kept vague, Cluny's Cage, the quarrel, the inn lass at Limekilns, the trap at the door and the parting on Corstorphine Hill."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "All five levels follow Stevenson's novel faithfully and suit a 4+ rating: the crime is not described, the fight is softened, and the knock on the head becomes 'everything went dark'. A2 to C1 pass, with only minor notes. A1 fails on one concrete logic gap: the sailors 'gave up' an attack that is never mentioned."
+}

@@ -38,6 +38,19 @@ Yasaklar:
   ve yoldastir; "cannibal/savage" kelimeleri yok (B2+ "men who meant to kill their
   prisoner" duzeyinde kalabilir).
 
+## 4+ yas uygunlugu (App Store 4+ — ZORUNLU)
+
+Uygulama 4+ derecelendirmede. Her hikaye, her seviyede:
+- Kan, yara, sakatlik ayrintisi YOK. Olum olay geregi varsa sakin ve kisa ("he died that
+  night", "she went with her grandmother"); nasil oldugu betimlenmez.
+- Siddet: kavga/duello/savas ancak sonucu soylenerek ("he won the fight"); vurma, kesme,
+  bogma, yakma betimi yok. Cinayet ayrintisi yok; suc gerekiyorsa "a wicked deed" duzeyinde.
+- Cinsellik ve cinsel ima yok; romantizm el tutma/teklif/evlilik duzeyinde.
+- Korkutma: gerilim ve gizem serbest, dehset/iğrençlik yok. Hayaletler, devler, buyuculer
+  korkutucu degil masalsi.
+- Alkol, uyusturucu, intihar, istismar yok. Irksal/etnik karikatur yok (kaynakta olsa bile).
+- `sources.json > stories.<id>.fourPlus` notundaki yumusatmalar BAGLAYICIDIR.
+
 ## Seviye kurallari
 
 | | Kelime (hedef) | Cumle tavani | Medyan cumle | Paragraf |
@@ -102,7 +115,7 @@ duser). Her cumle nokta/unlem/soru isaretiyle biter (tirnak sonra gelebilir).
 ```
 
 - `title`: `sources.json > title` aynen.
-- `genre`: `"classic"`.
+- `genre`: `content/v2/sources.json > stories.<id>.genre` (batch-01: hepsi `"classic"`).
 - `summary`: tek cumle, 10-18 kelime, genis zaman, sade ve dogal Ingilizce, sonu verme.
 - `coverScene`: tek cumle, kapak sahnesi; genel tarif. Film versiyonlarini cagristiran
   kiyafet/renk/gorunum tarifi YOK (Alice icin "mavi elbise" gibi). Cekimli fiil kullan

@@ -1,0 +1,62 @@
+{
+  "id": "st-0317",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "First, someone must drink a whole cellar.",
+          "problem": "You cannot drink a cellar; the room stands for its contents. An A1 learner who looks up 'cellar' (a room under a house) will be confused, and a native children's author would not write this. The other levels say 'every barrel in the cellar'.",
+          "fix": "First, a man must drink all the drinks in the king's cellar."
+        },
+        {
+          "criterion": "meaning drift",
+          "quote": "The princess saw the funny line. She laughed and laughed!",
+          "problem": "The A1 text never says the people form a line. 'A funny line' is also a common idiom for a joke, so learners may think someone told her a joke. The same phrase is in quiz question 2 ('Who laughed at the funny line?').",
+          "fix": "At the end of the farmer paragraph add: 'Now seven people ran in a long line behind Dummling.' Then write: 'The princess saw the long line of people. She laughed and laughed!' and change quiz Q2 to 'Who laughed at the long line of people?'"
+        }
+      ],
+      "notes": [
+        "\"Make her laugh and marry her!\" reads like an order to everyone. Consider \"Make her laugh, and you can marry her!\"",
+        "Lines like \"The little gray man came to him\" never say that the man asked for food, so Dummling's offer comes a little suddenly. This is acceptable for A1."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"a bottle of drink\" is slightly unusual. \"a bottle of juice\" or \"something to drink\" is more natural.",
+        "The gray man's line \"I drank for you and ate for you\" shows that he was the thirsty man and the hungry man. That is faithful to the original but is not set up anywhere. It is fine as it is."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"a plain cake from the ashes\" may puzzle B1 readers. \"a plain cake baked in the ashes of the fire\" is clearer.",
+        "The count is correct: three girls, the priest, the bell-ringer and two farmers make seven. I found no conditionals or passive voice."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The clever son\" is ironic, as in the Grimm text. That works, but some learners may read it literally.",
+        "The 'five of them' and 'seven people' counts are correct, and all three quiz keys are correct."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "This level is very faithful to the Grimm text, including the christening, the flour gathered from the whole kingdom, and the gray man drinking and eating on Dummling's behalf.",
+        "\"with much the same reasoning about there being less for oneself\" is a little stiff. It is acceptable at C1.",
+        "The cellar barrels are never called wine, so the 4+ rating is respected."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "B1, B2 and C1 are faithful to the Grimm tale (KHM 64), fit their levels and suit a 4+ rating, and A2 also passes. All quiz keys are correct. A1 fails on two concrete wording problems: 'drink a whole cellar' is unnatural, and 'the funny line' is never set up and can be read as a joke, which also affects quiz Q2."
+}

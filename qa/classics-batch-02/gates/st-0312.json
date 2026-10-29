@@ -1,0 +1,586 @@
+{
+  "id": "st-0312",
+  "title": "Flatland",
+  "ts": "2026-10-29T21:45:28",
+  "node": {
+    "id": "st-0312",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %88.9 | 315 kelime\n    havuz dışı: flat(3), shapes(1), corners(1), calm(1), strange(1), dream(2), king(3), proud(1), angry(3), woke(2), suddenly(1), voice(1), circle(1), visitor(1), lifted(1), inside(1), box(1), round(1), solid(1), cried(1), happy(1), tiny(1), alone(2), leaders(1), prison(2)",
+        "level A2: A2: KALDI | kapsam %90.2 | 501 kelime\n    havuz dışı: flat(4), north(2), south(2), east(2), west(2), squares(1), circles(1), careful(1), strange(2), straight(1), row(1), king(5), can't(1), liar(1), angry(2), woke(2), circle(2), visitor(1), dimensions(1), slowly(1), disappeared(1), lifted(1), sick(1), afraid(1), solid(2), cried(1), third(1), dimension(2), joy(1), fourth(1), prison(1), adventure(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8889,
+        "wordCount": 315,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "flat(3)",
+          "king(3)",
+          "angry(3)",
+          "dream(2)",
+          "woke(2)",
+          "alone(2)",
+          "prison(2)",
+          "shapes(1)",
+          "corners(1)",
+          "calm(1)",
+          "strange(1)",
+          "proud(1)",
+          "suddenly(1)",
+          "voice(1)",
+          "circle(1)",
+          "visitor(1)",
+          "lifted(1)",
+          "inside(1)",
+          "box(1)",
+          "round(1)",
+          "solid(1)",
+          "cried(1)",
+          "happy(1)",
+          "tiny(1)",
+          "leaders(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9022,
+        "wordCount": 501,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "king(5)",
+          "flat(4)",
+          "north(2)",
+          "south(2)",
+          "east(2)",
+          "west(2)",
+          "strange(2)",
+          "angry(2)",
+          "woke(2)",
+          "circle(2)",
+          "solid(2)",
+          "dimension(2)",
+          "squares(1)",
+          "circles(1)",
+          "careful(1)",
+          "straight(1)",
+          "row(1)",
+          "can't(1)",
+          "liar(1)",
+          "visitor(1)",
+          "dimensions(1)",
+          "slowly(1)",
+          "disappeared(1)",
+          "lifted(1)",
+          "sick(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9736,
+        "wordCount": 757,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "grandson(3)",
+          "dimension(3)",
+          "upward(2)",
+          "third(2)",
+          "can't(1)",
+          "trick(1)",
+          "nonsense(1)",
+          "dimensions(1)",
+          "beside(1)",
+          "solid(1)",
+          "fourth(1)",
+          "creature(1)",
+          "patience(1)",
+          "adventure(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9523,
+        "wordCount": 986,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cube(4)",
+          "grandson(3)",
+          "upward(3)",
+          "width(2)",
+          "foolish(2)",
+          "clever(2)",
+          "third(2)",
+          "fourth(2)",
+          "triangles(1)",
+          "sensible(1)",
+          "asleep(1)",
+          "companions(1)",
+          "kingdom(1)",
+          "realm(1)",
+          "vanishing(1)",
+          "liar(1)",
+          "trickster(1)",
+          "temper(1)",
+          "fury(1)",
+          "geometry(1)",
+          "sideways(1)",
+          "countless(1)",
+          "shrink(1)",
+          "vanish(1)",
+          "useless(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9332,
+        "wordCount": 1272,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "upward(5)",
+          "cube(4)",
+          "sideways(3)",
+          "grandson(3)",
+          "breadth(2)",
+          "patience(2)",
+          "fourth(2)",
+          "faintest(1)",
+          "glide(1)",
+          "inhabitants(1)",
+          "triangles(1)",
+          "dimmer(1)",
+          "sober(1)",
+          "fond(1)",
+          "suspicious(1)",
+          "asleep(1)",
+          "realm(1)",
+          "strung(1)",
+          "beads(1)",
+          "thread(1)",
+          "lifetime(1)",
+          "companions(1)",
+          "kingdom(1)",
+          "monarch(1)",
+          "utterly(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_TABLE_TOP",
+          "cat": "MISC",
+          "msg": "This word is normally spelled with a hyphen.",
+          "frag": "table top",
+          "ctx": "h but no height at all. Picture a great table top on which shapes slide about, never risi"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_TABLE_TOP",
+          "cat": "MISC",
+          "msg": "This word is normally spelled with a hyphen.",
+          "frag": "table top",
+          "ctx": "st trace of height. Imagine an enormous table top across which shapes glide about, never "
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 315,
+      "sentLenMedian": 6,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 501,
+      "sentLenMedian": 8.0,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 757,
+      "sentLenMedian": 11.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0014,
+      "lowZipfWords": [
+        "angrily"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 986,
+      "sentLenMedian": 13.5,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0075,
+      "lowZipfWords": [
+        "dizzy",
+        "patiently",
+        "triangles",
+        "trickster",
+        "vanish",
+        "vanishing",
+        "whispered"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1272,
+      "sentLenMedian": 20.0,
+      "zipfMedian": 5.91,
+      "lowZipfRatio": 0.027,
+      "lowZipfWords": [
+        "astonished",
+        "awoke",
+        "blankly",
+        "breadth",
+        "certainties",
+        "chattering",
+        "clung",
+        "contentedly",
+        "dimmer",
+        "dismayed",
+        "dizziness",
+        "faintest",
+        "floated",
+        "gazing",
+        "glide",
+        "humblest",
+        "lingered",
+        "patiently",
+        "plunging",
+        "reasoned",
+        "shrank",
+        "sneered",
+        "solitude",
+        "stranger's",
+        "strung",
+        "stubbornly",
+        "teacher's",
+        "triangles",
+        "undeterred",
+        "unsettle",
+        "whispered",
+        "whispering"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8889,
+      "wordCount": 315,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "flat(3)",
+        "king(3)",
+        "angry(3)",
+        "dream(2)",
+        "woke(2)",
+        "alone(2)",
+        "prison(2)",
+        "shapes(1)",
+        "corners(1)",
+        "calm(1)",
+        "strange(1)",
+        "proud(1)",
+        "suddenly(1)",
+        "voice(1)",
+        "circle(1)",
+        "visitor(1)",
+        "lifted(1)",
+        "inside(1)",
+        "box(1)",
+        "round(1)",
+        "solid(1)",
+        "cried(1)",
+        "happy(1)",
+        "tiny(1)",
+        "leaders(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9022,
+      "wordCount": 501,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "king(5)",
+        "flat(4)",
+        "north(2)",
+        "south(2)",
+        "east(2)",
+        "west(2)",
+        "strange(2)",
+        "angry(2)",
+        "woke(2)",
+        "circle(2)",
+        "solid(2)",
+        "dimension(2)",
+        "squares(1)",
+        "circles(1)",
+        "careful(1)",
+        "straight(1)",
+        "row(1)",
+        "can't(1)",
+        "liar(1)",
+        "visitor(1)",
+        "dimensions(1)",
+        "slowly(1)",
+        "disappeared(1)",
+        "lifted(1)",
+        "sick(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9736,
+      "wordCount": 757,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "grandson(3)",
+        "dimension(3)",
+        "upward(2)",
+        "third(2)",
+        "can't(1)",
+        "trick(1)",
+        "nonsense(1)",
+        "dimensions(1)",
+        "beside(1)",
+        "solid(1)",
+        "fourth(1)",
+        "creature(1)",
+        "patience(1)",
+        "adventure(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9523,
+      "wordCount": 986,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cube(4)",
+        "grandson(3)",
+        "upward(3)",
+        "width(2)",
+        "foolish(2)",
+        "clever(2)",
+        "third(2)",
+        "fourth(2)",
+        "triangles(1)",
+        "sensible(1)",
+        "asleep(1)",
+        "companions(1)",
+        "kingdom(1)",
+        "realm(1)",
+        "vanishing(1)",
+        "liar(1)",
+        "trickster(1)",
+        "temper(1)",
+        "fury(1)",
+        "geometry(1)",
+        "sideways(1)",
+        "countless(1)",
+        "shrink(1)",
+        "vanish(1)",
+        "useless(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9332,
+      "wordCount": 1272,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "upward(5)",
+        "cube(4)",
+        "sideways(3)",
+        "grandson(3)",
+        "breadth(2)",
+        "patience(2)",
+        "fourth(2)",
+        "faintest(1)",
+        "glide(1)",
+        "inhabitants(1)",
+        "triangles(1)",
+        "dimmer(1)",
+        "sober(1)",
+        "fond(1)",
+        "suspicious(1)",
+        "asleep(1)",
+        "realm(1)",
+        "strung(1)",
+        "beads(1)",
+        "thread(1)",
+        "lifetime(1)",
+        "companions(1)",
+        "kingdom(1)",
+        "monarch(1)",
+        "utterly(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

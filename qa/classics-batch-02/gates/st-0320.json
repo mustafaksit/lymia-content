@@ -1,0 +1,689 @@
+{
+  "id": "st-0320",
+  "title": "The Monkey King Makes Havoc in Heaven",
+  "ts": "2026-10-29T21:45:37",
+  "node": {
+    "id": "st-0320",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %84.0 | 326 kelime\n    havuz dışı: stone(4), mountain(2), monkey(4), jumped(3), monkeys(4), waterfall(1), jump(2), dry(1), cave(1), happy(1), sad(1), forever(1), sailed(1), wise(1), magic(3), tree(1), bird(1), fly(1), cloud(2), weapon(1), huge(1), iron(1), ear(1), horses(1), angry(1), army(1), peaches(2), pills(1), laughed(1), onto(1), flew(1), tall(1), pillars(1), pillar(1), finger(1)",
+        "level A2: A2: KALDI | kapsam %88.1 | 511 kelime\n    havuz dışı: magic(3), stone(4), monkey(2), monkeys(2), waterfall(1), jumped(2), dry(1), cave(1), bowed(1), feast(1), cry(1), forever(1), boat(1), sailed(1), wise(1), ride(1), clouds(1), pine(1), angry(2), weapon(1), swam(1), palace(1), iron(1), pillar(3), gold(1), mountain(2), needle(1), ear(1), unhappy(1), complained(1), invited(1), horses(1), truth(1), sage(1), equal(1), army(1), peach(1), peaches(1), secretly(1), pills(1), birds(1), soldiers(1), hurt(1), jump(1), onto(1), cloud(1), tall(1), pillars(1), finger(1)",
+        "level B1: B1: KALDI | kapsam %92.3 | 826 kelime\n    havuz dışı: magic(3), cracked(1), monkey(5), monkeys(3), stream(1), waterfall(1), whoever(1), cave(1), bowls(1), feast(3), wise(1), clouds(2), pine(1), impress(1), worthy(1), dived(1), palace(2), dragon(1), queen(1), iron(1), pillar(2), steady(1), shrank(1), needle(1), rage(1), sage(2), peach(2), peaches(2), wandered(1), swallowed(1), pills(2), hurried(1), bravest(1), sparrow(1), hawk(1), hungry(1), temple(1), tail(1), flagpole(1), leaf(1), cloud(1), farther(1), pink(1), pillars(1), mist(1), gently(1), tight(1)",
+        "level B2: B2: KALDI | kapsam %92.3 | 1142 kelime\n    havuz dışı: monkey(9), beams(1), palace(2), roaring(1), waterfall(1), whoever(1), monkeys(2), peaceful(2), cave(1), bowed(1), feast(3), weep(1), ape(1), raft(1), pine(2), somersault(1), begged(1), clapped(1), cheered(1), jealous(1), sternly(1), dived(1), underwater(1), feather(1), dragon(1), queen(1), pillar(3), barrel(1), glow(1), shrink(1), obeyed(1), needle(1), tucked(1), troublesome(1), heavenly(1), furious(1), sage(3), fetch(1), peach(2), ripened(1), endless(1), gardeners(1), ripest(1), insulted(1), afterwards(1), pills(3), swallowed(1), brave(1), warrior(1), sparrow(1), hawk(1), temple(1), flagpole(1), peaches(1), furnace(1), melt(1), unhurt(1), despair(1), monkey's(1), boasting(1), lotus(1), leaf(1), farther(1), pillars(2), mist(1), palm(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8405,
+        "wordCount": 326,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "stone(4)",
+          "monkey(4)",
+          "monkeys(4)",
+          "jumped(3)",
+          "magic(3)",
+          "mountain(2)",
+          "jump(2)",
+          "cloud(2)",
+          "peaches(2)",
+          "waterfall(1)",
+          "dry(1)",
+          "cave(1)",
+          "happy(1)",
+          "sad(1)",
+          "forever(1)",
+          "sailed(1)",
+          "wise(1)",
+          "tree(1)",
+          "bird(1)",
+          "fly(1)",
+          "weapon(1)",
+          "huge(1)",
+          "iron(1)",
+          "ear(1)",
+          "horses(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8806,
+        "wordCount": 511,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "stone(4)",
+          "magic(3)",
+          "pillar(3)",
+          "monkey(2)",
+          "monkeys(2)",
+          "jumped(2)",
+          "angry(2)",
+          "mountain(2)",
+          "waterfall(1)",
+          "dry(1)",
+          "cave(1)",
+          "bowed(1)",
+          "feast(1)",
+          "cry(1)",
+          "forever(1)",
+          "boat(1)",
+          "sailed(1)",
+          "wise(1)",
+          "ride(1)",
+          "clouds(1)",
+          "pine(1)",
+          "weapon(1)",
+          "swam(1)",
+          "palace(1)",
+          "iron(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9225,
+        "wordCount": 826,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "monkey(5)",
+          "magic(3)",
+          "monkeys(3)",
+          "feast(3)",
+          "clouds(2)",
+          "palace(2)",
+          "pillar(2)",
+          "sage(2)",
+          "peach(2)",
+          "peaches(2)",
+          "pills(2)",
+          "cracked(1)",
+          "stream(1)",
+          "waterfall(1)",
+          "whoever(1)",
+          "cave(1)",
+          "bowls(1)",
+          "wise(1)",
+          "pine(1)",
+          "impress(1)",
+          "worthy(1)",
+          "dived(1)",
+          "dragon(1)",
+          "queen(1)",
+          "iron(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9229,
+        "wordCount": 1142,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "monkey(9)",
+          "feast(3)",
+          "pillar(3)",
+          "sage(3)",
+          "pills(3)",
+          "palace(2)",
+          "monkeys(2)",
+          "peaceful(2)",
+          "pine(2)",
+          "peach(2)",
+          "pillars(2)",
+          "beams(1)",
+          "roaring(1)",
+          "waterfall(1)",
+          "whoever(1)",
+          "cave(1)",
+          "bowed(1)",
+          "weep(1)",
+          "ape(1)",
+          "raft(1)",
+          "somersault(1)",
+          "begged(1)",
+          "clapped(1)",
+          "cheered(1)",
+          "jealous(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9042,
+        "wordCount": 1534,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "monkey(10)",
+          "monkeys(3)",
+          "sage(3)",
+          "peaches(3)",
+          "pills(3)",
+          "throne(3)",
+          "palm(3)",
+          "cave(2)",
+          "pine(2)",
+          "envy(2)",
+          "pillar(2)",
+          "heavenly(2)",
+          "peach(2)",
+          "temple(2)",
+          "monkey's(2)",
+          "somersaulted(2)",
+          "pillars(2)",
+          "summit(1)",
+          "thunder(1)",
+          "limb(1)",
+          "sweltering(1)",
+          "waterfall(1)",
+          "cliff(1)",
+          "silk(1)",
+          "whoever(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": " world. He saw five tall pillars there. He wrote his name on one pillar.  \"I win!\""
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "efore the guests arrived. Wandering off afterwards, he found himself in Lao Tzu's house, w"
+        },
+        {
+          "rule": "VERB_NOUN_CONFUSION",
+          "cat": "COMPOUNDING",
+          "msg": "When ‘hand-over’ is used as a noun or modifier, it needs to be hyphenated.",
+          "frag": "hand over",
+          "ctx": "nkey could leap away, Buddha turned his hand over and changed it into a mountain. This wa"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": " complaint to the Jade Emperor. Shortly afterwards Wukong paid a visit to the dim halls be"
+        },
+        {
+          "rule": "VERB_NOUN_CONFUSION",
+          "cat": "COMPOUNDING",
+          "msg": "When ‘hand-over’ is used as a noun or modifier, it needs to be hyphenated.",
+          "frag": "hand over",
+          "ctx": "kong could leap away, Buddha turned his hand over and changed it into a mountain of five "
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 326,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 511,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0046,
+      "lowZipfWords": [
+        "bowed",
+        "swam"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 826,
+      "sentLenMedian": 12.0,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0095,
+      "lowZipfWords": [
+        "bravest",
+        "dived",
+        "flagpole",
+        "hurried",
+        "shrank",
+        "sparrow",
+        "wandered"
+      ],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1142,
+      "sentLenMedian": 16,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0238,
+      "lowZipfWords": [
+        "ape",
+        "boasting",
+        "bowed",
+        "cheered",
+        "clapped",
+        "dived",
+        "flagpole",
+        "gardeners",
+        "hurried",
+        "leaped",
+        "monkey's",
+        "obeyed",
+        "raft",
+        "ripened",
+        "ripest",
+        "shone",
+        "somersault",
+        "sparrow",
+        "sprang",
+        "sternly",
+        "swam",
+        "troublesome",
+        "unhurt",
+        "weep"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1534,
+      "sentLenMedian": 23,
+      "zipfMedian": 5.96,
+      "lowZipfRatio": 0.0466,
+      "lowZipfWords": [
+        "ape",
+        "blurred",
+        "boasting",
+        "bowed",
+        "bruised",
+        "carefree",
+        "cheerfully",
+        "chopstick",
+        "creature's",
+        "crept",
+        "crouched",
+        "devotedly",
+        "disagreed",
+        "dived",
+        "dizzy",
+        "drifted",
+        "duly",
+        "embroidery",
+        "emptiness",
+        "fetched",
+        "flagpole",
+        "fortnight",
+        "froze",
+        "gardeners",
+        "hoisted",
+        "jars",
+        "monkey's",
+        "overturned",
+        "patiently",
+        "plunged",
+        "preferring",
+        "proclaiming",
+        "raft",
+        "riddle",
+        "ripened",
+        "ripest",
+        "roadside",
+        "sages",
+        "scruffy",
+        "shone",
+        "shrank",
+        "shrinking",
+        "sleek",
+        "smartly",
+        "somersault",
+        "somersaulted",
+        "spacious",
+        "sparrow",
+        "sprang",
+        "stormed",
+        "strolled",
+        "stung",
+        "sweltering",
+        "toppled",
+        "transformations",
+        "trunks",
+        "twirl",
+        "unharmed",
+        "unhurt",
+        "wager",
+        "wandered",
+        "wisest",
+        "woodcutter"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8405,
+      "wordCount": 326,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "stone(4)",
+        "monkey(4)",
+        "monkeys(4)",
+        "jumped(3)",
+        "magic(3)",
+        "mountain(2)",
+        "jump(2)",
+        "cloud(2)",
+        "peaches(2)",
+        "waterfall(1)",
+        "dry(1)",
+        "cave(1)",
+        "happy(1)",
+        "sad(1)",
+        "forever(1)",
+        "sailed(1)",
+        "wise(1)",
+        "tree(1)",
+        "bird(1)",
+        "fly(1)",
+        "weapon(1)",
+        "huge(1)",
+        "iron(1)",
+        "ear(1)",
+        "horses(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8806,
+      "wordCount": 511,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "stone(4)",
+        "magic(3)",
+        "pillar(3)",
+        "monkey(2)",
+        "monkeys(2)",
+        "jumped(2)",
+        "angry(2)",
+        "mountain(2)",
+        "waterfall(1)",
+        "dry(1)",
+        "cave(1)",
+        "bowed(1)",
+        "feast(1)",
+        "cry(1)",
+        "forever(1)",
+        "boat(1)",
+        "sailed(1)",
+        "wise(1)",
+        "ride(1)",
+        "clouds(1)",
+        "pine(1)",
+        "weapon(1)",
+        "swam(1)",
+        "palace(1)",
+        "iron(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9225,
+      "wordCount": 826,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "monkey(5)",
+        "magic(3)",
+        "monkeys(3)",
+        "feast(3)",
+        "clouds(2)",
+        "palace(2)",
+        "pillar(2)",
+        "sage(2)",
+        "peach(2)",
+        "peaches(2)",
+        "pills(2)",
+        "cracked(1)",
+        "stream(1)",
+        "waterfall(1)",
+        "whoever(1)",
+        "cave(1)",
+        "bowls(1)",
+        "wise(1)",
+        "pine(1)",
+        "impress(1)",
+        "worthy(1)",
+        "dived(1)",
+        "dragon(1)",
+        "queen(1)",
+        "iron(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9229,
+      "wordCount": 1142,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "monkey(9)",
+        "feast(3)",
+        "pillar(3)",
+        "sage(3)",
+        "pills(3)",
+        "palace(2)",
+        "monkeys(2)",
+        "peaceful(2)",
+        "pine(2)",
+        "peach(2)",
+        "pillars(2)",
+        "beams(1)",
+        "roaring(1)",
+        "waterfall(1)",
+        "whoever(1)",
+        "cave(1)",
+        "bowed(1)",
+        "weep(1)",
+        "ape(1)",
+        "raft(1)",
+        "somersault(1)",
+        "begged(1)",
+        "clapped(1)",
+        "cheered(1)",
+        "jealous(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9042,
+      "wordCount": 1534,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "monkey(10)",
+        "monkeys(3)",
+        "sage(3)",
+        "peaches(3)",
+        "pills(3)",
+        "throne(3)",
+        "palm(3)",
+        "cave(2)",
+        "pine(2)",
+        "envy(2)",
+        "pillar(2)",
+        "heavenly(2)",
+        "peach(2)",
+        "temple(2)",
+        "monkey's(2)",
+        "somersaulted(2)",
+        "pillars(2)",
+        "summit(1)",
+        "thunder(1)",
+        "limb(1)",
+        "sweltering(1)",
+        "waterfall(1)",
+        "cliff(1)",
+        "silk(1)",
+        "whoever(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.167,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0201",
+        "title": "The Monkey and the Crocodile",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0223",
+        "title": "The Monkey and the Crab",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0160",
+        "title": "The Frogs Who Wished for a King",
+        "titleJaccard": 0.111,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

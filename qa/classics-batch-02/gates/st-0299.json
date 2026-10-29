@@ -1,0 +1,627 @@
+{
+  "id": "st-0299",
+  "title": "Cyrano de Bergerac",
+  "ts": "2026-10-29T21:45:13",
+  "node": {
+    "id": "st-0299",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %87.4 | 310 kelime\n    havuz dışı: poet(1), brave(1), funny(1), clever(1), nose(2), lord(1), laughed(1), smiled(2), sword(1), fight(1), fast(1), cousin(1), beautiful(2), can't(3), soldiers(2), sad(1), handsome(1), balcony(1), dark(2), listened(2), married(1), cried(1), secret(1), nuns(1), quiet(1), garden(1), ill(1), heart(1), smile(1), softly(1), peace(1)",
+        "level A2: A2: KALDI | kapsam %91.1 | 517 kelime\n    havuz dışı: poet(1), de(3), brave(1), funny(2), clever(1), nose(3), theater(1), lord(1), poem(2), hurry(1), cheered(1), secret(3), cousin(1), smart(1), bakery(1), safe(1), sad(1), handsome(1), shy(1), jokes(1), can't(2), powerful(1), balcony(2), priest(1), angry(1), soldiers(1), carriage(1), soul(1), quiet(2), truth(1), nuns(1), autumn(1), ill(1), dear(1), peacefully(1)",
+        "level B1: B1: KALDI | kapsam %93.7 | 814 kelime\n    havuz dışı: poet(1), de(6), brave(2), nose(5), lord(1), poem(2), duel(1), hurried(1), cousin(1), bakery(1), baker(1), poets(1), handsome(2), clever(1), fool(1), balcony(3), shadows(1), monk(2), pretended(1), moon(1), crazy(1), furious(1), hungry(1), carriage(1), beside(1), forever(1), nuns(1), convent(2), autumn(1), fading(1), aloud(1), can't(1), gently(1), whispered(1), peacefully(1)",
+        "level B2: B2: KALDI | kapsam %94.7 | 1092 kelime\n    havuz dışı: seventeenth(1), de(6), cadets(5), courage(2), clever(2), mocked(1), lord(1), noisy(1), pity(1), wit(1), insult(1), duel(3), cheered(1), afterwards(1), loyal(1), adores(1), admiration(1), bakery(1), baker(1), blushing(1), unkind(1), sword(2), handsome(1), feelings(1), refusal(1), balcony(3), monk(2), revenge(1), siege(1), starving(1), carriage(2), begged(1), grief(1), nuns(1), convent(2), gravely(1), aloud(1), useless(1), peacefully(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8742,
+        "wordCount": 310,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "can't(3)",
+          "nose(2)",
+          "smiled(2)",
+          "beautiful(2)",
+          "soldiers(2)",
+          "dark(2)",
+          "listened(2)",
+          "poet(1)",
+          "brave(1)",
+          "funny(1)",
+          "clever(1)",
+          "lord(1)",
+          "laughed(1)",
+          "sword(1)",
+          "fight(1)",
+          "fast(1)",
+          "cousin(1)",
+          "sad(1)",
+          "handsome(1)",
+          "balcony(1)",
+          "married(1)",
+          "cried(1)",
+          "secret(1)",
+          "nuns(1)",
+          "quiet(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.911,
+        "wordCount": 517,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "de(3)",
+          "nose(3)",
+          "secret(3)",
+          "funny(2)",
+          "poem(2)",
+          "can't(2)",
+          "balcony(2)",
+          "quiet(2)",
+          "poet(1)",
+          "brave(1)",
+          "clever(1)",
+          "theater(1)",
+          "lord(1)",
+          "hurry(1)",
+          "cheered(1)",
+          "cousin(1)",
+          "smart(1)",
+          "bakery(1)",
+          "safe(1)",
+          "sad(1)",
+          "handsome(1)",
+          "shy(1)",
+          "jokes(1)",
+          "powerful(1)",
+          "priest(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9373,
+        "wordCount": 814,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "de(6)",
+          "nose(5)",
+          "balcony(3)",
+          "brave(2)",
+          "poem(2)",
+          "handsome(2)",
+          "monk(2)",
+          "convent(2)",
+          "poet(1)",
+          "lord(1)",
+          "duel(1)",
+          "hurried(1)",
+          "cousin(1)",
+          "bakery(1)",
+          "baker(1)",
+          "poets(1)",
+          "clever(1)",
+          "fool(1)",
+          "shadows(1)",
+          "pretended(1)",
+          "moon(1)",
+          "crazy(1)",
+          "furious(1)",
+          "hungry(1)",
+          "carriage(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9469,
+        "wordCount": 1092,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "de(6)",
+          "cadets(5)",
+          "duel(3)",
+          "balcony(3)",
+          "courage(2)",
+          "clever(2)",
+          "sword(2)",
+          "monk(2)",
+          "carriage(2)",
+          "convent(2)",
+          "seventeenth(1)",
+          "mocked(1)",
+          "lord(1)",
+          "noisy(1)",
+          "pity(1)",
+          "wit(1)",
+          "insult(1)",
+          "cheered(1)",
+          "afterwards(1)",
+          "loyal(1)",
+          "adores(1)",
+          "admiration(1)",
+          "bakery(1)",
+          "baker(1)",
+          "blushing(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9307,
+        "wordCount": 1429,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "de(4)",
+          "cadets(4)",
+          "cruel(2)",
+          "lord(2)",
+          "wit(2)",
+          "duel(2)",
+          "courage(2)",
+          "interrupted(2)",
+          "balcony(2)",
+          "monk(2)",
+          "convent(2)",
+          "swordsman(1)",
+          "sonnet(1)",
+          "dukes(1)",
+          "beggars(1)",
+          "alike(1)",
+          "mocked(1)",
+          "forbidden(1)",
+          "fashionable(1)",
+          "irritated(1)",
+          "boldness(1)",
+          "strolled(1)",
+          "upstart(1)",
+          "sympathy(1)",
+          "insult(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "Afterwards",
+          "ctx": "rry, and the crowd cheered for Cyrano.  Afterwards, his loyal friend Le Bret asked him why"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 310,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0037,
+      "lowZipfWords": [
+        "nuns"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 517,
+      "sentLenMedian": 8,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0045,
+      "lowZipfWords": [
+        "cheered",
+        "nuns"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 814,
+      "sentLenMedian": 10.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0083,
+      "lowZipfWords": [
+        "convent",
+        "hurried",
+        "joked",
+        "nuns",
+        "whispered"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1092,
+      "sentLenMedian": 13,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0181,
+      "lowZipfWords": [
+        "adores",
+        "blushing",
+        "cadets",
+        "cheered",
+        "convent",
+        "funnier",
+        "gravely",
+        "mocked",
+        "nuns",
+        "regretted",
+        "seventeenth",
+        "unkind",
+        "whispered"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1429,
+      "sentLenMedian": 16.5,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0328,
+      "lowZipfWords": [
+        "admirable",
+        "astonished",
+        "beggars",
+        "bewildered",
+        "blushing",
+        "boldness",
+        "breathless",
+        "cadet",
+        "cadets",
+        "coachman",
+        "compose",
+        "convent",
+        "courting",
+        "crept",
+        "dukes",
+        "enchanted",
+        "forties",
+        "gravely",
+        "joked",
+        "leaping",
+        "loveliest",
+        "miserably",
+        "mocked",
+        "newcomers",
+        "nobleman",
+        "nuns",
+        "ovens",
+        "panache",
+        "rattled",
+        "recited",
+        "reciting",
+        "sonnet",
+        "strolled",
+        "swordsman",
+        "tricked",
+        "unobserved",
+        "untouched",
+        "upstart",
+        "whispered"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8742,
+      "wordCount": 310,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "can't(3)",
+        "nose(2)",
+        "smiled(2)",
+        "beautiful(2)",
+        "soldiers(2)",
+        "dark(2)",
+        "listened(2)",
+        "poet(1)",
+        "brave(1)",
+        "funny(1)",
+        "clever(1)",
+        "lord(1)",
+        "laughed(1)",
+        "sword(1)",
+        "fight(1)",
+        "fast(1)",
+        "cousin(1)",
+        "sad(1)",
+        "handsome(1)",
+        "balcony(1)",
+        "married(1)",
+        "cried(1)",
+        "secret(1)",
+        "nuns(1)",
+        "quiet(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.911,
+      "wordCount": 517,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "de(3)",
+        "nose(3)",
+        "secret(3)",
+        "funny(2)",
+        "poem(2)",
+        "can't(2)",
+        "balcony(2)",
+        "quiet(2)",
+        "poet(1)",
+        "brave(1)",
+        "clever(1)",
+        "theater(1)",
+        "lord(1)",
+        "hurry(1)",
+        "cheered(1)",
+        "cousin(1)",
+        "smart(1)",
+        "bakery(1)",
+        "safe(1)",
+        "sad(1)",
+        "handsome(1)",
+        "shy(1)",
+        "jokes(1)",
+        "powerful(1)",
+        "priest(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9373,
+      "wordCount": 814,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "de(6)",
+        "nose(5)",
+        "balcony(3)",
+        "brave(2)",
+        "poem(2)",
+        "handsome(2)",
+        "monk(2)",
+        "convent(2)",
+        "poet(1)",
+        "lord(1)",
+        "duel(1)",
+        "hurried(1)",
+        "cousin(1)",
+        "bakery(1)",
+        "baker(1)",
+        "poets(1)",
+        "clever(1)",
+        "fool(1)",
+        "shadows(1)",
+        "pretended(1)",
+        "moon(1)",
+        "crazy(1)",
+        "furious(1)",
+        "hungry(1)",
+        "carriage(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9469,
+      "wordCount": 1092,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "de(6)",
+        "cadets(5)",
+        "duel(3)",
+        "balcony(3)",
+        "courage(2)",
+        "clever(2)",
+        "sword(2)",
+        "monk(2)",
+        "carriage(2)",
+        "convent(2)",
+        "seventeenth(1)",
+        "mocked(1)",
+        "lord(1)",
+        "noisy(1)",
+        "pity(1)",
+        "wit(1)",
+        "insult(1)",
+        "cheered(1)",
+        "afterwards(1)",
+        "loyal(1)",
+        "adores(1)",
+        "admiration(1)",
+        "bakery(1)",
+        "baker(1)",
+        "blushing(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9307,
+      "wordCount": 1429,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "de(4)",
+        "cadets(4)",
+        "cruel(2)",
+        "lord(2)",
+        "wit(2)",
+        "duel(2)",
+        "courage(2)",
+        "interrupted(2)",
+        "balcony(2)",
+        "monk(2)",
+        "convent(2)",
+        "swordsman(1)",
+        "sonnet(1)",
+        "dukes(1)",
+        "beggars(1)",
+        "alike(1)",
+        "mocked(1)",
+        "forbidden(1)",
+        "fashionable(1)",
+        "irritated(1)",
+        "boldness(1)",
+        "strolled(1)",
+        "upstart(1)",
+        "sympathy(1)",
+        "insult(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 6,
+      "2": 4
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "sword": 4,
+      "died": 10
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0277",
+        "title": "The Snow Queen",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

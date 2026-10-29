@@ -1,0 +1,67 @@
+{
+  "id": "st-0318",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Your face does not matter.\" A1 never says the Nutcracker is ugly, only \"He had a big head and thin legs.\" Consider adding \"His face was not pretty.\" after that sentence so Marie's line has a setup.",
+        "\"Fritz gave him a little sword.\" In the original Fritz gives the sword to Marie, who passes it on. This is acceptable condensing."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "\"Or I can bite your Nutcracker!\"",
+          "problem": "'Can' expresses ability, not a threat. No native speaker would phrase a threat this way, and learners would pick up a wrong pattern.",
+          "fix": "\"Or I bite your Nutcracker!\" (present simple threat, within A2 tense limits). Alternatively: \"Give me your sugar toys,\" whispered the Mouse King. \"Then I leave your Nutcracker alone.\""
+        }
+      ],
+      "notes": [
+        "The spell condition (the Nutcracker must defeat the Mouse King and be loved) is not stated, but \"Your kind words broke the spell\" is still understandable from the story."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "Only two things can break the spell, said Drosselmeier. He must win against the son of the mouse queen, and a girl must love him.",
+          "problem": "This is direct speech (present tense 'can', 'must') with no quotation marks, mixed into past-tense narration. Readers cannot tell whether it is narration or speech, and the punctuation is wrong.",
+          "fix": "\"Only two things can break the spell,\" said Drosselmeier. \"He must win against the son of the mouse queen, and a girl must love him.\""
+        },
+        {
+          "criterion": "logic error",
+          "quote": "She pulled off her left slipper and threw it hard at the Mouse King.",
+          "problem": "The paragraph opens with 'She', but Marie is not mentioned anywhere in the previous paragraph (only the Nutcracker, soldiers, dolls and the Mouse King). A lead-in sentence seems to be missing, so the action comes out of nowhere.",
+          "fix": "Marie could not watch any longer. She pulled off her left slipper and threw it hard at the Mouse King."
+        }
+      ],
+      "notes": [
+        "Quiz Q1 distractor \"She gave him to Louise\" names a character who never appears in the text. That is harmless for a distractor, but \"She gave him to Fritz\" would be cleaner.",
+        "Consider linking 'the son of the mouse queen' to the Mouse King explicitly, e.g. 'the son of the mouse queen, the Mouse King'."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Faithful to Hoffmann: the owl with Drosselmeier's face, the left slipper, the retired colonel's sword, the coat-sleeve entrance and the sisters cooking in Marzipan Castle are all present and in the right order."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"together they climbed up through one of its sleeves. This was the Doll Kingdom\" — 'This' has no antecedent. Consider adding a bridging sentence such as 'and stepped out into a meadow that smelled of sugar.' before 'This was the Doll Kingdom'.",
+        "\"handed the kernel to the princess with his eyes shut, and she was at once as beautiful as before\" leaves out that she eats it. 'and the moment she swallowed it she was as beautiful as before' would be more exact.",
+        "Strong literary register with no padding. The Pirlipat backstory (bacon, clockmaker, unshaven youth, stepping backwards, astronomer) is well condensed."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling of Hoffmann's tale, with no film elements (no Clara, no Sugar Plum Fairy) and well-keyed quizzes at every level. A2 fails on the unnatural threat \"Or I can bite your Nutcracker!\". B1 fails on unquoted direct speech in Drosselmeier's spell condition and on a slipper paragraph that opens with an orphaned 'She'. A1, B2 and C1 pass."
+}

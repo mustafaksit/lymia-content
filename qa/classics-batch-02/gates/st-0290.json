@@ -1,0 +1,665 @@
+{
+  "id": "st-0290",
+  "title": "Arthur and the Sword in the Stone",
+  "ts": "2026-10-29T21:45:00",
+  "node": {
+    "id": "st-0290",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %78.6 | 327 kelime\n    havuz dışı: king(6), lords(5), crown(1), wise(1), church(3), stone(7), anvil(2), steel(1), sword(12), deep(1), gold(1), pull(1), lord(1), pulled(6), knights(1), tournament(1), sir(2), son(1), brother(2), horse(1), cried(2), rode(2), boys(1), truth(1), knees(1), baby(1), sad(1), angry(1), boy(1), shouted(1), sorry(1), forgave(1)",
+        "level A2: A2: KALDI | kapsam %84.8 | 521 kelime\n    havuz dışı: king(8), lords(7), crown(1), wise(1), prayed(1), prayers(1), strange(1), square(1), stone(8), anvil(2), steel(1), bright(1), sword(14), gold(1), knights(1), guarded(1), tournament(3), rode(5), knight(1), horse(1), cried(2), knocked(1), guards(1), handle(1), gently(1), swear(1), holy(1), knelt(2), kneel(1), lord(1), softly(1), sad(1), angry(1), unknown(1), shouted(1), forgave(1), altar(1)",
+        "level B1: B1: KALDI | kapsam %91.9 | 815 kelime\n    havuz dışı: lords(5), crown(3), wise(1), messengers(1), praying(1), churchyard(2), marble(1), anvil(2), steel(1), sword(15), prayers(1), lord(3), knights(2), barons(1), tournament(3), riders(1), knight(3), autumn(1), fetch(1), servants(1), gate(1), tent(1), hurried(1), swear(1), holy(1), knelt(3), beside(1), kneeling(1), owe(1), unknown(1), feast(1), forgive(1), forgave(1), altar(1), afterwards(1)",
+        "level B2: B2: KALDI | kapsam %92.8 | 1141 kelime\n    havuz dışı: kingdom(2), lord(4), crown(1), wisdom(1), knight(4), holy(2), messengers(1), lords(5), daylight(1), churchyard(2), altar(2), marble(1), anvil(3), sword(20), whoever(1), prayers(1), afterwards(2), blade(1), width(1), knights(3), barons(2), lodging(1), annoyed(1), stile(1), confessed(1), rightful(1), knelt(2), kneel(1), sorrow(1), gracious(1), steward(1), twelfth(1), furious(1), shame(1), feast(1), loyal(1), alike(1), begged(1), forgive(1), forgave(1), crowned(1), swore(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.7859,
+        "wordCount": 327,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sword(12)",
+          "stone(7)",
+          "king(6)",
+          "pulled(6)",
+          "lords(5)",
+          "church(3)",
+          "anvil(2)",
+          "sir(2)",
+          "brother(2)",
+          "cried(2)",
+          "rode(2)",
+          "crown(1)",
+          "wise(1)",
+          "steel(1)",
+          "deep(1)",
+          "gold(1)",
+          "pull(1)",
+          "lord(1)",
+          "knights(1)",
+          "tournament(1)",
+          "son(1)",
+          "horse(1)",
+          "boys(1)",
+          "truth(1)",
+          "knees(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8484,
+        "wordCount": 521,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sword(14)",
+          "king(8)",
+          "stone(8)",
+          "lords(7)",
+          "rode(5)",
+          "tournament(3)",
+          "anvil(2)",
+          "cried(2)",
+          "knelt(2)",
+          "crown(1)",
+          "wise(1)",
+          "prayed(1)",
+          "prayers(1)",
+          "strange(1)",
+          "square(1)",
+          "steel(1)",
+          "bright(1)",
+          "gold(1)",
+          "knights(1)",
+          "guarded(1)",
+          "knight(1)",
+          "horse(1)",
+          "knocked(1)",
+          "guards(1)",
+          "handle(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.919,
+        "wordCount": 815,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sword(15)",
+          "lords(5)",
+          "crown(3)",
+          "lord(3)",
+          "tournament(3)",
+          "knight(3)",
+          "knelt(3)",
+          "churchyard(2)",
+          "anvil(2)",
+          "knights(2)",
+          "wise(1)",
+          "messengers(1)",
+          "praying(1)",
+          "marble(1)",
+          "steel(1)",
+          "prayers(1)",
+          "barons(1)",
+          "riders(1)",
+          "autumn(1)",
+          "fetch(1)",
+          "servants(1)",
+          "gate(1)",
+          "tent(1)",
+          "hurried(1)",
+          "swear(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9281,
+        "wordCount": 1141,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sword(20)",
+          "lords(5)",
+          "lord(4)",
+          "knight(4)",
+          "anvil(3)",
+          "knights(3)",
+          "kingdom(2)",
+          "holy(2)",
+          "churchyard(2)",
+          "altar(2)",
+          "afterwards(2)",
+          "barons(2)",
+          "knelt(2)",
+          "crown(1)",
+          "wisdom(1)",
+          "messengers(1)",
+          "daylight(1)",
+          "marble(1)",
+          "whoever(1)",
+          "prayers(1)",
+          "blade(1)",
+          "width(1)",
+          "lodging(1)",
+          "annoyed(1)",
+          "stile(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9272,
+        "wordCount": 1483,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sword(17)",
+          "lords(8)",
+          "kingdom(4)",
+          "anvil(4)",
+          "knights(4)",
+          "lord(3)",
+          "knight(3)",
+          "altar(3)",
+          "blade(3)",
+          "realm(2)",
+          "crown(2)",
+          "holy(2)",
+          "knelt(2)",
+          "churchyard(2)",
+          "barons(2)",
+          "begged(2)",
+          "alike(2)",
+          "ambition(1)",
+          "loyalty(1)",
+          "followers(1)",
+          "wisdom(1)",
+          "messengers(1)",
+          "marble(1)",
+          "whoever(1)",
+          "rightful(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "SAY_SORRY",
+          "cat": "AMERICAN_ENGLISH_STYLE",
+          "msg": "Consider using “apologized” to improve your wording.",
+          "frag": "said sorry",
+          "ctx": "r is our king!\" they shouted. The lords said sorry, and Arthur forgave them. So Arthur bec"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ANY_MORE",
+          "cat": "COMPOUNDING",
+          "msg": "Did you mean the adverb “anymore”?",
+          "frag": "any more",
+          "ctx": "e people cried. \"We do not want to wait any more!\" The lords knelt and said sorry, and A"
+        },
+        {
+          "rule": "SAY_SORRY",
+          "cat": "AMERICAN_ENGLISH_STYLE",
+          "msg": "Consider using “apologized” to improve your wording.",
+          "frag": "said sorry",
+          "ctx": " to wait any more!\" The lords knelt and said sorry, and Arthur forgave them. He put the sw"
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "on the altar, became a knight, and soon afterwards received the crown."
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "Afterwards",
+          "ctx": "rayers before anyone touched the sword. Afterwards, however, all the lords who wanted to b"
+        },
+        {
+          "rule": "ANY_MORE",
+          "cat": "COMPOUNDING",
+          "msg": "Did you mean the adverb “anymore”?",
+          "frag": "any more",
+          "ctx": "thur as our king, and we will not delay any more,\" they shouted. \"We can all see that it"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "hat same day he was made a knight. Soon afterwards he was crowned, and he swore to rule wi"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "night by the best man present. Not long afterwards he was crowned, swearing before lords a"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 327,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0035,
+      "lowZipfWords": [
+        "forgave"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 521,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.12,
+      "lowZipfRatio": 0.0087,
+      "lowZipfWords": [
+        "forgave",
+        "kneel",
+        "knelt"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 815,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.12,
+      "lowZipfRatio": 0.0135,
+      "lowZipfWords": [
+        "barons",
+        "churchyard",
+        "forgave",
+        "hurried",
+        "kneeling",
+        "knelt",
+        "messengers"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1141,
+      "sentLenMedian": 15,
+      "zipfMedian": 6.26,
+      "lowZipfRatio": 0.0132,
+      "lowZipfWords": [
+        "barons",
+        "churchyard",
+        "forgave",
+        "hair's",
+        "kneel",
+        "knelt",
+        "lodging",
+        "messengers",
+        "rightful",
+        "steward",
+        "stile"
+      ],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1483,
+      "sentLenMedian": 22,
+      "zipfMedian": 6.24,
+      "lowZipfRatio": 0.0178,
+      "lowZipfWords": [
+        "barons",
+        "churchyard",
+        "forgave",
+        "galloped",
+        "grasped",
+        "jousting",
+        "kneeling",
+        "knelt",
+        "lodging",
+        "messengers",
+        "moment's",
+        "proudest",
+        "puzzled",
+        "riddle",
+        "rightful",
+        "rightfully",
+        "scabbard",
+        "steward",
+        "stile",
+        "tenderly",
+        "truthfully",
+        "vexed"
+      ],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.7859,
+      "wordCount": 327,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sword(12)",
+        "stone(7)",
+        "king(6)",
+        "pulled(6)",
+        "lords(5)",
+        "church(3)",
+        "anvil(2)",
+        "sir(2)",
+        "brother(2)",
+        "cried(2)",
+        "rode(2)",
+        "crown(1)",
+        "wise(1)",
+        "steel(1)",
+        "deep(1)",
+        "gold(1)",
+        "pull(1)",
+        "lord(1)",
+        "knights(1)",
+        "tournament(1)",
+        "son(1)",
+        "horse(1)",
+        "boys(1)",
+        "truth(1)",
+        "knees(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8484,
+      "wordCount": 521,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sword(14)",
+        "king(8)",
+        "stone(8)",
+        "lords(7)",
+        "rode(5)",
+        "tournament(3)",
+        "anvil(2)",
+        "cried(2)",
+        "knelt(2)",
+        "crown(1)",
+        "wise(1)",
+        "prayed(1)",
+        "prayers(1)",
+        "strange(1)",
+        "square(1)",
+        "steel(1)",
+        "bright(1)",
+        "gold(1)",
+        "knights(1)",
+        "guarded(1)",
+        "knight(1)",
+        "horse(1)",
+        "knocked(1)",
+        "guards(1)",
+        "handle(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.919,
+      "wordCount": 815,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sword(15)",
+        "lords(5)",
+        "crown(3)",
+        "lord(3)",
+        "tournament(3)",
+        "knight(3)",
+        "knelt(3)",
+        "churchyard(2)",
+        "anvil(2)",
+        "knights(2)",
+        "wise(1)",
+        "messengers(1)",
+        "praying(1)",
+        "marble(1)",
+        "steel(1)",
+        "prayers(1)",
+        "barons(1)",
+        "riders(1)",
+        "autumn(1)",
+        "fetch(1)",
+        "servants(1)",
+        "gate(1)",
+        "tent(1)",
+        "hurried(1)",
+        "swear(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9281,
+      "wordCount": 1141,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sword(20)",
+        "lords(5)",
+        "lord(4)",
+        "knight(4)",
+        "anvil(3)",
+        "knights(3)",
+        "kingdom(2)",
+        "holy(2)",
+        "churchyard(2)",
+        "altar(2)",
+        "afterwards(2)",
+        "barons(2)",
+        "knelt(2)",
+        "crown(1)",
+        "wisdom(1)",
+        "messengers(1)",
+        "daylight(1)",
+        "marble(1)",
+        "whoever(1)",
+        "prayers(1)",
+        "blade(1)",
+        "width(1)",
+        "lodging(1)",
+        "annoyed(1)",
+        "stile(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9272,
+      "wordCount": 1483,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sword(17)",
+        "lords(8)",
+        "kingdom(4)",
+        "anvil(4)",
+        "knights(4)",
+        "lord(3)",
+        "knight(3)",
+        "altar(3)",
+        "blade(3)",
+        "realm(2)",
+        "crown(2)",
+        "holy(2)",
+        "knelt(2)",
+        "churchyard(2)",
+        "barons(2)",
+        "begged(2)",
+        "alike(2)",
+        "ambition(1)",
+        "loyalty(1)",
+        "followers(1)",
+        "wisdom(1)",
+        "messengers(1)",
+        "marble(1)",
+        "whoever(1)",
+        "rightful(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "sword": 97,
+      "dies": 1,
+      "died": 5
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.25,
+      "summary3gramJaccard": 0.037,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0208",
+        "title": "Stone Soup",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0191",
+        "title": "Ali Baba and the Forty Thieves",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.037,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

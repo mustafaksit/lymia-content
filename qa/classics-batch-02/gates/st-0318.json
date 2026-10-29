@@ -1,0 +1,683 @@
+{
+  "id": "st-0318",
+  "title": "The Nutcracker and the Mouse King",
+  "ts": "2026-10-29T21:45:34",
+  "node": {
+    "id": "st-0318",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %85.0 | 326 kelime\n    havuz dışı: gift(1), tree(1), wooden(1), thin(1), legs(1), pretty(1), nutcracker(1), nut(1), crack(1), teeth(1), ribbon(1), toy(2), cupboard(1), clock(1), struck(1), mice(4), floor(1), king(1), crowns(2), toys(2), alive(1), soldiers(2), cried(1), fought(2), shoe(1), threw(1), dark(1), woke(2), sweets(1), sugar(1), sword(2), lemonade(1), rivers(1), candy(1), trees(1), nephew(1), saved(1), queen(2)",
+        "level A2: A2: KALDI | kapsam %85.8 | 515 kelime\n    havuz dışı: bell(1), patch(1), toy(2), castle(1), tiny(1), wooden(1), nutcracker(2), nut(2), teeth(2), tied(1), ribbon(1), glass(1), cupboard(2), mice(5), hole(1), mouse(1), crowns(3), jumped(1), wake(1), soldiers(3), shouted(1), dolls(1), shoe(1), king(1), disappeared(1), woke(2), queen(4), princess(2), ugly(2), cracked(1), nephew(2), sugar(1), toys(1), whispered(2), sharp(1), sweets(2), sword(2), climbed(1), sleeve(1), coat(1), rivers(1), lemonade(1), forests(1), slowly(1), asleep(1), silly(1), knelt(1), spell(1), golden(1), carriage(1)",
+        "level B1: B1: KALDI | kapsam %91.8 | 816 kelime\n    havuz dışı: bell(1), shining(2), candles(1), golden(3), apples(1), handsome(1), patch(1), castle(1), gentlemen(1), wooden(2), nutcracker(1), nut(2), loud(1), crack(1), teeth(2), ribbon(1), cupboard(2), gently(1), doll's(1), cracks(1), crowns(3), drummer(1), drum(1), marched(1), dolls(2), dizzy(1), lying(1), queen(5), princess(3), terribly(1), ugly(2), cracked(2), nephew(2), bite(1), whispered(2), sugar(1), marzipan(1), sword(2), wardrobe(1), sleeve(1), lemonade(1), asleep(1), silly(1), nuts(1), knelt(1), carriage(1)",
+        "level B2: B2: KALDI | kapsam %93.1 | 1148 kelime\n    havuz dışı: apples(1), almonds(1), countless(1), candles(1), wrinkled(1), patch(1), neat(1), handsome(1), nutcracker(2), nut(3), jaws(1), chin(1), snatched(1), ribbon(1), begged(1), doll's(1), cupboard(4), mended(1), owl(1), candlelight(1), shrill(1), whistles(1), crown(1), blanket(2), bravely(1), drummer(1), cannons(1), squeaking(1), instant(1), vanished(1), lying(1), queen(4), princess(4), clockmaker(1), nephew(2), backwards(1), trod(1), queen's(1), pillow(1), squeaked(1), dolls(1), marzipan(1), despair(1), sword(2), colonels(1), colonel's(1), crowns(2), bow(1), kingdom(1), wardrobe(1), sleeves(1), meadow(1), lemonade(1), princesses(1), feast(1), mist(1), fetched(1), nonsense(1), politely(1), nuts(1), knelt(1), fetch(1), carriage(1)",
+        "level C1: C1: KALDI | kapsam %89.0 | 1549 kelime\n    havuz dışı: banished(1), hum(1), dusk(1), crept(1), huddled(1), lamp(1), silvery(1), spilled(1), threshold(1), apples(1), almonds(1), candles(1), wiry(1), wrinkled(1), walnut(1), patch(1), wig(1), coax(1), clever(1), marvel(1), gentlemen(1), strolled(1), balcony(1), neat(1), absurdly(1), slender(1), handsome(1), kindness(1), nutcracker(2), fond(1), crammed(1), nut(4), jaws(1), dreadful(1), tumbled(1), chin(1), snatched(1), bound(1), ribbon(1), cradled(1), begged(1), tidy(1), cupboard(5), doll's(1), whir(1), grumble(1), gilded(1), owl(1), perched(2), scratching(1), shrill(1), whistling(1), glittering(1), crown(1), squeaking(1), chorus(1), shiver(1), flung(2), blanket(2), leapt(2), drums(1), rattled(1), tumbling(1), dolls(2), clowns(1), fled(1), swarming(1), brave(1), toppled(1), squealing(1), triumph(1), scarcely(2), instant(1), vanished(1), lying(1), sunshine(1), peculiar(1), feast(1), sausages(1), queen(6), bacon(1), clockmaker(2), palace(2), revenge(1), princess(5), undo(1), shaved(1), nephew(3), kernel(1), swallowed(1), backwards(1), trod(1), curse(1), swelled(1), ungrateful(1), astronomer(1), sly(1), asleep(1), pillow(1), hissed(1), precious(1), trembling(1), marzipan(1), crumb(1), greed(1), weeping(1), confessed(1), murmured(1), sword(1), colonels(1), blade(1), worthy(1), bowing(1), crowns(2), outstretched(1), kingdom(1), wardrobe(1), sleeves(1), meadow(1), glittered(1), lemonade(2), chattered(1), princesses(1), blur(1), drift(1), mist(1), stung(1), fetch(2), palm(1), patience(1), forbade(1), kingdoms(1), foolish(1), courteous(1), nuts(1), drifted(1), knelt(1), carriage(1), reigns(1), meadows(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8497,
+        "wordCount": 326,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "mice(4)",
+          "toy(2)",
+          "crowns(2)",
+          "toys(2)",
+          "soldiers(2)",
+          "fought(2)",
+          "woke(2)",
+          "sword(2)",
+          "queen(2)",
+          "gift(1)",
+          "tree(1)",
+          "wooden(1)",
+          "thin(1)",
+          "legs(1)",
+          "pretty(1)",
+          "nutcracker(1)",
+          "nut(1)",
+          "crack(1)",
+          "teeth(1)",
+          "ribbon(1)",
+          "cupboard(1)",
+          "clock(1)",
+          "struck(1)",
+          "floor(1)",
+          "king(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8583,
+        "wordCount": 515,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "mice(5)",
+          "queen(4)",
+          "crowns(3)",
+          "soldiers(3)",
+          "toy(2)",
+          "nutcracker(2)",
+          "nut(2)",
+          "teeth(2)",
+          "cupboard(2)",
+          "woke(2)",
+          "princess(2)",
+          "ugly(2)",
+          "nephew(2)",
+          "whispered(2)",
+          "sweets(2)",
+          "sword(2)",
+          "bell(1)",
+          "patch(1)",
+          "castle(1)",
+          "tiny(1)",
+          "wooden(1)",
+          "tied(1)",
+          "ribbon(1)",
+          "glass(1)",
+          "hole(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9179,
+        "wordCount": 816,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "queen(5)",
+          "golden(3)",
+          "crowns(3)",
+          "princess(3)",
+          "shining(2)",
+          "wooden(2)",
+          "nut(2)",
+          "teeth(2)",
+          "cupboard(2)",
+          "dolls(2)",
+          "ugly(2)",
+          "cracked(2)",
+          "nephew(2)",
+          "whispered(2)",
+          "sword(2)",
+          "bell(1)",
+          "candles(1)",
+          "apples(1)",
+          "handsome(1)",
+          "patch(1)",
+          "castle(1)",
+          "gentlemen(1)",
+          "nutcracker(1)",
+          "loud(1)",
+          "crack(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9312,
+        "wordCount": 1148,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cupboard(4)",
+          "queen(4)",
+          "princess(4)",
+          "nut(3)",
+          "nutcracker(2)",
+          "blanket(2)",
+          "nephew(2)",
+          "sword(2)",
+          "crowns(2)",
+          "apples(1)",
+          "almonds(1)",
+          "countless(1)",
+          "candles(1)",
+          "wrinkled(1)",
+          "patch(1)",
+          "neat(1)",
+          "handsome(1)",
+          "jaws(1)",
+          "chin(1)",
+          "snatched(1)",
+          "ribbon(1)",
+          "begged(1)",
+          "doll's(1)",
+          "mended(1)",
+          "owl(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.8903,
+        "wordCount": 1549,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "queen(6)",
+          "cupboard(5)",
+          "princess(5)",
+          "nut(4)",
+          "nephew(3)",
+          "nutcracker(2)",
+          "perched(2)",
+          "flung(2)",
+          "blanket(2)",
+          "leapt(2)",
+          "dolls(2)",
+          "scarcely(2)",
+          "clockmaker(2)",
+          "palace(2)",
+          "crowns(2)",
+          "lemonade(2)",
+          "fetch(2)",
+          "banished(1)",
+          "hum(1)",
+          "dusk(1)",
+          "crept(1)",
+          "huddled(1)",
+          "lamp(1)",
+          "silvery(1)",
+          "spilled(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ANY_MORE",
+          "cat": "COMPOUNDING",
+          "msg": "Did you mean the adverb “anymore”?",
+          "frag": "any more",
+          "ctx": "were laughing.  Marie could not bear it any more. She pulled off her left slipper and th"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 326,
+      "sentLenMedian": 6.5,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0148,
+      "lowZipfWords": [
+        "crowns",
+        "cupboard",
+        "lemonade"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 515,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0202,
+      "lowZipfWords": [
+        "crowns",
+        "cupboard",
+        "knelt",
+        "lemonade",
+        "whispered"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 816,
+      "sentLenMedian": 12.0,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0174,
+      "lowZipfWords": [
+        "crowns",
+        "cupboard",
+        "dizzy",
+        "doll's",
+        "knelt",
+        "lemonade",
+        "marzipan",
+        "slipper",
+        "whispered"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1148,
+      "sentLenMedian": 16.0,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0289,
+      "lowZipfWords": [
+        "almonds",
+        "bravely",
+        "candlelight",
+        "cannons",
+        "clockmaker",
+        "colonel's",
+        "colonels",
+        "crowns",
+        "cupboard",
+        "doll's",
+        "fetched",
+        "knelt",
+        "lemonade",
+        "marzipan",
+        "mended",
+        "politely",
+        "princesses",
+        "shrill",
+        "slipper",
+        "snatched",
+        "squeaked",
+        "squeaking",
+        "sugared",
+        "trod",
+        "whispered",
+        "whistles",
+        "wrinkled"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1549,
+      "sentLenMedian": 22.0,
+      "zipfMedian": 5.97,
+      "lowZipfRatio": 0.0562,
+      "lowZipfWords": [
+        "absurdly",
+        "almonds",
+        "astronomer",
+        "banished",
+        "bowing",
+        "chattered",
+        "clockmaker",
+        "coax",
+        "colonels",
+        "courteous",
+        "cradled",
+        "crammed",
+        "crept",
+        "crowns",
+        "crumb",
+        "cupboard",
+        "dearest",
+        "doll's",
+        "drifted",
+        "dusk",
+        "flung",
+        "forbade",
+        "gaped",
+        "gilded",
+        "glancing",
+        "glittered",
+        "glittering",
+        "grinning",
+        "grumble",
+        "hissed",
+        "huddled",
+        "hurried",
+        "knelt",
+        "leapt",
+        "lemonade",
+        "marzipan",
+        "mend",
+        "mirrored",
+        "murmured",
+        "officer's",
+        "outstretched",
+        "perched",
+        "princesses",
+        "rattled",
+        "sausages",
+        "scarcely",
+        "shiver",
+        "shrill",
+        "silvery",
+        "slipper",
+        "sly",
+        "snatched",
+        "squeaking",
+        "squealing",
+        "strolled",
+        "stung",
+        "sugared",
+        "swarming",
+        "swelled",
+        "swung",
+        "toppled",
+        "trembling",
+        "trod",
+        "tumbled",
+        "tumbling",
+        "ungrateful",
+        "weeping",
+        "whir",
+        "whispered",
+        "whistling",
+        "wiry",
+        "wrinkled"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8497,
+      "wordCount": 326,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "mice(4)",
+        "toy(2)",
+        "crowns(2)",
+        "toys(2)",
+        "soldiers(2)",
+        "fought(2)",
+        "woke(2)",
+        "sword(2)",
+        "queen(2)",
+        "gift(1)",
+        "tree(1)",
+        "wooden(1)",
+        "thin(1)",
+        "legs(1)",
+        "pretty(1)",
+        "nutcracker(1)",
+        "nut(1)",
+        "crack(1)",
+        "teeth(1)",
+        "ribbon(1)",
+        "cupboard(1)",
+        "clock(1)",
+        "struck(1)",
+        "floor(1)",
+        "king(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8583,
+      "wordCount": 515,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "mice(5)",
+        "queen(4)",
+        "crowns(3)",
+        "soldiers(3)",
+        "toy(2)",
+        "nutcracker(2)",
+        "nut(2)",
+        "teeth(2)",
+        "cupboard(2)",
+        "woke(2)",
+        "princess(2)",
+        "ugly(2)",
+        "nephew(2)",
+        "whispered(2)",
+        "sweets(2)",
+        "sword(2)",
+        "bell(1)",
+        "patch(1)",
+        "castle(1)",
+        "tiny(1)",
+        "wooden(1)",
+        "tied(1)",
+        "ribbon(1)",
+        "glass(1)",
+        "hole(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9179,
+      "wordCount": 816,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "queen(5)",
+        "golden(3)",
+        "crowns(3)",
+        "princess(3)",
+        "shining(2)",
+        "wooden(2)",
+        "nut(2)",
+        "teeth(2)",
+        "cupboard(2)",
+        "dolls(2)",
+        "ugly(2)",
+        "cracked(2)",
+        "nephew(2)",
+        "whispered(2)",
+        "sword(2)",
+        "bell(1)",
+        "candles(1)",
+        "apples(1)",
+        "handsome(1)",
+        "patch(1)",
+        "castle(1)",
+        "gentlemen(1)",
+        "nutcracker(1)",
+        "loud(1)",
+        "crack(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9312,
+      "wordCount": 1148,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cupboard(4)",
+        "queen(4)",
+        "princess(4)",
+        "nut(3)",
+        "nutcracker(2)",
+        "blanket(2)",
+        "nephew(2)",
+        "sword(2)",
+        "crowns(2)",
+        "apples(1)",
+        "almonds(1)",
+        "countless(1)",
+        "candles(1)",
+        "wrinkled(1)",
+        "patch(1)",
+        "neat(1)",
+        "handsome(1)",
+        "jaws(1)",
+        "chin(1)",
+        "snatched(1)",
+        "ribbon(1)",
+        "begged(1)",
+        "doll's(1)",
+        "mended(1)",
+        "owl(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.8903,
+      "wordCount": 1549,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "queen(6)",
+        "cupboard(5)",
+        "princess(5)",
+        "nut(4)",
+        "nephew(3)",
+        "nutcracker(2)",
+        "perched(2)",
+        "flung(2)",
+        "blanket(2)",
+        "leapt(2)",
+        "dolls(2)",
+        "scarcely(2)",
+        "clockmaker(2)",
+        "palace(2)",
+        "crowns(2)",
+        "lemonade(2)",
+        "fetch(2)",
+        "banished(1)",
+        "hum(1)",
+        "dusk(1)",
+        "crept(1)",
+        "huddled(1)",
+        "lamp(1)",
+        "silvery(1)",
+        "spilled(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "sword": 11
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.25,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0149",
+        "title": "The Lion and the Mouse",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0132",
+        "title": "The Town Mouse and the Country Mouse",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0160",
+        "title": "The Frogs Who Wished for a King",
+        "titleJaccard": 0.143,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

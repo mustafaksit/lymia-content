@@ -1,0 +1,61 @@
+{
+  "id": "st-0318",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"'Bring me a sword,' said the Nutcracker. Fritz gave him a little sword.\" - the listener of the request is unstated, and Fritz handing the sword straight to the toy differs from A2-C1 (Fritz gives it to Marie). Consider: \"'Bring me a sword,' the Nutcracker said to Marie. Fritz gave Marie a little sword.\"",
+        "\"'Give me your sweets!' said the Mouse King. Marie gave him her sugar toys.\" - no reason is given for Marie obeying; a short threat would help, e.g. \"He looked at the Nutcracker and showed his teeth.\"",
+        "\"candy trees\" is American usage while every other level uses British \"sweets\"; consider \"trees full of sweets\"."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "\"Give me your sugar toys,\" whispered the Mouse King. \"Or I bite your Nutcracker!\"",
+          "problem": "A native writer would never phrase a threat as \"Or I bite your Nutcracker!\"; the present simple here is a calque forced by the tense restriction and teaches learners a wrong pattern.",
+          "fix": "Show the threat without future tense: \"Give me your sugar toys,\" whispered the Mouse King, and he showed his sharp teeth to the Nutcracker."
+        },
+        {
+          "criterion": "logic error",
+          "quote": "3. How did Marie and the Nutcracker get to the Doll Kingdom? — Through the glass cupboard / In a golden carriage / *Through the sleeve of her father's coat",
+          "problem": "The distractor \"In a golden carriage\" is defensible: the same text says the young man, who is the Nutcracker, \"came for her in a golden carriage\" and Marie is now queen of the Doll Kingdom.",
+          "fix": "Replace the distractor with one not in the story, e.g. \"On a toy horse\", or ask \"How did Marie and the Nutcracker get to the Doll Kingdom the first time?\""
+        }
+      ],
+      "notes": []
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Hundreds of mice were coming out from the cracks in the floor.\" - after \"Soon the big clock struck twelve\" a sudden event reads better in past simple: \"Hundreds of mice came out of the cracks in the floor.\"",
+        "\"You played with your toys too late,\" said her mother. - slightly unidiomatic; \"You stayed up too late playing with your toys.\"",
+        "\"He must win against the Mouse King, the son of the mouse queen. Also, a girl must love him.\" - \"He must beat the Mouse King, the son of the mouse queen. And a girl must love him.\" sounds more natural."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"In that instant the whole army vanished\" - could be read as both armies; \"the whole mouse army vanished\" is clearer.",
+        "\"Her mother explained that she had stayed up far too late and had a bad dream.\" - \"had had a bad dream\" or \"had only been dreaming\" keeps the backshift consistent.",
+        "\"If you were real, I would never laugh at you like that princess did.\" \"I would love you just as you are,\" she added. - \"real\" is confusing when Marie believes he is real; \"alive\" or \"a real person\" is clearer, and the two-part quote with \"she added\" is clunky; merge into one speech."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Behind the glass, the cupboard came alive.\" - acceptable figuratively, but \"Behind the glass, the toys in the cupboard came alive\" avoids a momentary misreading.",
+        "\"the courteous nephew cracked their nuts for them\" - consider \"cracked nuts for the children\" to avoid any adult double reading."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, gentle retelling of Hoffmann's tale (not the ballet): the glass wig, the owl, the left slipper, the Pirlipat tale with the bacon, the colonel's sword, the coat sleeve, the watch-chain crowns and the golden carriage are all correct, and nothing breaks the 4+ rating. B1, B2 and C1 pass with minor style notes. A2 fails on one unnatural threat line forced by the tense limit and on a quiz distractor that the story itself makes defensible."
+}

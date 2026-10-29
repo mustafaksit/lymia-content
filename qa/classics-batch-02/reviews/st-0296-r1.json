@@ -1,0 +1,84 @@
+{
+  "id": "st-0296",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "\"You spoke against reason. A good priest never does that.",
+          "problem": "The point is that Flambeau is not a priest at all. 'A good priest' implies he is a priest, only a bad one. Every other level says 'real priest'.",
+          "fix": "\"You spoke against reason. A real priest never does that."
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "I made all those strange clues.",
+          "problem": "'Make clues' is not a natural collocation. A native writer would say 'leave clues'.",
+          "fix": "I left all those strange clues."
+        }
+      ],
+      "notes": [
+        "\"Valentin smiled at the silly little man.\" In the original Valentin pities Brown, and the other levels say he 'felt sorry'. 'Valentin felt sorry for the silly little man.' would be closer to the original and stays A1.",
+        "Quiz Q2 says 'at the cafe' but the text says 'restaurant'. Use 'at the restaurant' to match.",
+        "The parcel swap is never stated in A1, so 'there is only paper in it' is only inferable. Optional: add 'Flambeau changed the parcels on the train. Father Brown saw it.' before the Hampstead scene."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "\"I saw it and changed the parcels back. The real cross is in the post now,\" said Father Brown.",
+          "problem": "'It' has nothing to refer to. Flambeau has only said the cross is in his parcel, not that he swapped parcels, so the reader cannot tell what Brown saw or why 'back' makes sense.",
+          "fix": "\"I saw you change the parcels, so I changed them back. The real cross is in the post now,\" said Father Brown."
+        }
+      ],
+      "notes": [
+        "\"I put salt in the sugar\" suggests he mixed them, not swapped them. 'I put the salt in the sugar bowl' is clearer.",
+        "Brown's list of clues leaves out the apples. That is acceptable but could be added: 'I knocked over the apples.'"
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "I also saw the thief's band on your arm.",
+          "problem": "'Thief's band' is unclear: 'band' can mean a gang or a music group, and 'the' presumes a known object. The original detail is a thief's bracelet, and B2/C1 call it that.",
+          "fix": "I also saw a thief's bracelet on your arm."
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "Flambeau laughed and said that he changed the parcels on the way.",
+          "problem": "Reported speech without backshift reads as an error to a native reader ('had changed'). Direct speech avoids the past perfect and stays natural.",
+          "fix": "Flambeau laughed. \"Yes, I changed the parcels on the way,\" he said."
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "The waiter remembered two priests who were eating there that morning.",
+          "problem": "The past continuous suggests they were still eating when the waiter remembered. The meal is finished.",
+          "fix": "The waiter remembered two priests who ate there that morning."
+        }
+      ],
+      "notes": []
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"so I know a great deal about wrong deeds\" is a little stilted. 'so I know a great deal about human wickedness' or 'about crime' would be more natural."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"I sent the soup against the wall\" is slightly odd. 'I threw the soup at the wall' is plainer, though the current wording is acceptable as a literary variation.",
+        "The detail about repainting street numbers is faithful to Chesterton. The C1 level is well paced and not padded."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows Chesterton's 'The Blue Cross' closely at every level: the Harwich arrival, Brown boarding in Essex, the salt and sugar, the soup, the fruit labels, the broken window, the posted parcel, the Hampstead talk about reason, the bracelet, the 'bad theology' line and the umbrella ending. Nothing breaks the 4+ rating. A1, A2 and B1 have small but concrete problems: 'a good priest' changes the meaning, 'I saw it' refers to nothing, and B1 has a few wording errors including 'thief's band'. B2 and C1 pass."
+}

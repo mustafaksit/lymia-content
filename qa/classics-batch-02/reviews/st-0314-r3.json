@@ -1,0 +1,48 @@
+{
+  "id": "st-0314",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Quiz Q1 asks 'Who left the box at the door?' but the A1 text only says 'A man called Quicksilver left it here.' The answer is still clear; optionally change the question to 'Who left the box in the house?' or add 'at the door' to the text.",
+        "Grammar stays within present simple / past simple plus 'must' and imperatives; stings are mentioned without injury detail, which is suitable for 4+."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Faithful to Hawthorne's 'The Paradise of Children': Quicksilver's winged cap, the carved face with flowers, the golden knot, Epimetheus watching in silence, the Troubles, and Hope healing the stings are all there.",
+        "Quiz keys are correct and the distractors are clearly wrong."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No conditionals or passives found. Relative clauses and the present perfect ('where they have stayed ever since') are fine at B1.",
+        "'I was in the box to help people with the Troubles' is slightly ambiguous because 'help people with X' can mean 'assist in doing X'. Optional fix: 'I was in the box to help people when the Troubles sting them.'"
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The original's details are kept well: Epimetheus bringing flowers for a garland, Hope 'packed into the box to make up for the Troubles', and both children opening the lid the second time.",
+        "The grammar range (passives, past perfect, 'could easily have stopped her') fits B2."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Genuinely literary without padding. It has a Hawthorne-like narrator voice ('as anyone might have predicted', 'had he been honest') and keeps the archaic 'pray' only in dialogue.",
+        "'Pandora, never guessing that he was watching' fits the other levels, where only Epimetheus's point of view says he saw her."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels faithfully retell Hawthorne's 'The Paradise of Children' with consistent events across levels, correct quiz keys, grammar that fits each level, and gentle fairy-tale handling of the stings. The only remarks are optional notes (the A1 quiz wording 'at the door', and a slightly ambiguous B1 phrase about Hope)."
+}

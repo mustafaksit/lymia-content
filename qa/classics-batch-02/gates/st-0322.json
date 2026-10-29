@@ -1,0 +1,743 @@
+{
+  "id": "st-0322",
+  "title": "Five Children and It",
+  "ts": "2026-10-29T21:45:39",
+  "node": {
+    "id": "st-0322",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %74.8 | 330 kelime\n    havuz dışı: baby(2), nurse(1), sand(4), pit(2), dug(2), hole(1), suddenly(2), strange(1), animal(1), horns(1), ears(1), bat(1), soft(1), furry(1), cross(1), fairy(1), wish(3), magic(1), sunset(5), wished(4), beautiful(2), hungry(2), sad(1), gold(3), filled(1), coins(2), policeman(2), thieves(1), sun(1), vanished(1), wings(2), flew(1), fields(1), trees(1), slept(2), church(1), tower(1), woke(1), castle(2), knights(2), walls(1), inside(1), disappeared(1), boy(1), careless(1), tall(1), rode(1), bicycle(1), jewels(3), belonged(1), rich(1), lady(2), promised(1), wishes(1)",
+        "level A2: A2: KALDI | kapsam %85.2 | 501 kelime\n    havuz dışı: nurse(1), sand(5), pit(3), dug(2), hole(1), soft(1), warm(1), strange(2), creature(1), horns(1), snail's(1), ears(1), bat(1), fat(1), furry(1), fairy(1), sunset(6), shut(1), hungry(2), unhappy(1), magic(1), gold(3), coins(2), pockets(1), policeman(1), thieves(1), disappeared(1), wings(2), woods(1), rivers(1), asleep(1), tower(2), woke(1), shouted(1), castle(3), army(1), knights(2), vanished(1), tired(1), tall(1), bicycle(1), rode(1), jewels(3), belonged(1), rich(1), lady(2), nearby(1), thief(1), afraid(1)",
+        "level B1: B1: KALDI | kapsam %92.4 | 798 kelime\n    havuz dışı: cyril(1), grandmother(1), sand(6), pit(3), dig(1), digging(1), brushed(1), creature(2), horns(1), snail's(1), bat(1), fur(1), monkey's(1), fairy(1), grumpy(1), sunset(3), shining(2), terribly(1), hungry(2), coins(2), shopkeepers(1), policeman(1), thieves(1), wings(3), feathered(1), tower(1), asleep(1), stairs(1), castle(3), knights(2), brave(1), trumpets(1), faded(1), smart(1), politely(1), bicycle(1), jewels(4), thief(1), begged(1), dug(1)",
+        "level B2: B2: KALDI | kapsam %94.1 | 952 kelime\n    havuz dışı: countryside(1), cyril(1), eldest(1), pit(4), furry(1), crawled(1), horns(1), snail's(1), bat's(1), fur(1), monkey's(1), can't(1), fairy(2), grumbled(1), beasts(1), leftovers(1), sunset(4), temper(1), instant(1), doorstep(1), hungry(2), punishment(1), scolding(1), sensible(1), heaps(1), shopkeepers(1), suspiciously(1), dusty(1), policeman(1), vanished(1), swallows(1), asleep(1), knights(3), trumpets(1), siege(1), dreadfully(1), oh(1), neatly(1), polite(1), bicycle(1), jewels(3), thief(1), begged(1), weary(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.7485,
+        "wordCount": 330,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sunset(5)",
+          "sand(4)",
+          "wished(4)",
+          "wish(3)",
+          "gold(3)",
+          "jewels(3)",
+          "baby(2)",
+          "pit(2)",
+          "dug(2)",
+          "suddenly(2)",
+          "beautiful(2)",
+          "hungry(2)",
+          "coins(2)",
+          "policeman(2)",
+          "wings(2)",
+          "slept(2)",
+          "castle(2)",
+          "knights(2)",
+          "lady(2)",
+          "nurse(1)",
+          "hole(1)",
+          "strange(1)",
+          "animal(1)",
+          "horns(1)",
+          "ears(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8523,
+        "wordCount": 501,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sunset(6)",
+          "sand(5)",
+          "pit(3)",
+          "gold(3)",
+          "castle(3)",
+          "jewels(3)",
+          "dug(2)",
+          "strange(2)",
+          "hungry(2)",
+          "coins(2)",
+          "wings(2)",
+          "tower(2)",
+          "knights(2)",
+          "lady(2)",
+          "nurse(1)",
+          "hole(1)",
+          "soft(1)",
+          "warm(1)",
+          "creature(1)",
+          "horns(1)",
+          "snail's(1)",
+          "ears(1)",
+          "bat(1)",
+          "fat(1)",
+          "furry(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9236,
+        "wordCount": 798,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sand(6)",
+          "jewels(4)",
+          "pit(3)",
+          "sunset(3)",
+          "wings(3)",
+          "castle(3)",
+          "creature(2)",
+          "shining(2)",
+          "hungry(2)",
+          "coins(2)",
+          "knights(2)",
+          "cyril(1)",
+          "grandmother(1)",
+          "dig(1)",
+          "digging(1)",
+          "brushed(1)",
+          "horns(1)",
+          "snail's(1)",
+          "bat(1)",
+          "fur(1)",
+          "monkey's(1)",
+          "fairy(1)",
+          "grumpy(1)",
+          "terribly(1)",
+          "shopkeepers(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9412,
+        "wordCount": 952,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "pit(4)",
+          "sunset(4)",
+          "knights(3)",
+          "jewels(3)",
+          "fairy(2)",
+          "hungry(2)",
+          "countryside(1)",
+          "cyril(1)",
+          "eldest(1)",
+          "furry(1)",
+          "crawled(1)",
+          "horns(1)",
+          "snail's(1)",
+          "bat's(1)",
+          "fur(1)",
+          "monkey's(1)",
+          "can't(1)",
+          "grumbled(1)",
+          "beasts(1)",
+          "leftovers(1)",
+          "temper(1)",
+          "instant(1)",
+          "doorstep(1)",
+          "punishment(1)",
+          "scolding(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9314,
+        "wordCount": 1341,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "patience(4)",
+          "pit(3)",
+          "sunset(3)",
+          "jewels(3)",
+          "horns(2)",
+          "instant(2)",
+          "hungry(2)",
+          "splendid(2)",
+          "dusty(2)",
+          "vanished(2)",
+          "moat(2)",
+          "knights(2)",
+          "elegant(2)",
+          "quarries(1)",
+          "cyril(1)",
+          "eldest(1)",
+          "doorways(1)",
+          "sandy(1)",
+          "spades(1)",
+          "furry(1)",
+          "startled(1)",
+          "scraped(1)",
+          "snail's(1)",
+          "bat's(1)",
+          "fur(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_SAND_P_T",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "sand pit",
+          "ctx": " after them.  Near the house was an old sand pit. One day, the children dug a hole there"
+        },
+        {
+          "rule": "EN_COMPOUNDS_SAND_P_T",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "sand pit",
+          "ctx": "again.  Next, they wished for gold. The sand pit filled with gold coins. They took the c"
+        },
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "They",
+          "ctx": "nd trees. They slept on a church tower. They woke up at sunset with no wings. A kind"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_SAND_P_T",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "sand pit",
+          "ctx": "ldren.  Near the house there was an old sand pit. One morning, the children dug a deep h"
+        },
+        {
+          "rule": "EN_COMPOUNDS_SAND_P_T",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "sand pit",
+          "ctx": "day, they wished for gold. At once, the sand pit was full of gold coins. They filled the"
+        },
+        {
+          "rule": "EN_COMPOUNDS_SAND_P_T",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "sand pit",
+          "ctx": " children were afraid.  They ran to the sand pit. \"Please make everything right again,\" "
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_SAND_P_T",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "sand pit",
+          "ctx": "house.  Near the house there was an old sand pit, and the children loved to play there. "
+        },
+        {
+          "rule": "EN_COMPOUNDS_SAND_P_T",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "sand pit",
+          "ctx": "gold than they could count. At once the sand pit was full of shining coins. They filled "
+        },
+        {
+          "rule": "EN_COMPOUNDS_SAND_P_T",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "sand pit",
+          "ctx": " children were afraid.  They ran to the sand pit and woke the Psammead. \"Please put ever"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_SAND_P_T",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "sand pit",
+          "ctx": "nty to do.  Behind the house lay an old sand pit, and the children soon decided it was t"
+        },
+        {
+          "rule": "EN_COMPOUNDS_SAND_P_T",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "sand pit",
+          "ctx": " they could ever spend. In a moment the sand pit was shining with heaps of gold coins. T"
+        },
+        {
+          "rule": "EN_COMPOUNDS_SAND_P_T",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "sand pit",
+          "ctx": "ed without thinking. They were near the sand pit, and the Psammead heard. In a moment th"
+        },
+        {
+          "rule": "EN_COMPOUNDS_SAND_P_T",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "sand pit",
+          "ctx": "ocent might be blamed.  They ran to the sand pit and begged the Psammead to put everythi"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_SAND_P_T",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "sand pit",
+          "ctx": "s favorite place quickly became the old sand pit behind the house, where birds had made "
+        },
+        {
+          "rule": "EN_COMPOUNDS_SAND_P_T",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "sand pit",
+          "ctx": "e of it than they could ever spend. The sand pit instantly blazed with coins heaped up l"
+        },
+        {
+          "rule": "GATHER_UP",
+          "cat": "REDUNDANCY",
+          "msg": "This phrase is redundant. Consider using “gathered”.",
+          "frag": "gathered up",
+          "ctx": "nk back into a sleepy baby, whom Anthea gathered up and carried home with enormous relief. "
+        },
+        {
+          "rule": "EN_COMPOUNDS_SAND_P_T",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "sand pit",
+          "ctx": "as nothing for it but to go back to the sand pit and confess everything to the Psammead."
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 330,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.05,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 501,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0021,
+      "lowZipfWords": [
+        "snail's"
+      ],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 798,
+      "sentLenMedian": 13,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0117,
+      "lowZipfWords": [
+        "crossly",
+        "feathered",
+        "grumpy",
+        "monkey's",
+        "politely",
+        "shopkeepers",
+        "snail's",
+        "strangest",
+        "trumpets"
+      ],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 952,
+      "sentLenMedian": 16,
+      "zipfMedian": 5.97,
+      "lowZipfRatio": 0.0173,
+      "lowZipfWords": [
+        "bat's",
+        "camped",
+        "crawled",
+        "dreadfully",
+        "grumbled",
+        "heaps",
+        "leftovers",
+        "longed",
+        "monkey's",
+        "neatly",
+        "scolding",
+        "shopkeepers",
+        "snail's",
+        "suspiciously",
+        "swallows",
+        "trumpets"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1341,
+      "sentLenMedian": 23.0,
+      "zipfMedian": 5.96,
+      "lowZipfRatio": 0.0297,
+      "lowZipfWords": [
+        "bat's",
+        "besiege",
+        "blazed",
+        "burrowed",
+        "coolly",
+        "dazzling",
+        "dismay",
+        "displeasure",
+        "doorways",
+        "drooping",
+        "duly",
+        "exclaimed",
+        "fearsome",
+        "flicker",
+        "frowning",
+        "grumbling",
+        "heaped",
+        "heaps",
+        "hurried",
+        "loveliness",
+        "moat",
+        "monkey's",
+        "plainly",
+        "puzzled",
+        "quarries",
+        "scolding",
+        "scraped",
+        "shopkeepers",
+        "shrank",
+        "snail's",
+        "sniff",
+        "soundly",
+        "spades",
+        "sprang",
+        "startled",
+        "stomachs",
+        "tiresome",
+        "uninterested"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.7485,
+      "wordCount": 330,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sunset(5)",
+        "sand(4)",
+        "wished(4)",
+        "wish(3)",
+        "gold(3)",
+        "jewels(3)",
+        "baby(2)",
+        "pit(2)",
+        "dug(2)",
+        "suddenly(2)",
+        "beautiful(2)",
+        "hungry(2)",
+        "coins(2)",
+        "policeman(2)",
+        "wings(2)",
+        "slept(2)",
+        "castle(2)",
+        "knights(2)",
+        "lady(2)",
+        "nurse(1)",
+        "hole(1)",
+        "strange(1)",
+        "animal(1)",
+        "horns(1)",
+        "ears(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8523,
+      "wordCount": 501,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sunset(6)",
+        "sand(5)",
+        "pit(3)",
+        "gold(3)",
+        "castle(3)",
+        "jewels(3)",
+        "dug(2)",
+        "strange(2)",
+        "hungry(2)",
+        "coins(2)",
+        "wings(2)",
+        "tower(2)",
+        "knights(2)",
+        "lady(2)",
+        "nurse(1)",
+        "hole(1)",
+        "soft(1)",
+        "warm(1)",
+        "creature(1)",
+        "horns(1)",
+        "snail's(1)",
+        "ears(1)",
+        "bat(1)",
+        "fat(1)",
+        "furry(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9236,
+      "wordCount": 798,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sand(6)",
+        "jewels(4)",
+        "pit(3)",
+        "sunset(3)",
+        "wings(3)",
+        "castle(3)",
+        "creature(2)",
+        "shining(2)",
+        "hungry(2)",
+        "coins(2)",
+        "knights(2)",
+        "cyril(1)",
+        "grandmother(1)",
+        "dig(1)",
+        "digging(1)",
+        "brushed(1)",
+        "horns(1)",
+        "snail's(1)",
+        "bat(1)",
+        "fur(1)",
+        "monkey's(1)",
+        "fairy(1)",
+        "grumpy(1)",
+        "terribly(1)",
+        "shopkeepers(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9412,
+      "wordCount": 952,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "pit(4)",
+        "sunset(4)",
+        "knights(3)",
+        "jewels(3)",
+        "fairy(2)",
+        "hungry(2)",
+        "countryside(1)",
+        "cyril(1)",
+        "eldest(1)",
+        "furry(1)",
+        "crawled(1)",
+        "horns(1)",
+        "snail's(1)",
+        "bat's(1)",
+        "fur(1)",
+        "monkey's(1)",
+        "can't(1)",
+        "grumbled(1)",
+        "beasts(1)",
+        "leftovers(1)",
+        "temper(1)",
+        "instant(1)",
+        "doorstep(1)",
+        "punishment(1)",
+        "scolding(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9314,
+      "wordCount": 1341,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "patience(4)",
+        "pit(3)",
+        "sunset(3)",
+        "jewels(3)",
+        "horns(2)",
+        "instant(2)",
+        "hungry(2)",
+        "splendid(2)",
+        "dusty(2)",
+        "vanished(2)",
+        "moat(2)",
+        "knights(2)",
+        "elegant(2)",
+        "quarries(1)",
+        "cyril(1)",
+        "eldest(1)",
+        "doorways(1)",
+        "sandy(1)",
+        "spades(1)",
+        "furry(1)",
+        "startled(1)",
+        "scraped(1)",
+        "snail's(1)",
+        "bat's(1)",
+        "fur(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.167,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0235",
+        "title": "The Railway Children (tek epizod)",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

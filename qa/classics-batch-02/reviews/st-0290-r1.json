@@ -1,0 +1,71 @@
+{
+  "id": "st-0290",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"anvil\" is above A1, but the story needs it and the quiz relies on it. A glossary entry would help.",
+        "The A1 gold words (\"Pull out this sword, and be king!\") are a fair simplification of Malory's inscription.",
+        "\"Ten knights stayed and watched the stone.\" A learner might ask who chose them. This is acceptable at A1."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English / meaning drift",
+          "quote": "\"A boy from a small family cannot rule us!\" they shouted.",
+          "problem": "\"Small family\" is a calque. In English it means a family with few members, not a family of low rank. A learner will take it to mean the lords object to how many relatives Arthur has.",
+          "fix": "\"A boy from an unknown family cannot rule us!\" they shouted."
+        }
+      ],
+      "notes": [
+        "\"Please give my son Kay the care of your lands\" is a little stiff. \"Please let my son Kay take care of your lands\" would read more naturally at A2.",
+        "\"We want no more waiting!\" is slightly stilted. \"We do not want to wait any more!\" is more natural."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English / meaning drift",
+          "quote": "\"Must a boy from a small family rule over us?\" they said.",
+          "problem": "This is the same calque as A2. \"Small family\" means few family members, not low birth.",
+          "fix": "\"Must a boy from an unknown family rule over us?\" they said."
+        },
+        {
+          "criterion": "meaning drift / logic error",
+          "quote": "Ector asked him to put Kay in charge of his lands, and Arthur agreed.",
+          "problem": "\"His lands\" is ambiguous. The nearest owner of lands in the B1 text is Ector (\"a good knight with lands near London\"), so a reader will think Ector asks Arthur to give Kay Ector's own lands. In Malory, and in A2/B2/C1, Kay is to be steward of the king's (Arthur's) lands. The quiz key \"Put him in charge of all his lands\" carries the same ambiguity.",
+          "fix": "Ector asked him to put Kay in charge of all the king's lands, and Arthur agreed. Change quiz Q3's key to: \"Put him in charge of all the king's lands\"."
+        }
+      ],
+      "notes": [
+        "\"who became a knight only that autumn\": \"had become\" would be more natural, and the past perfect is allowed at B1.",
+        "\"The tent of the guards was empty\" reads as translated. \"The guards' tent was empty\" is better.",
+        "\"You and your wife raised me\": Ector's wife has not been mentioned before in B1. A small mention at the empty house (\"Ector's wife and the servants were out\") would set it up."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Arthur promised that the office would belong to Kay\": no office has been named, since \"in charge of\" is not an office. Consider \"that Kay should be steward of all Arthur's lands\" so that \"the office\" has an antecedent.",
+        "This level is faithful to Malory: the Christmas gathering, New Year's Day tournament, Kay knighted that autumn, the stile and tent, the oath on the book, the stewardship, and the delays to Twelfth Day, spring and Pentecost."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"'My brother Arthur brought it to me,' he admitted.\" The preceding sentence's subject is Ector, so \"he\" is briefly ambiguous. The quote's content resolves it, but \"Kay admitted\" is cleaner.",
+        "\"on that holy night\": Malory places the wonder on Christmas morning after the first mass. This is harmless, but \"holy day\" would match B2.",
+        "This is good literary register with no padding. \"Made a knight by the best man present\" is a faithful detail."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "This is a faithful, age-appropriate retelling of Malory's sword-in-the-stone episode with no film elements, and the quizzes are correctly keyed. A2 and B1 fail on the calque \"a boy from a small family\", which means few relatives, not low birth. B1 also fails on the ambiguous \"in charge of his lands\", which reads as Ector's lands rather than the king's, and its quiz key repeats that ambiguity."
+}

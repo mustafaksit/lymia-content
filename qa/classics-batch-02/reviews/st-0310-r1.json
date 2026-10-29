@@ -1,0 +1,59 @@
+{
+  "id": "st-0310",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Micromegas made a long tube from his nail.\" An A1 reader may picture a metal nail. Consider \"from a piece of his fingernail.\"",
+        "\"One little man measured the Saturnian. His answer was right.\" There was no question, so \"answer\" is a little loose. Consider: \"One little man measured the Saturnian. He was right!\""
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "Right now, two armies fight over a heap of mud.",
+          "problem": "The simple present with \"right now\" for an action happening at this moment is a typical learner error. A native writer would say \"are fighting\", and this sentence models the wrong form for learners. Changing the tense would break the A1/A2 rule (present/past simple only), so the sentence needs to be rewritten instead.",
+          "fix": "Our kings send big armies to fight over a heap of mud. It is smaller than your heel."
+        },
+        {
+          "criterion": "logic error",
+          "quote": "Before he left, Micromegas made a promise. \"Here is a book about the meaning of everything.\"",
+          "problem": "The words that follow are not a promise. He hands over a book right away, so \"made a promise\" does not match what he says.",
+          "fix": "Before he left, Micromegas gave the scientists a present. \"Here is a book about the meaning of everything.\""
+        }
+      ],
+      "notes": []
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"This planet is badly made\" is technically a stative passive. It reads as an adjective and should not trouble a B1 reader, but a strict no-passive rule would prefer \"This planet has a very bad shape, and nobody lives on it.\"",
+        "\"Micromegas promised to write them a book of wisdom ... The scientists carried the book to the great Academy\": the book appears without being handed over. Consider adding \"Then he gave them the book.\" (B2 and C1 do this.)",
+        "\"Each one gave a different answer, and no two answers were the same.\" The second half repeats the first. Consider \"... and nobody agreed.\""
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "In the original, the Saturnian shows the whale to Micromegas and Micromegas laughs at how small it is. Here the Saturnian laughs. This is harmless condensing."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Then one of them calmly aimed his instruments at the Saturnian and announced that he was about a mile tall.\" The pronoun \"he\" could briefly point to the scientist. Consider \"announced that the Saturnian was about a mile tall\" or using direct speech, as B2 does.",
+        "The spelling is mixed: \"travelled\" (UK) next to \"humor\" (US). Other levels use \"traveled\". Pick one convention.",
+        "\"a native of Sirius lasted seven hundred times as long\": \"lived\" would sound more natural than \"lasted\" for a person."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows Voltaire's Micromegas closely at every level: the banished book, the 72 vs ~1000 senses, Jupiter and Mars's two moons, the 1737 Baltic landing, the diamond microscopes, the fingernail speaking-tube, the war over a mud heap, the Lockean who admits ignorance, the square-capped scholar, and the blank book. The war is softened to suit a 4+ rating. A2 fails on two concrete points: \"Right now, two armies fight\" models an ungrammatical tense, and \"made a promise\" is followed by an immediate gift, not a promise. A1, B1, B2 and C1 pass with minor notes."
+}

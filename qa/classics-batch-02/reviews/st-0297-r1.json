@@ -1,0 +1,57 @@
+{
+  "id": "st-0297",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"In the garden, an old tree had flowers.\" The tree was never set up at this level (the ghost's speech does not mention it), so the sign reads as a random detail. Optional: add to Sir Simon's speech \"Then the old tree in the garden will have flowers.\"",
+        "\"She had a box of jewels.\" Where the jewels came from is not said. Optional: \"Sir Simon gave me these,\" she said.",
+        "\"The family made a quiet place for him.\" This is vague for a grave, but it is acceptable softening for 4+. Optional: \"a quiet resting place\", which A2 uses.",
+        "\"Yes, I needed red\" fits only loosely with the purple and green stains just mentioned. Optional: \"Yes, I needed colors for the stain.\""
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"It was only a sheet and a big vegetable.\" \"Big vegetable\" sounds a little odd. Optional: \"a sheet and an old turnip\" or \"a hollow vegetable\".",
+        "The order of the tricks is slightly rearranged: in Wilde, the fake ghost comes before the butter slide and the water jug. This is acceptable condensing."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"He asked her about that night, but she only smiled.\" The next line is her spoken answer, so \"only smiled\" clashes a little. Optional: \"but she would not tell him. She only said, ...\"",
+        "\"For three hundred years, everyone was afraid of Sir Simon.\" At B1, \"had been afraid\" would read more naturally."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Virginia turned pale, but she did not hesitate.\" In Wilde she does pause before agreeing. This is a minor point and fine as it stands."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "\"A stain must be kept up, and after you had used all the red, I was obliged to make do with whatever remained.\"",
+          "problem": "\"You\" makes Virginia the one who used up the red paint. This contradicts her complaint just before (\"you had no right to take my paints... I couldn't paint a single sunset\") and the original, where the ghost takes her reds first and then the other colors. A reader is left unsure who used the red.",
+          "fix": "\"A stain must be kept up, and once I had used up all your red, I was obliged to make do with whatever remained.\""
+        }
+      ],
+      "notes": [
+        "\"Then his voice softened, and the old actor fell silent.\" He speaks straight after this, so \"fell silent\" can briefly confuse. Optional: \"and the old actor in him gave way to something gentler.\"",
+        "\"It was Virginia, in the end, who found him. Coming into an empty room upstairs one autumn afternoon, she found him by the window\" repeats \"found\". Optional: \"she discovered him sitting by the window\".",
+        "The twins applauding the fallen armor is a small addition that is harmless."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling of Wilde's story at all five levels. The plot, the ending (almond tree, jewels, burial, the 'love is stronger than both' line) and the level grammar are all sound. C1 fails on one line where the ghost says 'after you had used all the red', which wrongly makes Virginia the one who used up the red paint and contradicts the scene."
+}

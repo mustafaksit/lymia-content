@@ -1,0 +1,54 @@
+{
+  "id": "st-0315",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Ariadne's flight and Naxos are omitted at A1; acceptable condensing.",
+        "Aegeus 'died of sadness' softens the original leap into the sea; appropriate for 4+."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Ariadne disappears from the story after giving the thread (no flight, no Naxos). Not an error, but one short sentence (e.g. 'Ariadne went with them, but she stayed on an island on the way.') would round her off.",
+        "'Nobody ever came out of the Labyrinth again.' reads slightly oddly ('again'); 'Nobody ever came out of the Labyrinth.' is cleaner."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No conditionals or passives found; 'when'-clauses and one relative clause are within B1 range.",
+        "Timing of the Labyrinth entry differs across levels (A2 'The next day', B1 'Later that night', C1 'At dawn'); each is internally fine except C1 (see C1)."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Night entry, exit 'into the starlight', and 'Before dawn' departure are consistent."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "At dawn Theseus went into the Labyrinth, and he tied the end of the thread to the doorpost exactly as she had told him.",
+          "problem": "He enters at dawn, then after a long journey and 'a long and fierce struggle' he 'stepped out into the first faint light of early morning', and the group then slips out of the harbor 'before the city woke'. Entering at dawn and leaving at the first faint light of morning is a time contradiction (it would imply a full day inside, which contradicts the hurried pre-dawn escape).",
+          "fix": "That night Theseus went into the Labyrinth, and he tied the end of the thread to the doorpost exactly as she had told him."
+        }
+      ],
+      "notes": [
+        "'the day of his greatest victory became the day he was crowned king' is loose, since the victory took place in Crete days earlier; consider 'the day of his triumphant homecoming became the day he was crowned king'.",
+        "Otherwise genuinely literary, faithful (Pittheus implied, Androgeus' death, lots drawn, Naxos, black sails), and age-appropriate."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A1 through B2 are faithful, natural, level-appropriate and 4+ safe, with correctly keyed quizzes. C1 fails on one concrete time contradiction: Theseus enters the Labyrinth at dawn yet emerges into 'the first faint light of early morning' and escapes before the city wakes; changing 'At dawn' to 'That night' fixes it."
+}

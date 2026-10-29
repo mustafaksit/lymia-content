@@ -1,0 +1,49 @@
+{
+  "id": "st-0305",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The groom used a tight bearing rein.\" uses a specialist term at A1. The next sentence (\"It hurt our necks all day.\") makes it clear enough, so it is fine. A glossary entry could still help.",
+        "\"His wife wanted our heads high.\" is understandable but a little bare. \"His wife liked horses with high heads.\" reads slightly more naturally."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Then our young groom came in.\" is the first time A2 mentions the young groom. Adding a short line earlier (\"John had a young helper, a cheerful groom.\") would make the fire scene smoother.",
+        "\"Joe gave me cold water and no warm blanket.\" is a slightly awkward zeugma (the same wording appears in B1). \"Joe gave me cold water, and he did not put a blanket on me.\" is more natural.",
+        "A2 does not say why Joe, not John, looked after Beauty after the doctor ride. B2 and C1 explain that John was walking home. This is optional at A2."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No passives or conditionals found. The level constraints are respected.",
+        "\"Joe gave me a bucket of cold water and no warm blanket.\" has the same mild zeugma as A2. Possible fix: \"...and did not cover me with a warm blanket.\""
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The bridge, fire, doctor ride, bearing rein, fall, Jerry and Joe Green reunion are all faithful to Sewell and in the correct order. Reuben Smith's drunkenness and death are softened appropriately for 4+."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Had I gone on, the carriage and all of us in it would have gone down...\" is a small logic slip: the narrator, a horse, is not 'in' the carriage. Possible fix: \"...the carriage, my master, John and I would all have gone down...\"",
+        "\"for four long months I bore that cruel rein alone\" could be misread as Beauty pulling the carriage alone. \"...without Ginger beside me\" is clearer.",
+        "\"my master broke me in himself\" uses 'my master' for the farmer, and two sentences later the Squire becomes the master. This reads acceptably but could be \"the farmer who owned me broke me in himself\"."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "A faithful, well-ordered retelling of Sewell's Black Beauty across all five levels. Grammar constraints hold at A1/A2/B1, quizzes are unambiguous with correctly keyed answers, and the darker material (Reuben Smith's drinking, Ginger's death, injuries) is softened to suit a 4+ rating. Only minor style notes remain."
+}

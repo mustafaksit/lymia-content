@@ -1,0 +1,622 @@
+{
+  "id": "st-0286",
+  "title": "Toomai of the Elephants",
+  "ts": "2026-10-29T21:44:55",
+  "node": {
+    "id": "st-0286",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %77.2 | 329 kelime\n    havuz dışı: elephant(2), rider(1), son(1), boy(6), hills(1), catch(1), wild(3), elephants(7), boss(1), hunt(1), hunter(4), pen(2), hunters(2), dropped(1), rope(2), jumped(1), threw(1), quickly(1), lifted(3), smiled(1), brave(1), dance(3), laughed(1), slept(1), woke(1), pulled(1), post(1), onto(1), quietly(1), crossed(1), river(1), climbed(2), hill(2), wide(1), stamp(1), feet(1), drum(1), ground(2), shook(1), danced(1), camp(2), tired(1), wet(1), deep(1), sleep(1), flat(1), trunks(1)",
+        "level A2: A2: KALDI | kapsam %84.4 | 508 kelime\n    havuz dışı: elephant(2), heavy(1), loads(1), logs(1), wood(1), rider(1), rode(1), lifted(3), trunk(2), hills(1), wild(2), elephants(12), hunt(2), hunter(4), wooden(1), pen(3), tame(1), riders(1), ropes(1), rope(2), jumped(1), elephants'(1), cried(2), brave(1), hunters(1), joke(1), secret(1), camp(3), plains(1), asleep(1), woke(1), quietly(1), onto(1), neck(1), tall(1), grass(1), river(1), climbed(1), hill(2), flat(2), moon(1), stamp(1), giant(1), drum(1), shook(2), tired(1), wet(1), dirty(1), truth(1), trunks(1)",
+        "level B1: B1: KALDI | kapsam %93.5 | 810 kelime\n    havuz dışı: elephant(7), logs(1), gently(1), elephants(11), hunters(2), wooden(1), pen(2), torches(1), tame(1), rope(3), trunk(1), frightened(1), scolded(1), brave(1), loudly(1), beside(1), drum(2), grass(2), asleep(1), whispered(1), steep(1), darkness(1), smooth(1), moon(1), stamp(1), pale(1), wet(1), feast(1), grandfather(1), trunks(1), salute(1)",
+        "level B2: B2: KALDI | kapsam %94.0 | 1037 kelime\n    havuz dışı: stacked(1), timber(1), elephants(13), grandfather(2), elephant(5), adored(1), lowered(1), trunk(3), hunters(2), herds(2), torches(1), drums(1), tame(1), torchlight(1), rope(2), seized(1), scolding(1), shy(1), amusement(1), roared(1), clearings(1), drum(2), sleepy(1), elephant's(1), asleep(1), waded(1), swirled(1), steep(1), beaten(1), moonlight(1), trumpeted(2), trembled(1), soaked(1), dew(1), footprints(1), feast(1), trunks(1), salute(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.772,
+        "wordCount": 329,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "elephants(7)",
+          "boy(6)",
+          "hunter(4)",
+          "wild(3)",
+          "lifted(3)",
+          "dance(3)",
+          "elephant(2)",
+          "pen(2)",
+          "hunters(2)",
+          "rope(2)",
+          "climbed(2)",
+          "hill(2)",
+          "ground(2)",
+          "camp(2)",
+          "rider(1)",
+          "son(1)",
+          "hills(1)",
+          "catch(1)",
+          "boss(1)",
+          "hunt(1)",
+          "dropped(1)",
+          "jumped(1)",
+          "threw(1)",
+          "quickly(1)",
+          "smiled(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8445,
+        "wordCount": 508,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "elephants(12)",
+          "hunter(4)",
+          "lifted(3)",
+          "pen(3)",
+          "camp(3)",
+          "elephant(2)",
+          "trunk(2)",
+          "wild(2)",
+          "hunt(2)",
+          "rope(2)",
+          "cried(2)",
+          "hill(2)",
+          "flat(2)",
+          "shook(2)",
+          "heavy(1)",
+          "loads(1)",
+          "logs(1)",
+          "wood(1)",
+          "rider(1)",
+          "rode(1)",
+          "hills(1)",
+          "wooden(1)",
+          "tame(1)",
+          "riders(1)",
+          "ropes(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9346,
+        "wordCount": 810,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "elephants(11)",
+          "elephant(7)",
+          "rope(3)",
+          "hunters(2)",
+          "pen(2)",
+          "drum(2)",
+          "grass(2)",
+          "logs(1)",
+          "gently(1)",
+          "wooden(1)",
+          "torches(1)",
+          "tame(1)",
+          "trunk(1)",
+          "frightened(1)",
+          "scolded(1)",
+          "brave(1)",
+          "loudly(1)",
+          "beside(1)",
+          "asleep(1)",
+          "whispered(1)",
+          "steep(1)",
+          "darkness(1)",
+          "smooth(1)",
+          "moon(1)",
+          "stamp(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9402,
+        "wordCount": 1037,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "elephants(13)",
+          "elephant(5)",
+          "trunk(3)",
+          "grandfather(2)",
+          "hunters(2)",
+          "herds(2)",
+          "rope(2)",
+          "drum(2)",
+          "trumpeted(2)",
+          "stacked(1)",
+          "timber(1)",
+          "adored(1)",
+          "lowered(1)",
+          "torches(1)",
+          "drums(1)",
+          "tame(1)",
+          "torchlight(1)",
+          "seized(1)",
+          "scolding(1)",
+          "shy(1)",
+          "amusement(1)",
+          "roared(1)",
+          "clearings(1)",
+          "sleepy(1)",
+          "elephant's(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9387,
+        "wordCount": 1468,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "elephants(11)",
+          "elephant(9)",
+          "trunk(4)",
+          "grandfather(2)",
+          "elephant's(2)",
+          "hunters(2)",
+          "herds(2)",
+          "tame(2)",
+          "rope(2)",
+          "curled(2)",
+          "drum(2)",
+          "trumpeted(2)",
+          "dew(2)",
+          "stacked(1)",
+          "timber(1)",
+          "torches(1)",
+          "drums(1)",
+          "noisy(1)",
+          "tying(1)",
+          "perched(1)",
+          "yelling(1)",
+          "lying(1)",
+          "darted(1)",
+          "snatched(1)",
+          "fright(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "Afterwards",
+          "ctx": "as one of the oldest jokes in the camp. Afterwards, Machua Appa explained it to the puzzle"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 329,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0037,
+      "lowZipfWords": [
+        "trunks"
+      ],
+      "keyTermTokens": 10,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 508,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0024,
+      "lowZipfWords": [
+        "trunks"
+      ],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 810,
+      "sentLenMedian": 13.0,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0057,
+      "lowZipfWords": [
+        "scolded",
+        "torches",
+        "trunks",
+        "whispered"
+      ],
+      "keyTermTokens": 21,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1037,
+      "sentLenMedian": 15,
+      "zipfMedian": 5.96,
+      "lowZipfRatio": 0.0184,
+      "lowZipfWords": [
+        "adored",
+        "clearings",
+        "elephant's",
+        "footprints",
+        "herds",
+        "roared",
+        "scolding",
+        "swirled",
+        "torches",
+        "torchlight",
+        "trembled",
+        "trumpeted",
+        "trunks",
+        "waded",
+        "whispered"
+      ],
+      "keyTermTokens": 20,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1468,
+      "sentLenMedian": 24,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0302,
+      "lowZipfWords": [
+        "blushing",
+        "clearings",
+        "clinging",
+        "curled",
+        "darted",
+        "drowsy",
+        "elephant's",
+        "footprints",
+        "fright",
+        "gardener",
+        "harm's",
+        "herds",
+        "mischief",
+        "misplaced",
+        "murmured",
+        "obeyed",
+        "orderly",
+        "perched",
+        "puzzled",
+        "reckoning",
+        "roared",
+        "scolding",
+        "sheltering",
+        "snatched",
+        "stammering",
+        "stamping",
+        "swirled",
+        "threes",
+        "thundering",
+        "torches",
+        "trembled",
+        "trodden",
+        "trumpeted",
+        "tuskers",
+        "twos",
+        "waded",
+        "whispered"
+      ],
+      "keyTermTokens": 22,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.772,
+      "wordCount": 329,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "elephants(7)",
+        "boy(6)",
+        "hunter(4)",
+        "wild(3)",
+        "lifted(3)",
+        "dance(3)",
+        "elephant(2)",
+        "pen(2)",
+        "hunters(2)",
+        "rope(2)",
+        "climbed(2)",
+        "hill(2)",
+        "ground(2)",
+        "camp(2)",
+        "rider(1)",
+        "son(1)",
+        "hills(1)",
+        "catch(1)",
+        "boss(1)",
+        "hunt(1)",
+        "dropped(1)",
+        "jumped(1)",
+        "threw(1)",
+        "quickly(1)",
+        "smiled(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8445,
+      "wordCount": 508,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "elephants(12)",
+        "hunter(4)",
+        "lifted(3)",
+        "pen(3)",
+        "camp(3)",
+        "elephant(2)",
+        "trunk(2)",
+        "wild(2)",
+        "hunt(2)",
+        "rope(2)",
+        "cried(2)",
+        "hill(2)",
+        "flat(2)",
+        "shook(2)",
+        "heavy(1)",
+        "loads(1)",
+        "logs(1)",
+        "wood(1)",
+        "rider(1)",
+        "rode(1)",
+        "hills(1)",
+        "wooden(1)",
+        "tame(1)",
+        "riders(1)",
+        "ropes(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9346,
+      "wordCount": 810,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "elephants(11)",
+        "elephant(7)",
+        "rope(3)",
+        "hunters(2)",
+        "pen(2)",
+        "drum(2)",
+        "grass(2)",
+        "logs(1)",
+        "gently(1)",
+        "wooden(1)",
+        "torches(1)",
+        "tame(1)",
+        "trunk(1)",
+        "frightened(1)",
+        "scolded(1)",
+        "brave(1)",
+        "loudly(1)",
+        "beside(1)",
+        "asleep(1)",
+        "whispered(1)",
+        "steep(1)",
+        "darkness(1)",
+        "smooth(1)",
+        "moon(1)",
+        "stamp(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9402,
+      "wordCount": 1037,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "elephants(13)",
+        "elephant(5)",
+        "trunk(3)",
+        "grandfather(2)",
+        "hunters(2)",
+        "herds(2)",
+        "rope(2)",
+        "drum(2)",
+        "trumpeted(2)",
+        "stacked(1)",
+        "timber(1)",
+        "adored(1)",
+        "lowered(1)",
+        "torches(1)",
+        "drums(1)",
+        "tame(1)",
+        "torchlight(1)",
+        "seized(1)",
+        "scolding(1)",
+        "shy(1)",
+        "amusement(1)",
+        "roared(1)",
+        "clearings(1)",
+        "sleepy(1)",
+        "elephant's(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9387,
+      "wordCount": 1468,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "elephants(11)",
+        "elephant(9)",
+        "trunk(4)",
+        "grandfather(2)",
+        "elephant's(2)",
+        "hunters(2)",
+        "herds(2)",
+        "tame(2)",
+        "rope(2)",
+        "curled(2)",
+        "drum(2)",
+        "trumpeted(2)",
+        "dew(2)",
+        "stacked(1)",
+        "timber(1)",
+        "torches(1)",
+        "drums(1)",
+        "noisy(1)",
+        "tying(1)",
+        "perched(1)",
+        "yelling(1)",
+        "lying(1)",
+        "darted(1)",
+        "snatched(1)",
+        "fright(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.036,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0138",
+        "title": "The Ransom of Red Chief",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.036,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

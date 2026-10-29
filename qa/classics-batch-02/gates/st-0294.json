@@ -1,0 +1,678 @@
+{
+  "id": "st-0294",
+  "title": "The Purloined Letter",
+  "ts": "2026-10-29T21:45:06",
+  "node": {
+    "id": "st-0294",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %88.4 | 327 kelime\n    havuz dışı: clever(2), library(1), police(2), queen(3), secret(2), alone(1), king(1), everywhere(1), chair(1), pockets(1), francs(1), check(1), queen's(1), hide(1), wore(1), green(1), glasses(1), dirty(1), torn(1), fire(1), gold(1), box(1), purpose(1), suddenly(1), loud(1), noise(2), street(1), window(1), quickly(1), fake(1), smiled(1), inside(1)",
+        "level A2: A2: KALDI | kapsam %91.9 | 518 kelime\n    havuz dışı: quiet(1), sharp(1), autumn(1), library(1), queen(3), secret(2), king(1), hide(2), chair(1), needles(1), cushions(1), twice(1), pockets(1), francs(1), shaking(1), desk(1), holes(1), chairs(1), glasses(1), complained(1), weak(1), cheap(1), hung(1), fireplace(1), dirty(1), torn(1), seal(1), queen's(1), truth(1), gold(1), copy(4), loud(1), noise(2), handwriting(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8838,
+        "wordCount": 327,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "queen(3)",
+          "clever(2)",
+          "police(2)",
+          "secret(2)",
+          "noise(2)",
+          "library(1)",
+          "alone(1)",
+          "king(1)",
+          "everywhere(1)",
+          "chair(1)",
+          "pockets(1)",
+          "francs(1)",
+          "check(1)",
+          "queen's(1)",
+          "hide(1)",
+          "wore(1)",
+          "green(1)",
+          "glasses(1)",
+          "dirty(1)",
+          "torn(1)",
+          "fire(1)",
+          "gold(1)",
+          "box(1)",
+          "purpose(1)",
+          "suddenly(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9189,
+        "wordCount": 518,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "copy(4)",
+          "queen(3)",
+          "secret(2)",
+          "hide(2)",
+          "noise(2)",
+          "quiet(1)",
+          "sharp(1)",
+          "autumn(1)",
+          "library(1)",
+          "king(1)",
+          "chair(1)",
+          "needles(1)",
+          "cushions(1)",
+          "twice(1)",
+          "pockets(1)",
+          "francs(1)",
+          "shaking(1)",
+          "desk(1)",
+          "holes(1)",
+          "chairs(1)",
+          "glasses(1)",
+          "complained(1)",
+          "weak(1)",
+          "cheap(1)",
+          "hung(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9605,
+        "wordCount": 810,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "queen(2)",
+          "handwriting(2)",
+          "seal(2)",
+          "careless(2)",
+          "autumn(1)",
+          "amusing(1)",
+          "clever(1)",
+          "loudly(1)",
+          "cupboard(1)",
+          "needles(1)",
+          "cushions(1)",
+          "bricks(1)",
+          "thieves(1)",
+          "francs(1)",
+          "poet(1)",
+          "mathematician(1)",
+          "beginners(1)",
+          "rack(1)",
+          "brass(1)",
+          "knob(1)",
+          "fireplace(1)",
+          "dirty(1)",
+          "unimportant(1)",
+          "tidy(1)",
+          "rough(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9602,
+        "wordCount": 1105,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "queen(3)",
+          "handwriting(2)",
+          "hollow(2)",
+          "rack(2)",
+          "windy(1)",
+          "amusing(1)",
+          "tiresome(1)",
+          "lamp(1)",
+          "puzzles(1)",
+          "simplicity(1)",
+          "misleads(1)",
+          "thief(1)",
+          "unexpectedly(1)",
+          "needles(1)",
+          "cushion(1)",
+          "floorboards(1)",
+          "moss(1)",
+          "bricks(1)",
+          "robbers(1)",
+          "thoroughly(1)",
+          "francs(1)",
+          "trembling(1)",
+          "unlocked(1)",
+          "skillful(1)",
+          "schoolboy(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9413,
+        "wordCount": 1532,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "queen(3)",
+          "bold(2)",
+          "blank(2)",
+          "windy(1)",
+          "inclined(1)",
+          "acquaintance(1)",
+          "amusement(1)",
+          "lamp(1)",
+          "simplicity(1)",
+          "astray(1)",
+          "secrecy(1)",
+          "handwriting(1)",
+          "elbow(1)",
+          "despair(1)",
+          "scandal(1)",
+          "hollowed(1)",
+          "probed(1)",
+          "cushion(1)",
+          "needles(1)",
+          "microscope(1)",
+          "faintest(1)",
+          "glue(1)",
+          "fraction(1)",
+          "floorboards(1)",
+          "inspected(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "They",
+          "ctx": "y looked in every chair and every book. They even looked in the Minister's pockets. "
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "They",
+          "ctx": " pushed long needles into the cushions. They looked at every book, page by page. Twi"
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "We",
+          "ctx": "air and every space between the bricks. We opened every book and turned every page"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "We",
+          "ctx": "t of every chair with a powerful glass. We measured each book, opened it, and turn"
+        },
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "We",
+          "ctx": "book, opened it, and turned every page. We lifted the carpets, studied the floorbo"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "We",
+          "ctx": "e for the faintest trace of fresh glue. We opened every book, turned every page, a"
+        },
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "We",
+          "ctx": "er to the smallest fraction of an inch. We lifted the carpets, studied the floorbo"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "han I had ever seen him.  About a month afterwards he called on us again, and after some o"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 327,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.2,
+      "lowZipfRatio": 0.0034,
+      "lowZipfWords": [
+        "francs"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 518,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0042,
+      "lowZipfWords": [
+        "cushions",
+        "francs"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 810,
+      "sentLenMedian": 12.5,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0104,
+      "lowZipfWords": [
+        "confuses",
+        "cupboard",
+        "cushions",
+        "francs",
+        "hurried",
+        "knob",
+        "mathematician",
+        "unimportant"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1105,
+      "sentLenMedian": 14.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0132,
+      "lowZipfWords": [
+        "carpets",
+        "cheerfully",
+        "cleverest",
+        "crumpled",
+        "floorboards",
+        "francs",
+        "knob",
+        "mathematician",
+        "misleads",
+        "robbers",
+        "schoolboy",
+        "skillful",
+        "tiresome",
+        "trembling"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1532,
+      "sentLenMedian": 20,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0265,
+      "lowZipfWords": [
+        "astray",
+        "carpets",
+        "cheerfully",
+        "clutched",
+        "courtier",
+        "crumpled",
+        "dangled",
+        "faintest",
+        "floorboards",
+        "foresee",
+        "francs",
+        "fruitless",
+        "glanced",
+        "gloomier",
+        "grubby",
+        "heartily",
+        "hollowed",
+        "hurried",
+        "imitating",
+        "ingenious",
+        "invitations",
+        "knob",
+        "mantelpiece",
+        "mathematician",
+        "moment's",
+        "opponent's",
+        "outwitted",
+        "pauses",
+        "probed",
+        "repaid",
+        "robbers",
+        "schoolboy",
+        "sighed",
+        "soiled",
+        "speechless",
+        "swung",
+        "thunderbolt",
+        "trembling"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8838,
+      "wordCount": 327,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "queen(3)",
+        "clever(2)",
+        "police(2)",
+        "secret(2)",
+        "noise(2)",
+        "library(1)",
+        "alone(1)",
+        "king(1)",
+        "everywhere(1)",
+        "chair(1)",
+        "pockets(1)",
+        "francs(1)",
+        "check(1)",
+        "queen's(1)",
+        "hide(1)",
+        "wore(1)",
+        "green(1)",
+        "glasses(1)",
+        "dirty(1)",
+        "torn(1)",
+        "fire(1)",
+        "gold(1)",
+        "box(1)",
+        "purpose(1)",
+        "suddenly(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9189,
+      "wordCount": 518,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "copy(4)",
+        "queen(3)",
+        "secret(2)",
+        "hide(2)",
+        "noise(2)",
+        "quiet(1)",
+        "sharp(1)",
+        "autumn(1)",
+        "library(1)",
+        "king(1)",
+        "chair(1)",
+        "needles(1)",
+        "cushions(1)",
+        "twice(1)",
+        "pockets(1)",
+        "francs(1)",
+        "shaking(1)",
+        "desk(1)",
+        "holes(1)",
+        "chairs(1)",
+        "glasses(1)",
+        "complained(1)",
+        "weak(1)",
+        "cheap(1)",
+        "hung(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9605,
+      "wordCount": 810,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "queen(2)",
+        "handwriting(2)",
+        "seal(2)",
+        "careless(2)",
+        "autumn(1)",
+        "amusing(1)",
+        "clever(1)",
+        "loudly(1)",
+        "cupboard(1)",
+        "needles(1)",
+        "cushions(1)",
+        "bricks(1)",
+        "thieves(1)",
+        "francs(1)",
+        "poet(1)",
+        "mathematician(1)",
+        "beginners(1)",
+        "rack(1)",
+        "brass(1)",
+        "knob(1)",
+        "fireplace(1)",
+        "dirty(1)",
+        "unimportant(1)",
+        "tidy(1)",
+        "rough(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9602,
+      "wordCount": 1105,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "queen(3)",
+        "handwriting(2)",
+        "hollow(2)",
+        "rack(2)",
+        "windy(1)",
+        "amusing(1)",
+        "tiresome(1)",
+        "lamp(1)",
+        "puzzles(1)",
+        "simplicity(1)",
+        "misleads(1)",
+        "thief(1)",
+        "unexpectedly(1)",
+        "needles(1)",
+        "cushion(1)",
+        "floorboards(1)",
+        "moss(1)",
+        "bricks(1)",
+        "robbers(1)",
+        "thoroughly(1)",
+        "francs(1)",
+        "trembling(1)",
+        "unlocked(1)",
+        "skillful(1)",
+        "schoolboy(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9413,
+      "wordCount": 1532,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "queen(3)",
+        "bold(2)",
+        "blank(2)",
+        "windy(1)",
+        "inclined(1)",
+        "acquaintance(1)",
+        "amusement(1)",
+        "lamp(1)",
+        "simplicity(1)",
+        "astray(1)",
+        "secrecy(1)",
+        "handwriting(1)",
+        "elbow(1)",
+        "despair(1)",
+        "scandal(1)",
+        "hollowed(1)",
+        "probed(1)",
+        "cushion(1)",
+        "needles(1)",
+        "microscope(1)",
+        "faintest(1)",
+        "glue(1)",
+        "fraction(1)",
+        "floorboards(1)",
+        "inspected(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.2,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0070",
+        "title": "A Letter from Someone Lonely",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

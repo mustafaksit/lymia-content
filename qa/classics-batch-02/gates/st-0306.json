@@ -1,0 +1,728 @@
+{
+  "id": "st-0306",
+  "title": "Anne of Green Gables: Anne Arrives",
+  "ts": "2026-10-29T21:45:22",
+  "node": {
+    "id": "st-0306",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %86.7 | 330 kelime\n    havuz dışı: farm(2), shy(1), boy(6), orphan(2), station(1), thin(2), alone(1), red(2), hair(2), happy(2), road(1), trees(1), flowers(1), cried(3), spell(1), baby(1), sorry(4), joy(1), angry(1), hate(1), shouted(1), softly(1), smiled(1), forgave(1), garden(1), laugh(1), promise(1), heart(1)",
+        "level A2: A2: KALDI | kapsam %92.1 | 517 kelime\n    havuz dışı: farm(3), shy(1), orphan(4), hurried(1), platform(1), thin(2), glad(1), truth(1), bag(1), apple(1), cried(3), spell(1), sick(1), sharp(1), frightened(1), joy(2), plain(1), carrots(1), anger(1), hate(1), shouted(1), rude(1), upstairs(1), quietly(1), softly(1), lonely(1), downstairs(1), knees(1), forgive(1), forgave(1), sun(1), moon(1)",
+        "level B1: B1: KALDI | kapsam %94.2 | 727 kelime\n    havuz dışı: shy(1), frightened(1), strict(1), sensible(1), orphan(3), pile(1), freckled(1), braids(1), cherry(1), moonlight(1), hopeful(1), apple(1), unhappily(1), gently(1), fever(1), pale(1), terribly(2), loudly(1), carrots(1), stamped(1), rude(1), unkind(1), stairs(2), slammed(1), crept(1), whispered(1), lonely(2), downstairs(1), knees(1), apology(1), forgave(1), merry(1), oh(1), shyly(1), moon(1), joy(1), supper(1)",
+        "level B2: B2: KALDI | kapsam %94.8 | 1111 kelime\n    havuz dışı: lane(1), painfully(1), shy(1), orphan(3), mainland(1), shingles(1), braids(1), freckles(2), cherry(1), sorrow(1), arch(1), blossoming(1), apple(1), afterwards(1), helplessly(1), sobbed(1), bitterly(1), stiffly(1), sobs(1), fever(1), pity(1), astonished(1), helpers(1), pleading(1), inspect(1), terribly(1), carrots(1), dull(1), rude(1), unkind(1), forgive(1), slam(1), echoed(1), offended(1), crept(1), dreadfully(1), lonely(1), downstairs(1), apology(1), scold(1), forgave(1), darkened(1), auburn(1), afterward(1), rosy(1), cheerful(1), indoors(1), shyly(1), lilies(1), oh(1), clasping(1), you've(1), faithful(1), endured(1), supper(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8667,
+        "wordCount": 330,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "boy(6)",
+          "sorry(4)",
+          "cried(3)",
+          "farm(2)",
+          "orphan(2)",
+          "thin(2)",
+          "red(2)",
+          "hair(2)",
+          "happy(2)",
+          "shy(1)",
+          "station(1)",
+          "alone(1)",
+          "road(1)",
+          "trees(1)",
+          "flowers(1)",
+          "spell(1)",
+          "baby(1)",
+          "joy(1)",
+          "angry(1)",
+          "hate(1)",
+          "shouted(1)",
+          "softly(1)",
+          "smiled(1)",
+          "forgave(1)",
+          "garden(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9207,
+        "wordCount": 517,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "orphan(4)",
+          "farm(3)",
+          "cried(3)",
+          "thin(2)",
+          "joy(2)",
+          "shy(1)",
+          "hurried(1)",
+          "platform(1)",
+          "glad(1)",
+          "truth(1)",
+          "bag(1)",
+          "apple(1)",
+          "spell(1)",
+          "sick(1)",
+          "sharp(1)",
+          "frightened(1)",
+          "plain(1)",
+          "carrots(1)",
+          "anger(1)",
+          "hate(1)",
+          "shouted(1)",
+          "rude(1)",
+          "upstairs(1)",
+          "quietly(1)",
+          "softly(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9422,
+        "wordCount": 727,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "orphan(3)",
+          "terribly(2)",
+          "stairs(2)",
+          "lonely(2)",
+          "shy(1)",
+          "frightened(1)",
+          "strict(1)",
+          "sensible(1)",
+          "pile(1)",
+          "freckled(1)",
+          "braids(1)",
+          "cherry(1)",
+          "moonlight(1)",
+          "hopeful(1)",
+          "apple(1)",
+          "unhappily(1)",
+          "gently(1)",
+          "fever(1)",
+          "pale(1)",
+          "loudly(1)",
+          "carrots(1)",
+          "stamped(1)",
+          "rude(1)",
+          "unkind(1)",
+          "slammed(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9478,
+        "wordCount": 1111,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "orphan(3)",
+          "freckles(2)",
+          "lane(1)",
+          "painfully(1)",
+          "shy(1)",
+          "mainland(1)",
+          "shingles(1)",
+          "braids(1)",
+          "cherry(1)",
+          "sorrow(1)",
+          "arch(1)",
+          "blossoming(1)",
+          "apple(1)",
+          "afterwards(1)",
+          "helplessly(1)",
+          "sobbed(1)",
+          "bitterly(1)",
+          "stiffly(1)",
+          "sobs(1)",
+          "fever(1)",
+          "pity(1)",
+          "astonished(1)",
+          "helpers(1)",
+          "pleading(1)",
+          "inspect(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9277,
+        "wordCount": 1549,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "lane(2)",
+          "orphan(2)",
+          "astonishment(2)",
+          "fever(2)",
+          "crept(2)",
+          "you're(2)",
+          "orchards(1)",
+          "shyest(1)",
+          "angular(1)",
+          "screwed(1)",
+          "knot(1)",
+          "faint(1)",
+          "brook(1)",
+          "mainland(1)",
+          "verdict(1)",
+          "risky(1)",
+          "perched(1)",
+          "shingles(1)",
+          "yellowish(1)",
+          "braids(1)",
+          "unmistakably(1)",
+          "freckled(1)",
+          "eager(1)",
+          "gravity(1)",
+          "cherry(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "SAY_SORRY",
+          "cat": "AMERICAN_ENGLISH_STYLE",
+          "msg": "Consider using “(apologize)” to improve your wording.",
+          "frag": "Say sorry",
+          "ctx": "ery angry. \"I hate you!\" she shouted.  \"Say sorry to Mrs. Lynde,\" said Marilla. \"No!\" sai"
+        },
+        {
+          "rule": "SAY_SORRY",
+          "cat": "AMERICAN_ENGLISH_STYLE",
+          "msg": "Consider using “apologize” to improve your wording.",
+          "frag": "say sorry",
+          "ctx": "Matthew went up to Anne's room. \"Please say sorry, Anne,\" he said softly. Anne loved Matt"
+        },
+        {
+          "rule": "SAY_SORRY",
+          "cat": "AMERICAN_ENGLISH_STYLE",
+          "msg": "Consider using “apologized” to improve your wording.",
+          "frag": "said sorry",
+          "ctx": "he said yes. She went to Mrs. Lynde and said sorry. Mrs. Lynde smiled and forgave her.  So"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "SAY_SORRY",
+          "cat": "AMERICAN_ENGLISH_STYLE",
+          "msg": "Consider using “apologize” to improve your wording.",
+          "frag": "say sorry",
+          "ctx": "airs to her room.  Marilla told Anne to say sorry, but Anne said no. The next evening, Ma"
+        },
+        {
+          "rule": "SAY_SORRY",
+          "cat": "AMERICAN_ENGLISH_STYLE",
+          "msg": "Consider using “apologize” to improve your wording.",
+          "frag": "say sorry",
+          "ctx": "ew came quietly up to her room. \"Please say sorry, Anne,\" he said softly. \"It is so lonel"
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "SAY_SORRY",
+          "cat": "AMERICAN_ENGLISH_STYLE",
+          "msg": "Consider using “apologize” to improve your wording.",
+          "frag": "say sorry",
+          "ctx": " door.  Marilla told Anne that she must say sorry, but Anne refused. The next evening, Ma"
+        },
+        {
+          "rule": "SAY_SORRY",
+          "cat": "AMERICAN_ENGLISH_STYLE",
+          "msg": "Consider using “apologize” to improve your wording.",
+          "frag": "say sorry",
+          "ctx": " stairs to her room. \"Anne, please just say sorry,\" he whispered. \"It's terribly lonely d"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "Afterwards",
+          "ctx": "ple trees she fell silent with delight. Afterwards she gave the road a grand new name. \"I'"
+        },
+        {
+          "rule": "EN_WORD_COHERENCY",
+          "cat": "MISC",
+          "msg": "Do not mix variants of the same word (‘afterward’ and ‘afterwards’) within a single text.",
+          "frag": "afterward",
+          "ctx": " darkened to a lovely auburn.  Not long afterward, Marilla took Anne to the Barry farm to"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "Afterwards",
+          "ctx": "som she fell silent for the first time. Afterwards she insisted that so lovely a road dese"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 330,
+      "sentLenMedian": 6,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0037,
+      "lowZipfWords": [
+        "forgave"
+      ],
+      "keyTermTokens": 2,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 517,
+      "sentLenMedian": 8.0,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.0046,
+      "lowZipfWords": [
+        "forgave",
+        "hurried"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 727,
+      "sentLenMedian": 11.0,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0125,
+      "lowZipfWords": [
+        "braids",
+        "crept",
+        "forgave",
+        "freckled",
+        "shyly",
+        "unhappily",
+        "unkind",
+        "whispered"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1111,
+      "sentLenMedian": 15,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.031,
+      "lowZipfWords": [
+        "astonished",
+        "awfully",
+        "bitterly",
+        "blossoming",
+        "braids",
+        "clasping",
+        "crept",
+        "darkened",
+        "dreadfully",
+        "echoed",
+        "forgave",
+        "freckles",
+        "helpers",
+        "helplessly",
+        "hurried",
+        "lilies",
+        "painfully",
+        "prided",
+        "quieted",
+        "rosy",
+        "scold",
+        "shingles",
+        "shyly",
+        "sobbed",
+        "sobs",
+        "stamping",
+        "stiffly",
+        "unkind",
+        "warmly",
+        "whispered"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1549,
+      "sentLenMedian": 21,
+      "zipfMedian": 6.03,
+      "lowZipfRatio": 0.0388,
+      "lowZipfWords": [
+        "alarmed",
+        "astonishment",
+        "blossoms",
+        "braids",
+        "chattering",
+        "clasped",
+        "clasping",
+        "confided",
+        "crept",
+        "darkened",
+        "dreaded",
+        "dreadfully",
+        "exclaimed",
+        "exhaustion",
+        "flung",
+        "frankness",
+        "freckled",
+        "freckles",
+        "gentleness",
+        "glanced",
+        "grander",
+        "heartless",
+        "intending",
+        "lavish",
+        "minding",
+        "miserably",
+        "newcomer",
+        "orchards",
+        "orderly",
+        "overcrowded",
+        "pasture",
+        "perched",
+        "plainly",
+        "prided",
+        "radiance",
+        "reluctance",
+        "reproach",
+        "schoolteachers",
+        "shingles",
+        "shyest",
+        "solemnly",
+        "stamping",
+        "startled",
+        "stormy",
+        "stranger's",
+        "stubbornness",
+        "trembling",
+        "unkind",
+        "unmistakably",
+        "wandered",
+        "wept",
+        "whispered",
+        "wronged",
+        "yellowish"
+      ],
+      "keyTermTokens": 2,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8667,
+      "wordCount": 330,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "boy(6)",
+        "sorry(4)",
+        "cried(3)",
+        "farm(2)",
+        "orphan(2)",
+        "thin(2)",
+        "red(2)",
+        "hair(2)",
+        "happy(2)",
+        "shy(1)",
+        "station(1)",
+        "alone(1)",
+        "road(1)",
+        "trees(1)",
+        "flowers(1)",
+        "spell(1)",
+        "baby(1)",
+        "joy(1)",
+        "angry(1)",
+        "hate(1)",
+        "shouted(1)",
+        "softly(1)",
+        "smiled(1)",
+        "forgave(1)",
+        "garden(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9207,
+      "wordCount": 517,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "orphan(4)",
+        "farm(3)",
+        "cried(3)",
+        "thin(2)",
+        "joy(2)",
+        "shy(1)",
+        "hurried(1)",
+        "platform(1)",
+        "glad(1)",
+        "truth(1)",
+        "bag(1)",
+        "apple(1)",
+        "spell(1)",
+        "sick(1)",
+        "sharp(1)",
+        "frightened(1)",
+        "plain(1)",
+        "carrots(1)",
+        "anger(1)",
+        "hate(1)",
+        "shouted(1)",
+        "rude(1)",
+        "upstairs(1)",
+        "quietly(1)",
+        "softly(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9422,
+      "wordCount": 727,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "orphan(3)",
+        "terribly(2)",
+        "stairs(2)",
+        "lonely(2)",
+        "shy(1)",
+        "frightened(1)",
+        "strict(1)",
+        "sensible(1)",
+        "pile(1)",
+        "freckled(1)",
+        "braids(1)",
+        "cherry(1)",
+        "moonlight(1)",
+        "hopeful(1)",
+        "apple(1)",
+        "unhappily(1)",
+        "gently(1)",
+        "fever(1)",
+        "pale(1)",
+        "loudly(1)",
+        "carrots(1)",
+        "stamped(1)",
+        "rude(1)",
+        "unkind(1)",
+        "slammed(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9478,
+      "wordCount": 1111,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "orphan(3)",
+        "freckles(2)",
+        "lane(1)",
+        "painfully(1)",
+        "shy(1)",
+        "mainland(1)",
+        "shingles(1)",
+        "braids(1)",
+        "cherry(1)",
+        "sorrow(1)",
+        "arch(1)",
+        "blossoming(1)",
+        "apple(1)",
+        "afterwards(1)",
+        "helplessly(1)",
+        "sobbed(1)",
+        "bitterly(1)",
+        "stiffly(1)",
+        "sobs(1)",
+        "fever(1)",
+        "pity(1)",
+        "astonished(1)",
+        "helpers(1)",
+        "pleading(1)",
+        "inspect(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9277,
+      "wordCount": 1549,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "lane(2)",
+        "orphan(2)",
+        "astonishment(2)",
+        "fever(2)",
+        "crept(2)",
+        "you're(2)",
+        "orchards(1)",
+        "shyest(1)",
+        "angular(1)",
+        "screwed(1)",
+        "knot(1)",
+        "faint(1)",
+        "brook(1)",
+        "mainland(1)",
+        "verdict(1)",
+        "risky(1)",
+        "perched(1)",
+        "shingles(1)",
+        "yellowish(1)",
+        "braids(1)",
+        "unmistakably(1)",
+        "freckled(1)",
+        "eager(1)",
+        "gravity(1)",
+        "cherry(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 5
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.2,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0225",
+        "title": "The Green Door",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

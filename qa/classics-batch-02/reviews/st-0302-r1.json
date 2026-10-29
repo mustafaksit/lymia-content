@@ -1,0 +1,63 @@
+{
+  "id": "st-0302",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Marmee went with a poor woman,\" said Hannah. -- a servant would not use the girls' pet name for their mother; consider \"Your mother went with a poor woman,\" said Hannah.",
+        "\"Then her face was sad.\" is slightly stilted; \"Then she looked sad.\" reads more naturally.",
+        "Only Meg's and Jo's presents are named; fine as condensation."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "That winter, Marmee asked them not to buy presents.",
+          "problem": "At A2 the name 'Marmee' is never explained. Paragraph 1 says 'Father and Mother', and from here on the text only says 'Marmee'. A learner cannot tell that Marmee is the girls' mother, which makes it hard to follow who asked for no presents, who gets the slippers and who brings the letter.",
+          "fix": "That winter, their mother asked them not to buy presents. The girls called her Marmee."
+        }
+      ],
+      "notes": [
+        "\"Mrs. Hummel cried with joy.\" -- the name appears with no introduction; consider \"The mother, Mrs. Hummel, cried with joy.\"",
+        "\"I took back the small bottle.\" -- clearer as \"I took the small bottle back to the shop.\""
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"That morning she took her small bottle back to the shop for a bigger one.\" -- acceptable at B1; past perfect would be more natural at higher levels.",
+        "\"because it was cheap\" simplifies the original motive (keeping money for pencils); acceptable."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "No one said the word, but each of them thought of their father, far away where the fighting was.",
+          "problem": "'The word' has no referent. No word has been mentioned, so a reader is left asking which word was not said. (In the original, each sister silently thinks 'perhaps never'.) The sentence is confusing as written.",
+          "fix": "No one spoke for a minute, but each of them thought of their father, far away where the fighting was, and wondered when he would come home."
+        }
+      ],
+      "notes": [
+        "\"Amy's perfume made it smell sweet\" -- 'it' could refer to the handkerchief or the pocket; consider \"The handkerchief smelled sweetly of Amy's perfume.\"",
+        "In the original, Hannah stops the broken panes with old hats and her own cloak; 'shawl' (also keyed in the quiz) is a harmless variation."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"One word, however, needed no translation\" -- the children's word is German ('Engel-kinder'), so 'needed no translation' is a slight stretch, but it reads as literary licence.",
+        "Hannah's 'shawl' vs. the original's cloak: same as B2, a harmless variation."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "This is a faithful, warm retelling of Little Women chapters 1-2 at every level, and all quizzes have correct keys with no 4+ concerns. Two levels fail on clarity. A2 never explains that 'Marmee' is the girls' mother. B2 has a sentence ('No one said the word') whose referent is missing."
+}

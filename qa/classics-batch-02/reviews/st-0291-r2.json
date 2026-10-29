@@ -1,0 +1,51 @@
+{
+  "id": "st-0291",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Order: 'His sister Sarah went away.' comes before Polynesia's lessons. In the original, and in A2-C1, Sarah leaves later, over the crocodile. Consider moving the sentence after 'Chee-Chee the monkey lived with him now.' (e.g. 'His sister Sarah did not like this. She went away.').",
+        "'At first the lion did not help.' is the lion's first mention. Optional: 'The doctor asked the lion for help, but the lion said no.'",
+        "The text never says the Pushmi-pullyu went with the doctor. Optional: 'It was shy, but it liked the doctor, so it went with him.'"
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'The healthy monkeys got medicine, so they did not get sick. He put the sick ones...' The doctor is not named in this paragraph. Optional: 'The doctor gave medicine to the healthy monkeys...'"
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'She was very angry with him' does not say why. Optional: 'When she heard that he had said no, she was very angry...' (watch the B1 grammar limits).",
+        "'Everyone reached the land safely along the rope' could be 'Everyone reached the shore safely along the rope.'"
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": []
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "The messenger turned out to be a swallow, shivering outside, who had stayed behind long after the rest of her kind had flown south.",
+          "problem": "If the swallow stayed behind in England after the others flew south, she could not have brought a message from Chee-Chee's cousin in Africa. In the original, she flies north from Africa in winter, long after the other swallows have left England, which is why she is freezing.",
+          "fix": "The messenger turned out to be a swallow, shivering outside, who had flown all the way north from Africa long after the rest of her kind had left for the winter."
+        }
+      ],
+      "notes": [
+        "Quiz Q3 keyed answer 'So many visitors paid to see the Pushmi-pullyu.' reads oddly as an answer, because 'So' looks like 'therefore'. Suggest: 'Crowds of visitors paid to see the Pushmi-pullyu.'"
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A1-B2 are faithful, natural and at the right level, with only minor taste notes. C1 has one real logic error: the swallow is said to have 'stayed behind' after the other swallows flew south, but she is the one who brought the message from Africa. All the quizzes are keyed correctly and every level is suitable for ages 4+."
+}

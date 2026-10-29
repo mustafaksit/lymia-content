@@ -1,0 +1,51 @@
+{
+  "id": "st-0291",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Chee-Chee the monkey lived with him now. His sister Sarah did not like this. She went away.\" reads as if Sarah left because of the monkey; in the original (and in A2-C1) she leaves over the crocodile. Not a stumbling point at A1, but a simple fix removes the discrepancy: \"His sister Sarah did not like the animals. She went away.\"",
+        "\"Then his own baby got sick. So the lions came and helped.\" shifts from one lion to 'the lions'; optional: \"So the lion came and helped.\"",
+        "Grammar stays within present/past simple plus 'can'; quiz keys are correct and unambiguous."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"So the lion came back, and all the animals helped.\" - the lion never came the first time (the doctor asked and he said no). Optional: \"So the lion came to the doctor, and all the animals helped.\"",
+        "Grammar stays within A2 limits; no relative clauses, passive or perfect tenses found. Quiz keys correct."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Small jump: \"...but he needed nurses. 'I am the King of Beasts,' said the proud lion.\" - the doctor's request to the lion is not stated. Optional: \"...but he needed nurses, so he asked the lion for help. 'I am the King of Beasts,' said the proud lion.\"",
+        "No passive or conditional constructions found ('Send that crocodile away, or I am leaving' is an imperative, not a conditional). Quiz keys correct."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Quiz Q2 key \"Some swam and others climbed along a rope\" is only implied by \"Those who could not swim climbed along the rope\"; defensible, and the distractors are clearly wrong, so acceptable.",
+        "Avoiding the original's racial framing (e.g. the Bridge of Apes line now says 'the first man ever') is appropriate."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The doctor need not have worried about finding his way\" presupposes a worry that the text never mentions; optional: \"The doctor had wondered how he would find his way, but out of the moonlit sky came thousands of swallows...\"",
+        "\"Before going home, he toured the country fairs\" directly after the swallows scene could momentarily suggest the fairs were in Africa; optional: \"Back in England, before going home to Puddleby, he toured the country fairs...\"",
+        "\"the doctor paid the man a coin\" - 'gave the man a coin' is the more natural collocation.",
+        "Prose is genuinely literary (inversion, participle clauses, varied rhythm) rather than padded. Quiz keys correct."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels retell Lofting's main line faithfully (Polynesia's lessons, Sarah's departure, the swallow's message, shipwreck, Bridge of Apes, the lions, the Pushmi-pullyu, the fairs and the return), sensibly omitting the Jolliginki and pirate episodes, which keeps the text free of the original's racial caricature and suitable for 4+. Grammar fits each level and every quiz has a single correct keyed answer. Remaining points are minor wording/consistency suggestions listed under notes."
+}

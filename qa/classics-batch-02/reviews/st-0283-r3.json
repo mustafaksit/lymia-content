@@ -1,0 +1,46 @@
+{
+  "id": "st-0283",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"He sent Milady to London.\" Higher levels say Milady was already in London and the Cardinal sent her orders. Readers only see one level, so this does not confuse anyone. To match the other levels, consider \"He sent a message to Milady in London.\"",
+        "At the ball the Cardinal hands over two pins, but the story never explains them afterwards. A2 and above explain them with the 'gift for the queen' line. Optional: add \"'These pins are a gift for the queen,' he said.\" after \"he smiled.\""
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Reduced participle phrases ('a musketeer named Athos', 'a young man called Planchet') are common at A2. They are not relative clauses, so they are acceptable."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Then he remembered Milady, who stood very close to him at his last ball.\" A native writer would use 'had stood' here. Readers will not trip on it, but 'who had stood' reads more naturally.",
+        "'got caught in his long coat' is technically a get-passive, but here it is an idiom meaning 'got tangled', so it is fine for B1."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"With me, you are four,\" is slightly unusual phrasing, but it is clear and close to the original line. 'Now we are four' would be the more idiomatic choice."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"He could walk away a free man, or he could throw in his lot with three strangers...\" comes right after a sentence whose subject is the guards' leader. The rest of the sentence makes it clear the 'He' is d'Artagnan, but naming him would be smoother: \"D'Artagnan could walk away a free man...\"",
+        "\"who, an hour earlier, had been planning to fight him\" suggests they no longer plan to fight him, but the duels are still pending at that moment. That is acceptable as irony. Optional: \"who, until a moment ago, had been planning to fight him.\""
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels tell the diamond-studs episode from The Three Musketeers in the right order: the three duels, the fight with the Cardinal's guards, Milady stealing the studs, the journey where the friends drop away one by one, the Calais pass, Buckingham's jeweler, the count at the ball and the ring through the curtain. Grammar fits each level, the quiz answers are correct and unambiguous, and violence and Athos's drinking are softened enough for a 4+ rating. Only minor style notes remain."
+}

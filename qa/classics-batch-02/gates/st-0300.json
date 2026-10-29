@@ -1,0 +1,645 @@
+{
+  "id": "st-0300",
+  "title": "Emma",
+  "ts": "2026-10-29T21:45:15",
+  "node": {
+    "id": "st-0300",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %88.5 | 330 kelime\n    havuz dışı: rich(1), clever(2), village(1), husbands(1), listen(1), farmer(2), marry(2), angry(1), church(1), picture(2), snowy(1), married(3), proud(1), lady(1), poor(3), cried(3), handsome(1), fun(1), quiet(1), aunt(1), summer(1), dull(2), red(1), unkind(1), suddenly(1), heart(1), garden(1)",
+        "level A2: A2: KALDI | kapsam %92.9 | 552 kelime\n    havuz dışı: clever(2), rich(2), cheerful(1), mistakes(1), lucky(1), sweet(1), farmer(2), angry(1), honest(1), poem(1), dinner(1), rode(1), carriage(1), dear(1), cried(3), proud(1), lady(1), terrible(1), handsome(1), jokes(1), aunt(1), quiet(2), ball(2), refused(1), grateful(1), picnic(1), dull(2), ah(1), unkind(1), secret(1), autumn(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8848,
+        "wordCount": 330,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "married(3)",
+          "poor(3)",
+          "cried(3)",
+          "clever(2)",
+          "farmer(2)",
+          "marry(2)",
+          "picture(2)",
+          "dull(2)",
+          "rich(1)",
+          "village(1)",
+          "husbands(1)",
+          "listen(1)",
+          "angry(1)",
+          "church(1)",
+          "snowy(1)",
+          "proud(1)",
+          "lady(1)",
+          "handsome(1)",
+          "fun(1)",
+          "quiet(1)",
+          "aunt(1)",
+          "summer(1)",
+          "red(1)",
+          "unkind(1)",
+          "suddenly(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9293,
+        "wordCount": 552,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cried(3)",
+          "clever(2)",
+          "rich(2)",
+          "farmer(2)",
+          "quiet(2)",
+          "ball(2)",
+          "dull(2)",
+          "cheerful(1)",
+          "mistakes(1)",
+          "lucky(1)",
+          "sweet(1)",
+          "angry(1)",
+          "honest(1)",
+          "poem(1)",
+          "dinner(1)",
+          "rode(1)",
+          "carriage(1)",
+          "dear(1)",
+          "proud(1)",
+          "lady(1)",
+          "terrible(1)",
+          "handsome(1)",
+          "jokes(1)",
+          "aunt(1)",
+          "refused(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.961,
+        "wordCount": 820,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "aunt(3)",
+          "clever(2)",
+          "cheerful(2)",
+          "handsome(2)",
+          "piano(2)",
+          "dull(2)",
+          "gentle(1)",
+          "autumn(1)",
+          "governess(1)",
+          "furious(1)",
+          "sensible(1)",
+          "honest(1)",
+          "silly(1)",
+          "vicar(1)",
+          "praised(1)",
+          "poem(1)",
+          "hurried(1)",
+          "carriages(1)",
+          "ashamed(1)",
+          "uncle(1)",
+          "charming(1)",
+          "inn(1)",
+          "picnic(1)",
+          "unkind(1)",
+          "foolish(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9669,
+        "wordCount": 1149,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "handsome(2)",
+          "afterward(2)",
+          "clever(2)",
+          "dull(2)",
+          "disliked(1)",
+          "governess(1)",
+          "cheerful(1)",
+          "sincere(1)",
+          "sensible(1)",
+          "polite(1)",
+          "refusal(1)",
+          "foolish(1)",
+          "vicar(1)",
+          "riddle(1)",
+          "dined(1)",
+          "carriage(1)",
+          "seized(1)",
+          "astonished(1)",
+          "furious(1)",
+          "talkative(1)",
+          "elegant(1)",
+          "inn(1)",
+          "kindness(1)",
+          "confessed(1)",
+          "liven(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9416,
+        "wordCount": 1576,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "handsome(2)",
+          "vicar(2)",
+          "respectable(2)",
+          "begged(2)",
+          "afterward(2)",
+          "clever(2)",
+          "dull(2)",
+          "oh(2)",
+          "wit(1)",
+          "mistress(1)",
+          "governess(1)",
+          "consoled(1)",
+          "agreeable(1)",
+          "lodged(1)",
+          "accordingly(1)",
+          "admirers(1)",
+          "humbler(1)",
+          "flutter(1)",
+          "forbade(1)",
+          "refusal(1)",
+          "elbow(1)",
+          "displeased(1)",
+          "despise(1)",
+          "likeness(1)",
+          "enthusiasm(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 330,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0085,
+      "lowZipfWords": [
+        "snowy",
+        "unkind"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 552,
+      "sentLenMedian": 8.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0023,
+      "lowZipfWords": [
+        "unkind"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 820,
+      "sentLenMedian": 10,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0102,
+      "lowZipfWords": [
+        "carriages",
+        "coldly",
+        "governess",
+        "hurried",
+        "sender",
+        "unkind",
+        "vicar"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1149,
+      "sentLenMedian": 15,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0227,
+      "lowZipfWords": [
+        "amends",
+        "angrier",
+        "astonished",
+        "blushed",
+        "boarded",
+        "carriages",
+        "coldest",
+        "dined",
+        "disliked",
+        "flirted",
+        "governess",
+        "grandest",
+        "hurried",
+        "joked",
+        "liven",
+        "natured",
+        "riddle",
+        "sender",
+        "talkative",
+        "tradesman",
+        "unfeeling",
+        "vicar",
+        "warmly"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1576,
+      "sentLenMedian": 20.0,
+      "zipfMedian": 6.13,
+      "lowZipfRatio": 0.04,
+      "lowZipfWords": [
+        "admirers",
+        "agreeable",
+        "amends",
+        "arrivals",
+        "astonishment",
+        "beaming",
+        "blunder",
+        "carriages",
+        "clearness",
+        "cleverness",
+        "composure",
+        "consoled",
+        "courtship",
+        "dismay",
+        "displeased",
+        "dryly",
+        "eagerness",
+        "exchanging",
+        "exclaimed",
+        "feverish",
+        "finality",
+        "flattered",
+        "flutter",
+        "forbade",
+        "governess",
+        "guesses",
+        "heartbroken",
+        "humbler",
+        "likeness",
+        "lodged",
+        "moment's",
+        "murmured",
+        "narrowed",
+        "natured",
+        "parentage",
+        "parlor",
+        "plainer",
+        "plainly",
+        "recollection",
+        "reconciled",
+        "reproach",
+        "riddle",
+        "righted",
+        "scarcely",
+        "scolded",
+        "shyly",
+        "sulky",
+        "sweetly",
+        "tiresome",
+        "tradesman",
+        "unbearable",
+        "uneasy",
+        "unkind",
+        "vicar",
+        "wagging",
+        "wept"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8848,
+      "wordCount": 330,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "married(3)",
+        "poor(3)",
+        "cried(3)",
+        "clever(2)",
+        "farmer(2)",
+        "marry(2)",
+        "picture(2)",
+        "dull(2)",
+        "rich(1)",
+        "village(1)",
+        "husbands(1)",
+        "listen(1)",
+        "angry(1)",
+        "church(1)",
+        "snowy(1)",
+        "proud(1)",
+        "lady(1)",
+        "handsome(1)",
+        "fun(1)",
+        "quiet(1)",
+        "aunt(1)",
+        "summer(1)",
+        "red(1)",
+        "unkind(1)",
+        "suddenly(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9293,
+      "wordCount": 552,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cried(3)",
+        "clever(2)",
+        "rich(2)",
+        "farmer(2)",
+        "quiet(2)",
+        "ball(2)",
+        "dull(2)",
+        "cheerful(1)",
+        "mistakes(1)",
+        "lucky(1)",
+        "sweet(1)",
+        "angry(1)",
+        "honest(1)",
+        "poem(1)",
+        "dinner(1)",
+        "rode(1)",
+        "carriage(1)",
+        "dear(1)",
+        "proud(1)",
+        "lady(1)",
+        "terrible(1)",
+        "handsome(1)",
+        "jokes(1)",
+        "aunt(1)",
+        "refused(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.961,
+      "wordCount": 820,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "aunt(3)",
+        "clever(2)",
+        "cheerful(2)",
+        "handsome(2)",
+        "piano(2)",
+        "dull(2)",
+        "gentle(1)",
+        "autumn(1)",
+        "governess(1)",
+        "furious(1)",
+        "sensible(1)",
+        "honest(1)",
+        "silly(1)",
+        "vicar(1)",
+        "praised(1)",
+        "poem(1)",
+        "hurried(1)",
+        "carriages(1)",
+        "ashamed(1)",
+        "uncle(1)",
+        "charming(1)",
+        "inn(1)",
+        "picnic(1)",
+        "unkind(1)",
+        "foolish(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9669,
+      "wordCount": 1149,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "handsome(2)",
+        "afterward(2)",
+        "clever(2)",
+        "dull(2)",
+        "disliked(1)",
+        "governess(1)",
+        "cheerful(1)",
+        "sincere(1)",
+        "sensible(1)",
+        "polite(1)",
+        "refusal(1)",
+        "foolish(1)",
+        "vicar(1)",
+        "riddle(1)",
+        "dined(1)",
+        "carriage(1)",
+        "seized(1)",
+        "astonished(1)",
+        "furious(1)",
+        "talkative(1)",
+        "elegant(1)",
+        "inn(1)",
+        "kindness(1)",
+        "confessed(1)",
+        "liven(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9416,
+      "wordCount": 1576,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "handsome(2)",
+        "vicar(2)",
+        "respectable(2)",
+        "begged(2)",
+        "afterward(2)",
+        "clever(2)",
+        "dull(2)",
+        "oh(2)",
+        "wit(1)",
+        "mistress(1)",
+        "governess(1)",
+        "consoled(1)",
+        "agreeable(1)",
+        "lodged(1)",
+        "accordingly(1)",
+        "admirers(1)",
+        "humbler(1)",
+        "flutter(1)",
+        "forbade(1)",
+        "refusal(1)",
+        "elbow(1)",
+        "displeased(1)",
+        "despise(1)",
+        "likeness(1)",
+        "enthusiasm(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 3
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

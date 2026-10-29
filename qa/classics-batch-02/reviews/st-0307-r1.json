@@ -1,0 +1,61 @@
+{
+  "id": "st-0307",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"At home, Mathilde stood at the mirror.\" reads slightly off; \"stood in front of the mirror\" is more natural (and matches the other levels).",
+        "\"Her husband looked in the streets.\" is a little flat; \"Her husband went back and looked in the streets.\" would be clearer."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Mathilde went up to her and said, \"Good morning, Jeanne.\" \"I am Mathilde Loisel,\" said the tired woman.",
+          "problem": "A beat is missing: Jeanne never shows that she does not recognize Mathilde, so Mathilde's self-introduction comes out of nowhere. The tag \"the tired woman\" right after a new paragraph opener also makes readers pause to work out who is speaking.",
+          "fix": "Mathilde went up to her and said, \"Good morning, Jeanne.\" Jeanne did not know her. \"I am Mathilde Loisel,\" said Mathilde."
+        }
+      ],
+      "notes": [
+        "Opening has two \"But\" sentences close together (\"But her family was not rich... But Mathilde was not happy\"); consider \"Her family was not rich.\" for the first."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"She had no money, so she married Loisel\" is a slight non sequitur; \"She had no money, so she could not marry a rich man. Instead, she married Loisel...\" keeps the original's logic.",
+        "\"signed many worrying papers\" is a slightly odd collocation; \"signed many papers that worried him\" is smoother."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "She did not open the box, as Mathilde had feared she would.",
+          "problem": "Ambiguous at a key plot beat: a B2 reader can parse it as \"she didn't open it, just as Mathilde feared,\" which reverses the meaning (Mathilde feared she WOULD open it and notice the substitution).",
+          "fix": "Mathilde had been afraid that she would open the box, but she did not."
+        }
+      ],
+      "notes": [
+        "\"a strong, rough woman of a poor home\" is a calque; \"a strong, rough woman from a poor household\" is more natural.",
+        "\"she no longer visited her. After each visit she came home in despair.\" has a small tense clash; \"After each visit she had come home in despair, so she no longer went.\""
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"whom she no longer cared to visit, because she wept for days afterward\" would read more precisely as \"because she always wept for days afterward\" or \"because each visit left her weeping for days.\"",
+        "Very faithful and genuinely literary; the cab-number detail, the office-at-ten line and the reflection on fate are well handled."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling of Maupassant's \"The Necklace\" at all five levels, with correct plot order, ending irony and well-keyed quizzes. A2 omits Jeanne's failure to recognize Mathilde, making the reunion dialogue jump, and B2 has an ambiguous sentence about Jeanne not opening the box that can be read with reversed meaning. Both are one-sentence fixes."
+}

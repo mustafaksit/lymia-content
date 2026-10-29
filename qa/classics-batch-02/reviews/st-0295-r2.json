@@ -1,0 +1,52 @@
+{
+  "id": "st-0295",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"But an officer from the fort had it.\" and later \"Legrand carried the beetle on a string.\" A1 never says the officer gave the beetle back. Readers can infer it, but a short line such as \"The officer gave the beetle back.\" before the walk would close the gap.",
+        "Grammar stays within present simple and past simple. Imperatives (\"Drop it...\", \"Show me...\") and vocabulary suit A1."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"His face went white, then red.\" In Poe the order is reversed: Legrand flushes red, then turns pale. \"His face went red, then white.\" would match the original. This is a trivial point.",
+        "\"Jupiter also told me about strange numbers and signs. Jupiter blamed the gold bug for everything.\" repeats the name. The second one could be \"He\".",
+        "\"This beetle can make me rich\" uses the modal can. This is acceptable at A2."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"At the hut, Legrand held up the beetle, which the officer returned.\" The tense is slightly off, and a native writer would say \"had returned\". If past perfect is being avoided at B1, use: \"The officer gave the beetle back, and Legrand held it up.\"",
+        "\"Legrand was excited because he found a new kind of beetle that day.\" This is acceptable, though \"had found\" or \"he caught a new kind of beetle that afternoon\" reads more naturally.",
+        "\"Legrand was not angry for long\" mentions anger that was never shown. This is harmless, since in Poe he was briefly furious with Jupiter.",
+        "No passive voice or conditionals were found. Relative clauses are used appropriately."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "There is a small scene jump between Jupiter's visit and \"The officer had returned the beetle, and Legrand held it up for me to see.\" Adding \"When we reached the hut,\" would smooth it.",
+        "The decoding steps (e, then 'the', good glass, bishop's hostel, Bessop's Castle, the seat, the telescope) are faithful and clearly explained."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"At last an old woman told him...\" is followed by \"...Legrand had at last made out a pale spot...\". The repeated \"at last\" in neighbouring sentences could be varied, e.g. \"finally\" or \"in the end\". \"Patient work\" and \"patient inquiries\" also repeat.",
+        "\"like an uncle and a restless nephew\" is invented framing for Jupiter. It is acceptable as a respectful softening of the original servant relationship and avoids Poe's dialect caricature.",
+        "The prose is genuinely literary and not padded. The skull is described only as weathered and bleached, which is gentle enough for 4+."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels faithfully retell Poe's 'The Gold-Bug': the beetle sketch on parchment, the skull revealed by the fire's heat, Jupiter's left/right eye mistake, the chest with three iron rings, the Kidd 'kid' signature, frequency decoding, Bessop's Castle and the 'mystification' ending. The retelling contains no film-derived elements. Grammar constraints are respected per level, all quizzes have a single defensible keyed answer, and the skeletons in the pit are sensibly omitted for 4+. Only minor stylistic notes remain."
+}

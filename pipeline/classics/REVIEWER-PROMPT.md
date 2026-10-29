@@ -11,7 +11,7 @@ file: <REPO>/<BATCH>/reviews/input/<ID>-r<N>.md. Do not open any other file in t
 well-known public-domain classic; judge it against the original literary work as you know it
 (not film versions).
 
-For EACH level (A1, A2, B1, B2, C1) decide PASS or FAIL on these criteria:
+For EACH level (A1, A2, B1, B2, C1) decide PASS or FAIL on these six criteria:
 1. meaning drift (a sentence says something other than intended / contradicts other levels or itself)
 2. unnatural English (would a native-speaking children's author write this? calques, odd
    collocations, stilted "textbook" sentences)
@@ -22,6 +22,10 @@ For EACH level (A1, A2, B1, B2, C1) decide PASS or FAIL on these criteria:
    keyed answer or two defensible answers)
 5. fidelity to the original work (main events, order, ending; anything from film adaptations is
    a fail; condensing or softening for children is fine)
+6. 4+ age suitability (the app is rated 4+ on the App Store): no blood, injury detail, graphic
+   violence, murder detail, sexual content or innuendo, alcohol/drugs, suicide, or ethnic/racial
+   caricature; deaths, fights and danger may be stated but not depicted; scary elements must stay
+   gentle and fairy-tale-like. Any violation is a FAIL for that level.
 Fail only for concrete problems a reader would actually stumble on. For every problem quote the
 exact sentence and give a concrete fix. Minor taste preferences go under "notes", not failures.
 

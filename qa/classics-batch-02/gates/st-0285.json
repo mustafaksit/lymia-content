@@ -1,0 +1,660 @@
+{
+  "id": "st-0285",
+  "title": "Kidnapped",
+  "ts": "2026-10-29T21:44:54",
+  "node": {
+    "id": "st-0285",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %77.8 | 325 kelime\n    havuz dışı: village(1), uncle(5), minister(1), dark(2), cold(1), thin(1), stormy(1), key(1), chest(1), tower(2), stairs(2), suddenly(1), lightning(1), sky(1), below(2), carefully(1), truth(1), ship(5), onto(2), alone(2), sailors(3), locked(1), prisoner(1), sea(1), thick(1), fog(1), hit(2), boat(1), jumped(1), belt(1), gold(2), captain(1), attacked(1), firm(1), rocks(1), swam(1), soldiers(1), wrongly(1), blamed(1), crime(1), slept(1), heather(1), lawyer(2), listened(1), brother(1), knocked(1), uncle's(1), hid(1), nearby(1), boy(1), goodbye(1), hill(1), rich(1)",
+        "level A2: A2: KALDI | kapsam %85.3 | 517 kelime\n    havuz dışı: minister(2), uncle(4), roof(1), smoke(1), chimneys(1), shouted(1), thin(1), gray(1), nervous(1), supper(1), locked(2), stormy(1), chest(1), tower(1), climbed(1), slowly(2), flash(1), lightning(1), sky(1), stairs(1), carefully(1), truth(1), rid(1), lawyer(3), captain(3), invited(1), onto(2), ship(4), boat(3), cried(1), sailors(2), bottom(1), foggy(1), jumped(1), brave(2), sword(1), belt(1), gold(2), swam(1), island(1), wet(1), hungry(1), soldiers(1), blamed(1), crime(1), heather(1), hid(3), chief(1), mountain(1), tired(1), ill(1), belongs(1), knocked(1), goodbye(1), hill(1)",
+        "level B1: B1: KALDI | kapsam %93.0 | 748 kelime\n    havuz dışı: schoolmaster(1), roof(1), rudely(1), uncle(4), bent(1), porridge(1), candle(1), stormy(1), tower(1), stairs(2), chest(1), lamp(1), flash(1), lightning(1), captain(2), shore(1), grabbed(1), sailing(1), ocean(1), captain's(1), cabin(1), deck(1), foggy(1), aboard(1), sword(1), waist(1), belt(1), crew(1), sailors(2), bravely(1), silver(2), button(2), hungry(1), tide(1), guilty(1), innocent(1), heather(1), shelter(1), quarrel(1), forgave(1), friendship(1), darkness(1), thirds(1), goodbye(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.7785,
+        "wordCount": 325,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "uncle(5)",
+          "ship(5)",
+          "sailors(3)",
+          "dark(2)",
+          "tower(2)",
+          "stairs(2)",
+          "below(2)",
+          "onto(2)",
+          "alone(2)",
+          "hit(2)",
+          "gold(2)",
+          "lawyer(2)",
+          "village(1)",
+          "minister(1)",
+          "cold(1)",
+          "thin(1)",
+          "stormy(1)",
+          "key(1)",
+          "chest(1)",
+          "suddenly(1)",
+          "lightning(1)",
+          "sky(1)",
+          "carefully(1)",
+          "truth(1)",
+          "locked(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.853,
+        "wordCount": 517,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "uncle(4)",
+          "ship(4)",
+          "lawyer(3)",
+          "captain(3)",
+          "boat(3)",
+          "hid(3)",
+          "minister(2)",
+          "locked(2)",
+          "slowly(2)",
+          "onto(2)",
+          "sailors(2)",
+          "brave(2)",
+          "gold(2)",
+          "roof(1)",
+          "smoke(1)",
+          "chimneys(1)",
+          "shouted(1)",
+          "thin(1)",
+          "gray(1)",
+          "nervous(1)",
+          "supper(1)",
+          "stormy(1)",
+          "chest(1)",
+          "tower(1)",
+          "climbed(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9305,
+        "wordCount": 748,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "uncle(4)",
+          "stairs(2)",
+          "captain(2)",
+          "sailors(2)",
+          "silver(2)",
+          "button(2)",
+          "schoolmaster(1)",
+          "roof(1)",
+          "rudely(1)",
+          "bent(1)",
+          "porridge(1)",
+          "candle(1)",
+          "stormy(1)",
+          "tower(1)",
+          "chest(1)",
+          "lamp(1)",
+          "flash(1)",
+          "lightning(1)",
+          "shore(1)",
+          "grabbed(1)",
+          "sailing(1)",
+          "ocean(1)",
+          "captain's(1)",
+          "cabin(1)",
+          "deck(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9527,
+        "wordCount": 1120,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "afterwards(3)",
+          "cabin(2)",
+          "aboard(2)",
+          "sword(2)",
+          "ashore(2)",
+          "quarrel(2)",
+          "schoolmaster(1)",
+          "bundle(1)",
+          "hopeful(1)",
+          "gloomy(1)",
+          "unfinished(1)",
+          "chimneys(1)",
+          "fetch(1)",
+          "candle(1)",
+          "lightning(1)",
+          "fainted(1)",
+          "captain(1)",
+          "seized(1)",
+          "belly(1)",
+          "captain's(1)",
+          "deck(1)",
+          "fog(1)",
+          "temper(1)",
+          "waist(1)",
+          "exile(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9412,
+        "wordCount": 1547,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "captain(3)",
+          "schoolmaster(2)",
+          "cabin(2)",
+          "brig(2)",
+          "scarcely(2)",
+          "deck(2)",
+          "bargain(2)",
+          "nephew(2)",
+          "sword(2)",
+          "quarrel(2)",
+          "parish(1)",
+          "handful(1)",
+          "cottage(1)",
+          "packet(1)",
+          "darken(1)",
+          "unfinished(1)",
+          "chimneys(1)",
+          "smokeless(1)",
+          "stooped(1)",
+          "unshaven(1)",
+          "supper(1)",
+          "porridge(1)",
+          "clumsily(1)",
+          "agreeable(1)",
+          "casually(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": " Queensferry,\" Ebenezer explained, \"and afterwards we can visit my lawyer, Rankeillor.\" At"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": " friends will help you,\" he said.  Soon afterwards, the ship struck a reef off the coast o"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "Afterwards",
+          "ctx": "s of the yearly income from the estate. Afterwards, on a green hill outside Edinburgh, the"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "oth said things they did not mean. Soon afterwards David fell seriously ill, and Alan, for"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 325,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 5.9,
+      "lowZipfRatio": 0.0145,
+      "lowZipfWords": [
+        "stormy",
+        "swam",
+        "uncle's",
+        "wrongly"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 517,
+      "sentLenMedian": 8,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0111,
+      "lowZipfWords": [
+        "chimneys",
+        "foggy",
+        "stormy",
+        "swam",
+        "wrongly"
+      ],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 748,
+      "sentLenMedian": 13,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0162,
+      "lowZipfWords": [
+        "bravely",
+        "captain's",
+        "foggy",
+        "forgave",
+        "porridge",
+        "quarrel",
+        "rowing",
+        "rudely",
+        "schoolmaster",
+        "stormy",
+        "swam"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1120,
+      "sentLenMedian": 15,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0115,
+      "lowZipfWords": [
+        "captain's",
+        "chimneys",
+        "fainted",
+        "gloomy",
+        "leaned",
+        "politely",
+        "quarrel",
+        "retreated",
+        "rowed",
+        "schoolmaster"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1547,
+      "sentLenMedian": 22.5,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0321,
+      "lowZipfWords": [
+        "agreeable",
+        "another's",
+        "bargained",
+        "brig",
+        "briskly",
+        "captain's",
+        "chimneys",
+        "clumsily",
+        "cornered",
+        "darken",
+        "dawned",
+        "dizzy",
+        "flung",
+        "foggy",
+        "gloomy",
+        "hammered",
+        "inconvenient",
+        "leaned",
+        "lonelier",
+        "marches",
+        "merciless",
+        "overheard",
+        "overjoyed",
+        "parted",
+        "pieced",
+        "porridge",
+        "quarrel",
+        "rags",
+        "rainwater",
+        "resentments",
+        "rowed",
+        "scarcely",
+        "schoolmaster",
+        "shellfish",
+        "sheltered",
+        "silences",
+        "smokeless",
+        "stooped",
+        "uncle's",
+        "unshaven",
+        "warmly"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.7785,
+      "wordCount": 325,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "uncle(5)",
+        "ship(5)",
+        "sailors(3)",
+        "dark(2)",
+        "tower(2)",
+        "stairs(2)",
+        "below(2)",
+        "onto(2)",
+        "alone(2)",
+        "hit(2)",
+        "gold(2)",
+        "lawyer(2)",
+        "village(1)",
+        "minister(1)",
+        "cold(1)",
+        "thin(1)",
+        "stormy(1)",
+        "key(1)",
+        "chest(1)",
+        "suddenly(1)",
+        "lightning(1)",
+        "sky(1)",
+        "carefully(1)",
+        "truth(1)",
+        "locked(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.853,
+      "wordCount": 517,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "uncle(4)",
+        "ship(4)",
+        "lawyer(3)",
+        "captain(3)",
+        "boat(3)",
+        "hid(3)",
+        "minister(2)",
+        "locked(2)",
+        "slowly(2)",
+        "onto(2)",
+        "sailors(2)",
+        "brave(2)",
+        "gold(2)",
+        "roof(1)",
+        "smoke(1)",
+        "chimneys(1)",
+        "shouted(1)",
+        "thin(1)",
+        "gray(1)",
+        "nervous(1)",
+        "supper(1)",
+        "stormy(1)",
+        "chest(1)",
+        "tower(1)",
+        "climbed(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9305,
+      "wordCount": 748,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "uncle(4)",
+        "stairs(2)",
+        "captain(2)",
+        "sailors(2)",
+        "silver(2)",
+        "button(2)",
+        "schoolmaster(1)",
+        "roof(1)",
+        "rudely(1)",
+        "bent(1)",
+        "porridge(1)",
+        "candle(1)",
+        "stormy(1)",
+        "tower(1)",
+        "chest(1)",
+        "lamp(1)",
+        "flash(1)",
+        "lightning(1)",
+        "shore(1)",
+        "grabbed(1)",
+        "sailing(1)",
+        "ocean(1)",
+        "captain's(1)",
+        "cabin(1)",
+        "deck(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9527,
+      "wordCount": 1120,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "afterwards(3)",
+        "cabin(2)",
+        "aboard(2)",
+        "sword(2)",
+        "ashore(2)",
+        "quarrel(2)",
+        "schoolmaster(1)",
+        "bundle(1)",
+        "hopeful(1)",
+        "gloomy(1)",
+        "unfinished(1)",
+        "chimneys(1)",
+        "fetch(1)",
+        "candle(1)",
+        "lightning(1)",
+        "fainted(1)",
+        "captain(1)",
+        "seized(1)",
+        "belly(1)",
+        "captain's(1)",
+        "deck(1)",
+        "fog(1)",
+        "temper(1)",
+        "waist(1)",
+        "exile(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9412,
+      "wordCount": 1547,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "captain(3)",
+        "schoolmaster(2)",
+        "cabin(2)",
+        "brig(2)",
+        "scarcely(2)",
+        "deck(2)",
+        "bargain(2)",
+        "nephew(2)",
+        "sword(2)",
+        "quarrel(2)",
+        "parish(1)",
+        "handful(1)",
+        "cottage(1)",
+        "packet(1)",
+        "darken(1)",
+        "unfinished(1)",
+        "chimneys(1)",
+        "smokeless(1)",
+        "stooped(1)",
+        "unshaven(1)",
+        "supper(1)",
+        "porridge(1)",
+        "clumsily(1)",
+        "agreeable(1)",
+        "casually(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 7,
+      "dead": 2,
+      "sword": 9
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

@@ -1,0 +1,637 @@
+{
+  "id": "st-0298",
+  "title": "Pride and Prejudice",
+  "ts": "2026-10-29T21:45:12",
+  "node": {
+    "id": "st-0298",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %88.2 | 305 kelime\n    havuz dışı: mr(1), daughters(1), clever(1), laugh(1), rich(3), husbands(1), proud(3), dance(2), danced(1), pretty(1), laughed(1), handsome(1), unkind(2), sad(1), spring(1), aunt's(1), marry(1), truth(2), sister(2), wrong(1), summer(1), trip(1), aunt(1), uncle(1), beautiful(1), married(2), happily(1)",
+        "level A2: A2: KALDI | kapsam %92.7 | 549 kelime\n    havuz dışı: clever(1), mary(1), rich(3), autumn(2), richer(1), proud(2), ball(1), twice(1), ill(1), muddy(1), dirty(1), bright(1), cousin(1), silly(1), disliked(1), winter(1), sad(1), spring(1), nearby(1), de(1), aunt(3), angrily(1), cruel(1), truth(1), blind(1), uncle(1), permission(1), wedding(1), pair(1), debts(1), angry(1), nephew(1), cried(1), feelings(1)",
+        "level B1: B1: KALDI | kapsam %94.4 | 816 kelime\n    havuz dışı: gentle(2), clever(1), honest(1), mary(1), autumn(2), cheerful(1), admiration(1), wet(1), muddy(1), intelligent(1), admire(1), afterward(1), cousin(2), foolish(1), endlessly(1), de(1), charming(1), dislike(1), aunt(3), grand(1), unwise(1), can't(1), feelings(2), beneath(1), anger(1), ruined(1), happiness(1), cruelly(1), selfish(1), pale(1), blind(1), uncle(1), housekeeper(1), polite(1), shy(1), permission(1), carelessly(1), fury(1), nephew(1), lane(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.882,
+        "wordCount": 305,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "rich(3)",
+          "proud(3)",
+          "dance(2)",
+          "unkind(2)",
+          "truth(2)",
+          "sister(2)",
+          "married(2)",
+          "mr(1)",
+          "daughters(1)",
+          "clever(1)",
+          "laugh(1)",
+          "husbands(1)",
+          "danced(1)",
+          "pretty(1)",
+          "laughed(1)",
+          "handsome(1)",
+          "sad(1)",
+          "spring(1)",
+          "aunt's(1)",
+          "marry(1)",
+          "wrong(1)",
+          "summer(1)",
+          "trip(1)",
+          "aunt(1)",
+          "uncle(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9271,
+        "wordCount": 549,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "rich(3)",
+          "aunt(3)",
+          "autumn(2)",
+          "proud(2)",
+          "clever(1)",
+          "mary(1)",
+          "richer(1)",
+          "ball(1)",
+          "twice(1)",
+          "ill(1)",
+          "muddy(1)",
+          "dirty(1)",
+          "bright(1)",
+          "cousin(1)",
+          "silly(1)",
+          "disliked(1)",
+          "winter(1)",
+          "sad(1)",
+          "spring(1)",
+          "nearby(1)",
+          "de(1)",
+          "angrily(1)",
+          "cruel(1)",
+          "truth(1)",
+          "blind(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9436,
+        "wordCount": 816,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "aunt(3)",
+          "gentle(2)",
+          "autumn(2)",
+          "cousin(2)",
+          "feelings(2)",
+          "clever(1)",
+          "honest(1)",
+          "mary(1)",
+          "cheerful(1)",
+          "admiration(1)",
+          "wet(1)",
+          "muddy(1)",
+          "intelligent(1)",
+          "admire(1)",
+          "afterward(1)",
+          "foolish(1)",
+          "endlessly(1)",
+          "de(1)",
+          "charming(1)",
+          "dislike(1)",
+          "grand(1)",
+          "unwise(1)",
+          "can't(1)",
+          "beneath(1)",
+          "anger(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9668,
+        "wordCount": 1114,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "feelings(3)",
+          "afterward(2)",
+          "eldest(1)",
+          "witty(1)",
+          "mary(1)",
+          "careless(1)",
+          "spoiled(1)",
+          "mud(1)",
+          "mocked(1)",
+          "brightened(1)",
+          "inherit(1)",
+          "clergyman(1)",
+          "pompous(1)",
+          "foolish(1)",
+          "noble(1)",
+          "patron(1)",
+          "de(1)",
+          "handsome(1)",
+          "jealousy(1)",
+          "dislike(1)",
+          "hardened(1)",
+          "contempt(1)",
+          "bravely(1)",
+          "colonel(1)",
+          "unwise(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9419,
+        "wordCount": 1531,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "afterward(3)",
+          "de(2)",
+          "refusal(2)",
+          "sensible(2)",
+          "unremarkable(1)",
+          "profitably(1)",
+          "clever(1)",
+          "amusement(1)",
+          "mary(1)",
+          "bachelor(1)",
+          "heaven(1)",
+          "magnificent(1)",
+          "superiority(1)",
+          "passable(1)",
+          "handsome(1)",
+          "tempt(1)",
+          "absurd(1)",
+          "horseback(1)",
+          "stockings(1)",
+          "glowing(1)",
+          "mocked(1)",
+          "uneasy(1)",
+          "inherit(1)",
+          "clergyman(1)",
+          "noble(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ADVERB_WORD_ORDER",
+          "cat": "STYLE",
+          "msg": "The adverb ‘often’ is usually put before the verb ‘met’.",
+          "frag": "met often",
+          "ctx": "one who would listen.  The two families met often over the following weeks, and on one oc"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 305,
+      "sentLenMedian": 6,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0121,
+      "lowZipfWords": [
+        "aunt's",
+        "unkind"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 549,
+      "sentLenMedian": 8.0,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0044,
+      "lowZipfWords": [
+        "angrily",
+        "disliked"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 816,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.03,
+      "lowZipfRatio": 0.01,
+      "lowZipfWords": [
+        "carelessly",
+        "coldly",
+        "cruelly",
+        "endlessly",
+        "housekeeper",
+        "kindest",
+        "unwise"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1114,
+      "sentLenMedian": 14.0,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.013,
+      "lowZipfWords": [
+        "bravely",
+        "brightened",
+        "carelessly",
+        "clergyman",
+        "glanced",
+        "housekeeper",
+        "kindest",
+        "mocked",
+        "pompous",
+        "proudest",
+        "shamefully",
+        "unwise",
+        "warmly"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1531,
+      "sentLenMedian": 23,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0343,
+      "lowZipfWords": [
+        "agitation",
+        "agreeable",
+        "astonished",
+        "attentions",
+        "boyhood",
+        "charmed",
+        "chiefly",
+        "clergyman",
+        "confided",
+        "congratulated",
+        "disbelief",
+        "disliked",
+        "domineering",
+        "dwelt",
+        "excused",
+        "frankness",
+        "friendliness",
+        "gravely",
+        "horseback",
+        "housekeeper",
+        "hurried",
+        "imprudent",
+        "indignantly",
+        "inferiority",
+        "ladyship",
+        "loveliest",
+        "mocked",
+        "pacing",
+        "passable",
+        "passionately",
+        "persuading",
+        "pleasantly",
+        "preferring",
+        "prejudiced",
+        "profitably",
+        "puzzled",
+        "rescuing",
+        "scheming",
+        "sharpest",
+        "steward",
+        "stockings",
+        "tempt",
+        "unashamed",
+        "uneasy",
+        "unforgivable",
+        "unremarkable",
+        "untouched"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.882,
+      "wordCount": 305,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "rich(3)",
+        "proud(3)",
+        "dance(2)",
+        "unkind(2)",
+        "truth(2)",
+        "sister(2)",
+        "married(2)",
+        "mr(1)",
+        "daughters(1)",
+        "clever(1)",
+        "laugh(1)",
+        "husbands(1)",
+        "danced(1)",
+        "pretty(1)",
+        "laughed(1)",
+        "handsome(1)",
+        "sad(1)",
+        "spring(1)",
+        "aunt's(1)",
+        "marry(1)",
+        "wrong(1)",
+        "summer(1)",
+        "trip(1)",
+        "aunt(1)",
+        "uncle(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9271,
+      "wordCount": 549,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "rich(3)",
+        "aunt(3)",
+        "autumn(2)",
+        "proud(2)",
+        "clever(1)",
+        "mary(1)",
+        "richer(1)",
+        "ball(1)",
+        "twice(1)",
+        "ill(1)",
+        "muddy(1)",
+        "dirty(1)",
+        "bright(1)",
+        "cousin(1)",
+        "silly(1)",
+        "disliked(1)",
+        "winter(1)",
+        "sad(1)",
+        "spring(1)",
+        "nearby(1)",
+        "de(1)",
+        "angrily(1)",
+        "cruel(1)",
+        "truth(1)",
+        "blind(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9436,
+      "wordCount": 816,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "aunt(3)",
+        "gentle(2)",
+        "autumn(2)",
+        "cousin(2)",
+        "feelings(2)",
+        "clever(1)",
+        "honest(1)",
+        "mary(1)",
+        "cheerful(1)",
+        "admiration(1)",
+        "wet(1)",
+        "muddy(1)",
+        "intelligent(1)",
+        "admire(1)",
+        "afterward(1)",
+        "foolish(1)",
+        "endlessly(1)",
+        "de(1)",
+        "charming(1)",
+        "dislike(1)",
+        "grand(1)",
+        "unwise(1)",
+        "can't(1)",
+        "beneath(1)",
+        "anger(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9668,
+      "wordCount": 1114,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "feelings(3)",
+        "afterward(2)",
+        "eldest(1)",
+        "witty(1)",
+        "mary(1)",
+        "careless(1)",
+        "spoiled(1)",
+        "mud(1)",
+        "mocked(1)",
+        "brightened(1)",
+        "inherit(1)",
+        "clergyman(1)",
+        "pompous(1)",
+        "foolish(1)",
+        "noble(1)",
+        "patron(1)",
+        "de(1)",
+        "handsome(1)",
+        "jealousy(1)",
+        "dislike(1)",
+        "hardened(1)",
+        "contempt(1)",
+        "bravely(1)",
+        "colonel(1)",
+        "unwise(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9419,
+      "wordCount": 1531,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "afterward(3)",
+        "de(2)",
+        "refusal(2)",
+        "sensible(2)",
+        "unremarkable(1)",
+        "profitably(1)",
+        "clever(1)",
+        "amusement(1)",
+        "mary(1)",
+        "bachelor(1)",
+        "heaven(1)",
+        "magnificent(1)",
+        "superiority(1)",
+        "passable(1)",
+        "handsome(1)",
+        "tempt(1)",
+        "absurd(1)",
+        "horseback(1)",
+        "stockings(1)",
+        "glowing(1)",
+        "mocked(1)",
+        "uneasy(1)",
+        "inherit(1)",
+        "clergyman(1)",
+        "noble(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 1,
+      "death": 2
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0014",
+        "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0280",
+        "title": "The Little Mermaid",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

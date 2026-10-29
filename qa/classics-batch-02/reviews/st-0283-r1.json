@@ -1,0 +1,77 @@
+{
+  "id": "st-0283",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "The Cardinal asked the king for a ball. She had to wear her twelve pins there.",
+          "problem": "'She' has no clear antecedent. The last female named is Milady, at the end of the previous paragraph, so an A1 reader will think Milady had to wear the pins. Also, 'asked the king for a ball' sounds as if the Cardinal wanted a ball for himself, when he actually got the king to give one.",
+          "fix": "The Cardinal asked the king to give a ball. The queen had to wear her twelve pins there."
+        }
+      ],
+      "notes": [
+        "'She gave them to a friend in London.' In the novel the queen gives the studs to Buckingham while he is in Paris, and he then takes them home to London. This condensing is acceptable, but 'She gave them to the duke of Buckingham. He went home to London.' would be more accurate.",
+        "'His men made two new pins fast.' Consider 'His jeweler made two new pins very quickly.' This matches the other levels and reads more naturally."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'\"First you must learn,\" said Treville.' This is a little stilted. Consider '\"You must learn first,\" said Treville.'",
+        "'He sent Milady, a clever lady, to London.' In the novel Milady is already in London and the Cardinal sends her orders, as B1 to C1 say. Consider 'He sent a message to Milady, a clever lady in London.' This keeps the levels consistent.",
+        "'The musketeers were only three, and the guards were five.' This is acceptable, but 'There were only three musketeers and five guards.' is more natural."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "With fresh horses along the road, he reached Paris on the day of the ball.",
+          "problem": "The paragraph opens with 'he', but the subject of the previous sentence is the duke ('The duke put all twelve into the box and gave it to his young visitor.'). The reader cannot tell who reached Paris. The fresh horses also appear from nowhere, because B1 never says the duke arranged them.",
+          "fix": "The duke gave him fresh horses for the road, and d'Artagnan reached Paris on the day of the ball."
+        }
+      ],
+      "notes": [
+        "'Then he remembered Milady, who was standing close to him at his last ball.' The tense is off. Use 'who had stood close to him' or 'who stood very close to him at his last ball'.",
+        "'Porthos stayed behind to answer him.' This is slightly unidiomatic. Consider 'Porthos stayed behind to deal with him.' The phrase 'picked an argument' also works, but 'picked a quarrel' is the usual collocation.",
+        "'A white hand came out from behind the curtain...' B1 never says whose hand it is. Consider adding: 'It was the queen's hand.'"
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Later he handed the king a small box and whispered, \"Ask the queen where she lost these two.\"",
+          "problem": "The Cardinal is not mentioned anywhere in this paragraph. The only male antecedent is the king, so the sentence reads as 'the king handed the king a box'. The reader cannot tell who is speaking.",
+          "fix": "Later the Cardinal handed the king a small box and whispered, \"Ask the queen where she lost these two.\""
+        },
+        {
+          "criterion": "logic error",
+          "quote": "Treville received him kindly, but he explained that nobody could join the musketeers without first proving himself. Then he hurried out of the room.",
+          "problem": "Treville is the subject of both preceding clauses, so 'he hurried out' reads as Treville leaving. As a result, the collisions on the stairs seem to be Treville's.",
+          "fix": "Then the young man hurried out of the room."
+        }
+      ],
+      "notes": [
+        "'That same night, d'Artagnan took a letter from the queen to the duke and some money for the journey.' 'Took' can mean either received or carried. Consider 'received a letter from the queen for the duke, and some money for the journey'."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Leaving in a great hurry, the young man made three mistakes in a single morning.' The reason for the hurry (in the novel, he spots the stranger from Meung) is dropped. That is acceptable, but a short clause such as 'having glimpsed from the window a man he had sworn to find' would motivate it.",
+        "'the young man, not yet a day in Paris' is slightly loose, because he had arrived the day before. Consider 'scarcely a day in Paris'.",
+        "'counted the stones on her shoulder' is fine, but 'counted the pins' keeps the vocabulary consistent with the rest of the text."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The story is faithful to Dumas's diamond-studs episode: the three duels, the fight with the Cardinal's guards, Milady's theft, the friends dropping out one by one on the road, the duel at Calais, the new studs, the ball and the ring through the curtain. All levels are suitable for ages 4+. It fails on pronoun errors that leave the reader unsure who is acting: the stray 'She' in A1, 'he reached Paris' after the duke in B1, and two in B2, including 'he handed the king' with no Cardinal in the paragraph. A2 and C1 pass."
+}

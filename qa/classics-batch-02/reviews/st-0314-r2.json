@@ -1,0 +1,66 @@
+{
+  "id": "st-0314",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Suddenly the knot came open in her hands!\" - 'came undone' or 'came loose' is the more natural collocation for a knot; acceptable at A1 but worth smoothing.",
+        "Grammar stays within present/past simple (plus modals and imperatives); quiz keys are all supported by the text."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"I stay with you always, even in hard times,\" said Hope. - slightly stilted word order; \"I always stay with you, even in hard times\" reads more naturally while staying in present simple.",
+        "\"the knot came open!\" - same collocation note as A1 ('came undone')."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "They never fought, and they never cried for long.",
+          "problem": "'Never cried for long' implies the children did cry before the box was opened, which contradicts the later line \"Soon the children outside were quarrelling and crying for the first time.\" It also departs from the original, where the children of that age never quarrelled and never cried at all.",
+          "fix": "They never fought, and they never cried."
+        }
+      ],
+      "notes": [
+        "\"But Pandora always stayed behind with the box.\" followed by \"The next morning...\" - 'One morning' would anchor the time better after a habitual statement."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "The children of those days spent their time playing and singing, and any argument was forgotten within a minute.",
+          "problem": "This says arguments did happen before the Troubles, but later the text says the children were \"quarrelling and crying for the first time in their lives.\" The two statements contradict each other, and the original states that the children never quarrelled at all.",
+          "fix": "The children of those days spent their time playing and singing, and not one of them had ever quarrelled or cried."
+        }
+      ],
+      "notes": [
+        "\"because fruit grew ready on every tree\" - 'grew ready' is an odd collocation; \"because ripe fruit hung on every tree\" is more natural."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "If a quarrel ever began among them, it was forgotten before anyone could remember what it had been about.",
+          "problem": "This implies quarrels did occasionally occur in the golden age, which contradicts the later \"the children playing outside were squabbling and weeping for the first time in their lives\" and the original, where children never quarrelled or sulked.",
+          "fix": "Not one of them had ever quarrelled, and not one had ever crept off into a corner to sulk."
+        }
+      ],
+      "notes": [
+        "The suggested fix also sets up the later image of Epimetheus sulking in a corner, which echoes the original nicely."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, gentle and age-appropriate retelling of Hawthorne's 'The Paradise of Children', with level-appropriate grammar and correctly keyed quizzes throughout. A1 and A2 pass. B1, B2 and C1 each open by implying that children cried or quarrelled in the golden age, which contradicts their own later statement that the children quarrelled and cried 'for the first time'. Each needs a one-sentence fix."
+}

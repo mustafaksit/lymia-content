@@ -1,0 +1,45 @@
+{
+  "id": "st-0308",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Pollyanna made Mrs. Snow's hair pretty.\" is understandable but a little flat; \"Pollyanna brushed Mrs. Snow's hair.\" would sound more natural and stays at A1.",
+        "\"Jimmy ran to Aunt Polly with the news.\" does not say how Jimmy knew. That is fine at A1, but \"Jimmy heard this and ran to Aunt Polly.\" would be clearer."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"He fell and hurt his leg, so he could not walk.\" comes after he is already lying on the ground. The past simple is allowed at this level and reads acceptably."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Jimmy Bean first appears at B1 in \"Mr. Pendleton came too, and he was taking Jimmy Bean into his home. Jimmy was a lonely boy, and Pollyanna always wanted a family for him.\" The word 'always' refers to a wish the reader has never seen, and the past continuous is slightly odd. Possible fix: \"Mr. Pendleton came too. He was going to take Jimmy Bean, a lonely boy without a family, into his home, just as Pollyanna wanted.\""
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Mrs. Snow's name repeats in back-to-back sentences: \"Mrs. Snow was a sick woman who had spent years in bed in a dark room. Mrs. Snow always wanted...\". The second could be \"She always wanted...\"."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Instead, she begged him to give his lonely house to Jimmy Bean\" can briefly read as giving away the property. \"to open his lonely house to Jimmy Bean\" would be clearer.",
+        "\"a man close to giving up had found the courage to go on\" is vague enough to be suitable for 4+. Keep it vague."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels follow Porter's novel closely and in the right order. They cover the crutches and the glad game, the attic room, the bread-and-milk punishment, Mrs. Snow, Mr. Pendleton and his love for Pollyanna's mother, the car accident and the overheard verdict, the townspeople's visits, Jimmy's adoption, Jimmy bringing Dr. Chilton, the marriage, and the walking letter. Grammar fits each level, every quiz has one defensible keyed answer, and the content suits a 4+ rating; only minor wording notes remain."
+}

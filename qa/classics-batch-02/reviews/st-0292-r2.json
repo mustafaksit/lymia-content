@@ -1,0 +1,54 @@
+{
+  "id": "st-0292",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Stapleton ran away into the wet moor.\" reads slightly odd; \"ran away into the wet, dangerous ground\" would echo Stapleton's earlier warning more clearly.",
+        "Grammar stays within present simple and past simple; the hound's death is stated, not shown, which is fine for 4+."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Stapleton lived at Merripit House with his sister.\" The narrator states this as fact and A2 never reveals that she is really his wife. It is an acceptable simplification, but \"with a woman he called his sister\" would be more faithful."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"In the morning, the detectives followed his secret path and found Sir Henry's old boot. Then his footprints stopped\": the nearest \"his\" points to Sir Henry. Suggest \"Then Stapleton's footprints stopped, and nobody ever saw him again.\"",
+        "\"The stolen boot gave the dog Sir Henry's smell.\" Two boots were taken; \"The stolen old boot\" would be more precise.",
+        "Quiz 2 calls her \"Stapleton's sister\" after the text reveals she is his wife. It is defensible because that is how she appeared to Watson, but \"the woman at Merripit House\" avoids the problem."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Sir Henry felt sorry for her and agreed to say nothing.\" In the novel he promises this the next day, after the failed chase. The condensation is acceptable."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "fidelity to the original work / logic error",
+          "quote": "Before that confession, however, Watson and Sir Henry had gone out to catch the prisoner, and on the way home Watson had seen something which no confession could explain.",
+          "problem": "This reverses the novel's order. In the original, Mrs Barrymore's confession reveals that the light belongs to her convict brother, and only then do Sir Henry and Watson go out to catch him. On that chase they see the figure on the tor. The text also stops making sense: they could not set out to catch 'the prisoner' signaling to Barrymore before the confession told them who he was. It also contradicts B1 and B2, where the figure is seen after the confession.",
+          "fix": "Reorder the passage: \"...Barrymore's wife finally confessed that the man on the moor was her younger brother, an escaped prisoner. ... That same night, Watson and Sir Henry went out to catch the man, and on the way home Watson saw something which no confession could explain. A tall, thin figure ...\" Then move \"Sir Henry, a kind-hearted man, agreed to keep their secret\" to after the chase (the next day), or keep it but drop \"Before that confession, however\"."
+        }
+      ],
+      "notes": [
+        "\"Pressed by Sir Henry, Barrymore's wife finally confessed\": in the novel Sir Henry presses the butler, and his wife steps in to clear him. This is a minor point.",
+        "Otherwise the C1 version is literary and close to the novel: the portrait with the hat and wig covered, the boot thrown aside, the opera ending."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A1 through B2 are faithful, natural, suitable for their levels and safe for 4+, with only minor notes. C1 fails on one concrete error. It places the chase after the escaped prisoner before Mrs Barrymore's confession, which reverses the novel's order, makes no sense inside the story and contradicts the B1/B2 versions. Reordering that passage should be enough to pass."
+}

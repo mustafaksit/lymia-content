@@ -1,0 +1,58 @@
+{
+  "id": "st-0303",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Fagin lived with many boys. One of the boys was Charley. He gave Oliver food and a bed.",
+          "problem": "The nearest antecedent of 'He' is Charley, so an A1 reader will understand that Charley gave Oliver food and a bed. In the original, and in every other level, Fagin does. This also gives a misleading picture of Fagin's role.",
+          "fix": "Fagin lived with many boys. One of the boys was Charley. Fagin gave Oliver food and a bed."
+        },
+        {
+          "criterion": "meaning drift",
+          "quote": "An old man stood near a book shop. The Dodger took something from his pocket.",
+          "problem": "'his pocket' can be read as the Dodger's own pocket, and then the next sentence ('The boys were pickpockets!') does not follow. The theft is the key event of the scene, so it must be clear.",
+          "fix": "An old man stood near a book shop. The Dodger took a handkerchief from the old man's pocket."
+        }
+      ],
+      "notes": [
+        "Mr. Sowerberry appears without any introduction ('Mr. Sowerberry took Oliver to his shop.'). A short bridge would help, e.g. 'Then a man, Mr. Sowerberry, took Oliver to his shop. He made coffins.'",
+        "'\"We need more food,\" said the boys.' A whole group speaking one line in chorus is slightly stiff. 'The boys talked. \"We need more food.\"' would read more naturally.",
+        "Quiz Q1: the distractor 'In a big house' is close to the text's 'a big, cold workhouse'. It is still clearly wrong, but 'In a school' would be a cleaner distractor."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Any man could have Oliver and five pounds too.' is understandable but a little odd. Consider: 'It said: \"Take this boy and get five pounds.\"'",
+        "Charley Bates is named for the first time on the walk ('with the Dodger and Charley Bates'). Mentioning him at Fagin's house would make this smoother.",
+        "The text never says outright that the judge let Oliver go. It is implied by the next paragraph, but one sentence ('The judge let Oliver go.') would close the scene."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": []
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Oliver was punished severely' is stated, not depicted, so it is acceptable for 4+."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'sleeping under hedges and begging at cottage doors, though a few kind strangers gave him more than they could spare' – the 'though' contrast is a little loose. Consider 'where most turned him away, though a few kind strangers gave him more than they could spare'."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "B1, B2 and C1 are faithful to Dickens, natural and suitable for their levels, and A2 passes with only minor notes. A1 fails on two pronoun problems a beginner would trip on: 'He gave Oliver food and a bed' points to Charley, not Fagin, and 'took something from his pocket' does not make clear whose pocket was picked. Both are one-line fixes."
+}

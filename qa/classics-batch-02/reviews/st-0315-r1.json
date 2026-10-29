@@ -1,0 +1,63 @@
+{
+  "id": "st-0315",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "The thread ran out behind him.",
+          "problem": "'Run out' means 'be used up / finished'. The sentence literally says the thread was used up, which would leave Theseus without a way back. That contradicts the next sentences, where he follows the thread out. Learners who look up 'run out' will find exactly this meaning.",
+          "fix": "The thread rolled out behind him."
+        }
+      ],
+      "notes": [
+        "'The happy ship sailed home.' Transferring 'happy' to the ship is acceptable but slightly odd. 'The ship sailed happily home' or 'Everyone on the ship was happy' is plainer.",
+        "Ariadne disappears after the Labyrinth (same in A2). This is acceptable condensing for A1."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Theseus already has his father's sword ('He put the old sword in front of the king'), and then Ariadne gives him 'a sword and a big ball of thread'. A short reason such as 'The prisoners had no swords' would stop the reader wondering why.",
+        "'Theseus came home to a quiet city' is a mild way to say the city was in mourning. 'a sad city' is clearer."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Before morning, Theseus, Ariadne and the young people ran to the ship and sailed away.",
+          "problem": "The paragraph before says 'In the morning, Theseus walked into the Labyrinth.' Escaping 'before morning' straight after a morning entry is a timeline contradiction the reader will notice.",
+          "fix": "That evening, Theseus, Ariadne and the young people ran to the ship and sailed away. (Alternatively, change 'In the morning, Theseus walked into the Labyrinth.' to 'Later that night, Theseus walked into the Labyrinth.')"
+        }
+      ],
+      "notes": [
+        "'Lift this stone, and you will find out who your father is' works like a conditional (imperative + and + will). It is common and easy to read, but the strict B1 rule says no conditionals. Possible fix: 'Lift this stone. Then you will find out who your father is.'",
+        "'Since then, every year, Athens sent him...' 'Since then' normally takes a perfect tense. 'After that, every year Athens sent him...' is more natural.",
+        "Aethra sending him back to try again a year later is an embellishment of the myth (in Plutarch he lifts it the first time he is brought). It is harmless and the same at every level."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The timeline is consistent here (night meeting, starlight exit, 'Before dawn' escape). This makes a good model for fixing B1."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'untouched by rust': bronze and gold do not rust. 'untarnished' or 'bright and untouched by time' is more accurate for a literary level.",
+        "He steps out 'into the cool morning air' after entering at dawn, and they leave 'before the city woke'. This is plausible as very early morning, but it is slightly tight. 'into the grey light of early morning' would smooth it.",
+        "Yearly tribute (rather than Plutarch's nine-year cycle), Aegeus dying of grief rather than leaping into the sea, and Ariadne simply 'remaining' on Naxos are all acceptable softenings for 4+."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is faithful to the classical myth, suitable for 4+, and well graded, with strong literary B2/C1 prose. Two concrete problems cause failures. At A1, 'The thread ran out behind him' means the thread was used up. At B1, the escape happens 'Before morning' right after Theseus entered the Labyrinth 'In the morning'. Both need one-line fixes."
+}

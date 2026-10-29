@@ -1,0 +1,67 @@
+{
+  "id": "st-0289",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "At last, they came to Colchis. He had two bulls with fiery mouths.",
+          "problem": "'He' has no antecedent. King Aeetes has not been introduced at A1, so the reader cannot tell who owns the bulls. At this point 'He' most naturally reads as Jason. The name Aeetes first appears later, in 'But King Aeetes still said no.'",
+          "fix": "At last, they came to Colchis. The king there was Aeetes. He had two bulls with fiery mouths."
+        }
+      ],
+      "notes": [
+        "The A1 text leaves out the goddess at the river, so carrying the old woman has no payoff. That is acceptable condensing, but one short line would help: 'The old woman was a goddess. She was Jason's friend now.'",
+        "'The fleece came from a golden sheep' is fine for A1 (the original animal is a ram)."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "That night, Medea led Jason to a dark wood. Medea sang softly and gave it a magic drink.",
+          "problem": "'it' refers back to 'a dark wood'. The dragon is not mentioned in this paragraph until the next sentence, so the reader is told that Medea gave the wood a drink.",
+          "fix": "That night, Medea led Jason to the tree in a dark wood. The dragon was there. Medea sang softly and gave it a magic drink."
+        }
+      ],
+      "notes": [
+        "'Then throw a stone among the men from the ground' is a bit cryptic before the soldiers appear. Consider: 'Men will grow from the ground. Throw a stone among them.'",
+        "'A dragon guarded it day and night, and it never slept' uses 'it' for two different things, the fleece and then the dragon. Consider: '...and the dragon never slept.'"
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Years before, a voice from the gods warned him about a man with one sandal' is fine at B1, which avoids the past perfect. 'An oracle' is not needed at this level."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "He said that the Golden Fleece belonged to their family by right.",
+          "problem": "The speaker is unclear. The sentence comes straight after Jason's lines ('I have come to claim my father's throne.'), so 'He' reads as Jason. Pelias is not named as the speaker anywhere in his reply. The next quote, 'I am old, but you are young and strong', then seems to come from Jason as well, which makes no sense.",
+          "fix": "Pelias hid his fear behind a friendly smile. He said that the Golden Fleece belonged to their family by right."
+        }
+      ],
+      "notes": [
+        "The story is faithful to Apollonius: Heracles is lost while searching for his young friend (Hylas), Phineus is helped, and the rocks clip the stern ornament."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "C1 says 'The spring rains had swollen a river', while B1 and B2 say 'winter rains'. This is a minor inconsistency, so consider 'winter rains' throughout.",
+        "The prose is genuinely literary rather than padded. Pelias's speech is clearly attributed here ('The Golden Fleece, he explained'), unlike in B2."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, child-safe retelling that follows Apollonius closely and keeps every quiz correctly keyed. Three levels fail on unclear pronouns or speakers. A1 says 'He had two bulls' before Aeetes is introduced, A2 gives the drink to 'it' where 'it' is the wood, and B2's 'He said that the Golden Fleece...' makes Pelias's reply look like Jason's. B1 and C1 pass."
+}

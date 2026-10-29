@@ -1,0 +1,66 @@
+{
+  "id": "st-0291",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"One winter night, a swallow came from Africa. 'The monkeys are very sick!' cried Chee-Chee.\" The swallow arrives but Chee-Chee speaks. It works, but an A1 reader may pause. Optional: \"A swallow brought news to Chee-Chee. 'The monkeys are very sick!' he cried.\"",
+        "\"Polynesia and Chee-Chee stayed in Africa. People paid to see the Pushmi-pullyu.\" The scene jumps from Africa to England without a signal. Optional: \"Back home, people paid to see the Pushmi-pullyu.\"",
+        "The crocodile is left out entirely at A1. That is fine as condensing."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "The doctor gave medicine to the well monkeys, so they stayed well.",
+          "problem": "'Well' meaning healthy is used only after a verb ('is well'), not before a noun. 'The well monkeys' sounds wrong to a native speaker, and A2 learners, who know 'well' mainly as an adverb, are likely to misread it.",
+          "fix": "The doctor gave medicine to the healthy monkeys, so they did not get sick."
+        }
+      ],
+      "notes": [
+        "\"At home, people paid to see the Pushmi-pullyu. Soon the doctor was rich. He went back to Puddleby...\" 'At home' followed by 'went back to Puddleby' reads a little oddly. Consider 'Back in England, people paid...'.",
+        "\"Dab-Dab tied a rope to a tree on land.\" It is not said how she got there. Optional: 'Dab-Dab flew to land with a rope and tied it to a tree.'"
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"At home, the doctor took the Pushmi-pullyu to country fairs... and returned to his little house in Puddleby.\" Same 'at home' / 'returned home' wobble as A2. Consider 'Back in England'.",
+        "\"He needs money for a new ship for the sailor\": B1 never says the first ship was destroyed, only that it 'hit a rock'. Readers will infer it, but adding 'and broke' to the wreck sentence would make it explicit.",
+        "\"Birds carried his name to other countries\" is acceptable but slightly flat; 'Birds carried the news of him to other countries' is more idiomatic.",
+        "No conditionals or passives found. Grammar fits B1."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Thousands of swallows came to guide the ship home.",
+          "problem": "The ship they came on was wrecked, and the text has just said the doctor 'owed the sailor a new ship'. 'The ship' therefore has no referent, and the reader is left wondering what ship they are sailing home in.",
+          "fix": "Once they had found another ship, thousands of swallows came to guide them home."
+        }
+      ],
+      "notes": [
+        "'A parrot who was nearly two hundred years old' is a fair rounding of the original.",
+        "'The first man ever to see the Bridge of Apes' sensibly avoids the original's racial wording. Good."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Quiz Q3, \"Why was the doctor able to give up showing the Pushmi-pullyu?\" The text never says he gave up showing it; it only says he 'returned to his little house a rich man'. This is defensible but indirect. Consider 'How did the doctor become rich again?' with the same keyed answer, and swap the weak distractor 'The sailor returned his ship.'",
+        "'Her fears came true' links Sarah's complaint about untidiness to patients leaving, which is a slight stretch. Acceptable.",
+        "Prose is genuinely literary (inversion, participle openers, irony with the lion 'merely passing') without padding. The closing exchange follows the original well."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, child-safe condensation of Lofting's novel. It omits the Jolliginki/Bumpo and pirate episodes, which is acceptable softening and condensing, and it has no film elements. Two levels fail on concrete points: A2 uses the non-idiomatic 'the well monkeys', and B2 refers to 'the ship' going home after the original ship was wrecked and needs replacing. A1, B1 and C1 pass, with only minor notes."
+}

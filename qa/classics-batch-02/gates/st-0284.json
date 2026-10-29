@@ -1,0 +1,625 @@
+{
+  "id": "st-0284",
+  "title": "The Count of Monte Cristo: The Escape",
+  "ts": "2026-10-29T21:44:52",
+  "node": {
+    "id": "st-0284",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %84.5 | 328 kelime\n    havuz dışı: sailor(1), ship(3), captain(2), wedding(2), danglars(1), fernand(1), soldiers(1), afraid(1), burned(1), prison(2), island(2), alone(1), dark(1), sad(1), stone(1), wall(1), hole(1), prisoner(1), dug(1), tunnel(1), mistake(1), taught(1), ill(1), softly(1), secret(1), son(1), treasure(2), quietly(1), guards(2), sack(5), knife(2), threw(1), sea(1), swam(1), box(1), gold(1), jewels(1), heart(1)",
+        "level A2: A2: KALDI | kapsam %87.6 | 516 kelime\n    havuz dışı: spring(1), ship(3), captain(4), mr(1), wedding(2), danglars(2), secret(2), king's(1), lawyer(2), dangerous(1), enemy(1), king(1), soldiers(1), cried(1), honestly(1), pocket(1), dying(1), island(4), afraid(1), burned(1), prison(2), rocky(1), soft(1), scratching(1), stone(2), priest(3), tunnel(2), truth(1), hid(1), ill(1), treasure(1), quietly(1), guards(2), sack(4), brave(1), knife(1), swam(1), sailors(1), sailed(1), cave(1), gold(1), jewels(1), softly(1)",
+        "level B1: B1: KALDI | kapsam %94.4 | 818 kelime\n    havuz dışı: sailed(1), port(2), deck(1), sailor(3), captain(3), voyage(2), hurried(1), captain's(1), dying(1), emperor(3), throne(1), loud(1), ambitious(1), honestly(1), rocky(1), scratching(1), digging(1), dig(1), priest(2), scholar(1), tunnel(2), prisoners(1), treasure(3), sack(4), brave(1), knife(1), sailors(1), cave(1), jewels(1), shone(1), whispered(1)",
+        "level B2: B2: KALDI | kapsam %93.3 | 1126 kelime\n    havuz dışı: merchant(1), captain(1), fever(1), mr(1), sailor(4), captain's(2), danglars(4), jealousy(1), fisherman(1), dying(1), exiled(1), emperor(3), unsigned(1), joyful(1), vain(1), ambitious(1), engagement(1), loyal(1), candle(1), flame(1), fortress(2), grim(1), shrugged(1), sadness(1), lying(1), awake(1), faint(2), scraping(1), saucepan(1), priest(3), tunnel(2), ink(1), soot(1), chemistry(1), loyalty(1), cardinal's(1), treasure(2), third(1), sewed(2), sack(5), crawled(1), cliff(1), bare(1), rocky(1), dawn(1), wrecked(1), companions(1), lonely(1), goats(1), staircase(1), cave(1), bound(1), diamonds(1), pearls(1), glittered(1), heaven(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8445,
+        "wordCount": 328,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sack(5)",
+          "ship(3)",
+          "captain(2)",
+          "wedding(2)",
+          "prison(2)",
+          "island(2)",
+          "treasure(2)",
+          "guards(2)",
+          "knife(2)",
+          "sailor(1)",
+          "danglars(1)",
+          "fernand(1)",
+          "soldiers(1)",
+          "afraid(1)",
+          "burned(1)",
+          "alone(1)",
+          "dark(1)",
+          "sad(1)",
+          "stone(1)",
+          "wall(1)",
+          "hole(1)",
+          "prisoner(1)",
+          "dug(1)",
+          "tunnel(1)",
+          "mistake(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.876,
+        "wordCount": 516,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "captain(4)",
+          "island(4)",
+          "sack(4)",
+          "ship(3)",
+          "priest(3)",
+          "wedding(2)",
+          "danglars(2)",
+          "secret(2)",
+          "lawyer(2)",
+          "prison(2)",
+          "stone(2)",
+          "tunnel(2)",
+          "guards(2)",
+          "spring(1)",
+          "mr(1)",
+          "king's(1)",
+          "dangerous(1)",
+          "enemy(1)",
+          "king(1)",
+          "soldiers(1)",
+          "cried(1)",
+          "honestly(1)",
+          "pocket(1)",
+          "dying(1)",
+          "afraid(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9438,
+        "wordCount": 818,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sack(4)",
+          "sailor(3)",
+          "captain(3)",
+          "emperor(3)",
+          "treasure(3)",
+          "port(2)",
+          "voyage(2)",
+          "priest(2)",
+          "tunnel(2)",
+          "sailed(1)",
+          "deck(1)",
+          "hurried(1)",
+          "captain's(1)",
+          "dying(1)",
+          "throne(1)",
+          "loud(1)",
+          "ambitious(1)",
+          "honestly(1)",
+          "rocky(1)",
+          "scratching(1)",
+          "digging(1)",
+          "dig(1)",
+          "scholar(1)",
+          "prisoners(1)",
+          "brave(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9325,
+        "wordCount": 1126,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sack(5)",
+          "sailor(4)",
+          "danglars(4)",
+          "emperor(3)",
+          "priest(3)",
+          "captain's(2)",
+          "fortress(2)",
+          "faint(2)",
+          "tunnel(2)",
+          "treasure(2)",
+          "sewed(2)",
+          "merchant(1)",
+          "captain(1)",
+          "fever(1)",
+          "mr(1)",
+          "jealousy(1)",
+          "fisherman(1)",
+          "dying(1)",
+          "exiled(1)",
+          "unsigned(1)",
+          "joyful(1)",
+          "vain(1)",
+          "ambitious(1)",
+          "engagement(1)",
+          "loyal(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9271,
+        "wordCount": 1523,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "priest(4)",
+          "sack(4)",
+          "captain(3)",
+          "emperor(3)",
+          "sailor(3)",
+          "fortress(3)",
+          "bare(2)",
+          "faint(2)",
+          "tunnel(2)",
+          "cardinal(2)",
+          "dawn(2)",
+          "sewed(2)",
+          "quay(1)",
+          "caution(1)",
+          "deck(1)",
+          "fever(1)",
+          "voyage(1)",
+          "merchant(1)",
+          "steep(1)",
+          "staircase(1)",
+          "envy(1)",
+          "accountant(1)",
+          "forgiven(1)",
+          "fisherman(1)",
+          "misery(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": " man to protect his own name.  Not long afterwards, Faria was seized by a sudden attack of"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 328,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0035,
+      "lowZipfWords": [
+        "swam"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 516,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0022,
+      "lowZipfWords": [
+        "swam"
+      ],
+      "keyTermTokens": 1,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 818,
+      "sentLenMedian": 11.0,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0094,
+      "lowZipfWords": [
+        "captain's",
+        "hurried",
+        "shone",
+        "swam",
+        "swung",
+        "whispered"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1126,
+      "sentLenMedian": 17,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0198,
+      "lowZipfWords": [
+        "captain's",
+        "cardinal's",
+        "crawled",
+        "exiled",
+        "fisherman",
+        "glittered",
+        "hurried",
+        "joyful",
+        "neighbor's",
+        "rowed",
+        "saucepan",
+        "scraping",
+        "sewed",
+        "shrugged",
+        "sighed",
+        "soot",
+        "swam",
+        "unsigned"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1523,
+      "sentLenMedian": 22.0,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0205,
+      "lowZipfWords": [
+        "bridegroom",
+        "captain's",
+        "disguising",
+        "dismay",
+        "fisherman",
+        "formality",
+        "furthest",
+        "grasped",
+        "guard's",
+        "harmlessly",
+        "loosening",
+        "neighbor's",
+        "nightfall",
+        "prison's",
+        "quay",
+        "raged",
+        "rowed",
+        "saucepan",
+        "sewed",
+        "shipwreck",
+        "shivering",
+        "shone",
+        "soot",
+        "stairway",
+        "swam",
+        "swung",
+        "tunneling",
+        "unsigned",
+        "warmly"
+      ],
+      "keyTermTokens": 1,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8445,
+      "wordCount": 328,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sack(5)",
+        "ship(3)",
+        "captain(2)",
+        "wedding(2)",
+        "prison(2)",
+        "island(2)",
+        "treasure(2)",
+        "guards(2)",
+        "knife(2)",
+        "sailor(1)",
+        "danglars(1)",
+        "fernand(1)",
+        "soldiers(1)",
+        "afraid(1)",
+        "burned(1)",
+        "alone(1)",
+        "dark(1)",
+        "sad(1)",
+        "stone(1)",
+        "wall(1)",
+        "hole(1)",
+        "prisoner(1)",
+        "dug(1)",
+        "tunnel(1)",
+        "mistake(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.876,
+      "wordCount": 516,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "captain(4)",
+        "island(4)",
+        "sack(4)",
+        "ship(3)",
+        "priest(3)",
+        "wedding(2)",
+        "danglars(2)",
+        "secret(2)",
+        "lawyer(2)",
+        "prison(2)",
+        "stone(2)",
+        "tunnel(2)",
+        "guards(2)",
+        "spring(1)",
+        "mr(1)",
+        "king's(1)",
+        "dangerous(1)",
+        "enemy(1)",
+        "king(1)",
+        "soldiers(1)",
+        "cried(1)",
+        "honestly(1)",
+        "pocket(1)",
+        "dying(1)",
+        "afraid(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9438,
+      "wordCount": 818,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sack(4)",
+        "sailor(3)",
+        "captain(3)",
+        "emperor(3)",
+        "treasure(3)",
+        "port(2)",
+        "voyage(2)",
+        "priest(2)",
+        "tunnel(2)",
+        "sailed(1)",
+        "deck(1)",
+        "hurried(1)",
+        "captain's(1)",
+        "dying(1)",
+        "throne(1)",
+        "loud(1)",
+        "ambitious(1)",
+        "honestly(1)",
+        "rocky(1)",
+        "scratching(1)",
+        "digging(1)",
+        "dig(1)",
+        "scholar(1)",
+        "prisoners(1)",
+        "brave(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9325,
+      "wordCount": 1126,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sack(5)",
+        "sailor(4)",
+        "danglars(4)",
+        "emperor(3)",
+        "priest(3)",
+        "captain's(2)",
+        "fortress(2)",
+        "faint(2)",
+        "tunnel(2)",
+        "treasure(2)",
+        "sewed(2)",
+        "merchant(1)",
+        "captain(1)",
+        "fever(1)",
+        "mr(1)",
+        "jealousy(1)",
+        "fisherman(1)",
+        "dying(1)",
+        "exiled(1)",
+        "unsigned(1)",
+        "joyful(1)",
+        "vain(1)",
+        "ambitious(1)",
+        "engagement(1)",
+        "loyal(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9271,
+      "wordCount": 1523,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "priest(4)",
+        "sack(4)",
+        "captain(3)",
+        "emperor(3)",
+        "sailor(3)",
+        "fortress(3)",
+        "bare(2)",
+        "faint(2)",
+        "tunnel(2)",
+        "cardinal(2)",
+        "dawn(2)",
+        "sewed(2)",
+        "quay(1)",
+        "caution(1)",
+        "deck(1)",
+        "fever(1)",
+        "voyage(1)",
+        "merchant(1)",
+        "steep(1)",
+        "staircase(1)",
+        "envy(1)",
+        "accountant(1)",
+        "forgiven(1)",
+        "fisherman(1)",
+        "misery(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 8,
+      "knife": 8,
+      "dying": 4,
+      "bones": 2,
+      "grave": 1
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.038,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0158",
+        "title": "The Three Questions",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.038,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0279",
+        "title": "Robinson Crusoe",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.037,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

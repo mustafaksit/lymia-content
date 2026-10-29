@@ -1,0 +1,623 @@
+{
+  "id": "st-0292",
+  "title": "The Hound of the Baskervilles",
+  "ts": "2026-10-29T21:45:04",
+  "node": {
+    "id": "st-0292",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %81.4 | 328 kelime\n    havuz dışı: famous(1), detective(1), doctor(1), worried(1), huge(2), hound(4), moor(4), tale(1), weak(1), heart(2), footprints(2), giant(1), nephew(1), dark(3), wife(2), crying(1), neighbor(1), butterflies(1), wet(2), ground(2), dangerous(2), window(1), candle(1), secret(1), brother(1), prison(1), stone(1), hut(1), inside(1), secretly(1), hid(1), dog(3), strange(1), paint(1), glowed(1), ghost(1), frightened(1), fog(1), rocks(1), suddenly(1), glowing(1), fired(1), guns(1), safe(1)",
+        "level A2: A2: KALDI | kapsam %87.1 | 521 kelime\n    havuz dışı: famous(1), detective(2), cruel(1), wicked(1), deed(1), moor(7), hound(4), fairy(1), tale(1), weak(2), footprints(2), gigantic(1), carefully(1), nephew(1), farm(1), ocean(1), strange(2), boots(1), can't(1), butler(1), crying(1), butterfly(1), net(1), soft(1), candle(2), truth(1), escaped(1), prison(1), hungry(1), stone(1), hut(1), calm(1), secretly(1), hidden(1), mire(2), glow(1), frightened(2), frighten(1), dinner(1), thick(1), fog(3), giant(1), jumped(1), mouth(1), shone(1), path(1), safe(1), detectives(1), boot(1)",
+        "level B1: B1: KALDI | kapsam %93.5 | 801 kelime\n    havuz dışı: cruel(2), wicked(1), deed(1), moor(7), hound(5), darkness(1), fairy(1), tale(1), lowered(1), mister(1), footprints(3), gigantic(1), nephew(1), cheerful(1), ocean(1), boot(4), cab(1), butler(1), chased(1), butterflies(1), candle(1), moon(1), hut(1), blanket(1), footsteps(1), mystery(1), mire(1), glowed(1), glowing(1), frighten(1), detective(1), fog(2), shining(1), frightened(1), detectives(1)",
+        "level B2: B2: KALDI | kapsam %94.7 | 1134 kelime\n    havuz dışı: aloud(1), cruel(2), wicked(1), deed(1), moor(7), hound(4), fairy(1), generous(1), lying(1), footprints(3), mister(1), gigantic(1), nephew(1), cheerful(2), vanished(1), cab(2), butler(1), bitterly(1), naturalist(1), butterfly(2), underneath(1), candle(1), confessed(1), hut(1), hillside(1), blanket(1), tins(1), footsteps(1), detective(2), legend(1), inherit(1), fur(1), glowed(1), dined(1), fog(3), mire(2), ghostly(1), leapt(1), fainted(1), upstairs(1), mud(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.814,
+        "wordCount": 328,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "hound(4)",
+          "moor(4)",
+          "dark(3)",
+          "dog(3)",
+          "huge(2)",
+          "heart(2)",
+          "footprints(2)",
+          "wife(2)",
+          "wet(2)",
+          "ground(2)",
+          "dangerous(2)",
+          "famous(1)",
+          "detective(1)",
+          "doctor(1)",
+          "worried(1)",
+          "tale(1)",
+          "weak(1)",
+          "giant(1)",
+          "nephew(1)",
+          "crying(1)",
+          "neighbor(1)",
+          "butterflies(1)",
+          "window(1)",
+          "candle(1)",
+          "secret(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8714,
+        "wordCount": 521,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "moor(7)",
+          "hound(4)",
+          "fog(3)",
+          "detective(2)",
+          "weak(2)",
+          "footprints(2)",
+          "strange(2)",
+          "candle(2)",
+          "mire(2)",
+          "frightened(2)",
+          "famous(1)",
+          "cruel(1)",
+          "wicked(1)",
+          "deed(1)",
+          "fairy(1)",
+          "tale(1)",
+          "gigantic(1)",
+          "carefully(1)",
+          "nephew(1)",
+          "farm(1)",
+          "ocean(1)",
+          "boots(1)",
+          "can't(1)",
+          "butler(1)",
+          "crying(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9351,
+        "wordCount": 801,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "moor(7)",
+          "hound(5)",
+          "boot(4)",
+          "footprints(3)",
+          "cruel(2)",
+          "fog(2)",
+          "wicked(1)",
+          "deed(1)",
+          "darkness(1)",
+          "fairy(1)",
+          "tale(1)",
+          "lowered(1)",
+          "mister(1)",
+          "gigantic(1)",
+          "nephew(1)",
+          "cheerful(1)",
+          "ocean(1)",
+          "cab(1)",
+          "butler(1)",
+          "chased(1)",
+          "butterflies(1)",
+          "candle(1)",
+          "moon(1)",
+          "hut(1)",
+          "blanket(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9471,
+        "wordCount": 1134,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "moor(7)",
+          "hound(4)",
+          "footprints(3)",
+          "fog(3)",
+          "cruel(2)",
+          "cheerful(2)",
+          "cab(2)",
+          "butterfly(2)",
+          "detective(2)",
+          "mire(2)",
+          "aloud(1)",
+          "wicked(1)",
+          "deed(1)",
+          "fairy(1)",
+          "generous(1)",
+          "lying(1)",
+          "mister(1)",
+          "gigantic(1)",
+          "nephew(1)",
+          "vanished(1)",
+          "butler(1)",
+          "bitterly(1)",
+          "naturalist(1)",
+          "underneath(1)",
+          "candle(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9295,
+        "wordCount": 1517,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "moor(10)",
+          "hound(4)",
+          "butler(4)",
+          "footprints(3)",
+          "mire(3)",
+          "fog(3)",
+          "legend(2)",
+          "cruel(2)",
+          "vanished(2)",
+          "naturalist(2)",
+          "hut(2)",
+          "footsteps(2)",
+          "detective(2)",
+          "glowing(2)",
+          "amusing(1)",
+          "deducing(1)",
+          "eager(1)",
+          "wicked(1)",
+          "deed(1)",
+          "collector(1)",
+          "fairy(1)",
+          "aloud(1)",
+          "generous(1)",
+          "lying(1)",
+          "lowering(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": "e money. He hid a huge dog on the moor. He put a strange paint on the dog. It glow"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 328,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0114,
+      "lowZipfWords": [
+        "footprints",
+        "glowed"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 521,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.0163,
+      "lowZipfWords": [
+        "footprints",
+        "frighten",
+        "mire",
+        "shone"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 801,
+      "sentLenMedian": 10,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0129,
+      "lowZipfWords": [
+        "footprints",
+        "frighten",
+        "glowed",
+        "leaned",
+        "mire"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1134,
+      "sentLenMedian": 13,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0197,
+      "lowZipfWords": [
+        "bitterly",
+        "dined",
+        "fainted",
+        "footprints",
+        "frighten",
+        "ghostly",
+        "glowed",
+        "hillside",
+        "hurried",
+        "leapt",
+        "mire",
+        "naturalist",
+        "tins",
+        "watcher",
+        "whispered"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1517,
+      "sentLenMedian": 18.5,
+      "zipfMedian": 5.93,
+      "lowZipfRatio": 0.0273,
+      "lowZipfWords": [
+        "agreeable",
+        "ancestor",
+        "annoyance",
+        "astonishment",
+        "baronet",
+        "cleverer",
+        "curses",
+        "deducing",
+        "dined",
+        "dismay",
+        "dryly",
+        "fainted",
+        "foggy",
+        "footprints",
+        "frighten",
+        "glowed",
+        "hillsides",
+        "hurried",
+        "kneeling",
+        "mire",
+        "naturalist",
+        "reasoned",
+        "resembled",
+        "sobbing",
+        "strikingly",
+        "tins",
+        "unearthly",
+        "unhurt",
+        "unmistakably",
+        "watcher",
+        "weeping"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.814,
+      "wordCount": 328,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "hound(4)",
+        "moor(4)",
+        "dark(3)",
+        "dog(3)",
+        "huge(2)",
+        "heart(2)",
+        "footprints(2)",
+        "wife(2)",
+        "wet(2)",
+        "ground(2)",
+        "dangerous(2)",
+        "famous(1)",
+        "detective(1)",
+        "doctor(1)",
+        "worried(1)",
+        "tale(1)",
+        "weak(1)",
+        "giant(1)",
+        "nephew(1)",
+        "crying(1)",
+        "neighbor(1)",
+        "butterflies(1)",
+        "window(1)",
+        "candle(1)",
+        "secret(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8714,
+      "wordCount": 521,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "moor(7)",
+        "hound(4)",
+        "fog(3)",
+        "detective(2)",
+        "weak(2)",
+        "footprints(2)",
+        "strange(2)",
+        "candle(2)",
+        "mire(2)",
+        "frightened(2)",
+        "famous(1)",
+        "cruel(1)",
+        "wicked(1)",
+        "deed(1)",
+        "fairy(1)",
+        "tale(1)",
+        "gigantic(1)",
+        "carefully(1)",
+        "nephew(1)",
+        "farm(1)",
+        "ocean(1)",
+        "boots(1)",
+        "can't(1)",
+        "butler(1)",
+        "crying(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9351,
+      "wordCount": 801,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "moor(7)",
+        "hound(5)",
+        "boot(4)",
+        "footprints(3)",
+        "cruel(2)",
+        "fog(2)",
+        "wicked(1)",
+        "deed(1)",
+        "darkness(1)",
+        "fairy(1)",
+        "tale(1)",
+        "lowered(1)",
+        "mister(1)",
+        "gigantic(1)",
+        "nephew(1)",
+        "cheerful(1)",
+        "ocean(1)",
+        "cab(1)",
+        "butler(1)",
+        "chased(1)",
+        "butterflies(1)",
+        "candle(1)",
+        "moon(1)",
+        "hut(1)",
+        "blanket(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9471,
+      "wordCount": 1134,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "moor(7)",
+        "hound(4)",
+        "footprints(3)",
+        "fog(3)",
+        "cruel(2)",
+        "cheerful(2)",
+        "cab(2)",
+        "butterfly(2)",
+        "detective(2)",
+        "mire(2)",
+        "aloud(1)",
+        "wicked(1)",
+        "deed(1)",
+        "fairy(1)",
+        "generous(1)",
+        "lying(1)",
+        "mister(1)",
+        "gigantic(1)",
+        "nephew(1)",
+        "vanished(1)",
+        "butler(1)",
+        "bitterly(1)",
+        "naturalist(1)",
+        "underneath(1)",
+        "candle(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9295,
+      "wordCount": 1517,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "moor(10)",
+        "hound(4)",
+        "butler(4)",
+        "footprints(3)",
+        "mire(3)",
+        "fog(3)",
+        "legend(2)",
+        "cruel(2)",
+        "vanished(2)",
+        "naturalist(2)",
+        "hut(2)",
+        "footsteps(2)",
+        "detective(2)",
+        "glowing(2)",
+        "amusing(1)",
+        "deducing(1)",
+        "eager(1)",
+        "wicked(1)",
+        "deed(1)",
+        "collector(1)",
+        "fairy(1)",
+        "aloud(1)",
+        "generous(1)",
+        "lying(1)",
+        "lowering(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 2
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

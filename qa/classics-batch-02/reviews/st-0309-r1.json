@@ -1,0 +1,47 @@
+{
+  "id": "st-0309",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"He also made a special heater. The heater made the gas warm. Then the balloon went up.\" reads a little like a one-time event rather than a general rule; optional: \"When the gas was warm, the balloon went up. When the gas was cold, it went down.\"",
+        "At Lake Chad, A1 has the balloon rise again only because the men throw out boxes and bags; in the original (and in A2-C1) this is not enough and Joe jumps. Acceptable condensing for A1, but optional for consistency: \"The balloon went up a little.\"",
+        "Verne's attackers are vultures/condors (gypaetes) rather than eagles; 'eagles' is a harmless simplification used at every level."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The hydrogen can catch fire!\" shouted Joe. At B1, B2 and C1 Kennedy says this line; optional: give it to Kennedy here too for cross-level consistency.",
+        "\"Months later, the three friends returned to London as heroes.\" 'Months' is a stretch; the other levels just say 'Later'. Optional: \"Later, the three friends returned to London as heroes.\""
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"They saw herds of elephants and giraffes that were moving across the grass.\" is slightly textbook-like; optional: \"They saw herds of elephants and giraffes moving across the grass.\"",
+        "\"Kennedy began to enjoy the journey. 'I was wrong, Samuel,' Kennedy admitted, 'and this is the best way to travel.'\" repeats the name and joins two ideas oddly; optional: \"'I was wrong, Samuel,' he admitted. 'This is the best way to travel!'\""
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The closing line says Kennedy \"had once called the plan madness\"; in B2 he never uses that word on the page (he is 'horrified'). Harmless, but 'had once been horrified by the plan' would match the text exactly."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"His answer was a heater of his own design, which drew its power from water split into its separate gases and used the flame to warm the hydrogen\" - 'the flame' has no antecedent; optional: \"...from water split into its separate gases, which he burned to make a flame that warmed the hydrogen\"."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels follow Verne's main arc faithfully (London announcement, double hydrogen balloon with water-powered heater, Zanzibar departure, storm escape above the clouds, becalmed desert and oasis, bird attack near Lake Chad with Joe's jump and rescue, Senegal crossing by hot air at the falls, French fort soldiers), with acceptable condensing for lower levels. Grammar fits each level's limits, quizzes have single defensible keyed answers, and content is gentle and 4+ appropriate. Only minor style and cross-level consistency notes remain."
+}

@@ -1,0 +1,50 @@
+{
+  "id": "st-0317",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"In the morning, the girls ran behind Dummling.\" The text never says Dummling left with the goose, so the reader has to infer why the girls run. Optional fix: \"In the morning, Dummling took the goose and left. The girls had to run behind him.\"",
+        "\"First, someone must drink them all.\" uses present-tense 'must' inside past narration, while the ship task uses 'had to'. Optional fix for consistency: \"First, someone had to drink them all.\"",
+        "The bell-ringer is left out (priest + two farmers only). That is acceptable condensing because A1 never states the number of people."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"They opened the bag.\" No bag was mentioned before. Optional fix: \"Dummling opened his bag.\" or simply drop the sentence.",
+        "Quiz Q2 \"How many people ran behind Dummling and his goose?\" The text also says \"The three girls had to run behind him,\" so 'Three' is weakly defensible. Optional fix: \"In the end, how many people ran behind Dummling and his goose?\"",
+        "\"Any man can marry her, but he must make her laugh.\" is understandable. \"The man who makes her laugh can marry her\" would contain a relative clause, so the current wording is the right choice for A2."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"His mother gave him a plain cake from the ashes\" may puzzle a B1 reader. Optional fix: \"a plain cake baked in the ashes\".",
+        "No conditionals and no real passive (\"was stuck\" and \"was shocked\" work as adjectives), so the level rules are met."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The clever son\" matches the ironic 'kluge Sohn' of the Grimm text. It is fine, but some learners may read it literally.",
+        "The headcounts are consistent: 'the five of them' (three girls, priest, bell-ringer) plus two farmers makes seven."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The text keeps faithful details (christening, ovenful of loaves, the king having flour gathered from the whole kingdom) and reads as genuinely literary rather than padded.",
+        "\"Shame on you, you wild girls! What do you mean by running after a young fellow across the open fields?\" follows the original and is mild enough for 4+."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "A faithful, well-graded retelling of Grimm's 'The Golden Goose' (KHM 64) that keeps the original order of events, the three tasks and the ending, with alcohol neutralised to 'drink' and injuries only stated. Grammar stays within each level's limits, all quiz keys are correct, and the headcounts agree across levels. Only minor optional polish points remain (A1 transition and tense, the A2 'bag', the A2 quiz wording, the B1 'cake from the ashes')."
+}

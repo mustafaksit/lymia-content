@@ -1,0 +1,54 @@
+{
+  "id": "st-0305",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "My knees got well, but they had marks. So the earl sold me.",
+          "problem": "The earl is never introduced at A1. The Earlshall paragraph only mentions 'The lady there' and 'The groom', so a beginner meets 'the earl' with no antecedent and cannot tell who sold Beauty. Every other level introduces him ('a rich earl at Earlshall', 'An earl bought Ginger and me').",
+          "fix": "Change 'Ginger and I went to Earlshall.' to 'An earl bought Ginger and me. His home was Earlshall.' and change 'The lady there wanted our heads high.' to 'His wife wanted our heads high.'"
+        }
+      ],
+      "notes": [
+        "Quiz Q3 'Who knew Beauty at the end?' uses 'knew' to mean 'recognised', which is a little loose for A1. Consider 'Who found Beauty again at the end?'",
+        "'\"Good lad!\" said John Manly.' In the novel John Manly stays at Birtwick during that journey ('John was equally glad to see us' when they come home), and it is the master who is at the inn. Consider 'said my master'. A reader would not notice this, so it is not counted as a failure."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'\"You are a brave lad,\" said John Manly.' John was not on the journey in the original. Consider 'said my master'.",
+        "'I am tired, and I want my troubles to end.' This is close to a wish to die. It is gentle and faithful to the book, but 'I am very, very tired,' she said quietly would be safer for a 4+ app."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'\"You are a brave lad,\" said John Manly proudly.' John was at home at Birtwick, not at the inn. Consider 'said my master proudly'.",
+        "'My master thanked me again and again.' The book does not have this, but it is a harmless softening."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'\"You have done a brave thing tonight, lad,\" said John Manly.' The word 'tonight' places John at the inn, but in the novel he stayed at Birtwick and the master was there. Consider 'said my master'."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'\"Stop! Stop! The middle of the bridge has been carried away by the flood!\" cried the toll-keeper.' The tag repeats the subject of the sentence just before it ('the toll-keeper came running out ... shouting into the wind'). Drop the tag, or change the earlier sentence to 'a man came running out of the toll-house'.",
+        "'\"You have done a brave thing tonight, lad,\" said John Manly' has the same fidelity slip as the other levels: John was not at the inn. Consider 'said my master'."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is faithful, natural and suitable for its levels and audience. The key moments follow the book's order: the bridge, the inn fire, the ride for the doctor, the bearing rein, the broken knees, Jerry, Ginger's last meeting and Joe Green's recognition. Only A1 fails, because 'the earl' who sells Beauty is never introduced. All levels share one small fidelity slip: John Manly, not the master, praises the groom at the inn."
+}

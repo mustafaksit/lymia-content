@@ -1,0 +1,51 @@
+{
+  "id": "st-0292",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Stapleton was secretly a Baskerville too.\" begins the solution with no speaker. Consider \"Then Holmes told Watson the truth.\" first, so readers know who explains it.",
+        "\"At night, Watson heard a woman crying.\" is never linked to anything. This is acceptable because the next paragraph implies the reason."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "His nephew, Sir Henry, was the new owner of Baskerville Hall.",
+          "problem": "The sentence before it is \"Now Holmes sat up and listened carefully.\" So the nearest antecedent for \"His\" is Holmes, and an A2 learner can easily read Sir Henry as Holmes's nephew. Sir Charles was last named two paragraphs earlier, inside Mortimer's speech.",
+          "fix": "Sir Charles's nephew, Sir Henry, was the new owner of Baskerville Hall."
+        }
+      ],
+      "notes": []
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The stolen old boot gave the dog Sir Henry's smell.\" reads correctly. \"scent\" would be more natural, but \"smell\" is acceptable at B1.",
+        "\"Someone made it with words from a newspaper.\" is slightly flat. \"Someone made it from words cut out of a newspaper\" would read better, though the original is fine."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"That same night, Watson saw a tall, thin figure standing on a high rock\" does not say that Watson was out on the moor that night, because the hunt for the prisoner is left out. A clause such as \"while he and Sir Henry were out looking for the prisoner\" would make the scene clearer. Readers can still follow it."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Sherlock Holmes was amusing Watson with a walking stick\" is a slightly odd collocation. In the original, Watson examines the stick first and Holmes then corrects his deductions. \"Sherlock Holmes and Watson were studying a walking stick\" would be both more faithful and more natural.",
+        "\"The prisoner slipped away from them in the darkness\" comes after \"on the way home\", which briefly blurs the order of events. Consider moving it before the figure on the rock: \"The prisoner slipped away from them, and on the way home Watson saw...\""
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is faithful to Conan Doyle's novel at every level and is suitable for a 4+ rating. Grammar matches each level and all quiz keys are correct. One concrete problem remains: in A2, \"His nephew, Sir Henry\" directly follows a sentence about Holmes, so learners may think Sir Henry is Holmes's nephew. Changing it to \"Sir Charles's nephew\" fixes it."
+}

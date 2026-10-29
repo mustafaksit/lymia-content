@@ -1,0 +1,63 @@
+{
+  "id": "st-0295",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "\"You called me mad. So I played a little joke on you.\"",
+          "problem": "The ending depends on the narrator having called Legrand mad, but in the A1 text the narrator never says or thinks this. Only Jupiter says \"Legrand is very strange now.\" A reader will ask when this happened, and the punchline does not work.",
+          "fix": "Set it up earlier, e.g. after \"Jupiter took the beetle and climbed up.\" add: I said to Legrand, \"You are mad!\" Or, at the hut: I thought, \"My friend is mad.\" Then change the ending to \"You thought I was mad. So I played a little joke on you.\""
+        }
+      ],
+      "notes": [
+        "\"Jupiter let it fall to the ground.\" In the story the beetle hangs on its string just above the ground. Consider: \"Jupiter let it down on the string.\"",
+        "\"The heat of my fire showed secret marks.\" It is Legrand's fire. \"The heat of the fire\" is cleaner.",
+        "\"Jupiter came to Charleston\": the reader is never told that the narrator lives there. Consider \"Jupiter came to my house in Charleston.\""
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "\"You called me mad. So I played a little joke on you.\"",
+          "problem": "As in A1, the narrator never calls Legrand mad and never even thinks it in the A2 text, so the explanation for the beetle at the end does not follow from anything earlier.",
+          "fix": "After \"This beetle can make me rich,\" he said. add: I looked at him and thought, \"My poor friend is mad.\" Then end with: \"You thought I was mad. So I played a little joke on you.\""
+        }
+      ],
+      "notes": [
+        "\"Legrand did not eat or sleep well. All day, he wrote strange numbers and signs.\" These are Jupiter's report but read like narration. Consider \"Jupiter told me that Legrand did not eat or sleep well.\"",
+        "\"Legrand found the tall rock\": \"the tall rock\" has not been introduced. Consider \"An old woman showed him Bessop's Castle, a tall rock.\""
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"he found a new kind of beetle that day\" would more naturally be \"had found\". The simple past is acceptable at this level."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"It spoke of a good glass, a bishop's hostel...\": the antecedent of \"It\" is the preceding \"the\". Consider \"The finished message spoke of...\"",
+        "The link between \"a bishop's hostel\" and \"Bessop's Castle\" is never made explicit. One clause would help, e.g. \"Legrand guessed that 'bishop' might be the old local name Bessop.\"",
+        "\"This time the line ended...\" is followed immediately by \"This time we had been digging...\". Vary one of them."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "As in B2, a brief hint linking \"bishop's hostel\" to Bessop's Castle would make the deduction more satisfying.",
+        "Original detail: the beetle was found on the mainland shore about a mile east of the island. \"on the shore\" is an acceptable condensation."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "B1, B2 and C1 are faithful to Poe's tale, natural and at the right level. The cipher, Kidd's goat, the left-eye mistake and the beetle 'mystification' are all present, and the skeletons are omitted to keep it 4+. A1 and A2 fail on one logic gap: the closing line \"You called me mad\" refers to something the narrator never says or thinks in those versions. A one-line setup fixes it."
+}

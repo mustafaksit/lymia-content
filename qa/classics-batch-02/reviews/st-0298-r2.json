@@ -1,0 +1,48 @@
+{
+  "id": "st-0298",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Darcy did not want to dance. \\\"Elizabeth is not pretty enough,\\\" said Darcy.\" works, but the remark comes with no prompt. Optional: \"Bingley asked Darcy to dance with Elizabeth. \\\"No. She is not pretty enough,\\\" said Darcy.\"",
+        "\"But Lydia talked, and Elizabeth learned the truth.\" compresses the aunt's letter. This is acceptable condensing for A1."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"In his eyes, Jane did not really love Bingley.\" A learner could read 'eyes' literally right after the letter is handed over. Optional: \"In the letter, he said that Jane did not really love Bingley.\"",
+        "\"\\\"Darcy came to my wedding!\\\" she said.\" Lydia speaks with no setting. Optional: \"Later Lydia came home. \\\"Darcy came to my wedding!\\\" she said.\""
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Darcy, however, was thinking about her bright, intelligent eyes.\" The contrast is only implied, because Bingley's sisters' mockery is cut at this level. Optional: add \"Bingley's sisters laughed at her muddy skirt.\" before it.",
+        "\"The next morning, Darcy handed her a letter and walked away. He truly believed that Jane did not love Bingley.\" Optional bridge: \"In the letter, he explained that he truly believed...\"",
+        "\"her heart was broken\" is technically a passive form. As a fixed idiom it is acceptable at B1."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"had spent it all, and had later asked for more.\" In the novel, and in this story's C1 text, Wickham came back to ask for the church position, not for more money. Suggested: \"had spent it all, and had later asked for the position after all.\"",
+        "\"everyone said he had ten thousand a year\" may puzzle B2 readers. Optional: \"ten thousand pounds a year\"."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Strong, faithful and genuinely literary. The entail, the steward's son, Caroline's letter, Brighton, the early return to Pemberley, Lady Catherine reporting to Darcy and Mr Bennet's blessing are all correct."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels follow the novel's main events in the right order and end correctly, with no film-only material and nothing unsuitable for a 4+ rating. Grammar matches each level and every quiz has one clearly correct keyed answer. The remaining points are small polish items: a few missing bridges (A2 'In his eyes', B1 'however') and one B2 letter detail that differs from C1."
+}

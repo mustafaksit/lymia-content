@@ -1,0 +1,68 @@
+{
+  "id": "st-0288",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Let me go!\" cried Odysseus. But his men only tied him tighter. — the men have wax in their ears, so they cannot hear him. This is acceptable at A1, but 'Odysseus shouted and pulled at the ropes' would match the higher levels, where he signals with nods.",
+        "Going straight from Aeaea to the Sirens leaves out the trip to the Underworld and the return to Circe (Odyssey 11–12). Condensing is fine, and the text never claims the order directly."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Near the island of the Sirens, the wind stopped. Odysseus made some wax soft and put it in their ears.",
+          "problem": "The only plural noun before 'their' is 'the Sirens', so a learner can read this as Odysseus putting wax in the Sirens' ears. 'made some wax soft' is also a little stiff.",
+          "fix": "Near the island of the Sirens, the wind stopped. Odysseus softened some wax and put it in his men's ears."
+        }
+      ],
+      "notes": [
+        "\"Let me go!\" shouted Odysseus — the men have wax in their ears, so a shout makes less sense than a signal. Consider: 'Odysseus shouted and pulled at the ropes.'",
+        "\"No man can drink my magic and stay the same\" — 'drink my magic' is slightly odd. 'No man can drink my drink and stay the same' or '...drink my magic drink...' reads more naturally."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "\"Now go and lie with your friends in the pen!\" she said.",
+          "problem": "'lie with' is a well-known euphemism for sex. In a 4+ children's text it reads oddly and can cause an unintended double meaning. The B2 and C1 levels correctly use 'lie down with'.",
+          "fix": "\"Now go and lie down with your friends in the pen!\" she said."
+        }
+      ],
+      "notes": [
+        "\"He shouted and nodded at his men to untie him.\" — the men cannot hear because of the wax, and 'nodded at his men to untie him' is a bit compressed. Consider: 'He frowned and nodded at his men, ordering them to untie him.'",
+        "\"just as Hermes said\" — 'just as Hermes had told him' is more natural, but past perfect is allowed at B1 anyway."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Circe gave her guests a drink of cheese, barley and golden honey.\" — this is faithful to Homer's kykeon, but 'a drink of cheese' can puzzle modern readers. Consider: 'a drink mixed with cheese, barley and golden honey.'"
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Odysseus divided them into two companies, keeping one for himself and giving the other to Eurylochus, his kinsman.",
+          "problem": "'them' has no antecedent. The nearest plural nouns are 'the thick oaks' in the previous sentence, and the men were last mentioned in the previous paragraph. The reader has to stop and work out who is being divided.",
+          "fix": "Returning to the ship, Odysseus divided his men into two companies, keeping one for himself and giving the other to Eurylochus, his kinsman."
+        }
+      ],
+      "notes": [
+        "\"The sailors were no less frightened for that.\" is good literary register. The C1 text overall is faithful, with Hermes' first beard, the calves simile, 'Strange man' and the eyebrow signals all reflecting Homer, and it is not padded.",
+        "The scene where Circe invites Odysseus to her bed has been removed, which is correct for a 4+ rating."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is faithful to Odyssey 10 and 12 at every level, condensed appropriately (wine, the bed scene and the Underworld are omitted), and age-safe, and all five quizzes are keyed correctly. Three levels each fail on one small but concrete wording problem: A2 has an ambiguous 'their ears' that can point to the Sirens, B1 uses the euphemism 'lie with', and C1 has a 'them' with no antecedent when the crew is divided. All three are one-line fixes."
+}

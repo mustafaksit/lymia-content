@@ -1,0 +1,646 @@
+{
+  "id": "st-0302",
+  "title": "Little Women: A Christmas Without Presents",
+  "ts": "2026-10-29T21:45:17",
+  "node": {
+    "id": "st-0302",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %87.6 | 330 kelime\n    havuz dışı: cold(1), sisters(2), fire(3), fun(1), poor(3), dollar(1), slippers(2), gloves(1), dear(1), cried(2), gift(1), merry(1), sad(1), baby(1), breakfast(3), hungry(1), snow(1), wood(1), laughed(1), angels(1), bread(1), milk(1), happy(1), smiled(2), kissed(1), surprise(1), cake(1), ice(1), cream(1), flowers(2)",
+        "level A2: A2: KALDI | kapsam %90.6 | 521 kelime\n    havuz dışı: rug(1), meg(3), army(1), shy(1), winter(2), soldiers(1), pencils(1), slippers(2), gloves(1), handkerchiefs(1), bottle(3), perfume(2), cried(2), pillow(1), gift(1), downstairs(1), servant(2), merry(1), breakfast(3), hungry(2), glad(1), snow(1), wood(1), warm(1), joy(1), fed(1), angel(1), bread(1), milk(1), ice(1), cream(1), cake(1), fruit(1), flowers(2), grandfather(1), grandson(1)",
+        "level B1: B1: KALDI | kapsam %94.6 | 815 kelime\n    havuz dışı: sewing(1), grumbled(1), rug(1), sighed(1), boyish(1), aunt(1), shy(1), gentle(1), piano(1), pencils(1), slippers(3), they're(1), gloves(2), handkerchiefs(1), perfume(1), marches(1), selfish(2), pillow(1), downstairs(1), begging(1), servant(1), merry(1), hungry(2), cakes(1), bread(2), cream(2), bare(1), mrs(1), happiness(1), angel(1), supper(1), cake(1), bunches(1), grandfather(1), servants(1), kindness(1), grandson(1)",
+        "level B2: B2: KALDI | kapsam %94.5 | 1039 kelime\n    havuz dışı: sewing(1), grumbled(1), lying(2), rug(1), dreadful(1), we've(2), boyish(1), shy(1), housework(1), pencils(2), slippers(3), gloves(2), handkerchiefs(1), sew(1), perfume(2), cheerful(1), cheerfully(1), confessed(1), selfish(2), pillow(1), downstairs(1), begging(1), merry(2), newborn(1), hungry(2), i'm(1), buckwheat(1), bare(1), miserable(1), warmth(1), mrs(1), wept(1), shawl(1), porridge(1), chattered(1), angel(1), afterward(2), tucked(1), handkerchief(2), witch(1), supper(1), grandfather(1), grandson(1), lonely(1), someday(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8758,
+        "wordCount": 330,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "fire(3)",
+          "poor(3)",
+          "breakfast(3)",
+          "sisters(2)",
+          "slippers(2)",
+          "cried(2)",
+          "smiled(2)",
+          "flowers(2)",
+          "cold(1)",
+          "fun(1)",
+          "dollar(1)",
+          "gloves(1)",
+          "dear(1)",
+          "gift(1)",
+          "merry(1)",
+          "sad(1)",
+          "baby(1)",
+          "hungry(1)",
+          "snow(1)",
+          "wood(1)",
+          "laughed(1)",
+          "angels(1)",
+          "bread(1)",
+          "milk(1)",
+          "happy(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.906,
+        "wordCount": 521,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "meg(3)",
+          "bottle(3)",
+          "breakfast(3)",
+          "winter(2)",
+          "slippers(2)",
+          "perfume(2)",
+          "cried(2)",
+          "servant(2)",
+          "hungry(2)",
+          "flowers(2)",
+          "rug(1)",
+          "army(1)",
+          "shy(1)",
+          "soldiers(1)",
+          "pencils(1)",
+          "gloves(1)",
+          "handkerchiefs(1)",
+          "pillow(1)",
+          "gift(1)",
+          "downstairs(1)",
+          "merry(1)",
+          "glad(1)",
+          "snow(1)",
+          "wood(1)",
+          "warm(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.946,
+        "wordCount": 815,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "slippers(3)",
+          "gloves(2)",
+          "selfish(2)",
+          "hungry(2)",
+          "bread(2)",
+          "cream(2)",
+          "sewing(1)",
+          "grumbled(1)",
+          "rug(1)",
+          "sighed(1)",
+          "boyish(1)",
+          "aunt(1)",
+          "shy(1)",
+          "gentle(1)",
+          "piano(1)",
+          "pencils(1)",
+          "they're(1)",
+          "handkerchiefs(1)",
+          "perfume(1)",
+          "marches(1)",
+          "pillow(1)",
+          "downstairs(1)",
+          "begging(1)",
+          "servant(1)",
+          "merry(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9451,
+        "wordCount": 1039,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "slippers(3)",
+          "lying(2)",
+          "we've(2)",
+          "pencils(2)",
+          "gloves(2)",
+          "perfume(2)",
+          "selfish(2)",
+          "merry(2)",
+          "hungry(2)",
+          "afterward(2)",
+          "handkerchief(2)",
+          "sewing(1)",
+          "grumbled(1)",
+          "rug(1)",
+          "dreadful(1)",
+          "boyish(1)",
+          "shy(1)",
+          "housework(1)",
+          "handkerchiefs(1)",
+          "sew(1)",
+          "cheerful(1)",
+          "cheerfully(1)",
+          "confessed(1)",
+          "pillow(1)",
+          "downstairs(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9394,
+        "wordCount": 1386,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "slippers(3)",
+          "hungry(3)",
+          "hearth(2)",
+          "knitting(2)",
+          "pencils(2)",
+          "gloves(2)",
+          "perfume(2)",
+          "selfish(2)",
+          "sewing(1)",
+          "cheer(1)",
+          "grumbled(1)",
+          "rug(1)",
+          "dreadful(1)",
+          "sniffed(1)",
+          "soften(1)",
+          "vain(1)",
+          "limbs(1)",
+          "tomboy(1)",
+          "painfully(1)",
+          "shy(1)",
+          "devotion(1)",
+          "seriousness(1)",
+          "sensible(1)",
+          "handkerchiefs(1)",
+          "hem(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 330,
+      "sentLenMedian": 6,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0067,
+      "lowZipfWords": [
+        "slippers"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 521,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0085,
+      "lowZipfWords": [
+        "handkerchiefs",
+        "pencils",
+        "slippers"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 815,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0157,
+      "lowZipfWords": [
+        "boyish",
+        "bunches",
+        "dears",
+        "fairies",
+        "grumbled",
+        "handkerchiefs",
+        "marches",
+        "pencils",
+        "sighed",
+        "slippers"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1039,
+      "sentLenMedian": 14.0,
+      "zipfMedian": 5.96,
+      "lowZipfRatio": 0.0276,
+      "lowZipfWords": [
+        "boyish",
+        "buckwheat",
+        "bunches",
+        "castles",
+        "chattered",
+        "cheerfully",
+        "fairies",
+        "grumbled",
+        "handkerchief",
+        "handkerchiefs",
+        "housework",
+        "hurried",
+        "marches",
+        "pencils",
+        "porridge",
+        "prouder",
+        "sew",
+        "shawl",
+        "sighed",
+        "slippers",
+        "smoothed",
+        "sweetly",
+        "wept"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1386,
+      "sentLenMedian": 22,
+      "zipfMedian": 5.96,
+      "lowZipfRatio": 0.0421,
+      "lowZipfWords": [
+        "astonishment",
+        "bravely",
+        "breathed",
+        "breathless",
+        "buckwheat",
+        "bunches",
+        "castles",
+        "chaplain",
+        "chattered",
+        "cheerfully",
+        "contented",
+        "crept",
+        "dawned",
+        "fairies",
+        "firewood",
+        "flushed",
+        "gazed",
+        "gazing",
+        "grander",
+        "grumbled",
+        "handkerchief",
+        "handkerchiefs",
+        "hardships",
+        "hearth",
+        "hem",
+        "huddled",
+        "hurried",
+        "jug",
+        "knitting",
+        "longed",
+        "marches",
+        "merrier",
+        "muffins",
+        "painfully",
+        "panes",
+        "pencils",
+        "porridge",
+        "prouder",
+        "ragged",
+        "scented",
+        "shawl",
+        "sighed",
+        "slippers",
+        "sniffed",
+        "soften",
+        "stocking",
+        "tenderly",
+        "tomboy",
+        "vanish",
+        "wept",
+        "windowpanes"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8758,
+      "wordCount": 330,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "fire(3)",
+        "poor(3)",
+        "breakfast(3)",
+        "sisters(2)",
+        "slippers(2)",
+        "cried(2)",
+        "smiled(2)",
+        "flowers(2)",
+        "cold(1)",
+        "fun(1)",
+        "dollar(1)",
+        "gloves(1)",
+        "dear(1)",
+        "gift(1)",
+        "merry(1)",
+        "sad(1)",
+        "baby(1)",
+        "hungry(1)",
+        "snow(1)",
+        "wood(1)",
+        "laughed(1)",
+        "angels(1)",
+        "bread(1)",
+        "milk(1)",
+        "happy(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.906,
+      "wordCount": 521,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "meg(3)",
+        "bottle(3)",
+        "breakfast(3)",
+        "winter(2)",
+        "slippers(2)",
+        "perfume(2)",
+        "cried(2)",
+        "servant(2)",
+        "hungry(2)",
+        "flowers(2)",
+        "rug(1)",
+        "army(1)",
+        "shy(1)",
+        "soldiers(1)",
+        "pencils(1)",
+        "gloves(1)",
+        "handkerchiefs(1)",
+        "pillow(1)",
+        "gift(1)",
+        "downstairs(1)",
+        "merry(1)",
+        "glad(1)",
+        "snow(1)",
+        "wood(1)",
+        "warm(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.946,
+      "wordCount": 815,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "slippers(3)",
+        "gloves(2)",
+        "selfish(2)",
+        "hungry(2)",
+        "bread(2)",
+        "cream(2)",
+        "sewing(1)",
+        "grumbled(1)",
+        "rug(1)",
+        "sighed(1)",
+        "boyish(1)",
+        "aunt(1)",
+        "shy(1)",
+        "gentle(1)",
+        "piano(1)",
+        "pencils(1)",
+        "they're(1)",
+        "handkerchiefs(1)",
+        "perfume(1)",
+        "marches(1)",
+        "pillow(1)",
+        "downstairs(1)",
+        "begging(1)",
+        "servant(1)",
+        "merry(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9451,
+      "wordCount": 1039,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "slippers(3)",
+        "lying(2)",
+        "we've(2)",
+        "pencils(2)",
+        "gloves(2)",
+        "perfume(2)",
+        "selfish(2)",
+        "merry(2)",
+        "hungry(2)",
+        "afterward(2)",
+        "handkerchief(2)",
+        "sewing(1)",
+        "grumbled(1)",
+        "rug(1)",
+        "dreadful(1)",
+        "boyish(1)",
+        "shy(1)",
+        "housework(1)",
+        "handkerchiefs(1)",
+        "sew(1)",
+        "cheerful(1)",
+        "cheerfully(1)",
+        "confessed(1)",
+        "pillow(1)",
+        "downstairs(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9394,
+      "wordCount": 1386,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "slippers(3)",
+        "hungry(3)",
+        "hearth(2)",
+        "knitting(2)",
+        "pencils(2)",
+        "gloves(2)",
+        "perfume(2)",
+        "selfish(2)",
+        "sewing(1)",
+        "cheer(1)",
+        "grumbled(1)",
+        "rug(1)",
+        "dreadful(1)",
+        "sniffed(1)",
+        "soften(1)",
+        "vain(1)",
+        "limbs(1)",
+        "tomboy(1)",
+        "painfully(1)",
+        "shy(1)",
+        "devotion(1)",
+        "seriousness(1)",
+        "sensible(1)",
+        "handkerchiefs(1)",
+        "hem(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "kissed": 1
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.167,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0280",
+        "title": "The Little Mermaid",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0119",
+        "title": "The Garden Without Soil",
+        "titleJaccard": 0.143,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

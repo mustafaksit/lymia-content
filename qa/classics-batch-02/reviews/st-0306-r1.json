@@ -1,0 +1,72 @@
+{
+  "id": "st-0306",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "\"Say sorry to Mrs. Lynde,\" said Marilla. Then Matthew came up to her room. \"Please say sorry, Anne,\" said Matthew softly. Anne loved Matthew, so she said yes.",
+          "problem": "At A1 the text never says that Anne refused or went to her room, so Matthew's visit has no reason. 'her room' could also mean Marilla's or Mrs. Lynde's room, because those are the last women named. The reader cannot tell why Matthew is needed or whose room it is.",
+          "fix": "\"Say sorry to Mrs. Lynde,\" said Marilla. \"No!\" said Anne. She ran to her room. The next day, Matthew came up to Anne's room. \"Please say sorry, Anne,\" he said softly."
+        }
+      ],
+      "notes": [
+        "\"Her mother and father died very young.\" can be read as 'they died when they were young people' and not as 'when Anne was a baby'. Clearer: \"Her mother and father died when Anne was a baby.\" (then drop the next sentence)."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"They held hands and promised by the sun and moon.\" is a little unusual. Clearer: \"They held hands and promised to be friends for as long as the sun and moon shone.\"",
+        "\"Anne walked home with her heart full of joy. Anne was a part of Green Gables now.\" repeats 'Anne'. The second could be 'She'."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "\"You must be Mr. Matthew Cuthbert of Green Gables,\" she said. \"I was planning to climb that cherry tree and sleep there in the moonlight.\"",
+          "problem": "The text drops the condition (if nobody came for her), so the plan sounds random. A reader will not understand why she says it to Matthew right after greeting him.",
+          "fix": "\"You must be Mr. Matthew Cuthbert of Green Gables,\" she said. \"I was afraid nobody was coming for me. I was planning to climb that cherry tree and sleep there in the moonlight.\""
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "At Mrs. Spencer's house, a sharp-faced woman wanted a girl for her new baby.",
+          "problem": "'wanted a girl for her new baby' reads as if she wanted to give a girl to the baby. The intended meaning is a girl to look after the baby.",
+          "fix": "At Mrs. Spencer's house, a sharp-faced woman wanted a girl to look after her new baby."
+        }
+      ],
+      "notes": [
+        "\"Her thin face was covered with freckles\" is technically a passive-form adjective. It is a fixed phrase and is unlikely to trouble a reader. To be strict about the no-passive rule: \"She had a thin, freckled face\"."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"to be faithful friends for as long as the sun shone\" drops the moon from the well-known oath. \"as long as the sun and moon endured\" (as in C1) is closer to the original.",
+        "\"The next evening, after listening to Matthew, she told Anne\" is a small timing simplification and does no harm."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "The next evening, while his sister was out in the pasture, he crept up the back stairs, as nervous as a stranger in his own house, and tapped at the door.",
+          "problem": "Matthew is not named anywhere in this paragraph, and the last subject is Anne. 'he' and 'his sister' have no clear referent until the dialogue some lines later, so the reader stumbles over who is acting.",
+          "fix": "The next evening, while Marilla was out in the pasture, Matthew crept up the back stairs, as nervous as a stranger in his own house, and tapped at the door."
+        }
+      ],
+      "notes": [
+        "Otherwise very faithful (shingles, grippe-like cold, auburn hair, the skirt pattern, Diana laughing before she speaks, the chocolate sweets, 'only three weeks'), and the literary register is genuine."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows Montgomery's opening chapters closely at every level and is suitable for ages 4+. A1, B1 and C1 each have concrete clarity problems: A1 gives no reason for Matthew's visit and 'her room' is ambiguous, B1 cuts the cherry-tree remark from its condition and has the ambiguous 'a girl for her new baby', and C1 has a 'he' with no referent in the apology paragraph. A2 and B2 pass."
+}

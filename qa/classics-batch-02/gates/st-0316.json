@@ -1,0 +1,640 @@
+{
+  "id": "st-0316",
+  "title": "The Brave Little Tailor",
+  "ts": "2026-10-29T21:45:32",
+  "node": {
+    "id": "st-0316",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %70.9 | 333 kelime\n    havuz dışı: tailor(15), window(2), jam(2), bread(1), flies(3), hit(2), piece(1), cloth(1), lay(1), blow(2), cried(1), belt(2), cheese(2), pocket(1), bird(2), mountain(1), giant(5), pressed(2), stone(2), soft(1), threw(2), flew(1), king(5), task(1), giants(2), marry(1), daughter(1), slept(1), tree(3), climbed(1), dropped(1), stones(1), blamed(1), fight(1), mountains(1), tasks(1), unicorn(1), horn(2), jumped(2), deep(1), wood(1), caught(1), wild(1), pig(1), church(1), shut(1), married(1), princess(1), sleep(1), boy(1), fix(1), coat(1), queen(1), servant(1), warned(1), loudly(1), fear(2)",
+        "level A2: A2: KALDI | kapsam %80.2 | 515 kelime\n    havuz dışı: tailor(19), farm(1), jam(1), spread(1), bread(1), cried(2), cloth(1), blow(3), counted(1), belt(3), sewed(1), cheese(2), pocket(1), bird(2), mountain(1), giant(8), tiny(1), coat(1), stone(2), soft(1), sky(1), cave(1), giants(5), corner(1), midnight(1), heavy(1), stick(1), empty(1), afraid(2), asleep(2), king's(1), king(6), hero(1), wild(2), climbed(1), stones(1), angry(1), faraway(1), mountains(1), unicorn(1), horn(2), jumped(2), stuck(1), wood(1), pig(1), shut(1), princess(1), queen(1), jacket(1), trousers(1), truth(1), servants(2), servant(1), beat(1)",
+        "level B1: B1: KALDI | kapsam %88.4 | 834 kelime\n    havuz dışı: sunny(1), tailor(28), sewing(1), jam(1), spoonful(1), slice(1), bread(1), jacket(2), cloth(1), lying(1), belt(3), stitched(1), cheese(2), bush(1), giant(13), squeezed(2), oak(1), trunk(2), cave(1), giants(5), midnight(1), iron(1), cheerful(1), asleep(1), palace(1), clever(1), kingdom(1), companion(1), furious(1), faraway(1), unicorn(3), horn(1), rope(1), boar(3), chapel(1), princess(1), queen(1), trousers(1), servant(1), pretended(1), servants(2), loudly(1), frightened(1)",
+        "level B2: B2: KALDI | kapsam %91.5 | 1158 kelime\n    havuz dışı: tailor(31), sewing(1), jam(2), spoonful(1), grumbling(1), drifted(1), temper(1), seized(1), cloth(2), stitched(1), bush(1), scorn(1), miserable(1), unbuttoned(1), squeezed(2), oak(1), trunk(3), comfortably(1), cherry(1), ripest(1), unhurt(1), cave(1), crept(1), midnight(1), strolling(1), bold(1), cheerful(1), palace(1), asleep(3), mighty(1), warrior(1), quarrel(1), kingdom(1), riders(3), snoring(1), companion(1), rage(1), quarreled(1), unicorn(4), horn(2), rope(1), boar(3), chapel(1), leapt(1), queen(1), trousers(1), muttered(1), squire(1), fond(1), overheard(1), sew(1), fled(1), terror(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.7087,
+        "wordCount": 333,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "tailor(15)",
+          "giant(5)",
+          "king(5)",
+          "flies(3)",
+          "tree(3)",
+          "window(2)",
+          "jam(2)",
+          "hit(2)",
+          "blow(2)",
+          "belt(2)",
+          "cheese(2)",
+          "bird(2)",
+          "pressed(2)",
+          "stone(2)",
+          "threw(2)",
+          "giants(2)",
+          "horn(2)",
+          "jumped(2)",
+          "fear(2)",
+          "bread(1)",
+          "piece(1)",
+          "cloth(1)",
+          "lay(1)",
+          "cried(1)",
+          "pocket(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8019,
+        "wordCount": 515,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "tailor(19)",
+          "giant(8)",
+          "king(6)",
+          "giants(5)",
+          "blow(3)",
+          "belt(3)",
+          "cried(2)",
+          "cheese(2)",
+          "bird(2)",
+          "stone(2)",
+          "afraid(2)",
+          "asleep(2)",
+          "wild(2)",
+          "horn(2)",
+          "jumped(2)",
+          "servants(2)",
+          "farm(1)",
+          "jam(1)",
+          "spread(1)",
+          "bread(1)",
+          "cloth(1)",
+          "counted(1)",
+          "sewed(1)",
+          "pocket(1)",
+          "mountain(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.8837,
+        "wordCount": 834,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "tailor(28)",
+          "giant(13)",
+          "giants(5)",
+          "belt(3)",
+          "unicorn(3)",
+          "boar(3)",
+          "jacket(2)",
+          "cheese(2)",
+          "squeezed(2)",
+          "trunk(2)",
+          "servants(2)",
+          "sunny(1)",
+          "sewing(1)",
+          "jam(1)",
+          "spoonful(1)",
+          "slice(1)",
+          "bread(1)",
+          "cloth(1)",
+          "lying(1)",
+          "stitched(1)",
+          "bush(1)",
+          "oak(1)",
+          "cave(1)",
+          "midnight(1)",
+          "iron(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9154,
+        "wordCount": 1158,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "tailor(31)",
+          "unicorn(4)",
+          "trunk(3)",
+          "asleep(3)",
+          "riders(3)",
+          "boar(3)",
+          "jam(2)",
+          "cloth(2)",
+          "squeezed(2)",
+          "horn(2)",
+          "sewing(1)",
+          "spoonful(1)",
+          "grumbling(1)",
+          "drifted(1)",
+          "temper(1)",
+          "seized(1)",
+          "stitched(1)",
+          "bush(1)",
+          "scorn(1)",
+          "miserable(1)",
+          "unbuttoned(1)",
+          "oak(1)",
+          "comfortably(1)",
+          "cherry(1)",
+          "ripest(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9049,
+        "wordCount": 1599,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "tailor(32)",
+          "unicorn(4)",
+          "trunk(3)",
+          "fled(3)",
+          "asleep(3)",
+          "boar(3)",
+          "cloth(2)",
+          "squeezed(2)",
+          "tossed(2)",
+          "mighty(2)",
+          "roaring(2)",
+          "terror(2)",
+          "companion(2)",
+          "quarrel(2)",
+          "kingdom(2)",
+          "riders(2)",
+          "rope(2)",
+          "axe(2)",
+          "horn(2)",
+          "hunters(2)",
+          "queen(2)",
+          "trousers(2)",
+          "stitching(1)",
+          "jam(1)",
+          "spoonful(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": "ds. He put an old cheese in his pocket. He took a little bird too.  On a mountain,"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 333,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 22,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 515,
+      "sentLenMedian": 10,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0041,
+      "lowZipfWords": [
+        "faraway",
+        "sewed"
+      ],
+      "keyTermTokens": 32,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 834,
+      "sentLenMedian": 13,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0089,
+      "lowZipfWords": [
+        "boar",
+        "faraway",
+        "mend",
+        "spoonful",
+        "stitched"
+      ],
+      "keyTermTokens": 46,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1158,
+      "sentLenMedian": 16.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0244,
+      "lowZipfWords": [
+        "alarmed",
+        "angrily",
+        "boar",
+        "crept",
+        "drifted",
+        "grumbling",
+        "leapt",
+        "mend",
+        "moods",
+        "muttered",
+        "overheard",
+        "quarrel",
+        "quarreled",
+        "regretted",
+        "ripest",
+        "scorn",
+        "sew",
+        "snoring",
+        "spoonful",
+        "squire",
+        "stitched",
+        "strolling",
+        "unbuttoned",
+        "unhurt",
+        "wandered"
+      ],
+      "keyTermTokens": 53,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1599,
+      "sentLenMedian": 24.0,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0324,
+      "lowZipfWords": [
+        "annoyance",
+        "boar",
+        "composure",
+        "crept",
+        "darted",
+        "felled",
+        "flung",
+        "greedily",
+        "grumbled",
+        "heaved",
+        "hurried",
+        "leaned",
+        "leapt",
+        "mend",
+        "motionless",
+        "nimble",
+        "overcame",
+        "overheard",
+        "quarrel",
+        "rejoicing",
+        "remarking",
+        "ripest",
+        "roamed",
+        "robbing",
+        "sapling",
+        "scarcely",
+        "sew",
+        "shoved",
+        "snatched",
+        "snoring",
+        "splendor",
+        "spoonful",
+        "sprang",
+        "squire",
+        "stitched",
+        "stitching",
+        "strolling",
+        "thundered",
+        "trembled",
+        "trickled",
+        "troublesome",
+        "unbuttoned",
+        "unhurt",
+        "unicorn's",
+        "wandered"
+      ],
+      "keyTermTokens": 56,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.7087,
+      "wordCount": 333,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "tailor(15)",
+        "giant(5)",
+        "king(5)",
+        "flies(3)",
+        "tree(3)",
+        "window(2)",
+        "jam(2)",
+        "hit(2)",
+        "blow(2)",
+        "belt(2)",
+        "cheese(2)",
+        "bird(2)",
+        "pressed(2)",
+        "stone(2)",
+        "threw(2)",
+        "giants(2)",
+        "horn(2)",
+        "jumped(2)",
+        "fear(2)",
+        "bread(1)",
+        "piece(1)",
+        "cloth(1)",
+        "lay(1)",
+        "cried(1)",
+        "pocket(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8019,
+      "wordCount": 515,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "tailor(19)",
+        "giant(8)",
+        "king(6)",
+        "giants(5)",
+        "blow(3)",
+        "belt(3)",
+        "cried(2)",
+        "cheese(2)",
+        "bird(2)",
+        "stone(2)",
+        "afraid(2)",
+        "asleep(2)",
+        "wild(2)",
+        "horn(2)",
+        "jumped(2)",
+        "servants(2)",
+        "farm(1)",
+        "jam(1)",
+        "spread(1)",
+        "bread(1)",
+        "cloth(1)",
+        "counted(1)",
+        "sewed(1)",
+        "pocket(1)",
+        "mountain(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.8837,
+      "wordCount": 834,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "tailor(28)",
+        "giant(13)",
+        "giants(5)",
+        "belt(3)",
+        "unicorn(3)",
+        "boar(3)",
+        "jacket(2)",
+        "cheese(2)",
+        "squeezed(2)",
+        "trunk(2)",
+        "servants(2)",
+        "sunny(1)",
+        "sewing(1)",
+        "jam(1)",
+        "spoonful(1)",
+        "slice(1)",
+        "bread(1)",
+        "cloth(1)",
+        "lying(1)",
+        "stitched(1)",
+        "bush(1)",
+        "oak(1)",
+        "cave(1)",
+        "midnight(1)",
+        "iron(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9154,
+      "wordCount": 1158,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "tailor(31)",
+        "unicorn(4)",
+        "trunk(3)",
+        "asleep(3)",
+        "riders(3)",
+        "boar(3)",
+        "jam(2)",
+        "cloth(2)",
+        "squeezed(2)",
+        "horn(2)",
+        "sewing(1)",
+        "spoonful(1)",
+        "grumbling(1)",
+        "drifted(1)",
+        "temper(1)",
+        "seized(1)",
+        "stitched(1)",
+        "bush(1)",
+        "scorn(1)",
+        "miserable(1)",
+        "unbuttoned(1)",
+        "oak(1)",
+        "comfortably(1)",
+        "cherry(1)",
+        "ripest(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9049,
+      "wordCount": 1599,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "tailor(32)",
+        "unicorn(4)",
+        "trunk(3)",
+        "fled(3)",
+        "asleep(3)",
+        "boar(3)",
+        "cloth(2)",
+        "squeezed(2)",
+        "tossed(2)",
+        "mighty(2)",
+        "roaring(2)",
+        "terror(2)",
+        "companion(2)",
+        "quarrel(2)",
+        "kingdom(2)",
+        "riders(2)",
+        "rope(2)",
+        "axe(2)",
+        "horn(2)",
+        "hunters(2)",
+        "queen(2)",
+        "trousers(2)",
+        "stitching(1)",
+        "jam(1)",
+        "spoonful(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.25,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0280",
+        "title": "The Little Mermaid",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0210",
+        "title": "The Little Red Hen",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

@@ -1,0 +1,636 @@
+{
+  "id": "st-0295",
+  "title": "The Gold-Bug",
+  "ts": "2026-10-29T21:45:07",
+  "node": {
+    "id": "st-0295",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %78.9 | 331 kelime\n    havuz dışı: william(1), island(1), quiet(1), sandy(1), poor(2), clever(1), shells(1), bugs(1), loyal(1), cold(1), beetle(6), gold(2), heavy(1), fort(1), parchment(2), fire(2), picture(1), dog(1), jumped(1), skull(2), laughed(1), desk(1), strange(1), hills(1), string(2), mad(2), tall(1), tree(3), climbed(2), drop(1), measured(1), feet(1), dug(2), touched(1), mixed(1), spot(1), wooden(1), box(1), inside(1), coins(1), rings(1), bright(1), jewels(1), heat(1), secret(1), marks(2), captain(1), famous(1), pirate(1), code(1), solved(1), smiled(1), joke(1)",
+        "level A2: A2: KALDI | kapsam %83.5 | 540 kelime\n    havuz dışı: william(1), rich(2), hut(3), collected(1), shells(1), insects(1), excited(1), beetle(11), bright(2), gold(4), heavy(1), fort(1), parchment(5), jumped(1), skull(5), locked(1), desk(1), strange(1), blamed(1), bug(2), mad(2), wild(1), hills(1), tools(2), tall(2), climb(1), tied(1), string(2), climbed(2), seventh(1), branch(1), shouted(1), slowly(2), dug(2), mixed(1), wooden(1), chest(1), iron(1), coins(1), chains(1), jewels(1), treasure(1), sunrise(1), beach(1), heat(1), hidden(1), goat(3), famous(1), pirate(1), secret(1), code(1), e(1), telescope(1), joke(1)",
+        "level B1: B1: KALDI | kapsam %91.0 | 809 kelime\n    havuz dışı: sand(1), grass(1), bushes(1), wealthy(1), hut(3), shells(1), insects(1), beetle(10), fort(1), parchment(5), shiny(1), bug(4), flames(1), skull(5), pale(2), slate(1), fortune(1), lonely(1), spades(2), giant(1), tulip(1), seventh(1), nailed(1), string(1), shone(2), moonlight(1), dig(1), dug(1), wooden(1), chest(1), iron(1), lamp(1), pile(1), coins(1), shining(1), jewels(1), treasure(1), sunrise(1), wreck(1), wrapped(1), goat(3), signature(1), pirate(1), e(1), telescope(1), mad(1)",
+        "level B2: B2: KALDI | kapsam %92.3 | 1154 kelime\n    havuz dışı: coarse(1), bushes(1), misfortunes(1), hut(3), insects(1), clever(2), cheer(1), gloom(1), chilly(1), cheerful(1), beetle(12), polished(1), fort(1), scrap(1), parchment(5), bug(4), fuss(2), flames(1), remarkably(1), skull(5), annoyed(1), slate(1), bitten(1), begged(1), unwell(1), spades(2), lonely(1), tulip(1), seventh(1), nailed(1), glittering(2), peg(2), trunk(1), lamplight(1), hesitation(1), disappointment(1), bark(1), scratch(1), bound(1), lamp(1), treasure(2), heaps(1), jewels(1), sunrise(1), wreck(1), lying(1), invisible(1), ink(1), goat(3), signature(1), pirate(1), e(2), bishop's(1), hostel(1), bishop(1), telescope(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.7885,
+        "wordCount": 331,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "beetle(6)",
+          "tree(3)",
+          "poor(2)",
+          "gold(2)",
+          "parchment(2)",
+          "fire(2)",
+          "skull(2)",
+          "string(2)",
+          "mad(2)",
+          "climbed(2)",
+          "dug(2)",
+          "marks(2)",
+          "william(1)",
+          "island(1)",
+          "quiet(1)",
+          "sandy(1)",
+          "clever(1)",
+          "shells(1)",
+          "bugs(1)",
+          "loyal(1)",
+          "cold(1)",
+          "heavy(1)",
+          "fort(1)",
+          "picture(1)",
+          "dog(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8352,
+        "wordCount": 540,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "beetle(11)",
+          "parchment(5)",
+          "skull(5)",
+          "gold(4)",
+          "hut(3)",
+          "goat(3)",
+          "rich(2)",
+          "bright(2)",
+          "bug(2)",
+          "mad(2)",
+          "tools(2)",
+          "tall(2)",
+          "string(2)",
+          "climbed(2)",
+          "slowly(2)",
+          "dug(2)",
+          "william(1)",
+          "collected(1)",
+          "shells(1)",
+          "insects(1)",
+          "excited(1)",
+          "heavy(1)",
+          "fort(1)",
+          "jumped(1)",
+          "locked(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9098,
+        "wordCount": 809,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "beetle(10)",
+          "parchment(5)",
+          "skull(5)",
+          "bug(4)",
+          "hut(3)",
+          "goat(3)",
+          "pale(2)",
+          "spades(2)",
+          "shone(2)",
+          "sand(1)",
+          "grass(1)",
+          "bushes(1)",
+          "wealthy(1)",
+          "shells(1)",
+          "insects(1)",
+          "fort(1)",
+          "shiny(1)",
+          "flames(1)",
+          "slate(1)",
+          "fortune(1)",
+          "lonely(1)",
+          "giant(1)",
+          "tulip(1)",
+          "seventh(1)",
+          "nailed(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9229,
+        "wordCount": 1154,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "beetle(12)",
+          "parchment(5)",
+          "skull(5)",
+          "bug(4)",
+          "hut(3)",
+          "goat(3)",
+          "clever(2)",
+          "fuss(2)",
+          "spades(2)",
+          "glittering(2)",
+          "peg(2)",
+          "treasure(2)",
+          "e(2)",
+          "coarse(1)",
+          "bushes(1)",
+          "misfortunes(1)",
+          "insects(1)",
+          "cheer(1)",
+          "gloom(1)",
+          "chilly(1)",
+          "cheerful(1)",
+          "polished(1)",
+          "fort(1)",
+          "scrap(1)",
+          "flames(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9054,
+        "wordCount": 1543,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "beetle(11)",
+          "hut(6)",
+          "parchment(5)",
+          "skull(4)",
+          "scrap(3)",
+          "bug(3)",
+          "sketch(2)",
+          "blaze(2)",
+          "seventh(2)",
+          "peg(2)",
+          "goat(2)",
+          "e(2)",
+          "ledge(2)",
+          "retreated(1)",
+          "misfortunes(1)",
+          "ribbon(1)",
+          "coarse(1)",
+          "dense(1)",
+          "tangle(1)",
+          "myrtle(1)",
+          "rambling(1)",
+          "insects(1)",
+          "enthusiasm(1)",
+          "brooding(1)",
+          "melancholy(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 331,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.03,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 540,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 809,
+      "sentLenMedian": 13.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.008,
+      "lowZipfWords": [
+        "shone",
+        "spades",
+        "tulip",
+        "warmed"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1154,
+      "sentLenMedian": 17,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0184,
+      "lowZipfWords": [
+        "bishop's",
+        "bitten",
+        "coarse",
+        "glittering",
+        "gloom",
+        "heaps",
+        "hostel",
+        "humored",
+        "lamplight",
+        "misfortunes",
+        "moods",
+        "peg",
+        "spades",
+        "tulip",
+        "unwell",
+        "warmed"
+      ],
+      "keyTermTokens": 17,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1543,
+      "sentLenMedian": 24,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0421,
+      "lowZipfWords": [
+        "bishop's",
+        "bleached",
+        "blistered",
+        "bounding",
+        "brooding",
+        "burnished",
+        "chilled",
+        "coarse",
+        "desolate",
+        "dusk",
+        "flashed",
+        "garbled",
+        "glinting",
+        "glittering",
+        "gravely",
+        "gullies",
+        "heaps",
+        "hearth",
+        "hostel",
+        "humored",
+        "jumble",
+        "lamplight",
+        "ledge",
+        "lightened",
+        "melancholy",
+        "misfortunes",
+        "moment's",
+        "motionless",
+        "myrtle",
+        "nipped",
+        "outweighed",
+        "paws",
+        "pebbles",
+        "peg",
+        "plainly",
+        "rambling",
+        "reasoned",
+        "recurred",
+        "retreated",
+        "riddle",
+        "ridges",
+        "scarcely",
+        "shouldering",
+        "sketched",
+        "skull's",
+        "snatched",
+        "spade",
+        "spades",
+        "speechless",
+        "stung",
+        "suspecting",
+        "swung",
+        "tangle",
+        "towered",
+        "tulip",
+        "tumbled",
+        "unluckily",
+        "unsettled",
+        "warmed",
+        "wildness"
+      ],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.7885,
+      "wordCount": 331,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "beetle(6)",
+        "tree(3)",
+        "poor(2)",
+        "gold(2)",
+        "parchment(2)",
+        "fire(2)",
+        "skull(2)",
+        "string(2)",
+        "mad(2)",
+        "climbed(2)",
+        "dug(2)",
+        "marks(2)",
+        "william(1)",
+        "island(1)",
+        "quiet(1)",
+        "sandy(1)",
+        "clever(1)",
+        "shells(1)",
+        "bugs(1)",
+        "loyal(1)",
+        "cold(1)",
+        "heavy(1)",
+        "fort(1)",
+        "picture(1)",
+        "dog(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8352,
+      "wordCount": 540,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "beetle(11)",
+        "parchment(5)",
+        "skull(5)",
+        "gold(4)",
+        "hut(3)",
+        "goat(3)",
+        "rich(2)",
+        "bright(2)",
+        "bug(2)",
+        "mad(2)",
+        "tools(2)",
+        "tall(2)",
+        "string(2)",
+        "climbed(2)",
+        "slowly(2)",
+        "dug(2)",
+        "william(1)",
+        "collected(1)",
+        "shells(1)",
+        "insects(1)",
+        "excited(1)",
+        "heavy(1)",
+        "fort(1)",
+        "jumped(1)",
+        "locked(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9098,
+      "wordCount": 809,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "beetle(10)",
+        "parchment(5)",
+        "skull(5)",
+        "bug(4)",
+        "hut(3)",
+        "goat(3)",
+        "pale(2)",
+        "spades(2)",
+        "shone(2)",
+        "sand(1)",
+        "grass(1)",
+        "bushes(1)",
+        "wealthy(1)",
+        "shells(1)",
+        "insects(1)",
+        "fort(1)",
+        "shiny(1)",
+        "flames(1)",
+        "slate(1)",
+        "fortune(1)",
+        "lonely(1)",
+        "giant(1)",
+        "tulip(1)",
+        "seventh(1)",
+        "nailed(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9229,
+      "wordCount": 1154,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "beetle(12)",
+        "parchment(5)",
+        "skull(5)",
+        "bug(4)",
+        "hut(3)",
+        "goat(3)",
+        "clever(2)",
+        "fuss(2)",
+        "spades(2)",
+        "glittering(2)",
+        "peg(2)",
+        "treasure(2)",
+        "e(2)",
+        "coarse(1)",
+        "bushes(1)",
+        "misfortunes(1)",
+        "insects(1)",
+        "cheer(1)",
+        "gloom(1)",
+        "chilly(1)",
+        "cheerful(1)",
+        "polished(1)",
+        "fort(1)",
+        "scrap(1)",
+        "flames(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9054,
+      "wordCount": 1543,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "beetle(11)",
+        "hut(6)",
+        "parchment(5)",
+        "skull(4)",
+        "scrap(3)",
+        "bug(3)",
+        "sketch(2)",
+        "blaze(2)",
+        "seventh(2)",
+        "peg(2)",
+        "goat(2)",
+        "e(2)",
+        "ledge(2)",
+        "retreated(1)",
+        "misfortunes(1)",
+        "ribbon(1)",
+        "coarse(1)",
+        "dense(1)",
+        "tangle(1)",
+        "myrtle(1)",
+        "rambling(1)",
+        "insects(1)",
+        "enthusiasm(1)",
+        "brooding(1)",
+        "melancholy(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "skull": 26
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.038,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0052",
+        "title": "The Mirror in the Attic",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.038,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0188",
+        "title": "How the Rhinoceros Got His Skin",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.038,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0131",
+        "title": "The Goose That Laid the Golden Eggs",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.034,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}
