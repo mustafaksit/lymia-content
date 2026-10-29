@@ -308,6 +308,28 @@ def all_texts(story):
             yield f"{lvl}.quiz", " ".join([q["q"], *q["options"]])
 
 
+# Sert: kan, cinayet, intihar, govdeye saplama, sarhosluk, cinsellik -> 4+ disi (KALDI).
+# Yumusak: olum/av/silah/opucuk gibi baglama gore masum olabilenler -> yalniz rapor (kor inceleme karar verir).
+FOURPLUS_HARD = re.compile(r"\b(blood|bloody|bloodied|bleed|bleeding|bled|corpses?|murder\w*|suicid\w*|"
+                           r"stab|stabs|stabbed|stabbing|behead\w*|decapitat\w*|gore|gory|drunk\w*|nude|"
+                           r"sex|sexy|sexual\w*|slaughter\w*|tortur\w*|strangl\w*)\b", re.I)
+FOURPLUS_SOFT = re.compile(r"\b(kill|kills|killed|killing|killer|naked|dead|death|die[sd]?|dying|skull|bones?|grave|"
+                           r"wound\w*|knife|knives|sword|gun|pistol|shot|shoot\w*|wine|beer|kiss\w*|terrif\w*|"
+                           r"horror|scream\w*)\b", re.I)
+
+
+def gate_fourplus(story):
+    """4+ sozcuk taramasi: sert terim = KALDI; yumusak terim yalniz raporlanir (kor inceleme bakar)."""
+    hard, soft = [], {}
+    for where, text in all_texts(story):
+        for m in FOURPLUS_HARD.finditer(text):
+            hard.append(f"{where}: '{m.group(0)}' :: {text[:140]}")
+        for m in FOURPLUS_SOFT.finditer(text):
+            k = m.group(0).lower()
+            soft[k] = soft.get(k, 0) + 1
+    return {"hard": hard, "soft": soft}
+
+
 def gate_copyright(story):
     hits = []
     for where, text in all_texts(story):
@@ -426,6 +448,11 @@ def run(story_id, use_lt=True):
     q = gate_quiz(story)
     res["quiz"] = q
     verdict["4_profile"] += [f"quiz: {f}" for f in q["fails"]]
+
+    # 4+ yas uygunlugu (sozcuk taramasi; asil karar kor incelemede)
+    fp = gate_fourplus(story)
+    res["fourPlus"] = fp
+    verdict["4p_fourplus"] = fp["hard"]
 
     # 6 telif
     c = gate_copyright(story)
