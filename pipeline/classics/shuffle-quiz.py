@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 """Quiz siklarini deterministik karistirir (tohum: id+seviye+soru no), dogru cevabi korur.
 Amac: dogru cevap konumu tahmin edilemesin (yazarlar bazen 0/1/2 sirasini sabit birakti).
-Kullanim: python3 qa/classics-batch-01/tools/shuffle-quiz.py [st-0273 ...]  (bos: batch-ids.json)"""
+Kullanim: CLASSICS_BATCH=qa/classics-batch-NN python3 pipeline/classics/shuffle-quiz.py [st-0273 ...]  (bos: batch-ids.json)"""
 import hashlib, json, random, sys
 from pathlib import Path
-QA = Path(__file__).resolve().parent.parent
-V2 = QA.parents[1] / "content" / "v2" / "stories"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from batch import V2 as _V2, batch_dir  # noqa: E402
+
+QA = batch_dir()
+V2 = _V2 / "stories"
 ids = sys.argv[1:] or json.loads((QA / "batch-ids.json").read_text())
 for sid in ids:
     p = V2 / f"{sid}.json"

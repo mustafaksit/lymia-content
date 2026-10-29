@@ -6,7 +6,7 @@ Olculenler (seviye basina, hikaye-basi degerlerin dagilimi):
   - sentLen: hikayenin medyan cumle uzunlugu (kelime)
   - zipf: hikayenin medyan wordfreq zipf degeri (ozel isimler haric)
   - lowZipfRatio: zipf < 3.5 kelime orani (ozel isimler haric)
-Kullanim: pipeline/.venv/bin/python qa/classics-batch-01/tools/baseline.py [--ids st-0001,...]
+Kullanim: pipeline/.venv/bin/python pipeline/classics/baseline.py [--ids st-0001,...]
 """
 import json
 import re
@@ -16,7 +16,7 @@ from pathlib import Path
 
 from wordfreq import zipf_frequency
 
-ROOT = Path(__file__).resolve().parents[3]
+ROOT = Path(__file__).resolve().parents[2]
 V2 = ROOT / "content" / "v2" / "stories"
 LEVELS = ["A1", "A2", "B1", "B2", "C1"]
 WORD_RE = re.compile(r"[A-Za-z][A-Za-z'’]*")

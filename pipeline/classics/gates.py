@@ -13,8 +13,8 @@ Kapilar (her hikaye, her seviye):
   (5 kor inceleme ayri: ajanlarla, sonuc reviews/ altinda)
 
 Kullanim:
-  pipeline/.venv/bin/python qa/classics-batch-01/tools/gates.py st-0273 [st-0274 ...] [--no-lt]
-Cikti: qa/classics-batch-01/gates/<id>.json + gates/log.jsonl (her kosu bir satir)
+  CLASSICS_BATCH=qa/classics-batch-NN pipeline/.venv/bin/python pipeline/classics/gates.py [st-XXXX ...] [--no-lt]
+Cikti: $CLASSICS_BATCH/gates/<id>.json + gates/log.jsonl (her kosu bir satir)
 Cikis kodu: herhangi bir kapi KALDI ise 1.
 """
 import json
@@ -29,8 +29,10 @@ from pathlib import Path
 from wordfreq import zipf_frequency
 
 HERE = Path(__file__).resolve().parent
-QA = HERE.parent
-ROOT = QA.parents[1]
+sys.path.insert(0, str(HERE))
+from batch import ROOT, batch_dir  # noqa: E402
+
+QA = batch_dir()
 V2 = ROOT / "content" / "v2"
 LEVELS = ["A1", "A2", "B1", "B2", "C1"]
 WORD_RE = re.compile(r"[A-Za-z][A-Za-z'’]*")
@@ -38,7 +40,7 @@ MAX_SENT = {"A1": 8, "A2": 12, "B1": 16, "B2": 22, "C1": 32}  # pipeline/lib/lev
 NEW_IDS_FILE = QA / "batch-ids.json"
 
 BASE = json.loads((ROOT / "stats" / "baseline-v2.json").read_text())["levels"]
-COPY = json.loads((QA / "copyright-terms.json").read_text())["terms"]
+COPY = json.loads((HERE / "copyright-terms.json").read_text())["terms"]
 SOURCES = json.loads((V2 / "sources.json").read_text()) if (V2 / "sources.json").exists() else {}
 
 # ---------------------------------------------------------------- yardimcilar

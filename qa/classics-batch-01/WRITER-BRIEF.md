@@ -1,5 +1,8 @@
 # Yazar brifi — Klasik Hikayeler, batch-01
 
+> Arsiv: batch-01 sirasinda kullanilan surum. Araclar `qa/classics-batch-01/tools/` yerine
+> artik `pipeline/classics/` altinda (CLASSICS_BATCH env ile). Guncel brif: `pipeline/classics/WRITER-BRIEF.md`.
+
 Bu dosya her hikaye yazarinin (insan ya da ajan) tek referansidir. Repo koku:
 `/Users/mustafa.aksit/Documents/GitHub/AiProjects/lymia-content-classics-01`
 (git worktree, branch `content/classics-batch-01`). Commit ATMA, push ATMA.

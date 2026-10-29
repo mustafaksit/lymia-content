@@ -5,7 +5,7 @@
 - metin kelimeleri (generate-audio.py ile ayni WORD_RE) ile timing kelimelerinin
   sira sira hizalanmasi: ilk sapma noktasi + toplam fark
 - cumle audioStart/audioEnd: monoton artan, 0 olmayan, audioEnd <= sure
-Cikti: qa/classics-batch-01/audio-check.json + stdout ozet. Hata varsa cikis kodu 1.
+Cikti: $CLASSICS_BATCH/audio-check.json + stdout ozet. Hata varsa cikis kodu 1.
 """
 import json
 import re
@@ -13,8 +13,10 @@ import subprocess
 import sys
 from pathlib import Path
 
-QA = Path(__file__).resolve().parent.parent
-ROOT = QA.parents[1]
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from batch import ROOT, batch_dir  # noqa: E402
+
+QA = batch_dir()
 WORD_RE = re.compile(r"[A-Za-z][A-Za-z'’]*")
 
 

@@ -6,20 +6,20 @@
  * Kapak: v2/covers/ altinda <id>-<hash8>.webp varsa onu baglar; yoksa mevcut degeri korur
  * (ilk eklemede "covers/<id>-pending.webp": kapak otomasyonu + import-covers-v2.mjs bekleniyor).
  *
- * Kullanim: node qa/classics-batch-01/tools/index-add.mjs [st-0273 ...]   (bos: batch-ids.json)
+ * Kullanim: CLASSICS_BATCH=qa/classics-batch-NN node pipeline/classics/index-add.mjs [st-XXXX ...]   (bos: $CLASSICS_BATCH/batch-ids.json)
  */
 import { readFileSync, writeFileSync, readdirSync, mkdirSync, rmdirSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
-const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../..');
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
 const { levelWordCount } = await import(pathToFileURL(path.join(ROOT, 'pipeline/lib/validate.mjs')));
 const V2 = path.join(ROOT, 'content/v2');
 const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1'];
 
 const ids = process.argv.slice(2).length
   ? process.argv.slice(2)
-  : JSON.parse(readFileSync(path.join(ROOT, 'qa/classics-batch-01/batch-ids.json'), 'utf8'));
+  : JSON.parse(readFileSync(path.resolve(ROOT, process.env.CLASSICS_BATCH ?? '', 'batch-ids.json'), 'utf8'));
 
 const slugify = (t) => t.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
 const minutesFor = (wc) => Math.max(1, Math.round(wc / 128));

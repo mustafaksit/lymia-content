@@ -2,14 +2,17 @@
 """Kor inceleme girdisi: hikayenin YALNIZ okur metni (baslik, 5 seviye, quiz).
 Kaynak bilgisi, yazar notu, kapi sonucu YOK. Cikti: reviews/input/<id>-r<tur>.md
 
-Kullanim: python3 qa/classics-batch-01/tools/review-input.py <tur> st-0273 [...]
+Kullanim: CLASSICS_BATCH=qa/classics-batch-NN python3 pipeline/classics/review-input.py <tur> st-XXXX [...]
 """
 import json
 import sys
 from pathlib import Path
 
-QA = Path(__file__).resolve().parent.parent
-V2 = QA.parents[1] / "content" / "v2" / "stories"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from batch import V2 as _V2, batch_dir  # noqa: E402
+
+QA = batch_dir()
+V2 = _V2 / "stories"
 
 
 def main():
