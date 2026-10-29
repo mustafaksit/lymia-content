@@ -1,0 +1,693 @@
+{
+  "id": "st-0293",
+  "title": "The Adventure of the Norwood Builder",
+  "ts": "2026-10-29T21:45:05",
+  "node": {
+    "id": "st-0293",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %84.5 | 330 kelime\n    havuz dışı: sherlock(1), suddenly(2), afraid(1), cried(1), police(3), inspector(1), yesterday(2), forgot(1), stick(2), slept(1), hotel(1), newspaper(1), fire(1), wood(1), yard(1), hurt(2), happy(2), thumbprint(3), wall(3), carefully(1), measured(1), halls(1), upstairs(2), hall(2), downstairs(1), smiled(1), straw(1), smoke(1), shouted(1), fine(1), joke(1), hid(1), secret(1), touched(1), wax(2), marry(1), son(1)",
+        "level A2: A2: KALDI | kapsam %90.2 | 518 kelime\n    havuz dışı: rushed(1), terrible(1), crime(1), untidy(2), housekeeper(3), supper(1), stick(2), wood(1), yard(1), safe(1), burnt(1), bones(2), ashes(1), blame(1), neat(1), shaky(1), cruel(1), hurried(1), thumbprint(2), whispered(1), upstairs(3), hall(4), downstairs(1), straw(2), policemen(1), gray(1), smoke(1), cried(1), hidden(1), thin(1), secret(1), alive(1), joke(1), hid(1), thumb(1), wax(2), copied(1), hurt(1)",
+        "level B1: B1: KALDI | kapsam %94.8 | 820 kelime\n    havuz dışı: unluckiest(1), stairs(1), inspector(1), policemen(2), untidy(1), handwriting(1), neatly(1), telegram(2), housekeeper(3), supper(1), afterwards(1), midnight(1), inn(1), ashes(2), guilty(1), wicked(1), deed(1), shaky(1), cruel(1), clue(1), hurried(1), thumbprint(2), wax(3), bent(1), whispered(1), upstairs(3), straw(2), piled(1), unhurt(1), sealed(1), thumb(1), revenge(1)",
+        "level B2: B2: KALDI | kapsam %94.3 | 1138 kelime\n    havuz dışı: dull(1), doorbell(1), crumpled(1), forgive(1), gasped(1), unhappiest(1), unmarried(1), doorway(1), policemen(3), disappearance(1), untidy(2), amazement(1), begged(1), telegram(2), housekeeper(3), supper(1), midnight(2), inn(1), flames(1), scattered(1), lying(1), ashes(2), downstairs(1), wicked(1), deed(1), tramp(1), shaky(1), neat(1), messy(1), carelessly(1), gloomy(1), fierce(1), heaven(1), cruel(1), spiteful(1), guilt(1), thumbprint(1), thumb(2), wax(3), identical(1), inspector(1), upstairs(2), corridor(3), bundle(1), straw(2), drifted(1), muttered(1), uneasy(1), packet(1), punish(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8455,
+        "wordCount": 330,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "police(3)",
+          "thumbprint(3)",
+          "wall(3)",
+          "suddenly(2)",
+          "yesterday(2)",
+          "stick(2)",
+          "hurt(2)",
+          "happy(2)",
+          "upstairs(2)",
+          "hall(2)",
+          "wax(2)",
+          "sherlock(1)",
+          "afraid(1)",
+          "cried(1)",
+          "inspector(1)",
+          "forgot(1)",
+          "slept(1)",
+          "hotel(1)",
+          "newspaper(1)",
+          "fire(1)",
+          "wood(1)",
+          "yard(1)",
+          "carefully(1)",
+          "measured(1)",
+          "halls(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9015,
+        "wordCount": 518,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "hall(4)",
+          "housekeeper(3)",
+          "upstairs(3)",
+          "untidy(2)",
+          "stick(2)",
+          "bones(2)",
+          "thumbprint(2)",
+          "straw(2)",
+          "wax(2)",
+          "rushed(1)",
+          "terrible(1)",
+          "crime(1)",
+          "supper(1)",
+          "wood(1)",
+          "yard(1)",
+          "safe(1)",
+          "burnt(1)",
+          "ashes(1)",
+          "blame(1)",
+          "neat(1)",
+          "shaky(1)",
+          "cruel(1)",
+          "hurried(1)",
+          "whispered(1)",
+          "downstairs(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9476,
+        "wordCount": 820,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "housekeeper(3)",
+          "wax(3)",
+          "upstairs(3)",
+          "policemen(2)",
+          "telegram(2)",
+          "ashes(2)",
+          "thumbprint(2)",
+          "straw(2)",
+          "unluckiest(1)",
+          "stairs(1)",
+          "inspector(1)",
+          "untidy(1)",
+          "handwriting(1)",
+          "neatly(1)",
+          "supper(1)",
+          "afterwards(1)",
+          "midnight(1)",
+          "inn(1)",
+          "guilty(1)",
+          "wicked(1)",
+          "deed(1)",
+          "shaky(1)",
+          "cruel(1)",
+          "clue(1)",
+          "hurried(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9429,
+        "wordCount": 1138,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "policemen(3)",
+          "housekeeper(3)",
+          "wax(3)",
+          "corridor(3)",
+          "untidy(2)",
+          "telegram(2)",
+          "midnight(2)",
+          "ashes(2)",
+          "thumb(2)",
+          "upstairs(2)",
+          "straw(2)",
+          "dull(1)",
+          "doorbell(1)",
+          "crumpled(1)",
+          "forgive(1)",
+          "gasped(1)",
+          "unhappiest(1)",
+          "unmarried(1)",
+          "doorway(1)",
+          "disappearance(1)",
+          "amazement(1)",
+          "begged(1)",
+          "supper(1)",
+          "inn(1)",
+          "flames(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9219,
+        "wordCount": 1549,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "inspector(4)",
+          "housekeeper(4)",
+          "bachelor(2)",
+          "curiosity(2)",
+          "policemen(2)",
+          "astonishment(2)",
+          "telegram(2)",
+          "midnight(2)",
+          "ashes(2)",
+          "thumb(2)",
+          "wax(2)",
+          "corridor(2)",
+          "straw(2)",
+          "sherlock(1)",
+          "grumbling(1)",
+          "uneventful(1)",
+          "doorbell(1)",
+          "frantic(1)",
+          "flung(1)",
+          "stumbled(1)",
+          "clutching(1)",
+          "crumpled(1)",
+          "forgive(1)",
+          "gasped(1)",
+          "unfortunate(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": "in Norwood. He knew my mother long ago. He gave me some papers about his money. He"
+        },
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": "He gave me some papers about his money. He left all his money to me!\"  \"In the eve"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": "nd he wanted to leave everything to me. He gave me his will in untidy handwriting "
+        },
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": "writing and asked me to copy it neatly. He also invited me to his house that eveni"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "Afterwards",
+          "ctx": ", and his housekeeper served us supper. Afterwards, we worked in his study, where a heavy "
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_WELL_PLACED",
+          "cat": "MISC",
+          "msg": "This word is normally spelled with a hyphen.",
+          "frag": "well placed",
+          "ctx": "d a builder who wants a hiding place is well placed to make one. His housekeeper, I imagine"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 330,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.09,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 518,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0172,
+      "lowZipfWords": [
+        "housekeeper",
+        "hurried",
+        "shaky",
+        "untidy",
+        "whispered"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 820,
+      "sentLenMedian": 11.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0158,
+      "lowZipfWords": [
+        "housekeeper",
+        "hurried",
+        "kinder",
+        "neatly",
+        "piled",
+        "shaky",
+        "unhurt",
+        "unluckiest",
+        "untidy",
+        "whispered"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1138,
+      "sentLenMedian": 15.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0188,
+      "lowZipfWords": [
+        "amazement",
+        "carelessly",
+        "crumpled",
+        "doorbell",
+        "drifted",
+        "gasped",
+        "gloomy",
+        "housekeeper",
+        "muttered",
+        "shaky",
+        "spiteful",
+        "tramp",
+        "uneasy",
+        "unhappiest",
+        "unmarried",
+        "untidy",
+        "whispered"
+      ],
+      "keyTermTokens": 2,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1549,
+      "sentLenMedian": 20,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0426,
+      "lowZipfWords": [
+        "afresh",
+        "alight",
+        "armchair",
+        "astonishment",
+        "blunder",
+        "breadth",
+        "clearness",
+        "clutching",
+        "coldly",
+        "constables",
+        "crumpled",
+        "darted",
+        "dispirited",
+        "disposes",
+        "doorbell",
+        "fellow's",
+        "firemen",
+        "flanked",
+        "flung",
+        "frantic",
+        "frowning",
+        "gasped",
+        "glancing",
+        "glimpsing",
+        "grumbling",
+        "hair's",
+        "heaped",
+        "housekeeper",
+        "hurried",
+        "inspector's",
+        "irritation",
+        "leases",
+        "legible",
+        "lingered",
+        "mildly",
+        "mistook",
+        "murmured",
+        "plainly",
+        "prisoner's",
+        "scarcely",
+        "soundly",
+        "souvenir",
+        "spiteful",
+        "startled",
+        "strewn",
+        "sufferer",
+        "sullen",
+        "swung",
+        "terrier",
+        "thundered",
+        "tramp",
+        "uneasy",
+        "uneventful",
+        "uniformed",
+        "unmoved",
+        "untidy",
+        "wanders",
+        "woodpile"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8455,
+      "wordCount": 330,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "police(3)",
+        "thumbprint(3)",
+        "wall(3)",
+        "suddenly(2)",
+        "yesterday(2)",
+        "stick(2)",
+        "hurt(2)",
+        "happy(2)",
+        "upstairs(2)",
+        "hall(2)",
+        "wax(2)",
+        "sherlock(1)",
+        "afraid(1)",
+        "cried(1)",
+        "inspector(1)",
+        "forgot(1)",
+        "slept(1)",
+        "hotel(1)",
+        "newspaper(1)",
+        "fire(1)",
+        "wood(1)",
+        "yard(1)",
+        "carefully(1)",
+        "measured(1)",
+        "halls(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9015,
+      "wordCount": 518,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "hall(4)",
+        "housekeeper(3)",
+        "upstairs(3)",
+        "untidy(2)",
+        "stick(2)",
+        "bones(2)",
+        "thumbprint(2)",
+        "straw(2)",
+        "wax(2)",
+        "rushed(1)",
+        "terrible(1)",
+        "crime(1)",
+        "supper(1)",
+        "wood(1)",
+        "yard(1)",
+        "safe(1)",
+        "burnt(1)",
+        "ashes(1)",
+        "blame(1)",
+        "neat(1)",
+        "shaky(1)",
+        "cruel(1)",
+        "hurried(1)",
+        "whispered(1)",
+        "downstairs(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9476,
+      "wordCount": 820,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "housekeeper(3)",
+        "wax(3)",
+        "upstairs(3)",
+        "policemen(2)",
+        "telegram(2)",
+        "ashes(2)",
+        "thumbprint(2)",
+        "straw(2)",
+        "unluckiest(1)",
+        "stairs(1)",
+        "inspector(1)",
+        "untidy(1)",
+        "handwriting(1)",
+        "neatly(1)",
+        "supper(1)",
+        "afterwards(1)",
+        "midnight(1)",
+        "inn(1)",
+        "guilty(1)",
+        "wicked(1)",
+        "deed(1)",
+        "shaky(1)",
+        "cruel(1)",
+        "clue(1)",
+        "hurried(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9429,
+      "wordCount": 1138,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "policemen(3)",
+        "housekeeper(3)",
+        "wax(3)",
+        "corridor(3)",
+        "untidy(2)",
+        "telegram(2)",
+        "midnight(2)",
+        "ashes(2)",
+        "thumb(2)",
+        "upstairs(2)",
+        "straw(2)",
+        "dull(1)",
+        "doorbell(1)",
+        "crumpled(1)",
+        "forgive(1)",
+        "gasped(1)",
+        "unhappiest(1)",
+        "unmarried(1)",
+        "doorway(1)",
+        "disappearance(1)",
+        "amazement(1)",
+        "begged(1)",
+        "supper(1)",
+        "inn(1)",
+        "flames(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9219,
+      "wordCount": 1549,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "inspector(4)",
+        "housekeeper(4)",
+        "bachelor(2)",
+        "curiosity(2)",
+        "policemen(2)",
+        "astonishment(2)",
+        "telegram(2)",
+        "midnight(2)",
+        "ashes(2)",
+        "thumb(2)",
+        "wax(2)",
+        "corridor(2)",
+        "straw(2)",
+        "sherlock(1)",
+        "grumbling(1)",
+        "uneventful(1)",
+        "doorbell(1)",
+        "frantic(1)",
+        "flung(1)",
+        "stumbled(1)",
+        "clutching(1)",
+        "crumpled(1)",
+        "forgive(1)",
+        "gasped(1)",
+        "unfortunate(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "bones": 9,
+      "dead": 5
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.2,
+      "summary3gramJaccard": 0.13,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0125",
+        "title": "The Adventure of the Blue Carbuncle",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0226",
+        "title": "The Adventure of the Beryl Coronet",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0220",
+        "title": "The Man with the Twisted Lip",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.13,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

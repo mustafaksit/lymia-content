@@ -1,0 +1,630 @@
+{
+  "id": "st-0311",
+  "title": "The Crystal Egg",
+  "ts": "2026-10-29T21:45:27",
+  "node": {
+    "id": "st-0311",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %82.8 | 303 kelime\n    havuz dışı: thin(1), ill(1), wife(1), unkind(1), crystal(5), egg(9), window(1), smooth(1), pounds(1), afternoon(1), lie(1), mrs(2), angry(1), cried(1), scientist(1), safe(1), secret(1), inside(2), curtains(1), wide(1), buildings(2), strange(2), trees(1), tall(2), poles(1), pole(1), creatures(1), flew(1), air(1), arms(1), moons(1), eggs(1), busy(1), quietly(1), stranger(1)",
+        "level A2: A2: KALDI | kapsam %89.2 | 518 kelime\n    havuz dışı: thin(2), ill(2), unkind(1), crystal(4), egg(16), smooth(1), clergyman(1), nervous(1), i'm(1), can't(1), angry(1), shouted(1), strange(3), soft(1), curtains(1), flat(1), buildings(2), tall(2), poles(2), pole(1), creatures(1), wings(1), moons(1), sky(1), moon(1), eggs(1), jumped(1), busy(1), tired(1), quietly(1), gray(1)",
+        "level B1: B1: KALDI | kapsam %94.6 | 717 kelime\n    havuz dışı: dusty(1), pale(2), unkind(1), seldom(1), crystal(7), smooth(1), shone(1), clergyman(1), nervous(1), i'm(1), furious(1), penny(1), wrapped(1), cloth(1), can't(1), lying(1), awake(1), faint(1), glowing(1), mist(2), beam(1), buildings(2), poles(2), creatures(1), wings(1), moons(2), creature(1), stare(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8284,
+        "wordCount": 303,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "egg(9)",
+          "crystal(5)",
+          "mrs(2)",
+          "inside(2)",
+          "buildings(2)",
+          "strange(2)",
+          "tall(2)",
+          "thin(1)",
+          "ill(1)",
+          "wife(1)",
+          "unkind(1)",
+          "window(1)",
+          "smooth(1)",
+          "pounds(1)",
+          "afternoon(1)",
+          "lie(1)",
+          "angry(1)",
+          "cried(1)",
+          "scientist(1)",
+          "safe(1)",
+          "secret(1)",
+          "curtains(1)",
+          "wide(1)",
+          "trees(1)",
+          "poles(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8919,
+        "wordCount": 518,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "egg(16)",
+          "crystal(4)",
+          "strange(3)",
+          "thin(2)",
+          "ill(2)",
+          "buildings(2)",
+          "tall(2)",
+          "poles(2)",
+          "unkind(1)",
+          "smooth(1)",
+          "clergyman(1)",
+          "nervous(1)",
+          "i'm(1)",
+          "can't(1)",
+          "angry(1)",
+          "shouted(1)",
+          "soft(1)",
+          "curtains(1)",
+          "flat(1)",
+          "pole(1)",
+          "creatures(1)",
+          "wings(1)",
+          "moons(1)",
+          "sky(1)",
+          "moon(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9456,
+        "wordCount": 717,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "crystal(7)",
+          "pale(2)",
+          "mist(2)",
+          "buildings(2)",
+          "poles(2)",
+          "moons(2)",
+          "dusty(1)",
+          "unkind(1)",
+          "seldom(1)",
+          "smooth(1)",
+          "shone(1)",
+          "clergyman(1)",
+          "nervous(1)",
+          "i'm(1)",
+          "furious(1)",
+          "penny(1)",
+          "wrapped(1)",
+          "cloth(1)",
+          "can't(1)",
+          "lying(1)",
+          "awake(1)",
+          "faint(1)",
+          "glowing(1)",
+          "beam(1)",
+          "creatures(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9643,
+        "wordCount": 952,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "crystal(7)",
+          "masts(3)",
+          "clergyman(2)",
+          "buildings(2)",
+          "untidy(1)",
+          "antique(1)",
+          "watery(1)",
+          "patience(1)",
+          "seldom(1)",
+          "peaceful(1)",
+          "dusty(1)",
+          "polished(1)",
+          "puzzled(1)",
+          "fury(1)",
+          "shyly(1)",
+          "faint(1)",
+          "milky(1)",
+          "politely(1)",
+          "darkened(1)",
+          "beam(1)",
+          "mist(1)",
+          "mast(1)",
+          "crystals(1)",
+          "dawn(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9408,
+        "wordCount": 1283,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "crystal(11)",
+          "masts(4)",
+          "clergyman(2)",
+          "buildings(2)",
+          "dingy(1)",
+          "antiques(1)",
+          "stooping(1)",
+          "watery(1)",
+          "scolded(1)",
+          "overruled(1)",
+          "polished(1)",
+          "flustered(1)",
+          "discomfort(1)",
+          "amused(1)",
+          "offended(1)",
+          "shrugged(1)",
+          "companion(1)",
+          "lingered(1)",
+          "evident(1)",
+          "puzzled(1)",
+          "fury(1)",
+          "quarrel(1)",
+          "stepfather(1)",
+          "cloth(1)",
+          "trembling(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ANY_MORE",
+          "cat": "COMPOUNDING",
+          "msg": "Did you mean the adverb “anymore”?",
+          "frag": "any more",
+          "ctx": " nervous. \"I'm afraid it isn't for sale any more,\" he told them. \"A gentleman bought it "
+        },
+        {
+          "rule": "ANY_MORE",
+          "cat": "COMPOUNDING",
+          "msg": "Did you mean the adverb “anymore”?",
+          "frag": "any more",
+          "ctx": "came to the shop, the egg was not there any more. He is still looking for it, and he sti"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 303,
+      "sentLenMedian": 7,
+      "zipfMedian": 5.95,
+      "lowZipfRatio": 0.0078,
+      "lowZipfWords": [
+        "moons",
+        "unkind"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 518,
+      "sentLenMedian": 8.5,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0065,
+      "lowZipfWords": [
+        "clergyman",
+        "moons",
+        "unkind"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 717,
+      "sentLenMedian": 12.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.009,
+      "lowZipfWords": [
+        "clearest",
+        "clergyman",
+        "moons",
+        "shone",
+        "unkind"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 952,
+      "sentLenMedian": 16,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0179,
+      "lowZipfWords": [
+        "clearest",
+        "clergyman",
+        "darkened",
+        "hurried",
+        "masts",
+        "moons",
+        "politely",
+        "puzzled",
+        "shone",
+        "shyly",
+        "untidy",
+        "watery"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1283,
+      "sentLenMedian": 23,
+      "zipfMedian": 6.03,
+      "lowZipfRatio": 0.0362,
+      "lowZipfWords": [
+        "antiques",
+        "apologizing",
+        "clearest",
+        "clergyman",
+        "crept",
+        "darkened",
+        "dingy",
+        "dotted",
+        "drifted",
+        "eagerly",
+        "faintly",
+        "flustered",
+        "gasp",
+        "gazing",
+        "gleamed",
+        "gliding",
+        "glittering",
+        "glows",
+        "haltingly",
+        "hurried",
+        "lingered",
+        "masts",
+        "miser",
+        "moons",
+        "overruled",
+        "parted",
+        "puzzled",
+        "quarrel",
+        "scolded",
+        "shrugged",
+        "stepfather",
+        "stooping",
+        "stranger's",
+        "trembling",
+        "unhurried",
+        "unwell",
+        "watery",
+        "winged"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8284,
+      "wordCount": 303,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "egg(9)",
+        "crystal(5)",
+        "mrs(2)",
+        "inside(2)",
+        "buildings(2)",
+        "strange(2)",
+        "tall(2)",
+        "thin(1)",
+        "ill(1)",
+        "wife(1)",
+        "unkind(1)",
+        "window(1)",
+        "smooth(1)",
+        "pounds(1)",
+        "afternoon(1)",
+        "lie(1)",
+        "angry(1)",
+        "cried(1)",
+        "scientist(1)",
+        "safe(1)",
+        "secret(1)",
+        "curtains(1)",
+        "wide(1)",
+        "trees(1)",
+        "poles(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8919,
+      "wordCount": 518,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "egg(16)",
+        "crystal(4)",
+        "strange(3)",
+        "thin(2)",
+        "ill(2)",
+        "buildings(2)",
+        "tall(2)",
+        "poles(2)",
+        "unkind(1)",
+        "smooth(1)",
+        "clergyman(1)",
+        "nervous(1)",
+        "i'm(1)",
+        "can't(1)",
+        "angry(1)",
+        "shouted(1)",
+        "soft(1)",
+        "curtains(1)",
+        "flat(1)",
+        "pole(1)",
+        "creatures(1)",
+        "wings(1)",
+        "moons(1)",
+        "sky(1)",
+        "moon(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9456,
+      "wordCount": 717,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "crystal(7)",
+        "pale(2)",
+        "mist(2)",
+        "buildings(2)",
+        "poles(2)",
+        "moons(2)",
+        "dusty(1)",
+        "unkind(1)",
+        "seldom(1)",
+        "smooth(1)",
+        "shone(1)",
+        "clergyman(1)",
+        "nervous(1)",
+        "i'm(1)",
+        "furious(1)",
+        "penny(1)",
+        "wrapped(1)",
+        "cloth(1)",
+        "can't(1)",
+        "lying(1)",
+        "awake(1)",
+        "faint(1)",
+        "glowing(1)",
+        "beam(1)",
+        "creatures(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9643,
+      "wordCount": 952,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "crystal(7)",
+        "masts(3)",
+        "clergyman(2)",
+        "buildings(2)",
+        "untidy(1)",
+        "antique(1)",
+        "watery(1)",
+        "patience(1)",
+        "seldom(1)",
+        "peaceful(1)",
+        "dusty(1)",
+        "polished(1)",
+        "puzzled(1)",
+        "fury(1)",
+        "shyly(1)",
+        "faint(1)",
+        "milky(1)",
+        "politely(1)",
+        "darkened(1)",
+        "beam(1)",
+        "mist(1)",
+        "mast(1)",
+        "crystals(1)",
+        "dawn(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9408,
+      "wordCount": 1283,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "crystal(11)",
+        "masts(4)",
+        "clergyman(2)",
+        "buildings(2)",
+        "dingy(1)",
+        "antiques(1)",
+        "stooping(1)",
+        "watery(1)",
+        "scolded(1)",
+        "overruled(1)",
+        "polished(1)",
+        "flustered(1)",
+        "discomfort(1)",
+        "amused(1)",
+        "offended(1)",
+        "shrugged(1)",
+        "companion(1)",
+        "lingered(1)",
+        "evident(1)",
+        "puzzled(1)",
+        "fury(1)",
+        "quarrel(1)",
+        "stepfather(1)",
+        "cloth(1)",
+        "trembling(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 6
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.04,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0244",
+        "title": "The Diamond Maker",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.04,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

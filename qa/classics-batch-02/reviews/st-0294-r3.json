@@ -1,0 +1,48 @@
+{
+  "id": "st-0294",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"I put a fake letter in its place.\" The fake is not prepared earlier in A1. It is clear enough, but \"At home, I made a fake letter.\" before the return visit would make the swap smoother.",
+        "\"I paid a man for that noise.\" is understandable. \"I paid a man to make that noise.\" reads a little more naturally and stays within A1 grammar."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"It looked different from the queen's letter. But the size was right\": in A2 the Prefect never describes the queen's letter, so Dupin's comparison has no setup. Consider adding to the Prefect's speech: \"The letter is small. It has a red seal.\"",
+        "\"Dupin took a letter from his desk. The Prefect ran out without a word.\" The handover is only implied. Consider \"Dupin took a letter from his desk and gave it to the Prefect.\"",
+        "\"A cheap holder for cards\" is a little clumsy. \"a cheap card holder\" is simpler."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Twice, my men stopped him in the street like thieves\" could be read as the police treating the Minister as a thief. Consider \"Twice, my men dressed as thieves, stopped him in the street and searched his pockets.\"",
+        "\"Its edges looked rough and old, and suddenly I understood. He turned the letter inside out...\" The simple past makes it sound as if the Minister did this in front of Dupin. Consider \"He had turned the letter inside out and given it a new address and seal.\" (The past perfect is allowed at B1.)"
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The man firing a musket is softened to \"a loud bang\", and his release is softened to \"walked away quite calmly\". Both are acceptable condensations for a 4+ audience."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"said Dupin, opening a drawer\" and then \"unlocked his desk and handed the Prefect a letter\": the first drawer seems to do nothing. In the original he opens the drawer to take out a check-book. Consider \"said Dupin, opening a drawer and producing a check-book\".",
+        "\"eighteen months\" (C1, Dupin) and \"a few months ago\" (A2/B1, Prefect) appear to differ, but the original contains both (the Prefect's \"for some months past\" and Dupin's eighteen months). This is not a real contradiction."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels follow Poe's tale faithfully: the theft in the royal apartments, the failed police searches, the map game and the even-and-odd analogy at higher levels, the card rack, the green glasses, the gold-box pretext, the paid street disturbance, the bread-seal copy and the Crebillon lines. Grammar stays within each level's limits, every quiz has one clearly correct keyed answer, and nothing breaks 4+ suitability. Only minor polish points remain, chiefly the unprepared comparison to the queen's letter in A2."
+}

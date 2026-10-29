@@ -1,0 +1,51 @@
+{
+  "id": "st-0312",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"There is no up!\" said Square. comes right after Sphere says only \"I come from Spaceland\", so nothing has mentioned 'up' yet. It still reads fine, but a bridging line would help, e.g. add \"I come from above,\" said Sphere. before Square's reply.",
+        "Pointland comes before the fourth-dimension question here (and in A2), but after it in B1-C1. Each level makes sense on its own, so this is only a cross-level consistency note.",
+        "\"Maybe someone can read it one day.\" is grammatical and within A1 grammar, though slightly flat. \"Maybe one day someone can read it.\" flows a little better."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"'Your world is too small,' answered Square.\" is a slightly loose reply to \"You are a liar\". Optional: \"'Your world is too small to see the truth,' answered Square.\"",
+        "\"There is no up\" follows \"a world of three dimensions\" without anyone saying 'above'. It is understandable, but an optional bridge would help: \"I come from above,\" said Sphere."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "In the original, the Lineland dream happens on the last day but one of the year, and Sphere comes on the last evening of the millennium. \"On the last night of the year\" for the dream is a harmless simplification. \"Near the end of the year\" (as in A2) would be more exact.",
+        "No passives or conditionals found. \"He hoped that one day, someone would read it\" uses future-in-the-past, which is acceptable at B1."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"makes a square of nine\" / \"a shape of twenty-seven\" follow the original's arithmetic, but \"a square of nine square inches\" would be clearer for B2 readers.",
+        "\"he even touched Square from the inside\" is slightly ambiguous. Optional: \"he even touched Square's insides, something no one in Flatland could ever do.\"",
+        "\"On the last night of the year nineteen ninety-nine\" combined with \"The next day ... That evening\" places Sphere's visit in the new year. In the original, Sphere arrives on the eve of the millennium. This is a minor date detail and does not affect the plot. Optionally: \"On the second-to-last night of the year ...\".",
+        "\"To calm him down, Sphere showed him Pointland\" works, but \"To teach him a lesson\" matches Sphere's purpose more closely."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Same minor date note as B2 (the Lineland dream was the night before the last night of the year). Optionally say \"the year nineteen ninety-nine of their era\" so readers do not think of the real-world 1999.",
+        "The prose is genuinely literary and not padded. It faithfully keeps the millennial visit, the touch from within, the Pointland irony, the Council's secret knowledge and the fading memories."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "A faithful, well-graded retelling of Abbott's Flatland. It keeps the Lineland dream, the grandson's 'upward' idea, Sphere's visit and demonstration, the lift into Spaceland, the fourth-dimension request, Pointland, imprisonment and the hopeful ending in the right spirit, and all quizzes have one clearly correct keyed answer. Only minor notes remain: a missing 'above' bridge at A1/A2, the dream-date detail, and the order of Pointland across levels. None would make a reader stumble, and nothing is unsuitable for a 4+ rating."
+}

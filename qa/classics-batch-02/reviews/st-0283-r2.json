@@ -1,0 +1,65 @@
+{
+  "id": "st-0283",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Next, he got lost in Porthos's long coat.\" reads as playful, but A2 and B1 use 'got caught in', which is clearer for beginners. Consider: \"Next, he got caught in Porthos's long coat.\"",
+        "Tenses stay within present and past simple. The plot condenses the original faithfully (three duels, five guards, the studs, Milady, the journey, the jeweler, twelve at the ball, the ring)."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"You must learn first,\" said Treville. This is a bit flat. Consider: \"First you must prove yourself,\" which matches B2 and C1.",
+        "Grammar stays within present and past simple. The quiz keys are correct and each has only one defensible answer."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The fight was short, the four friends won it, and nobody was badly hurt.\" In Dumas, Jussac and Cahusac are badly wounded and one guard is killed. This softens the original for children, which the brief allows, but it actively claims the opposite. A neutral wording would be \"...and the guards gave up.\"",
+        "\"Milady, who stood very close to him at his last ball\" could be \"had stood\". The past simple is acceptable at B1.",
+        "No conditionals and no passive voice. Relative clauses are fine at this level."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "There they discovered that no ship could leave without a written permission signed by the Cardinal.",
+          "problem": "'Permission' is uncountable in English, so 'a written permission' is an article error that comes from French ('une permission'). Learners would copy it as a model.",
+          "fix": "There they discovered that no ship could leave without written permission signed by the Cardinal. (or: '...without a pass signed by the Cardinal.')"
+        }
+      ],
+      "notes": [
+        "'courage' is used twice in two sentences: \"a great deal of courage\" and \"famous for their courage and their quarrels\". Consider \"famous for their bravery and their quarrels\".",
+        "\"The fight that followed was fast and fierce... and no one was seriously hurt.\" This is the same softening as in B1. It is acceptable, but it contradicts Dumas (wounded guards, one dead). Consider ending with \"The guards gave up and went away.\"",
+        "\"Soon Constance told him why the queen was in danger.\" The paragraph then narrates Milady's secret theft, which Constance could not know, and the trap the Cardinal sets later. Consider \"Soon d'Artagnan learned why the queen was in danger.\""
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "There a new obstacle awaited them, for no ship could sail without a written permission from the Cardinal himself.",
+          "problem": "'Permission' is uncountable, so 'a written permission' is non-native usage. It undercuts the literary register this level aims for.",
+          "fix": "There a new obstacle awaited them, for no ship could sail without written permission from the Cardinal himself. (or: '...without a pass signed by the Cardinal himself.')"
+        }
+      ],
+      "notes": [
+        "\"...the guards marched away with their pride in pieces and nothing worse to show for it.\" The idiom 'nothing to show for it' normally means 'no gain', so 'nothing worse to show for it' is slightly strained. Consider \"...with nothing worse than wounded pride.\" This is also the same softening of the fight's outcome as in B1 and B2.",
+        "\"Fortune, which had been unkind all week\": the ride from Paris to Calais takes only a couple of days. Consider \"which had been unkind since Paris\".",
+        "Fidelity is strong: the Meung stranger, Porthos's baldric, the Carmes-Deschaux field, 'sorry to have only one life to offer', Bonacieux turned by the Cardinal, the workmen attacking Aramis, the false coins at Amiens, de Wardes' pass, the chain of horses, the hand through the curtain."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is faithful to Dumas's diamond-studs episode at every level. Quiz keys are correct, grading is appropriate, and nothing breaks the 4+ rules. B2 and C1 fail only on the non-native phrase 'a written permission' ('permission' is uncountable), which is a one-word fix. A recurring note: B1, B2 and C1 claim nobody was hurt in the convent fight, which softens but contradicts the original."
+}

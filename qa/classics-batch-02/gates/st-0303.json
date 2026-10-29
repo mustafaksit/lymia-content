@@ -1,0 +1,682 @@
+{
+  "id": "st-0303",
+  "title": "Oliver Twist: Oliver Asks for More",
+  "ts": "2026-10-29T21:45:18",
+  "node": {
+    "id": "st-0303",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %85.6 | 327 kelime\n    havuz dışı: boy(5), cold(1), workhouse(2), hungry(1), meal(1), bowl(2), boys(7), master(3), sir(1), shock(1), cried(1), angry(3), dark(1), fought(1), boy's(1), strange(1), pockets(1), handkerchief(1), pocket(1), pickpockets(1), afraid(1), thief(1), shouted(1), caught(1), policeman(1), judge(1), street(1), warm(1), ill(1), safe(1), happy(1)",
+        "level A2: A2: KALDI | kapsam %89.6 | 520 kelime\n    havuz dışı: workhouse(3), hungry(2), bowl(2), thin(1), gray(1), master(2), sir(1), master's(1), cried(2), shouted(2), shocked(1), angry(1), locked(2), gate(1), coffins(1), lazy(1), cruel(2), jumped(1), anger(1), cellar(1), hurt(1), strange(2), coat(1), bread(1), ham(1), dirty(1), pockets(1), quietly(2), gentleman(3), handkerchief(1), pocket(1), pickpockets(1), afraid(1), thief(1), policeman(1), prison(1), ill(1), carriage(1), fever(1), housekeeper(1), safe(1)",
+        "level B1: B1: KALDI | kapsam %93.8 | 773 kelime\n    havuz dışı: workhouse(3), hungry(1), bowl(2), porridge(2), desperate(1), beside(2), pot(1), apron(1), whispered(1), sir(1), grabbed(1), beadle(1), hurried(1), gentlemen(1), waistcoat(1), gate(1), coffins(1), cruel(1), lying(1), cellar(1), bread(2), doorstep(1), ham(1), dirty(1), stairs(1), sausages(1), sacks(1), handkerchief(3), bookstall(3), crept(1), pickpockets(1), thief(1), policeman(1), pale(1), fainted(1), carriage(1), fever(1), housekeeper(1)",
+        "level B2: B2: KALDI | kapsam %94.6 | 1128 kelime\n    havuz dışı: workhouse(2), grim(1), parish(1), beadle(2), porridge(2), hungry(3), apron(1), nudged(1), spoon(1), gentlemen(1), waistcoat(1), apprentice(1), insult(1), cruel(1), mrs(1), cellar(1), punished(1), punishment(1), begging(1), cottage(1), doorstep(1), heels(1), ham(1), who'll(1), penny(1), staircase(1), smoky(1), sausages(1), fork(1), silk(2), handkerchiefs(2), bowed(1), awake(2), sparkling(1), handkerchief(3), strolled(1), bookstall(2), pickpockets(1), thief(1), magistrate(2), rude(1), impatient(1), bookseller(1), fainted(1), pity(1), carriage(1), fever(2), housekeeper(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8563,
+        "wordCount": 327,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "boys(7)",
+          "boy(5)",
+          "master(3)",
+          "angry(3)",
+          "workhouse(2)",
+          "bowl(2)",
+          "cold(1)",
+          "hungry(1)",
+          "meal(1)",
+          "sir(1)",
+          "shock(1)",
+          "cried(1)",
+          "dark(1)",
+          "fought(1)",
+          "boy's(1)",
+          "strange(1)",
+          "pockets(1)",
+          "handkerchief(1)",
+          "pocket(1)",
+          "pickpockets(1)",
+          "afraid(1)",
+          "thief(1)",
+          "shouted(1)",
+          "caught(1)",
+          "policeman(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8962,
+        "wordCount": 520,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "workhouse(3)",
+          "gentleman(3)",
+          "hungry(2)",
+          "bowl(2)",
+          "master(2)",
+          "cried(2)",
+          "shouted(2)",
+          "locked(2)",
+          "cruel(2)",
+          "strange(2)",
+          "quietly(2)",
+          "thin(1)",
+          "gray(1)",
+          "sir(1)",
+          "master's(1)",
+          "shocked(1)",
+          "angry(1)",
+          "gate(1)",
+          "coffins(1)",
+          "lazy(1)",
+          "jumped(1)",
+          "anger(1)",
+          "cellar(1)",
+          "hurt(1)",
+          "coat(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9379,
+        "wordCount": 773,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "workhouse(3)",
+          "handkerchief(3)",
+          "bookstall(3)",
+          "bowl(2)",
+          "porridge(2)",
+          "beside(2)",
+          "bread(2)",
+          "hungry(1)",
+          "desperate(1)",
+          "pot(1)",
+          "apron(1)",
+          "whispered(1)",
+          "sir(1)",
+          "grabbed(1)",
+          "beadle(1)",
+          "hurried(1)",
+          "gentlemen(1)",
+          "waistcoat(1)",
+          "gate(1)",
+          "coffins(1)",
+          "cruel(1)",
+          "lying(1)",
+          "cellar(1)",
+          "doorstep(1)",
+          "ham(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9459,
+        "wordCount": 1128,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "hungry(3)",
+          "handkerchief(3)",
+          "workhouse(2)",
+          "beadle(2)",
+          "porridge(2)",
+          "silk(2)",
+          "handkerchiefs(2)",
+          "awake(2)",
+          "bookstall(2)",
+          "magistrate(2)",
+          "fever(2)",
+          "grim(1)",
+          "parish(1)",
+          "apron(1)",
+          "nudged(1)",
+          "spoon(1)",
+          "gentlemen(1)",
+          "waistcoat(1)",
+          "apprentice(1)",
+          "insult(1)",
+          "cruel(1)",
+          "mrs(1)",
+          "cellar(1)",
+          "punished(1)",
+          "punishment(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9186,
+        "wordCount": 1486,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "handkerchief(4)",
+          "beadle(3)",
+          "magistrate(3)",
+          "workhouse(2)",
+          "gentlemen(2)",
+          "porridge(2)",
+          "astonished(2)",
+          "cellar(2)",
+          "eager(2)",
+          "heels(2)",
+          "vanished(2)",
+          "bookstall(2)",
+          "thief(2)",
+          "fever(2)",
+          "buildings(1)",
+          "invention(1)",
+          "parish(1)",
+          "alphabetical(1)",
+          "desperate(1)",
+          "mouthfuls(1)",
+          "copper(1)",
+          "endure(1)",
+          "supper(1)",
+          "swallowed(1)",
+          "wink(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_BOOK_SHOP",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "book shop",
+          "ctx": "er and Charley. An old man stood near a book shop. The old man had a handkerchief. The Do"
+        },
+        {
+          "rule": "EN_COMPOUNDS_BOOK_SHOP",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "book shop",
+          "ctx": "ook him to a judge. Then a man from the book shop came. \"This boy did not take it,\" he sa"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_BOOK_SHOP",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "book shop",
+          "ctx": "th the Dodger and Charley Bates. Near a book shop, an old gentleman stood and read a book"
+        },
+        {
+          "rule": "EN_COMPOUNDS_BOOK_SHOP",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "book shop",
+          "ctx": "Oliver to prison. Then the owner of the book shop ran in. \"Another boy took it, not this "
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_MOUTH_TO_MOUTH",
+          "cat": "MISC",
+          "msg": "This word is normally spelled with a hyphen.",
+          "frag": "mouth to mouth",
+          "ctx": "f!\" he shouted, and the cry passed from mouth to mouth along the street, with none shouting lo"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 327,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0035,
+      "lowZipfWords": [
+        "handkerchief"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 520,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0066,
+      "lowZipfWords": [
+        "coffins",
+        "handkerchief",
+        "housekeeper"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 773,
+      "sentLenMedian": 13,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0271,
+      "lowZipfWords": [
+        "apron",
+        "beadle",
+        "bookstall",
+        "coffins",
+        "cook's",
+        "crept",
+        "fainted",
+        "handkerchief",
+        "housekeeper",
+        "hurried",
+        "porridge",
+        "sausages",
+        "waistcoat",
+        "whispered"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1128,
+      "sentLenMedian": 16.5,
+      "zipfMedian": 6.03,
+      "lowZipfRatio": 0.0274,
+      "lowZipfWords": [
+        "apron",
+        "beadle",
+        "bookseller",
+        "bookstall",
+        "bowed",
+        "cook's",
+        "fainted",
+        "gazing",
+        "handkerchief",
+        "handkerchiefs",
+        "housekeeper",
+        "hurried",
+        "loudest",
+        "nudged",
+        "porridge",
+        "sausages",
+        "smoky",
+        "stomachs",
+        "strolled",
+        "undertaker",
+        "waistcoat",
+        "whispered",
+        "who'll"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1486,
+      "sentLenMedian": 24.0,
+      "zipfMedian": 5.88,
+      "lowZipfRatio": 0.0376,
+      "lowZipfWords": [
+        "alphabetical",
+        "appalled",
+        "armchair",
+        "astonished",
+        "astonishment",
+        "beadle",
+        "bookstall",
+        "bowed",
+        "breathless",
+        "brooches",
+        "contemptible",
+        "correcting",
+        "crept",
+        "cuffs",
+        "dismay",
+        "emptied",
+        "fainted",
+        "fatherly",
+        "gazed",
+        "gazing",
+        "glittering",
+        "handkerchief",
+        "handkerchiefs",
+        "hedges",
+        "housekeeper",
+        "howling",
+        "limped",
+        "motherly",
+        "mouthfuls",
+        "nightfall",
+        "porridge",
+        "prided",
+        "sausages",
+        "shrieked",
+        "solemn",
+        "sunlit",
+        "suspecting",
+        "swagger",
+        "swayed",
+        "toasting",
+        "trembling",
+        "unbarred",
+        "undertaker",
+        "waistcoat",
+        "wandered"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8563,
+      "wordCount": 327,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "boys(7)",
+        "boy(5)",
+        "master(3)",
+        "angry(3)",
+        "workhouse(2)",
+        "bowl(2)",
+        "cold(1)",
+        "hungry(1)",
+        "meal(1)",
+        "sir(1)",
+        "shock(1)",
+        "cried(1)",
+        "dark(1)",
+        "fought(1)",
+        "boy's(1)",
+        "strange(1)",
+        "pockets(1)",
+        "handkerchief(1)",
+        "pocket(1)",
+        "pickpockets(1)",
+        "afraid(1)",
+        "thief(1)",
+        "shouted(1)",
+        "caught(1)",
+        "policeman(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8962,
+      "wordCount": 520,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "workhouse(3)",
+        "gentleman(3)",
+        "hungry(2)",
+        "bowl(2)",
+        "master(2)",
+        "cried(2)",
+        "shouted(2)",
+        "locked(2)",
+        "cruel(2)",
+        "strange(2)",
+        "quietly(2)",
+        "thin(1)",
+        "gray(1)",
+        "sir(1)",
+        "master's(1)",
+        "shocked(1)",
+        "angry(1)",
+        "gate(1)",
+        "coffins(1)",
+        "lazy(1)",
+        "jumped(1)",
+        "anger(1)",
+        "cellar(1)",
+        "hurt(1)",
+        "coat(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9379,
+      "wordCount": 773,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "workhouse(3)",
+        "handkerchief(3)",
+        "bookstall(3)",
+        "bowl(2)",
+        "porridge(2)",
+        "beside(2)",
+        "bread(2)",
+        "hungry(1)",
+        "desperate(1)",
+        "pot(1)",
+        "apron(1)",
+        "whispered(1)",
+        "sir(1)",
+        "grabbed(1)",
+        "beadle(1)",
+        "hurried(1)",
+        "gentlemen(1)",
+        "waistcoat(1)",
+        "gate(1)",
+        "coffins(1)",
+        "cruel(1)",
+        "lying(1)",
+        "cellar(1)",
+        "doorstep(1)",
+        "ham(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9459,
+      "wordCount": 1128,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "hungry(3)",
+        "handkerchief(3)",
+        "workhouse(2)",
+        "beadle(2)",
+        "porridge(2)",
+        "silk(2)",
+        "handkerchiefs(2)",
+        "awake(2)",
+        "bookstall(2)",
+        "magistrate(2)",
+        "fever(2)",
+        "grim(1)",
+        "parish(1)",
+        "apron(1)",
+        "nudged(1)",
+        "spoon(1)",
+        "gentlemen(1)",
+        "waistcoat(1)",
+        "apprentice(1)",
+        "insult(1)",
+        "cruel(1)",
+        "mrs(1)",
+        "cellar(1)",
+        "punished(1)",
+        "punishment(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9186,
+      "wordCount": 1486,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "handkerchief(4)",
+        "beadle(3)",
+        "magistrate(3)",
+        "workhouse(2)",
+        "gentlemen(2)",
+        "porridge(2)",
+        "astonished(2)",
+        "cellar(2)",
+        "eager(2)",
+        "heels(2)",
+        "vanished(2)",
+        "bookstall(2)",
+        "thief(2)",
+        "fever(2)",
+        "buildings(1)",
+        "invention(1)",
+        "parish(1)",
+        "alphabetical(1)",
+        "desperate(1)",
+        "mouthfuls(1)",
+        "copper(1)",
+        "endure(1)",
+        "supper(1)",
+        "swallowed(1)",
+        "wink(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 4,
+      "1": 6,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 2
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.111,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0160",
+        "title": "The Frogs Who Wished for a King",
+        "titleJaccard": 0.111,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

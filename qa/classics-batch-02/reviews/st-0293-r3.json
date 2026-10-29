@@ -1,0 +1,57 @@
+{
+  "id": "st-0293",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Sherlock Holmes and Watson sat at Baker Street.\" reads a little flat; \"sat in their rooms at Baker Street\" (as in A2) is more natural.",
+        "\"The upstairs hall was shorter than downstairs.\" could be \"shorter than the hall downstairs\" for a cleaner comparison.",
+        "Multi-paragraph speeches close the quote at the end of each paragraph and reopen it on the next; the usual convention is to leave the first closing quote off so readers know the same speaker continues (applies to all levels)."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"They also found burnt bones in the ashes.\" is stated plainly and later explained as animal bones, so it stays within 4+; keep it this matter-of-fact."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "But his bank book showed large payments to a man nobody knew.",
+          "problem": "The only man named in this paragraph is Holmes (the previous sentence is about the housekeeper), so \"his bank book\" reads as Holmes's bank book. The clue matters later (\"The stranger in the bank book was Oldacre himself\") and the quiz asks about it, so the reader needs to know whose bank book it is.",
+          "fix": "The only strange thing was Oldacre's bank book. It showed large payments to a man nobody knew."
+        }
+      ],
+      "notes": [
+        "\"The housekeeper said that she heard nothing during the night.\" is fine for B1; \"said that she slept all night\" would match the original slightly more closely."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": []
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4+ age suitability",
+          "quote": "\"Oldacre was a great deal poorer than the world supposed,\" Holmes said, lighting his pipe.",
+          "problem": "Showing tobacco use is a tobacco/drug reference. On the App Store, even mild tobacco references push an app above 4+, and no other level includes this detail.",
+          "fix": "\"Oldacre was a great deal poorer than the world supposed,\" Holmes said, sinking into his armchair."
+        }
+      ],
+      "notes": [
+        "\"On the one night when the housekeeper has seen him in the house, and leaving his own stick behind as a souvenir for the police?\" mixes a clause and a participle; \"...in the house, and then leaving...\" or \"...and when he leaves his own stick behind...\" would flow better. This is acceptable as speech, though."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows Doyle's story closely at every level: the will written on a train, the visit to the mother, the bank-book alias, the wax thumbprint, the short corridor, the straw fire and the animal bones. The quizzes are keyed correctly. Two small fixes are needed: in B1 it is unclear whose bank book is meant, and in C1 Holmes lights a pipe, a tobacco reference that conflicts with the 4+ rating."
+}

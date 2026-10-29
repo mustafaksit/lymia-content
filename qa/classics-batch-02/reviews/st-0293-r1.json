@@ -1,0 +1,102 @@
+{
+  "id": "st-0293",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "fidelity",
+          "quote": "Then I slept at a hotel in Blackheath.",
+          "problem": "In Doyle, McFarlane's parents live in Blackheath. Because it was too late to get back there, he spent the night at an inn near Norwood (the Anerley Arms). Every level makes the same mistake, so this sentence should be fixed with the others.",
+          "fix": "Then I slept at a small hotel near Norwood."
+        },
+        {
+          "criterion": "unnatural English / logic error",
+          "quote": "He copied McFarlane's thumb from soft wax.",
+          "problem": "You can't 'copy a thumb', and the story never says how Oldacre got McFarlane's print in wax, so the solution comes from nowhere. Other levels explain the wax seal, but A1 doesn't.",
+          "fix": "That night, McFarlane put his thumb in soft wax on some papers. Oldacre kept the wax. He used it to put the thumbprint on the wall."
+        }
+      ],
+      "notes": [
+        "\"Upstairs, the hall was too short.\" is a little vague. \"The hall upstairs was shorter than the hall downstairs.\" (as in A2) would be clearer.",
+        "Quiz is fine."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error / fidelity",
+          "quote": "I slept at a hotel in Blackheath.",
+          "problem": "This level says McFarlane's mother lives in Blackheath (\"Holmes went to Blackheath and visited McFarlane's mother\"). It makes no sense for him to pay for a hotel in his own home town because it was late. In the original he stayed at an inn near Norwood.",
+          "fix": "It was too late to go home, so I slept at a small hotel near Norwood."
+        },
+        {
+          "criterion": "unnatural English / logic error",
+          "quote": "My walking stick was missing, so he kept it for me.",
+          "problem": "The 'so' links the two clauses wrongly: he can't keep something that is missing. The original says he would keep it once it turned up.",
+          "fix": "I could not find my walking stick. He said, \"I will keep it for you.\""
+        }
+      ],
+      "notes": [
+        "\"burnt bones in the ashes\" is a plain statement, not a description, and it is later explained as an animal, so it is acceptable for 4+.",
+        "Quiz is fine."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error / fidelity",
+          "quote": "I spent the night at a hotel in Blackheath.",
+          "problem": "His parents live in Blackheath (he telegraphs home, and his mother is visited there). Staying at a hotel there because it was late makes no sense and goes against the original (an inn near Norwood). Quiz item 1 has this wrong location as its keyed answer.",
+          "fix": "It was too late to go home to Blackheath, so I spent the night at an inn near Norwood. Quiz 1 key: *At an inn near Norwood (and change the distractor to 'At his parents' house in Blackheath')."
+        },
+        {
+          "criterion": "logic error (unclear speaker)",
+          "quote": "\"It is exactly the same.\" \"I examined this wall yesterday, and there was nothing on it,\" he whispered to Watson.",
+          "problem": "The 'he' right after Lestrade's line reads as Lestrade, but Holmes is the one speaking. The line also comes straight after Lestrade's, with no break between them.",
+          "fix": "Holmes bent over the mark in silence. When Lestrade turned away, Holmes whispered to Watson, \"I examined this wall yesterday, and there was nothing on it.\""
+        }
+      ],
+      "notes": [
+        "Timeline: in Doyle, Holmes visits Blackheath and Norwood on the same day McFarlane is arrested. 'He spent the whole next day on the case' moves this by a day. It is minor and stays consistent inside the story.",
+        "No conditionals or passives found. Grammar is right for B1."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error / fidelity",
+          "quote": "It was too late to go home, so I spent the night at an inn in Blackheath.",
+          "problem": "This contradicts itself: his home and parents are in Blackheath ('He had first visited McFarlane's parents in Blackheath'). If it was too late to get to Blackheath, he could not have stayed there. In the original he stayed at an inn near Norwood. Quiz item 1 has this as its keyed answer, which builds the mistake into the test.",
+          "fix": "It was too late to get back to Blackheath, so I spent the night at an inn near Norwood. Quiz 1 key: *At an inn near Norwood."
+        }
+      ],
+      "notes": [
+        "\"an unmarried lawyer with a weak chest\" is a fair simplified version of Doyle's deductions.",
+        "Everything else is faithful and natural, and the quiz items 2 and 3 are fine."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error / fidelity",
+          "quote": "Since the hour was so late, I took a room at an inn in Blackheath.",
+          "problem": "The ending says 'Hector McFarlane was on his way home to Blackheath', and he telegraphed his parents there. Lateness can't be the reason to take a room in his own home town. Doyle has him unable to get back to Blackheath, so he stays at an inn in the Norwood area (the Anerley Arms).",
+          "fix": "Since the hour was too late for me to return to Blackheath, I took a room at an inn close by."
+        }
+      ],
+      "notes": [
+        "\"Yet the moment the inspector left the hall, he turned to Watson with eyes that danced.\" The 'he' could refer to the inspector. Use 'Holmes turned to Watson...'.",
+        "\"Holmes asked mildly. Holmes went on to suggest...\" repeats the name. 'He went on to suggest...' reads better.",
+        "Quiz is fine. Prose is properly literary and not padded."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows Doyle closely on the will written on a train, the bank-book alias, the wax-seal thumbprint, the shorter corridor, the straw fire and the double motive. But every level puts McFarlane's overnight stay in Blackheath, his own home town. That is wrong against the original and, from A2 up, contradicts the text itself (the B1 and B2 quizzes even key it). Smaller fixes: A1 has an unexplained wax/thumb sentence, A2 has an illogical 'missing, so he kept it' line, and in B1 it is unclear who is speaking in the thumbprint scene."
+}

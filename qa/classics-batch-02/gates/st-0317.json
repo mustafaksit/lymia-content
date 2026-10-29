@@ -1,0 +1,621 @@
+{
+  "id": "st-0317",
+  "title": "Dummling and the Golden Goose",
+  "ts": "2026-10-29T21:45:33",
+  "node": {
+    "id": "st-0317",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %76.4 | 369 kelime\n    havuz dışı: sons(1), son(4), laughed(4), fool(1), brothers(1), wood(1), sweet(2), cake(6), gray(5), hungry(2), axe(1), hit(1), arm(1), hurt(1), leg(1), dry(1), tree(2), goose(3), roots(1), feathers(1), gold(2), inn(2), daughters(1), feather(1), touched(2), stuck(5), sister(1), third(1), priest(3), cried(1), farmers(1), king's(1), daughter(1), king(6), promise(1), laugh(1), marry(1), princess(2), tasks(1), cellar(1), barrels(1), drink(1), thirsty(2), drank(1), barrel(1), mountain(1), bread(1), ship(2), sail(1), married(1)",
+        "level A2: A2: KALDI | kapsam %86.8 | 547 kelime\n    havuz dışı: fool(1), wood(2), cake(5), bottle(1), gray(3), hungry(2), axe(1), hurt(2), leg(1), dry(2), sour(1), bag(1), soft(1), sweet(1), goose(2), feathers(1), pure(1), gold(1), inn(2), golden(1), feather(1), goose's(1), wing(1), fingers(1), stuck(6), priest(2), shame(1), cried(1), priest's(1), coat(1), farmers(1), king's(1), king(7), princess(2), funny(1), cellar(1), barrel(2), thirsty(1), mountain(2), bread(1), ship(2), sail(1), sailed(1), palace(1)",
+        "level B1: B1: KALDI | kapsam %94.0 | 762 kelime\n    havuz dışı: fool(1), cake(5), hungry(2), thirsty(2), axe(1), ashes(1), sour(3), goose(5), feathers(2), pure(1), inn(1), innkeeper(1), golden(1), grabbed(1), wing(1), third(1), wherever(1), priest(4), chasing(1), shame(1), bell(2), sleeve(1), princess(1), cellar(2), terribly(1), barrel(1), bread(1), sail(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.7642,
+        "wordCount": 369,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cake(6)",
+          "king(6)",
+          "gray(5)",
+          "stuck(5)",
+          "son(4)",
+          "laughed(4)",
+          "goose(3)",
+          "priest(3)",
+          "sweet(2)",
+          "hungry(2)",
+          "tree(2)",
+          "gold(2)",
+          "inn(2)",
+          "touched(2)",
+          "princess(2)",
+          "thirsty(2)",
+          "ship(2)",
+          "sons(1)",
+          "fool(1)",
+          "brothers(1)",
+          "wood(1)",
+          "axe(1)",
+          "hit(1)",
+          "arm(1)",
+          "hurt(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8684,
+        "wordCount": 547,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "king(7)",
+          "stuck(6)",
+          "cake(5)",
+          "gray(3)",
+          "wood(2)",
+          "hungry(2)",
+          "hurt(2)",
+          "dry(2)",
+          "goose(2)",
+          "inn(2)",
+          "priest(2)",
+          "princess(2)",
+          "barrel(2)",
+          "mountain(2)",
+          "ship(2)",
+          "fool(1)",
+          "bottle(1)",
+          "axe(1)",
+          "leg(1)",
+          "sour(1)",
+          "bag(1)",
+          "soft(1)",
+          "sweet(1)",
+          "feathers(1)",
+          "pure(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9396,
+        "wordCount": 762,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cake(5)",
+          "goose(5)",
+          "priest(4)",
+          "sour(3)",
+          "hungry(2)",
+          "thirsty(2)",
+          "feathers(2)",
+          "bell(2)",
+          "cellar(2)",
+          "fool(1)",
+          "axe(1)",
+          "ashes(1)",
+          "pure(1)",
+          "inn(1)",
+          "innkeeper(1)",
+          "golden(1)",
+          "grabbed(1)",
+          "wing(1)",
+          "third(1)",
+          "wherever(1)",
+          "chasing(1)",
+          "shame(1)",
+          "sleeve(1)",
+          "princess(1)",
+          "terribly(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9522,
+        "wordCount": 1129,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "goose(7)",
+          "priest(4)",
+          "eldest(2)",
+          "hungry(2)",
+          "thirsty(2)",
+          "ashes(2)",
+          "sour(2)",
+          "feathers(2)",
+          "third(2)",
+          "princess(2)",
+          "barrel(2)",
+          "cellar(2)",
+          "sip(1)",
+          "clever(1)",
+          "shrugged(1)",
+          "chopping(1)",
+          "axe(1)",
+          "unkind(1)",
+          "begged(1)",
+          "baked(1)",
+          "afterwards(1)",
+          "inn(1)",
+          "innkeeper(1)",
+          "feather(1)",
+          "tucked(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.939,
+        "wordCount": 1476,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "goose(6)",
+          "priest(4)",
+          "eldest(3)",
+          "hungry(2)",
+          "baked(2)",
+          "ashes(2)",
+          "sour(2)",
+          "feather(2)",
+          "bride(2)",
+          "cellar(2)",
+          "princess(2)",
+          "kingdom(2)",
+          "third(2)",
+          "mocked(1)",
+          "overlooked(1)",
+          "handsome(1)",
+          "mouthful(1)",
+          "sensible(1)",
+          "generous(1)",
+          "chop(1)",
+          "axe(1)",
+          "politely(1)",
+          "rudely(1)",
+          "oneself(1)",
+          "punishment(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "Afterwards",
+          "ctx": " well, and they ate and drank together. Afterwards the little man said, \"Because you have "
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_WELL_FED",
+          "cat": "MISC",
+          "msg": "This word is normally spelled with a hyphen.",
+          "frag": "well fed",
+          "ctx": "e forest. His mother, wanting him to be well fed for the work, packed him a handsome swe"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": " had to trot along behind them. Shortly afterwards the man who rang the church bell came a"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 369,
+      "sentLenMedian": 6,
+      "zipfMedian": 5.82,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 547,
+      "sentLenMedian": 8,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0038,
+      "lowZipfWords": [
+        "goose's",
+        "priest's"
+      ],
+      "keyTermTokens": 2,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 762,
+      "sentLenMedian": 12,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.004,
+      "lowZipfWords": [
+        "emptied",
+        "innkeeper",
+        "ringer"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1129,
+      "sentLenMedian": 16.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.01,
+      "lowZipfWords": [
+        "chopping",
+        "emptied",
+        "horrified",
+        "hurried",
+        "innkeeper",
+        "priest's",
+        "ringer",
+        "shrugged",
+        "stumbling",
+        "trotting",
+        "unkind"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1476,
+      "sentLenMedian": 21,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.02,
+      "lowZipfWords": [
+        "bird's",
+        "christening",
+        "contentment",
+        "crept",
+        "fastened",
+        "felled",
+        "gliding",
+        "gloomy",
+        "hurrying",
+        "innkeeper",
+        "loaves",
+        "mocked",
+        "mouthful",
+        "nightfall",
+        "politely",
+        "priest's",
+        "princess's",
+        "puffed",
+        "ringer",
+        "rudely",
+        "sighed",
+        "solemn",
+        "stumbling",
+        "thinnest",
+        "trot",
+        "tugging",
+        "unwrapped",
+        "wobbling"
+      ],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.7642,
+      "wordCount": 369,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cake(6)",
+        "king(6)",
+        "gray(5)",
+        "stuck(5)",
+        "son(4)",
+        "laughed(4)",
+        "goose(3)",
+        "priest(3)",
+        "sweet(2)",
+        "hungry(2)",
+        "tree(2)",
+        "gold(2)",
+        "inn(2)",
+        "touched(2)",
+        "princess(2)",
+        "thirsty(2)",
+        "ship(2)",
+        "sons(1)",
+        "fool(1)",
+        "brothers(1)",
+        "wood(1)",
+        "axe(1)",
+        "hit(1)",
+        "arm(1)",
+        "hurt(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8684,
+      "wordCount": 547,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "king(7)",
+        "stuck(6)",
+        "cake(5)",
+        "gray(3)",
+        "wood(2)",
+        "hungry(2)",
+        "hurt(2)",
+        "dry(2)",
+        "goose(2)",
+        "inn(2)",
+        "priest(2)",
+        "princess(2)",
+        "barrel(2)",
+        "mountain(2)",
+        "ship(2)",
+        "fool(1)",
+        "bottle(1)",
+        "axe(1)",
+        "leg(1)",
+        "sour(1)",
+        "bag(1)",
+        "soft(1)",
+        "sweet(1)",
+        "feathers(1)",
+        "pure(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9396,
+      "wordCount": 762,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cake(5)",
+        "goose(5)",
+        "priest(4)",
+        "sour(3)",
+        "hungry(2)",
+        "thirsty(2)",
+        "feathers(2)",
+        "bell(2)",
+        "cellar(2)",
+        "fool(1)",
+        "axe(1)",
+        "ashes(1)",
+        "pure(1)",
+        "inn(1)",
+        "innkeeper(1)",
+        "golden(1)",
+        "grabbed(1)",
+        "wing(1)",
+        "third(1)",
+        "wherever(1)",
+        "chasing(1)",
+        "shame(1)",
+        "sleeve(1)",
+        "princess(1)",
+        "terribly(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9522,
+      "wordCount": 1129,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "goose(7)",
+        "priest(4)",
+        "eldest(2)",
+        "hungry(2)",
+        "thirsty(2)",
+        "ashes(2)",
+        "sour(2)",
+        "feathers(2)",
+        "third(2)",
+        "princess(2)",
+        "barrel(2)",
+        "cellar(2)",
+        "sip(1)",
+        "clever(1)",
+        "shrugged(1)",
+        "chopping(1)",
+        "axe(1)",
+        "unkind(1)",
+        "begged(1)",
+        "baked(1)",
+        "afterwards(1)",
+        "inn(1)",
+        "innkeeper(1)",
+        "feather(1)",
+        "tucked(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.939,
+      "wordCount": 1476,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "goose(6)",
+        "priest(4)",
+        "eldest(3)",
+        "hungry(2)",
+        "baked(2)",
+        "ashes(2)",
+        "sour(2)",
+        "feather(2)",
+        "bride(2)",
+        "cellar(2)",
+        "princess(2)",
+        "kingdom(2)",
+        "third(2)",
+        "mocked(1)",
+        "overlooked(1)",
+        "handsome(1)",
+        "mouthful(1)",
+        "sensible(1)",
+        "generous(1)",
+        "chop(1)",
+        "axe(1)",
+        "politely(1)",
+        "rudely(1)",
+        "oneself(1)",
+        "punishment(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.333,
+      "summary3gramJaccard": 0.074,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0131",
+        "title": "The Goose That Laid the Golden Eggs",
+        "titleJaccard": 0.333,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0274",
+        "title": "Robin Hood and the Golden Arrow",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0207",
+        "title": "The Fool of the World and the Flying Ship",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.074,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

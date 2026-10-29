@@ -1,0 +1,62 @@
+{
+  "id": "st-0319",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The falling star comes without its meaning: 'One star fell across the sky. The girl thought of her grandmother.' The link is clear enough, but one short line would make it stronger, e.g. 'Grandmother said: a falling star goes to heaven.'",
+        "'On a big table was a roast goose.' The inverted word order is fine but slightly literary for A1; 'She saw a roast goose on a big table.' is simpler.",
+        "The child's death is only implied ('She was with her grandmother now'). That is acceptable softening for 4+ and consistent with the earlier line that the grandmother 'was in heaven now'."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "Suddenly she seemed to sit in front of a big iron stove.",
+          "problem": "'seemed to sit' is not idiomatic (a native writer would say 'seemed to be sitting' or 'it seemed to her that she was sitting'). Within the A2 grammar limits, the sentence reads as a calque and is awkward to parse.",
+          "fix": "Suddenly she saw a big iron stove in front of her."
+        },
+        {
+          "criterion": "meaning drift",
+          "quote": "The girl cried, \"Grandmother, please take me with you! You go away when the match goes out!\"",
+          "problem": "The present simple reads as a habitual statement or a complaint ('you always leave'), but the grandmother has only just appeared. The intended meaning (fear that she will vanish like the stove and the goose) is lost.",
+          "fix": "The girl cried, \"Grandmother, please take me with you! Do not go away like the stove and the goose!\""
+        }
+      ],
+      "notes": [
+        "'They shone brighter than the day.' would read better as 'They shone brighter than daylight.'",
+        "'Her old grandmother taught her this about falling stars.' is slightly clunky; 'Her old grandmother told her this about falling stars.' is smoother."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No conditionals or passives found. The relative clauses ('the beautiful things that she saw') are within B1.",
+        "The quiz is consistent with the text. The falling-star line is spoken by the girl but credited to the grandmother ('used to tell her this'), so Q3's keyed answer can be defended."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "It follows Andersen closely: the corner between the houses, the straw-stuffed roof, the merchant's tree, the burnt bundle. The father's beating is softened to anger, which is appropriate."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The boy's 'cradle' remark is a faithful detail. The goose's knife and fork are omitted, which is suitable for 4+.",
+        "The added moments (hesitating over the bundle, parcels and collars) add texture and do not pad.",
+        "'passed ... into the happiness of a new year' handles the death gently and still implies it clearly."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "This is a faithful, gently handled retelling of Andersen's tale at every level, with sound quizzes and a death that is implied rather than depicted, which suits 4+. Only A2 fails: one unidiomatic sentence ('she seemed to sit in front of a big iron stove') and a present-simple plea that distorts the girl's meaning. Both are easy to fix with one-line rewrites."
+}

@@ -1,0 +1,633 @@
+{
+  "id": "st-0296",
+  "title": "The Blue Cross",
+  "ts": "2026-10-29T21:45:09",
+  "node": {
+    "id": "st-0296",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %80.7 | 327 kelime\n    havuz dışı: detective(1), catch(1), famous(1), thief(1), tall(4), clever(1), priest(9), umbrella(2), parcels(1), silver(1), cross(3), blue(1), stones(1), sorry(1), silly(1), clues(2), strange(2), restaurant(2), sugar(1), salt(1), priests(2), threw(1), soup(1), wall(1), fruit(1), wrong(1), orange(1), nuts(1), knocked(1), apples(1), policemen(3), window(2), parcel(2), bench(1), hid(1), tree(1), stars(1), smiled(1), post(1), police(1), hat(1)",
+        "level A2: A2: KALDI | kapsam %85.5 | 519 kelime\n    havuz dışı: cleverest(1), detective(1), boat(1), famous(1), thief(1), master(2), disguise(1), hide(1), tall(5), none(1), priest(7), umbrella(2), brown(1), parcels(3), silver(1), stones(1), careful(1), silly(1), clues(1), strange(2), coffee(1), sugar(2), cup(1), tasted(1), salt(2), priests(3), breakfast(1), soup(2), fruit(1), orange(1), nuts(1), nut(1), oranges(1), knocked(1), apples(1), angry(1), shopkeeper(1), policemen(3), rode(1), lunch(1), glass(1), sweet(1), parcel(2), sun(1), bench(1), hid(1), sky(1), everywhere(1), afraid(1), bowl(1), hat(1), bow(1)",
+        "level B1: B1: KALDI | kapsam %91.4 | 661 kelime\n    havuz dışı: detective(2), thief(1), height(1), giant(1), priest(12), umbrella(2), parcels(3), priests(4), silver(1), sugar(3), salt(3), pot(1), soup(2), nuts(2), oranges(1), orange(1), shopkeeper(1), apples(1), policemen(3), parcel(1), bench(1), crept(1), farthest(1), gentle(1), thief's(1), bracelet(1), clue(1), swapped(1), clues(1), bow(1), blinked(1)",
+        "level B2: B2: KALDI | kapsam %93.6 | 972 kelime\n    havuz dışı: detective(3), thief(2), clever(1), disguise(1), priests(5), travelers(1), priest(10), carriage(1), dull(2), pudding(1), shabby(1), umbrella(2), parcels(2), pity(1), treasure(1), clue(1), cellar(1), soup(2), nuts(2), shopkeeper(1), apples(2), policemen(3), parcel(2), bench(1), crept(1), heavens(1), farthest(1), theology(1), thief's(1), bracelet(1), sleeve(1), confessions(1), deeds(1), swapped(1), bow(1), bare(1), blinked(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8073,
+        "wordCount": 327,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "priest(9)",
+          "tall(4)",
+          "cross(3)",
+          "policemen(3)",
+          "umbrella(2)",
+          "clues(2)",
+          "strange(2)",
+          "restaurant(2)",
+          "priests(2)",
+          "window(2)",
+          "parcel(2)",
+          "detective(1)",
+          "catch(1)",
+          "famous(1)",
+          "thief(1)",
+          "clever(1)",
+          "parcels(1)",
+          "silver(1)",
+          "blue(1)",
+          "stones(1)",
+          "sorry(1)",
+          "silly(1)",
+          "sugar(1)",
+          "salt(1)",
+          "threw(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8555,
+        "wordCount": 519,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "priest(7)",
+          "tall(5)",
+          "parcels(3)",
+          "priests(3)",
+          "policemen(3)",
+          "master(2)",
+          "umbrella(2)",
+          "strange(2)",
+          "sugar(2)",
+          "salt(2)",
+          "soup(2)",
+          "parcel(2)",
+          "cleverest(1)",
+          "detective(1)",
+          "boat(1)",
+          "famous(1)",
+          "thief(1)",
+          "disguise(1)",
+          "hide(1)",
+          "none(1)",
+          "brown(1)",
+          "silver(1)",
+          "stones(1)",
+          "careful(1)",
+          "silly(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9138,
+        "wordCount": 661,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "priest(12)",
+          "priests(4)",
+          "parcels(3)",
+          "sugar(3)",
+          "salt(3)",
+          "policemen(3)",
+          "detective(2)",
+          "umbrella(2)",
+          "soup(2)",
+          "nuts(2)",
+          "thief(1)",
+          "height(1)",
+          "giant(1)",
+          "silver(1)",
+          "pot(1)",
+          "oranges(1)",
+          "orange(1)",
+          "shopkeeper(1)",
+          "apples(1)",
+          "parcel(1)",
+          "bench(1)",
+          "crept(1)",
+          "farthest(1)",
+          "gentle(1)",
+          "thief's(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9362,
+        "wordCount": 972,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "priest(10)",
+          "priests(5)",
+          "detective(3)",
+          "policemen(3)",
+          "thief(2)",
+          "dull(2)",
+          "umbrella(2)",
+          "parcels(2)",
+          "soup(2)",
+          "nuts(2)",
+          "apples(2)",
+          "parcel(2)",
+          "clever(1)",
+          "disguise(1)",
+          "travelers(1)",
+          "carriage(1)",
+          "pudding(1)",
+          "shabby(1)",
+          "pity(1)",
+          "treasure(1)",
+          "clue(1)",
+          "cellar(1)",
+          "shopkeeper(1)",
+          "bench(1)",
+          "crept(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9106,
+        "wordCount": 1298,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "priest(8)",
+          "detective(5)",
+          "thief(4)",
+          "policemen(4)",
+          "priests(3)",
+          "parcels(3)",
+          "travelers(2)",
+          "umbrella(2)",
+          "heap(2)",
+          "dull(2)",
+          "clergymen(2)",
+          "soup(2)",
+          "nuts(2)",
+          "apples(2)",
+          "parcel(2)",
+          "glittered(1)",
+          "unremarkable(1)",
+          "amused(1)",
+          "infuriated(1)",
+          "theatrical(1)",
+          "flavor(1)",
+          "adored(1)",
+          "repainted(1)",
+          "overnight(1)",
+          "genius(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ANY_MORE",
+          "cat": "COMPOUNDING",
+          "msg": "Did you mean the adverb “anymore”?",
+          "frag": "any more",
+          "ctx": " stood up, and his voice was not gentle any more. \"Give me that cross, because we are al"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_OPEN_TOP",
+          "cat": "MISC",
+          "msg": "This word is normally spelled with a hyphen.",
+          "frag": "open top",
+          "ctx": " accompany him.  They rode north on the open top of a bus, the detective scanning every "
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 327,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.12,
+      "lowZipfRatio": 0.0036,
+      "lowZipfWords": [
+        "parcels"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 519,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0107,
+      "lowZipfWords": [
+        "cleverest",
+        "parcels",
+        "shopkeeper"
+      ],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 661,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0181,
+      "lowZipfWords": [
+        "angrily",
+        "blinked",
+        "crept",
+        "farthest",
+        "parcels",
+        "shopkeeper",
+        "strangest",
+        "swapped",
+        "thief's"
+      ],
+      "keyTermTokens": 19,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 972,
+      "sentLenMedian": 13,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.012,
+      "lowZipfWords": [
+        "blinked",
+        "crept",
+        "disagreed",
+        "enormously",
+        "farthest",
+        "parcels",
+        "shabby",
+        "shopkeeper",
+        "swapped",
+        "thief's"
+      ],
+      "keyTermTokens": 18,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1298,
+      "sentLenMedian": 20.5,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0329,
+      "lowZipfWords": [
+        "adored",
+        "bareheaded",
+        "battered",
+        "blinked",
+        "blinking",
+        "breakfasted",
+        "clambered",
+        "clergymen",
+        "cleric",
+        "confided",
+        "crept",
+        "doubted",
+        "dreamily",
+        "duly",
+        "dumpy",
+        "flicker",
+        "glittered",
+        "greengrocer's",
+        "infuriated",
+        "loneliest",
+        "mildness",
+        "oddities",
+        "overheard",
+        "parcels",
+        "propped",
+        "repainted",
+        "scandalized",
+        "shopfront",
+        "shopkeeper",
+        "signpost",
+        "skeptic",
+        "smarting",
+        "thief's",
+        "uneasy",
+        "unremarkable",
+        "vastness",
+        "wigs",
+        "wrongs"
+      ],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8073,
+      "wordCount": 327,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "priest(9)",
+        "tall(4)",
+        "cross(3)",
+        "policemen(3)",
+        "umbrella(2)",
+        "clues(2)",
+        "strange(2)",
+        "restaurant(2)",
+        "priests(2)",
+        "window(2)",
+        "parcel(2)",
+        "detective(1)",
+        "catch(1)",
+        "famous(1)",
+        "thief(1)",
+        "clever(1)",
+        "parcels(1)",
+        "silver(1)",
+        "blue(1)",
+        "stones(1)",
+        "sorry(1)",
+        "silly(1)",
+        "sugar(1)",
+        "salt(1)",
+        "threw(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8555,
+      "wordCount": 519,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "priest(7)",
+        "tall(5)",
+        "parcels(3)",
+        "priests(3)",
+        "policemen(3)",
+        "master(2)",
+        "umbrella(2)",
+        "strange(2)",
+        "sugar(2)",
+        "salt(2)",
+        "soup(2)",
+        "parcel(2)",
+        "cleverest(1)",
+        "detective(1)",
+        "boat(1)",
+        "famous(1)",
+        "thief(1)",
+        "disguise(1)",
+        "hide(1)",
+        "none(1)",
+        "brown(1)",
+        "silver(1)",
+        "stones(1)",
+        "careful(1)",
+        "silly(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9138,
+      "wordCount": 661,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "priest(12)",
+        "priests(4)",
+        "parcels(3)",
+        "sugar(3)",
+        "salt(3)",
+        "policemen(3)",
+        "detective(2)",
+        "umbrella(2)",
+        "soup(2)",
+        "nuts(2)",
+        "thief(1)",
+        "height(1)",
+        "giant(1)",
+        "silver(1)",
+        "pot(1)",
+        "oranges(1)",
+        "orange(1)",
+        "shopkeeper(1)",
+        "apples(1)",
+        "parcel(1)",
+        "bench(1)",
+        "crept(1)",
+        "farthest(1)",
+        "gentle(1)",
+        "thief's(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9362,
+      "wordCount": 972,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "priest(10)",
+        "priests(5)",
+        "detective(3)",
+        "policemen(3)",
+        "thief(2)",
+        "dull(2)",
+        "umbrella(2)",
+        "parcels(2)",
+        "soup(2)",
+        "nuts(2)",
+        "apples(2)",
+        "parcel(2)",
+        "clever(1)",
+        "disguise(1)",
+        "travelers(1)",
+        "carriage(1)",
+        "pudding(1)",
+        "shabby(1)",
+        "pity(1)",
+        "treasure(1)",
+        "clue(1)",
+        "cellar(1)",
+        "shopkeeper(1)",
+        "bench(1)",
+        "crept(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9106,
+      "wordCount": 1298,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "priest(8)",
+        "detective(5)",
+        "thief(4)",
+        "policemen(4)",
+        "priests(3)",
+        "parcels(3)",
+        "travelers(2)",
+        "umbrella(2)",
+        "heap(2)",
+        "dull(2)",
+        "clergymen(2)",
+        "soup(2)",
+        "nuts(2)",
+        "apples(2)",
+        "parcel(2)",
+        "glittered(1)",
+        "unremarkable(1)",
+        "amused(1)",
+        "infuriated(1)",
+        "theatrical(1)",
+        "flavor(1)",
+        "adored(1)",
+        "repainted(1)",
+        "overnight(1)",
+        "genius(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.333,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0200",
+        "title": "The Blue Jackal",
+        "titleJaccard": 0.333,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0125",
+        "title": "The Adventure of the Blue Carbuncle",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

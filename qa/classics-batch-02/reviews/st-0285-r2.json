@@ -1,0 +1,52 @@
+{
+  "id": "st-0285",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Now he knew the truth about his uncle.\" leaves the 'truth' implicit; optional fix: \"Now he knew the truth: his uncle wanted to hurt him.\"",
+        "\"At last the sailors gave up.\" is fine, but \"the friends held firm\" is an idiom above A1; optional fix: \"but the friends did not open the door.\"",
+        "\"Alan and David went into a small room.\" In the book Alan is already in the round-house; harmless simplification.",
+        "\"heather\" is above A1 vocabulary but clear enough from context."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Later, David worked for the captain in the round-house.\" The word 'round-house' is never explained at A2 (B1 explains it); optional fix: \"in the round-house, a small room on the deck.\"",
+        "\"Days later, the ship hit rocks near Mull.\" In the book the wreck comes about a day after the fight; \"Soon after\" would be closer.",
+        "\"At last, they came back near Edinburgh.\" is slightly awkward; optional fix: \"At last, they came back to the country near Edinburgh.\""
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"and two of us can hold this room\" reads slightly unnaturally; optional fix: \"and the two of us can hold this room.\"",
+        "\"A few days later, the ship hit hidden rocks near Mull.\" In the book the wreck follows the fight within about a day; \"Soon afterwards\" would be more accurate.",
+        "\"slept in the heather by day\" is fine, but could add \"and walked by night\" to make the hiding pattern clear."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Hoseason agreed to put him ashore, but Hoseason and his officers secretly planned to take the gold.\" repeats the name; optional fix: \"but he and his officers secretly planned to take the gold.\"",
+        "\"while David guarded the other side\" is vague (other side of what?); optional fix: \"while David guarded the other door.\""
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"A few days later the Covenant ... struck a reef off the island of Mull.\" In the book the wreck comes the night after the parley, roughly a day after the fight; \"Within a day or two\" would be more faithful.",
+        "Prose is genuinely literary without padding; the tower, kidnapping, Earraid, flight, quarrel and confession scenes are well balanced."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels faithfully follow Stevenson's novel (Shaws, the tower stairs, the kidnapping, the round-house siege, Earraid, the flight in the heather, Cluny, the quarrel, the Limekilns crossing and Ebenezer's trapped confession) with no film elements. Grammar fits each level, quiz keys are correct and unambiguous, and violence and the Appin murder are stated gently enough for a 4+ rating. Only minor wording and timing preferences remain as notes."
+}

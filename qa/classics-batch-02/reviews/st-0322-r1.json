@@ -1,0 +1,45 @@
+{
+  "id": "st-0322",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"They woke up at sunset with no wings.\" Other levels say they woke after sunset, in the dark. Optional fix: \"They woke up in the dark. Their wings were gone.\"",
+        "\"But Martha did not know them!\" uses 'know' to mean 'recognize'. That is fine, but \"Martha did not know who they were!\" is a little clearer for A1."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"I wish you could grow up!\" uses the wish + past-modal pattern, which is close to a hypothetical structure. It is a fixed, easy-to-read exclamation and is needed for the plot, so it is not a failure. A strict alternative is \"Oh, grow up, Lamb!\" said one of the boys. It was a wish, and the Psammead heard it."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"the door to the stairs was locked\" is a stative/adjectival use, not a real passive. It is acceptable, but \"someone had locked the door to the stairs\" or \"they could not open the door to the stairs\" would avoid any passive question.",
+        "\"Long ago, children wished for huge animals for dinner, and it gave them their wishes.\" reads a little flat. A possible fix: \"Long ago, it said, children wished for huge animals for their dinner.\""
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Now a thief was being searched for\" is a stilted passive. More natural: \"Now the police were hunting for a thief\"."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Good use of details from the book: Lamb's first word 'Baa', the sand martins' holes, eyes that move in and out like a snail's, and the megatherium bones turning to stone. The closing image of Martha and the cold supper is invented, but it fits the tone."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "A faithful, child-friendly condensation of Nesbit's novel. It covers the Psammead's discovery, the sunset rule, and the beauty, gold, wings, castle, grown-up Lamb and jewels episodes, ending with the promise of no more wishes, and contains nothing from film versions. The levels agree with each other, every quiz has a single correct keyed answer, nothing is unsuitable for a 4+ rating, and the remaining points are minor wording notes."
+}

@@ -1,0 +1,671 @@
+{
+  "id": "st-0305",
+  "title": "Black Beauty",
+  "ts": "2026-10-29T21:45:20",
+  "node": {
+    "id": "st-0305",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %81.2 | 330 kelime\n    havuz dışı: horse(2), foot(1), star(2), green(1), farm(1), gentle(1), john(2), horses(1), tall(1), red(1), masters(2), cruel(1), cross(1), merrylegs(1), happy(2), pony(1), trip(1), slept(1), inn(1), smoke(1), stable(1), afraid(1), yard(1), lad(1), master(1), mistress(1), ill(1), warm(1), earl(2), wife(1), groom(2), tight(1), rein(1), hurt(2), necks(1), fought(1), careless(1), rode(1), knees(2), marks(1), cab(2), poor(1), thin(1), tired(1), troubles(2), sick(1), weak(1), ladies(1), cried(1), quiet(1), field(1)",
+        "level A2: A2: KALDI | kapsam %84.8 | 513 kelime\n    havuz dışı: horse(5), quiet(2), farm(1), pond(1), kick(1), bite(1), coachman(1), tall(1), pony(1), cruel(1), hurts(1), calm(1), journey(1), inn(1), woke(2), smelled(1), smoke(1), afraid(1), groom(4), tied(1), scarf(1), yard(1), brave(1), lad(1), master(2), winter(1), hurry(1), mistress(2), ill(2), rode(3), wet(1), warm(2), blanket(1), sick(1), rich(1), earl(2), horses'(1), tight(1), rein(1), hurt(2), necks(1), careless(1), shoes(1), loose(1), stones(1), knees(2), cab(2), thin(1), tired(2), masters(2), quietly(1), weak(1), fair(1), farmer(1), gentle(1), ladies(1), cried(1)",
+        "level B1: B1: KALDI | kapsam %93.1 | 824 kelime\n    havuz dışı: pleasant(1), pond(1), gentle(1), bite(2), mistress(3), handsome(1), coachman(2), cheerful(2), groom(5), peaceful(1), stalls(1), chestnut(2), mare(1), pony(1), rough(1), cruel(1), stormy(1), wooden(1), toll(1), inn(1), careless(2), hayloft(1), frightened(1), scarf(1), brave(1), lad(1), galloped(1), bucket(1), blanket(1), vicar(1), earl(2), tight(1), rein(1), ached(1), carriage(1), stony(1), loose(1), stumbled(1), knees(1), healed(1), cab(2), honest(1), apples(1), hugged(1)",
+        "level B2: B2: KALDI | kapsam %94.0 | 1133 kelime\n    havuz dışı: meadow(1), pond(1), shady(1), forehead(2), willingly(1), mistress(3), coachman(2), cheerful(2), groom(6), peaceful(1), stalls(1), chestnut(2), mare(1), pony(1), adored(1), paddock(1), bitterly(1), patience(1), harshly(1), stormy(1), toll(1), lantern(2), inn(1), midnight(1), careless(2), hayloft(1), hay(1), scarf(1), brave(1), lad(1), afterwards(1), galloped(1), sweat(1), trembling(1), blanket(1), thoughtful(1), vicar(1), earl(2), countess(1), carriage(2), fastened(1), reins(1), ached(1), collar(1), rein(2), shortened(1), stumbled(1), healed(1), cab(2), dull(1), murmured(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8121,
+        "wordCount": 330,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "horse(2)",
+          "star(2)",
+          "john(2)",
+          "masters(2)",
+          "happy(2)",
+          "earl(2)",
+          "groom(2)",
+          "hurt(2)",
+          "knees(2)",
+          "cab(2)",
+          "troubles(2)",
+          "foot(1)",
+          "green(1)",
+          "farm(1)",
+          "gentle(1)",
+          "horses(1)",
+          "tall(1)",
+          "red(1)",
+          "cruel(1)",
+          "cross(1)",
+          "merrylegs(1)",
+          "pony(1)",
+          "trip(1)",
+          "slept(1)",
+          "inn(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.848,
+        "wordCount": 513,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "horse(5)",
+          "groom(4)",
+          "rode(3)",
+          "quiet(2)",
+          "woke(2)",
+          "master(2)",
+          "mistress(2)",
+          "ill(2)",
+          "warm(2)",
+          "earl(2)",
+          "hurt(2)",
+          "knees(2)",
+          "cab(2)",
+          "tired(2)",
+          "masters(2)",
+          "farm(1)",
+          "pond(1)",
+          "kick(1)",
+          "bite(1)",
+          "coachman(1)",
+          "tall(1)",
+          "pony(1)",
+          "cruel(1)",
+          "hurts(1)",
+          "calm(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9308,
+        "wordCount": 824,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "groom(5)",
+          "mistress(3)",
+          "bite(2)",
+          "coachman(2)",
+          "cheerful(2)",
+          "chestnut(2)",
+          "careless(2)",
+          "earl(2)",
+          "cab(2)",
+          "pleasant(1)",
+          "pond(1)",
+          "gentle(1)",
+          "handsome(1)",
+          "peaceful(1)",
+          "stalls(1)",
+          "mare(1)",
+          "pony(1)",
+          "rough(1)",
+          "cruel(1)",
+          "stormy(1)",
+          "wooden(1)",
+          "toll(1)",
+          "inn(1)",
+          "hayloft(1)",
+          "frightened(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.94,
+        "wordCount": 1133,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "groom(6)",
+          "mistress(3)",
+          "forehead(2)",
+          "coachman(2)",
+          "cheerful(2)",
+          "chestnut(2)",
+          "lantern(2)",
+          "careless(2)",
+          "earl(2)",
+          "carriage(2)",
+          "rein(2)",
+          "cab(2)",
+          "meadow(1)",
+          "pond(1)",
+          "shady(1)",
+          "willingly(1)",
+          "peaceful(1)",
+          "stalls(1)",
+          "mare(1)",
+          "pony(1)",
+          "adored(1)",
+          "paddock(1)",
+          "bitterly(1)",
+          "patience(1)",
+          "harshly(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9398,
+        "wordCount": 1546,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "groom(5)",
+          "mistress(4)",
+          "afterwards(3)",
+          "carriage(3)",
+          "cab(3)",
+          "forehead(2)",
+          "mare(2)",
+          "patience(2)",
+          "coachman(2)",
+          "chestnut(2)",
+          "endless(2)",
+          "lantern(2)",
+          "careless(2)",
+          "scarcely(2)",
+          "earl(2)",
+          "rein(2)",
+          "dull(2)",
+          "meadow(1)",
+          "pond(1)",
+          "cheerful(1)",
+          "stalls(1)",
+          "pony(1)",
+          "temper(1)",
+          "paddock(1)",
+          "tossing(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ADVERB_WORD_ORDER",
+          "cat": "STYLE",
+          "msg": "The adverb ‘Always’ usually goes after the verb ‘be’.",
+          "frag": "Always be",
+          "ctx": "rst home was a quiet farm with a pond. \"Always be good and kind,\" my mother told me. \"Nev"
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ANY_MORE",
+          "cat": "COMPOUNDING",
+          "msg": "Did you mean the adverb “anymore”?",
+          "frag": "any more",
+          "ctx": " want money from me, and I cannot fight any more.\" I never saw her again, and I believe "
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "ng tonight, lad,\" said my master.  Soon afterwards the young groom left for a better posit"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "rdly knew how much I was learning. Soon afterwards I was sold to Squire Gordon, whose fine"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "he courage of that young man.  Not long afterwards the young groom left for a better posit"
+        },
+        {
+          "rule": "ANY_MORE",
+          "cat": "COMPOUNDING",
+          "msg": "Did you mean the adverb “anymore”?",
+          "frag": "any more",
+          "ctx": "d I have no strength left to fight them any more.\" I laid my nose against hers, but noth"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "own in the street. At a horse fair soon afterwards, a kind old farmer looked past my dull "
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 330,
+      "sentLenMedian": 6,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.0136,
+      "lowZipfWords": [
+        "helper",
+        "necks"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 513,
+      "sentLenMedian": 8,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.0043,
+      "lowZipfWords": [
+        "coachman",
+        "necks"
+      ],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 824,
+      "sentLenMedian": 12.0,
+      "zipfMedian": 6.12,
+      "lowZipfRatio": 0.0168,
+      "lowZipfWords": [
+        "ached",
+        "calmer",
+        "chestnut",
+        "coachman",
+        "galloped",
+        "hayloft",
+        "hugged",
+        "nursed",
+        "stony",
+        "stormy",
+        "vicar"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1133,
+      "sentLenMedian": 15.0,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.0186,
+      "lowZipfWords": [
+        "ached",
+        "adored",
+        "bitterly",
+        "chestnut",
+        "coachman",
+        "fastened",
+        "galloped",
+        "gentler",
+        "harshly",
+        "hayloft",
+        "hurried",
+        "murmured",
+        "nursed",
+        "paddock",
+        "reared",
+        "stormy",
+        "trembling",
+        "vicar"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1546,
+      "sentLenMedian": 22,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0215,
+      "lowZipfWords": [
+        "ached",
+        "chestnut",
+        "coachman",
+        "dearly",
+        "dripping",
+        "fastened",
+        "forbade",
+        "galloped",
+        "grooms",
+        "harshly",
+        "hayloft",
+        "mended",
+        "murmured",
+        "nursed",
+        "oats",
+        "paddock",
+        "plunged",
+        "reared",
+        "roared",
+        "scarcely",
+        "slackening",
+        "stamping",
+        "stormy",
+        "strewn",
+        "stroking",
+        "surer",
+        "tossing",
+        "trudging",
+        "vicar"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8121,
+      "wordCount": 330,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "horse(2)",
+        "star(2)",
+        "john(2)",
+        "masters(2)",
+        "happy(2)",
+        "earl(2)",
+        "groom(2)",
+        "hurt(2)",
+        "knees(2)",
+        "cab(2)",
+        "troubles(2)",
+        "foot(1)",
+        "green(1)",
+        "farm(1)",
+        "gentle(1)",
+        "horses(1)",
+        "tall(1)",
+        "red(1)",
+        "cruel(1)",
+        "cross(1)",
+        "merrylegs(1)",
+        "pony(1)",
+        "trip(1)",
+        "slept(1)",
+        "inn(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.848,
+      "wordCount": 513,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "horse(5)",
+        "groom(4)",
+        "rode(3)",
+        "quiet(2)",
+        "woke(2)",
+        "master(2)",
+        "mistress(2)",
+        "ill(2)",
+        "warm(2)",
+        "earl(2)",
+        "hurt(2)",
+        "knees(2)",
+        "cab(2)",
+        "tired(2)",
+        "masters(2)",
+        "farm(1)",
+        "pond(1)",
+        "kick(1)",
+        "bite(1)",
+        "coachman(1)",
+        "tall(1)",
+        "pony(1)",
+        "cruel(1)",
+        "hurts(1)",
+        "calm(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9308,
+      "wordCount": 824,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "groom(5)",
+        "mistress(3)",
+        "bite(2)",
+        "coachman(2)",
+        "cheerful(2)",
+        "chestnut(2)",
+        "careless(2)",
+        "earl(2)",
+        "cab(2)",
+        "pleasant(1)",
+        "pond(1)",
+        "gentle(1)",
+        "handsome(1)",
+        "peaceful(1)",
+        "stalls(1)",
+        "mare(1)",
+        "pony(1)",
+        "rough(1)",
+        "cruel(1)",
+        "stormy(1)",
+        "wooden(1)",
+        "toll(1)",
+        "inn(1)",
+        "hayloft(1)",
+        "frightened(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.94,
+      "wordCount": 1133,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "groom(6)",
+        "mistress(3)",
+        "forehead(2)",
+        "coachman(2)",
+        "cheerful(2)",
+        "chestnut(2)",
+        "lantern(2)",
+        "careless(2)",
+        "earl(2)",
+        "carriage(2)",
+        "rein(2)",
+        "cab(2)",
+        "meadow(1)",
+        "pond(1)",
+        "shady(1)",
+        "willingly(1)",
+        "peaceful(1)",
+        "stalls(1)",
+        "mare(1)",
+        "pony(1)",
+        "adored(1)",
+        "paddock(1)",
+        "bitterly(1)",
+        "patience(1)",
+        "harshly(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9398,
+      "wordCount": 1546,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "groom(5)",
+        "mistress(4)",
+        "afterwards(3)",
+        "carriage(3)",
+        "cab(3)",
+        "forehead(2)",
+        "mare(2)",
+        "patience(2)",
+        "coachman(2)",
+        "chestnut(2)",
+        "endless(2)",
+        "lantern(2)",
+        "careless(2)",
+        "scarcely(2)",
+        "earl(2)",
+        "rein(2)",
+        "dull(2)",
+        "meadow(1)",
+        "pond(1)",
+        "cheerful(1)",
+        "stalls(1)",
+        "pony(1)",
+        "temper(1)",
+        "paddock(1)",
+        "tossing(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.333,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0178",
+        "title": "Beauty and the Beast",
+        "titleJaccard": 0.333,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0177",
+        "title": "Sleeping Beauty (Brier Rose)",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

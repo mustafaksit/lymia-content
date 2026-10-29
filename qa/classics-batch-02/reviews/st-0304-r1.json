@@ -1,0 +1,50 @@
+{
+  "id": "st-0304",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The prince is ill,\" said the lords. -- a beginner could read this as the lords talking about some other (absent) prince. Optional clarity fix: \"You are ill, Prince,\" said the lords. / \"The prince is ill in his head,\" said the lords.",
+        "\"The guard's push hurt it.\" is understandable but slightly flat; optional: \"The guard hurt it.\"",
+        "The Great Seal is never explained at A1; optional: \"First, the prince hid the Great Seal, a very important thing.\""
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Same small ambiguity as A1: \"The prince is ill,\" said the lords sadly. Optional A2-safe fix: \"Our prince is ill. He does not remember,\" said the lords sadly.",
+        "\"Tom loved his stories about kings.\" -- 'his' refers to the priest; clear enough in context, optional: \"Tom loved the priest's stories about kings.\""
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The next evening an angry crowd began to push him around.\" -- in the novel Edward escapes Canty and reaches the Guildhall the same night. Optional: \"Later that same night...\". Not a main-event or order change.",
+        "\"For weeks, they faced many dangers together, and Miles never left the boy.\" -- in the novel they are separated when John Canty tricks Edward away. Not wrong (Miles did not abandon him), but optional: \"and Miles never gave up on the boy.\""
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The next evening Edward tried to enter a great hall...\" -- same-night timing in the original; optional: \"Later that night Edward tried to enter...\".",
+        "\"Even so, Miles took a punishment meant for the boy\" -- 'Even so' does not quite follow from 'ended up in prison'; optional: \"There, Miles took a punishment meant for the boy...\"."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The next evening the city held a great feast for the prince\" -- same-night timing in the original; optional: \"That same night the city held...\".",
+        "\"he might have come to real trouble\" -- slightly off collocation; optional: \"he might have come to real harm\" / \"he might have come to grief\".",
+        "\"might as well have lived on different stars\" -- the usual idiom is 'different planets'/'different worlds'; acceptable as literary variation."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels faithfully retell Twain's novel (swap, bruise, hidden Great Seal, Miles Hendon and the sitting privilege, Hugh's betrayal, Tom denying his mother, the seal used to crack nuts, Miles made earl, Tom as King's Ward), with grammar matching each level and quizzes keyed correctly. Content is 4+ safe; violence and hardship are only stated. Remaining points are optional polish: the Guildhall scene is set 'the next evening' instead of the same night, and a few small wording tweaks."
+}

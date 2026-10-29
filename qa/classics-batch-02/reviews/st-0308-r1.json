@@ -1,0 +1,55 @@
+{
+  "id": "st-0308",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Mr. Pendleton took Jimmy Bean into his home.",
+          "problem": "Jimmy Bean is never introduced at A1. He first appears here and then again as the person who carries the key news to Aunt Polly ('Jimmy ran to Aunt Polly with the news.'). An A1 reader cannot tell who he is or why it matters that he has a new home.",
+          "fix": "Introduce him at the point where he is adopted: \"Jimmy Bean was a poor boy with no family. Mr. Pendleton took Jimmy into his home.\" You could also add one earlier line, for example after the Mrs. Snow paragraph: \"Pollyanna had a friend, Jimmy Bean. He was a poor boy with no home.\""
+        }
+      ],
+      "notes": [
+        "\"Nancy worked in Aunt Polly's kitchen\" comes after Nancy has already spoken. Moving it before her question would read more smoothly.",
+        "The Pendleton paragraph moves quickly from the fall to the old love to the offer. It is acceptable for A1."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Jimmy Bean is introduced only as \"a poor boy\" at the moment of adoption. It works, but one earlier mention of Pollyanna's friendship with him would make the later 'Jimmy heard about this' land better."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Jimmy heard this, and he ran straight to Miss Polly.\" It is slightly vague what Jimmy heard and from whom. Consider: \"Jimmy heard the doctor say this to Mr. Pendleton, and he ran straight to Miss Polly.\"",
+        "\"the cross old man\": 'cross' (= angry) may be unfamiliar at B1. 'grumpy' or 'unfriendly' would be easier."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Old Tom, the old gardener\" repeats 'old'. Use \"Old Tom, the gardener\".",
+        "B2 puts the Jimmy Bean episode before the Mrs. Snow visits, which reverses the book's order. This is acceptable condensing."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Dr. Chilton, the town's other doctor\": no first doctor is ever mentioned, so 'other' hangs slightly. Either drop 'other' or name Dr. Warren once.",
+        "\"exactly as Pollyanna had once begged him to\": the request to take Jimmy was never narrated at C1. It is acceptable as backstory, but one clause in the Pendleton paragraph would tie it up.",
+        "\"I'm almost glad I lost my legs for a while\" is faithful to the original, but a learner could read 'lost my legs' literally. \"I'm almost glad I couldn't use my legs for a while\" would remove the ambiguity."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is faithful to Porter's novel at every level: the attic room, the crutches, bread and milk, Mrs. Snow, Pendleton, Jimmy Bean, the accident, the town's visits, Chilton and the letter. The grammar is level-appropriate and the content is 4+ safe throughout. The only blocking issue is at A1, where Jimmy Bean appears twice in key plot beats without ever being introduced."
+}

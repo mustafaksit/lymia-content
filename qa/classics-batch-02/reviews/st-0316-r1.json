@@ -1,0 +1,79 @@
+{
+  "id": "st-0316",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Her father made a plan with his men. But a young servant told the tailor.",
+          "problem": "The reader is never told what the plan is, and 'told the tailor' has no object (told him what?). The next paragraph then refers to 'these men' although nobody has come to the door. An A1 reader cannot follow why the tailor shouts or who runs away.",
+          "fix": "Her father made a plan. His men must take the tailor away at night. But a young servant told the tailor about the plan. / That night, the men came to the door. The tailor called out loudly."
+        }
+      ],
+      "notes": [
+        "\"He dropped stones on them. Each giant was angry with the other.\" skips why they were angry. \"Each giant thought: 'The other giant hit me!'\" would make the trick clearer.",
+        "The tailor becomes king without this ever being said (\"married the princess\" ... \"was king all his life\"). \"So the tailor married the princess and became a king.\" would close the gap, as A2 does."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "At midnight, a giant hit the bed with a heavy stick. But the bed was empty. In the morning, the giants saw the tailor in the forest.",
+          "problem": "Only one giant has been introduced. 'a giant' and then 'the giants' (plural) appear from nowhere, so the reader does not know who attacked the bed or who ran away.",
+          "fix": "Add after 'took the tailor to his cave': 'Other giants sat there by the fire.' Then: 'At midnight, the giant hit the bed with a heavy stick.'"
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "\"Why do you hit me?\" cried the first giant. \"I don't hit you!\" said the second giant.",
+          "problem": "Present simple for a single just-happened action is a learner calque; no native writer would put it this way. Past simple stays within the A2 tense limit and sounds natural.",
+          "fix": "\"Why did you hit me?\" cried the first giant. \"I didn't hit you!\" said the second giant."
+        }
+      ],
+      "notes": [
+        "\"That night, the tailor only closed his eyes.\" is a slightly vague way to show he was pretending to sleep. \"That night, the tailor did not really sleep.\" is clearer."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "\"You are dreaming,\" said the second giant. Then the tailor dropped a stone on the second giant, and he woke up angry.",
+          "problem": "The second giant has just spoken, so he is awake. Without the giants going back to sleep, 'he woke up' contradicts the previous line.",
+          "fix": "\"You are dreaming,\" said the second giant, and they both went back to sleep. Then the tailor dropped a stone on the second giant, and he woke up angry."
+        }
+      ],
+      "notes": [
+        "\"Who asked you to my table?\" is understandable but slightly old-fashioned. \"Who invited you to my table?\" is smoother.",
+        "\"He beats seven at one blow, so we will all leave\" is a little abrupt. \"If he gets angry...\" is not allowed at B1, but \"He can strike seven of us at one blow. We will all leave!\" reads more naturally."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Boar scene order: \"he ran into a small chapel and leapt out through a high window at the back. The boar followed him inside, and the tailor shut the door behind it.\" States the boar following after the leap and omits running round to the door. Consider: \"he ran into a small chapel with the boar close behind, leapt out through a high window at the back, ran round and shut the door.\""
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "Still the king would not hand over his daughter, demanding a third service: the capture of a wild boar, and the tailor sent the royal hunters away, since he wanted no help.",
+          "problem": "Two unrelated main ideas are spliced after a colon, so the sentence reads as if sending the hunters away were part of the king's demand. The royal hunters are also never introduced, yet quiz question 2 depends on them.",
+          "fix": "Still the king would not hand over his daughter, but demanded a third service: the capture of a wild boar, for which the royal hunters were to lend their help. The tailor, however, sent them away, since he wanted no help."
+        }
+      ],
+      "notes": [
+        "The softened ending of the forest giants (they flee instead of dying) suits a 4+ app and is consistent across all levels."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows the Grimm tale faithfully: the cheese and bird contests, the tree and cherry-tree tricks, the cave, the two giants, the unicorn, the boar, the sleep-talking and the bluff. It softens the giants' deaths appropriately for 4+, and every quiz key is correct. A1, A2, B1 and C1 each have one or two concrete local problems: an unexplained plan and men in A1, giants who are never introduced and a present-simple calque in A2, a giant who 'wakes up' while already awake in B1, and a spliced sentence about hunters who are never introduced in C1. B2 passes."
+}

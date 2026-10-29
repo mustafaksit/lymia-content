@@ -1,0 +1,61 @@
+{
+  "id": "st-0313",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"My hand must make gold,\" said Midas. is a little stilted; consider \"I want all my things to turn to gold when I touch them!\"",
+        "Naming the river Pactolus comes from Ovid's version of the myth; Hawthorne's 'The Golden Touch' (the Marygold version) only says 'the river at the bottom of your garden'. This is an acceptable blend of the myth, not a film element."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Everything must turn to gold under my hand\" reads slightly textbook-like; \"I want everything to turn to gold when I touch it\" is more natural.",
+        "\"The only gold he liked was the color of his daughter's hair.\" contains a zero relative clause (\"gold he liked\"); it is easy to read, but a strict A2 rewrite would be \"He only liked one kind of gold: the color of his daughter's hair.\""
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"I would not give one hair of her head for all the gold in the world.\" and \"how much they would be worth as gold\" are implied conditionals with 'would'. They are common B1 expressions and do not hinder reading, but a strict no-conditional B1 could use \"Not one hair of her head is worth all the gold in the world.\"",
+        "The ending implies the grandchildren have golden hair without saying so; optionally add \"stroking their golden hair\"."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "\"Are you quite sure you will never be sorry?\" he asked.",
+          "problem": "This line directly follows Midas's own quoted wish, and the last named subject is Midas, so 'he' grammatically points to Midas asking himself. The reader has to stop and work out that it is the stranger speaking.",
+          "fix": "\"Are you quite sure you will never be sorry?\" asked the stranger."
+        }
+      ],
+      "notes": [
+        "Glittering Pactolus sand is from Ovid rather than Hawthorne; acceptable as part of the well-known myth."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "if there was one thing he valued above it, that thing was his cheerful, golden-haired child.",
+          "problem": "This contradicts the rest of the level, where Marygold has 'soft brown curls' and at the end her 'brown curls kept a faint golden shine that they had never had before'. If she was already golden-haired, the closing reminder of the Golden Touch makes no sense.",
+          "fix": "if there was one thing he valued above it, that thing was his cheerful, rosy-cheeked child."
+        }
+      ],
+      "notes": [
+        "Quiz Q3 keyed answer \"He never told her anything.\" is literally contradicted by the text (he told her not to cry and promised her a gift). It is still the only defensible option, but change it to \"He never told her what had happened.\"",
+        "Pactolus and its golden sand come from Ovid's myth, merged into Hawthorne's plot; acceptable."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "This is a faithful, child-safe retelling of Hawthorne's 'The Golden Touch', with well-graded language at A1-B1 and correct quiz keys. B2 has a speech line attributed to 'he' straight after Midas speaks, so it reads as if Midas is talking. C1 calls Marygold 'golden-haired' at the start, which contradicts her brown curls and the ending, where her hair gains a golden shine it never had before."
+}

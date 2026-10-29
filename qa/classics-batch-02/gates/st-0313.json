@@ -1,0 +1,664 @@
+{
+  "id": "st-0313",
+  "title": "King Midas and the Golden Touch",
+  "ts": "2026-10-29T21:45:29",
+  "node": {
+    "id": "st-0313",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %78.5 | 326 kelime\n    havuz dışı: palace(1), gold(11), daughter(4), flowers(1), dark(1), counted(1), stranger(6), bright(1), rich(1), golden(4), touch(3), tomorrow(1), sun(1), touched(2), clothes(1), garden(1), red(2), wonderful(1), cried(4), king(2), breakfast(1), tears(1), cold(1), smell(1), picked(1), bread(1), poor(1), sad(1), arms(1), statue(1), hate(1), river(2), wash(1), pour(1), jumped(1), jar(1), poured(2), laughed(1), soft(1)",
+        "level A2: A2: KALDI | kapsam %84.0 | 520 kelime\n    havuz dışı: king(3), rich(3), gold(14), pile(1), palace(2), treasure(1), counted(1), coins(1), golden(6), cups(1), stranger(8), stranger's(1), bright(2), sunrise(1), woke(1), glasses(1), breakfast(1), tears(1), ugly(1), smell(1), cried(4), lifted(1), cup(2), coffee(2), lips(1), cake(1), hungry(1), sadly(1), sad(1), kissed(1), statue(1), hate(1), bread(1), dear(1), jump(1), river(2), jar(2), pour(1), jumped(1), poured(2), cheeks(1), pink(1), wet(1), soft(1)",
+        "level B1: B1: KALDI | kapsam %94.7 | 815 kelime\n    havuz dışı: pile(1), coins(2), palace(1), treasure(1), golden(6), whispered(1), shadow(1), stranger's(1), shone(1), ray(1), sunlight(1), shining(1), hurried(2), ashamed(1), lips(1), lump(1), cake(1), hungry(1), unhappy(2), bent(1), statue(2), sorrow(1), bread(2), wiser(1), jar(2), pour(1), poured(2), cheeks(1), wet(1), grandchildren(1), anymore(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.7853,
+        "wordCount": 326,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "gold(11)",
+          "stranger(6)",
+          "daughter(4)",
+          "golden(4)",
+          "cried(4)",
+          "touch(3)",
+          "touched(2)",
+          "red(2)",
+          "king(2)",
+          "river(2)",
+          "poured(2)",
+          "palace(1)",
+          "flowers(1)",
+          "dark(1)",
+          "counted(1)",
+          "bright(1)",
+          "rich(1)",
+          "tomorrow(1)",
+          "sun(1)",
+          "clothes(1)",
+          "garden(1)",
+          "wonderful(1)",
+          "breakfast(1)",
+          "tears(1)",
+          "cold(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8404,
+        "wordCount": 520,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "gold(14)",
+          "stranger(8)",
+          "golden(6)",
+          "cried(4)",
+          "king(3)",
+          "rich(3)",
+          "palace(2)",
+          "bright(2)",
+          "cup(2)",
+          "coffee(2)",
+          "river(2)",
+          "jar(2)",
+          "poured(2)",
+          "pile(1)",
+          "treasure(1)",
+          "counted(1)",
+          "coins(1)",
+          "cups(1)",
+          "stranger's(1)",
+          "sunrise(1)",
+          "woke(1)",
+          "glasses(1)",
+          "breakfast(1)",
+          "tears(1)",
+          "ugly(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9472,
+        "wordCount": 815,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "golden(6)",
+          "coins(2)",
+          "hurried(2)",
+          "unhappy(2)",
+          "statue(2)",
+          "bread(2)",
+          "jar(2)",
+          "poured(2)",
+          "pile(1)",
+          "palace(1)",
+          "treasure(1)",
+          "whispered(1)",
+          "shadow(1)",
+          "stranger's(1)",
+          "shone(1)",
+          "ray(1)",
+          "sunlight(1)",
+          "shining(1)",
+          "ashamed(1)",
+          "lips(1)",
+          "lump(1)",
+          "cake(1)",
+          "hungry(1)",
+          "bent(1)",
+          "sorrow(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9607,
+        "wordCount": 1146,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "palace(2)",
+          "treasure(2)",
+          "sunlight(2)",
+          "curls(2)",
+          "statue(2)",
+          "jar(2)",
+          "sprinkled(2)",
+          "cheerful(1)",
+          "heap(1)",
+          "fond(1)",
+          "petal(1)",
+          "beam(1)",
+          "sunbeam(1)",
+          "glow(1)",
+          "awake(1)",
+          "ray(1)",
+          "cloth(1)",
+          "treasures(1)",
+          "bush(1)",
+          "glittered(1)",
+          "spoiled(1)",
+          "sobbed(1)",
+          "lump(1)",
+          "stiff(1)",
+          "ornament(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9301,
+        "wordCount": 1516,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "treasure(3)",
+          "oh(3)",
+          "bush(3)",
+          "curls(3)",
+          "rosy(2)",
+          "heap(2)",
+          "palace(2)",
+          "beam(2)",
+          "trifle(2)",
+          "unwilling(2)",
+          "crept(2)",
+          "stiff(2)",
+          "leapt(2)",
+          "crust(2)",
+          "jar(2)",
+          "sprinkled(2)",
+          "cheerful(1)",
+          "foolish(1)",
+          "envy(1)",
+          "petal(1)",
+          "beaten(1)",
+          "damp(1)",
+          "dusty(1)",
+          "sunlight(1)",
+          "polished(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": "so loved his little daughter, Marygold. He wanted to give her a very big pile of g"
+        },
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "Was",
+          "ctx": "r? Was it better than a piece of bread? Was it better than his own dear child? \"No,"
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "HEART_BROKEN_COMPOUND",
+          "cat": "COMPOUNDING",
+          "msg": "The adjective “heartfelt” is spelled as one word.",
+          "frag": "heart felt",
+          "ctx": "ng off his shoes. When he came out, his heart felt light and free again. He touched a smal"
+        },
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": "ower. He filled a jar and hurried home. He poured the water over the golden statue"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "ne that they had never had before. Long afterwards, when Midas had grown old, he liked to "
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 326,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.02,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 520,
+      "sentLenMedian": 8.0,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.002,
+      "lowZipfWords": [
+        "stranger's"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 815,
+      "sentLenMedian": 11.0,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0078,
+      "lowZipfWords": [
+        "hurried",
+        "shone",
+        "stranger's",
+        "whispered",
+        "wiser"
+      ],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1146,
+      "sentLenMedian": 14.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0182,
+      "lowZipfWords": [
+        "curls",
+        "glittered",
+        "hungriest",
+        "hurried",
+        "lovingly",
+        "ornament",
+        "petal",
+        "poorest",
+        "rosy",
+        "sobbed",
+        "sparkled",
+        "sprinkle",
+        "sprinkled",
+        "stroking",
+        "sunbeam",
+        "trembling",
+        "wiser"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1516,
+      "sentLenMedian": 19,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0373,
+      "lowZipfWords": [
+        "astonished",
+        "beggar",
+        "blazed",
+        "broadened",
+        "cheeked",
+        "contented",
+        "crept",
+        "curls",
+        "disliked",
+        "dripping",
+        "exclaimed",
+        "fragrant",
+        "gazing",
+        "glittered",
+        "glittering",
+        "gloomy",
+        "heaviest",
+        "hungriest",
+        "hurried",
+        "leapt",
+        "murmur",
+        "ornament",
+        "paused",
+        "petal",
+        "plunge",
+        "pondered",
+        "poorest",
+        "reminders",
+        "rosy",
+        "scarcely",
+        "shiver",
+        "sobbed",
+        "sorrows",
+        "sprinkle",
+        "sprinkled",
+        "stranger's",
+        "sunbeam",
+        "tenderness",
+        "tossing",
+        "trembling",
+        "trifle",
+        "visitor's",
+        "weeping",
+        "wiser",
+        "wretched",
+        "wringing"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.7853,
+      "wordCount": 326,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "gold(11)",
+        "stranger(6)",
+        "daughter(4)",
+        "golden(4)",
+        "cried(4)",
+        "touch(3)",
+        "touched(2)",
+        "red(2)",
+        "king(2)",
+        "river(2)",
+        "poured(2)",
+        "palace(1)",
+        "flowers(1)",
+        "dark(1)",
+        "counted(1)",
+        "bright(1)",
+        "rich(1)",
+        "tomorrow(1)",
+        "sun(1)",
+        "clothes(1)",
+        "garden(1)",
+        "wonderful(1)",
+        "breakfast(1)",
+        "tears(1)",
+        "cold(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8404,
+      "wordCount": 520,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "gold(14)",
+        "stranger(8)",
+        "golden(6)",
+        "cried(4)",
+        "king(3)",
+        "rich(3)",
+        "palace(2)",
+        "bright(2)",
+        "cup(2)",
+        "coffee(2)",
+        "river(2)",
+        "jar(2)",
+        "poured(2)",
+        "pile(1)",
+        "treasure(1)",
+        "counted(1)",
+        "coins(1)",
+        "cups(1)",
+        "stranger's(1)",
+        "sunrise(1)",
+        "woke(1)",
+        "glasses(1)",
+        "breakfast(1)",
+        "tears(1)",
+        "ugly(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9472,
+      "wordCount": 815,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "golden(6)",
+        "coins(2)",
+        "hurried(2)",
+        "unhappy(2)",
+        "statue(2)",
+        "bread(2)",
+        "jar(2)",
+        "poured(2)",
+        "pile(1)",
+        "palace(1)",
+        "treasure(1)",
+        "whispered(1)",
+        "shadow(1)",
+        "stranger's(1)",
+        "shone(1)",
+        "ray(1)",
+        "sunlight(1)",
+        "shining(1)",
+        "ashamed(1)",
+        "lips(1)",
+        "lump(1)",
+        "cake(1)",
+        "hungry(1)",
+        "bent(1)",
+        "sorrow(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9607,
+      "wordCount": 1146,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "palace(2)",
+        "treasure(2)",
+        "sunlight(2)",
+        "curls(2)",
+        "statue(2)",
+        "jar(2)",
+        "sprinkled(2)",
+        "cheerful(1)",
+        "heap(1)",
+        "fond(1)",
+        "petal(1)",
+        "beam(1)",
+        "sunbeam(1)",
+        "glow(1)",
+        "awake(1)",
+        "ray(1)",
+        "cloth(1)",
+        "treasures(1)",
+        "bush(1)",
+        "glittered(1)",
+        "spoiled(1)",
+        "sobbed(1)",
+        "lump(1)",
+        "stiff(1)",
+        "ornament(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9301,
+      "wordCount": 1516,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "treasure(3)",
+        "oh(3)",
+        "bush(3)",
+        "curls(3)",
+        "rosy(2)",
+        "heap(2)",
+        "palace(2)",
+        "beam(2)",
+        "trifle(2)",
+        "unwilling(2)",
+        "crept(2)",
+        "stiff(2)",
+        "leapt(2)",
+        "crust(2)",
+        "jar(2)",
+        "sprinkled(2)",
+        "cheerful(1)",
+        "foolish(1)",
+        "envy(1)",
+        "petal(1)",
+        "beaten(1)",
+        "damp(1)",
+        "dusty(1)",
+        "sunlight(1)",
+        "polished(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "kissed": 2,
+      "kiss": 2
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.143,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0274",
+        "title": "Robin Hood and the Golden Arrow",
+        "titleJaccard": 0.143,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0131",
+        "title": "The Goose That Laid the Golden Eggs",
+        "titleJaccard": 0.125,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0160",
+        "title": "The Frogs Who Wished for a King",
+        "titleJaccard": 0.125,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

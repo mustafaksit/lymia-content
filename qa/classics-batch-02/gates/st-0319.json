@@ -1,0 +1,673 @@
+{
+  "id": "st-0319",
+  "title": "The Little Match-Seller",
+  "ts": "2026-10-29T21:45:36",
+  "node": {
+    "id": "st-0319",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %77.1 | 319 kelime\n    havuz dışı: dark(2), cold(5), alone(1), snow(1), hat(1), shoes(1), feet(2), red(2), poor(1), hungry(1), matches(3), match(8), afraid(1), none(1), warm(3), suddenly(1), iron(1), stove(2), hot(1), flame(1), disappeared(1), wall(2), roast(1), goose(2), jumped(1), third(1), beautiful(1), tree(1), candles(2), shone(1), branches(1), stars(1), star(1), sky(1), grandmother(4), heaven(1), fourth(1), bright(1), smiling(1), cried(1), fast(1), arms(1), flew(1), hunger(1), fear(1), cheeks(1), smiled(1), secret(1)",
+        "level A2: A2: KALDI | kapsam %88.5 | 512 kelime\n    havuz dışı: snow(1), pair(1), slippers(3), carriages(1), apron(1), shone(4), smelled(1), roast(2), goose(4), corner(2), dare(1), anger(1), stiff(1), warm(3), fingers(1), iron(1), stove(3), flame(1), disappeared(1), burnt(2), thin(1), curtain(1), jumped(1), third(1), wonderful(1), candles(2), branches(1), lifted(1), soul(1), heaven(2), softly(1), grandmother(4), cried(1), brighter(1), daylight(1), joy(1), hunger(1), cheeks(1), secret(1)",
+        "level B1: B1: KALDI | kapsam %93.0 | 785 kelime\n    havuz dışı: terribly(1), darkness(1), slippers(1), hurried(1), carriages(1), grabbed(1), bare(1), apron(1), penny(1), hungry(1), snowflakes(1), shining(2), roast(2), goose(4), dare(1), anger(1), roof(1), cracks(1), stiff(1), burst(1), flame(2), candle(1), iron(1), stove(3), veil(1), cloth(1), china(1), apples(1), plums(1), steaming(1), third(1), merchant's(1), candles(2), heaven(2), grandmother(4), shone(2), gentle(1), joy(1), cheeks(1), rosy(1), lips(1)",
+        "level B2: B2: KALDI | kapsam %92.7 | 1012 kelime\n    havuz dışı: bitterly(1), gloom(1), bareheaded(1), barefoot(1), slippers(2), carriages(1), snatched(1), bare(1), heap(1), apron(1), bundle(4), penny(1), hungry(1), shivering(1), crept(1), snowflakes(1), curled(1), delicious(1), roast(3), goose(4), drifted(1), whistled(1), straw(1), rags(1), numb(1), crackled(1), blazed(2), flame(2), candle(1), stove(3), shiny(1), brass(1), knobs(1), cheerfully(1), warmth(1), instant(1), vanished(1), flared(1), veil(1), cloth(1), china(1), apples(1), plums(1), steaming(1), amazement(1), waddling(1), third(1), peeped(1), merchant's(1), splendidly(1), decorated(1), candles(2), heaven(3), glow(2), vanish(1), rosy(1), gloriously(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.7712,
+        "wordCount": 319,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "match(8)",
+          "cold(5)",
+          "grandmother(4)",
+          "matches(3)",
+          "warm(3)",
+          "dark(2)",
+          "feet(2)",
+          "red(2)",
+          "stove(2)",
+          "wall(2)",
+          "goose(2)",
+          "candles(2)",
+          "alone(1)",
+          "snow(1)",
+          "hat(1)",
+          "shoes(1)",
+          "poor(1)",
+          "hungry(1)",
+          "afraid(1)",
+          "none(1)",
+          "suddenly(1)",
+          "iron(1)",
+          "hot(1)",
+          "flame(1)",
+          "disappeared(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8848,
+        "wordCount": 512,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "shone(4)",
+          "goose(4)",
+          "grandmother(4)",
+          "slippers(3)",
+          "warm(3)",
+          "stove(3)",
+          "roast(2)",
+          "corner(2)",
+          "burnt(2)",
+          "candles(2)",
+          "heaven(2)",
+          "snow(1)",
+          "pair(1)",
+          "carriages(1)",
+          "apron(1)",
+          "smelled(1)",
+          "dare(1)",
+          "anger(1)",
+          "stiff(1)",
+          "fingers(1)",
+          "iron(1)",
+          "flame(1)",
+          "disappeared(1)",
+          "thin(1)",
+          "curtain(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9299,
+        "wordCount": 785,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "goose(4)",
+          "grandmother(4)",
+          "stove(3)",
+          "shining(2)",
+          "roast(2)",
+          "flame(2)",
+          "candles(2)",
+          "heaven(2)",
+          "shone(2)",
+          "terribly(1)",
+          "darkness(1)",
+          "slippers(1)",
+          "hurried(1)",
+          "carriages(1)",
+          "grabbed(1)",
+          "bare(1)",
+          "apron(1)",
+          "penny(1)",
+          "hungry(1)",
+          "snowflakes(1)",
+          "dare(1)",
+          "anger(1)",
+          "roof(1)",
+          "cracks(1)",
+          "stiff(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9269,
+        "wordCount": 1012,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "bundle(4)",
+          "goose(4)",
+          "roast(3)",
+          "stove(3)",
+          "heaven(3)",
+          "slippers(2)",
+          "blazed(2)",
+          "flame(2)",
+          "candles(2)",
+          "glow(2)",
+          "bitterly(1)",
+          "gloom(1)",
+          "bareheaded(1)",
+          "barefoot(1)",
+          "carriages(1)",
+          "snatched(1)",
+          "bare(1)",
+          "heap(1)",
+          "apron(1)",
+          "penny(1)",
+          "hungry(1)",
+          "shivering(1)",
+          "crept(1)",
+          "snowflakes(1)",
+          "curled(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9242,
+        "wordCount": 1279,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "bundle(5)",
+          "goose(4)",
+          "crept(3)",
+          "stove(3)",
+          "penny(2)",
+          "roast(2)",
+          "drifted(2)",
+          "flame(2)",
+          "vanished(2)",
+          "glow(2)",
+          "candles(2)",
+          "heaven(2)",
+          "bitterly(1)",
+          "slippers(1)",
+          "clumsy(1)",
+          "carriages(1)",
+          "rattling(1)",
+          "pounced(1)",
+          "splendid(1)",
+          "cradle(1)",
+          "bare(1)",
+          "apron(1)",
+          "palm(1)",
+          "collars(1)",
+          "parcels(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "She",
+          "ctx": "wo houses. She did not dare to go home. She sold nothing, and she feared her father"
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "It",
+          "ctx": ". It was a strange and wonderful light. It seemed to the little girl that she was "
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 319,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.16,
+      "lowZipfRatio": 0.0033,
+      "lowZipfWords": [
+        "shone"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 512,
+      "sentLenMedian": 10,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0182,
+      "lowZipfWords": [
+        "apron",
+        "carriages",
+        "shone",
+        "slippers"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 785,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0183,
+      "lowZipfWords": [
+        "apron",
+        "brightly",
+        "carriages",
+        "hurried",
+        "merchant's",
+        "plums",
+        "rosy",
+        "shone",
+        "slippers",
+        "snowflakes",
+        "steaming",
+        "warmly"
+      ],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1012,
+      "sentLenMedian": 15.5,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0394,
+      "lowZipfWords": [
+        "amazement",
+        "apron",
+        "barefoot",
+        "bareheaded",
+        "bitterly",
+        "blazed",
+        "brightly",
+        "carriages",
+        "cheerfully",
+        "crackled",
+        "crept",
+        "cupped",
+        "curled",
+        "drifted",
+        "flared",
+        "gloom",
+        "gloriously",
+        "hurried",
+        "knobs",
+        "longed",
+        "merchant's",
+        "peeped",
+        "plums",
+        "prettily",
+        "rags",
+        "rosy",
+        "shivering",
+        "slippers",
+        "snatched",
+        "snowflakes",
+        "splendidly",
+        "steaming",
+        "thickly",
+        "vanish",
+        "waddling",
+        "whistled"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1279,
+      "sentLenMedian": 20,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0422,
+      "lowZipfWords": [
+        "apron",
+        "bitterly",
+        "blazed",
+        "brightly",
+        "brilliance",
+        "carriages",
+        "cheerfully",
+        "clumsy",
+        "collars",
+        "crept",
+        "curled",
+        "dazzling",
+        "deliciously",
+        "drifted",
+        "flared",
+        "gazed",
+        "glimpsed",
+        "glowed",
+        "haste",
+        "hesitated",
+        "hopped",
+        "hovering",
+        "hurried",
+        "hurrying",
+        "jutted",
+        "knobs",
+        "loveliest",
+        "merchant's",
+        "parcels",
+        "plums",
+        "pounced",
+        "radiant",
+        "rags",
+        "rattling",
+        "richly",
+        "rosy",
+        "scrape",
+        "shivering",
+        "slippers",
+        "snowflakes",
+        "splendor",
+        "steaming",
+        "stump",
+        "unfriendly",
+        "waddling",
+        "warmly",
+        "whispered",
+        "whistled"
+      ],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.7712,
+      "wordCount": 319,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "match(8)",
+        "cold(5)",
+        "grandmother(4)",
+        "matches(3)",
+        "warm(3)",
+        "dark(2)",
+        "feet(2)",
+        "red(2)",
+        "stove(2)",
+        "wall(2)",
+        "goose(2)",
+        "candles(2)",
+        "alone(1)",
+        "snow(1)",
+        "hat(1)",
+        "shoes(1)",
+        "poor(1)",
+        "hungry(1)",
+        "afraid(1)",
+        "none(1)",
+        "suddenly(1)",
+        "iron(1)",
+        "hot(1)",
+        "flame(1)",
+        "disappeared(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8848,
+      "wordCount": 512,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "shone(4)",
+        "goose(4)",
+        "grandmother(4)",
+        "slippers(3)",
+        "warm(3)",
+        "stove(3)",
+        "roast(2)",
+        "corner(2)",
+        "burnt(2)",
+        "candles(2)",
+        "heaven(2)",
+        "snow(1)",
+        "pair(1)",
+        "carriages(1)",
+        "apron(1)",
+        "smelled(1)",
+        "dare(1)",
+        "anger(1)",
+        "stiff(1)",
+        "fingers(1)",
+        "iron(1)",
+        "flame(1)",
+        "disappeared(1)",
+        "thin(1)",
+        "curtain(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9299,
+      "wordCount": 785,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "goose(4)",
+        "grandmother(4)",
+        "stove(3)",
+        "shining(2)",
+        "roast(2)",
+        "flame(2)",
+        "candles(2)",
+        "heaven(2)",
+        "shone(2)",
+        "terribly(1)",
+        "darkness(1)",
+        "slippers(1)",
+        "hurried(1)",
+        "carriages(1)",
+        "grabbed(1)",
+        "bare(1)",
+        "apron(1)",
+        "penny(1)",
+        "hungry(1)",
+        "snowflakes(1)",
+        "dare(1)",
+        "anger(1)",
+        "roof(1)",
+        "cracks(1)",
+        "stiff(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9269,
+      "wordCount": 1012,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "bundle(4)",
+        "goose(4)",
+        "roast(3)",
+        "stove(3)",
+        "heaven(3)",
+        "slippers(2)",
+        "blazed(2)",
+        "flame(2)",
+        "candles(2)",
+        "glow(2)",
+        "bitterly(1)",
+        "gloom(1)",
+        "bareheaded(1)",
+        "barefoot(1)",
+        "carriages(1)",
+        "snatched(1)",
+        "bare(1)",
+        "heap(1)",
+        "apron(1)",
+        "penny(1)",
+        "hungry(1)",
+        "shivering(1)",
+        "crept(1)",
+        "snowflakes(1)",
+        "curled(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9242,
+      "wordCount": 1279,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "bundle(5)",
+        "goose(4)",
+        "crept(3)",
+        "stove(3)",
+        "penny(2)",
+        "roast(2)",
+        "drifted(2)",
+        "flame(2)",
+        "vanished(2)",
+        "glow(2)",
+        "candles(2)",
+        "heaven(2)",
+        "bitterly(1)",
+        "slippers(1)",
+        "clumsy(1)",
+        "carriages(1)",
+        "rattling(1)",
+        "pounced(1)",
+        "splendid(1)",
+        "cradle(1)",
+        "bare(1)",
+        "apron(1)",
+        "palm(1)",
+        "collars(1)",
+        "parcels(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.25,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0280",
+        "title": "The Little Mermaid",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0210",
+        "title": "The Little Red Hen",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "st-0292",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Holmes and Watson fired, and it fell.\" Guns are never mentioned, so an A1 learner may not understand \"fired\". Consider \"Holmes and Watson fired their guns, and it fell.\"",
+        "\"Sir Henry Baskerville got the big house.\" Henry's link to Sir Charles is never stated. Consider \"Sir Charles's nephew, Sir Henry, got the big house.\"",
+        "\"Their neighbor Stapleton loved butterflies.\" \"Their\" could mean the Barrymores. Consider \"Their new neighbor, Stapleton, loved butterflies.\" or \"A neighbor, Stapleton, loved butterflies.\"",
+        "The solution never says that the glowing dog frightened Sir Charles to death, so the opening mystery is left loose. Optional: add \"The dog frightened Sir Charles, and his weak heart stopped.\" after \"It glowed in the dark like a ghost.\""
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Sir Henry came to London from his farm in a far country. Strange things happened to him there.",
+          "problem": "\"There\" points most naturally to the nearest place, the far country or farm. The strange things (the letter, the boot, the man with the beard) happen in London.",
+          "fix": "Sir Henry came to London from his farm across the ocean. In London, strange things happened to him."
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "from his farm in a far country",
+          "problem": "\"A far country\" sounds archaic or biblical. A native children's author would write \"a faraway country\" or \"across the ocean\", which B1 to C1 also use.",
+          "fix": "from his farm across the ocean"
+        }
+      ],
+      "notes": []
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4+ age suitability",
+          "quote": "\"An interesting fairy tale,\" said Holmes, and he lit his pipe.",
+          "problem": "This is a tobacco reference. Under App Store rules, even infrequent or mild tobacco references raise the rating above 4+. The detail does nothing for the plot.",
+          "fix": "\"An interesting fairy tale,\" said Holmes, and he leaned back in his chair."
+        }
+      ],
+      "notes": [
+        "\"Since then, people said, the hound has followed the family.\" The tenses clash: past \"said\" with present perfect \"has followed\". Smoother: \"People said that the hound followed the family after that.\" or \"Since then, people say, the hound has followed the family.\"",
+        "\"A letter came to his hotel with words cut from a newspaper.\" The reduced participle is fine at B1, but it is the closest thing to a passive in the level. If the gate is strict, use \"Someone cut the words from a newspaper.\""
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"an old paper, more than a hundred and fifty years old\". In the novel the manuscript is dated 1742 and the story is set in 1889, which is about 147 years. \"Nearly a hundred and fifty years old\" is more accurate. C1 has the same point: \"more than a century and a half before\".",
+        "The order of events is condensed: Sir Henry's agreement to keep quiet is moved before the night Watson sees the figure on the tor, and the convict hunt is left out. This is acceptable condensing."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"an old black one disappeared instead.\" \"Instead\" suggests the brown boot came back, but the text never says so. Either add \"The brown boot reappeared, but\" or change it to \"disappeared as well\".",
+        "\"Yet that same night, as Watson walked back across the moor...\" The text never says why Watson was out on the moor at night. In the novel he and Sir Henry were hunting the convict. Optional: \"as Watson and Sir Henry returned from a vain search for the convict\".",
+        "\"Somewhere beyond the hills stood a prison, whose bells could be heard on still days.\" The bells are an invented detail, not from Doyle. They are harmless but could be swapped for the prison's warning guns or simply the prison's distant walls.",
+        "\"Sir Henry, who was kinder than he looked\" slightly contradicts the earlier \"cheerful\" characterization. \"Sir Henry, who was a kind-hearted man\" reads more cleanly.",
+        "Same date note as B2: the manuscript is nearly, not more than, a century and a half old."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A strong, faithful retelling at every level: the walking stick, the portrait with hat and wig, the boots, the hut and Stapleton vanishing in the mire are all correct, and the quizzes are sound. A2 fails on an ambiguous \"there\" that sends the London events to Sir Henry's farm, together with the archaic \"far country\". B1 fails 4+ suitability on an unnecessary tobacco reference (\"he lit his pipe\"). A1, B2 and C1 pass with minor notes."
+}

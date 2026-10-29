@@ -1,0 +1,54 @@
+{
+  "id": "st-0294",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"A dirty, torn letter sat near the fire.\" is fine; \"lay\" or \"was\" would be marginally more natural for a letter in a card holder.",
+        "Dupin recognises the letter \"at once\" without any clue being given; acceptable simplification at A1."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "She did not want him to see it. So she left it on the table.",
+          "problem": "The 'So' makes leaving the letter in plain view the consequence of not wanting the king to see it, which reads as a contradiction. The missing step (she had no time to hide it) is given at B1/B2 but not here, so an A2 reader will stumble.",
+          "fix": "She did not want him to see it, but she had no time to hide it. So she left it on the table and hoped he would not look at it."
+        }
+      ],
+      "notes": [
+        "\"When he left, he took her letter and left his own.\" repeats 'left' in two senses; consider \"When he went out, he took her letter and left his own.\"",
+        "\"'Then write me a check for that money,' said Dupin. 'Then you can have the letter.'\" has two sentence-initial 'Then'; the second could be dropped (\"After that, you can have the letter.\")."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"He turned the letter inside out and gave it a new address and seal.\" would read more clearly as \"He had turned...\" since it describes an earlier action.",
+        "\"With shaking hands, the Prefect ran out of the house\" pairs the hands oddly with running; \"Holding it in shaking hands, the Prefect ran out...\" is smoother.",
+        "\"A few months earlier\" (B1) and \"A few months ago\" (A2) sit loosely with the eighteen months mentioned at C1; not a stumble within a single level."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The queen's letter is never described (red seal, bold hand), so the significance of the black seal is carried only by 'turned inside out and sealed again'; works, but one sentence from the Prefect describing the original letter would sharpen the reveal."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Strong fidelity: Prefect's description of the letter, bread seal, Minister's nights away as invitations, eighteen months of power reversed, Crébillon lines all present. Danger in the Minister's house is suitably softened for 4+."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A strong, faithful retelling across all five levels, with grammar well matched to level and gentle handling for a 4+ audience. The only concrete failure is in A2, where the queen 'did not want him to see it. So she left it on the table', a non sequitur that a one-clause fix resolves. B1, B2 and C1 pass outright; A1 passes."
+}

@@ -1,0 +1,645 @@
+{
+  "id": "st-0287",
+  "title": "Captains Courageous",
+  "ts": "2026-10-29T21:44:57",
+  "node": {
+    "id": "st-0287",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %82.8 | 290 kelime\n    havuz dışı: rich(2), ships(2), rude(2), lazy(1), sailed(2), ship(1), sea(2), rough(1), sick(1), air(1), wave(1), cold(1), fisherman(1), pulled(1), boat(3), fishing(1), schooner(1), captain(1), shouted(1), shook(1), fish(2), angry(1), cried(2), captain's(1), son(2), sorry(1), cleaned(1), ropes(1), taught(1), row(1), hurt(1), slowly(1), cod(1), message(1), summer(1), sad(1), fast(1), laughed(1), mistake(1), college(1)",
+        "level A2: A2: KALDI | kapsam %88.5 | 530 kelime\n    havuz dışı: rich(1), ships(2), rude(2), ocean(1), passenger(1), ship(4), loudly(1), rough(1), sick(1), fresh(1), rolled(1), pile(1), boat(3), fisherman(1), beside(1), waves(1), rowed(1), schooner(4), captain(1), quiet(2), sharp(1), shook(1), pocket(1), shouted(1), calmly(1), hurt(2), ship's(1), refused(1), captain's(2), deck(1), cried(2), dad(1), cod(2), packed(1), salt(1), rope(1), row(1), ached(1), slowly(1), brown(1), polite(1), weather(1), salted(1), sailed(1), telegram(1), sorrow(1)",
+        "level B1: B1: KALDI | kapsam %94.7 | 753 kelime\n    havuz dışı: mr(2), railways(1), rude(1), ocean(1), rough(1), terribly(1), rail(1), lying(1), heap(1), fisherman(1), schooner(2), captain(2), captain's(3), aboard(1), thief(1), deck(1), cod(2), salt(1), loud(1), rope(1), dory(1), asleep(1), penn(1), gentle(1), guitar(1), fog(2), boasting(1), sailed(1), telegram(1), forever(1), railway(1), polite(1), crew(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8276,
+        "wordCount": 290,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "boat(3)",
+          "rich(2)",
+          "ships(2)",
+          "rude(2)",
+          "sailed(2)",
+          "sea(2)",
+          "fish(2)",
+          "cried(2)",
+          "son(2)",
+          "lazy(1)",
+          "ship(1)",
+          "rough(1)",
+          "sick(1)",
+          "air(1)",
+          "wave(1)",
+          "cold(1)",
+          "fisherman(1)",
+          "pulled(1)",
+          "fishing(1)",
+          "schooner(1)",
+          "captain(1)",
+          "shouted(1)",
+          "shook(1)",
+          "angry(1)",
+          "captain's(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8849,
+        "wordCount": 530,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ship(4)",
+          "schooner(4)",
+          "boat(3)",
+          "ships(2)",
+          "rude(2)",
+          "quiet(2)",
+          "hurt(2)",
+          "captain's(2)",
+          "cried(2)",
+          "cod(2)",
+          "rich(1)",
+          "ocean(1)",
+          "passenger(1)",
+          "loudly(1)",
+          "rough(1)",
+          "sick(1)",
+          "fresh(1)",
+          "rolled(1)",
+          "pile(1)",
+          "fisherman(1)",
+          "beside(1)",
+          "waves(1)",
+          "rowed(1)",
+          "captain(1)",
+          "sharp(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9469,
+        "wordCount": 753,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "captain's(3)",
+          "mr(2)",
+          "schooner(2)",
+          "captain(2)",
+          "cod(2)",
+          "fog(2)",
+          "railways(1)",
+          "rude(1)",
+          "ocean(1)",
+          "rough(1)",
+          "terribly(1)",
+          "rail(1)",
+          "lying(1)",
+          "heap(1)",
+          "fisherman(1)",
+          "aboard(1)",
+          "thief(1)",
+          "deck(1)",
+          "salt(1)",
+          "loud(1)",
+          "rope(1)",
+          "dory(1)",
+          "asleep(1)",
+          "penn(1)",
+          "gentle(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.955,
+        "wordCount": 1022,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "captain's(3)",
+          "spoiled(2)",
+          "schooner(2)",
+          "captain(2)",
+          "railway(2)",
+          "cod(2)",
+          "railways(1)",
+          "clever(1)",
+          "terribly(1)",
+          "rude(1)",
+          "boasting(1)",
+          "dreadfully(1)",
+          "staggered(1)",
+          "lying(1)",
+          "heap(1)",
+          "fisherman(1)",
+          "darkened(1)",
+          "aboard(1)",
+          "thief(1)",
+          "deck(1)",
+          "shame(1)",
+          "cheerful(1)",
+          "fisherman's(1)",
+          "dawn(1)",
+          "rope(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9236,
+        "wordCount": 1335,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "aboard(3)",
+          "captain(3)",
+          "captain's(3)",
+          "deck(3)",
+          "schooner(2)",
+          "hardened(2)",
+          "railway(2)",
+          "swallowed(2)",
+          "cod(2)",
+          "railways(1)",
+          "timber(1)",
+          "fleet(1)",
+          "unshakable(1)",
+          "politely(1)",
+          "swell(1)",
+          "unwell(1)",
+          "unsteadily(1)",
+          "lying(1)",
+          "slippery(1)",
+          "heap(1)",
+          "fisherman(1)",
+          "merry(1)",
+          "humming(1)",
+          "curiosity(1)",
+          "hauled(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "SAY_SORRY",
+          "cat": "AMERICAN_ENGLISH_STYLE",
+          "msg": "Consider using “apologized” to improve your wording.",
+          "frag": "said sorry",
+          "ctx": " and work with me,\" said Dan. So Harvey said sorry to Disko. Then he started to work.  He "
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "SAY_SORRY",
+          "cat": "AMERICAN_ENGLISH_STYLE",
+          "msg": "Consider using “apologized” to improve your wording.",
+          "frag": "said sorry",
+          "ctx": " a long time. Then he went to Disko and said sorry.  Life on the schooner was hard. Harvey"
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 290,
+      "sentLenMedian": 6,
+      "zipfMedian": 6.05,
+      "lowZipfRatio": 0.0079,
+      "lowZipfWords": [
+        "captain's",
+        "fisherman"
+      ],
+      "keyTermTokens": 2,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 530,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0127,
+      "lowZipfWords": [
+        "ached",
+        "captain's",
+        "fisherman",
+        "rowed",
+        "salted"
+      ],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 753,
+      "sentLenMedian": 12,
+      "zipfMedian": 6.03,
+      "lowZipfRatio": 0.0159,
+      "lowZipfWords": [
+        "boasting",
+        "browner",
+        "captain's",
+        "dory",
+        "fished",
+        "fisherman",
+        "prouder",
+        "rowing"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1022,
+      "sentLenMedian": 16,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0168,
+      "lowZipfWords": [
+        "ached",
+        "blistered",
+        "boasting",
+        "captain's",
+        "cheered",
+        "darkened",
+        "dory",
+        "dreadfully",
+        "fished",
+        "fisherman",
+        "fisherman's",
+        "rowing",
+        "staggered",
+        "tiring"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1335,
+      "sentLenMedian": 22,
+      "zipfMedian": 5.96,
+      "lowZipfRatio": 0.0369,
+      "lowZipfWords": [
+        "ached",
+        "aft",
+        "astonishment",
+        "banknotes",
+        "blindness",
+        "blistered",
+        "boastful",
+        "bottomed",
+        "captain's",
+        "carelessly",
+        "clung",
+        "dory",
+        "dripping",
+        "fished",
+        "fisherman",
+        "foghorn",
+        "glimpsed",
+        "grandly",
+        "hatches",
+        "hauled",
+        "homeward",
+        "humming",
+        "hurried",
+        "inseparable",
+        "lecturing",
+        "loomed",
+        "midsummer",
+        "natured",
+        "politely",
+        "rowed",
+        "rowing",
+        "salted",
+        "soften",
+        "strayed",
+        "sunburned",
+        "teased",
+        "tides",
+        "treasured",
+        "unshakable",
+        "unsteadily",
+        "unwell",
+        "vanish",
+        "wanderings",
+        "wealthiest",
+        "yawned"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8276,
+      "wordCount": 290,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "boat(3)",
+        "rich(2)",
+        "ships(2)",
+        "rude(2)",
+        "sailed(2)",
+        "sea(2)",
+        "fish(2)",
+        "cried(2)",
+        "son(2)",
+        "lazy(1)",
+        "ship(1)",
+        "rough(1)",
+        "sick(1)",
+        "air(1)",
+        "wave(1)",
+        "cold(1)",
+        "fisherman(1)",
+        "pulled(1)",
+        "fishing(1)",
+        "schooner(1)",
+        "captain(1)",
+        "shouted(1)",
+        "shook(1)",
+        "angry(1)",
+        "captain's(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8849,
+      "wordCount": 530,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ship(4)",
+        "schooner(4)",
+        "boat(3)",
+        "ships(2)",
+        "rude(2)",
+        "quiet(2)",
+        "hurt(2)",
+        "captain's(2)",
+        "cried(2)",
+        "cod(2)",
+        "rich(1)",
+        "ocean(1)",
+        "passenger(1)",
+        "loudly(1)",
+        "rough(1)",
+        "sick(1)",
+        "fresh(1)",
+        "rolled(1)",
+        "pile(1)",
+        "fisherman(1)",
+        "beside(1)",
+        "waves(1)",
+        "rowed(1)",
+        "captain(1)",
+        "sharp(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9469,
+      "wordCount": 753,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "captain's(3)",
+        "mr(2)",
+        "schooner(2)",
+        "captain(2)",
+        "cod(2)",
+        "fog(2)",
+        "railways(1)",
+        "rude(1)",
+        "ocean(1)",
+        "rough(1)",
+        "terribly(1)",
+        "rail(1)",
+        "lying(1)",
+        "heap(1)",
+        "fisherman(1)",
+        "aboard(1)",
+        "thief(1)",
+        "deck(1)",
+        "salt(1)",
+        "loud(1)",
+        "rope(1)",
+        "dory(1)",
+        "asleep(1)",
+        "penn(1)",
+        "gentle(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.955,
+      "wordCount": 1022,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "captain's(3)",
+        "spoiled(2)",
+        "schooner(2)",
+        "captain(2)",
+        "railway(2)",
+        "cod(2)",
+        "railways(1)",
+        "clever(1)",
+        "terribly(1)",
+        "rude(1)",
+        "boasting(1)",
+        "dreadfully(1)",
+        "staggered(1)",
+        "lying(1)",
+        "heap(1)",
+        "fisherman(1)",
+        "darkened(1)",
+        "aboard(1)",
+        "thief(1)",
+        "deck(1)",
+        "shame(1)",
+        "cheerful(1)",
+        "fisherman's(1)",
+        "dawn(1)",
+        "rope(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9236,
+      "wordCount": 1335,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "aboard(3)",
+        "captain(3)",
+        "captain's(3)",
+        "deck(3)",
+        "schooner(2)",
+        "hardened(2)",
+        "railway(2)",
+        "swallowed(2)",
+        "cod(2)",
+        "railways(1)",
+        "timber(1)",
+        "fleet(1)",
+        "unshakable(1)",
+        "politely(1)",
+        "swell(1)",
+        "unwell(1)",
+        "unsteadily(1)",
+        "lying(1)",
+        "slippery(1)",
+        "heap(1)",
+        "fisherman(1)",
+        "merry(1)",
+        "humming(1)",
+        "curiosity(1)",
+        "hauled(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.007
+    },
+    "top3": [
+      {
+        "id": "st-0279",
+        "title": "Robinson Crusoe",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.007
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

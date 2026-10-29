@@ -1,0 +1,80 @@
+{
+  "id": "st-0284",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "He carried his friend to his bed.",
+          "problem": "Faria has just died 'in bed' and is in the sack, so 'his bed' reads as Faria's own bed. The reader can't tell that Edmond took Faria out of the sack and moved him to Edmond's bed. That swap is the key step of the escape.",
+          "fix": "He took his friend out of the sack. He carried him to his own bed."
+        }
+      ],
+      "notes": [
+        "'The two men became good friends. He taught Edmond history and languages.' 'He' is slightly ambiguous; consider 'Faria taught Edmond history and languages.'",
+        "'He also helped Edmond understand the lie.' 'the lie' has not been mentioned before; consider 'understand the bad letter'.",
+        "'But the tunnel came to Edmond's room.' sounds a little unnatural; consider 'But the tunnel went to Edmond's room by mistake.'",
+        "'They wrote a bad letter' (both men) simplifies the original, where Danglars wrote it and Fernand posted it. This is acceptable at A1."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "fidelity to the original work / meaning drift",
+          "quote": "The dying captain gave it to him for a man in Paris.",
+          "problem": "In the novel, the captain sent Edmond to the island of Elba, and Edmond was given the Paris letter there. B1, B2 and C1 all say this correctly ('On that island, someone gave Edmond a letter'), so A2 contradicts the other levels.",
+          "fix": "The dying captain sent him to a small island, and there a man gave him the letter for Paris."
+        }
+      ],
+      "notes": [
+        "'Danglars and Fernand wrote it' is a simplification (Danglars wrote it, Fernand posted it). It matches A2's own earlier line, so it is acceptable, but 'Danglars wrote it, Fernand sent it' would line up better with B1 to C1."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Then a brave idea came to him.",
+          "problem": "The previous sentence is about Faria and the sack, so 'him' points to the dead Faria. The reader has to stop and work out who has the idea.",
+          "fix": "Then Edmond had a brave idea."
+        },
+        {
+          "criterion": "meaning drift",
+          "quote": "During the voyage, Edmond stopped at a small island to help the dying captain.",
+          "problem": "This says the stop was to help the captain, as if the captain were on the island. In fact Edmond stopped there because the dying captain asked him to.",
+          "fix": "During the voyage, the dying captain asked Edmond to stop at a small island for him."
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "Danglars, who kept the money books on the ship, wanted the captain's job for himself.",
+          "problem": "'money books' is a calque; a native writer would not say it.",
+          "fix": "Danglars, who looked after the ship's money, wanted the captain's job for himself."
+        }
+      ],
+      "notes": []
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Faria laughed at his mistake': in the novel Faria is dismayed when he finds his tunnel came out in the wrong place. 'Faria sighed at his mistake' would be closer.",
+        "B2 has Edmond digging with 'the handle of a broken jug' and C1 has 'the handle of a saucepan'. Both have a basis in the novel, but using the same tool at both levels would be tidier."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'with a rueful laugh': same point as B2. In the novel Faria reacts with dismay, not amusement.",
+        "'the cardinal's family had buried a treasure': in the novel Cardinal Spada hid the treasure himself. Consider 'the cardinal had buried a treasure'.",
+        "The prose is genuinely literary and close to the novel (the Elba letter, the engagement feast, the shot tied to the feet, the smugglers, the prayer-book page). It is not padded."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is faithful and suitable for a 4+ rating. B2 and C1 are strong and pass. A1 and B1 fail on unclear pronouns at the key sack-swap moment ('his bed', 'a brave idea came to him'). A2 contradicts the other levels about who gave Edmond the Paris letter, and B1 also has an odd motive for the island stop and the calque 'money books'."
+}

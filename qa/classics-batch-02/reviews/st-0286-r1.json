@@ -1,0 +1,81 @@
+{
+  "id": "st-0286",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "\"You are brave. But first you must see the elephants dance.\"",
+          "problem": "'But first' has nothing to refer to. Petersen never says what the boy can do afterwards (become a hunter or go into the pen), so the joke does not make sense and the reader cannot tell why the hunters laugh.",
+          "fix": "\"You are brave. You can be a hunter one day. But first you must see the elephants dance.\""
+        },
+        {
+          "criterion": "logic error",
+          "quote": "The two men went up to the hill.",
+          "problem": "It does not say which two men. Machua Appa has not been named since paragraph 2, and the last men in the scene are Petersen Sahib and Big Toomai, so readers will guess wrong until the next line.",
+          "fix": "Petersen Sahib and Machua Appa went up to the hill."
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "One night, Little Toomai watched from Kala Nag.",
+          "problem": "'Watched from Kala Nag' is not natural English. The reader needs to know he was on the elephant's back.",
+          "fix": "One night, Little Toomai sat on Kala Nag's back and watched."
+        }
+      ],
+      "notes": [
+        "'Big Toomai had a son of ten.' is old-fashioned for A1. Consider 'Big Toomai had a son. He was ten.'",
+        "'The ground shook like a big drum' is a slightly odd simile, because it is the sound that is like a drum. Consider 'The sound was like a big drum, and the ground shook.'"
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Big Toomai's father rode Kala Nag before him.' A2 readers may take 'before him' to mean 'in front of him'. Consider 'Before that, Big Toomai's father rode Kala Nag.'",
+        "'ran between the big feet' does not say whose feet. Consider 'ran between the elephants' big feet'.",
+        "'More elephants walked with them in the dark' would read better as 'Other elephants'."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "\"I followed elephants for forty years, and I never saw a place like this,\" he said.",
+          "problem": "The previous sentence has two subjects (Petersen Sahib and Machua Appa), so it is unclear who is speaking. Quiz Q3 depends on the reader knowing the speaker is Machua Appa. The tenses are also unnatural: a native speaker would use the present perfect here, which B1 allows.",
+          "fix": "\"I have followed elephants for forty years, and I have never seen a place like this,\" said Machua Appa."
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "Machua Appa pointed at Little Toomai and told him about the rope.",
+          "problem": "'Him' seems to point to Little Toomai, the nearest noun, but it should mean Petersen Sahib.",
+          "fix": "Machua Appa pointed at Little Toomai and told Petersen Sahib about the rope."
+        }
+      ],
+      "notes": [
+        "'Kala Nag was an elephant who worked for the government of India for forty-seven years.' The past simple suggests his service is over. 'had worked' is better.",
+        "'The dancing feet pressed down all the grass' would read better as 'had pressed down', because it explains why the place had grown."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'as if a storm was passing' is fine. 'were passing' is the more literary option.",
+        "This version is faithful: it includes Black Toomai, the grandfather who saw Kala Nag caught, the 'never' joke and the great-grandfather's name."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Hearing his name, Kala Nag curled his trunk round Little Toomai' is a little ambiguous, because it could be Kala Nag's name or the boy's. Consider 'Hearing the boy's name, Kala Nag...'",
+        "This version is very faithful to Kipling: the green corn on the roofs, the post pulled up like a carrot, counting to ten many times over, Machua Appa's forty years, and the salute given only to the greatest of men (the Viceroy in the original, softened acceptably). Pudmini's part is left out, which is acceptable condensing."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "This is a faithful, gentle retelling of Kipling's 'Toomai of the Elephants' that is suitable for ages 4+ at every level, and B2 and C1 are strong. A1 fails because Petersen's line ('But first you must see the elephants dance') has nothing for 'first' to refer to, and because 'The two men' does not say who they are. B1 fails because the forty-years line has no clear speaker, which also weakens quiz Q3."
+}

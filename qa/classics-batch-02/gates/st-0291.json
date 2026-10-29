@@ -1,0 +1,660 @@
+{
+  "id": "st-0291",
+  "title": "The Story of Doctor Dolittle",
+  "ts": "2026-10-29T21:45:01",
+  "node": {
+    "id": "st-0291",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %79.7 | 306 kelime\n    havuz dışı: doctor(11), animals(7), jip(1), dog(1), duck(2), pig(1), sick(4), parrot(1), rainy(1), teach(1), animal(3), monkey(1), sister(1), winter(1), swallow(1), monkeys(5), cried(1), sailor(1), lent(1), ship(2), sailed(1), hit(1), rock(1), safely(1), cliff(1), bridge(1), lion(2), baby(1), lions(1), strange(1), pullyu(1), shy(1), rich(1), happy(1)",
+        "level A2: A2: KALDI | kapsam %87.2 | 517 kelime\n    havuz dışı: clever(2), mice(1), piano(1), duck(1), pig(1), owl(1), lady(1), hedgehog(1), parrot(1), rainy(1), onto(1), bird(1), horse(1), glasses(1), monkey(2), crocodile(4), tooth(1), afraid(1), pets(1), packed(1), winter(1), kitchen(1), cried(1), swallow(1), monkeys(6), sick(4), sailor(2), lent(1), ship(2), sailed(1), storm(1), rope(1), tied(1), safely(1), cliff(1), river(1), bridge(1), medicine(1), healthy(2), proud(1), lion(2), lion's(1), strange(1), shy(1), pullyu(2), tail(1), rich(1), ships(1)",
+        "level B1: B1: KALDI | kapsam %92.7 | 744 kelime\n    havuz dışı: clever(1), rabbits(1), piano(1), duck(1), pig(1), owl(1), parrot(1), hedgehog(1), asleep(1), sofa(1), vet(1), rainy(1), blind(1), monkey(2), crocodile(4), toothache(1), circus(1), sheep(1), cows(1), housework(1), swallow(2), sickness(1), monkeys(6), sailor(3), lent(1), sailed(1), shore(2), rope(2), palm(1), steep(1), cliff(1), flash(1), lion(1), cubs(1), rude(1), shy(1), pullyu(2), coins(1), nuisance(1)",
+        "level B2: B2: KALDI | kapsam %93.9 | 1128 kelime\n    havuz dışı: clever(1), lawn(1), willow(1), goldfish(1), pond(2), rabbits(1), duck(1), owl(1), parrot(2), hedgehog(1), sofa(1), stomachache(1), vets(1), rainy(1), pills(1), spectacles(1), curing(1), monkey(2), collar(1), crocodile(3), toothache(1), circus(2), housework(1), cloth(1), sickness(1), monkeys(6), begging(1), swallow(2), sailor(3), cured(1), grocer(1), lantern(1), rope(2), palm(1), jungle(2), steep(1), cliff(1), vaccinated(1), lion(1), cubs(1), rude(2), lions(1), leopards(1), antelopes(1), zebras(1), pullyu(2), shy(1), swallows(1), sixpence(1), cage(1), nuisance(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.7974,
+        "wordCount": 306,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "doctor(11)",
+          "animals(7)",
+          "monkeys(5)",
+          "sick(4)",
+          "animal(3)",
+          "duck(2)",
+          "ship(2)",
+          "lion(2)",
+          "jip(1)",
+          "dog(1)",
+          "pig(1)",
+          "parrot(1)",
+          "rainy(1)",
+          "teach(1)",
+          "monkey(1)",
+          "sister(1)",
+          "winter(1)",
+          "swallow(1)",
+          "cried(1)",
+          "sailor(1)",
+          "lent(1)",
+          "sailed(1)",
+          "hit(1)",
+          "rock(1)",
+          "safely(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8723,
+        "wordCount": 517,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "monkeys(6)",
+          "crocodile(4)",
+          "sick(4)",
+          "clever(2)",
+          "monkey(2)",
+          "sailor(2)",
+          "ship(2)",
+          "healthy(2)",
+          "lion(2)",
+          "pullyu(2)",
+          "mice(1)",
+          "piano(1)",
+          "duck(1)",
+          "pig(1)",
+          "owl(1)",
+          "lady(1)",
+          "hedgehog(1)",
+          "parrot(1)",
+          "rainy(1)",
+          "onto(1)",
+          "bird(1)",
+          "horse(1)",
+          "glasses(1)",
+          "tooth(1)",
+          "afraid(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9274,
+        "wordCount": 744,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "monkeys(6)",
+          "crocodile(4)",
+          "sailor(3)",
+          "monkey(2)",
+          "swallow(2)",
+          "shore(2)",
+          "rope(2)",
+          "pullyu(2)",
+          "clever(1)",
+          "rabbits(1)",
+          "piano(1)",
+          "duck(1)",
+          "pig(1)",
+          "owl(1)",
+          "parrot(1)",
+          "hedgehog(1)",
+          "asleep(1)",
+          "sofa(1)",
+          "vet(1)",
+          "rainy(1)",
+          "blind(1)",
+          "toothache(1)",
+          "circus(1)",
+          "sheep(1)",
+          "cows(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9388,
+        "wordCount": 1128,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "monkeys(6)",
+          "crocodile(3)",
+          "sailor(3)",
+          "pond(2)",
+          "parrot(2)",
+          "monkey(2)",
+          "circus(2)",
+          "swallow(2)",
+          "rope(2)",
+          "jungle(2)",
+          "rude(2)",
+          "pullyu(2)",
+          "clever(1)",
+          "lawn(1)",
+          "willow(1)",
+          "goldfish(1)",
+          "rabbits(1)",
+          "duck(1)",
+          "owl(1)",
+          "hedgehog(1)",
+          "sofa(1)",
+          "stomachache(1)",
+          "vets(1)",
+          "rainy(1)",
+          "pills(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9178,
+        "wordCount": 1545,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "monkeys(6)",
+          "jungle(4)",
+          "crocodile(3)",
+          "sailor(3)",
+          "hedgehog(2)",
+          "parrot(2)",
+          "monkey(2)",
+          "circus(2)",
+          "nuisance(2)",
+          "swallow(2)",
+          "voyage(2)",
+          "palm(2)",
+          "pullyu(2)",
+          "strolled(1)",
+          "trotted(1)",
+          "rabbits(1)",
+          "cellar(1)",
+          "fondest(1)",
+          "duck(1)",
+          "owl(1)",
+          "birthdays(1)",
+          "grumbled(1)",
+          "endlessly(1)",
+          "untidy(1)",
+          "sofa(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "It",
+          "ctx": "shmi-pullyu. It had a head at each end! It was shy, but it went with him.  Polynes"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_F_SH_POND",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "fish pond",
+          "ctx": "scaped from a circus and moved into the fish pond. However, farmers and old ladies were n"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_F_SH_POND",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "fish pond",
+          "ctx": "een put right, he begged to live in the fish pond. To the household he was as gentle as a"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 306,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 517,
+      "sentLenMedian": 9.5,
+      "zipfMedian": 6.02,
+      "lowZipfRatio": 0.0128,
+      "lowZipfWords": [
+        "crocodile",
+        "hedgehog",
+        "lion's"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 744,
+      "sentLenMedian": 13,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0115,
+      "lowZipfWords": [
+        "crocodile",
+        "fairs",
+        "hedgehog",
+        "housework",
+        "toothache"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1128,
+      "sentLenMedian": 15.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0179,
+      "lowZipfWords": [
+        "antelopes",
+        "crocodile",
+        "curing",
+        "dusted",
+        "goldfish",
+        "grocer",
+        "hedgehog",
+        "housework",
+        "leopards",
+        "noses",
+        "sixpence",
+        "spectacles",
+        "stomachache",
+        "swallows",
+        "toothache",
+        "vaccinated",
+        "zebras"
+      ],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1545,
+      "sentLenMedian": 21,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0403,
+      "lowZipfWords": [
+        "antelopes",
+        "arithmetic",
+        "birthdays",
+        "consented",
+        "crept",
+        "crocodile",
+        "cub",
+        "dictated",
+        "dozed",
+        "dusted",
+        "endlessly",
+        "fairs",
+        "fetched",
+        "fondest",
+        "gasped",
+        "grocer",
+        "grocer's",
+        "grumbled",
+        "hedgehog",
+        "horned",
+        "housework",
+        "hurled",
+        "hurrying",
+        "journeyed",
+        "leopards",
+        "loathed",
+        "mended",
+        "migrating",
+        "mildly",
+        "moonlit",
+        "muffins",
+        "musician's",
+        "overjoyed",
+        "painfully",
+        "planks",
+        "radishes",
+        "rarest",
+        "roared",
+        "rudely",
+        "sailor's",
+        "scolded",
+        "shivering",
+        "sixpence",
+        "spectacles",
+        "stomachache",
+        "strolled",
+        "swallows",
+        "toasting",
+        "toothache",
+        "toured",
+        "trotted",
+        "undismayed",
+        "untidy",
+        "vaccinated",
+        "wept",
+        "whispered"
+      ],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.7974,
+      "wordCount": 306,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "doctor(11)",
+        "animals(7)",
+        "monkeys(5)",
+        "sick(4)",
+        "animal(3)",
+        "duck(2)",
+        "ship(2)",
+        "lion(2)",
+        "jip(1)",
+        "dog(1)",
+        "pig(1)",
+        "parrot(1)",
+        "rainy(1)",
+        "teach(1)",
+        "monkey(1)",
+        "sister(1)",
+        "winter(1)",
+        "swallow(1)",
+        "cried(1)",
+        "sailor(1)",
+        "lent(1)",
+        "sailed(1)",
+        "hit(1)",
+        "rock(1)",
+        "safely(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8723,
+      "wordCount": 517,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "monkeys(6)",
+        "crocodile(4)",
+        "sick(4)",
+        "clever(2)",
+        "monkey(2)",
+        "sailor(2)",
+        "ship(2)",
+        "healthy(2)",
+        "lion(2)",
+        "pullyu(2)",
+        "mice(1)",
+        "piano(1)",
+        "duck(1)",
+        "pig(1)",
+        "owl(1)",
+        "lady(1)",
+        "hedgehog(1)",
+        "parrot(1)",
+        "rainy(1)",
+        "onto(1)",
+        "bird(1)",
+        "horse(1)",
+        "glasses(1)",
+        "tooth(1)",
+        "afraid(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9274,
+      "wordCount": 744,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "monkeys(6)",
+        "crocodile(4)",
+        "sailor(3)",
+        "monkey(2)",
+        "swallow(2)",
+        "shore(2)",
+        "rope(2)",
+        "pullyu(2)",
+        "clever(1)",
+        "rabbits(1)",
+        "piano(1)",
+        "duck(1)",
+        "pig(1)",
+        "owl(1)",
+        "parrot(1)",
+        "hedgehog(1)",
+        "asleep(1)",
+        "sofa(1)",
+        "vet(1)",
+        "rainy(1)",
+        "blind(1)",
+        "toothache(1)",
+        "circus(1)",
+        "sheep(1)",
+        "cows(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9388,
+      "wordCount": 1128,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "monkeys(6)",
+        "crocodile(3)",
+        "sailor(3)",
+        "pond(2)",
+        "parrot(2)",
+        "monkey(2)",
+        "circus(2)",
+        "swallow(2)",
+        "rope(2)",
+        "jungle(2)",
+        "rude(2)",
+        "pullyu(2)",
+        "clever(1)",
+        "lawn(1)",
+        "willow(1)",
+        "goldfish(1)",
+        "rabbits(1)",
+        "duck(1)",
+        "owl(1)",
+        "hedgehog(1)",
+        "sofa(1)",
+        "stomachache(1)",
+        "vets(1)",
+        "rainy(1)",
+        "pills(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9178,
+      "wordCount": 1545,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "monkeys(6)",
+        "jungle(4)",
+        "crocodile(3)",
+        "sailor(3)",
+        "hedgehog(2)",
+        "parrot(2)",
+        "monkey(2)",
+        "circus(2)",
+        "nuisance(2)",
+        "swallow(2)",
+        "voyage(2)",
+        "palm(2)",
+        "pullyu(2)",
+        "strolled(1)",
+        "trotted(1)",
+        "rabbits(1)",
+        "cellar(1)",
+        "fondest(1)",
+        "duck(1)",
+        "owl(1)",
+        "birthdays(1)",
+        "grumbled(1)",
+        "endlessly(1)",
+        "untidy(1)",
+        "sofa(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.125,
+      "summary3gramJaccard": 0.04,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0014",
+        "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+        "titleJaccard": 0.125,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0192",
+        "title": "The Voyages of Sinbad (tek sefer)",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.04,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0276",
+        "title": "Gulliver in Lilliput",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

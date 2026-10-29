@@ -1,0 +1,733 @@
+{
+  "id": "st-0304",
+  "title": "The Prince and the Pauper",
+  "ts": "2026-10-29T21:45:19",
+  "node": {
+    "id": "st-0304",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %78.3 | 322 kelime\n    havuz dışı: poor(2), boy(7), angry(1), dream(1), prince(9), palace(2), gate(2), guard(2), pushed(2), cried(2), fine(1), clothes(3), boys(1), mirror(1), red(1), guard's(1), push(1), hurt(1), hid(1), laughed(1), rags(2), street(1), son(1), brave(1), boy's(1), safe(1), sad(1), ill(1), lords(2), king(5), fair(1), church(1), lord(2), lifted(1), crown(2), suddenly(1), suit(1), armor(1), crack(1), nuts(1)",
+        "level A2: A2: KALDI | kapsam %87.5 | 513 kelime\n    havuz dışı: birthday(1), palace(3), dirty(1), rough(1), angry(2), beg(1), priest(1), kings(1), prince(6), gate(3), guard(3), dare(1), cried(2), tall(2), mirror(1), angrily(1), hid(1), rags(3), shouted(1), crowd(3), sword(1), inn(1), ill(2), safe(1), knight(1), truth(1), lords(2), sadly(1), king(4), fair(1), lord(3), lifted(1), crown(2), seal(1), suit(1), armor(1), crack(1), nuts(1)",
+        "level B1: B1: KALDI | kapsam %92.7 | 806 kelime\n    havuz dışı: autumn(1), prince(9), beg(1), roughly(2), gentle(1), bread(1), priest(1), palace(3), gate(3), dare(1), mud(1), sigh(1), mirror(1), rags(2), dirty(1), beggar(1), hungry(1), noisy(1), sword(1), inn(1), brave(1), knight(1), lords(6), whispered(1), frightened(1), innocent(1), admire(1), crowning(1), lord(4), crown(2), knees(1), seal(2), armor(1), crack(1), nuts(1)",
+        "level B2: B2: KALDI | kapsam %94.1 | 1127 kelime\n    havuz dışı: bonfires(1), tempered(1), beg(1), supper(1), priest(1), prince(8), palace(3), silk(1), jewels(1), splendid(1), puppet(1), crown(2), mud(1), shyly(1), amazement(1), bruise(1), rags(2), ragged(1), beggar(1), hungry(1), seized(1), you'll(1), nonsense(1), noisy(1), feast(1), sword(1), brave(1), messenger(1), wept(1), inn(1), courage(1), knight(1), thieves(1), beggars(1), punishment(1), lords(4), royalty(1), unfairly(1), softened(1), cruel(1), mercy(1), procession(1), coronation(1), instantly(1), knelt(1), joyfully(1), lord(1), cabinet(1), armor(1), nuts(1), crowned(1), astonishment(1), earl(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.7826,
+        "wordCount": 322,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "prince(9)",
+          "boy(7)",
+          "king(5)",
+          "clothes(3)",
+          "poor(2)",
+          "palace(2)",
+          "gate(2)",
+          "guard(2)",
+          "pushed(2)",
+          "cried(2)",
+          "rags(2)",
+          "lords(2)",
+          "lord(2)",
+          "crown(2)",
+          "angry(1)",
+          "dream(1)",
+          "fine(1)",
+          "boys(1)",
+          "mirror(1)",
+          "red(1)",
+          "guard's(1)",
+          "push(1)",
+          "hurt(1)",
+          "hid(1)",
+          "laughed(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8752,
+        "wordCount": 513,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "prince(6)",
+          "king(4)",
+          "palace(3)",
+          "gate(3)",
+          "guard(3)",
+          "rags(3)",
+          "crowd(3)",
+          "lord(3)",
+          "angry(2)",
+          "cried(2)",
+          "tall(2)",
+          "ill(2)",
+          "lords(2)",
+          "crown(2)",
+          "birthday(1)",
+          "dirty(1)",
+          "rough(1)",
+          "beg(1)",
+          "priest(1)",
+          "kings(1)",
+          "dare(1)",
+          "mirror(1)",
+          "angrily(1)",
+          "hid(1)",
+          "shouted(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9268,
+        "wordCount": 806,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "prince(9)",
+          "lords(6)",
+          "lord(4)",
+          "palace(3)",
+          "gate(3)",
+          "roughly(2)",
+          "rags(2)",
+          "crown(2)",
+          "seal(2)",
+          "autumn(1)",
+          "beg(1)",
+          "gentle(1)",
+          "bread(1)",
+          "priest(1)",
+          "dare(1)",
+          "mud(1)",
+          "sigh(1)",
+          "mirror(1)",
+          "dirty(1)",
+          "beggar(1)",
+          "hungry(1)",
+          "noisy(1)",
+          "sword(1)",
+          "inn(1)",
+          "brave(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9406,
+        "wordCount": 1127,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "prince(8)",
+          "lords(4)",
+          "palace(3)",
+          "crown(2)",
+          "rags(2)",
+          "bonfires(1)",
+          "tempered(1)",
+          "beg(1)",
+          "supper(1)",
+          "priest(1)",
+          "silk(1)",
+          "jewels(1)",
+          "splendid(1)",
+          "puppet(1)",
+          "mud(1)",
+          "shyly(1)",
+          "amazement(1)",
+          "bruise(1)",
+          "ragged(1)",
+          "beggar(1)",
+          "hungry(1)",
+          "seized(1)",
+          "you'll(1)",
+          "nonsense(1)",
+          "noisy(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9288,
+        "wordCount": 1531,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "prince(9)",
+          "palace(4)",
+          "rags(4)",
+          "lords(4)",
+          "priest(2)",
+          "splendid(2)",
+          "crown(2)",
+          "throne(2)",
+          "merciful(2)",
+          "awaited(1)",
+          "bonfires(1)",
+          "pauper(1)",
+          "tempered(1)",
+          "begging(1)",
+          "supper(1)",
+          "creep(1)",
+          "crust(1)",
+          "kindnesses(1)",
+          "princes(1)",
+          "refined(1)",
+          "quarrels(1)",
+          "seriousness(1)",
+          "slim(1)",
+          "silk(1)",
+          "sparkling(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_MULTITOKEN_SPELLING_TWO",
+          "cat": "MULTITOKEN_SPELLING",
+          "msg": "Possible spelling mistake found.",
+          "frag": "John Canty",
+          "ctx": "n. He lived in Offal Court. His father, John Canty, was hard and angry. But Tom had a big "
+        },
+        {
+          "rule": "EN_MULTITOKEN_SPELLING_TWO",
+          "cat": "MULTITOKEN_SPELLING",
+          "msg": "Possible spelling mistake found.",
+          "frag": "John Canty",
+          "ctx": "y found him. \"You are my son Tom!\" said John Canty. The boy ran away from him. Then a brav"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_MULTITOKEN_SPELLING_TWO",
+          "cat": "MULTITOKEN_SPELLING",
+          "msg": "Possible spelling mistake found.",
+          "frag": "John Canty",
+          "ctx": "and dirty street in London. His father, John Canty, was a rough and angry man. He sent Tom"
+        },
+        {
+          "rule": "EN_MULTITOKEN_SPELLING_TWO",
+          "cat": "MULTITOKEN_SPELLING",
+          "msg": "Possible spelling mistake found.",
+          "frag": "John Canty",
+          "ctx": "y son, and you must come home!\" shouted John Canty. Edward got away from him in a big crow"
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_MULTITOKEN_SPELLING_TWO",
+          "cat": "MULTITOKEN_SPELLING",
+          "msg": "Possible spelling mistake found.",
+          "frag": "John Canty",
+          "ctx": "p in a dark, crowded house. His father, John Canty, was a hard and angry man who sent him "
+        },
+        {
+          "rule": "EN_MULTITOKEN_SPELLING_TWO",
+          "cat": "MULTITOKEN_SPELLING",
+          "msg": "Possible spelling mistake found.",
+          "frag": "John Canty",
+          "ctx": "ngry, but nobody believed him. At night John Canty found him and took him by the arm. \"You"
+        },
+        {
+          "rule": "EN_MULTITOKEN_SPELLING_TWO",
+          "cat": "MULTITOKEN_SPELLING",
+          "msg": "Possible spelling mistake found.",
+          "frag": "John Canty",
+          "ctx": "You are coming home with me, Tom!\" said John Canty roughly. Later that night the boy escap"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_MULTITOKEN_SPELLING_TWO",
+          "cat": "MULTITOKEN_SPELLING",
+          "msg": "Possible spelling mistake found.",
+          "frag": "John Canty",
+          "ctx": "obody celebrated at all.  Tom's father, John Canty, was a rough, bad-tempered man who sent"
+        },
+        {
+          "rule": "EN_MULTITOKEN_SPELLING_TWO",
+          "cat": "MULTITOKEN_SPELLING",
+          "msg": "Possible spelling mistake found.",
+          "frag": "John Canty",
+          "ctx": "ugh London, hungry and cold. That night John Canty seized him, sure that he had found his "
+        },
+        {
+          "rule": "EN_MULTITOKEN_SPELLING_TWO",
+          "cat": "MULTITOKEN_SPELLING",
+          "msg": "Possible spelling mistake found.",
+          "frag": "John Canty",
+          "ctx": "come home and stop this nonsense,\" said John Canty, pulling the boy along. In a noisy crow"
+        },
+        {
+          "rule": "EN_MULTITOKEN_SPELLING_TWO",
+          "cat": "MULTITOKEN_SPELLING",
+          "msg": "Possible spelling mistake found.",
+          "frag": "John Canty",
+          "ctx": "esence.  The following weeks were hard. John Canty tricked Edward away from Miles, and the"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_MULTITOKEN_SPELLING_TWO",
+          "cat": "MULTITOKEN_SPELLING",
+          "msg": "Possible spelling mistake found.",
+          "frag": "John Canty",
+          "ctx": "ived on different stars.  Tom's father, John Canty, was a rough and bad-tempered man who m"
+        },
+        {
+          "rule": "EN_MULTITOKEN_SPELLING_TWO",
+          "cat": "MULTITOKEN_SPELLING",
+          "msg": "Possible spelling mistake found.",
+          "frag": "John Canty",
+          "ctx": " heavy hand landed on his shoulder, for John Canty had found him and was certain he had ca"
+        },
+        {
+          "rule": "EN_MULTITOKEN_SPELLING_TWO",
+          "cat": "MULTITOKEN_SPELLING",
+          "msg": "Possible spelling mistake found.",
+          "frag": "John Canty",
+          "ctx": "you? We'll soon cure you of that,\" said John Canty, pulling the boy toward Offal Court. La"
+        },
+        {
+          "rule": "EN_MULTITOKEN_SPELLING_TWO",
+          "cat": "MULTITOKEN_SPELLING",
+          "msg": "Possible spelling mistake found.",
+          "frag": "John Canty",
+          "ctx": "owed were the hardest of Edward's life. John Canty lured him away from Miles with a false "
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 322,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0108,
+      "lowZipfWords": [
+        "guard's",
+        "rags"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 513,
+      "sentLenMedian": 9,
+      "zipfMedian": 5.96,
+      "lowZipfRatio": 0.0089,
+      "lowZipfWords": [
+        "angrily",
+        "rags"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 806,
+      "sentLenMedian": 12,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0068,
+      "lowZipfWords": [
+        "beggar",
+        "crowning",
+        "rags",
+        "whispered"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1127,
+      "sentLenMedian": 15.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0182,
+      "lowZipfWords": [
+        "amazement",
+        "astonishment",
+        "beggar",
+        "beggars",
+        "bonfires",
+        "bruise",
+        "coronation",
+        "joyfully",
+        "knelt",
+        "patiently",
+        "ragged",
+        "rags",
+        "shyly",
+        "softened",
+        "tricked",
+        "unfairly",
+        "wandered",
+        "wept"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1531,
+      "sentLenMedian": 22.5,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0278,
+      "lowZipfWords": [
+        "afternoons",
+        "amazement",
+        "astonished",
+        "beggar",
+        "beggars",
+        "bewildered",
+        "bonfires",
+        "bruise",
+        "charmed",
+        "coronation",
+        "dine",
+        "dreamer",
+        "flung",
+        "harshest",
+        "harshly",
+        "hurried",
+        "kindnesses",
+        "knelt",
+        "lured",
+        "merciful",
+        "obeyed",
+        "onlookers",
+        "patiently",
+        "pausing",
+        "prince's",
+        "quarrels",
+        "rags",
+        "scold",
+        "sighed",
+        "softened",
+        "solemn",
+        "splashing",
+        "unjustly",
+        "wandered",
+        "weeping",
+        "wits"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.7826,
+      "wordCount": 322,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "prince(9)",
+        "boy(7)",
+        "king(5)",
+        "clothes(3)",
+        "poor(2)",
+        "palace(2)",
+        "gate(2)",
+        "guard(2)",
+        "pushed(2)",
+        "cried(2)",
+        "rags(2)",
+        "lords(2)",
+        "lord(2)",
+        "crown(2)",
+        "angry(1)",
+        "dream(1)",
+        "fine(1)",
+        "boys(1)",
+        "mirror(1)",
+        "red(1)",
+        "guard's(1)",
+        "push(1)",
+        "hurt(1)",
+        "hid(1)",
+        "laughed(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8752,
+      "wordCount": 513,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "prince(6)",
+        "king(4)",
+        "palace(3)",
+        "gate(3)",
+        "guard(3)",
+        "rags(3)",
+        "crowd(3)",
+        "lord(3)",
+        "angry(2)",
+        "cried(2)",
+        "tall(2)",
+        "ill(2)",
+        "lords(2)",
+        "crown(2)",
+        "birthday(1)",
+        "dirty(1)",
+        "rough(1)",
+        "beg(1)",
+        "priest(1)",
+        "kings(1)",
+        "dare(1)",
+        "mirror(1)",
+        "angrily(1)",
+        "hid(1)",
+        "shouted(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9268,
+      "wordCount": 806,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "prince(9)",
+        "lords(6)",
+        "lord(4)",
+        "palace(3)",
+        "gate(3)",
+        "roughly(2)",
+        "rags(2)",
+        "crown(2)",
+        "seal(2)",
+        "autumn(1)",
+        "beg(1)",
+        "gentle(1)",
+        "bread(1)",
+        "priest(1)",
+        "dare(1)",
+        "mud(1)",
+        "sigh(1)",
+        "mirror(1)",
+        "dirty(1)",
+        "beggar(1)",
+        "hungry(1)",
+        "noisy(1)",
+        "sword(1)",
+        "inn(1)",
+        "brave(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9406,
+      "wordCount": 1127,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "prince(8)",
+        "lords(4)",
+        "palace(3)",
+        "crown(2)",
+        "rags(2)",
+        "bonfires(1)",
+        "tempered(1)",
+        "beg(1)",
+        "supper(1)",
+        "priest(1)",
+        "silk(1)",
+        "jewels(1)",
+        "splendid(1)",
+        "puppet(1)",
+        "mud(1)",
+        "shyly(1)",
+        "amazement(1)",
+        "bruise(1)",
+        "ragged(1)",
+        "beggar(1)",
+        "hungry(1)",
+        "seized(1)",
+        "you'll(1)",
+        "nonsense(1)",
+        "noisy(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9288,
+      "wordCount": 1531,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "prince(9)",
+        "palace(4)",
+        "rags(4)",
+        "lords(4)",
+        "priest(2)",
+        "splendid(2)",
+        "crown(2)",
+        "throne(2)",
+        "merciful(2)",
+        "awaited(1)",
+        "bonfires(1)",
+        "pauper(1)",
+        "tempered(1)",
+        "begging(1)",
+        "supper(1)",
+        "creep(1)",
+        "crust(1)",
+        "kindnesses(1)",
+        "princes(1)",
+        "refined(1)",
+        "quarrels(1)",
+        "seriousness(1)",
+        "slim(1)",
+        "silk(1)",
+        "sparkling(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 4,
+      "sword": 4,
+      "dead": 3,
+      "death": 1
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.333,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0164",
+        "title": "The Frog Prince",
+        "titleJaccard": 0.333,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0008",
+        "title": "The Happy Prince, and Other Tales",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

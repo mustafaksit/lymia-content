@@ -1,0 +1,636 @@
+{
+  "id": "st-0288",
+  "title": "Odysseus and Circe",
+  "ts": "2026-10-29T21:44:58",
+  "node": {
+    "id": "st-0288",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %80.6 | 325 kelime\n    havuz dışı: king(2), island(1), sailed(1), ship(4), tired(1), sad(1), climbed(1), hill(1), smoke(1), trees(1), wolves(1), lions(1), animals(1), sang(1), inside(1), sorceress(1), sweet(2), drink(2), touched(2), magic(4), stick(2), suddenly(1), pigs(3), cried(3), nuts(1), alone(1), plant(1), root(1), can't(1), hurt(1), surprised(1), oil(1), tall(1), joy(1), sing(1), beautiful(1), songs(1), sailors(1), forget(1), wax(1), ears(1), tie(1), mast(1), song(1), pulled(1), ropes(1), tied(1), tighter(1)",
+        "level A2: A2: KALDI | kapsam %86.7 | 526 kelime\n    havuz dışı: king(2), wild(1), journey(1), ship(4), island(2), tired(1), beach(1), third(1), climbed(1), smoke(1), wolves(1), lions(1), afraid(2), powerful(1), sorceress(1), trick(1), guests(1), sweet(2), honey(1), magic(4), stick(3), pigs(1), cried(3), nuts(1), locked(1), tears(1), path(1), root(1), flower(1), can't(1), hurt(1), sword(2), knees(1), harm(1), pig(1), taller(1), joy(1), sailors(1), wax(3), ears(3), tie(1), mast(2), softened(1), tied(2), ropes(2), famous(1), tighter(1), quiet(1)",
+        "level B1: B1: KALDI | kapsam %93.3 | 801 kelime\n    havuz dışı: clever(1), sail(1), bay(1), third(1), wolves(1), lions(1), cloth(1), sorceress(1), magic(4), strangers(1), honey(1), barley(1), herbs(1), wand(4), pigs(1), pen(3), can't(1), begged(1), golden(1), sword(2), harm(2), knees(1), rubbed(1), pig(1), handsome(1), joy(1), meadow(1), sailors(1), wax(3), mast(2), beg(1), untie(2), tighter(2), tightly(1), ropes(1), pride(1), frowned(1), nodded(1), sailed(1)",
+        "level B2: B2: KALDI | kapsam %93.4 | 1095 kelime\n    havuz dışı: fleet(1), third(1), weeping(2), handsome(2), polished(1), wolves(2), lions(2), rubbed(2), sailors(2), weaving(1), sorceress(3), gracious(1), barley(1), honey(1), herb(1), wand(4), pigsties(1), acorns(1), vanished(1), begged(1), messenger(1), sties(1), sword(2), boldly(1), solemn(1), oath(2), sty(2), unchanged(1), amazement(1), swore(1), afterward(1), maids(1), splendid(1), travelers(1), endless(1), feasts(1), flowery(1), meadow(1), soften(1), wax(3), mast(2), beg(1), breeze(1), lowered(1), oars(1), softened(1), bound(1), upright(1), ropes(1), glory(1), sailor(2), frowned(1), nodded(1), captain(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8062,
+        "wordCount": 325,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ship(4)",
+          "magic(4)",
+          "pigs(3)",
+          "cried(3)",
+          "king(2)",
+          "sweet(2)",
+          "drink(2)",
+          "touched(2)",
+          "stick(2)",
+          "island(1)",
+          "sailed(1)",
+          "tired(1)",
+          "sad(1)",
+          "climbed(1)",
+          "hill(1)",
+          "smoke(1)",
+          "trees(1)",
+          "wolves(1)",
+          "lions(1)",
+          "animals(1)",
+          "sang(1)",
+          "inside(1)",
+          "sorceress(1)",
+          "suddenly(1)",
+          "nuts(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8669,
+        "wordCount": 526,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ship(4)",
+          "magic(4)",
+          "stick(3)",
+          "cried(3)",
+          "wax(3)",
+          "ears(3)",
+          "king(2)",
+          "island(2)",
+          "afraid(2)",
+          "sweet(2)",
+          "sword(2)",
+          "mast(2)",
+          "tied(2)",
+          "ropes(2)",
+          "wild(1)",
+          "journey(1)",
+          "tired(1)",
+          "beach(1)",
+          "third(1)",
+          "climbed(1)",
+          "smoke(1)",
+          "wolves(1)",
+          "lions(1)",
+          "powerful(1)",
+          "sorceress(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9326,
+        "wordCount": 801,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "magic(4)",
+          "wand(4)",
+          "pen(3)",
+          "wax(3)",
+          "sword(2)",
+          "harm(2)",
+          "mast(2)",
+          "untie(2)",
+          "tighter(2)",
+          "clever(1)",
+          "sail(1)",
+          "bay(1)",
+          "third(1)",
+          "wolves(1)",
+          "lions(1)",
+          "cloth(1)",
+          "sorceress(1)",
+          "strangers(1)",
+          "honey(1)",
+          "barley(1)",
+          "herbs(1)",
+          "pigs(1)",
+          "can't(1)",
+          "begged(1)",
+          "golden(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9342,
+        "wordCount": 1095,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "wand(4)",
+          "sorceress(3)",
+          "wax(3)",
+          "weeping(2)",
+          "handsome(2)",
+          "wolves(2)",
+          "lions(2)",
+          "rubbed(2)",
+          "sailors(2)",
+          "sword(2)",
+          "oath(2)",
+          "sty(2)",
+          "mast(2)",
+          "sailor(2)",
+          "fleet(1)",
+          "third(1)",
+          "polished(1)",
+          "weaving(1)",
+          "gracious(1)",
+          "barley(1)",
+          "honey(1)",
+          "herb(1)",
+          "pigsties(1)",
+          "acorns(1)",
+          "vanished(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9195,
+        "wordCount": 1540,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "companions(6)",
+          "wand(5)",
+          "wax(4)",
+          "sailors(3)",
+          "honey(3)",
+          "herb(3)",
+          "sty(3)",
+          "sailor(3)",
+          "rocky(2)",
+          "wolves(2)",
+          "lions(2)",
+          "sorceress(2)",
+          "grunting(2)",
+          "bristles(2)",
+          "sties(2)",
+          "sword(2)",
+          "oath(2)",
+          "handsome(2)",
+          "meadow(2)",
+          "mast(2)",
+          "oars(2)",
+          "bound(2)",
+          "ropes(2)",
+          "steered(1)",
+          "fleet(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 325,
+      "sentLenMedian": 6,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 1,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 526,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0021,
+      "lowZipfWords": [
+        "softened"
+      ],
+      "keyTermTokens": 1,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 801,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0146,
+      "lowZipfWords": [
+        "barley",
+        "frowned",
+        "nodded",
+        "rowing",
+        "untie",
+        "wand",
+        "warmed"
+      ],
+      "keyTermTokens": 1,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1095,
+      "sentLenMedian": 15.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0287,
+      "lowZipfWords": [
+        "acorns",
+        "amazement",
+        "barley",
+        "boldly",
+        "emptied",
+        "feasts",
+        "flowery",
+        "frowned",
+        "longed",
+        "maids",
+        "nodded",
+        "oars",
+        "pigsties",
+        "rowed",
+        "soften",
+        "softened",
+        "solemn",
+        "sties",
+        "stirred",
+        "sty",
+        "sweetly",
+        "wand",
+        "weeping",
+        "wiser"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1540,
+      "sentLenMedian": 19.5,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0384,
+      "lowZipfWords": [
+        "acorns",
+        "astonishment",
+        "barley",
+        "boldly",
+        "braided",
+        "breathless",
+        "bristles",
+        "calves",
+        "drifted",
+        "echoed",
+        "emptied",
+        "enchant",
+        "feasted",
+        "foamed",
+        "frowns",
+        "grunting",
+        "hauled",
+        "kinsman",
+        "leaned",
+        "loom",
+        "loosen",
+        "maids",
+        "nearer",
+        "nods",
+        "oars",
+        "ointment",
+        "penned",
+        "roamed",
+        "rowed",
+        "sensed",
+        "sheltered",
+        "soften",
+        "sprang",
+        "springing",
+        "steered",
+        "sties",
+        "stirred",
+        "stout",
+        "sty",
+        "swung",
+        "wagging",
+        "wand",
+        "warmly",
+        "weep",
+        "wiser",
+        "wooded"
+      ],
+      "keyTermTokens": 2,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8062,
+      "wordCount": 325,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ship(4)",
+        "magic(4)",
+        "pigs(3)",
+        "cried(3)",
+        "king(2)",
+        "sweet(2)",
+        "drink(2)",
+        "touched(2)",
+        "stick(2)",
+        "island(1)",
+        "sailed(1)",
+        "tired(1)",
+        "sad(1)",
+        "climbed(1)",
+        "hill(1)",
+        "smoke(1)",
+        "trees(1)",
+        "wolves(1)",
+        "lions(1)",
+        "animals(1)",
+        "sang(1)",
+        "inside(1)",
+        "sorceress(1)",
+        "suddenly(1)",
+        "nuts(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8669,
+      "wordCount": 526,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ship(4)",
+        "magic(4)",
+        "stick(3)",
+        "cried(3)",
+        "wax(3)",
+        "ears(3)",
+        "king(2)",
+        "island(2)",
+        "afraid(2)",
+        "sweet(2)",
+        "sword(2)",
+        "mast(2)",
+        "tied(2)",
+        "ropes(2)",
+        "wild(1)",
+        "journey(1)",
+        "tired(1)",
+        "beach(1)",
+        "third(1)",
+        "climbed(1)",
+        "smoke(1)",
+        "wolves(1)",
+        "lions(1)",
+        "powerful(1)",
+        "sorceress(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9326,
+      "wordCount": 801,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "magic(4)",
+        "wand(4)",
+        "pen(3)",
+        "wax(3)",
+        "sword(2)",
+        "harm(2)",
+        "mast(2)",
+        "untie(2)",
+        "tighter(2)",
+        "clever(1)",
+        "sail(1)",
+        "bay(1)",
+        "third(1)",
+        "wolves(1)",
+        "lions(1)",
+        "cloth(1)",
+        "sorceress(1)",
+        "strangers(1)",
+        "honey(1)",
+        "barley(1)",
+        "herbs(1)",
+        "pigs(1)",
+        "can't(1)",
+        "begged(1)",
+        "golden(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9342,
+      "wordCount": 1095,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "wand(4)",
+        "sorceress(3)",
+        "wax(3)",
+        "weeping(2)",
+        "handsome(2)",
+        "wolves(2)",
+        "lions(2)",
+        "rubbed(2)",
+        "sailors(2)",
+        "sword(2)",
+        "oath(2)",
+        "sty(2)",
+        "mast(2)",
+        "sailor(2)",
+        "fleet(1)",
+        "third(1)",
+        "polished(1)",
+        "weaving(1)",
+        "gracious(1)",
+        "barley(1)",
+        "honey(1)",
+        "herb(1)",
+        "pigsties(1)",
+        "acorns(1)",
+        "vanished(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9195,
+      "wordCount": 1540,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "companions(6)",
+        "wand(5)",
+        "wax(4)",
+        "sailors(3)",
+        "honey(3)",
+        "herb(3)",
+        "sty(3)",
+        "sailor(3)",
+        "rocky(2)",
+        "wolves(2)",
+        "lions(2)",
+        "sorceress(2)",
+        "grunting(2)",
+        "bristles(2)",
+        "sties(2)",
+        "sword(2)",
+        "oath(2)",
+        "handsome(2)",
+        "meadow(2)",
+        "mast(2)",
+        "oars(2)",
+        "bound(2)",
+        "ropes(2)",
+        "steered(1)",
+        "fleet(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "sword": 9,
+      "died": 3
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

@@ -1,0 +1,632 @@
+{
+  "id": "st-0297",
+  "title": "The Canterville Ghost",
+  "ts": "2026-10-29T21:45:10",
+  "node": {
+    "id": "st-0297",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %82.7 | 318 kelime\n    havuz dışı: ghost(4), laughed(1), ghosts(1), son(1), twins(3), library(1), red(2), stain(4), cleaned(2), chains(2), loud(1), oil(1), angry(1), scare(1), afraid(1), threw(1), pillows(1), floor(1), sheet(1), purple(1), green(1), paints(2), tired(2), sad(1), upstairs(1), sleep(1), rest(2), quiet(3), garden(2), pray(1), cold(1), wall(1), midnight(1), box(1), jewels(1), tree(1), flowers(2)",
+        "level A2: A2: KALDI | kapsam %87.6 | 518 kelime\n    havuz dışı: lord(1), warning(1), ghost(6), museum(1), brave(1), twins(4), jokes(1), library(2), stain(4), rubbed(1), stick(1), disappeared(1), loud(2), crash(1), thunder(1), heavy(1), chains(2), hall(2), bottle(1), angry(1), afraid(2), pillows(1), terrible(1), medicine(1), tricks(1), jug(1), sheet(1), hollow(1), vegetable(1), tired(2), sad(1), upstairs(1), stealing(1), quiet(2), poem(1), cry(1), pray(1), everywhere(1), midnight(1), stairs(1), jewels(1), secret(1), dry(1), flowers(2), peaceful(1)",
+        "level B1: B1: KALDI | kapsam %92.9 | 819 kelime\n    havuz dışı: countryside(1), ghost(5), lord(1), furniture(1), cheerful(1), eldest(1), polite(1), pony(1), twins(5), noisy(1), housekeeper(1), stain(6), madam(1), rubbed(1), lightning(1), thunder(1), sir(1), loud(1), pillows(1), stomach(1), armor(1), purple(1), tricks(1), jug(1), shining(1), frightened(1), brush(1), hollow(1), vegetable(1), candle(1), frighten(1), upstairs(1), grass(1), poem(1), pray(1), almond(2), peaceful(1), brave(1), midnight(1), stairs(1), jewels(2), dusty(1), moonlight(1)",
+        "level B2: B2: KALDI | kapsam %94.5 | 1096 kelime\n    havuz dışı: diplomat(1), ghost(10), handsome(1), eldest(1), pony(1), housekeeper(1), fireplace(1), madam(1), trembling(1), wicked(1), deed(1), afterwards(1), vanished(1), rubbed(1), lightning(1), thunder(1), metallic(1), corridor(3), slippers(1), ankles(1), politely(1), speechless(1), groaning(1), pillow(1), lords(1), bishops(1), midnight(1), armor(1), dull(1), purple(1), emerald(1), mysteriously(1), jug(1), hollow(1), tempt(1), upstairs(1), lonely(1), sunsets(1), pine(1), nightingale(1), almond(2), i'm(1), galloped(1), jewels(3), dusty(1), lord(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.827,
+        "wordCount": 318,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ghost(4)",
+          "stain(4)",
+          "twins(3)",
+          "quiet(3)",
+          "red(2)",
+          "cleaned(2)",
+          "chains(2)",
+          "paints(2)",
+          "tired(2)",
+          "rest(2)",
+          "garden(2)",
+          "flowers(2)",
+          "laughed(1)",
+          "ghosts(1)",
+          "son(1)",
+          "library(1)",
+          "loud(1)",
+          "oil(1)",
+          "angry(1)",
+          "scare(1)",
+          "afraid(1)",
+          "threw(1)",
+          "pillows(1)",
+          "floor(1)",
+          "sheet(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8764,
+        "wordCount": 518,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ghost(6)",
+          "twins(4)",
+          "stain(4)",
+          "library(2)",
+          "loud(2)",
+          "chains(2)",
+          "hall(2)",
+          "afraid(2)",
+          "tired(2)",
+          "quiet(2)",
+          "flowers(2)",
+          "lord(1)",
+          "warning(1)",
+          "museum(1)",
+          "brave(1)",
+          "jokes(1)",
+          "rubbed(1)",
+          "stick(1)",
+          "disappeared(1)",
+          "crash(1)",
+          "thunder(1)",
+          "heavy(1)",
+          "bottle(1)",
+          "angry(1)",
+          "pillows(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9292,
+        "wordCount": 819,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "stain(6)",
+          "ghost(5)",
+          "twins(5)",
+          "almond(2)",
+          "jewels(2)",
+          "countryside(1)",
+          "lord(1)",
+          "furniture(1)",
+          "cheerful(1)",
+          "eldest(1)",
+          "polite(1)",
+          "pony(1)",
+          "noisy(1)",
+          "housekeeper(1)",
+          "madam(1)",
+          "rubbed(1)",
+          "lightning(1)",
+          "thunder(1)",
+          "sir(1)",
+          "loud(1)",
+          "pillows(1)",
+          "stomach(1)",
+          "armor(1)",
+          "purple(1)",
+          "tricks(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9453,
+        "wordCount": 1096,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ghost(10)",
+          "corridor(3)",
+          "jewels(3)",
+          "almond(2)",
+          "diplomat(1)",
+          "handsome(1)",
+          "eldest(1)",
+          "pony(1)",
+          "housekeeper(1)",
+          "fireplace(1)",
+          "madam(1)",
+          "trembling(1)",
+          "wicked(1)",
+          "deed(1)",
+          "afterwards(1)",
+          "vanished(1)",
+          "rubbed(1)",
+          "lightning(1)",
+          "thunder(1)",
+          "metallic(1)",
+          "slippers(1)",
+          "ankles(1)",
+          "politely(1)",
+          "speechless(1)",
+          "groaning(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9146,
+        "wordCount": 1487,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ghost(8)",
+          "corridor(3)",
+          "jewels(3)",
+          "diplomat(2)",
+          "countryside(2)",
+          "obliged(2)",
+          "fled(2)",
+          "hollow(2)",
+          "midnight(2)",
+          "staircase(2)",
+          "almond(2)",
+          "blossom(2)",
+          "cheerfully(1)",
+          "valuation(1)",
+          "handsome(1)",
+          "sensible(1)",
+          "eldest(1)",
+          "slim(1)",
+          "pony(1)",
+          "courage(1)",
+          "astonished(1)",
+          "gentlemen(1)",
+          "cheerful(1)",
+          "housekeeper(1)",
+          "fireplace(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "e stain has been there ever since. Soon afterwards he vanished, and his ghost still walks "
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "ed in this very room long ago, and soon afterwards he disappeared, though his restless spi"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 318,
+      "sentLenMedian": 6,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 518,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0022,
+      "lowZipfWords": [
+        "jug"
+      ],
+      "keyTermTokens": 10,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 819,
+      "sentLenMedian": 11.0,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0041,
+      "lowZipfWords": [
+        "frighten",
+        "housekeeper",
+        "jug"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1096,
+      "sentLenMedian": 14,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0148,
+      "lowZipfWords": [
+        "galloped",
+        "groaning",
+        "housekeeper",
+        "hurried",
+        "jug",
+        "mysteriously",
+        "nightingale",
+        "politely",
+        "prays",
+        "slippers",
+        "speechless",
+        "sunsets",
+        "tempt",
+        "trembling",
+        "woken"
+      ],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1487,
+      "sentLenMedian": 19.5,
+      "zipfMedian": 5.95,
+      "lowZipfRatio": 0.0285,
+      "lowZipfWords": [
+        "applauded",
+        "armchair",
+        "astonished",
+        "bowed",
+        "cheerfully",
+        "corridors",
+        "dashing",
+        "digestion",
+        "duchesses",
+        "fortnight",
+        "galloped",
+        "gentler",
+        "ghostly",
+        "glancing",
+        "glittering",
+        "grinning",
+        "groaning",
+        "helplessly",
+        "hopelessly",
+        "housekeeper",
+        "jug",
+        "lanterns",
+        "nightcaps",
+        "nightingale",
+        "plainly",
+        "prays",
+        "rattle",
+        "reappear",
+        "retreated",
+        "scrupulously",
+        "slippers",
+        "softened",
+        "tangled",
+        "teatime",
+        "tempt",
+        "trembling",
+        "weeps",
+        "whistling",
+        "woken",
+        "wrists"
+      ],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.827,
+      "wordCount": 318,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ghost(4)",
+        "stain(4)",
+        "twins(3)",
+        "quiet(3)",
+        "red(2)",
+        "cleaned(2)",
+        "chains(2)",
+        "paints(2)",
+        "tired(2)",
+        "rest(2)",
+        "garden(2)",
+        "flowers(2)",
+        "laughed(1)",
+        "ghosts(1)",
+        "son(1)",
+        "library(1)",
+        "loud(1)",
+        "oil(1)",
+        "angry(1)",
+        "scare(1)",
+        "afraid(1)",
+        "threw(1)",
+        "pillows(1)",
+        "floor(1)",
+        "sheet(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8764,
+      "wordCount": 518,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ghost(6)",
+        "twins(4)",
+        "stain(4)",
+        "library(2)",
+        "loud(2)",
+        "chains(2)",
+        "hall(2)",
+        "afraid(2)",
+        "tired(2)",
+        "quiet(2)",
+        "flowers(2)",
+        "lord(1)",
+        "warning(1)",
+        "museum(1)",
+        "brave(1)",
+        "jokes(1)",
+        "rubbed(1)",
+        "stick(1)",
+        "disappeared(1)",
+        "crash(1)",
+        "thunder(1)",
+        "heavy(1)",
+        "bottle(1)",
+        "angry(1)",
+        "pillows(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9292,
+      "wordCount": 819,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "stain(6)",
+        "ghost(5)",
+        "twins(5)",
+        "almond(2)",
+        "jewels(2)",
+        "countryside(1)",
+        "lord(1)",
+        "furniture(1)",
+        "cheerful(1)",
+        "eldest(1)",
+        "polite(1)",
+        "pony(1)",
+        "noisy(1)",
+        "housekeeper(1)",
+        "madam(1)",
+        "rubbed(1)",
+        "lightning(1)",
+        "thunder(1)",
+        "sir(1)",
+        "loud(1)",
+        "pillows(1)",
+        "stomach(1)",
+        "armor(1)",
+        "purple(1)",
+        "tricks(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9453,
+      "wordCount": 1096,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ghost(10)",
+        "corridor(3)",
+        "jewels(3)",
+        "almond(2)",
+        "diplomat(1)",
+        "handsome(1)",
+        "eldest(1)",
+        "pony(1)",
+        "housekeeper(1)",
+        "fireplace(1)",
+        "madam(1)",
+        "trembling(1)",
+        "wicked(1)",
+        "deed(1)",
+        "afterwards(1)",
+        "vanished(1)",
+        "rubbed(1)",
+        "lightning(1)",
+        "thunder(1)",
+        "metallic(1)",
+        "slippers(1)",
+        "ankles(1)",
+        "politely(1)",
+        "speechless(1)",
+        "groaning(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9146,
+      "wordCount": 1487,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ghost(8)",
+        "corridor(3)",
+        "jewels(3)",
+        "diplomat(2)",
+        "countryside(2)",
+        "obliged(2)",
+        "fled(2)",
+        "hollow(2)",
+        "midnight(2)",
+        "staircase(2)",
+        "almond(2)",
+        "blossom(2)",
+        "cheerfully(1)",
+        "valuation(1)",
+        "handsome(1)",
+        "sensible(1)",
+        "eldest(1)",
+        "slim(1)",
+        "pony(1)",
+        "courage(1)",
+        "astonished(1)",
+        "gentlemen(1)",
+        "cheerful(1)",
+        "housekeeper(1)",
+        "fireplace(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "death": 3
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.143,
+      "summary3gramJaccard": 0.05,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0014",
+        "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+        "titleJaccard": 0.143,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0020",
+        "title": "The Slow Mirror",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.05,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

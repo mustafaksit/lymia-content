@@ -1,0 +1,619 @@
+{
+  "id": "st-0301",
+  "title": "Daddy-Long-Legs",
+  "ts": "2026-10-29T21:45:16",
+  "node": {
+    "id": "st-0301",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %89.7 | 321 kelime\n    havuz dışı: orphan(1), trustee(2), essay(1), college(3), shadow(1), wall(1), arms(1), legs(1), warm(1), funny(2), rich(2), spring(1), uncle(1), tall(2), summer(1), farm(2), green(1), hills(2), proud(2), marry(1), cried(2), chair(1), laughed(1)",
+        "level A2: A2: KALDI | kapsam %92.6 | 515 kelime\n    havuz dışı: orphans(1), sad(2), trustees(2), perfect(1), afraid(1), essay(1), hall(1), trustee(2), shadow(1), legs(1), spider(1), warm(1), funny(2), rich(2), proud(2), famous(1), spring(1), uncle(1), tall(2), busy(1), tea(1), farm(2), hills(2), climbed(1), prize(1), publisher(1), orphan(1), hurt(1), chair(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8972,
+        "wordCount": 321,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "college(3)",
+          "trustee(2)",
+          "funny(2)",
+          "rich(2)",
+          "tall(2)",
+          "farm(2)",
+          "hills(2)",
+          "proud(2)",
+          "cried(2)",
+          "orphan(1)",
+          "essay(1)",
+          "shadow(1)",
+          "wall(1)",
+          "arms(1)",
+          "legs(1)",
+          "warm(1)",
+          "spring(1)",
+          "uncle(1)",
+          "summer(1)",
+          "green(1)",
+          "marry(1)",
+          "chair(1)",
+          "laughed(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9262,
+        "wordCount": 515,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sad(2)",
+          "trustees(2)",
+          "trustee(2)",
+          "funny(2)",
+          "rich(2)",
+          "proud(2)",
+          "tall(2)",
+          "farm(2)",
+          "hills(2)",
+          "orphans(1)",
+          "perfect(1)",
+          "afraid(1)",
+          "essay(1)",
+          "hall(1)",
+          "shadow(1)",
+          "legs(1)",
+          "spider(1)",
+          "warm(1)",
+          "famous(1)",
+          "spring(1)",
+          "uncle(1)",
+          "busy(1)",
+          "tea(1)",
+          "climbed(1)",
+          "prize(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9566,
+        "wordCount": 784,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "orphan(3)",
+          "trustee(2)",
+          "shadow(2)",
+          "publisher(2)",
+          "buttoned(1)",
+          "trustees(1)",
+          "shine(1)",
+          "daddy(1)",
+          "spider(1)",
+          "loud(1)",
+          "essay(1)",
+          "trustees'(1)",
+          "unknown(1)",
+          "i'm(1)",
+          "cheerful(1)",
+          "painters(1)",
+          "drawings(1)",
+          "bald(1)",
+          "uncle(1)",
+          "nowhere(1)",
+          "attic(1)",
+          "confident(1)",
+          "prize(1)",
+          "scholarship(1)",
+          "terribly(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9683,
+        "wordCount": 1011,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "trustee(3)",
+          "orphan(2)",
+          "dull(2)",
+          "asylum(1)",
+          "matron(1)",
+          "trustees(1)",
+          "inspect(1)",
+          "polished(1)",
+          "scrubbed(1)",
+          "impossibly(1)",
+          "daddy(1)",
+          "cheeky(1)",
+          "trustees'(1)",
+          "amusing(1)",
+          "allowance(1)",
+          "cheerful(1)",
+          "drawings(1)",
+          "endless(1)",
+          "begged(1)",
+          "attic(1)",
+          "annoyed(1)",
+          "scholarship(1)",
+          "graduation(1)",
+          "earnings(1)",
+          "repayment(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.921,
+        "wordCount": 1304,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "asylum(3)",
+          "identical(2)",
+          "surname(2)",
+          "trustees'(2)",
+          "teased(2)",
+          "orphan(1)",
+          "unpaid(1)",
+          "scrubbing(1)",
+          "darning(1)",
+          "stockings(1)",
+          "herding(1)",
+          "orphans(1)",
+          "tidy(1)",
+          "joyless(1)",
+          "matron(1)",
+          "polished(1)",
+          "scrubbed(1)",
+          "reciting(1)",
+          "gratitude(1)",
+          "cue(1)",
+          "dreaded(1)",
+          "downstairs(1)",
+          "glimpsed(1)",
+          "trustee(1)",
+          "headlights(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "She",
+          "ctx": "ul girl with a large and loving family. She also grew close to Julia Pendleton, who"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 321,
+      "sentLenMedian": 6,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 515,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 784,
+      "sentLenMedian": 12,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0028,
+      "lowZipfWords": [
+        "buttoned",
+        "helper"
+      ],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1011,
+      "sentLenMedian": 15.0,
+      "zipfMedian": 6.12,
+      "lowZipfRatio": 0.0098,
+      "lowZipfWords": [
+        "helper",
+        "impossibly",
+        "matron",
+        "minding",
+        "puzzled",
+        "repayment",
+        "scrubbed",
+        "trembling",
+        "warmest"
+      ],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1304,
+      "sentLenMedian": 20.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0437,
+      "lowZipfWords": [
+        "absurdly",
+        "affectionate",
+        "armchair",
+        "bewildered",
+        "boyhood",
+        "calves",
+        "chatted",
+        "confidant",
+        "darning",
+        "debt's",
+        "devouring",
+        "discard",
+        "dreaded",
+        "flung",
+        "fondness",
+        "forbade",
+        "foundling",
+        "glimpsed",
+        "gloomy",
+        "haystacks",
+        "headlights",
+        "helper",
+        "herding",
+        "hitherto",
+        "hurrying",
+        "illustrious",
+        "impudent",
+        "infirmary",
+        "inscribed",
+        "joyless",
+        "livelier",
+        "lonelier",
+        "longed",
+        "matron",
+        "nodded",
+        "orchards",
+        "orphan's",
+        "orphanage",
+        "perversely",
+        "reciting",
+        "repayment",
+        "rummaging",
+        "schoolbooks",
+        "scrubbed",
+        "scrubbing",
+        "startled",
+        "stockings",
+        "sunsets",
+        "teased",
+        "tiresome",
+        "unhurried",
+        "unsuitable"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8972,
+      "wordCount": 321,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "college(3)",
+        "trustee(2)",
+        "funny(2)",
+        "rich(2)",
+        "tall(2)",
+        "farm(2)",
+        "hills(2)",
+        "proud(2)",
+        "cried(2)",
+        "orphan(1)",
+        "essay(1)",
+        "shadow(1)",
+        "wall(1)",
+        "arms(1)",
+        "legs(1)",
+        "warm(1)",
+        "spring(1)",
+        "uncle(1)",
+        "summer(1)",
+        "green(1)",
+        "marry(1)",
+        "chair(1)",
+        "laughed(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9262,
+      "wordCount": 515,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sad(2)",
+        "trustees(2)",
+        "trustee(2)",
+        "funny(2)",
+        "rich(2)",
+        "proud(2)",
+        "tall(2)",
+        "farm(2)",
+        "hills(2)",
+        "orphans(1)",
+        "perfect(1)",
+        "afraid(1)",
+        "essay(1)",
+        "hall(1)",
+        "shadow(1)",
+        "legs(1)",
+        "spider(1)",
+        "warm(1)",
+        "famous(1)",
+        "spring(1)",
+        "uncle(1)",
+        "busy(1)",
+        "tea(1)",
+        "climbed(1)",
+        "prize(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9566,
+      "wordCount": 784,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "orphan(3)",
+        "trustee(2)",
+        "shadow(2)",
+        "publisher(2)",
+        "buttoned(1)",
+        "trustees(1)",
+        "shine(1)",
+        "daddy(1)",
+        "spider(1)",
+        "loud(1)",
+        "essay(1)",
+        "trustees'(1)",
+        "unknown(1)",
+        "i'm(1)",
+        "cheerful(1)",
+        "painters(1)",
+        "drawings(1)",
+        "bald(1)",
+        "uncle(1)",
+        "nowhere(1)",
+        "attic(1)",
+        "confident(1)",
+        "prize(1)",
+        "scholarship(1)",
+        "terribly(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9683,
+      "wordCount": 1011,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "trustee(3)",
+        "orphan(2)",
+        "dull(2)",
+        "asylum(1)",
+        "matron(1)",
+        "trustees(1)",
+        "inspect(1)",
+        "polished(1)",
+        "scrubbed(1)",
+        "impossibly(1)",
+        "daddy(1)",
+        "cheeky(1)",
+        "trustees'(1)",
+        "amusing(1)",
+        "allowance(1)",
+        "cheerful(1)",
+        "drawings(1)",
+        "endless(1)",
+        "begged(1)",
+        "attic(1)",
+        "annoyed(1)",
+        "scholarship(1)",
+        "graduation(1)",
+        "earnings(1)",
+        "repayment(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.921,
+      "wordCount": 1304,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "asylum(3)",
+        "identical(2)",
+        "surname(2)",
+        "trustees'(2)",
+        "teased(2)",
+        "orphan(1)",
+        "unpaid(1)",
+        "scrubbing(1)",
+        "darning(1)",
+        "stockings(1)",
+        "herding(1)",
+        "orphans(1)",
+        "tidy(1)",
+        "joyless(1)",
+        "matron(1)",
+        "polished(1)",
+        "scrubbed(1)",
+        "reciting(1)",
+        "gratitude(1)",
+        "cue(1)",
+        "dreaded(1)",
+        "downstairs(1)",
+        "glimpsed(1)",
+        "trustee(1)",
+        "headlights(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

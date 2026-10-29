@@ -1,0 +1,63 @@
+{
+  "id": "st-0294",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"I can pay fifty thousand francs for help.\" is a little stilted; consider \"I will pay fifty thousand francs to anyone who helps me.\"",
+        "\"I left my gold box there\" gives no reason, so the return visit reads like luck until the paid noise is revealed. Consider \"I left my gold box there on purpose.\"",
+        "\"I put a false letter in its place.\" would read more naturally as \"I put a fake letter in its place.\"",
+        "\"A dirty, torn letter hung near the fire.\" A letter does not really hang. Consider \"A dirty, torn letter sat in a little card holder near the fire.\""
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"He put it in front of everyone's eyes.\" is slightly calqued; \"He put it where everyone could see it.\" is more natural.",
+        "\"But the size was right, and I knew the truth at once.\" The \"But\" contrasts with a description of the stolen letter that A2 never gives. Consider \"It looked very different, but the size was right, and I knew the truth at once.\"",
+        "\"Because the Minister must not know about it\" leaves 'it' vague. Consider \"Because the Minister must not know that the letter is gone.\""
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "level mismatch",
+          "quote": "\"As long as he has it, he has great power over her.\"",
+          "problem": "'As long as' opens a conditional clause, and B1 must not use conditionals.",
+          "fix": "\"While he has it, he has great power over her.\""
+        }
+      ],
+      "notes": [
+        "\"He turned the letter inside out and gave it a new address and seal.\" states this as fact with no clue for how Dupin knew it. Consider \"I understood that he turned the letter inside out and gave it a new address and seal.\"",
+        "\"Perhaps the simple side of it is the problem\" is slightly awkward; consider \"Perhaps the problem is that it is too simple.\""
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Quiz 3 key ('He wanted a reason to come back') is inferred rather than stated, but 'deliberately forgot' rules out the distractors, so it is defensible."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "\"The Paris police are able enough in their way,\" he said, \"patient, ingenious and thorough in everything their work demands.\" \"Their failure lies not in the search but in the mind behind it, since they look only for the hiding places they themselves would have chosen.",
+          "problem": "The quotation is closed and a new one opened with no speaker tag, so by convention the reader takes 'Their failure lies...' to be a new speaker (the narrator). Dupin is still talking.",
+          "fix": "Merge into one quotation: \"The Paris police are able enough in their way,\" he said, \"patient, ingenious and thorough in everything their work demands. Their failure lies not in the search but in the mind behind it, since they look only for the hiding places they themselves would have chosen. I once knew a schoolboy ...\""
+        }
+      ],
+      "notes": [
+        "Strong fidelity: the bread-imitated seal, the eighteen months, the black seal with the Minister's initial, the nights away as 'invitations', and the Crébillon lines are all there. The danger is softened ('I might never have left that house at all'), which suits 4+."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling of Poe's tale at every level, with sound quizzes and no film material. B1 fails on one conditional clause ('As long as he has it'). C1 fails on a split quotation that makes the speaker unclear in Dupin's explanation. Both are one-line fixes."
+}

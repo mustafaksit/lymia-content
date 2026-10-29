@@ -1,0 +1,622 @@
+{
+  "id": "st-0315",
+  "title": "Theseus and the Minotaur",
+  "ts": "2026-10-29T21:45:31",
+  "node": {
+    "id": "st-0315",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %83.3 | 329 kelime\n    havuz dışı: tall(1), stone(4), lift(1), lifted(1), lay(1), sword(3), gold(1), shoes(1), king(5), road(1), beat(1), son(1), cried(1), hugged(1), sad(1), secret(1), ship(3), boys(1), monster(1), bull(1), sails(6), daughter(1), brave(1), ball(1), thread(3), tie(1), dark(1), rolled(1), fought(1), fight(1), sailed(1), happy(1), forgot(1), rock(1), sadness(1), sea(1), king's(1)",
+        "level A2: A2: KALDI | kapsam %88.7 | 515 kelime\n    havuz dışı: tall(1), hill(1), stone(4), lift(1), lifted(1), bronze(1), sword(4), gold(1), sandals(1), king(6), dangerous(1), wicked(1), robbers(1), everywhere(1), brave(1), palace(1), tears(1), cried(1), ship(2), sailed(2), paths(2), monster(2), bull(1), begged(1), sails(5), secret(1), prisoners(1), swords(1), ball(1), thread(4), tie(1), rolled(1), beat(1), cliff(1), sadness(1), sad(1)",
+        "level B1: B1: KALDI | kapsam %92.9 | 718 kelime\n    havuz dışı: whenever(1), wrestled(1), underneath(1), bronze(2), sword(5), golden(1), sandals(2), robbers(1), brave(1), deeds(1), wicked(1), robber(1), strangers(1), lonely(1), feast(1), palace(1), tight(1), wept(1), joy(2), prince(1), sorrow(2), maze(1), monster(2), bull's(1), begged(1), sails(3), beside(1), admired(1), courage(1), thread(5), whispered(1), unroll(1), roar(1), sailed(2), cliff(1)",
+        "level B2: B2: KALDI | kapsam %94.7 | 958 kelime\n    havuz dışı: wrestling(1), hillside(1), moss(1), heaved(1), bronze(2), sword(4), sandals(1), begged(1), robbers(2), beasts(1), fame(1), cruel(1), wicked(1), palace(2), feast(1), weeping(1), grief(2), maze(2), clever(1), craftsman(1), monster(1), bull(1), wept(1), pleaded(1), cliffs(2), throne(1), trembled(1), thread(5), unwinding(1), roar(1), beast(1), starlight(1), dawn(1), fled(1), voyage(1), horizon(1), cliff(1), mourning(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8328,
+        "wordCount": 329,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sails(6)",
+          "king(5)",
+          "stone(4)",
+          "sword(3)",
+          "ship(3)",
+          "thread(3)",
+          "tall(1)",
+          "lift(1)",
+          "lifted(1)",
+          "lay(1)",
+          "gold(1)",
+          "shoes(1)",
+          "road(1)",
+          "beat(1)",
+          "son(1)",
+          "cried(1)",
+          "hugged(1)",
+          "sad(1)",
+          "secret(1)",
+          "boys(1)",
+          "monster(1)",
+          "bull(1)",
+          "daughter(1)",
+          "brave(1)",
+          "ball(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8874,
+        "wordCount": 515,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "king(6)",
+          "sails(5)",
+          "stone(4)",
+          "sword(4)",
+          "thread(4)",
+          "ship(2)",
+          "sailed(2)",
+          "paths(2)",
+          "monster(2)",
+          "tall(1)",
+          "hill(1)",
+          "lift(1)",
+          "lifted(1)",
+          "bronze(1)",
+          "gold(1)",
+          "sandals(1)",
+          "dangerous(1)",
+          "wicked(1)",
+          "robbers(1)",
+          "everywhere(1)",
+          "brave(1)",
+          "palace(1)",
+          "tears(1)",
+          "cried(1)",
+          "bull(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.929,
+        "wordCount": 718,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sword(5)",
+          "thread(5)",
+          "sails(3)",
+          "bronze(2)",
+          "sandals(2)",
+          "joy(2)",
+          "sorrow(2)",
+          "monster(2)",
+          "sailed(2)",
+          "whenever(1)",
+          "wrestled(1)",
+          "underneath(1)",
+          "golden(1)",
+          "robbers(1)",
+          "brave(1)",
+          "deeds(1)",
+          "wicked(1)",
+          "robber(1)",
+          "strangers(1)",
+          "lonely(1)",
+          "feast(1)",
+          "palace(1)",
+          "tight(1)",
+          "wept(1)",
+          "prince(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9468,
+        "wordCount": 958,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "thread(5)",
+          "sword(4)",
+          "bronze(2)",
+          "robbers(2)",
+          "palace(2)",
+          "grief(2)",
+          "maze(2)",
+          "cliffs(2)",
+          "wrestling(1)",
+          "hillside(1)",
+          "moss(1)",
+          "heaved(1)",
+          "sandals(1)",
+          "begged(1)",
+          "beasts(1)",
+          "fame(1)",
+          "cruel(1)",
+          "wicked(1)",
+          "feast(1)",
+          "weeping(1)",
+          "clever(1)",
+          "craftsman(1)",
+          "monster(1)",
+          "bull(1)",
+          "wept(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9228,
+        "wordCount": 1309,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "thread(5)",
+          "sword(4)",
+          "cliff(3)",
+          "shepherds(2)",
+          "bronze(2)",
+          "hilt(2)",
+          "begged(2)",
+          "robbers(2)",
+          "cruel(2)",
+          "grief(2)",
+          "prince(2)",
+          "throne(2)",
+          "palace(2)",
+          "tribute(2)",
+          "maze(2)",
+          "voyage(2)",
+          "boyhood(1)",
+          "restless(1)",
+          "eager(1)",
+          "wrestling(1)",
+          "monsters(1)",
+          "moss(1)",
+          "hollow(1)",
+          "sandals(1)",
+          "untouched(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 329,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0035,
+      "lowZipfWords": [
+        "hugged"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 515,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0043,
+      "lowZipfWords": [
+        "robbers",
+        "sandals"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 718,
+      "sentLenMedian": 12,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0136,
+      "lowZipfWords": [
+        "bull's",
+        "robber",
+        "robbers",
+        "sandals",
+        "unroll",
+        "wept",
+        "whispered",
+        "wrestled"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 958,
+      "sentLenMedian": 14.5,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0133,
+      "lowZipfWords": [
+        "craftsman",
+        "heaved",
+        "hillside",
+        "robbers",
+        "sandals",
+        "starlight",
+        "trembled",
+        "unwinding",
+        "weeping",
+        "wept",
+        "whispered"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1309,
+      "sentLenMedian": 24,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0334,
+      "lowZipfWords": [
+        "bellowing",
+        "boyhood",
+        "bull's",
+        "captives",
+        "carve",
+        "craftsman",
+        "crept",
+        "cunning",
+        "doorpost",
+        "dwelt",
+        "echoed",
+        "faithfully",
+        "fasten",
+        "feasting",
+        "forked",
+        "gazing",
+        "gladness",
+        "hilt",
+        "hoist",
+        "huts",
+        "immovable",
+        "kneeling",
+        "leaned",
+        "overcame",
+        "perilous",
+        "quarrels",
+        "retraced",
+        "robbers",
+        "sandals",
+        "shepherds",
+        "speck",
+        "trembling",
+        "uneasy",
+        "unjust",
+        "untouched",
+        "unwind",
+        "weeping",
+        "wept",
+        "whispered"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8328,
+      "wordCount": 329,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sails(6)",
+        "king(5)",
+        "stone(4)",
+        "sword(3)",
+        "ship(3)",
+        "thread(3)",
+        "tall(1)",
+        "lift(1)",
+        "lifted(1)",
+        "lay(1)",
+        "gold(1)",
+        "shoes(1)",
+        "road(1)",
+        "beat(1)",
+        "son(1)",
+        "cried(1)",
+        "hugged(1)",
+        "sad(1)",
+        "secret(1)",
+        "boys(1)",
+        "monster(1)",
+        "bull(1)",
+        "daughter(1)",
+        "brave(1)",
+        "ball(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8874,
+      "wordCount": 515,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "king(6)",
+        "sails(5)",
+        "stone(4)",
+        "sword(4)",
+        "thread(4)",
+        "ship(2)",
+        "sailed(2)",
+        "paths(2)",
+        "monster(2)",
+        "tall(1)",
+        "hill(1)",
+        "lift(1)",
+        "lifted(1)",
+        "bronze(1)",
+        "gold(1)",
+        "sandals(1)",
+        "dangerous(1)",
+        "wicked(1)",
+        "robbers(1)",
+        "everywhere(1)",
+        "brave(1)",
+        "palace(1)",
+        "tears(1)",
+        "cried(1)",
+        "bull(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.929,
+      "wordCount": 718,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sword(5)",
+        "thread(5)",
+        "sails(3)",
+        "bronze(2)",
+        "sandals(2)",
+        "joy(2)",
+        "sorrow(2)",
+        "monster(2)",
+        "sailed(2)",
+        "whenever(1)",
+        "wrestled(1)",
+        "underneath(1)",
+        "golden(1)",
+        "robbers(1)",
+        "brave(1)",
+        "deeds(1)",
+        "wicked(1)",
+        "robber(1)",
+        "strangers(1)",
+        "lonely(1)",
+        "feast(1)",
+        "palace(1)",
+        "tight(1)",
+        "wept(1)",
+        "prince(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9468,
+      "wordCount": 958,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "thread(5)",
+        "sword(4)",
+        "bronze(2)",
+        "robbers(2)",
+        "palace(2)",
+        "grief(2)",
+        "maze(2)",
+        "cliffs(2)",
+        "wrestling(1)",
+        "hillside(1)",
+        "moss(1)",
+        "heaved(1)",
+        "sandals(1)",
+        "begged(1)",
+        "beasts(1)",
+        "fame(1)",
+        "cruel(1)",
+        "wicked(1)",
+        "feast(1)",
+        "weeping(1)",
+        "clever(1)",
+        "craftsman(1)",
+        "monster(1)",
+        "bull(1)",
+        "wept(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9228,
+      "wordCount": 1309,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "thread(5)",
+        "sword(4)",
+        "cliff(3)",
+        "shepherds(2)",
+        "bronze(2)",
+        "hilt(2)",
+        "begged(2)",
+        "robbers(2)",
+        "cruel(2)",
+        "grief(2)",
+        "prince(2)",
+        "throne(2)",
+        "palace(2)",
+        "tribute(2)",
+        "maze(2)",
+        "voyage(2)",
+        "boyhood(1)",
+        "restless(1)",
+        "eager(1)",
+        "wrestling(1)",
+        "monsters(1)",
+        "moss(1)",
+        "hollow(1)",
+        "sandals(1)",
+        "untouched(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "sword": 25,
+      "died": 7,
+      "die": 1,
+      "dead": 1
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.038,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0192",
+        "title": "The Voyages of Sinbad (tek sefer)",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.038,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

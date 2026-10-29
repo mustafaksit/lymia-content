@@ -1,0 +1,695 @@
+{
+  "id": "st-0321",
+  "title": "The Princess and the Goblin",
+  "ts": "2026-10-29T21:45:38",
+  "node": {
+    "id": "st-0321",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %79.5 | 327 kelime\n    havuz dışı: princess(2), mountain(4), nurse(1), king(2), goblins(10), ugly(1), hated(2), sun(1), soft(2), feet(2), songs(1), rainy(1), stairs(1), beautiful(1), lady(3), hair(1), grandmother(1), suddenly(1), path(1), boy(2), sang(1), song(1), miner(1), miners(2), rocks(1), prince's(1), flood(1), caught(1), shut(1), cave(1), ring(2), thin(1), thread(3), stones(2), pulled(1), jumped(1), cried(1), hopped(1), soldiers(1), wall(1), goblins'(1), deep(1)",
+        "level A2: A2: KALDI | kapsam %84.9 | 516 kelime\n    havuz dışı: princess(2), mountain(6), nurse(1), king(3), rode(2), goblins(10), caves(2), hated(2), sun(3), soft(2), rainy(1), stairs(1), climbed(1), lady(4), spinning(1), wheel(1), grandmother(1), strange(1), path(1), loud(1), hurried(1), safely(1), goblin(2), hall(1), prince(1), shut(1), cave(1), thin(1), thread(6), ball(1), afraid(1), pile(1), stones(2), miner's(1), jumped(1), cried(1), hopped(1), soldiers(1), chased(1), safe(1), underground(1), miners(1), rushed(1), goblins'(1), palace(1)",
+        "level B1: B1: KALDI | kapsam %90.9 | 718 kelime\n    havuz dışı: princess(2), caves(1), tunnels(2), goblins(10), sunshine(1), underground(3), ugly(1), rainy(1), wandering(1), staircase(1), spinning(1), pigeons(1), cooing(1), silver(1), grandmother(1), creatures(2), terribly(1), frightened(1), cheerful(1), beside(1), gate(1), goblin(3), prince(1), dig(1), miners'(1), stamped(2), queen's(1), loudly(1), cave(1), thread(6), spider's(1), web(1), heap(1), goblins'(2), howled(1), hopped(1), chased(1), loose(1), miners(1), poured(1), palace(1), grandmother's(1)",
+        "level B2: B2: KALDI | kapsam %93.0 | 988 kelime\n    havuz dışı: princess(5), kingdom(1), halfway(1), miners(2), sunlit(1), caves(1), goblins(10), cheerful(1), rhyme(1), sunshine(1), staircase(1), pigeons(1), murmured(1), ledge(1), downstairs(1), afterwards(2), creep(1), seized(1), terror(1), fled(1), goblin(2), tunnel(1), underground(2), miners'(1), tunnels(2), crept(1), queen's(1), shriek(1), cave(1), thread(6), fastened(1), hillside(1), heap(1), sore(1), squeeze(1), starlight(1), disappointment(1), attic(1), straw(1), tub(1), miner's(1), dashed(1), howled(1), hopped(1), cottage(1), goblins'(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.7951,
+        "wordCount": 327,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "goblins(10)",
+          "mountain(4)",
+          "lady(3)",
+          "thread(3)",
+          "princess(2)",
+          "king(2)",
+          "hated(2)",
+          "soft(2)",
+          "feet(2)",
+          "boy(2)",
+          "miners(2)",
+          "ring(2)",
+          "stones(2)",
+          "nurse(1)",
+          "ugly(1)",
+          "sun(1)",
+          "songs(1)",
+          "rainy(1)",
+          "stairs(1)",
+          "beautiful(1)",
+          "hair(1)",
+          "grandmother(1)",
+          "suddenly(1)",
+          "path(1)",
+          "sang(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8488,
+        "wordCount": 516,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "goblins(10)",
+          "mountain(6)",
+          "thread(6)",
+          "lady(4)",
+          "king(3)",
+          "sun(3)",
+          "princess(2)",
+          "rode(2)",
+          "caves(2)",
+          "hated(2)",
+          "soft(2)",
+          "goblin(2)",
+          "stones(2)",
+          "nurse(1)",
+          "rainy(1)",
+          "stairs(1)",
+          "climbed(1)",
+          "spinning(1)",
+          "wheel(1)",
+          "grandmother(1)",
+          "strange(1)",
+          "path(1)",
+          "loud(1)",
+          "hurried(1)",
+          "safely(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9095,
+        "wordCount": 718,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "goblins(10)",
+          "thread(6)",
+          "underground(3)",
+          "goblin(3)",
+          "princess(2)",
+          "tunnels(2)",
+          "creatures(2)",
+          "stamped(2)",
+          "goblins'(2)",
+          "caves(1)",
+          "sunshine(1)",
+          "ugly(1)",
+          "rainy(1)",
+          "wandering(1)",
+          "staircase(1)",
+          "spinning(1)",
+          "pigeons(1)",
+          "cooing(1)",
+          "silver(1)",
+          "grandmother(1)",
+          "terribly(1)",
+          "frightened(1)",
+          "cheerful(1)",
+          "beside(1)",
+          "gate(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9302,
+        "wordCount": 988,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "goblins(10)",
+          "thread(6)",
+          "princess(5)",
+          "miners(2)",
+          "afterwards(2)",
+          "goblin(2)",
+          "underground(2)",
+          "tunnels(2)",
+          "kingdom(1)",
+          "halfway(1)",
+          "sunlit(1)",
+          "caves(1)",
+          "cheerful(1)",
+          "rhyme(1)",
+          "sunshine(1)",
+          "staircase(1)",
+          "pigeons(1)",
+          "murmured(1)",
+          "ledge(1)",
+          "downstairs(1)",
+          "creep(1)",
+          "seized(1)",
+          "terror(1)",
+          "fled(1)",
+          "tunnel(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9088,
+        "wordCount": 1469,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "princess(9)",
+          "goblins(8)",
+          "thread(6)",
+          "goblin(3)",
+          "tunnels(3)",
+          "heap(3)",
+          "rainy(2)",
+          "staircase(2)",
+          "miner's(2)",
+          "cavern(2)",
+          "underground(2)",
+          "miners'(2)",
+          "halfway(1)",
+          "rambling(1)",
+          "realm(1)",
+          "sunset(1)",
+          "clattering(1)",
+          "horsemen(1)",
+          "quarrelled(1)",
+          "withdrawn(1)",
+          "hollows(1)",
+          "squat(1)",
+          "peculiar(1)",
+          "skulls(1)",
+          "granite(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "Her",
+          "ctx": "ene. Her nurse, Lootie, lived with her. Her father was the king. Irene called him K"
+        },
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "They",
+          "ctx": "sun. They had hard heads but soft feet. They hated songs, too.  On a rainy day, Iren"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "Her",
+          "ctx": "d. Her nurse, Lootie, looked after her. Her father was the king, and he lived far a"
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": " child had been dreaming. For many days afterwards Irene could not find the stairs again. "
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": " \"Never mind,\" her grandmother told her afterwards. \"He will understand one day.\"  Curdie "
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "the next morning, and for many mornings afterwards, she simply could not find it.  One fin"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 327,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0105,
+      "lowZipfWords": [
+        "goblins'",
+        "hopped",
+        "prince's"
+      ],
+      "keyTermTokens": 10,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 516,
+      "sentLenMedian": 8,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0085,
+      "lowZipfWords": [
+        "goblins'",
+        "hopped",
+        "hurried",
+        "miner's"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 718,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.0149,
+      "lowZipfWords": [
+        "cooing",
+        "finer",
+        "goblins'",
+        "grandmother's",
+        "hopped",
+        "howled",
+        "pigeons",
+        "spider's",
+        "warmly"
+      ],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 988,
+      "sentLenMedian": 15,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0203,
+      "lowZipfWords": [
+        "crept",
+        "dashed",
+        "fastened",
+        "goblins'",
+        "grandmother's",
+        "hillside",
+        "hopped",
+        "howled",
+        "lady's",
+        "ledge",
+        "miner's",
+        "murmured",
+        "pigeons",
+        "shriek",
+        "stamping",
+        "starlight",
+        "sunlit",
+        "walled",
+        "wandered"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1469,
+      "sentLenMedian": 24.0,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0423,
+      "lowZipfWords": [
+        "aching",
+        "astonished",
+        "cavern",
+        "chattering",
+        "cherished",
+        "clattering",
+        "clumsy",
+        "clutched",
+        "cooed",
+        "crept",
+        "defiantly",
+        "dismal",
+        "dismay",
+        "dusk",
+        "echoed",
+        "escorted",
+        "fastened",
+        "flung",
+        "fright",
+        "gasping",
+        "goblins'",
+        "grandmother's",
+        "grandmothers",
+        "grudge",
+        "heaved",
+        "hillside",
+        "hollows",
+        "hopping",
+        "horsemen",
+        "humming",
+        "invaders",
+        "miner's",
+        "musty",
+        "nurse's",
+        "perched",
+        "pigeons",
+        "puzzled",
+        "quarrelled",
+        "rambling",
+        "scatter",
+        "screech",
+        "scuffle",
+        "sill",
+        "skulls",
+        "smoky",
+        "snatched",
+        "squat",
+        "stamping",
+        "strayed",
+        "swarm",
+        "thickened",
+        "toeless",
+        "torches",
+        "tumbling",
+        "twisting",
+        "walled",
+        "wandered",
+        "yelped"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.7951,
+      "wordCount": 327,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "goblins(10)",
+        "mountain(4)",
+        "lady(3)",
+        "thread(3)",
+        "princess(2)",
+        "king(2)",
+        "hated(2)",
+        "soft(2)",
+        "feet(2)",
+        "boy(2)",
+        "miners(2)",
+        "ring(2)",
+        "stones(2)",
+        "nurse(1)",
+        "ugly(1)",
+        "sun(1)",
+        "songs(1)",
+        "rainy(1)",
+        "stairs(1)",
+        "beautiful(1)",
+        "hair(1)",
+        "grandmother(1)",
+        "suddenly(1)",
+        "path(1)",
+        "sang(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8488,
+      "wordCount": 516,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "goblins(10)",
+        "mountain(6)",
+        "thread(6)",
+        "lady(4)",
+        "king(3)",
+        "sun(3)",
+        "princess(2)",
+        "rode(2)",
+        "caves(2)",
+        "hated(2)",
+        "soft(2)",
+        "goblin(2)",
+        "stones(2)",
+        "nurse(1)",
+        "rainy(1)",
+        "stairs(1)",
+        "climbed(1)",
+        "spinning(1)",
+        "wheel(1)",
+        "grandmother(1)",
+        "strange(1)",
+        "path(1)",
+        "loud(1)",
+        "hurried(1)",
+        "safely(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9095,
+      "wordCount": 718,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "goblins(10)",
+        "thread(6)",
+        "underground(3)",
+        "goblin(3)",
+        "princess(2)",
+        "tunnels(2)",
+        "creatures(2)",
+        "stamped(2)",
+        "goblins'(2)",
+        "caves(1)",
+        "sunshine(1)",
+        "ugly(1)",
+        "rainy(1)",
+        "wandering(1)",
+        "staircase(1)",
+        "spinning(1)",
+        "pigeons(1)",
+        "cooing(1)",
+        "silver(1)",
+        "grandmother(1)",
+        "terribly(1)",
+        "frightened(1)",
+        "cheerful(1)",
+        "beside(1)",
+        "gate(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9302,
+      "wordCount": 988,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "goblins(10)",
+        "thread(6)",
+        "princess(5)",
+        "miners(2)",
+        "afterwards(2)",
+        "goblin(2)",
+        "underground(2)",
+        "tunnels(2)",
+        "kingdom(1)",
+        "halfway(1)",
+        "sunlit(1)",
+        "caves(1)",
+        "cheerful(1)",
+        "rhyme(1)",
+        "sunshine(1)",
+        "staircase(1)",
+        "pigeons(1)",
+        "murmured(1)",
+        "ledge(1)",
+        "downstairs(1)",
+        "creep(1)",
+        "seized(1)",
+        "terror(1)",
+        "fled(1)",
+        "tunnel(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9088,
+      "wordCount": 1469,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "princess(9)",
+        "goblins(8)",
+        "thread(6)",
+        "goblin(3)",
+        "tunnels(3)",
+        "heap(3)",
+        "rainy(2)",
+        "staircase(2)",
+        "miner's(2)",
+        "cavern(2)",
+        "underground(2)",
+        "miners'(2)",
+        "halfway(1)",
+        "rambling(1)",
+        "realm(1)",
+        "sunset(1)",
+        "clattering(1)",
+        "horsemen(1)",
+        "quarrelled(1)",
+        "withdrawn(1)",
+        "hollows(1)",
+        "squat(1)",
+        "peculiar(1)",
+        "skulls(1)",
+        "granite(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.333,
+      "summary3gramJaccard": 0.042,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0172",
+        "title": "The Princess and the Pea",
+        "titleJaccard": 0.333,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0233",
+        "title": "A Little Princess (tek epizod)",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0144",
+        "title": "The Celebrated Jumping Frog",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.042,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

@@ -1,0 +1,640 @@
+{
+  "id": "st-0310",
+  "title": "Micromegas",
+  "ts": "2026-10-29T21:45:26",
+  "node": {
+    "id": "st-0310",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %84.5 | 330 kelime\n    havuz dışı: star(3), giant(1), miles(1), tall(3), animals(1), leaders(1), hated(1), flew(1), mile(2), wise(3), giants(4), traveled(1), jumped(1), onto(1), ring(1), mars(1), tiny(2), quickly(1), sea(1), knees(1), necklace(1), diamonds(1), microscopes(1), diamond(1), whale(1), ship(3), thumb(1), tube(1), fingernail(1), measured(1), amazing(1), soul(1), hat(1), laughed(2), smiled(1), page(1), empty(1)",
+        "level A2: A2: KALDI | kapsam %88.5 | 566 kelime\n    havuz dışı: giant(1), planet(4), bright(1), tall(3), clever(2), tiny(3), insects(1), sunbeams(1), comets(1), planet's(1), jumped(1), onto(2), moons(1), travelers(1), knees(1), ugly(1), diamond(1), necklace(1), diamonds(1), microscopes(1), whale(1), ship(4), thumbnail(1), afraid(1), scientists(3), north(1), tube(1), fingernail(1), giants(4), tools(1), amazed(1), scientist(2), shook(1), foolish(1), kings(1), heap(1), mud(1), heel(1), soul(1), square(1), cap(1), planets(1), pocket(1), scholar(2), empty(1), ah(1)",
+        "level B1: B1: KALDI | kapsam %93.6 | 822 kelime\n    havuz dışı: planet(4), giant(2), brilliant(1), insects(1), unhappy(1), sunbeams(1), comets(1), dwarfs(1), wise(1), planet's(1), clever(1), thinkers(1), hopped(1), moon(2), shore(1), fifth(1), travelers(1), knees(1), heel(2), string(1), diamond(1), necklace(1), diamonds(1), microscopes(1), whale(1), sailing(1), gently(1), thumbnail(1), fingernail(1), tube(2), creatures(1), foolish(2), heap(1), mud(1), giants(3), honestly(1), scholar(1), cap(1), loudly(1), planets(1), wisdom(1), excitement(1), blank(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8455,
+        "wordCount": 330,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "giants(4)",
+          "star(3)",
+          "tall(3)",
+          "wise(3)",
+          "ship(3)",
+          "mile(2)",
+          "tiny(2)",
+          "laughed(2)",
+          "giant(1)",
+          "miles(1)",
+          "animals(1)",
+          "leaders(1)",
+          "hated(1)",
+          "flew(1)",
+          "traveled(1)",
+          "jumped(1)",
+          "onto(1)",
+          "ring(1)",
+          "mars(1)",
+          "quickly(1)",
+          "sea(1)",
+          "knees(1)",
+          "necklace(1)",
+          "diamonds(1)",
+          "microscopes(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8852,
+        "wordCount": 566,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "planet(4)",
+          "ship(4)",
+          "giants(4)",
+          "tall(3)",
+          "tiny(3)",
+          "scientists(3)",
+          "clever(2)",
+          "onto(2)",
+          "scientist(2)",
+          "scholar(2)",
+          "giant(1)",
+          "bright(1)",
+          "insects(1)",
+          "sunbeams(1)",
+          "comets(1)",
+          "planet's(1)",
+          "jumped(1)",
+          "moons(1)",
+          "travelers(1)",
+          "knees(1)",
+          "ugly(1)",
+          "diamond(1)",
+          "necklace(1)",
+          "diamonds(1)",
+          "microscopes(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9355,
+        "wordCount": 822,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "planet(4)",
+          "giants(3)",
+          "giant(2)",
+          "moon(2)",
+          "heel(2)",
+          "tube(2)",
+          "foolish(2)",
+          "brilliant(1)",
+          "insects(1)",
+          "unhappy(1)",
+          "sunbeams(1)",
+          "comets(1)",
+          "dwarfs(1)",
+          "wise(1)",
+          "planet's(1)",
+          "clever(1)",
+          "thinkers(1)",
+          "hopped(1)",
+          "shore(1)",
+          "fifth(1)",
+          "travelers(1)",
+          "knees(1)",
+          "string(1)",
+          "diamond(1)",
+          "necklace(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.965,
+        "wordCount": 1030,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "thumbnail(2)",
+          "heap(2)",
+          "mud(2)",
+          "insects(1)",
+          "condemned(1)",
+          "cheered(1)",
+          "exile(1)",
+          "sunbeam(1)",
+          "comet(1)",
+          "dwarfs(1)",
+          "mocked(1)",
+          "clever(1)",
+          "philosophers(1)",
+          "mars(1)",
+          "fifth(1)",
+          "puddle(1)",
+          "necklace(1)",
+          "diamonds(1)",
+          "microscopes(1)",
+          "fingertip(1)",
+          "whale(1)",
+          "speck(1)",
+          "trimmed(1)",
+          "fingernail(1)",
+          "astonished(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9388,
+        "wordCount": 1308,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "philosophers(2)",
+          "heel(2)",
+          "thumbnail(2)",
+          "orbiting(1)",
+          "unremarkable(1)",
+          "geometry(1)",
+          "lifetime(1)",
+          "insects(1)",
+          "invisible(1)",
+          "fiercely(1)",
+          "condemned(1)",
+          "banished(1)",
+          "exile(1)",
+          "sunbeam(1)",
+          "hitching(1)",
+          "comet(1)",
+          "inhabitants(1)",
+          "impulse(1)",
+          "dwarfs(1)",
+          "worthy(1)",
+          "befriended(1)",
+          "agreeable(1)",
+          "restlessness(1)",
+          "leapt(1)",
+          "hopped(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "a whale, smaller than a crumb. Not long afterwards, Micromegas spotted something smaller s"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 330,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0033,
+      "lowZipfWords": [
+        "fingernail"
+      ],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 566,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.0114,
+      "lowZipfWords": [
+        "comets",
+        "fingernail",
+        "moons",
+        "planet's",
+        "sunbeams",
+        "thumbnail"
+      ],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 822,
+      "sentLenMedian": 12.0,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0103,
+      "lowZipfWords": [
+        "comets",
+        "dwarfs",
+        "fingernail",
+        "hopped",
+        "planet's",
+        "sunbeams",
+        "thinkers",
+        "thumbnail"
+      ],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1030,
+      "sentLenMedian": 15,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0193,
+      "lowZipfWords": [
+        "astonished",
+        "cheered",
+        "dwarfs",
+        "eagerly",
+        "fingernail",
+        "fingertip",
+        "giant's",
+        "mocked",
+        "moons",
+        "planet's",
+        "puddle",
+        "speck",
+        "sunbeam",
+        "thumbnail",
+        "tinier",
+        "trimmed",
+        "unkind",
+        "wisest"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1308,
+      "sentLenMedian": 19,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0364,
+      "lowZipfWords": [
+        "agreeable",
+        "astronomers",
+        "banished",
+        "befriended",
+        "crumb",
+        "dampened",
+        "delicacy",
+        "differed",
+        "doubted",
+        "dumbfounded",
+        "dwarfs",
+        "eagerness",
+        "fiercely",
+        "fingernail",
+        "fingertip",
+        "folly",
+        "gasping",
+        "giant's",
+        "hitching",
+        "hopped",
+        "humankind",
+        "indignant",
+        "leapt",
+        "lingered",
+        "longed",
+        "lumpy",
+        "moons",
+        "orbiting",
+        "peering",
+        "planet's",
+        "puddle",
+        "restlessness",
+        "scarcely",
+        "scattering",
+        "scurry",
+        "sliver",
+        "specks",
+        "sunbeam",
+        "thumbnail",
+        "trembling",
+        "trimmed",
+        "tumbled",
+        "unremarkable",
+        "wisest"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8455,
+      "wordCount": 330,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "giants(4)",
+        "star(3)",
+        "tall(3)",
+        "wise(3)",
+        "ship(3)",
+        "mile(2)",
+        "tiny(2)",
+        "laughed(2)",
+        "giant(1)",
+        "miles(1)",
+        "animals(1)",
+        "leaders(1)",
+        "hated(1)",
+        "flew(1)",
+        "traveled(1)",
+        "jumped(1)",
+        "onto(1)",
+        "ring(1)",
+        "mars(1)",
+        "quickly(1)",
+        "sea(1)",
+        "knees(1)",
+        "necklace(1)",
+        "diamonds(1)",
+        "microscopes(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8852,
+      "wordCount": 566,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "planet(4)",
+        "ship(4)",
+        "giants(4)",
+        "tall(3)",
+        "tiny(3)",
+        "scientists(3)",
+        "clever(2)",
+        "onto(2)",
+        "scientist(2)",
+        "scholar(2)",
+        "giant(1)",
+        "bright(1)",
+        "insects(1)",
+        "sunbeams(1)",
+        "comets(1)",
+        "planet's(1)",
+        "jumped(1)",
+        "moons(1)",
+        "travelers(1)",
+        "knees(1)",
+        "ugly(1)",
+        "diamond(1)",
+        "necklace(1)",
+        "diamonds(1)",
+        "microscopes(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9355,
+      "wordCount": 822,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "planet(4)",
+        "giants(3)",
+        "giant(2)",
+        "moon(2)",
+        "heel(2)",
+        "tube(2)",
+        "foolish(2)",
+        "brilliant(1)",
+        "insects(1)",
+        "unhappy(1)",
+        "sunbeams(1)",
+        "comets(1)",
+        "dwarfs(1)",
+        "wise(1)",
+        "planet's(1)",
+        "clever(1)",
+        "thinkers(1)",
+        "hopped(1)",
+        "shore(1)",
+        "fifth(1)",
+        "travelers(1)",
+        "knees(1)",
+        "string(1)",
+        "diamond(1)",
+        "necklace(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.965,
+      "wordCount": 1030,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "thumbnail(2)",
+        "heap(2)",
+        "mud(2)",
+        "insects(1)",
+        "condemned(1)",
+        "cheered(1)",
+        "exile(1)",
+        "sunbeam(1)",
+        "comet(1)",
+        "dwarfs(1)",
+        "mocked(1)",
+        "clever(1)",
+        "philosophers(1)",
+        "mars(1)",
+        "fifth(1)",
+        "puddle(1)",
+        "necklace(1)",
+        "diamonds(1)",
+        "microscopes(1)",
+        "fingertip(1)",
+        "whale(1)",
+        "speck(1)",
+        "trimmed(1)",
+        "fingernail(1)",
+        "astonished(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9388,
+      "wordCount": 1308,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "philosophers(2)",
+        "heel(2)",
+        "thumbnail(2)",
+        "orbiting(1)",
+        "unremarkable(1)",
+        "geometry(1)",
+        "lifetime(1)",
+        "insects(1)",
+        "invisible(1)",
+        "fiercely(1)",
+        "condemned(1)",
+        "banished(1)",
+        "exile(1)",
+        "sunbeam(1)",
+        "hitching(1)",
+        "comet(1)",
+        "inhabitants(1)",
+        "impulse(1)",
+        "dwarfs(1)",
+        "worthy(1)",
+        "befriended(1)",
+        "agreeable(1)",
+        "restlessness(1)",
+        "leapt(1)",
+        "hopped(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

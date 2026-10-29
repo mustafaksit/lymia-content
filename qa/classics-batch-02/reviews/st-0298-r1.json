@@ -1,0 +1,61 @@
+{
+  "id": "st-0298",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Bingley danced with Jane two times.\" is acceptable at A1, but \"twice\" is what a native author would normally write.",
+        "\"But Lydia talked, and Elizabeth learned the truth.\" is a little vague. \"But Lydia told Elizabeth a secret, and Elizabeth learned the truth.\" would read more clearly.",
+        "\"Darcy was there too, at his aunt's house.\" can make it sound as if Charlotte lives at Darcy's aunt's house. \"Darcy was nearby too, at his aunt's house.\" is clearer."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "But Darcy looked at her bright eyes and said nothing.",
+          "problem": "The 'But ... said nothing' contrast has nothing to contrast with. The text never says that anyone else talked about Elizabeth or laughed at her (in the original, Bingley's sisters mock her muddy clothes). A reader will ask: but what, and why does it matter that he said nothing?",
+          "fix": "Add the missing contrast before it: \"Bingley's sisters laughed at her dirty dress. But Darcy looked at her bright eyes and said nothing.\""
+        }
+      ],
+      "notes": [
+        "\"In his eyes, Jane did not really love Bingley.\" A learner at A2 may read 'in his eyes' literally. Consider \"Darcy wrote that he truly believed Jane did not love Bingley.\"",
+        "\"'Go and dance with Elizabeth,' Bingley told him.\" Inside this paragraph 'him' has no clear antecedent; \"Bingley told Darcy\" is clearer."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Darcy saved his friend Bingley from an unwise marriage\" names Bingley, so 'Elizabeth understood at once that the lady was Jane' is fine. Saying 'a friend' and letting Elizabeth work out who it was would better match the original and the other levels.",
+        "\"Darcy, however, was thinking about her bright, intelligent eyes.\" The contrast works through the 'muddy fields', but it would be stronger to mention that Bingley's sisters mocked her, as B2 and C1 do."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "He had asked that no one should ever be told.",
+          "problem": "Quiz question 3 asks why Darcy wanted his help kept secret, and the keyed answer is 'He did not want thanks for what he did.' The B2 text gives no reason at all, and unlike A2 and B1 it does not even say he did it for Elizabeth. The keyed answer cannot be found in the text, and 'He was ashamed of Lydia' looks just as defensible to a reader.",
+          "fix": "\"He had asked that no one should ever be told, because he wanted no thanks for what he had done.\""
+        }
+      ],
+      "notes": [
+        "Spelling is mixed across the story: B1 and C1 use 'travelled', B2 uses 'traveled', and 'favorite' appears in B2 and C1. Pick one spelling convention."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Mixed British and American spelling ('travelled' next to 'realizing' and 'favorite'). Pick one convention."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is faithful to Austen at every level: the entail, the Meryton ball, Collins and Charlotte, Wickham's lie, the Hunsford proposal and letter, Pemberley, Lydia's elopement, and Lady Catherine's visit leading to the second proposal. It is suitable for a 4+ rating, and C1 is genuinely literary. Two concrete problems remain: in A2, 'But ... said nothing' has nothing to contrast with because the sisters' mockery is left out, and in B2 the keyed answer to quiz question 3 has no support in the text."
+}

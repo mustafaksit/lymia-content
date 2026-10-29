@@ -1,0 +1,54 @@
+{
+  "id": "st-0316",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "Her father made a plan. His men must take him away at night.",
+          "problem": "'must' in the middle of a past-tense story reads as a present-tense order with no speaker. A native children's author would not write this, and an A1 reader cannot tell who decides this or when it happens.",
+          "fix": "Her father made a plan. He told his men to take the tailor away at night."
+        }
+      ],
+      "notes": [
+        "\"I got seven at one blow!\" uses 'got' in its colloquial sense of 'hit'. A1 readers mostly know 'got' as 'received'. \"I hit seven at one blow!\" is clearer, and the A2 text has the same wording.",
+        "The unicorn task ends at 'The horn went deep into the wood.' and never says the tailor caught it. This is acceptable condensing, but 'The tailor caught it.' would close the task."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"I got seven at one blow and beat two giants!\" could use 'hit' instead of 'got' for clarity.",
+        "The fight between the giants ends with them running away, not killing each other. This is a fine softening for 4+."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The text never says the tailor married the princess. 'the tailor became a king himself' and 'the young queen ... her husband' imply it. Adding 'married the princess and' would make it explicit.",
+        "Quiz 3 has the distractor 'The riders', but riders never appear in the B1 text. It is harmless, but 'The king's soldiers' would fit the text better."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'squeezed the soft cheese until the juice ran down': 'until the liquid ran out' would sound a little more natural for cheese."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'both giants fled to the far mountains, never to be seen there again': read literally, 'there' points to the mountains. 'never to be seen in that forest again' is unambiguous.",
+        "'the tailor came strolling through the forest towards the giants': the text never said the giants had gone out into the forest. 'when the giants went out into the forest, there came the tailor strolling towards them' would set this up."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows Grimm's tale closely at every level: flies, belt, cheese and bird, the oak and cherry tree tricks, the cave, the giants who fight each other, the unicorn and the boar in the chapel, and the sleep-talking ending. It softens the giants' deaths and the violence in ways suitable for 4+. All quizzes are keyed correctly. The only blocking problem is one unnatural modal sentence at A1 ('His men must take him away at night'). The rest are minor polish notes."
+}

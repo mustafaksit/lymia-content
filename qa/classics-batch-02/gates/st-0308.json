@@ -1,0 +1,637 @@
+{
+  "id": "st-0308",
+  "title": "Pollyanna",
+  "ts": "2026-10-29T21:45:24",
+  "node": {
+    "id": "st-0308",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %87.1 | 318 kelime\n    havuz dışı: dead(1), aunt(1), rich(2), smiled(1), hot(1), pictures(1), window(1), hills(1), kitchen(1), happy(1), taught(1), glad(3), doll(1), box(1), crutches(1), ill(1), hair(1), pretty(1), mirror(1), smile(1), alone(1), hill(1), sad(1), hurt(1), leg(1), can't(1), hit(1), street(1), legs(2), cried(2), forget(1), boy(1), argued(1), doctor(1), married(1), hospital(1)",
+        "level A2: A2: KALDI | kapsam %91.8 | 515 kelime\n    havuz dışı: rich(2), strict(1), maid(1), roof(1), mirror(3), i'm(1), glad(4), can't(3), freckles(1), doll(1), pair(1), crutches(1), supper(1), bread(2), milk(2), kitchen(1), punish(1), sick(1), complained(1), chicken(1), lamb(1), brushed(1), flower(1), hill(1), woods(1), hurt(1), leg(1), legs(2), cried(1), cry(1), proud(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8711,
+        "wordCount": 318,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "glad(3)",
+          "rich(2)",
+          "legs(2)",
+          "cried(2)",
+          "dead(1)",
+          "aunt(1)",
+          "smiled(1)",
+          "hot(1)",
+          "pictures(1)",
+          "window(1)",
+          "hills(1)",
+          "kitchen(1)",
+          "happy(1)",
+          "taught(1)",
+          "doll(1)",
+          "box(1)",
+          "crutches(1)",
+          "ill(1)",
+          "hair(1)",
+          "pretty(1)",
+          "mirror(1)",
+          "smile(1)",
+          "alone(1)",
+          "hill(1)",
+          "sad(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9184,
+        "wordCount": 515,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "glad(4)",
+          "mirror(3)",
+          "can't(3)",
+          "rich(2)",
+          "bread(2)",
+          "milk(2)",
+          "legs(2)",
+          "strict(1)",
+          "maid(1)",
+          "roof(1)",
+          "i'm(1)",
+          "freckles(1)",
+          "doll(1)",
+          "pair(1)",
+          "crutches(1)",
+          "supper(1)",
+          "kitchen(1)",
+          "punish(1)",
+          "sick(1)",
+          "complained(1)",
+          "chicken(1)",
+          "lamb(1)",
+          "brushed(1)",
+          "flower(1)",
+          "hill(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9609,
+        "wordCount": 818,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "mirror(3)",
+          "niece(2)",
+          "bread(2)",
+          "maid(1)",
+          "attic(1)",
+          "freckles(1)",
+          "puzzled(1)",
+          "doll(1)",
+          "crutches(1)",
+          "supper(1)",
+          "punishment(1)",
+          "jelly(1)",
+          "chicken(1)",
+          "lamb(1)",
+          "brushed(1)",
+          "pink(1)",
+          "knitting(1)",
+          "loneliest(1)",
+          "lying(1)",
+          "unfriendly(1)",
+          "begged(1)",
+          "can't(1)",
+          "lonely(1)",
+          "upstairs(1)",
+          "niece's(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9658,
+        "wordCount": 1141,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "i'm(3)",
+          "niece(2)",
+          "can't(2)",
+          "begged(2)",
+          "lamb(2)",
+          "overheard(2)",
+          "upstairs(2)",
+          "bitterly(1)",
+          "forgiven(1)",
+          "lonely(1)",
+          "maid(1)",
+          "freckled(1)",
+          "attic(1)",
+          "bare(1)",
+          "gasped(1)",
+          "freckles(1)",
+          "doll(1)",
+          "crutches(1)",
+          "we've(1)",
+          "sunset(1)",
+          "supper(1)",
+          "punishment(1)",
+          "politely(1)",
+          "jelly(1)",
+          "astonished(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9372,
+        "wordCount": 1465,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "astonished(3)",
+          "bare(2)",
+          "i'm(2)",
+          "can't(2)",
+          "doll(2)",
+          "crutches(2)",
+          "pillow(2)",
+          "knitting(2)",
+          "begged(2)",
+          "sermon(2)",
+          "rejoicing(2)",
+          "orphan(1)",
+          "neatly(1)",
+          "penniless(1)",
+          "forgiven(1)",
+          "maid(1)",
+          "dreading(1)",
+          "mistress(1)",
+          "freckled(1)",
+          "flung(1)",
+          "mistook(1)",
+          "chattered(1)",
+          "handshake(1)",
+          "attic(1)",
+          "airless(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 318,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0037,
+      "lowZipfWords": [
+        "crutches"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 515,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.12,
+      "lowZipfRatio": 0.0068,
+      "lowZipfWords": [
+        "crutches",
+        "freckles",
+        "kinder"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 818,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.011,
+      "lowZipfWords": [
+        "crutches",
+        "freckles",
+        "knitting",
+        "loneliest",
+        "niece's",
+        "puzzled",
+        "quarreled",
+        "unfriendly"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1141,
+      "sentLenMedian": 17,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0154,
+      "lowZipfWords": [
+        "astonished",
+        "aunt's",
+        "bitterly",
+        "crutches",
+        "freckled",
+        "freckles",
+        "gardener",
+        "gasped",
+        "knitting",
+        "overheard",
+        "politely",
+        "quarrel",
+        "sobbed",
+        "strangest",
+        "telephoned"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1465,
+      "sentLenMedian": 23.0,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0415,
+      "lowZipfWords": [
+        "adored",
+        "airless",
+        "ajar",
+        "astonished",
+        "blinking",
+        "blurted",
+        "carelessly",
+        "chatter",
+        "chattered",
+        "confided",
+        "contrived",
+        "crept",
+        "crutches",
+        "darkened",
+        "dearly",
+        "dreading",
+        "enchanted",
+        "flung",
+        "freckled",
+        "freckles",
+        "gardener",
+        "grumble",
+        "halting",
+        "handshake",
+        "invariably",
+        "knitting",
+        "lain",
+        "mistook",
+        "neatly",
+        "orderly",
+        "outlived",
+        "overheard",
+        "patiently",
+        "penniless",
+        "quarrel",
+        "quarrelled",
+        "quarrelling",
+        "ragged",
+        "recluse",
+        "rejoicing",
+        "shyly",
+        "specialist's",
+        "startled",
+        "stifling",
+        "tearfully",
+        "trifle",
+        "undaunted",
+        "unhappiness",
+        "uninvited",
+        "wandered",
+        "wanderings",
+        "whispered"
+      ],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8711,
+      "wordCount": 318,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "glad(3)",
+        "rich(2)",
+        "legs(2)",
+        "cried(2)",
+        "dead(1)",
+        "aunt(1)",
+        "smiled(1)",
+        "hot(1)",
+        "pictures(1)",
+        "window(1)",
+        "hills(1)",
+        "kitchen(1)",
+        "happy(1)",
+        "taught(1)",
+        "doll(1)",
+        "box(1)",
+        "crutches(1)",
+        "ill(1)",
+        "hair(1)",
+        "pretty(1)",
+        "mirror(1)",
+        "smile(1)",
+        "alone(1)",
+        "hill(1)",
+        "sad(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9184,
+      "wordCount": 515,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "glad(4)",
+        "mirror(3)",
+        "can't(3)",
+        "rich(2)",
+        "bread(2)",
+        "milk(2)",
+        "legs(2)",
+        "strict(1)",
+        "maid(1)",
+        "roof(1)",
+        "i'm(1)",
+        "freckles(1)",
+        "doll(1)",
+        "pair(1)",
+        "crutches(1)",
+        "supper(1)",
+        "kitchen(1)",
+        "punish(1)",
+        "sick(1)",
+        "complained(1)",
+        "chicken(1)",
+        "lamb(1)",
+        "brushed(1)",
+        "flower(1)",
+        "hill(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9609,
+      "wordCount": 818,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "mirror(3)",
+        "niece(2)",
+        "bread(2)",
+        "maid(1)",
+        "attic(1)",
+        "freckles(1)",
+        "puzzled(1)",
+        "doll(1)",
+        "crutches(1)",
+        "supper(1)",
+        "punishment(1)",
+        "jelly(1)",
+        "chicken(1)",
+        "lamb(1)",
+        "brushed(1)",
+        "pink(1)",
+        "knitting(1)",
+        "loneliest(1)",
+        "lying(1)",
+        "unfriendly(1)",
+        "begged(1)",
+        "can't(1)",
+        "lonely(1)",
+        "upstairs(1)",
+        "niece's(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9658,
+      "wordCount": 1141,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "i'm(3)",
+        "niece(2)",
+        "can't(2)",
+        "begged(2)",
+        "lamb(2)",
+        "overheard(2)",
+        "upstairs(2)",
+        "bitterly(1)",
+        "forgiven(1)",
+        "lonely(1)",
+        "maid(1)",
+        "freckled(1)",
+        "attic(1)",
+        "bare(1)",
+        "gasped(1)",
+        "freckles(1)",
+        "doll(1)",
+        "crutches(1)",
+        "we've(1)",
+        "sunset(1)",
+        "supper(1)",
+        "punishment(1)",
+        "politely(1)",
+        "jelly(1)",
+        "astonished(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9372,
+      "wordCount": 1465,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "astonished(3)",
+        "bare(2)",
+        "i'm(2)",
+        "can't(2)",
+        "doll(2)",
+        "crutches(2)",
+        "pillow(2)",
+        "knitting(2)",
+        "begged(2)",
+        "sermon(2)",
+        "rejoicing(2)",
+        "orphan(1)",
+        "neatly(1)",
+        "penniless(1)",
+        "forgiven(1)",
+        "maid(1)",
+        "dreading(1)",
+        "mistress(1)",
+        "freckled(1)",
+        "flung(1)",
+        "mistook(1)",
+        "chattered(1)",
+        "handshake(1)",
+        "attic(1)",
+        "airless(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "dead": 3,
+      "died": 5,
+      "kiss": 2
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

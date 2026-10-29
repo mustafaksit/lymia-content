@@ -1,0 +1,648 @@
+{
+  "id": "st-0314",
+  "title": "Pandora's Box",
+  "ts": "2026-10-29T21:45:30",
+  "node": {
+    "id": "st-0314",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %81.8 | 330 kelime\n    havuz dışı: happy(1), sick(1), sad(2), sun(1), boy(1), box(10), dark(3), pretty(1), gold(2), string(2), knot(2), tired(1), pick(1), fruit(1), touched(2), suddenly(1), undone(1), voices(2), inside(1), ugly(1), flew(3), bugs(1), wings(2), stung(2), oh(1), hurts(1), cried(2), window(1), angry(1), unkind(1), floor(1), fault(1), soft(1), voice(1), smiling(1), rainbow(1), stings(1), pain(1)",
+        "level A2: A2: KALDI | kapsam %89.3 | 507 kelime\n    havuz dışı: sick(1), playmate(1), shiny(1), flowers(2), golden(2), cord(2), tight(1), knot(3), secret(1), cap(1), wings(3), safe(1), tired(1), figs(1), grapes(1), undone(1), oh(1), can't(1), tie(1), cried(3), tiny(1), dear(1), quietly(1), lifted(2), cloud(1), sun(1), ugly(1), bugs(1), stings(2), stung(2), forehead(1), cry(1), sadness(1), sickness(1), anger(1), corner(1), soft(1), tap(1), sweet(1), bright(1), rainbow(1), pain(1)",
+        "level B1: B1: KALDI | kapsam %92.9 | 665 kelime\n    havuz dışı: unhappy(1), sunshine(1), cottage(4), playmate(1), smooth(1), shiny(1), crown(1), golden(2), tight(1), clever(1), knot(3), cap(1), wings(3), snakes(1), figs(1), grapes(1), carved(1), whispering(1), begged(1), playmates(1), cloud(1), buzzing(1), ugly(1), creatures(1), sting(1), sadness(1), sickness(1), anger(1), stung(2), forehead(1), chase(1), quarrelling(1), gentle(1), tapping(1), can't(1), shone(1), rainbow(1), stings(1)",
+        "level B2: B2: KALDI | kapsam %94.8 | 960 kelime\n    havuz dışı: sadness(2), ripe(1), cure(1), quarrelled(1), lonely(1), playmate(1), polished(1), carved(2), peeping(1), handsome(1), garland(3), knot(3), clever(1), itched(1), merrily(1), snakes(1), bedtime(1), outdoors(1), figs(1), grapes(1), cottage(3), knelt(1), cheeky(1), murmuring(1), unkind(1), buzzing(1), swarm(1), sickness(1), sting(2), stung(2), forehead(1), quarrelling(1), drooped(1), sobbing(1), sulked(1), doubtfully(1), rainbow(1), stings(1), fingertips(1), stinging(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8182,
+        "wordCount": 330,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "box(10)",
+          "dark(3)",
+          "flew(3)",
+          "sad(2)",
+          "gold(2)",
+          "string(2)",
+          "knot(2)",
+          "touched(2)",
+          "voices(2)",
+          "wings(2)",
+          "stung(2)",
+          "cried(2)",
+          "happy(1)",
+          "sick(1)",
+          "sun(1)",
+          "boy(1)",
+          "pretty(1)",
+          "tired(1)",
+          "pick(1)",
+          "fruit(1)",
+          "suddenly(1)",
+          "undone(1)",
+          "inside(1)",
+          "ugly(1)",
+          "bugs(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8935,
+        "wordCount": 507,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "knot(3)",
+          "wings(3)",
+          "cried(3)",
+          "flowers(2)",
+          "golden(2)",
+          "cord(2)",
+          "lifted(2)",
+          "stings(2)",
+          "stung(2)",
+          "sick(1)",
+          "playmate(1)",
+          "shiny(1)",
+          "tight(1)",
+          "secret(1)",
+          "cap(1)",
+          "safe(1)",
+          "tired(1)",
+          "figs(1)",
+          "grapes(1)",
+          "undone(1)",
+          "oh(1)",
+          "can't(1)",
+          "tie(1)",
+          "tiny(1)",
+          "dear(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9293,
+        "wordCount": 665,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cottage(4)",
+          "knot(3)",
+          "wings(3)",
+          "golden(2)",
+          "stung(2)",
+          "unhappy(1)",
+          "sunshine(1)",
+          "playmate(1)",
+          "smooth(1)",
+          "shiny(1)",
+          "crown(1)",
+          "tight(1)",
+          "clever(1)",
+          "cap(1)",
+          "snakes(1)",
+          "figs(1)",
+          "grapes(1)",
+          "carved(1)",
+          "whispering(1)",
+          "begged(1)",
+          "playmates(1)",
+          "cloud(1)",
+          "buzzing(1)",
+          "ugly(1)",
+          "creatures(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9479,
+        "wordCount": 960,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "garland(3)",
+          "knot(3)",
+          "cottage(3)",
+          "sadness(2)",
+          "carved(2)",
+          "sting(2)",
+          "stung(2)",
+          "ripe(1)",
+          "cure(1)",
+          "quarrelled(1)",
+          "lonely(1)",
+          "playmate(1)",
+          "polished(1)",
+          "peeping(1)",
+          "handsome(1)",
+          "clever(1)",
+          "itched(1)",
+          "merrily(1)",
+          "snakes(1)",
+          "bedtime(1)",
+          "outdoors(1)",
+          "figs(1)",
+          "grapes(1)",
+          "knelt(1)",
+          "cheeky(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9241,
+        "wordCount": 1264,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cottage(3)",
+          "knot(3)",
+          "figs(2)",
+          "grapes(2)",
+          "carved(2)",
+          "garland(2)",
+          "vanished(2)",
+          "swarm(2)",
+          "sting(2)",
+          "stung(2)",
+          "flung(2)",
+          "sulking(2)",
+          "newborn(1)",
+          "grief(1)",
+          "ripe(1)",
+          "quarrelled(1)",
+          "crept(1)",
+          "sulk(1)",
+          "lonely(1)",
+          "playmate(1)",
+          "threshold(1)",
+          "polished(1)",
+          "playful(1)",
+          "peeping(1)",
+          "crowned(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 330,
+      "sentLenMedian": 6,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.017,
+      "lowZipfWords": [
+        "stings",
+        "stung",
+        "undone",
+        "unkind"
+      ],
+      "keyTermTokens": 10,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 507,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.015,
+      "lowZipfWords": [
+        "figs",
+        "playmate",
+        "stings",
+        "stung",
+        "undone"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 665,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.016,
+      "lowZipfWords": [
+        "figs",
+        "mustn't",
+        "playmate",
+        "playmates",
+        "quarrelling",
+        "shone",
+        "stings",
+        "stung",
+        "whispering"
+      ],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 960,
+      "sentLenMedian": 15.0,
+      "zipfMedian": 6.19,
+      "lowZipfRatio": 0.0295,
+      "lowZipfWords": [
+        "doubtfully",
+        "drooped",
+        "figs",
+        "fingertips",
+        "garland",
+        "itched",
+        "knelt",
+        "merrily",
+        "murmuring",
+        "mustn't",
+        "peeping",
+        "playmate",
+        "quarrelled",
+        "quarrelling",
+        "shone",
+        "sobbing",
+        "stinging",
+        "stings",
+        "stung",
+        "sulked",
+        "swarm",
+        "unkind",
+        "whispered"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1264,
+      "sentLenMedian": 20,
+      "zipfMedian": 6.15,
+      "lowZipfRatio": 0.0467,
+      "lowZipfWords": [
+        "alighted",
+        "amends",
+        "bewilderment",
+        "crept",
+        "darting",
+        "decidedly",
+        "droop",
+        "dusky",
+        "figs",
+        "fingertips",
+        "flung",
+        "fluttered",
+        "fluttering",
+        "garland",
+        "garlanded",
+        "gazing",
+        "glimmer",
+        "glimmered",
+        "gloom",
+        "grandly",
+        "kneeling",
+        "mischievous",
+        "murmur",
+        "murmured",
+        "muttered",
+        "neatly",
+        "peeping",
+        "playfellows",
+        "playmate",
+        "quarrelled",
+        "quarrels",
+        "sicknesses",
+        "sly",
+        "sobs",
+        "sorrows",
+        "squabbling",
+        "stinging",
+        "streamed",
+        "stung",
+        "sulk",
+        "sulking",
+        "swarm",
+        "sweetly",
+        "tiresome",
+        "undone",
+        "unkind",
+        "untied",
+        "weeping",
+        "whispered",
+        "whomever",
+        "winged"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8182,
+      "wordCount": 330,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "box(10)",
+        "dark(3)",
+        "flew(3)",
+        "sad(2)",
+        "gold(2)",
+        "string(2)",
+        "knot(2)",
+        "touched(2)",
+        "voices(2)",
+        "wings(2)",
+        "stung(2)",
+        "cried(2)",
+        "happy(1)",
+        "sick(1)",
+        "sun(1)",
+        "boy(1)",
+        "pretty(1)",
+        "tired(1)",
+        "pick(1)",
+        "fruit(1)",
+        "suddenly(1)",
+        "undone(1)",
+        "inside(1)",
+        "ugly(1)",
+        "bugs(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8935,
+      "wordCount": 507,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "knot(3)",
+        "wings(3)",
+        "cried(3)",
+        "flowers(2)",
+        "golden(2)",
+        "cord(2)",
+        "lifted(2)",
+        "stings(2)",
+        "stung(2)",
+        "sick(1)",
+        "playmate(1)",
+        "shiny(1)",
+        "tight(1)",
+        "secret(1)",
+        "cap(1)",
+        "safe(1)",
+        "tired(1)",
+        "figs(1)",
+        "grapes(1)",
+        "undone(1)",
+        "oh(1)",
+        "can't(1)",
+        "tie(1)",
+        "tiny(1)",
+        "dear(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9293,
+      "wordCount": 665,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cottage(4)",
+        "knot(3)",
+        "wings(3)",
+        "golden(2)",
+        "stung(2)",
+        "unhappy(1)",
+        "sunshine(1)",
+        "playmate(1)",
+        "smooth(1)",
+        "shiny(1)",
+        "crown(1)",
+        "tight(1)",
+        "clever(1)",
+        "cap(1)",
+        "snakes(1)",
+        "figs(1)",
+        "grapes(1)",
+        "carved(1)",
+        "whispering(1)",
+        "begged(1)",
+        "playmates(1)",
+        "cloud(1)",
+        "buzzing(1)",
+        "ugly(1)",
+        "creatures(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9479,
+      "wordCount": 960,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "garland(3)",
+        "knot(3)",
+        "cottage(3)",
+        "sadness(2)",
+        "carved(2)",
+        "sting(2)",
+        "stung(2)",
+        "ripe(1)",
+        "cure(1)",
+        "quarrelled(1)",
+        "lonely(1)",
+        "playmate(1)",
+        "polished(1)",
+        "peeping(1)",
+        "handsome(1)",
+        "clever(1)",
+        "itched(1)",
+        "merrily(1)",
+        "snakes(1)",
+        "bedtime(1)",
+        "outdoors(1)",
+        "figs(1)",
+        "grapes(1)",
+        "knelt(1)",
+        "cheeky(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9241,
+      "wordCount": 1264,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cottage(3)",
+        "knot(3)",
+        "figs(2)",
+        "grapes(2)",
+        "carved(2)",
+        "garland(2)",
+        "vanished(2)",
+        "swarm(2)",
+        "sting(2)",
+        "stung(2)",
+        "flung(2)",
+        "sulking(2)",
+        "newborn(1)",
+        "grief(1)",
+        "ripe(1)",
+        "quarrelled(1)",
+        "crept(1)",
+        "sulk(1)",
+        "lonely(1)",
+        "playmate(1)",
+        "threshold(1)",
+        "polished(1)",
+        "playful(1)",
+        "peeping(1)",
+        "crowned(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.042,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0211",
+        "title": "Goldilocks and the Three Bears",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.042,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

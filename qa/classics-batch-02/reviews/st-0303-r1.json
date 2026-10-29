@@ -1,0 +1,66 @@
+{
+  "id": "st-0303",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Then a man from the book shop came. \"This boy did not take it,\" he said. / The old man was Mr. Brownlow.",
+          "problem": "The last 'man' mentioned is the man from the book shop, so 'The old man was Mr. Brownlow' reads as if the book-shop man is Mr. Brownlow. At A1 the text never says the robbed old man is in the court, so learners will likely mix up the two men.",
+          "fix": "Start the last paragraph with: \"The old man from the street was there too. His name was Mr. Brownlow.\""
+        },
+        {
+          "criterion": "meaning drift",
+          "quote": "Every day they got one small bowl.",
+          "problem": "This says the children ate only one bowl a day. B2 and C1 (and the original) have thin porridge three times a day, so the levels contradict each other.",
+          "fix": "\"At every meal they got one small bowl.\""
+        }
+      ],
+      "notes": [
+        "Charley is named (\"Oliver went out with the Dodger and Charley.\") but never introduced. Consider \"Oliver went out with the Dodger and another boy, Charley.\"",
+        "Mr. Sowerberry appears without any setup after the dark room. Consider adding \"Then a man took Oliver away.\" or similar."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"They locked Oliver in the cellar and sent for Mr. Bumble. Early the next morning, Oliver opened the door and left.\" could suggest that he simply walked out of a locked cellar. Consider \"That night they let him out and he slept in the shop. Early the next morning...\"",
+        "Mr. Bumble is named without being introduced (\"he shouted for Mr. Bumble\"). Adding \"a man of the workhouse\" would help."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "Every day, each boy received one small bowl of thin porridge, and nothing more.",
+          "problem": "This states one bowl per day. B2 and C1 (and the original) have thin porridge three times a day, so this contradicts the other levels and the source.",
+          "fix": "\"At every meal, each boy received one small bowl of thin porridge, and nothing more.\""
+        }
+      ],
+      "notes": [
+        "\"the boy would end badly\" is slightly unidiomatic. \"would come to a bad end\" is the natural phrase and fits B1."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "B1 and B2 have Oliver faint on the court floor, while C1 has him faint 'on the stones outside'. Both are defensible from the original, but aligning them would be tidier."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Oliver, however, was beyond hearing it\" has a vague referent ('it' = the magistrate's ungracious release). Consider \"was beyond hearing any of it\".",
+        "\"filled with remorse\" is a little strong for Brownlow. \"filled with pity and some guilt\" may fit the original better. Taste only."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The story follows Dickens closely at every level: the lots, the white-waistcoat gentleman, the five-pound notice, Noah, the 'meat not madness' joke, the milestone, Barnet, Fagin's box and game, the bookstall, Fang and the fever at Brownlow's. It is gentle enough for 4+ and avoids caricaturing Fagin. A1 and B1 say the boys got one bowl a day, which contradicts B2/C1 and the original, and A1's ending makes it unclear whether the book-shop man is Mr. Brownlow."
+}

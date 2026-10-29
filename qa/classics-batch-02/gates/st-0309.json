@@ -1,0 +1,677 @@
+{
+  "id": "st-0309",
+  "title": "Five Weeks in a Balloon",
+  "ts": "2026-10-29T21:45:25",
+  "node": {
+    "id": "st-0309",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %80.3 | 309 kelime\n    havuz dışı: samuel(1), doctor(1), explorer(1), dream(1), fly(1), huge(1), balloon(8), hydrogen(1), heater(3), gas(1), warm(1), heat(1), crazy(1), brave(1), happy(1), sailed(1), sky(2), west(1), rivers(1), forests(1), animals(1), smiled(2), storm(1), loud(1), shook(1), clouds(1), calm(1), flew(2), hot(1), desert(1), thirsty(1), soft(1), trees(1), eagles(1), attacked(1), tore(1), throw(1), cried(1), threw(3), boxes(1), bags(1), weak(1), slowly(1), crossed(1), river(1), safe(1), cheered(1)",
+        "level A2: A2: KALDI | kapsam %81.1 | 498 kelime\n    havuz dışı: famous(1), explorer(1), faraway(1), east(2), west(1), balloon(12), dangerous(1), hydrogen(2), gas(6), invented(1), heater(3), warmed(1), cooled(1), winds(1), heights(1), can't(1), loyal(1), cheerful(1), afraid(1), sailed(1), island(1), bright(1), waved(1), forests(1), hills(1), rivers(1), herds(1), quiet(1), anchor(1), wonderful(1), cried(2), clouds(2), sky(1), terrible(2), storm(1), lightning(1), flashed(1), shouted(1), calm(1), moonlight(1), desert(1), hung(1), sand(1), heat(1), palm(1), fresh(1), eagles(1), sharp(1), claws(1), tore(1), rushed(1), lake(2), heavy(1), jumped(1), shore(1), tired(1), dirty(1), swim(1), sir(1), rope(1), ladder(1), climbed(1), basket(1), weak(1), tools(1), slowly(1), soldiers(1), nearby(1), fort(1), heroes(1)",
+        "level B1: B1: KALDI | kapsam %92.4 | 787 kelime\n    havuz dışı: deserts(1), daring(1), balloon(10), mad(1), balloons(1), hydrogen(4), basket(4), travelers(1), cleverest(1), outdoors(1), jungle(1), third(1), loyal(1), cheerful(1), sailed(1), steady(1), tightly(1), shining(1), herds(1), elephants(1), giraffes(1), grass(1), anchor(1), clouds(2), lightning(1), flashing(1), spark(1), starry(1), roaring(1), desert(1), sand(1), cheer(1), oasis(1), palm(1), eagles(1), claws(1), brave(1), shores(1), hungry(1), rope(1), ladder(1), grin(1), fort(1), cheered(1)",
+        "level B2: B2: KALDI | kapsam %93.5 | 1058 kelime\n    havuz dışı: astonishing(1), balloon(12), travelers(4), cheered(1), balloons(1), hydrogen(2), cleverest(1), invention(1), descend(1), balloonists(1), horrified(1), deck(1), faithful(1), cheerful(1), ropes(2), amazement(1), drifted(2), gripped(1), basket(3), herds(1), elephants(1), giraffes(1), anchor(1), notebook(1), overjoyed(1), lightning(1), spark(1), thunder(1), rage(1), harmlessly(1), motionless(1), breeze(1), horizon(1), oasis(1), palm(1), eagles(1), claws(1), beaks(1), hiss(1), i'm(1), heartbroken(1), muddy(1), rope(1), ladder(1), scrambled(1), roaring(1), waterfall(1), fort(1), cheer(1), madness(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8026,
+        "wordCount": 309,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "balloon(8)",
+          "heater(3)",
+          "threw(3)",
+          "sky(2)",
+          "smiled(2)",
+          "flew(2)",
+          "samuel(1)",
+          "doctor(1)",
+          "explorer(1)",
+          "dream(1)",
+          "fly(1)",
+          "huge(1)",
+          "hydrogen(1)",
+          "gas(1)",
+          "warm(1)",
+          "heat(1)",
+          "crazy(1)",
+          "brave(1)",
+          "happy(1)",
+          "sailed(1)",
+          "west(1)",
+          "rivers(1)",
+          "forests(1)",
+          "animals(1)",
+          "storm(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8112,
+        "wordCount": 498,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "balloon(12)",
+          "gas(6)",
+          "heater(3)",
+          "east(2)",
+          "hydrogen(2)",
+          "cried(2)",
+          "clouds(2)",
+          "terrible(2)",
+          "lake(2)",
+          "famous(1)",
+          "explorer(1)",
+          "faraway(1)",
+          "west(1)",
+          "dangerous(1)",
+          "invented(1)",
+          "warmed(1)",
+          "cooled(1)",
+          "winds(1)",
+          "heights(1)",
+          "can't(1)",
+          "loyal(1)",
+          "cheerful(1)",
+          "afraid(1)",
+          "sailed(1)",
+          "island(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9238,
+        "wordCount": 787,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "balloon(10)",
+          "hydrogen(4)",
+          "basket(4)",
+          "clouds(2)",
+          "deserts(1)",
+          "daring(1)",
+          "mad(1)",
+          "balloons(1)",
+          "travelers(1)",
+          "cleverest(1)",
+          "outdoors(1)",
+          "jungle(1)",
+          "third(1)",
+          "loyal(1)",
+          "cheerful(1)",
+          "sailed(1)",
+          "steady(1)",
+          "tightly(1)",
+          "shining(1)",
+          "herds(1)",
+          "elephants(1)",
+          "giraffes(1)",
+          "grass(1)",
+          "anchor(1)",
+          "lightning(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9348,
+        "wordCount": 1058,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "balloon(12)",
+          "travelers(4)",
+          "basket(3)",
+          "hydrogen(2)",
+          "ropes(2)",
+          "drifted(2)",
+          "astonishing(1)",
+          "cheered(1)",
+          "balloons(1)",
+          "cleverest(1)",
+          "invention(1)",
+          "descend(1)",
+          "balloonists(1)",
+          "horrified(1)",
+          "deck(1)",
+          "faithful(1)",
+          "cheerful(1)",
+          "amazement(1)",
+          "gripped(1)",
+          "herds(1)",
+          "elephants(1)",
+          "giraffes(1)",
+          "anchor(1)",
+          "notebook(1)",
+          "overjoyed(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9141,
+        "wordCount": 1501,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "balloon(15)",
+          "travelers(3)",
+          "hydrogen(3)",
+          "ropes(3)",
+          "basket(3)",
+          "swelled(2)",
+          "upward(2)",
+          "drift(2)",
+          "silk(2)",
+          "continent(2)",
+          "treetops(2)",
+          "drifted(2)",
+          "applause(1)",
+          "muttering(1)",
+          "careless(1)",
+          "balloonist(1)",
+          "descend(1)",
+          "shortened(1)",
+          "flame(1)",
+          "shrank(1)",
+          "favorable(1)",
+          "safeguard(1)",
+          "balloons(1)",
+          "fiercely(1)",
+          "sensible(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": "led it with hydrogen, a very light gas. He also invented a special heater. When th"
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "NOUN_AROUND_IT",
+          "cat": "REDUNDANCY",
+          "msg": "Consider using “the surrounding plains”.",
+          "frag": "the plains around it",
+          "ctx": "even though the sun was burning down on the plains around it. Herds of elephants and giraffes moved "
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "NOUN_AROUND_IT",
+          "cat": "REDUNDANCY",
+          "msg": "Consider using “the surrounding plains”.",
+          "frag": "the plains around it",
+          "ctx": "se peak was crowned with snow, although the plains around it shimmered in the heat. Most nights they"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 309,
+      "sentLenMedian": 5,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0037,
+      "lowZipfWords": [
+        "cheered"
+      ],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 498,
+      "sentLenMedian": 8,
+      "zipfMedian": 5.93,
+      "lowZipfRatio": 0.0111,
+      "lowZipfWords": [
+        "faraway",
+        "flashed",
+        "helper",
+        "herds",
+        "warmed"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 787,
+      "sentLenMedian": 11.0,
+      "zipfMedian": 6.02,
+      "lowZipfRatio": 0.0137,
+      "lowZipfWords": [
+        "cheered",
+        "circling",
+        "cleverest",
+        "deserts",
+        "giraffes",
+        "helper",
+        "herds",
+        "starry",
+        "swung",
+        "warmed"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1058,
+      "sentLenMedian": 15,
+      "zipfMedian": 5.88,
+      "lowZipfRatio": 0.0272,
+      "lowZipfWords": [
+        "amazement",
+        "balloonists",
+        "beaks",
+        "cheered",
+        "cleverest",
+        "drifted",
+        "flashed",
+        "floated",
+        "giraffes",
+        "grinning",
+        "gripped",
+        "harmlessly",
+        "heartbroken",
+        "helper",
+        "herds",
+        "hiss",
+        "horrified",
+        "hurried",
+        "leaned",
+        "leaped",
+        "motionless",
+        "overjoyed",
+        "scrambled",
+        "swimmer",
+        "swung",
+        "whispered"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1501,
+      "sentLenMedian": 24,
+      "zipfMedian": 5.88,
+      "lowZipfRatio": 0.0413,
+      "lowZipfWords": [
+        "aloft",
+        "armfuls",
+        "balloonist",
+        "beaks",
+        "boldest",
+        "breadth",
+        "circling",
+        "clung",
+        "depended",
+        "dreamer",
+        "drifted",
+        "dunes",
+        "faithfully",
+        "fiercely",
+        "floated",
+        "flung",
+        "frantic",
+        "giraffes",
+        "glanced",
+        "grinning",
+        "grumbling",
+        "haste",
+        "haze",
+        "helper",
+        "herds",
+        "hiss",
+        "hurried",
+        "leaned",
+        "leaped",
+        "leaping",
+        "lightened",
+        "lurched",
+        "motionless",
+        "muttering",
+        "overboard",
+        "pacing",
+        "patiently",
+        "quieter",
+        "roared",
+        "scrambled",
+        "shaded",
+        "shimmered",
+        "shrank",
+        "shrinking",
+        "snatched",
+        "starry",
+        "stillness",
+        "swelled",
+        "swung",
+        "thundering",
+        "tightening",
+        "treetops",
+        "unrolled",
+        "warmed",
+        "westward"
+      ],
+      "keyTermTokens": 19,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8026,
+      "wordCount": 309,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "balloon(8)",
+        "heater(3)",
+        "threw(3)",
+        "sky(2)",
+        "smiled(2)",
+        "flew(2)",
+        "samuel(1)",
+        "doctor(1)",
+        "explorer(1)",
+        "dream(1)",
+        "fly(1)",
+        "huge(1)",
+        "hydrogen(1)",
+        "gas(1)",
+        "warm(1)",
+        "heat(1)",
+        "crazy(1)",
+        "brave(1)",
+        "happy(1)",
+        "sailed(1)",
+        "west(1)",
+        "rivers(1)",
+        "forests(1)",
+        "animals(1)",
+        "storm(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8112,
+      "wordCount": 498,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "balloon(12)",
+        "gas(6)",
+        "heater(3)",
+        "east(2)",
+        "hydrogen(2)",
+        "cried(2)",
+        "clouds(2)",
+        "terrible(2)",
+        "lake(2)",
+        "famous(1)",
+        "explorer(1)",
+        "faraway(1)",
+        "west(1)",
+        "dangerous(1)",
+        "invented(1)",
+        "warmed(1)",
+        "cooled(1)",
+        "winds(1)",
+        "heights(1)",
+        "can't(1)",
+        "loyal(1)",
+        "cheerful(1)",
+        "afraid(1)",
+        "sailed(1)",
+        "island(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9238,
+      "wordCount": 787,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "balloon(10)",
+        "hydrogen(4)",
+        "basket(4)",
+        "clouds(2)",
+        "deserts(1)",
+        "daring(1)",
+        "mad(1)",
+        "balloons(1)",
+        "travelers(1)",
+        "cleverest(1)",
+        "outdoors(1)",
+        "jungle(1)",
+        "third(1)",
+        "loyal(1)",
+        "cheerful(1)",
+        "sailed(1)",
+        "steady(1)",
+        "tightly(1)",
+        "shining(1)",
+        "herds(1)",
+        "elephants(1)",
+        "giraffes(1)",
+        "grass(1)",
+        "anchor(1)",
+        "lightning(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9348,
+      "wordCount": 1058,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "balloon(12)",
+        "travelers(4)",
+        "basket(3)",
+        "hydrogen(2)",
+        "ropes(2)",
+        "drifted(2)",
+        "astonishing(1)",
+        "cheered(1)",
+        "balloons(1)",
+        "cleverest(1)",
+        "invention(1)",
+        "descend(1)",
+        "balloonists(1)",
+        "horrified(1)",
+        "deck(1)",
+        "faithful(1)",
+        "cheerful(1)",
+        "amazement(1)",
+        "gripped(1)",
+        "herds(1)",
+        "elephants(1)",
+        "giraffes(1)",
+        "anchor(1)",
+        "notebook(1)",
+        "overjoyed(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9141,
+      "wordCount": 1501,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "balloon(15)",
+        "travelers(3)",
+        "hydrogen(3)",
+        "ropes(3)",
+        "basket(3)",
+        "swelled(2)",
+        "upward(2)",
+        "drift(2)",
+        "silk(2)",
+        "continent(2)",
+        "treetops(2)",
+        "drifted(2)",
+        "applause(1)",
+        "muttering(1)",
+        "careless(1)",
+        "balloonist(1)",
+        "descend(1)",
+        "shortened(1)",
+        "flame(1)",
+        "shrank(1)",
+        "favorable(1)",
+        "safeguard(1)",
+        "balloons(1)",
+        "fiercely(1)",
+        "sensible(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.04,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0202",
+        "title": "The Three Billy Goats Gruff",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.04,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0280",
+        "title": "The Little Mermaid",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

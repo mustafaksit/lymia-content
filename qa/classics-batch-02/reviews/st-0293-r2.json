@@ -1,0 +1,62 @@
+{
+  "id": "st-0293",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The upstairs hall was shorter than downstairs.\" appears with no one noticing it; consider \"Holmes measured the halls. The upstairs hall was shorter than the hall downstairs.\"",
+        "\"Sherlock Holmes and Watson sat at Baker Street.\" reads slightly oddly; \"sat in their rooms at Baker Street\" (as in A2) is more natural.",
+        "\"I forgot my walking stick there.\" differs a little from the other levels (the stick went missing and Oldacre kept it). This is an acceptable simplification.",
+        "\"That night, McFarlane touched wax on some papers.\" 'That night' comes right after the hiding explanation; \"On the night of his visit\" would be clearer."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "3. Why was the upstairs hall important? — It had a fire in it / It was very dark / *It was shorter than the hall downstairs",
+          "problem": "The distractor 'It had a fire in it' is literally true in this level. Holmes put the straw at the end of the upstairs hall and lit it. A learner can reasonably defend it, so the question has two defensible answers.",
+          "fix": "Replace the distractor with something clearly false, e.g. \"It had a big window\" or \"It had many pictures on the walls\"."
+        }
+      ],
+      "notes": [
+        "\"First, Holmes went to Blackheath\": Blackheath is never introduced in A2 as the home of McFarlane's parents. It is understandable from context, but \"McFarlane's home town, Blackheath\" would help.",
+        "\"pressed his thumb into wax on a letter\": the other levels say 'papers' or 'a packet'. This is a harmless difference."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "\"Why did he choose the one night when everyone knew about his visit?\" he asked. \"And why did he leave his own stick behind?\"",
+          "problem": "This follows straight after Lestrade's lines, so 'he asked' reads as Lestrade questioning his own theory. The speaker is actually Holmes, and readers will not be able to tell who is speaking.",
+          "fix": "Start a new paragraph and name the speaker: \"Why did he choose the one night when everyone knew about his visit?\" Holmes asked. \"And why did he leave his own stick behind?\""
+        }
+      ],
+      "notes": [
+        "\"First he visited McFarlane's mother in Blackheath, a small woman with bright blue eyes.\" The description attaches to 'Blackheath'. Better: \"First he visited McFarlane's mother, a small woman with bright blue eyes, in Blackheath.\"",
+        "\"But in his bank book, large sums of money went to a man nobody knew.\" This is slightly awkward. Consider \"But his bank book showed large payments to a man nobody knew.\""
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Holmes picked up the untidy pages McFarlane had left on the table.\" The text never mentions that McFarlane brought the draft with him. This is inferable and it is faithful to the original."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The prose is genuinely literary and faithful: the deductions about the train-written will, the bank-book alias, the six-foot corridor, the straw fire, the bones that came from an animal and the double motive are all present and in order."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is faithful to Doyle's story at every level, and the content is gentle enough for 4+ (the bones are stated, not described, and turn out to be from an animal). Two levels fail on concrete logic problems. In B1, Holmes's rebuttal is tagged only 'he asked' right after Lestrade speaks, so it reads as Lestrade's line. In A2, the quiz has a distractor ('It had a fire in it') that is true in the story. A1, B2 and C1 pass."
+}

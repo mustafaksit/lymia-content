@@ -1,0 +1,632 @@
+{
+  "id": "st-0283",
+  "title": "The Three Musketeers and the Queen's Diamonds",
+  "ts": "2026-10-29T21:44:48",
+  "node": {
+    "id": "st-0283",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %81.4 | 345 kelime\n    havuz dışı: d'artagnan(3), horse(1), musketeer(2), hurry(1), caught(1), coat(1), picked(1), handkerchief(1), fight(1), noon(2), guards(1), shouted(1), musketeers(1), fought(1), constance(3), pretty(1), queen(5), king(3), diamond(1), pins(10), duke(3), gift(1), ball(3), wear(1), rode(2), argument(1), attacked(1), inn(1), trouble(1), cried(1), jeweler(1), quickly(1), fast(1), count(1), queen's(1), angry(1), smiled(1), ring(1)",
+        "level A2: A2: KALDI | kapsam %84.4 | 564 kelime\n    havuz dışı: d'artagnan(4), yellow(1), horse(1), rode(2), king's(1), musketeers(4), captain(1), hurry(1), stairs(1), musketeer(1), coat(1), handkerchief(1), angry(1), noon(2), guards(3), cried(1), king(6), gold(1), servant(1), landlord's(1), queen(9), diamond(2), pins(10), duke(4), gift(2), friendship(1), hated(1), spies(1), everywhere(1), clever(1), lady(1), ball(6), secretly(1), tonight(1), servants(1), inn(2), ship(1), gentleman(1), port(1), pale(1), ports(1), jeweler(1), count(1), queen's(1), counted(1)",
+        "level B1: B1: KALDI | kapsam %91.0 | 876 kelime\n    havuz dışı: d'artagnan(6), musketeers(5), bravest(1), captain(1), hurry(1), stairs(1), musketeer(2), handkerchief(1), insulted(1), duel(1), noon(2), duels(1), brave(1), coins(1), clever(2), servant(1), shopkeeper(1), queen(8), diamond(4), pins(12), duke(7), queen's(4), spies(1), servants(1), inn(2), false(1), port(2), sailing(1), jewel(1), jeweler(1), shining(1), whispered(1), anger(1), curtain(2)",
+        "level B2: B2: KALDI | kapsam %93.0 | 1180 kelime\n    havuz dışı: d'artagnan(7), courage(1), insult(1), musketeers(7), bravery(1), quarrels(1), captain(1), noble(1), musketeer(1), tangled(1), handkerchief(1), duels(2), noon(2), convent(1), duel(2), forbidden(1), surrender(1), fierce(1), shopkeeper(1), queen's(3), maid(1), queen(9), diamond(4), pins(8), duke(5), kingdom(1), spies(1), ribbon(1), brave(1), dawn(1), inn(2), quarrel(1), riders(1), seize(1), jewel(1), jeweler(1), palace(1), d'artagnan's(1), glowed(1), candles(1), bowed(1), palm(1), cheerful(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8145,
+        "wordCount": 345,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "pins(10)",
+          "queen(5)",
+          "d'artagnan(3)",
+          "constance(3)",
+          "king(3)",
+          "duke(3)",
+          "ball(3)",
+          "musketeer(2)",
+          "noon(2)",
+          "rode(2)",
+          "horse(1)",
+          "hurry(1)",
+          "caught(1)",
+          "coat(1)",
+          "picked(1)",
+          "handkerchief(1)",
+          "fight(1)",
+          "guards(1)",
+          "shouted(1)",
+          "musketeers(1)",
+          "fought(1)",
+          "pretty(1)",
+          "diamond(1)",
+          "gift(1)",
+          "wear(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.844,
+        "wordCount": 564,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "pins(10)",
+          "queen(9)",
+          "king(6)",
+          "ball(6)",
+          "d'artagnan(4)",
+          "musketeers(4)",
+          "duke(4)",
+          "guards(3)",
+          "rode(2)",
+          "noon(2)",
+          "diamond(2)",
+          "gift(2)",
+          "inn(2)",
+          "yellow(1)",
+          "horse(1)",
+          "king's(1)",
+          "captain(1)",
+          "hurry(1)",
+          "stairs(1)",
+          "musketeer(1)",
+          "coat(1)",
+          "handkerchief(1)",
+          "angry(1)",
+          "cried(1)",
+          "gold(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9098,
+        "wordCount": 876,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "pins(12)",
+          "queen(8)",
+          "duke(7)",
+          "d'artagnan(6)",
+          "musketeers(5)",
+          "diamond(4)",
+          "queen's(4)",
+          "musketeer(2)",
+          "noon(2)",
+          "clever(2)",
+          "inn(2)",
+          "port(2)",
+          "curtain(2)",
+          "bravest(1)",
+          "captain(1)",
+          "hurry(1)",
+          "stairs(1)",
+          "handkerchief(1)",
+          "insulted(1)",
+          "duel(1)",
+          "duels(1)",
+          "brave(1)",
+          "coins(1)",
+          "servant(1)",
+          "shopkeeper(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9297,
+        "wordCount": 1180,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "queen(9)",
+          "pins(8)",
+          "d'artagnan(7)",
+          "musketeers(7)",
+          "duke(5)",
+          "diamond(4)",
+          "queen's(3)",
+          "duels(2)",
+          "noon(2)",
+          "duel(2)",
+          "inn(2)",
+          "courage(1)",
+          "insult(1)",
+          "bravery(1)",
+          "quarrels(1)",
+          "captain(1)",
+          "noble(1)",
+          "musketeer(1)",
+          "tangled(1)",
+          "handkerchief(1)",
+          "convent(1)",
+          "forbidden(1)",
+          "surrender(1)",
+          "fierce(1)",
+          "shopkeeper(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9079,
+        "wordCount": 1552,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "d'artagnan(10)",
+          "pins(10)",
+          "queen(6)",
+          "duke(5)",
+          "queen's(4)",
+          "diamond(4)",
+          "musketeers(3)",
+          "kingdom(2)",
+          "d'artagnan's(2)",
+          "noble(2)",
+          "convent(2)",
+          "bowed(2)",
+          "gentlemen(2)",
+          "duel(2)",
+          "clever(2)",
+          "timid(2)",
+          "merchant(2)",
+          "inn(2)",
+          "provoked(2)",
+          "murmured(2)",
+          "beast(1)",
+          "comical(1)",
+          "shopkeepers(1)",
+          "purse(1)",
+          "swallow(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 345,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0163,
+      "lowZipfWords": [
+        "d'artagnan",
+        "handkerchief",
+        "jeweler"
+      ],
+      "keyTermTokens": 3,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 564,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0136,
+      "lowZipfWords": [
+        "d'artagnan",
+        "handkerchief",
+        "jeweler",
+        "landlord's"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 876,
+      "sentLenMedian": 12.0,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.016,
+      "lowZipfWords": [
+        "bravest",
+        "d'artagnan",
+        "duels",
+        "handkerchief",
+        "jeweler",
+        "lady's",
+        "shopkeeper",
+        "whispered"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1180,
+      "sentLenMedian": 16,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0207,
+      "lowZipfWords": [
+        "bowed",
+        "convent",
+        "d'artagnan",
+        "d'artagnan's",
+        "duels",
+        "gentleman's",
+        "glowed",
+        "handkerchief",
+        "hurried",
+        "jeweler",
+        "lady's",
+        "quarrel",
+        "quarrels",
+        "shopkeeper",
+        "tangled",
+        "whispered"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1552,
+      "sentLenMedian": 22,
+      "zipfMedian": 6.09,
+      "lowZipfRatio": 0.0407,
+      "lowZipfWords": [
+        "adored",
+        "blazed",
+        "blundered",
+        "boldest",
+        "bowed",
+        "cloak's",
+        "coldly",
+        "collided",
+        "comical",
+        "convent",
+        "d'artagnan",
+        "d'artagnan's",
+        "depended",
+        "drifted",
+        "duels",
+        "embroidered",
+        "giant's",
+        "glimpsed",
+        "handkerchief",
+        "innkeeper",
+        "inseparable",
+        "jeweler",
+        "lady's",
+        "lingered",
+        "minister's",
+        "murmured",
+        "nightfall",
+        "parting",
+        "quarrel",
+        "quarrelsome",
+        "quickest",
+        "relic",
+        "remarking",
+        "roadside",
+        "scarcely",
+        "scruples",
+        "secretive",
+        "shopkeepers",
+        "sparkled",
+        "tangled",
+        "timid",
+        "unchallenged",
+        "unkind",
+        "unwisely",
+        "warmly"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8145,
+      "wordCount": 345,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "pins(10)",
+        "queen(5)",
+        "d'artagnan(3)",
+        "constance(3)",
+        "king(3)",
+        "duke(3)",
+        "ball(3)",
+        "musketeer(2)",
+        "noon(2)",
+        "rode(2)",
+        "horse(1)",
+        "hurry(1)",
+        "caught(1)",
+        "coat(1)",
+        "picked(1)",
+        "handkerchief(1)",
+        "fight(1)",
+        "guards(1)",
+        "shouted(1)",
+        "musketeers(1)",
+        "fought(1)",
+        "pretty(1)",
+        "diamond(1)",
+        "gift(1)",
+        "wear(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.844,
+      "wordCount": 564,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "pins(10)",
+        "queen(9)",
+        "king(6)",
+        "ball(6)",
+        "d'artagnan(4)",
+        "musketeers(4)",
+        "duke(4)",
+        "guards(3)",
+        "rode(2)",
+        "noon(2)",
+        "diamond(2)",
+        "gift(2)",
+        "inn(2)",
+        "yellow(1)",
+        "horse(1)",
+        "king's(1)",
+        "captain(1)",
+        "hurry(1)",
+        "stairs(1)",
+        "musketeer(1)",
+        "coat(1)",
+        "handkerchief(1)",
+        "angry(1)",
+        "cried(1)",
+        "gold(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9098,
+      "wordCount": 876,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "pins(12)",
+        "queen(8)",
+        "duke(7)",
+        "d'artagnan(6)",
+        "musketeers(5)",
+        "diamond(4)",
+        "queen's(4)",
+        "musketeer(2)",
+        "noon(2)",
+        "clever(2)",
+        "inn(2)",
+        "port(2)",
+        "curtain(2)",
+        "bravest(1)",
+        "captain(1)",
+        "hurry(1)",
+        "stairs(1)",
+        "handkerchief(1)",
+        "insulted(1)",
+        "duel(1)",
+        "duels(1)",
+        "brave(1)",
+        "coins(1)",
+        "servant(1)",
+        "shopkeeper(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9297,
+      "wordCount": 1180,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "queen(9)",
+        "pins(8)",
+        "d'artagnan(7)",
+        "musketeers(7)",
+        "duke(5)",
+        "diamond(4)",
+        "queen's(3)",
+        "duels(2)",
+        "noon(2)",
+        "duel(2)",
+        "inn(2)",
+        "courage(1)",
+        "insult(1)",
+        "bravery(1)",
+        "quarrels(1)",
+        "captain(1)",
+        "noble(1)",
+        "musketeer(1)",
+        "tangled(1)",
+        "handkerchief(1)",
+        "convent(1)",
+        "forbidden(1)",
+        "surrender(1)",
+        "fierce(1)",
+        "shopkeeper(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9079,
+      "wordCount": 1552,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "d'artagnan(10)",
+        "pins(10)",
+        "queen(6)",
+        "duke(5)",
+        "queen's(4)",
+        "diamond(4)",
+        "musketeers(3)",
+        "kingdom(2)",
+        "d'artagnan's(2)",
+        "noble(2)",
+        "convent(2)",
+        "bowed(2)",
+        "gentlemen(2)",
+        "duel(2)",
+        "clever(2)",
+        "timid(2)",
+        "merchant(2)",
+        "inn(2)",
+        "provoked(2)",
+        "murmured(2)",
+        "beast(1)",
+        "comical(1)",
+        "shopkeepers(1)",
+        "purse(1)",
+        "swallow(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.2,
+      "summary3gramJaccard": 0.04,
+      "a1FiveGramOverlap": 0.006
+    },
+    "top3": [
+      {
+        "id": "st-0158",
+        "title": "The Three Questions",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0269",
+        "title": "The Three Wishes",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0211",
+        "title": "Goldilocks and the Three Bears",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

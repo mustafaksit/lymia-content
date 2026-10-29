@@ -1,0 +1,67 @@
+{
+  "id": "st-0300",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift / fidelity",
+          "quote": "\"Say no,\" said Emma. \"Mr. Elton is better for you.\"",
+          "problem": "Here Emma gives Harriet a direct order. B1, B2 and C1 all stress that Emma never told Harriet to refuse, and the C1 quiz uses 'She ordered Harriet to say no' as a WRONG option. So A1 contradicts the other levels and the novel, where Emma only steers Harriet.",
+          "fix": "\"Robert is only a farmer,\" said Emma. \"Mr. Elton is better for you.\""
+        }
+      ],
+      "notes": [
+        "Box Hill: \"Easy for me!\" laughed Miss Bates. comes right after both options (one clever thing / three dull things), so an A1 reader may not see which one she means. Consider \"Three dull things? Easy for me!\" (as in A2)."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"I don't love Frank,\" said Harriet. is abrupt because nothing before it suggests anyone thought she did. Consider adding: \"Emma was worried about Harriet. But Harriet only smiled.\"",
+        "\"Emma's old teacher\" could be read as 'elderly teacher'; \"Emma's governess\" or \"Emma's teacher\" avoids that."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Across B1-C1, Emma worries that Frank's engagement will break Harriet's heart, but the text never shows Emma believing Harriet cared for Frank, so the worry comes from nowhere (C1 partly covers it through Harriet's 'it was never him'). Optional fix: after the ball, add one sentence such as 'Harriet confessed that she cared for a man far above her, and Emma was sure she meant Frank.'"
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error (unclear who is speaking)",
+          "quote": "To liven things up, he proposed a game.",
+          "problem": "'he' has no antecedent in the paragraph. The last man named, at the end of the previous paragraph, is Mr. Knightley, so readers will think Knightley proposed the game, but it was Frank.",
+          "fix": "To liven things up, Frank proposed a game."
+        }
+      ],
+      "notes": [
+        "\"When this good woman married Mr. Weston ... Emma was delighted. Emma, however, took full credit for the wedding.\" 'however' sets up a contrast with 'delighted' that isn't there. Suggest: \"Emma was delighted, and she took full credit for the match.\"",
+        "\"Mr. Knightley agreed to leave Donwell\": in the novel the plan was his own idea, so 'offered' fits better than 'agreed'.",
+        "Across B1-C1, Emma worries that Frank's engagement will break Harriet's heart, but the text never shows Emma believing Harriet cared for Frank, so the worry comes from nowhere (C1 partly covers it through Harriet's 'it was never him'). Optional fix: after the ball, add one sentence such as 'Harriet confessed that she cared for a man far above her, and Emma was sure she meant Frank.'"
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "Scarcely had the door been shut than he caught her hand and poured out a declaration of love, addressed, to her dismay, entirely to herself.",
+          "problem": "'Scarcely ... than' is a grammatical error ('scarcely' takes 'when'; 'no sooner' takes 'than'). In a C1 text it teaches advanced learners the wrong pattern.",
+          "fix": "Scarcely had the door been shut when he caught her hand and poured out a declaration of love, addressed, to her dismay, entirely to herself."
+        }
+      ],
+      "notes": [
+        "Harriet's line about the ball partly covers why Emma expected her to be heartbroken over Frank. One earlier sentence showing that Emma had misread Harriet would make it clearer."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling with natural prose and correct quizzes at every level. Three small concrete defects cause failures: A1 has Emma order Harriet to refuse Robert Martin, which contradicts the other levels and a C1 quiz distractor; in B2 the Box Hill game is proposed by a 'he' who reads as Mr. Knightley; and C1 uses the ungrammatical 'Scarcely ... than'. Each needs a one-line fix."
+}

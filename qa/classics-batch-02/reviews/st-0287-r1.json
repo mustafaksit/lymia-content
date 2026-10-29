@@ -1,0 +1,69 @@
+{
+  "id": "st-0287",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Manuel, Penn and Salters liked him now.\" Penn and Salters have not been introduced at this level, so the names come from nowhere. Consider \"Manuel and the other men liked him now.\"",
+        "\"So Harvey said sorry to Disko.\" A1 never shows Harvey being rude to Disko, only shouting. This is acceptable, but \"Harvey was angry and rude\" in paragraph 4 would set up the apology better.",
+        "A1 and A2 say Dan taught Harvey to row, while B1 to C1 credit Manuel with the dory. Both fit the novel, but the levels could agree."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"But I believe you a little.\" This is acceptable for a child speaker, but \"But maybe you're telling the truth\" sounds more natural.",
+        "\"Harvey went to college to learn his father's business.\" This is close enough to the novel (college first, then the business)."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "Harvey had plenty of money and nobody who ever said no to him.",
+          "problem": "'had ... nobody who ever said no to him' joins 'had money' and 'had nobody' in an awkward zeugma. Native writers would not phrase it this way, and B1 learners will misparse it.",
+          "fix": "Harvey had plenty of money, and nobody ever said no to him."
+        }
+      ],
+      "notes": [
+        "\"In his opinion, the fall hurt the boy's head and filled it with strange stories.\" Past perfect (\"had hurt\") would be more natural, and the B1 rules allow it. Alternatively: \"He thought the fall had hurt the boy's head.\"",
+        "The fog scene leaves out the novel's liner running down another schooner. That is an acceptable softening for 4+."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "He had heard enough to make up his mind: the fall had clearly upset the boy's head, and he was imagining things.",
+          "problem": "'upset the boy's head' is not an idiomatic collocation. A head is not 'upset'; a mind is 'affected' or 'disturbed'.",
+          "fix": "He had heard enough to make up his mind: the fall had clearly affected the boy's mind, and he was imagining things."
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "They had believed all summer that the sea had taken their son, and his mother had almost lost her health from grief.",
+          "problem": "'lost her health from grief' is a calque-like, unnatural collocation.",
+          "fix": "They had believed all summer that the sea had taken their son, and his mother had almost fallen ill with grief."
+        }
+      ],
+      "notes": [
+        "Fidelity is good: the money-roll accusation, ten and a half dollars a month, Dan's half-belief, the fog liner, the gale, the private car (less than four days), Cheyne's life story, Dan's place on Cheyne's ships, and Harvey going to college all match Kipling."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"So two boys who had met on a fishing deck, one by accident and one by birth, set out on roads...\" 'met ... by birth' is slightly muddled. Consider \"two boys who had come to the same fishing deck, one by accident and one by birth\".",
+        "\"more than all the money in his father's banks\": Cheyne is never said to own banks. \"more than all his father's millions\" avoids the implication.",
+        "The prose is genuinely literary and not padded. Dialect touches (\"folks\", \"I'll own\") fit the source."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is faithful to Kipling across all levels: it keeps the main events in order, softens Disko's blow and the schooner sinking acceptably, and has no 4+ issues. All quizzes are keyed correctly. B1 and B2 fail only on unnatural phrasing: 'had plenty of money and nobody who ever said no to him' (B1), and 'upset the boy's head' and 'lost her health from grief' (B2)."
+}

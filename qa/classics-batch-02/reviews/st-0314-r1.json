@@ -1,0 +1,62 @@
+{
+  "id": "st-0314",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "She touched the gold string. Suddenly it fell open in her hands!",
+          "problem": "The nearest referent for 'it' is the gold string, and a string cannot 'fall open'. An A1 reader is likely to read this as the box opening, which then clashes with 'Pandora opened the box' two sentences later. It is unclear whether the box is already open.",
+          "fix": "She touched the gold string. Suddenly the knot came open in her hands!"
+        }
+      ],
+      "notes": [
+        "'Quicksilver left it at our door.' Quicksilver is named but never introduced (A2 and above add 'A man... His name is Quicksilver'). Consider 'A man called Quicksilver left it at our door.'",
+        "Grammar stays inside present simple, past simple, imperatives and simple modals. Fidelity to Hawthorne's 'The Paradise of Children' is good. The stings are gentle and suit a 4+ rating."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "\"It is a secret,\" said Epimetheus. \"Then where did it come from?\"",
+          "problem": "The follow-up question has no speaker tag and sits in the same paragraph, right after Epimetheus's line, so it reads as if Epimetheus asks it. The next paragraph then has Epimetheus answering, which confuses who is speaking.",
+          "fix": "\"It is a secret,\" said Epimetheus. \"Then where did it come from?\" asked Pandora."
+        }
+      ],
+      "notes": [
+        "'He told us to keep the box safe' is said of a visit that happened before Pandora came, so 'us' is slightly odd. 'He told me to keep the box safe' is cleaner (the same applies to B1 'told us' and B2/C1 'asked them').",
+        "'I stay with you always, even in hard times' is acceptable under the A2 tense limits, though 'I will always stay with you' would sound more natural if will-future is allowed."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No conditionals or passives. The relative clauses and present perfect ('where they have stayed ever since') are fine at B1.",
+        "Quiz Q3 'What did Hope say she will do?' could read 'What did Hope promise?' to avoid the tense mix."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Whenever it refused to tell her its secret' comes right after a list of guesses (toys, sweets, clothes). 'Whenever the box refused...' would make the referent clearer.",
+        "Faithful to Hawthorne: the carved garlanded face, the knot, Epimetheus's garland, the Troubles as stinging insects, the window, and Hope 'to make amends'."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Genuinely literary ('Hardly had she crossed the threshold', 'had he been honest') without padding.",
+        "Quiz Q3 says 'warn', but Hope's line is a reassurance. 'What does Hope tell them might sometimes happen?' would fit better. The keyed answer is still the only defensible one."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, gentle retelling of Hawthorne's 'The Paradise of Children', with natural English and good level control from B1 to C1. A1 fails because 'it fell open' refers ambiguously to the string or the box. A2 fails because an untagged line of dialogue reads as Epimetheus questioning himself. Both are one-line fixes."
+}
