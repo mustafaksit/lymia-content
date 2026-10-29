@@ -1,0 +1,77 @@
+{
+  "id": "st-0280",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "fidelity / meaning drift (cross-level contradiction)",
+          "quote": "They married on a big ship.",
+          "problem": "In Andersen the wedding is held on land (church bells, the bishop's blessing). The couple boards the ship only that evening for the celebration. B2 and C1 tell it correctly, so A1 contradicts them.",
+          "fix": "They married. That evening, they went on a big ship."
+        }
+      ],
+      "notes": [
+        "\"Can I live on land?\" is answered with \"People have a soul\", which does not quite answer the question. Consider \"Do people live forever?\" or \"Can I have a soul like people?\" so the reply follows naturally.",
+        "Speech from one speaker is split into several separate quotations (\"A man must love you and marry you.\" \"Then you can have a soul too.\"). This is fine if the reader UI needs it, but in print it looks like several speakers."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "fidelity / meaning drift (cross-level contradiction)",
+          "quote": "They married on a large ship.",
+          "problem": "The wedding takes place on land. Only the evening celebration is on the ship (as told correctly in B2 and C1).",
+          "fix": "They married that day, and in the evening they went on a large ship."
+        }
+      ],
+      "notes": [
+        "\"But every step can feel like a sharp knife.\" The 'can' weakens the witch's certain warning and sounds odd. Use \"But every step feels like a sharp knife.\"",
+        "\"drank the witch's drink\" is a little clumsy. Consider \"drank the witch's magic drink\"."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "fidelity / meaning drift (cross-level contradiction)",
+          "quote": "The wedding took place on a large ship, with music and golden lamps.",
+          "problem": "In the original the wedding is in church on land, and the couple boards the ship that evening. This contradicts B2 and C1.",
+          "fix": "After the wedding, the couple went on board a large ship, with music and golden lamps."
+        },
+        {
+          "criterion": "logic error",
+          "quote": "Before sunrise, she drank the magic drink on the steps of the prince's palace. When she woke up, the prince was standing in front of her.",
+          "problem": "She 'wakes up', but the text never says she lost consciousness. In the original the pain makes her faint.",
+          "fix": "Before sunrise, she drank the magic drink on the steps of the prince's palace. The pain was so strong that she fainted. When she woke up, the prince was standing in front of her."
+        }
+      ],
+      "notes": [
+        "\"She went quietly to the prince's tent\": a tent on the ship has not been mentioned before. Consider adding \"the royal tent on the deck\" to the wedding paragraph.",
+        "\"And when the prince marries another girl, your heart will break.\" With 'when', the witch's warning sounds like a certainty, which avoids an if-clause. It is acceptable, but \"The prince may marry another girl. Then your heart will break.\" keeps the original meaning without a conditional."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"as blue as a summer flower\": summer flowers are not typically blue. Andersen's image is the cornflower: \"as blue as a cornflower\".",
+        "\"She loved her six granddaughters dearly, lovely mermaids with tails instead of feet.\" The appositive and the 'dearly, lovely' echo are a little awkward. Consider \"She dearly loved her six granddaughters, lovely mermaids with tails instead of feet.\"",
+        "\"whose only treasure was a stone statue\": in the original she also loved her red flowers (C1 mentions them). 'marble statue' would also match C1.",
+        "\"his soul would flow into you\": A2 and C1 say 'part of his soul', which is more precise (in the original he keeps his own soul)."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"warned that the change would feel like a sword cutting through the girl's body\": 'the girl's body' is slightly distancing in reported speech. \"cutting through her body\" reads more smoothly.",
+        "\"a forest of grasping growths\" is a little opaque for the polyps. Consider \"a forest of grasping polyps, half plant and half animal\"."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "Overall the retelling is faithful and well levelled across all five versions, and B2 and C1 track Andersen closely, down to the oysters, the convent, the knife gleaming red and the daughters of the air. A1, A2 and B1 fail because they place the wedding on the ship, which is not in the original and contradicts B2 and C1. B1 also has the mermaid 'wake up' without fainting first. All quizzes are keyed correctly and each has one defensible answer."
+}

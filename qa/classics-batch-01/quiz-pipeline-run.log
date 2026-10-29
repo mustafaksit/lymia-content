@@ -1,0 +1,36 @@
+model: distilbert-base-uncased | hedef hikaye: 10
+tam envanter lemma|pos: 2550 | hedef lemma|pos: 2550
+Loading weights:   0%|          | 0/105 [00:00<?, ?it/s]Loading weights: 100%|██████████| 105/105 [00:00<00:00, 21368.36it/s]
+Tatoeba index (tek gecis)...
+  100/2550 lemma | soru 288 | 60s
+  200/2550 lemma | soru 565 | 77s
+  300/2550 lemma | soru 824 | 99s
+  400/2550 lemma | soru 1093 | 117s
+  500/2550 lemma | soru 1364 | 139s
+  600/2550 lemma | soru 1631 | 162s
+  700/2550 lemma | soru 1899 | 188s
+  800/2550 lemma | soru 2162 | 213s
+  900/2550 lemma | soru 2412 | 235s
+  1000/2550 lemma | soru 2677 | 259s
+  1100/2550 lemma | soru 2943 | 288s
+  1200/2550 lemma | soru 3208 | 317s
+  1300/2550 lemma | soru 3492 | 346s
+  1400/2550 lemma | soru 3752 | 372s
+  1500/2550 lemma | soru 4021 | 388s
+  1600/2550 lemma | soru 4285 | 406s
+  1700/2550 lemma | soru 4550 | 426s
+  1800/2550 lemma | soru 4816 | 444s
+  1900/2550 lemma | soru 5076 | 464s
+  2000/2550 lemma | soru 5349 | 483s
+  2100/2550 lemma | soru 5594 | 506s
+  2200/2550 lemma | soru 5870 | 522s
+  2300/2550 lemma | soru 6130 | 540s
+  2400/2550 lemma | soru 6373 | 556s
+  2500/2550 lemma | soru 6638 | 572s
+Traceback (most recent call last):
+  File "/Users/mustafa.aksit/Documents/GitHub/AiProjects/lymia-content-classics-01/pipeline/quiz/build-quiz.py", line 226, in <module>
+    main()
+  File "/Users/mustafa.aksit/Documents/GitHub/AiProjects/lymia-content-classics-01/pipeline/quiz/build-quiz.py", line 212, in main
+    with open(os.path.join(CACHE_DIR, "quiz-report.json"), "w", encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/mustafa.aksit/Documents/GitHub/AiProjects/lymia-content-classics-01/pipeline/quiz/cache/quiz-report.json'

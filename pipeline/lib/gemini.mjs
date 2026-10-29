@@ -141,6 +141,7 @@ async function callOpenAI(ep, prompt, json) {
   // OpenAI sağlayıcılarında 429 çoğunlukla DAKİKA limiti (kalıcı değil) -> backoff+retry.
   // 402 = ödeme/kredi bitti -> kalıcı kota.
   if (res.status === 402) return { retriable: 'quota', status: res.status };
+  if (res.status === 413) return { retriable: 'toolarge', status: res.status };
   if (res.status === 429) return { retriable: 'rate', status: res.status };
   if (res.status >= 500) return { retriable: 'server', status: res.status };
   if (!res.ok) {
@@ -195,12 +196,20 @@ export async function callGemini(prompt, { json = false } = {}) {
   requireApiKey();
   let lastError;
   let guard = 0;
+  // Bu ÇAĞRI için atlanan uçlar (413 istek-çok-büyük): uç ölmez, yalnız bu
+  // (büyük) istekte atlanır; daha küçük sonraki isteklerde (C, ek-tur) tekrar dener.
+  const skip = new Set();
   const maxSteps = Math.max(POOL.length * 3, 40) + 6; // tek uc + backoff icin yeterli
   while (guard++ < maxSteps) {
     // Round-robin: canli uclar arasinda donerek sec (dakika limitini coklu
     // anahtara yay, tek anahtari ust uste yorma).
-    const live = POOL.filter((e) => !dead.has(e.id));
-    if (!live.length) throw new Error('Gemini HTTP 429: tüm sağlayıcılar kotayı tüketti (quota)');
+    const live = POOL.filter((e) => !dead.has(e.id) && !skip.has(e.id));
+    if (!live.length) {
+      // 413 nedeniyle tüm canlı uçlar atlandıysa: çağıran batch'i bölüp yeniden
+      // dener (uç-bazlı küçük batch etkisi). Aksi halde gerçek kota tükenmesi.
+      if (skip.size) throw new Error('HTTP 413: tüm canlı uçlar için istek çok büyük (batch böl)');
+      throw new Error('Gemini HTTP 429: tüm sağlayıcılar kotayı tüketti (quota)');
+    }
     const ep = live[RR.i++ % live.length];
     ep._calls = (ep._calls || 0) + 1;
     let out;
@@ -240,6 +249,13 @@ export async function callGemini(prompt, { json = false } = {}) {
       lastError = new Error(`${ep.id} HTTP ${out.status}`);
       continue;
     }
+    if (out.retriable === 'toolarge') {
+      // İstek bu uç için çok büyük (ör. Groq gpt-oss-120b, 20x8 batch). Ucu
+      // ÖLDÜRME; yalnız bu çağrıda atla. Küçük isteklerde tekrar denenir.
+      skip.add(ep.id);
+      lastError = new Error(`${ep.id} HTTP 413`);
+      continue;
+    }
     lastError = new Error(`${ep.id} HTTP ${out.status}`);
     ep._fails = (ep._fails || 0) + 1;
     // Gecici hata (rate/server): ucu OLDURME (tek-uc havuzu bosaltmasin);
@@ -249,6 +265,36 @@ export async function callGemini(prompt, { json = false } = {}) {
     await sleep(wait);
   }
   throw lastError ?? new Error('LLM çağrısı başarısız');
+}
+
+/**
+ * Başlangıç anahtar testi: her ucu bir kez küçük bir istekle yoklar; başarısız
+ * (401/auth vb.) uçları rotasyondan çıkarır (dead) ve sonucu döner. Böylece
+ * geçersiz anahtarlar (ör. iptal edilmiş Groq) baştan elenir ve raporlanır.
+ */
+export async function probeEndpoints() {
+  const results = [];
+  for (const ep of POOL) {
+    if (dead.has(ep.id)) { results.push({ id: ep.id, ok: false, reason: 'zaten dead' }); continue; }
+    try {
+      const out = ep.type === 'openai'
+        ? await callOpenAI(ep, 'Reply with the single word: OK', false)
+        : await callGeminiEndpoint(ep, 'Reply with the single word: OK', false);
+      if (out.text && out.text.trim()) {
+        results.push({ id: ep.id, ok: true });
+      } else if (out.retriable === 'quota') {
+        dead.add(ep.id);
+        results.push({ id: ep.id, ok: false, reason: `kota (${out.status})` });
+      } else {
+        // rate/server: gecici -> uc canli birakilir ama testte 'belirsiz' isaretlenir
+        results.push({ id: ep.id, ok: true, reason: `gecici ${out.retriable || ''}`.trim() });
+      }
+    } catch (e) {
+      dead.add(ep.id);
+      results.push({ id: ep.id, ok: false, reason: e.message.slice(0, 70) });
+    }
+  }
+  return results;
 }
 
 /** Parses a JSON response, tolerating markdown code fences. */

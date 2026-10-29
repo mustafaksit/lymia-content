@@ -1,0 +1,67 @@
+{
+  "id": "st-0279",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Friday taught him many things too.\" In Defoe, Robinson is the teacher and Friday the pupil. The line is vague enough to pass, but for consistency with the fixes below consider \"Friday helped him every day.\"",
+        "\"He was there for twenty-eight years. Now he went home with his friend.\" The tense shift sounds slightly off. Consider \"He was on the island for twenty-eight years. Now he could go home, and Friday went with him.\" (or keep it simpler: \"He went home with his friend.\")",
+        "\"So he knew the days and the years.\" This is acceptable, but \"So he always knew the day and the year.\" reads more naturally.",
+        "\"His gun scared the two men away.\" This softens the novel, where one man is knocked down and the other is shot. Softening is acceptable at A1."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Friday showed Robinson new ways to fish and to find food.\" This is invented, because in the novel Robinson teaches Friday, not the other way round. It is not a main event, but it is better replaced with something faithful, e.g. \"Friday worked hard and helped Robinson with the goats and the fields.\"",
+        "\"The young man shook with fear\" comes right after the prisoner is called only \"one prisoner\". Consider \"The prisoner shook with fear\" for a clearer referent at A2."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "fidelity",
+          "quote": "In return, he showed Robinson better ways to fish and to cook.",
+          "problem": "This reverses the original. In Defoe, Robinson teaches Friday to cook, and Friday is won over by Robinson's roast and boiled goat meat. Friday does not teach Robinson fishing or cooking. The claim is invented and contradicts the source.",
+          "fix": "He worked hard beside Robinson, and he helped him with the goats, the fields, and the boat."
+        },
+        {
+          "criterion": "logic / fidelity (quiz)",
+          "quote": "3. What did Friday teach Robinson? — How to read English / *Better ways to fish and cook / How to build a big ship",
+          "problem": "The keyed answer depends on the invented detail above, so the question checks a fact that is not in the original work.",
+          "fix": "Replace the question: \"Why did Robinson call the young man Friday?\" — *He saved him on a Friday. / It was his real name. / Poll said the name."
+        }
+      ],
+      "notes": [
+        "Quiz Q1 distractor \"He wrote in a book from the ship.\" In the novel Robinson does keep a journal until his ink runs out. The B1 text does not mention it, so the key is still clear, but a less arguable distractor is better, e.g. \"He looked at the moon every night.\"",
+        "\"The ship was a few days from the coast when a terrible storm began.\" It is unclear which coast is meant. Consider \"The ship was twelve days out from Brazil when a terrible storm began.\"",
+        "\"For the first time in twenty-five years\" is fine as an approximation, since Friday arrives in Robinson's 25th year."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"In return, he taught Robinson things no book could teach. He showed him how to track animals, how to read the weather, and how to guide a canoe through rough water.\" Most of this is invented. Friday handles a canoe well in the novel, but tracking and weather-reading are not in the book, and the novel's dynamic is Robinson teaching Friday. Consider \"In return, he proved a loyal and tireless helper, and he handled a canoe far better than Robinson ever could.\"",
+        "\"the youngest son\" — Defoe says \"third son\". This is acceptable, but \"third son\" is more exact (and matches C1).",
+        "\"won back the ship without a long fight\" — the rebel captain is shot in the retaking. \"Without a long fight\" is acceptable as softening."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Yet the teaching ran both ways, for Friday knew things no book on the island could teach. He showed Robinson how to track an animal over hard ground and how to read tomorrow's weather in tonight's sky.\" This is invented (see B2). Consider \"Friday, for his part, proved the most faithful of servants and a far better hand with a canoe than his master.\"",
+        "\"...a merchant who had grown comfortable through hard work and caution. His father, a cautious man confined to his chair by illness...\" The caution/cautious repetition is clumsy, and \"His father\" restates the merchant. Consider \"His father, by now confined to his chair with gout, pleaded with him to stay at home.\"",
+        "\"won back the ship without a battle\" — in the original there is a brief armed retaking, and the rebel captain is shot. Consider \"without a pitched battle\".",
+        "\"Twelve days out, a hurricane fell upon them\" — Defoe has the storm about twelve days after crossing the Line, not twelve days after leaving port. This is negligible."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is strong and faithful across all five levels: the shipwreck, eleven raft trips, the calendar post, the fever and Bible, the chicken-feed grain, the canoe, Poll, the footprint, the rescue of Friday, the mutiny and the 1686 departure all match Defoe, and the grammar fits each level. B1 fails because it says Friday taught Robinson to fish and cook, which reverses the novel (Robinson teaches Friday to cook), and its quiz Q3 is keyed to that invented detail. The same 'Friday teaches Robinson' invention appears more mildly in A2, B2 and C1 and should be harmonized."
+}

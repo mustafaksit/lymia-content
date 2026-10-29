@@ -1,0 +1,58 @@
+{
+  "id": "st-0274",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Robin can't miss a match,\" the sheriff said. -- 'can't miss' may be read as 'cannot fail to hit the target' rather than 'cannot stay away'. Consider: \"Robin loves a match. He will come,\" the sheriff said.",
+        "The warning comes from Little John rather than an unnamed outlaw (David of Doncaster in Pyle); acceptable condensation for A1."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Far away, Little John put down his bow and smiled.",
+          "problem": "Little John has just shot an arrow through the sheriff's open window, so he must be close to the hall (within bowshot). 'Far away' contradicts this and makes it unclear who shot the arrow.",
+          "fix": "Outside in the dark, Little John put down his bow and smiled."
+        }
+      ],
+      "notes": [
+        "Two different speakers both get 'he went on' within three lines (\"'The match is a trap, master,' he went on.\" / \"'But I don't want people to call us cowards,' he went on.\"). Consider merging the first man's lines into one quote and using 'Robin added' for the second.",
+        "\"It said thank you for the golden arrow.\" is a little flat; \"It thanked him for the golden arrow.\" reads more naturally."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Far away in Sherwood, Little John walked back to his friends, and they laughed until morning.",
+          "problem": "The arrow was shot 'at that moment' through the sheriff's window, so Little John was in Nottingham, not 'far away in Sherwood'. The sentence places him in the forest at the same time he must be at the sheriff's hall.",
+          "fix": "Outside in the dark, Little John put down his bow and slipped away to Sherwood, where he and his friends laughed until morning."
+        }
+      ],
+      "notes": []
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"a scrap of paper\" -- 'parchment' (as in C1) would be more period-appropriate, but 'paper' is acceptable at B2."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Far off in the darkness, Little John unstrung his bow\" -- slightly at odds with a shot through the window; 'Out in the darkness' would avoid any reading that he was too far to shoot. Acceptable as literary distance, so not a failure.",
+        "Strong fidelity to Pyle: rebuke by the king, David-of-Doncaster-style warning at the inn, scarlet rags and eye patch, Gilbert and Adam o' the Dell as finalists, 'no man ... my master' refusal, and Little John's verse-bearing arrow at the feast."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "Faithful, natural retelling of Pyle's 'Shooting Match at Nottingham Town' with correct quizzes and level-appropriate grammar at every level. A2 and B1 fail on one concrete logic error each: Little John is placed 'far away' (B1: 'in Sherwood') at the very moment he shoots an arrow through the sheriff's window. One-sentence fixes resolve both."
+}

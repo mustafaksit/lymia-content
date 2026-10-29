@@ -1,0 +1,660 @@
+{
+  "id": "st-0279",
+  "title": "Robinson Crusoe",
+  "ts": "2026-10-29T14:58:53",
+  "node": {
+    "id": "st-0279",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %80.6 | 314 kelime\n    havuz dışı: sea(3), farm(1), sailed(2), ship(3), terrible(1), storm(1), sailors(1), boat(2), wave(1), island(5), alive(1), calm(1), rocks(1), swam(1), tools(1), guns(1), raft(1), wood(1), rock(1), fence(1), tall(1), wooden(1), post(1), mark(1), wild(1), goats(2), caught(1), milk(1), parrot(1), taught(2), poor(1), bird(1), ships(1), footprint(1), sand(1), print(1), foot(1), afraid(1), hid(1), boats(1), beach(1), prisoner(2), suddenly(1), jumped(1), gun(1), scared(1), alone(1), captain(1)",
+        "level A2: A2: KALDI | kapsam %84.5 | 502 kelime\n    havuz dışı: sailor(1), farm(1), ship(8), terrible(1), storm(1), sand(2), sailors(2), jumped(1), boat(1), wave(1), waves(1), onto(1), beach(4), shore(1), swam(1), bread(2), rice(1), cheese(2), raft(1), wood(1), tools(1), guns(1), island(3), cats(1), fence(1), tent(1), dug(1), cave(1), wooden(1), count(1), wild(1), goats(2), milk(1), seeds(1), parrot(1), bird(1), lonely(1), pots(1), clay(1), goat(1), skins(1), footprint(1), print(1), bare(1), everywhere(1), smoke(1), canoes(1), prisoners(1), prisoner(2), hill(1), hurried(1), knocked(1), noise(1), gun(1), frightened(1), shook(1), shouted(1), captain(2), sailed(1)",
+        "level B1: B1: KALDI | kapsam %92.2 | 774 kelime\n    havuz dışı: faraway(1), blessing(1), sugar(1), restless(1), voyage(1), sandbank(1), giant(1), companions(1), raft(1), bread(2), rice(2), cheese(2), sails(1), rope(1), steep(1), fence(1), tent(2), dug(1), cave(1), storeroom(1), wooden(1), shore(2), notch(2), seventh(1), calendar(1), goats(2), whenever(1), barley(1), baking(1), pots(1), clay(1), sewed(1), goat(2), companion(1), parrot(1), sand(1), footprint(1), bare(1), frightened(2), canoes(1), prisoners(2), clever(1), humor(1), beside(2), lying(1), sailors(1), captain(2), sailed(1)",
+        "level B2: B2: KALDI | kapsam %93.3 | 1167 kelime\n    havuz dışı: third(1), respectable(1), begged(1), obey(1), voyage(2), drowned(1), pirates(1), captain(3), tobacco(1), sandbank(1), lowered(1), instant(1), cling(1), scramble(1), tide(2), raft(1), masts(1), planks(1), gunpowder(1), barrel(1), ropes(1), wreck(1), vanished(1), grassy(1), steep(1), cave(1), storeroom(1), carved(1), thirtieth(1), notch(1), fever(1), fetch(1), craftsman(1), goats(2), barley(2), clay(1), sewed(1), umbrella(2), goat(1), carving(1), canoe(3), trunk(1), companion(1), parrot(1), asleep(1), noon(1), lightning(1), bare(1), toe(1), heel(1), footprint(1), afterward(1), canoes(2), horror(1), fifth(1), paddled(1), trembling(1), unsure(1), raisins(1), cheerful(1), tireless(1), anchored(1), sailors(1), loyal(1), clever(1), nineteenth(1), goatskin(1), eager(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8057,
+        "wordCount": 314,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "island(5)",
+          "sea(3)",
+          "ship(3)",
+          "sailed(2)",
+          "boat(2)",
+          "goats(2)",
+          "taught(2)",
+          "prisoner(2)",
+          "farm(1)",
+          "terrible(1)",
+          "storm(1)",
+          "sailors(1)",
+          "wave(1)",
+          "alive(1)",
+          "calm(1)",
+          "rocks(1)",
+          "swam(1)",
+          "tools(1)",
+          "guns(1)",
+          "raft(1)",
+          "wood(1)",
+          "rock(1)",
+          "fence(1)",
+          "tall(1)",
+          "wooden(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8446,
+        "wordCount": 502,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ship(8)",
+          "beach(4)",
+          "island(3)",
+          "sand(2)",
+          "sailors(2)",
+          "bread(2)",
+          "cheese(2)",
+          "goats(2)",
+          "prisoner(2)",
+          "captain(2)",
+          "sailor(1)",
+          "farm(1)",
+          "terrible(1)",
+          "storm(1)",
+          "jumped(1)",
+          "boat(1)",
+          "wave(1)",
+          "waves(1)",
+          "onto(1)",
+          "shore(1)",
+          "swam(1)",
+          "rice(1)",
+          "raft(1)",
+          "wood(1)",
+          "tools(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9225,
+        "wordCount": 774,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "bread(2)",
+          "rice(2)",
+          "cheese(2)",
+          "tent(2)",
+          "shore(2)",
+          "notch(2)",
+          "goats(2)",
+          "goat(2)",
+          "frightened(2)",
+          "prisoners(2)",
+          "beside(2)",
+          "captain(2)",
+          "faraway(1)",
+          "blessing(1)",
+          "sugar(1)",
+          "restless(1)",
+          "voyage(1)",
+          "sandbank(1)",
+          "giant(1)",
+          "companions(1)",
+          "raft(1)",
+          "sails(1)",
+          "rope(1)",
+          "steep(1)",
+          "fence(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9332,
+        "wordCount": 1167,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "captain(3)",
+          "canoe(3)",
+          "voyage(2)",
+          "tide(2)",
+          "goats(2)",
+          "barley(2)",
+          "umbrella(2)",
+          "canoes(2)",
+          "third(1)",
+          "respectable(1)",
+          "begged(1)",
+          "obey(1)",
+          "drowned(1)",
+          "pirates(1)",
+          "tobacco(1)",
+          "sandbank(1)",
+          "lowered(1)",
+          "instant(1)",
+          "cling(1)",
+          "scramble(1)",
+          "raft(1)",
+          "masts(1)",
+          "planks(1)",
+          "gunpowder(1)",
+          "barrel(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9086,
+        "wordCount": 1575,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "voyage(3)",
+          "captain(3)",
+          "tide(3)",
+          "patience(3)",
+          "canoe(3)",
+          "terror(2)",
+          "raft(2)",
+          "powder(2)",
+          "aloud(2)",
+          "wreck(2)",
+          "carved(2)",
+          "fever(2)",
+          "goats(2)",
+          "companions(2)",
+          "fled(2)",
+          "goatskins(2)",
+          "third(1)",
+          "merchant(1)",
+          "caution(1)",
+          "confined(1)",
+          "gout(1)",
+          "pleaded(1)",
+          "obey(1)",
+          "goodbye(1)",
+          "oath(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": "ls, and guns. He made a raft from wood. He took many things to the island.  Robins"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "NEEDS_FIXED",
+          "cat": "STYLE",
+          "msg": "The double modal “needed arrived” is nonstandard (only accepted in certain dialects). Consider “to be arrived”.",
+          "frag": "arrived",
+          "ctx": "m to the mainland. The chance he needed arrived in his twenty-fifth year on the island,"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 314,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.007,
+      "lowZipfWords": [
+        "raft",
+        "swam"
+      ],
+      "keyTermTokens": 2,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 502,
+      "sentLenMedian": 8.5,
+      "zipfMedian": 5.91,
+      "lowZipfRatio": 0.0086,
+      "lowZipfWords": [
+        "canoes",
+        "hurried",
+        "raft",
+        "swam"
+      ],
+      "keyTermTokens": 2,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 774,
+      "sentLenMedian": 11,
+      "zipfMedian": 5.99,
+      "lowZipfRatio": 0.0109,
+      "lowZipfWords": [
+        "barley",
+        "canoes",
+        "faraway",
+        "raft",
+        "sandbank",
+        "sewed",
+        "storeroom",
+        "swam"
+      ],
+      "keyTermTokens": 2,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1167,
+      "sentLenMedian": 16,
+      "zipfMedian": 5.92,
+      "lowZipfRatio": 0.0302,
+      "lowZipfWords": [
+        "anchored",
+        "barley",
+        "boarded",
+        "canoes",
+        "cling",
+        "craftsman",
+        "dearest",
+        "fenced",
+        "goatskin",
+        "grassy",
+        "gunpowder",
+        "helper",
+        "hurried",
+        "masts",
+        "paddled",
+        "patiently",
+        "plainly",
+        "planks",
+        "raft",
+        "raisins",
+        "rescuer",
+        "rowed",
+        "sandbank",
+        "scramble",
+        "sewed",
+        "storeroom",
+        "swam",
+        "thirtieth",
+        "tireless",
+        "tiring",
+        "trembling"
+      ],
+      "keyTermTokens": 2,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1575,
+      "sentLenMedian": 22.0,
+      "zipfMedian": 5.95,
+      "lowZipfRatio": 0.0332,
+      "lowZipfWords": [
+        "barley",
+        "bearded",
+        "beckoned",
+        "boyhood",
+        "canoes",
+        "chastened",
+        "cheerfully",
+        "clung",
+        "cunning",
+        "dashed",
+        "delirium",
+        "endlessly",
+        "ferried",
+        "floated",
+        "flung",
+        "gazing",
+        "goatskin",
+        "goatskins",
+        "gout",
+        "hilltop",
+        "hollowed",
+        "humbler",
+        "keepsakes",
+        "leaped",
+        "masts",
+        "midday",
+        "overtook",
+        "peopled",
+        "planks",
+        "pursuers",
+        "raft",
+        "raisins",
+        "reproaching",
+        "rescuing",
+        "resown",
+        "roamed",
+        "rowed",
+        "scrambled",
+        "sharpened",
+        "sheltered",
+        "sow",
+        "sown",
+        "stalks",
+        "storeroom",
+        "sturdy",
+        "swam",
+        "trembling",
+        "undamaged",
+        "uselessness"
+      ],
+      "keyTermTokens": 2,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8057,
+      "wordCount": 314,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "island(5)",
+        "sea(3)",
+        "ship(3)",
+        "sailed(2)",
+        "boat(2)",
+        "goats(2)",
+        "taught(2)",
+        "prisoner(2)",
+        "farm(1)",
+        "terrible(1)",
+        "storm(1)",
+        "sailors(1)",
+        "wave(1)",
+        "alive(1)",
+        "calm(1)",
+        "rocks(1)",
+        "swam(1)",
+        "tools(1)",
+        "guns(1)",
+        "raft(1)",
+        "wood(1)",
+        "rock(1)",
+        "fence(1)",
+        "tall(1)",
+        "wooden(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8446,
+      "wordCount": 502,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ship(8)",
+        "beach(4)",
+        "island(3)",
+        "sand(2)",
+        "sailors(2)",
+        "bread(2)",
+        "cheese(2)",
+        "goats(2)",
+        "prisoner(2)",
+        "captain(2)",
+        "sailor(1)",
+        "farm(1)",
+        "terrible(1)",
+        "storm(1)",
+        "jumped(1)",
+        "boat(1)",
+        "wave(1)",
+        "waves(1)",
+        "onto(1)",
+        "shore(1)",
+        "swam(1)",
+        "rice(1)",
+        "raft(1)",
+        "wood(1)",
+        "tools(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9225,
+      "wordCount": 774,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "bread(2)",
+        "rice(2)",
+        "cheese(2)",
+        "tent(2)",
+        "shore(2)",
+        "notch(2)",
+        "goats(2)",
+        "goat(2)",
+        "frightened(2)",
+        "prisoners(2)",
+        "beside(2)",
+        "captain(2)",
+        "faraway(1)",
+        "blessing(1)",
+        "sugar(1)",
+        "restless(1)",
+        "voyage(1)",
+        "sandbank(1)",
+        "giant(1)",
+        "companions(1)",
+        "raft(1)",
+        "sails(1)",
+        "rope(1)",
+        "steep(1)",
+        "fence(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9332,
+      "wordCount": 1167,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "captain(3)",
+        "canoe(3)",
+        "voyage(2)",
+        "tide(2)",
+        "goats(2)",
+        "barley(2)",
+        "umbrella(2)",
+        "canoes(2)",
+        "third(1)",
+        "respectable(1)",
+        "begged(1)",
+        "obey(1)",
+        "drowned(1)",
+        "pirates(1)",
+        "tobacco(1)",
+        "sandbank(1)",
+        "lowered(1)",
+        "instant(1)",
+        "cling(1)",
+        "scramble(1)",
+        "raft(1)",
+        "masts(1)",
+        "planks(1)",
+        "gunpowder(1)",
+        "barrel(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9086,
+      "wordCount": 1575,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "voyage(3)",
+        "captain(3)",
+        "tide(3)",
+        "patience(3)",
+        "canoe(3)",
+        "terror(2)",
+        "raft(2)",
+        "powder(2)",
+        "aloud(2)",
+        "wreck(2)",
+        "carved(2)",
+        "fever(2)",
+        "goats(2)",
+        "companions(2)",
+        "fled(2)",
+        "goatskins(2)",
+        "third(1)",
+        "merchant(1)",
+        "caution(1)",
+        "confined(1)",
+        "gout(1)",
+        "pleaded(1)",
+        "obey(1)",
+        "goodbye(1)",
+        "oath(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 7,
+      "1": 5,
+      "2": 3
+    },
+    "fails": []
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

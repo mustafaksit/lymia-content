@@ -14,6 +14,10 @@ pipeline/v2-originals.draft.json
 !.env.example
 .autopilot.log
 
+# Vocab pipeline (aşama 1/2): venv + cache git'e girmez, çıktı content/v2/vocab yayınlanır
+pipeline/vocab/.venv-vocab/
+pipeline/vocab/cache/
+
 # Geçici/debug çıktıları (yayınlanmaz)
 *.out
 .autopilot.nohup.log
@@ -21,3 +25,10 @@ pipeline/.tmp-*.json
 pipeline/.fix-*.json
 pipeline/.regen-progress.json
 docs/kapak-kontakt-*.png
+
+# Quiz pipeline (Faz 3): venv + indirilen veri/model git'e girmez, cikti content/v2/quiz yayinlanir
+pipeline/quiz/.venv-quiz/
+pipeline/quiz/data/
+pipeline/quiz/cache/
+pipeline/quiz/.hf-cache/
+pipeline/quiz/__pycache__/

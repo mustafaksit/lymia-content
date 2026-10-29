@@ -1,0 +1,55 @@
+{
+  "id": "st-0277",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "The Snow Queen had a palace of ice. He was blue with cold.",
+          "problem": "Kai has not been named since the previous paragraph, and the only person in the sentence before is the Snow Queen, who is female. 'He' has no clear antecedent, so an A1 reader cannot tell who is blue with cold or where Kai is.",
+          "fix": "The Snow Queen had a palace of ice. Kai sat there alone. He was blue with cold."
+        }
+      ],
+      "notes": [
+        "'The two friends were big now' works for A1, but 'grown up now' would be more natural.",
+        "The robber girl says 'Take Gerda to the Snow Queen' while the other levels say Lapland. This is acceptable simplification, not drift."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'A crow told her about a clever young prince.' is followed by 'The prince and princess...', but the princess was never introduced. Optional: 'a clever young man who married a princess'.",
+        "The target word is 'forever' (A2/B1) instead of 'Eternity' (B2/C1). This is an acceptable simplification.",
+        "'Make the word 'forever', and you are free.' is an imperative plus 'and' structure, not a formal conditional, so it is fine for A2."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'some birds told Gerda that they saw Kai' is natural enough for B1. 'had seen' would be more precise, but B1 avoids the perfect.",
+        "In 'an old reindeer that stood near them', the original reindeer is tied up. 'that was tied near them' would be a passive, so the current wording is acceptable."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'She put on her new red shoes and offered them to the river, and a drifting boat carried her away.' skips her getting into the boat. Optional: '...offered them to the river, then climbed into a boat, which drifted away with her.'"
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Very faithful to Andersen. The text keeps the mirror shaking with laughter, the face at the frosted window, the cherry garden and painted roses, the squeaking boots, the dried cod, the twelve men's strength, the snowflake army, the Mirror of Reason, Eternity with the skates, the volcanoes, the tears consuming the splinter, the robber girl's remark and the 'warm, blessed summer' ending.",
+        "'as surely as a candle draws moths' is an added image, but it is in keeping with the original and not a fidelity problem."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A2, B1, B2 and C1 are faithful to Andersen, natural and correctly levelled, and all quizzes have one clearly correct keyed answer. A1 fails on one sentence: 'He was blue with cold.' follows a sentence about the Snow Queen and has no clear antecedent, so the reader cannot tell it means Kai. Reintroducing Kai by name fixes it."
+}
