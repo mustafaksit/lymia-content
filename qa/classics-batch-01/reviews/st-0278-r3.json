@@ -1,0 +1,52 @@
+{
+  "id": "st-0278",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"His horse fell, and some men hit him.\" In Cervantes a single mule driver beats him. This is an acceptable simplification, but \"one man hit him\" would be more faithful and costs nothing.",
+        "A1 names the knight before the horse (\"His horse got a name too\"). Every other level, and the original, names Rocinante first. This is not a contradiction, but \"First he gave his horse a name: Rocinante. Then he chose a name for himself...\" would match the other levels.",
+        "\"I can give you an island\" reads slightly oddly as a promise. \"One day I can give you an island\" or \"Maybe I can give you an island\" sounds more natural within A1 grammar."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Some travelers on the road beat him\": in the original only one mule driver beats him. Consider \"A man on the road beat him\".",
+        "\"One day I can make you ruler of an island\": a promise with 'can' is slightly unnatural. \"One day maybe I can make you ruler of an island\" keeps the A2 grammar.",
+        "\"He lived with his housekeeper, his young niece and an old horse\" sounds faintly comic. This is acceptable, but \"He had a housekeeper, a young niece and an old horse\" reads more cleanly.",
+        "Quiz Q3 \"Who did Don Quixote blame for the windmills?\" could be tightened to \"Who did Don Quixote blame for his fall?\""
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No passive or conditionals found. The relative clauses (\"which looked like a castle to him\") are appropriate for B1.",
+        "The events and their order (inn knighting, beating, book-burning, walled-up library, Freston, fifteen days, Sancho, windmills, road to Puerto Lapice) are faithful to chapters 1-8."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The lance breaks in the merchants episode and he has one again at the windmills. The original leaves this gap too, so it is not a fail. A clause such as \"he found another old lance\" could be added at the second departure if desired.",
+        "\"whose name hardly matters\" softens Cervantes' famous 'whose name I do not care to remember'. This is fine, but \"whose name I have no wish to recall\" would keep the narrator's voice."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"One of the mule drivers broke the fallen man's lance\": mule drivers have not been introduced (only merchants). Consider \"One of the merchants' mule drivers\".",
+        "\"lay awake dreaming of his lady\" is idiomatic, though \"lay awake thinking of his lady\" avoids the small paradox.",
+        "The level is genuinely literary and close to the original: Montiel, Briareus, the account-book ceremony, 'windmills in his head', the oak-branch lance and Puerto Lapice at about three in the afternoon. Nothing is padded."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels faithfully retell Part I, chapters 1-8 of Don Quixote with no film-derived material. The events, their order and the stopping point at Puerto Lapice are correct, and grammar fits each level's constraints. All quizzes have one clearly correct keyed answer, and the only remarks are minor fidelity and phrasing notes (one assailant rather than several, the 'can' promises, the unintroduced mule drivers in C1)."
+}

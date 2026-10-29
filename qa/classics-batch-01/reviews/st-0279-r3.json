@@ -1,0 +1,68 @@
+{
+  "id": "st-0279",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Robinson caught some young goats. They gave him milk.\" Young kids do not give milk. Optional: \"Robinson caught some goats. They gave him milk.\"",
+        "\"Then Robinson and Friday sailed away together. He was there for twenty-eight years.\" The time statement comes after the departure and reads a little backwards. Optional: \"Robinson was on the island for twenty-eight years. Then he and Friday sailed away together.\"",
+        "Quiz Q1: 'In Brazil' is a weak distractor, since he also 'sailed on a big ship again' from Brazil. The text's wording 'went to sea' matches York, so the keyed answer still holds.",
+        "His gun scaring both pursuers away is a softening of the original (he knocks one down and shoots the other). That is acceptable for A1."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "In Defoe, Poll says \"Poor Robin Crusoe!\" The 'Robinson' form appears at every level; it is a harmless simplification.",
+        "\"Some sailors on the ship were against their captain.\" is slightly flat. \"Some sailors on the ship were fighting their captain.\" is more natural.",
+        "\"Robinson caught some young ones, so soon he had milk and cheese\" is the same small point about young goats as A1. 'soon' softens it."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"the ship struck a sandbank\" followed by \"the ship sat on rocks nearby\" is consistent with Defoe, where the tide moves the ship near the rock. Some readers may see it as a contradiction, though. Optional: \"the ship lay near the shore\".",
+        "\"For the first time in twenty-five years, Robinson had someone to talk to\" ignores Poll. This is fine as a reading of 'someone' (a person)."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Then, one day around noon, as he walked along the shore toward his boat, Robinson stopped as if struck by lightning.",
+          "problem": "The only boat this level has mentioned is the huge canoe, and the text has just said it was \"far too heavy to drag to the water\". 'His boat' therefore points to nothing, or contradicts the canoe passage. In Defoe he later builds a smaller canoe, but this text never says so.",
+          "fix": "Add after the canoe sentence: \"Wiser now, he built a smaller canoe close to the shore, and in it he sometimes explored the coast.\" Or change the quoted sentence to: \"Then, one day around noon, as he walked along a lonely part of the shore, Robinson stopped as if struck by lightning.\""
+        }
+      ],
+      "notes": [
+        "\"loaded it with food, tools, guns, gunpowder, and a barrel of water\": Defoe's first raft carries bread, rice, cheese, dried goat meat, liquor, tools and arms, not a water barrel. The detail is invented but trivial. Optional: replace with \"a chest of the carpenter's tools\".",
+        "\"Over the next thirteen days he made eleven trips ... That night another storm blew up\": 'That night' has no clear anchor. Clearer: \"The night after his last trip, another storm blew up...\"",
+        "Only two pursuers is a simplification (Defoe has three, one of whom turns back). That is acceptable."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Fifteen years passed in this fashion, until one day, walking toward his boat along a part of the shore he seldom visited, he stopped as if struck by lightning.",
+          "problem": "The paragraph before last ends with the great canoe that \"no man alone could ever drag ... to the sea\". No other boat has been introduced, so 'his boat' contradicts that or is unexplained. (Friday's sturdier boat comes later.)",
+          "fix": "Extend the canoe passage: \"Only when it was finished did he admit that no man alone could ever drag it to the sea. Chastened, he built a humbler canoe beside a creek, and in it he once tried to sail around the island, only to be swept so far out by a current that he gave himself up for lost.\" Alternatively, drop 'walking toward his boat' and keep 'along a part of the shore he seldom visited'."
+        }
+      ],
+      "notes": [
+        "\"A wave like a moving mountain overtook them some miles out\": Defoe has them rowing about a league and a half, nearing the surf. 'some miles out' suggests open sea. Optional: \"overtook them as they neared the breakers\".",
+        "\"Working in secret, Robinson and Friday freed the prisoners\": 'prisoners' was used just before for the cannibals' captives. 'freed the captain and his companions' avoids the echo.",
+        "Saying the second pursuer 'fled' (in Defoe he is shot) is a softening. It is acceptable and consistent with B1/A2.",
+        "The prose is genuinely literary and not padded, and it is faithful in fine detail: the gout, the oath, the coins, the fiery dream, the chicken feed, the telescope, and the 19 December 1686 departure."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A1, A2 and B1 are clean, faithful to Defoe (not film versions), and grammatically at level. B2 and C1 share one concrete logic error: after saying the great canoe could never reach the water, both send Robinson 'toward his boat' when he finds the footprint, but no usable boat has been introduced. Add one sentence about the smaller canoe or drop the phrase. Everything else is notes."
+}

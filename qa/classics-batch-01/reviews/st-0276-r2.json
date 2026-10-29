@@ -1,0 +1,59 @@
+{
+  "id": "st-0276",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "\"Bring me all of Blefuscu!\" he said.",
+          "problem": "Read literally, this asks Gulliver to carry a whole island to the Emperor. That is impossible and it misstates the request. In Swift, and in every other level of this story, the Emperor asks for the rest of Blefuscu's ships so he can conquer the country. A1 readers will take the sentence literally.",
+          "fix": "\"Bring me all their other ships!\" he said. \"Then Blefuscu is mine. Its people must be my slaves.\""
+        }
+      ],
+      "notes": [
+        "\"I am very hungry,\" he said. The Lilliputians cannot understand English, so the gesture is what carries the meaning. This is acceptable, but \"He put a finger to his mouth. He was very hungry.\" would avoid suggesting they understood his words.",
+        "In Swift, the friend who warns Gulliver at night is not named (\"a considerable person at court\"). A1 already handles this correctly with \"a friend at court\"."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"I can't make a free people into slaves\": 'a free people' (people as a countable noun meaning a nation) may confuse A2 readers. \"I can't make free people into slaves\" is simpler.",
+        "Naming Reldresal as the friend who warns Gulliver at night is a conflation. In Swift the warner is anonymous, and Reldresal is the minister who proposes blinding Gulliver in the council. This is acceptable as a simplification but worth knowing (it applies to A2 through C1)."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Quiz Q3 stem \"near the coast of Blefuscu\" sits slightly against the text (\"floating far out in the water\"). Consider \"off the coast of Blefuscu\".",
+        "\"they locked his leg to an old temple with tiny chains\": the chains were fixed inside the temple gate. \"they chained his leg inside an old temple\" is more natural and more accurate.",
+        "\"Since then the two empires had fought many wars\": in Swift the Big-Endian quarrel caused six rebellions, and the war with Blefuscu had lasted 36 moons. This is a harmless simplification."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"to watch his feet in the streets\": \"to watch his step in the streets\" or \"to take care where he stepped\" is more idiomatic.",
+        "\"the tiny sheep behind his house\": in Swift they grazed on a bowling green at Greenwich. \"the tiny sheep grazing in his garden\" or \"on a green near London\" would be safer.",
+        "The urination on the palace fire, one of the treason charges, is omitted at every level. This is acceptable for a children's retelling."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Highly faithful, including the 22 wheels, 900 men, 1,500 horses, 91 chains, the inventory, Flimnap's rope-dancing, the 30-yard swim, the spectacles, the Nardac title, the blinding-and-starving 'mercy', and the departure on 24 September 1701. The prose is genuinely literary, not padded.",
+        "\"Late one night Reldresal visited him in a closed chair\": in Swift the visitor is an anonymous 'considerable person at court', and Reldresal is the minister who proposed the blinding. \"a friend at court visited him in a closed chair\" would be more exact and would sharpen the irony of the next paragraph.",
+        "\"he stitched sails from their finest linen\": Swift has their strongest linen, folded thirteen times. \"strongest\" is the more accurate choice.",
+        "\"the two empires had been at war ever since\": in Swift the open war had lasted 36 moons, though the quarrel was older. This is a minor point."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "B1, B2 and C1 are faithful to Swift's Part I and pass, and A2 passes too. They are natural and level-appropriate, with correctly keyed quizzes. A1 fails on one sentence, \"Bring me all of Blefuscu!\", which literally asks Gulliver to carry an island and contradicts the other levels, where the Emperor asks for the remaining ships. Recurring note: in Swift the friend who brings the night warning is anonymous, not Reldresal."
+}

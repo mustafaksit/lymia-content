@@ -1,0 +1,61 @@
+{
+  "id": "st-0279",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"He made a tall wooden post.\" reads slightly oddly; \"He put up a tall wooden post.\" is more natural (A2 already uses \"put up\").",
+        "\"He was there for twenty-eight years.\" comes after \"sailed away\" and the referent of \"there\" is a little loose; consider \"He was on the island for twenty-eight years.\"",
+        "One prisoner instead of two, and the second pursuer scared away instead of shot, are acceptable simplifications."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "He made pots and clothes from goat skins.",
+          "problem": "As written, both the pots and the clothes are made from goat skins. The original, and B1/B2 (\"He made pots from clay and sewed clothes from goat skins\"), say the pots were made from clay. A2 learners will read this literally.",
+          "fix": "He made pots from clay and clothes from goat skins."
+        }
+      ],
+      "notes": [
+        "\"He planted a few old seeds and later made bread.\" makes the planting sound deliberate, while B1/B2/C1 say the seeds sprouted by accident. Crusoe did re-sow them on purpose afterwards, so this is defensible, but \"Some old seeds grew near his home. He planted them again and later made bread.\" would match the other levels better.",
+        "\"Twelve days later, a terrible storm hit the ship.\" is fine; it refers back to the start of the trading trip."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Over the next two weeks, he made eleven trips\" is an acceptable round figure for the thirteen days in B2/C1.",
+        "Having the second pursuer frightened away instead of shot is an acceptable softening, and it matches A1/A2.",
+        "\"was born\" is a fixed expression and is acceptable despite the no-passive rule for B1."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Quiz Q2 option \"He forgot that he shook out chicken feed there.\" would read better with the past perfect: \"He forgot that he had shaken out chicken feed there.\"",
+        "\"he offered to sail with it\": in the original the neighbours proposed the voyage and Crusoe agreed. This is minor, but \"he agreed to sail with them\" is closer.",
+        "The dates and figures (30 September 1659; 19 December 1686; 28 years, 2 months, 19 days; eleven men in the boat; eleven trips) match the original."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The chance he needed arrived in his twenty-fifth year\" and \"his moment had come\" refer to a wish the text never sets up. In the original, Crusoe had long hoped to rescue a captive who could guide him off the island. Consider adding one sentence earlier, e.g. \"He began to dream of rescuing one of those prisoners, who might one day guide him to the mainland.\"",
+        "\"Robinson listened, wept, promised to obey\": in the original it is the father who weeps; Robinson is 'sincerely affected'. Consider \"Robinson listened, was deeply moved, promised to obey\".",
+        "\"laughed aloud at their uselessness\": the original has him smile to himself. This is acceptable artistic licence.",
+        "\"overtook them a mile out\": the original says about a league and a half. This is minor; consider \"some miles out\".",
+        "The prose is genuinely literary and not padded, and the ending (keepsakes, coins, Friday at the rail) echoes the opening well."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A strong, faithful retelling at every level, with no film-derived elements, correct order of events and ending, and well-keyed quizzes. The only concrete defect is in A2, where \"He made pots and clothes from goat skins.\" says the pots were made of goat skin, which contradicts the other levels and the original. Fixing that one sentence should make the story pass."
+}

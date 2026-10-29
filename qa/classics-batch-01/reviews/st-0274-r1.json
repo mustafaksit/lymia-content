@@ -1,0 +1,140 @@
+{
+  "id": "st-0274",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "He looked for men in green. But he did not see Robin.",
+          "problem": "The A1 text never says Robin and his men wear green, so the sheriff looking for 'men in green' comes out of nowhere for an A1 reader.",
+          "fix": "Add to paragraph 1: \"Robin and his friends always wore green.\""
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "\"Then nobody must know me,\" he said.",
+          "problem": "'Know' meaning 'recognize' with 'must' sounds odd and stilted. A native writer would not say it this way.",
+          "fix": "\"Then I can't look like Robin Hood,\" he said."
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "At the end, only three archers stayed.",
+          "problem": "In a contest, 'stayed' is a calque. The natural phrase is 'were left'.",
+          "fix": "At the end, only three archers were left."
+        }
+      ],
+      "notes": [
+        "\"The sheriff sat on a big seat\" reads flat. \"a high seat\" would be more natural.",
+        "Fidelity is fine for a condensed A1 (Pyle's sheriff/king scene is left out, which is acceptable)."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "The news soon reached Sherwood. \"Get ready, lads,\" he said.",
+          "problem": "'he' has no antecedent. The last person named is the sheriff, so the line reads as if the sheriff is speaking.",
+          "fix": "The news soon reached Sherwood. Robin jumped up. \"Get ready, lads,\" he said."
+        },
+        {
+          "criterion": "meaning drift",
+          "quote": "\"You are right,\" he said. \"But I don't want people to call us cowards.\" \"So we can go, but nobody can know us.\"",
+          "problem": "Right after the warning man's speech, 'he' is ambiguous. The last sentence is a separate quotation with no tag, which by English convention means a new speaker. 'So we can go, but nobody can know us' is also unnatural.",
+          "fix": "\"You are right,\" said Robin. \"But I don't want people to call us cowards. We will go, but in disguise.\""
+        },
+        {
+          "criterion": "logic error",
+          "quote": "\"Your own mother doesn't know you now!\" he said.",
+          "problem": "The paragraph is about Robin, so 'he' is Robin, who then says 'Your own mother doesn't know you' to himself. In the other levels a friend says this line to Robin.",
+          "fix": "\"Nobody can tell it is you now!\" laughed Little John."
+        },
+        {
+          "criterion": "meaning drift",
+          "quote": "\"I am only a poor traveler,\" the stranger said. \"Stay and work for me, and I can pay you well.\"",
+          "problem": "The job offer comes straight after the stranger's tag and has no tag of its own, so it reads as if the stranger is offering the sheriff work.",
+          "fix": "\"I am only a poor traveler,\" the stranger said. \"Stay and work for me, and I can pay you well,\" said the sheriff."
+        },
+        {
+          "criterion": "meaning drift",
+          "quote": "\"I am glad,\" he said, \"but I am sad too.\" \"The sheriff thinks a beggar won his prize.\"",
+          "problem": "Closing and reopening the quotation with no tag signals a change of speaker, but Robin says both lines.",
+          "fix": "\"I am glad,\" he said, \"but I am sad too. The sheriff thinks a beggar won his prize.\""
+        }
+      ],
+      "notes": [
+        "\"A shooting match can bring him out of the forest\": \"will bring\" is more natural if 'will' is allowed at A2."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "\"In the town everyone says that the match is a trap.\" \"The sheriff wants you to come, and his guards will be waiting.\"",
+          "problem": "One speaker's speech is split into two separately quoted sentences with no tag, which reads as a change of speaker.",
+          "fix": "\"In the town everyone says that the match is a trap. The sheriff wants you to come, and his guards will be waiting.\""
+        },
+        {
+          "criterion": "meaning drift",
+          "quote": "\"But I don't want anyone to say that Robin Hood was afraid.\" \"We will go, but we will go in a way the sheriff won't expect.\"",
+          "problem": "Same split-quotation problem. The second sentence reads as if someone else says it.",
+          "fix": "\"But I don't want anyone to say that Robin Hood was afraid. We will go, but we will go in a way the sheriff won't expect.\""
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "Then the stranger stepped forward and calmly pulled his bow.",
+          "problem": "'pulled his bow' is the wrong collocation. Archers 'draw' a bow or 'pull the string'.",
+          "fix": "Then the stranger stepped forward and calmly drew his bow."
+        }
+      ],
+      "notes": [
+        "Grammar stays within B1 (no conditionals or passive). Faithful to Pyle apart from leaving out the king scene, which is acceptable."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "\"But if we stay at home, people will call Robin Hood a coward, and that I will never allow.\" \"We will go, but not as the sheriff expects.\"",
+          "problem": "Robin's speech is split into two separately quoted sentences with no tag, which signals a new speaker.",
+          "fix": "\"But if we stay at home, people will call Robin Hood a coward, and that I will never allow. We will go, but not as the sheriff expects.\""
+        }
+      ],
+      "notes": [
+        "Otherwise strong: the king's rebuke, the warning, the disguises, the ten-then-three final, the refusal to serve, and Little John's arrow with the rhyme all match Pyle."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "\"At the inn they talk of nothing else, and every man of them says the match is a snare laid for you alone.\" \"The sheriff has ordered his guards to watch for anyone dressed in green.\"",
+          "problem": "The warning man's speech is split into two quotations with no tag, so it reads as a second speaker.",
+          "fix": "Merge into one quotation: \"...a snare laid for you alone. The sheriff has ordered his guards to watch for anyone dressed in green.\""
+        },
+        {
+          "criterion": "meaning drift",
+          "quote": "\"...and that is a song I will not have sung.\" \"We shall go, but we shall go as the sheriff least expects.\"",
+          "problem": "Same split-quotation problem in Robin's reply.",
+          "fix": "\"...and that is a song I will not have sung. We shall go, but we shall go as the sheriff least expects.\""
+        },
+        {
+          "criterion": "meaning drift",
+          "quote": "\"It is a fine prize,\" he said, turning it in his fingers, \"but half the pleasure is gone.\" \"The sheriff sits in his hall believing that some wandering beggar has robbed him, and he will never know that it was I.\"",
+          "problem": "Same split-quotation problem. The second sentence reads as a different speaker.",
+          "fix": "\"...but half the pleasure is gone. The sheriff sits in his hall believing that some wandering beggar has robbed him, and he will never know that it was I.\""
+        }
+      ],
+      "notes": [
+        "Genuinely literary, not padded. The silver-shafted, gold-headed arrow, the sheriff's lady, the gray goose shaft and the verse are faithful Pyle details.",
+        "Quiz Q3 key (\"Robin won it from his enemy's own hand\") is defensible, but the wording is a little odd. \"The sheriff himself handed it to Robin\" would be clearer."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The plot follows Howard Pyle's golden-arrow chapter at every level, with no film material, and the quizzes are keyed correctly. A2 through C1 have the same defect: one speaker's speech is split into separate quotations with no tag, which signals a change of speaker. A2 also has several pronoun and attribution errors that put lines in the wrong mouth (the job offer, the 'mother' line, 'he said' pointing to the sheriff). A1 never says the outlaws wear green and has two unnatural phrasings."
+}

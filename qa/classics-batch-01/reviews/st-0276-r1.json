@@ -1,0 +1,94 @@
+{
+  "id": "st-0276",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "He was not as tall as a finger.",
+          "problem": "Lilliputians are 'less than six inches' (stated in A2-C1 and in Swift). A finger is about 3 inches, so this makes them half the size and contradicts the other levels.",
+          "fix": "He was not as tall as a man's hand."
+        },
+        {
+          "criterion": "meaning drift",
+          "quote": "He ate ten tiny loaves at once.",
+          "problem": "Every other level (and Swift) says three loaves at a time. 'Ten at once' contradicts them.",
+          "fix": "He ate three tiny loaves at a time."
+        }
+      ],
+      "notes": [
+        "\"I am very hungry,\" he said. They do not share a language. The finger-to-mouth gesture carries the meaning, so it works, but 'he said in English' or dropping the quote would be cleaner.",
+        "In Swift the friend who warns Gulliver is an unnamed 'considerable person at court'. Leaving him unnamed here is fine."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "He was not as tall as a finger.",
+          "problem": "This contradicts a line four sentences later in the same level: 'its people were about six inches tall'. A finger is much shorter than six inches.",
+          "fix": "He was not as tall as a man's hand."
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "But Gulliver must help Lilliput in war.",
+          "problem": "Present-tense 'must' inside a past-tense narrative is a tense error that a native writer would not make. 'In war' is also an odd collocation.",
+          "fix": "But Gulliver had to help Lilliput in its wars."
+        }
+      ],
+      "notes": [
+        "The warning friend is named Reldresal. In Swift he is an unnamed courtier (Reldresal is the one who proposes blinding). Merging the two characters is acceptable condensing."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Years before, an emperor ordered everyone...' would read slightly better as 'had ordered', since the next sentence uses the past perfect ('had fought').",
+        "Reldresal as the warning friend: the same character merge as in A2. Acceptable."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "\"I will never help to bring a free and brave people into slavery,\" he declared.",
+          "problem": "The previous sentences all have the Emperor as subject ('the ruler greedier. He now demanded every remaining ship...'). Gulliver is never named, so 'he declared' reads as the Emperor refusing his own plan.",
+          "fix": "\"I will never help to bring a free and brave people into slavery,\" Gulliver declared."
+        }
+      ],
+      "notes": [
+        "'nobody could explain the tiny sheep behind his house': in Swift the sheep graze on a bowling green at Greenwich. Harmless simplification.",
+        "Reldresal as the warning friend: the same merge as in the lower levels."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "fidelity to the original work",
+          "quote": "A former emperor, having cut his finger as a boy while opening an egg at the larger end, had commanded all his subjects to open theirs at the smaller end.",
+          "problem": "In Swift the boy who cut his finger was a prince (the present emperor's grandfather), and it was the boy's father, the reigning emperor, who issued the edict. B2 tells it correctly, so C1 also contradicts B2.",
+          "fix": "A former emperor, after his young son cut a finger while opening an egg at the larger end, had commanded all his subjects to open theirs at the smaller end."
+        },
+        {
+          "criterion": "logic error",
+          "quote": "When he wrenched one arm free, however, the creatures recovered their nerve with remarkable speed, and a hundred arrows struck his hand like so many needles.",
+          "problem": "'However' and 'recovered their nerve' assume the little people had just been frightened off, but C1 leaves out Gulliver's roar that scattered them (it is present in A2-B2). As written, the sentence does not follow from the one before it.",
+          "fix": "Insert before it: \"He roared in astonishment, and the whole company fled in terror, several of them injured by their leaps from his sides.\""
+        }
+      ],
+      "notes": [
+        "In Swift the night visitor in the close chair is an unnamed courtier who reports that Reldresal proposed the blinding. Here Reldresal is both visitor and author of the 'mercy'. This is acceptable merging, but it slightly blunts the irony of 'without a trace of irony'.",
+        "'closed chair': the period term is 'close chair' (a sedan chair). 'Closed chair' is understandable.",
+        "The reduced rations were Flimnap's later addition in Swift, not part of the Emperor's own choice. Acceptable condensing."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is highly faithful to Swift's Part I across all levels (1699 Antelope wreck, 91 chains, the pocket inventory, the egg war, the fleet, the blinding 'mercy', the 1701 departure), and all quizzes are keyed correctly. It fails on a few concrete problems. A1 and A2 say the people are 'not as tall as a finger', which contradicts six inches; A1 says 'ten loaves at once'; A2 has a tense error ('must help'); B2 makes it ambiguous who refuses; and C1 gets the egg-edict origin wrong and leaves out the roar that its own 'recovered their nerve' depends on."
+}

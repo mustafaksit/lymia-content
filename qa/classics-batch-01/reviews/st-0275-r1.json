@@ -1,0 +1,67 @@
+{
+  "id": "st-0275",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift / fidelity",
+          "quote": "Mowgli ran to the village at night. He took some fire in a pot. The next evening, Akela missed a deer.",
+          "problem": "In Kipling, and in the B1, B2 and C1 versions, Akela misses his kill on the same night Mowgli fetches the fire. 'The next evening' contradicts the other levels. It also squeezes the failed hunt into the evening of the Council.",
+          "fix": "Mowgli ran to the village at night. He took some fire in a pot. That same night, Akela missed a deer."
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "The wolves loved the bull, so Mowgli stayed.",
+          "problem": "'Loved the bull' suggests affection for the animal, not hunger for its meat. A1 readers will take it literally and get the wrong meaning.",
+          "fix": "The wolves were hungry and wanted the meat, so Mowgli stayed."
+        }
+      ],
+      "notes": [
+        "'He had no clothes, but he laughed.' The 'but' is a slightly odd contrast. 'He had no clothes. He looked up and laughed.' reads more naturally.",
+        "'Then Tabaqui came to the door.' Tabaqui is never said to be a jackal at any level. Consider 'Then Tabaqui the jackal came to the cave.'",
+        "'put his head in the door' / 'came to the door': a cave has no door. 'cave mouth' or 'into the cave' is better (A2 has the same wording).",
+        "'Mowgli threw his fire on the grass' is a little loose. 'Mowgli threw the pot of fire on the dry grass' is better."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Then Shere Khan pushed his great head into the door.' Better: 'into the mouth of the cave' (the earlier sentence already uses 'mouth of the cave').",
+        "Bagheera's warning is split into two back-to-back quotes from the same speaker. Merge them into one quotation.",
+        "'The young wolves laughed at their old leader' is not in the original, but it is a harmless addition."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'That is only crying, and men do it often.' Kipling's 'only tears' reads more naturally: 'Those are only tears, and men cry often.'",
+        "The last two sentences of Bagheera's speech are split into two separate quotes. Merge them.",
+        "B1 leaves out Akela lying beside his rock and Mowgli announcing he will go to men. This is acceptable condensing."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Backing out, he warned them that the cub would be his in the end.' This comes straight after Raksha's speech, so 'he' has no clear antecedent. Use 'Backing out, Shere Khan warned them...'.",
+        "'\"Look closely, wolves!\"' has no speaker tag. Use 'Akela ... lay stretched out on his rock and called, \"Look closely, wolves!\"'.",
+        "The tears speech is split into three separate quotes from one speaker. Merge them."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'watched a farmer's boy feeding glowing coals in a little earthen pot': you feed a fire, not coals. Use 'tending the glowing coals in a little earthen pot'.",
+        "'as the coals set the dry moss ablaze, the whole Council shrank back from the leaping flames. Thrusting a dead branch into the flames...' repeats 'flames'. Use 'into the blaze' for the second one.",
+        "Very faithful to Kipling: the bad-luck compliment, Father Wolf's 'free people' reply, the collar mark, Akela lying beside his rock, Mowgli gripping Shere Khan's chin, and Raksha's farewell."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The B1, B2 and C1 retellings are faithful to Kipling's 'Mowgli's Brothers', and all quizzes key correctly. A2 is clean. A1 fails on a timeline contradiction: Akela misses 'the next evening' instead of the same night as the fire theft. It also has the misleading phrase 'The wolves loved the bull'."
+}

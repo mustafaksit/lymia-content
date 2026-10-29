@@ -1,0 +1,77 @@
+{
+  "id": "st-0281",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift / fidelity",
+          "quote": "Their parents stood still like stones.",
+          "problem": "In Browning (and in A2-C1 of this story) it is the Mayor and his council who stand frozen while the children leave. Making the parents freeze changes the meaning and contradicts every other level.",
+          "fix": "The Mayor and his men stood still like stones."
+        },
+        {
+          "criterion": "logic error (quiz)",
+          "quote": "How many coins did the Mayor give the Piper at the end? — Fifty thousand / A thousand / *Fifty",
+          "problem": "The text never says the Mayor gave the Piper any coins. He only offered fifty ('Take fifty.') and the Piper refused. The question asks about something that did not happen.",
+          "fix": "How many coins did the Mayor offer the Piper at the end? — Fifty thousand / A thousand / *Fifty"
+        }
+      ],
+      "notes": [
+        "'Then a tall, thin man came in.' does not say where he came in. Consider 'Then a tall, thin man came into the Mayor's room.'",
+        "'The Piper played again, sweet and happy.' uses adjectives where a manner phrase is needed. 'The Piper played a sweet, happy song.' reads more naturally.",
+        "'the Piper's street' in the last sentence is never explained at A1. Optionally: 'Nobody played music in that street again.'"
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "\"Find an answer, or we send you away!\"",
+          "problem": "A native speaker would not use the present simple for this threat. It reads like a calque. The natural form needs 'will', or the sentence should be recast.",
+          "fix": "\"Find an answer, or you must go!\" (or \"...or we'll send you away!\" if will-future is allowed at A2)"
+        }
+      ],
+      "notes": [
+        "'The Mayor sent men east, west, north and south with gold.' does not say why. Consider '...with gold to bring the children back. But nobody found them.'",
+        "The pipe is 'small' in A2 but 'long' in A1 and later levels. This is harmless but could be made consistent."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English / meaning drift",
+          "quote": "Hamelin was a pretty old town in Brunswick, on the banks of the wide river Weser.",
+          "problem": "'pretty old' is read by native speakers as 'fairly old' (pretty = quite), not 'pretty and old'. B1 learners will be misled, and the intended meaning (an attractive old town, as in B2 'pleasant place') is lost.",
+          "fix": "Hamelin was a pretty town in Brunswick, old and comfortable, on the banks of the wide river Weser."
+        }
+      ],
+      "notes": [
+        "I checked the grammar for conditionals and passives and found neither ('were terrified' is adjectival). The level fits.",
+        "In 'In the east I once saved a great king from a huge cloud of flies', Browning has gnats and the Cham of Tartary. The simplification is acceptable."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Faithful to Browning: 1376, Weser washing the southern wall, Cham/gnats and Nizam/bats as rulers in the east, the Caliph's scorpions, the rat 'as strong as a soldier' (Julius Caesar in the original), the pillar and church window.",
+        "Spelling varies between 'toward' (B1) and 'towards' (B2/C1). Pick one house style."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The prose is genuinely literary and well paced, and keeps Browning's closing note about the people beyond the mountains (Transylvania) who say they came out of the earth.",
+        "'Patience, even in a town as patient as Hamelin, has its limits.' is slightly tautological. You could use 'even in a town as placid as Hamelin'.",
+        "The quiz keys are all correct and unambiguous."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "B2 and C1 are faithful to Browning's poem, idiomatic and correctly levelled. A1 contradicts the original and the other levels by freezing the parents instead of the Mayor and council, and its quiz asks how many coins the Mayor 'gave' when he only offered them. A2 has an unnatural threat ('or we send you away') and B1 opens with the ambiguous 'pretty old town'."
+}

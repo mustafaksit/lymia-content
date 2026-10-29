@@ -1,0 +1,58 @@
+{
+  "id": "st-0280",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"We become sea foam.\" is cryptic without a time reference; an A1 reader may think mermaids turn into foam now. Consider \"At the end of our life, we become sea foam.\"",
+        "The grandmother's lines are split into several separate quotes without attribution (\"But people have a soul.\" \"It lives forever.\" \"We become sea foam.\"). With only two speakers this is readable, but adding \"she said\" once after \"A man must love you and marry you.\" would make the speaker change clearer.",
+        "Grammar stays in present/past simple, with modals and imperatives only. Plot order and ending follow Andersen."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"cried the prince, very happy\" sounds slightly stiff. \"cried the prince happily\" or \"The prince was very happy. 'You saved me!' he cried.\" is more natural.",
+        "\"He liked her very much, like a dear child.\" reads a little oddly. Consider \"He loved her like a dear child.\"",
+        "\"The little mermaid said yes and drank the witch's magic drink.\" suggests she drinks it at the witch's home, while in Andersen she drinks it on the prince's steps. The next paragraph (\"the prince found her on his steps\") smooths this over, so it is acceptable condensing.",
+        "The grandmother's lines are again split into separate unattributed quotes. This is readable but slightly choppy."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No conditionals or passives. The witch's warning is cleanly split into \"The prince may marry another girl.\" / \"Then your heart will break.\"",
+        "\"'A man must love you more than his parents and marry you,' she said.\" After the mermaid's indirect question, 'she' could in theory be either character. Context makes it clear, but \"her grandmother said\" would remove any doubt."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"as blue as a summer flower\" is a vague simile (Andersen: cornflower). Consider \"as blue as the bluest cornflower\".",
+        "The witch's tongue-cutting is softened to \"the witch took her voice away\". This is an acceptable softening for children."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift / logic error (unclear who is addressed)",
+          "quote": "\"It was you who saved me when I lay half dead on the sand,\" he cried, turning to the little mermaid to share his joy.",
+          "problem": "The participle clause attaches to 'cried', so the most natural reading is that the prince says 'It was you who saved me' TO the little mermaid while turning to her. That reverses the key irony of the scene: the line is meant for the princess, and the mermaid is told only of his happiness. The B1 and B2 versions keep the two actions separate, so the levels also contradict each other here.",
+          "fix": "\"It was you who saved me when I lay half dead on the sand!\" he cried to the princess, and then he turned to the little mermaid to share his joy."
+        }
+      ],
+      "notes": [
+        "Otherwise genuinely literary and very faithful: the grandmother's twelve oysters, birds called 'fish', the polyp forest, the convent, 'royal virtues', waves gleaming red where the knife fell, the bride's forehead kiss.",
+        "Quiz is sound: Q2's keyed answer matches 'one of them found the stranger and ran to fetch help... The prince came to himself'."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A1-B2 are faithful to Andersen, suit their levels, and have sound quizzes, with only minor stylistic notes. C1 is strong literary prose but fails on one sentence: the prince's 'It was you who saved me' is joined to 'turning to the little mermaid', so it reads as if he says it to the mermaid. That reverses the irony of the recognition scene and differs from the lower levels."
+}
