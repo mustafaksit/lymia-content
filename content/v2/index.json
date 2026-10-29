@@ -6210,6 +6210,316 @@
       "cover": "covers/st-0272-59b0e2c3.webp",
       "isNew": false,
       "order": 200
+    },
+    {
+      "id": "st-0274",
+      "slug": "robin-hood-and-the-golden-arrow",
+      "title": "Robin Hood and the Golden Arrow",
+      "summary": "The sheriff sets a clever trap with a golden arrow, but Robin Hood has a plan too.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 312,
+        "A2": 517,
+        "B1": 769,
+        "B2": 985,
+        "C1": 1436
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 11
+      },
+      "cover": "covers/st-0274-pending.webp",
+      "isNew": true,
+      "order": 201
+    },
+    {
+      "id": "st-0278",
+      "slug": "don-quixote-and-the-windmills",
+      "title": "Don Quixote and the Windmills",
+      "summary": "A gentleman of La Mancha reads too many old books and rides out to become a knight.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 322,
+        "A2": 503,
+        "B1": 773,
+        "B2": 1139,
+        "C1": 1540
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0278-pending.webp",
+      "isNew": true,
+      "order": 202
+    },
+    {
+      "id": "st-0281",
+      "slug": "the-pied-piper-of-hamelin",
+      "title": "The Pied Piper of Hamelin",
+      "summary": "A town full of rats makes a deal with a strange piper and then breaks it.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 304,
+        "A2": 519,
+        "B1": 804,
+        "B2": 1132,
+        "C1": 1413
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 11
+      },
+      "cover": "covers/st-0281-pending.webp",
+      "isNew": true,
+      "order": 203
+    },
+    {
+      "id": "st-0276",
+      "slug": "gulliver-in-lilliput",
+      "title": "Gulliver in Lilliput",
+      "summary": "A shipwrecked doctor wakes up on a strange beach, tied down by hundreds of tiny people.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 325,
+        "A2": 515,
+        "B1": 743,
+        "B2": 1152,
+        "C1": 1555
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0276-pending.webp",
+      "isNew": true,
+      "order": 204
+    },
+    {
+      "id": "st-0282",
+      "slug": "rumpelstiltskin",
+      "title": "Rumpelstiltskin",
+      "summary": "A miller's daughter must spin straw into gold, and a strange little man offers to help.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 326,
+        "A2": 519,
+        "B1": 817,
+        "B2": 1097,
+        "C1": 1498
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0282-pending.webp",
+      "isNew": true,
+      "order": 205
+    },
+    {
+      "id": "st-0275",
+      "slug": "mowgli-s-brothers",
+      "title": "Mowgli's Brothers",
+      "summary": "A family of wolves takes in a lost baby boy, but a hungry tiger wants him back.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 324,
+        "A2": 490,
+        "B1": 805,
+        "B2": 1141,
+        "C1": 1541
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0275-pending.webp",
+      "isNew": true,
+      "order": 206
+    },
+    {
+      "id": "st-0279",
+      "slug": "robinson-crusoe",
+      "title": "Robinson Crusoe",
+      "summary": "A young sailor survives a shipwreck and must learn to live alone on a wild island.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 314,
+        "A2": 502,
+        "B1": 774,
+        "B2": 1167,
+        "C1": 1575
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0279-pending.webp",
+      "isNew": true,
+      "order": 207
+    },
+    {
+      "id": "st-0273",
+      "slug": "pinocchio",
+      "title": "Pinocchio",
+      "summary": "A naughty wooden puppet runs away from school, meets tricksters and monsters, and dreams of becoming a real boy.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 300,
+        "A2": 519,
+        "B1": 742,
+        "B2": 1142,
+        "C1": 1545
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0273-pending.webp",
+      "isNew": true,
+      "order": 208
+    },
+    {
+      "id": "st-0280",
+      "slug": "the-little-mermaid",
+      "title": "The Little Mermaid",
+      "summary": "A young mermaid gives up her voice for a chance to live among humans on land.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 328,
+        "A2": 506,
+        "B1": 776,
+        "B2": 1149,
+        "C1": 1534
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0280-pending.webp",
+      "isNew": true,
+      "order": 209
+    },
+    {
+      "id": "st-0277",
+      "slug": "the-snow-queen",
+      "title": "The Snow Queen",
+      "summary": "A brave girl travels across the frozen north to find her friend and bring him home.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 330,
+        "A2": 520,
+        "B1": 817,
+        "B2": 1151,
+        "C1": 1550
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0277-pending.webp",
+      "isNew": true,
+      "order": 210
     }
   ]
 }
