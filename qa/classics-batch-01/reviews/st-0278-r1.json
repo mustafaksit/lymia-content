@@ -1,0 +1,76 @@
+{
+  "id": "st-0278",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Some men hit him, and he fell.\" reverses the order in the other levels and in Cervantes (Rocinante stumbles, he falls, then he is beaten). Suggest: \"He fell off his horse, and some men hit him.\"",
+        "\"Those are not arms, but sails.\" is slightly stilted for A1. Suggest: \"Those are not arms. They are sails.\"",
+        "Back-to-back closed quotes from one speaker (\"Be my helper on the road.\" \"Maybe I can give you an island.\"; \"His name is Freston.\" \"He changed the giants into windmills.\") look like a change of speaker. If the pipeline does not need one quote per sentence, merge them into one quotation."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"One day I can make you the ruler of an island.\" A promise reads more naturally as \"One day I will make you the ruler of an island.\"",
+        "\"he made one from hard paper\" could be \"he made one from cardboard\", which is the usual word.",
+        "The same split-quote pattern appears here (\"Freston the wizard did this.\" \"He changed the giants into windmills, so I cannot win.\" \"But in the end...\")."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "Then they closed up the door of the room with a wall.",
+          "problem": "No native speaker would write 'closed up the door with a wall'. It reads like a calque.",
+          "fix": "Then they built a wall across the door of the room."
+        },
+        {
+          "criterion": "logic error",
+          "quote": "But Don Quixote did not wait.",
+          "problem": "This follows Don Quixote's own line \"Stay here and pray, Sancho, while I fight.\" Nobody asked him to wait, so 'But ... did not wait' contrasts with nothing. In the original he charges without listening to Sancho's shouts.",
+          "fix": "Don Quixote did not listen to Sancho's shouts."
+        }
+      ],
+      "notes": [
+        "\"For himself he spent eight more days and chose Don Quixote of La Mancha.\" is a little awkward. Suggest: \"He spent eight more days choosing a name for himself and chose Don Quixote of La Mancha.\""
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "In the afternoon they caught sight of Puerto Lapice, and the knight lifted his broken lance.",
+          "problem": "Earlier in this level the sail 'shattered his lance into pieces', so there is nothing left to lift. In the original (and in C1) he replaces it with a branch torn from an oak, which B2 leaves out.",
+          "fix": "Add after the windmill scene: \"He tore a thick branch from an oak to use as a new lance.\" Then change this sentence to: \"...and the knight lifted his new oak lance.\""
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "\"Those you see there, with long arms almost two leagues long.\"",
+          "problem": "'long arms almost two leagues long' repeats 'long' and sounds clumsy.",
+          "fix": "\"Those you see there, with arms almost two leagues long.\""
+        }
+      ],
+      "notes": [
+        "\"Sancho rode his donkey like a grand old man\" sounds odd. Cervantes says 'like a patriarch'. Suggest: \"like an old patriarch\" or \"like a proud old chief\".",
+        "Split quotes from one speaker again (\"The affairs of war change constantly.\" \"I believe that...\" \"He wants to rob me...\")."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Did I not tell you, sir, that these were just windmills?\" \"Only a man with windmills spinning in his own head could mistake them.\" Because the quotes are split with no attribution, the second line could be read as Don Quixote's. Merge them or add \"he added\".",
+        "\"with the windmills still turning quietly behind them\" comes a day's ride after the windmill scene, so the mills are probably out of sight. This is poetic licence, but consider \"with the windmills far behind them\".",
+        "Fidelity is excellent: the plain of Montiel, Briareus, the innkeeper's account book, the trial of the library, the oak branch and the three o'clock arrival all match Part I, chapters 1-8."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "All five levels follow Part I, chapters 1-8 of Don Quixote faithfully, with no film elements, and every quiz has one clearly correct keyed answer. B1 fails on an unnatural calque ('closed up the door ... with a wall') and a non-sequitur ('But Don Quixote did not wait'). B2 fails because the knight lifts a lance that was already shattered to pieces."
+}

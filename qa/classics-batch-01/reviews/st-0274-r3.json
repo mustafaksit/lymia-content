@@ -1,0 +1,52 @@
+{
+  "id": "st-0274",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The text never says who shot the arrow into the hall. Little John's 'Let's tell him' implies it, and quiz Q3 does not depend on it. Optional: add 'Little John shot it.' after 'Suddenly an arrow flew in through the window.'",
+        "Grammar is limited to present simple, past simple and a modal ('must'), so it fits A1."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Be careful, the match is a trap, master,' he said. is a slightly awkward comma splice. Suggest: 'Be careful, master. The match is a trap,' he said.",
+        "'The sheriff of Nottingham hated Robin more than anyone.' can be read two ways. Optional: 'Nobody hated Robin more than the sheriff of Nottingham.'",
+        "In \"'Robin is proud of his bow,' he said to himself. 'A shooting match can bring him out of the forest,' he thought.\" the two reporting verbs are redundant but not wrong."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No passive and no true conditionals. 'Come and serve me, and I will pay you well' is an imperative plus 'and', which is acceptable at B1.",
+        "'a small piece of paper' is anachronistic, since B2 and C1 use parchment, but it is acceptable as a simplification."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'where the sunlight fell through the oaks in pieces' is slightly odd. 'in patches' or 'in dappled patches' is more idiomatic.",
+        "'he was a thorn in the side' would read better as 'a thorn in their side'.",
+        "'an arrow of solid gold' simplifies Pyle's silver shaft with a gold head. That is fine at this level, and C1 restores the detail."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'his arrow struck so near the center that a hand's breadth could not have fitted between them' sets a weak benchmark, because a hand's breadth (about 10 cm) is not very close. Pyle's 'finger's breadth' is stronger. Suggest: 'that a finger's breadth could not have fitted between them'.",
+        "'believing some wandering beggar has robbed him' slightly contradicts the scene, because the sheriff handed the prize over willingly. It works as Robin's irony, but 'has walked off with his prize' would be more exact.",
+        "'Pale and then crimson, the sheriff unrolled it and read a short verse' makes him turn crimson before he reads the verse. Optional: 'Pale at first, the sheriff unrolled it and read a short verse... and turned crimson.'",
+        "The detail is faithful to Pyle's 'The Shooting Match at Nottingham Town': the king's rebuke, the warning from an inn, the silver-shafted arrow with a gold head, the tattered scarlet and eye patch, Gilbert and Adam o' the Dell, the 'my own master' refusal, the sheriff's lady, and Little John's grey goose shaft carrying a verse."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels faithfully follow Pyle's 'The Shooting Match at Nottingham Town', with the events in the original order and no film elements. Grammar fits each level and the quiz keys are unambiguous. Only small stylistic notes remain, mainly the weak 'hand's breadth' comparison in C1 and a comma splice in A2, and none of them are failures."
+}

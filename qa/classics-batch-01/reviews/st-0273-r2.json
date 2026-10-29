@@ -1,0 +1,56 @@
+{
+  "id": "st-0273",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Geppetto sold his coat in the cold.\" is a slightly flat collocation; \"It was cold, but Geppetto sold his coat.\" reads more naturally.",
+        "\"I am not a puppet now!\" could be \"I am not a puppet any more!\" (more idiomatic, still A1)."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"He planted his coins in their field and waited. When he came back, the coins were gone.\" He 'waited' but then 'came back' without having left; better: \"He planted his coins in their field and went away to wait.\"",
+        "\"At home, the Talking Cricket gave him some advice.\" follows straight on from him running out of the house; \"Later, back at home, ...\" smooths the jump.",
+        "\"In the morning, he woke up as a real boy!\" follows the Fairy's illness without a time anchor; \"The next morning, ...\" is clearer.",
+        "\"Plant your coins there, and a money tree grows.\" is slightly odd; \"and a money tree comes up\" or \"grows from them\" sounds more natural within A2 tense limits."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Months before, he went to sea to look for Pinocchio, and the dogfish swallowed him.\" Past perfect (\"had gone ... had swallowed\") is allowed at B1 and would read more naturally. B2/C1 also say \"two years\", so \"Long before\" would avoid understating it."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"until the terrible dogfish swallowed him in one gulp\" uses a definite article for a creature not introduced earlier at this level; \"a terrible dogfish\" (or a one-line earlier mention) is cleaner. The same applies to C1, where \"the terrible dogfish\" is partly justified by the earlier sea scene."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "fidelity / meaning drift",
+          "quote": "To help him keep them, the old man went out into the snow without his coat and came back with a spelling book.",
+          "problem": "In Collodi, Geppetto goes out wearing his old patched coat and comes back in his shirtsleeves, because he has sold the coat to buy the book. The sentence says he left without his coat, so it never shows the sale. That sale is the key sacrifice, and every other level states it (\"sold his only coat\"). Read alone, C1 never makes clear what the sacrifice was, even though the next sentence calls it a 'sacrifice'.",
+          "fix": "To help him keep them, the old man went out into the snow in his old patched coat and came back in his shirtsleeves, holding a spelling book; the coat had paid for it."
+        }
+      ],
+      "notes": [
+        "\"Before the evening was over, the puppet was walking home with five gold coins\" is slightly off: in the original, Fire-Eater gives the coins the next morning. Something like \"By the next morning, the puppet was on his way home with five gold coins\" would fix it.",
+        "\"went off to wait for him to give up his gold\" softens the original, where the robbers wait for him to die. This is acceptable for children, so it is noted only.",
+        "Otherwise the text is very faithful and genuinely literary: the painted fire, the pears, the 35 fish, the poodle coachman, the asthma, the snail and the 'kilometre-long' dogfish all come from the original."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A1-B2 are faithful, natural and level-appropriate, with correctly keyed quizzes; only minor smoothing notes. C1 is excellent overall but misstates the coat episode ('went out into the snow without his coat'), which hides the coat sale that every other level and the original depend on. One sentence fix is needed."
+}

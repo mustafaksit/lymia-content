@@ -1,0 +1,70 @@
+{
+  "id": "st-0273",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"He did not tell lies now.\" reads slightly off; \"He did not tell lies anymore.\" is more natural and still A1.",
+        "\"He ran away and played all day.\" is a loose condensation (in the original he runs off and Geppetto is arrested), but acceptable for A1."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Plant your coins there, and a money tree grows.\" is a little flat; \"Plant your coins there, and a money tree grows overnight.\" reads better and keeps present simple.",
+        "\"At home, the Talking Cricket gave him some advice.\" follows directly after he runs out of the house; \"Later, at home, ...\" would smooth the jump.",
+        "\"When the Fairy was sick, he sent her all his money.\" could be \"When he heard that the Fairy was sick, ...\" (he is not with her)."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift / logic error",
+          "quote": "He went to sea in a little boat to look for Pinocchio.",
+          "problem": "Placed after the reunion in a simple past sequence, it reads as if Geppetto went to sea after meeting his son inside the dogfish. It is backstory and needs to be marked as earlier.",
+          "fix": "He had gone to sea in a little boat to look for Pinocchio, and the dogfish had swallowed him."
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "\"Every week there has six Thursdays and one Sunday, and nobody studies.\"",
+          "problem": "Word order is non-native ('there has'); it reads as a calque.",
+          "fix": "\"There, every week has six Thursdays and one Sunday, and nobody studies.\""
+        },
+        {
+          "criterion": "logic error",
+          "quote": "Pinocchio forgot his promise and followed them to an inn.",
+          "problem": "No promise was made in the B1 text (Fire-Eater just gives coins for Geppetto; Geppetto says 'Now you can go to school'). The reference dangles.",
+          "fix": "Pinocchio forgot about his poor father and followed them to an inn."
+        }
+      ],
+      "notes": [
+        "\"the cat acted blind\" is understandable but \"the cat pretended to be blind\" is more natural.",
+        "\"Pinocchio said no twice, but the third time he climbed on the coach.\" In the original (and in B2/C1) he rides one of the donkeys because the coach is full; \"he jumped on a donkey and went with them\" would be consistent across levels.",
+        "\"The fish ate the donkey away, and a wooden puppet swam up again.\" 'The fish' is not introduced and 'again' is odd; consider \"Fish in the sea ate the donkey skin away, and a wooden puppet came up instead.\""
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Then, although it was the middle of winter, he sold his only coat...\" 'he' could be misread as Pinocchio; name Geppetto explicitly.",
+        "The ruler who frees the prisoners is an emperor in the original; 'king' is an acceptable simplification (also in C1).",
+        "\"eating raw fish by the light of a candle\": in the original Geppetto lives on the provisions of a swallowed ship; consider \"eating the last of his food\"."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Strong, faithful and genuinely literary (painted fire, nose seized by the policeman, pears, four pennies, thirty-five fish, the asthmatic dogfish, the fox and cat truly lame and blind at the end).",
+        "The switch from 'it' (the log) to 'he' (the puppet) works, but the first sentence's 'Long before it learned to walk' is slightly forced; optional."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A1, A2, B2 and C1 are faithful to Collodi, natural and level-appropriate, with correctly keyed quizzes. B1 fails on three concrete points: a backstory sentence about Geppetto going to sea that reads as happening after the reunion, the non-native 'Every week there has six Thursdays', and a dangling reference to a promise never made in that level."
+}

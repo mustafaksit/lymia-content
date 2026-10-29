@@ -1,0 +1,95 @@
+{
+  "id": "st-0282",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "He told the king a big lie. \"My girl can spin straw into gold!\" \"Bring her to me,\" he said.",
+          "problem": "The last male referent is the miller, so 'he said' makes it read as if the miller says 'Bring her to me'. A1 readers cannot sort out the speaker from context.",
+          "fix": "\"Bring her to me,\" said the king."
+        },
+        {
+          "criterion": "meaning drift",
+          "quote": "He took her to a room of straw.",
+          "problem": "It is unclear who 'He' is (the miller or the king). Elsewhere the king leads her in and locks the door.",
+          "fix": "The king took her to a room of straw."
+        },
+        {
+          "criterion": "logic error",
+          "quote": "\"I can't make gold,\" she said. \"What can you give me?\"",
+          "problem": "Nothing marks the change of speaker, so the girl appears to ask the little man what he can give her. That reverses the bargain.",
+          "fix": "\"I can't make gold,\" she said. \"What can you give me?\" asked the little man."
+        },
+        {
+          "criterion": "meaning drift",
+          "quote": "Then one night, he came back.",
+          "problem": "The previous sentences are about the king and the queen, so 'he' points to the king rather than the little man.",
+          "fix": "Then one night, the little man came back."
+        },
+        {
+          "criterion": "logic error",
+          "quote": "On the third day, the man came home. He saw a little house in a forest. A tiny man danced around a fire. He sang, \"Nobody knows my name.\" \"My name is Rumpelstiltskin!\"",
+          "problem": "The text reports the messenger's discovery as something that happens after he 'came home', so the order of events is wrong. 'The man' and 'A tiny man' are also easy to confuse, and the text never says the messenger told the queen. That leaves a gap: how does she know the name?",
+          "fix": "On the third day, the man came back. \"I saw a little house in a forest,\" he told the queen. \"A tiny man danced around a fire. He sang, 'Nobody knows my name. My name is Rumpelstiltskin!'\""
+        }
+      ],
+      "notes": [
+        "\"Then give me your first child.\" has no speaker tag. Adding 'said the little man' would help A1 readers.",
+        "The first guessing scene ('Is it Caspar? Is it Melchior?' she asked) does not say the little man is there. 'The next day, the little man came. \"Is it Caspar?\"...' would be clearer.",
+        "A1 puts the house in a forest. The other levels say a mountain (B2/C1: on a mountain at the edge of a forest). This is acceptable, but 'on a mountain' would match the other levels."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "\"Then perhaps your name is Rumpelstiltskin?\"",
+          "problem": "'Then' implies an earlier guess that was rejected, but in A2 this is the queen's first and only guess in the scene. The line also has no speaker tag right after the little man's question.",
+          "fix": "\"Is it Caspar?\" asked the queen. \"No!\" he laughed. \"Then perhaps your name is Rumpelstiltskin?\" (or drop 'Then perhaps' and write: \"Is your name Rumpelstiltskin?\" asked the queen.)"
+        }
+      ],
+      "notes": [
+        "In the messenger's report, every sentence has its own quotation marks (\"A fire burns in front of it.\" \"A funny little man hops...\"). One continuous quotation would be more natural.",
+        "In 'A fire burns in front of it' the present tense works, but 'A fire was burning' would keep the report in the past."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "The miller wanted to impress him, so he said the first silly thing in his head.",
+          "problem": "This is not a natural collocation. A native speaker would say 'the first (silly) thing that came into his head'.",
+          "fix": "The miller wanted to impress him, so he said the first silly thing that came into his head."
+        }
+      ],
+      "notes": [
+        "Grammar stays within B1 (no conditionals, no passive). 'Fail, and you will be in serious trouble' and 'Tell me my name before then, and you can keep your child' are imperative + and, which is fine.",
+        "The split quotation marks in the messenger's speech could become one quotation."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Faithful to Grimm: the necklace and the ring, the king's reasoning about a rich bride, the messenger finding no new names and then the mountain hut, the hopping on one leg, the 'devil told you' line. The softened ending (he runs off instead of tearing himself in two) is acceptable.",
+        "The girl is 'led into' the room in the morning and the little man arrives with 'Good evening'. The time passing is implied but holds together."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Had he been a wiser man, he would have stopped there and bitten his tongue' puts the actions in an odd order, since you bite your tongue to stop yourself speaking. 'he would have bitten his tongue and said no more' reads better.",
+        "'the straw rose like a haystack in a barn' is slightly mixed (haystacks stand in fields). Consider 'like hay piled in a barn loft'.",
+        "The prose is genuinely literary without padding, and the quiz has exactly one defensible answer per question."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows the Grimm tale closely at every level, and the softened ending is acceptable. A1 fails on several unclear speakers and pronouns: the bargain line reads as if the girl says it, and the messenger's discovery is told out of order. A2 fails on a 'Then perhaps' guess with no earlier guess, and B1 fails on one unnatural collocation. B2 and C1 pass."
+}

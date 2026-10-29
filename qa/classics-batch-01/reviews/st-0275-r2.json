@@ -1,0 +1,62 @@
+{
+  "id": "st-0275",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Then he went down to the men.\" is a little abrupt. \"Then he walked down the hill to live with men.\" reads more naturally (A2 already uses this).",
+        "Shere Khan running from a waved stick, rather than being beaten, is a softening for children. That is acceptable."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Tabaqui is never introduced (\"Suddenly Tabaqui appeared at the mouth of the cave.\"), so A2 readers do not know what he is. A1 says 'Tabaqui the jackal'. Suggest: \"Suddenly Tabaqui the jackal appeared at the mouth of the cave.\"",
+        "\"Let him live, and I can teach him\" would read more naturally as \"Let him live, and I will teach him\". The current wording is within the grammar limits, so this is a matter of taste."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error (unclear who is speaking)",
+          "quote": "\"The cub is mine,\" she said. \"He will live and run with the pack.\" \"Go away, lame one, before I make you sorry!\"",
+          "problem": "The threat starts a new quotation with no speaker tag, straight after a closed quotation. The father wolf is also in the scene. In English, a new quotation like this signals a new speaker, so readers may think the father wolf says it. In the original, Raksha (Mother Wolf) says it.",
+          "fix": "\"The cub is mine,\" she said. \"He will live and run with the pack. Now go away, Lame One, before I make you sorry!\""
+        }
+      ],
+      "notes": [
+        "\"a woodcutter's fire\" could be \"a woodcutters' campfire\" to match the original and B2/C1. This is minor."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error (unclear who is speaking)",
+          "quote": "\"The man's cub is mine,\" she declared. \"Nobody will kill him, for he will live to run and hunt with the pack.\" \"And one day, you lame old bully, this cub will hunt you down!\"",
+          "problem": "The taunt is a separate quotation with no speaker tag, after Raksha's closed quotation, and the father wolf is present. That signals a change of speaker. Raksha says the line in the original.",
+          "fix": "\"The man's cub is mine,\" she declared. \"Nobody will kill him, for he will live to run and hunt with the pack. And one day, you lame old bully, this cub will hunt you down!\""
+        }
+      ],
+      "notes": [
+        "\"the father wolf crouched to spring, but he stopped himself in the air\": he crouches and then is already in the air, which skips a step. Suggest \"sprang, but checked himself in mid-leap and landed in astonishment\".",
+        "\"the special words that let him speak to birds, snakes and hunting animals\": the Master Words come from 'Kaa's Hunting', not 'Mowgli's Brothers'. They are still Kipling's Jungle Book (not film), so this is acceptable."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"...and I will go to my own people.\" \"But there is something I must settle first.\": the speaker is clear (Mowgli), but splitting one speech into two quotations is untidy. Merge them: \"...and I will go to my own people. But there is something I must settle first.\"",
+        "Bagheera's lines \"...wolves never can.\" \"I have no more doubt...\" are split the same way. Merge them into one quotation.",
+        "\"something no wolf had ever done before\" overstates Kipling's 'the most wonderful thing in the world'. \"something few wolves have ever managed\" would be closer. This is a taste point."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The story follows 'Mowgli's Brothers' faithfully at every level, and all quiz keys are correct and unambiguous. B1 and B2 fail on one concrete problem each: Raksha's threat to Shere Khan is printed as a separate, untagged quotation while the father wolf is present, so it reads as a change of speaker. Merging the line into Raksha's quotation fixes both. The other points are notes only."
+}

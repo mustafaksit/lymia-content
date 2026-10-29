@@ -1,0 +1,61 @@
+{
+  "id": "st-0281",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"A tall, thin man came into the room.\" No room has been set up; the previous line only says \"The people ran to the Mayor.\" Optional: \"The people ran to the Mayor's house.\" or \"Then a tall, thin man came in.\"",
+        "\"They ran in the houses and the streets.\" A native writer would say \"They ran all over the houses and the streets.\" This is a matter of taste.",
+        "\"I can take your rats away.\" \"Pay me a thousand coins.\" Two quotes in a row with no speaker tag. It is still clear that the Piper says both, but merging them into one quote would help.",
+        "Grammar stays within the A1 limits (present and past simple, can and could). The quiz keys are correct, and 'at the end' makes Q2 unambiguous."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"From then on, nobody played music in the Piper's street.\" A2 never says the street was named after the Piper, so 'the Piper's street' is a little opaque. Optional: \"nobody played music in that street\".",
+        "No relative clauses, passives, perfects or conditionals. The quiz is sound."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The Mayor's face turned pale, and so did the faces of his council.\" This is slightly clunky. Optional: \"The Mayor turned pale, and so did his council.\"",
+        "\"Get rid of the rats, or we will throw you all out!\" and \"Keep your word, or you will hear a different tune.\" These are imperative + 'or' sentences, not conditional clauses, so they are acceptable at B1. I found no passives.",
+        "\"The music sounded like apples and cheese and butter\" condenses Browning's cider-press, butter-cask and tripe images. That is acceptable."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift / fidelity",
+          "quote": "There the rats plunged into the river after him and were swept away by the current.",
+          "problem": "'Plunged into the river after him' reads as if the Piper jumped into the Weser first and the rats followed him in. In Browning the Piper leads them to the river and only the rats plunge in and drown. The Piper then reappears dry in the marketplace. B1, A2 and C1 all have only the rats going into the water.",
+          "fix": "There the rats plunged into the river and were swept away by the current."
+        }
+      ],
+      "notes": [
+        "\"ate the cheese straight from the barrels ... Some broke open the barrels of salted fish\". 'Barrels' appears twice in two sentences. Optional: \"ate the cheese straight from the vats\".",
+        "\"What is dead can't come back to life, so surely you understood that we were only joking.\" The 'so' makes a non sequitur. It follows Browning's sophistical Mayor, but learners may read it as a logic slip. Optional: \"What is dead can't come back to life. And surely you understood that we were only joking about the money.\"",
+        "\"The people also wrote the story on a stone pillar\". 'Carved the story into a stone pillar' is the more natural collocation (C1 uses 'carved').",
+        "The quiz is sound. Q2 'The promise was only a joke' matches the text."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Back in Hamelin the bells were rung until the steeples rocked.\" The Weser washes the town's own walls, so 'Back in Hamelin' slightly suggests the river is somewhere else. Optional: \"In the town the bells were rung until the steeples rocked.\"",
+        "The prose is genuinely literary (cleft sentences, inversion, 'Should I free...', imagery taken from Browning) and not padded. It is faithful to Browning, including 1376, gnats and bats, the scorpions in the east, the stout rat, the Koppelberg, the lame boy, the named street, the pillar and church window, and the Transylvanian coda.",
+        "The quiz is sound, with one defensible answer per item."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows Browning's poem closely and the grammar fits each level from A1 to C1; the quizzes are correctly keyed. One concrete meaning error remains in B2: the rats 'plunged into the river after him', which implies the Piper jumped into the Weser. Removing 'after him' fixes it. Everything else is minor style and is listed in the notes."
+}

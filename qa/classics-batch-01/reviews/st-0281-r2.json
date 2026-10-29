@@ -1,0 +1,54 @@
+{
+  "id": "st-0281",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Nobody played music in that street again.\" has no clear antecedent: no street has been mentioned. Consider \"Nobody played music in the Piper's street again.\" or \"in that street\" -> \"in the street of the children\".",
+        "\"But the Mayor had no idea.\" reads as 'did not know (something)'; \"But the Mayor had no plan.\" is clearer for A1.",
+        "\"A tall, thin man came into the room.\": no room was set up (\"The people ran to the Mayor.\"). Optional: \"The people ran to the Mayor's house.\""
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error / meaning drift",
+          "quote": "The Mayor sent men east, west, north and south with gold.",
+          "problem": "The purpose of the men and the gold is never stated, so the sentence floats without meaning between the boy's speech and the ending; an A2 reader cannot infer that this is a search for the Piper/children.",
+          "fix": "The Mayor sent men east, west, north and south with gold to find the Piper. But the children never came back."
+        }
+      ],
+      "notes": [
+        "\"From then on, nobody played music in the Piper's street.\" works, but could be clearer as \"in the street where the children danced\"."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Grammar stays within B1 limits (no passive, no true conditionals; 'Keep your word, or you will...' is an imperative + or structure).",
+        "Spelling 'toward' here vs 'towards' in B2/C1; harmless but could be unified."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Faithful to Browning: 1376 date, Cham/Nizam reduced to 'a great ruler in the east' and bats, Caliph's scorpions, pillar and church window. Quiz keys are correct and unambiguous."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"What is drowned stays drowned, and nobody here intends to dig them up again.\" — 'dig up' is an odd fit for drowned rats (one fishes, not digs, things out of a river). Optional: \"What is drowned stays drowned, and no one expects them to crawl back out of the Weser.\"",
+        "Transylvania coda handled tastefully as hearsay; genuinely literary register without padding."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A strong, faithful retelling of Browning's poem across all levels, with correct plot order, ending, and quiz keys. A2 fails on one concrete logic gap: the Mayor's men are sent out 'with gold' with no stated purpose. A1 has a minor 'that street' referent issue noted for polishing."
+}

@@ -1,0 +1,619 @@
+{
+  "id": "st-0282",
+  "title": "Rumpelstiltskin",
+  "ts": "2026-10-29T14:58:57",
+  "node": {
+    "id": "st-0282",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %83.4 | 326 kelime\n    havuz dışı: poor(1), miller(1), beautiful(1), daughter(1), king(6), lie(1), spin(2), straw(4), gold(6), cried(3), tiny(2), sad(1), can't(1), necklace(1), spinning(1), wheel(1), ring(1), huge(1), queen(5), third(2), sadly(1), married(1), baby(2), sorry(1), laughed(1), danced(1), fire(1), sang(1), song(1), red(1), shouted(1)",
+        "level A2: A2: KALDI | kapsam %87.3 | 519 kelime\n    havuz dışı: miller(1), king(5), spin(4), straw(5), gold(9), castle(2), locked(1), cried(3), tiny(1), crying(1), can't(1), necklace(1), spinning(1), wheel(1), king's(1), shone(1), sunrise(1), bright(1), third(3), sadly(1), queen(5), kingdom(1), messenger(2), collect(1), strange(1), mountain(1), burned(1), funny(1), hopped(1), leg(1), queen's(1), anger(1), devil(2), screamed(1), stamped(1), rage(1)",
+        "level B1: B1: KALDI | kapsam %92.4 | 817 kelime\n    havuz dışı: miller(2), mill(1), impress(1), silly(1), clever(1), spin(4), straw(8), castle(3), spinning(1), miller's(2), necklace(1), thread(1), shining(1), sunrise(1), hungry(1), spun(2), third(2), queen(10), happiness(1), terrified(1), treasures(1), kingdom(1), bitterly(1), awake(1), messenger(4), hopping(1), beside(1), queen's(1), pretended(1), rubbing(1), devil(2), stamped(1), rage(1)",
+        "level B2: B2: KALDI | kapsam %93.2 | 1097 kelime\n    havuz dışı: miller(2), mill(1), eager(1), boast(1), straw(10), foolish(1), clever(1), miller's(3), reel(3), thread(2), sunrise(2), faintest(1), bitterly(1), sobbed(1), necklace(2), dawn(1), unlocked(1), hungrier(1), ceiling(1), wept(1), hummed(1), glittered(1), third(3), heaped(1), bride(1), despair(1), queen(7), spun(1), horrified(1), kingdom(1), treasure(1), weep(1), pitifully(1), awake(1), messenger(4), recited(1), dusty(1), ridiculous(1), hopping(1), hopped(1), bake(1), queen's(1), rubbing(1), devil(2), furious(1), rage(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8344,
+        "wordCount": 326,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "king(6)",
+          "gold(6)",
+          "queen(5)",
+          "straw(4)",
+          "cried(3)",
+          "spin(2)",
+          "tiny(2)",
+          "third(2)",
+          "baby(2)",
+          "poor(1)",
+          "miller(1)",
+          "beautiful(1)",
+          "daughter(1)",
+          "lie(1)",
+          "sad(1)",
+          "can't(1)",
+          "necklace(1)",
+          "spinning(1)",
+          "wheel(1)",
+          "ring(1)",
+          "huge(1)",
+          "sadly(1)",
+          "married(1)",
+          "sorry(1)",
+          "laughed(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8728,
+        "wordCount": 519,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "gold(9)",
+          "king(5)",
+          "straw(5)",
+          "queen(5)",
+          "spin(4)",
+          "cried(3)",
+          "third(3)",
+          "castle(2)",
+          "messenger(2)",
+          "devil(2)",
+          "miller(1)",
+          "locked(1)",
+          "tiny(1)",
+          "crying(1)",
+          "can't(1)",
+          "necklace(1)",
+          "spinning(1)",
+          "wheel(1)",
+          "king's(1)",
+          "shone(1)",
+          "sunrise(1)",
+          "bright(1)",
+          "sadly(1)",
+          "kingdom(1)",
+          "collect(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9241,
+        "wordCount": 817,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "queen(10)",
+          "straw(8)",
+          "spin(4)",
+          "messenger(4)",
+          "castle(3)",
+          "miller(2)",
+          "miller's(2)",
+          "spun(2)",
+          "third(2)",
+          "devil(2)",
+          "mill(1)",
+          "impress(1)",
+          "silly(1)",
+          "clever(1)",
+          "spinning(1)",
+          "necklace(1)",
+          "thread(1)",
+          "shining(1)",
+          "sunrise(1)",
+          "hungry(1)",
+          "happiness(1)",
+          "terrified(1)",
+          "treasures(1)",
+          "kingdom(1)",
+          "bitterly(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9316,
+        "wordCount": 1097,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "straw(10)",
+          "queen(7)",
+          "messenger(4)",
+          "miller's(3)",
+          "reel(3)",
+          "third(3)",
+          "miller(2)",
+          "thread(2)",
+          "sunrise(2)",
+          "necklace(2)",
+          "devil(2)",
+          "mill(1)",
+          "eager(1)",
+          "boast(1)",
+          "foolish(1)",
+          "clever(1)",
+          "faintest(1)",
+          "bitterly(1)",
+          "sobbed(1)",
+          "dawn(1)",
+          "unlocked(1)",
+          "hungrier(1)",
+          "ceiling(1)",
+          "wept(1)",
+          "hummed(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9226,
+        "wordCount": 1498,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "straw(9)",
+          "queen(7)",
+          "third(4)",
+          "messenger(4)",
+          "reel(3)",
+          "miller's(3)",
+          "mill(2)",
+          "miller(2)",
+          "thread(2)",
+          "sunrise(2)",
+          "stalk(2)",
+          "wept(2)",
+          "dawn(2)",
+          "bride(2)",
+          "bargain(2)",
+          "kingdom(2)",
+          "devil(2)",
+          "swift(1)",
+          "flour(1)",
+          "coarse(1)",
+          "leaked(1)",
+          "puddle(1)",
+          "seized(1)",
+          "dusty(1)",
+          "tradesman(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 326,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0095,
+      "lowZipfWords": [
+        "helper"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 519,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.004,
+      "lowZipfWords": [
+        "hopped",
+        "shone"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 817,
+      "sentLenMedian": 12,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0063,
+      "lowZipfWords": [
+        "bitterly",
+        "hopping",
+        "miller's",
+        "strangest"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1097,
+      "sentLenMedian": 14,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0223,
+      "lowZipfWords": [
+        "bitterly",
+        "dearer",
+        "faintest",
+        "glittered",
+        "grinning",
+        "heaped",
+        "hesitated",
+        "hopped",
+        "hopping",
+        "horrified",
+        "hummed",
+        "hungrier",
+        "miller's",
+        "oddest",
+        "piled",
+        "pitifully",
+        "reasoned",
+        "recited",
+        "sobbed",
+        "swung",
+        "weep",
+        "wept"
+      ],
+      "keyTermTokens": 10,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1498,
+      "sentLenMedian": 19.5,
+      "zipfMedian": 6.13,
+      "lowZipfRatio": 0.0299,
+      "lowZipfWords": [
+        "beamed",
+        "bitten",
+        "bitterly",
+        "blazed",
+        "chests",
+        "coarse",
+        "daybreak",
+        "dearer",
+        "enormously",
+        "farmhands",
+        "floorboards",
+        "frowning",
+        "gleaming",
+        "heaped",
+        "hoarse",
+        "hopelessly",
+        "hopping",
+        "hummed",
+        "miller's",
+        "moment's",
+        "piled",
+        "pleasantly",
+        "puddle",
+        "puffing",
+        "rafters",
+        "reasoned",
+        "shone",
+        "shrieked",
+        "sobs",
+        "speechless",
+        "stalk",
+        "strangest",
+        "tilting",
+        "tireless",
+        "tradesman",
+        "unclasped",
+        "weep",
+        "wept",
+        "windowless",
+        "wiser"
+      ],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8344,
+      "wordCount": 326,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "king(6)",
+        "gold(6)",
+        "queen(5)",
+        "straw(4)",
+        "cried(3)",
+        "spin(2)",
+        "tiny(2)",
+        "third(2)",
+        "baby(2)",
+        "poor(1)",
+        "miller(1)",
+        "beautiful(1)",
+        "daughter(1)",
+        "lie(1)",
+        "sad(1)",
+        "can't(1)",
+        "necklace(1)",
+        "spinning(1)",
+        "wheel(1)",
+        "ring(1)",
+        "huge(1)",
+        "sadly(1)",
+        "married(1)",
+        "sorry(1)",
+        "laughed(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8728,
+      "wordCount": 519,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "gold(9)",
+        "king(5)",
+        "straw(5)",
+        "queen(5)",
+        "spin(4)",
+        "cried(3)",
+        "third(3)",
+        "castle(2)",
+        "messenger(2)",
+        "devil(2)",
+        "miller(1)",
+        "locked(1)",
+        "tiny(1)",
+        "crying(1)",
+        "can't(1)",
+        "necklace(1)",
+        "spinning(1)",
+        "wheel(1)",
+        "king's(1)",
+        "shone(1)",
+        "sunrise(1)",
+        "bright(1)",
+        "sadly(1)",
+        "kingdom(1)",
+        "collect(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9241,
+      "wordCount": 817,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "queen(10)",
+        "straw(8)",
+        "spin(4)",
+        "messenger(4)",
+        "castle(3)",
+        "miller(2)",
+        "miller's(2)",
+        "spun(2)",
+        "third(2)",
+        "devil(2)",
+        "mill(1)",
+        "impress(1)",
+        "silly(1)",
+        "clever(1)",
+        "spinning(1)",
+        "necklace(1)",
+        "thread(1)",
+        "shining(1)",
+        "sunrise(1)",
+        "hungry(1)",
+        "happiness(1)",
+        "terrified(1)",
+        "treasures(1)",
+        "kingdom(1)",
+        "bitterly(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9316,
+      "wordCount": 1097,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "straw(10)",
+        "queen(7)",
+        "messenger(4)",
+        "miller's(3)",
+        "reel(3)",
+        "third(3)",
+        "miller(2)",
+        "thread(2)",
+        "sunrise(2)",
+        "necklace(2)",
+        "devil(2)",
+        "mill(1)",
+        "eager(1)",
+        "boast(1)",
+        "foolish(1)",
+        "clever(1)",
+        "faintest(1)",
+        "bitterly(1)",
+        "sobbed(1)",
+        "dawn(1)",
+        "unlocked(1)",
+        "hungrier(1)",
+        "ceiling(1)",
+        "wept(1)",
+        "hummed(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9226,
+      "wordCount": 1498,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "straw(9)",
+        "queen(7)",
+        "third(4)",
+        "messenger(4)",
+        "reel(3)",
+        "miller's(3)",
+        "mill(2)",
+        "miller(2)",
+        "thread(2)",
+        "sunrise(2)",
+        "stalk(2)",
+        "wept(2)",
+        "dawn(2)",
+        "bride(2)",
+        "bargain(2)",
+        "kingdom(2)",
+        "devil(2)",
+        "swift(1)",
+        "flour(1)",
+        "coarse(1)",
+        "leaked(1)",
+        "puddle(1)",
+        "seized(1)",
+        "dusty(1)",
+        "tradesman(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 4,
+      "2": 6
+    },
+    "fails": []
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.038,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0142",
+        "title": "The Legend of Sleepy Hollow",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.038,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "st-0277",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The two friends were big now.\" — 'big' for 'grown up' is acceptable at A1, but \"The two friends were grown up now.\" is more natural and matches the other levels.",
+        "\"His tears washed the splinter out.\" — the reader has met two pieces (eye and heart); \"His tears washed the splinter out of his eye.\" would be clearer.",
+        "The word Kai must spell is never named at A1 (\"made the word\"); acceptable, since 'the word' points back to 'He wanted to make a word with them.'"
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "He broke the roses and laughed at Gerda's tears.",
+          "problem": "'Broke the roses' is an odd collocation; a native children's author would not say you 'break' roses. Other levels correctly use 'pulled up' / 'tore'.",
+          "fix": "He pulled up the roses and laughed at Gerda's tears."
+        }
+      ],
+      "notes": [
+        "\"Kai began to cry too, and his tears washed the splinter out.\" — two splinters were introduced; consider \"washed the splinter out of his eye\" for clarity.",
+        "'forever' (A2/B1) vs 'Eternity' (B2/C1) is an acceptable simplification of the original word."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The crow told her about a clever young man who married the princess of that land.\" — 'who had married' is more precise, but past simple is acceptable at B1.",
+        "The reindeer saying \"She was going to Lapland\" is consistent with the original, where the reindeer knows the Snow Queen's summer tent is in Lapland."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"She put on her new red shoes and offered them to the river, and a drifting boat carried her away.\" — skips Gerda climbing into the boat; acceptable condensing."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"scribbled a few words on a dried cod and sent them on to a wiser woman in Finland\" — 'them' could grammatically refer to 'a few words' instead of Gerda and the reindeer; \"and sent the travellers on\" removes the ambiguity.",
+        "\"though the whole world and the new skates no longer interested him in the least\" is an interpretive addition not stated by Andersen; it doesn't contradict the original, and quiz Q3 is supported by the text as written, so not a failure."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "Faithful to Andersen at every level: mirror, splinters, sleigh, the garden with painted roses, crows, prince and princess, robber girl, Lapp and Finn women, snowflake army, Mirror of Reason, Eternity, the tears and the grown-up return. Level control and quizzes are sound. The one concrete defect is the unnatural collocation 'He broke the roses' at A2; with the one-line fix it should pass."
+}

@@ -1,0 +1,53 @@
+{
+  "id": "st-0275",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Shere Khan hunts here tonight,\" he said. Present simple with future meaning is grammatical and stays inside A1 tenses, but it reads slightly stiff. Optional: \"Shere Khan is in your hills tonight.\"",
+        "Plot order and ending match Kipling: Tabaqui, the cry, the baby, Raksha's defiance, the Council, Baloo and the bull, the Red Flower, Akela missing his kill, the fire at Council, the tears, and Mowgli leaving for the men. Nothing from the film."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"A father wolf woke up after his long day of sleep.\" This is a little awkward. Optional: \"A father wolf woke up after sleeping all day.\"",
+        "\"Let him live, and I can teach him,\" he said. A native speaker would write \"I will teach him\". If will-future is not allowed at A2, \"Let him live. I can teach him.\" also works.",
+        "\"By wolf law, two animals must speak for a strange cub.\" \"A new cub\" is more natural than \"a strange cub\".",
+        "\"Shere Khan cried like a kitten\" is an invented image (Kipling has him whimper and whine), but it is not a film borrowing and it fits a children's retelling."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"because a bull paid for his life\" is figurative and a bit odd. Kipling's own wording is that a bull \"bought\" him. A fix that avoids the passive: \"because Bagheera paid for his life with a bull\". If you change this, update quiz Q2's keyed answer to match.",
+        "The text has no passive and no conditionals. The relative clauses and the past perfect are fine at B1.",
+        "In the original Mowgli takes the fire pot in the morning mist, not at night. Moving it to the night is acceptable condensing."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The young wolves who had sided with the tiger ran after him\" could be read as the wolves chasing Shere Khan. Clearer: \"fled after him\" or \"ran off with him\".",
+        "\"...the panther replied gently. \"Now I am sure you are a man, so let the tears come,\" he said.\" This gives one speech two speech tags. Drop \"he said\".",
+        "Quiz Q3 expects the reader to infer that lying beside the rock means Akela had lost the leadership. The inference is fair and the distractors are clearly wrong."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"more feared for his tongue than for his teeth\" is a small shift from Kipling, where the wolves fear Tabaqui because he is liable to go mad. It is acceptable as stylistic flavour.",
+        "\"born among men, in a king's cages\" is slightly unidiomatic. Optional: \"in the cages of a king's palace\".",
+        "The prose is genuinely literary and close to Kipling (the free-people reply, \"hunter of little naked cubs\", the bull's price, the weeping scene) without padding."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels follow the event order and ending of Kipling's 'Mowgli's Brothers' and contain nothing from the film. Each level stays within its grammar limits, and all quiz keys are correct and unambiguous. The remaining points are only small wording preferences (\"a bull paid for his life\", an ambiguous \"ran after him\", a doubled speech tag)."
+}

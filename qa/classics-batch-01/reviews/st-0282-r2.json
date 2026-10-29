@@ -1,0 +1,72 @@
+{
+  "id": "st-0282",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Again, all the straw turned to gold. The king wanted the big room gold too. \"Then be my queen!\" said the king.",
+          "problem": "The third night is garbled. 'The big room' was never introduced, and 'too' suggests it already happened. 'Wanted the big room gold' is not natural English. 'Then be my queen!' has no condition before it, so it reads as if he proposes for no reason. The reader cannot tell that the king sets a third, bigger task with marriage as the reward.",
+          "fix": "Again, all the straw turned to gold. On the third night, the king took her to a very big room. \"Make all this straw gold, and you can be my queen!\" he said."
+        },
+        {
+          "criterion": "logic error",
+          "quote": "\"Give me the child now!\" he said. \"Find my name in three days,\" he said. \"Then you can keep the baby.\"",
+          "problem": "The little man demands the child and then offers a deal in the very next line with no reason. The queen's crying and his pity are missing, and that pity is the cause of the deal in the original (A2-C1 all keep it). There are also two 'he said' tags in a row.",
+          "fix": "\"Give me the child now!\" he said. The queen cried and cried. The little man felt sorry for her. \"Find my name in three days,\" he said. \"Then you can keep the baby.\""
+        },
+        {
+          "criterion": "logic error",
+          "quote": "On the third day, the man came back.",
+          "problem": "'The man' is ambiguous. The text has just used 'the little man', and the messenger was introduced only as 'a man' with no stated purpose ('The queen sent a man across the land.'). Readers may think the little man came back.",
+          "fix": "Change the earlier sentence to \"The queen sent a man across the land to find names.\" and this one to \"On the third day, the queen's man came back.\""
+        }
+      ],
+      "notes": [
+        "\"His song told his name.\" is a little odd; \"He sang his name in his song.\" is more natural.",
+        "Several messenger lines in a row have no speaker tag (\"His song told his name.\" \"His name is Rumpelstiltskin!\"). The context makes the speaker clear, but one tag would help A1 readers."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "\"I saw a small house high on a mountain,\" he said. \"A fire burns in front of it.\" \"A funny little man hops around it on one leg.\" \"He sings a song about the queen's baby.\"",
+          "problem": "The tense jumps from past ('I saw') to present ('burns', 'hops', 'sings') in the middle of the messenger's report. A native writer would keep the past tense, and the mix is confusing for A2 learners who are still learning tense contrast.",
+          "fix": "\"I saw a small house high on a mountain,\" he said. \"A fire burned in front of it.\" \"A funny little man hopped around it on one leg.\" \"He sang a song about the queen's baby.\""
+        }
+      ],
+      "notes": [
+        "\"I give you three days\" works as a level-limited form of \"I'll give you three days\" and is acceptable."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"spun the last room of straw into gold\" is slightly awkward; \"spun all the straw in the last room into gold\" reads better.",
+        "On the third day the queen teasingly guesses 'Melchior', a name already rejected. 'Innocently' makes the teasing clear, but the original's fresh decoys (Conrad, Harry/Heinz) would be more faithful."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The teasing guess of 'Melchior' on the third day repeats a rejected name. 'Pretending to be unsure' covers it; Conrad or Harry would match the Grimm text."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"walked out of it as a royal bride\" suggests she left the castle, but she marries and stays there. Consider \"and now walked its halls as a royal bride\".",
+        "The ending (stamping, cracked floorboards, never seen again) softens the 1857 self-tearing ending. That follows the 1812 version and is acceptable."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "B1, B2 and C1 are faithful to the Grimm tale (necklace, ring, first child, the pity-driven three days, Caspar/Melchior/Balthazar, Ribsofbeef/Muttonchops/Lacelegs, the messenger at the fire, 'The devil told you'), and their quizzes are sound. A1 fails on logic: the third night and the king's marriage offer are garbled, the little man's three-day deal has no motivation, and 'the man' (the messenger) is ambiguous. A2 fails on a past/present tense switch in the messenger's report."
+}

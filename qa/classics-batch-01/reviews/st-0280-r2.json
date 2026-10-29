@@ -1,0 +1,55 @@
+{
+  "id": "st-0280",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift / logic error",
+          "quote": "\"Do people live forever?\" she asked. \"People have a soul,\" said her grandmother. \"Mermaids become sea foam in the end.\" \"A man must love you and marry you.\" \"Then you can have a soul too.\"",
+          "problem": "The grandmother never answers the yes/no question. 'People have a soul' as a reply to 'Do people live forever?' lets an A1 reader think the answer is yes, which contradicts A2-C1 ('No, but they have a soul'). The jump from 'Mermaids become sea foam' to 'A man must love you and marry you' also comes with no question or link, so the reader cannot tell why marriage is mentioned.",
+          "fix": "\"Do people live forever?\" she asked. \"No,\" said her grandmother. \"But people have a soul, and it lives forever. Mermaids become sea foam in the end.\" \"Can I have a soul?\" asked the mermaid. \"A man must love you and marry you. Then you can have a soul too.\""
+        }
+      ],
+      "notes": [
+        "\"At fifteen, she swam up to the top.\" Reads more naturally as \"to the top of the sea\".",
+        "Quiz Q2 distractor 'Her sisters': the pronoun has no clear reference in the question. 'The mermaid's sisters' is clearer."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"She swam up to the top at sunset.\" Reads better as \"to the top of the sea\".",
+        "\"like a little sister\": Andersen has 'like a dear child'. That is acceptable, but 'like a little sister' matches the other levels less well (B1-C1 say 'child')."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Opening switches tense ('the water is clear' / 'At the bottom stood the palace'). Andersen does this too, but 'At the bottom stands the palace' would be more consistent.",
+        "\"'At fifteen, you can swim up and see it all,' she promised.\" Coming right after 'The youngest ... loved her grandmother's stories', 'she' could mean the youngest. 'her grandmother promised' removes the doubt."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"whose only treasure was a stone statue\" sits a little uneasily with C1, where her red flower garden is the main treasure and the statue is her 'one other treasure'. Consider 'whose greatest treasure'."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"a forest of grasping growths\" is slightly awkward. Andersen's polyps could be 'a forest of polyps, half plant and half animal, whose arms seized anything drifting near'.",
+        "\"The prince came back to life\" echoes the old translation. 'The prince revived' or 'came to himself' reads more naturally today.",
+        "\"At last, she confided in one of her sisters\" comes in with no mention that she had been grieving and keeping silent. A short clause such as 'Unable to bear her secret any longer,' would smooth it."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows Andersen closely at every level: the grandmother and the soul, the oysters, the convent girl, the knife thrown into a red-gleaming sea and the daughters of the air. No film elements appear, and the quizzes are keyed correctly. The only concrete defect is in A1: the grandmother's reply does not answer 'Do people live forever?' (it implies yes, unlike the other levels), and the marriage condition comes with no link. A2-C1 pass, with only minor style notes."
+}
