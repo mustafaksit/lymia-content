@@ -1,0 +1,108 @@
+{
+  "_doc": "Klasik yeniden anlatimlarin kaynak eserleri. Yalniz 1929 oncesi yayimlanmis, kamu malı (public domain) eserler. Metinler kaynaktan cumle kopyalanmadan, tamamen yeniden yazilmistir. names: hikayede gecen ozel isimler (kaynak esere ait). keyTerms: hikayenin cekirdek nesnesi olan dusuk frekansli ortak isimler (A1-A2 zipf<3.5 orani hesabinda ozel isim gibi sayilir, raporda ayrica gosterilir; en fazla 2).",
+  "series": "classics",
+  "stories": {
+    "st-0273": {
+      "title": "Pinocchio",
+      "work": "Le avventure di Pinocchio. Storia di un burattino",
+      "author": "Carlo Collodi",
+      "firstPublished": 1883,
+      "serialized": "Giornale per i bambini, 1881-1882",
+      "originalLanguage": "it",
+      "episode": "Tam yay, yogunlastirilmis: Geppetto'nun kuklayi oymasi, yalanlar ve uzayan burun, Tilki ile Kedi, Oyuncaklar Ulkesi ve esege donusme, Korkunc Kopekbaligi'nin icinde Geppetto'yu bulma, gercek cocuga donusme.",
+      "names": ["Pinocchio", "Geppetto", "Candlewick", "Fire-Eater", "Land of Toys", "Talking Cricket", "Fairy"],
+      "keyTerms": ["puppet"]
+    },
+    "st-0274": {
+      "title": "Robin Hood and the Golden Arrow",
+      "work": "The Merry Adventures of Robin Hood of Great Renown in Nottinghamshire",
+      "author": "Howard Pyle",
+      "firstPublished": 1883,
+      "originalLanguage": "en",
+      "episode": "Nottingham'daki okculuk yarismasi: Serif tuzak olarak altin ok odulu koyar, Robin kilik degistirip katilir ve kazanir, sonra Serif'e kim oldugunu bir okla bildirir.",
+      "names": ["Robin", "Hood", "Robin Hood", "Little John", "Will Stutely", "Will Scarlet", "Nottingham", "Sherwood", "Gilbert", "Adam", "Dell"],
+      "keyTerms": ["archer", "sheriff"]
+    },
+    "st-0275": {
+      "title": "Mowgli's Brothers",
+      "work": "The Jungle Book (\"Mowgli's Brothers\")",
+      "author": "Rudyard Kipling",
+      "firstPublished": 1894,
+      "originalLanguage": "en",
+      "episode": "Kurtlarin bebegi sahiplenmesi, Meclis Kayasi, Baloo ve Bagheera'nin kefaleti, yillar sonra suru ici ihanet, Kirmizi Cicek (ates) ile Shere Khan'in kovulmasi, Mowgli'nin insanlara gidisi.",
+      "names": ["Mowgli", "Akela", "Bagheera", "Baloo", "Shere Khan", "Shere", "Khan", "Tabaqui", "Raksha", "Seeonee", "Council Rock", "Waingunga"],
+      "keyTerms": ["cub", "panther"]
+    },
+    "st-0276": {
+      "title": "Gulliver in Lilliput",
+      "work": "Travels into Several Remote Nations of the World (Gulliver's Travels), Part I",
+      "author": "Jonathan Swift",
+      "firstPublished": 1726,
+      "originalLanguage": "en",
+      "episode": "Lilliput kismi: gemi kazasi, iplerle baglanma, imparatorun hizmetine girme, Blefuscu filosunu cekip getirme, Blefuscu'yu koleleştirmeyi reddedince gozden dusme, kacis ve eve donus.",
+      "names": ["Gulliver", "Lemuel", "Lemuel Gulliver", "Lilliput", "Blefuscu", "England", "Mildendo", "Flimnap", "Reldresal", "Antelope", "Man-Mountain"],
+      "keyTerms": []
+    },
+    "st-0277": {
+      "title": "The Snow Queen",
+      "work": "Sneedronningen (The Snow Queen)",
+      "author": "Hans Christian Andersen",
+      "firstPublished": 1844,
+      "originalLanguage": "da",
+      "episode": "Tam masal, yogunlastirilmis: kotu ayna parcalari, Kai'nin kalbine kiymik girmesi, Kar Kralicesi'nin Kai'yi gotürmesi, Gerda'nin yolculugu (kargalar, prens ve prenses, haydut kizi, ren geyigi, Lapon ve Fin kadinlar), buz sarayi, gozyaslariyla buyunun cozulmesi, eve donus.",
+      "names": ["Kai", "Gerda", "Lapland", "Finland", "Snow Queen"],
+      "keyTerms": ["reindeer", "splinter"]
+    },
+    "st-0278": {
+      "title": "Don Quixote and the Windmills",
+      "work": "El ingenioso hidalgo don Quijote de la Mancha, Part I (ch. 1-8)",
+      "author": "Miguel de Cervantes",
+      "firstPublished": 1605,
+      "originalLanguage": "es",
+      "episode": "Sovalye kitaplariyla aklini yitiren Alonso Quixano'nun Don Quixote olmasi, Rocinante, Dulcinea, Sancho Panza'yi sahibe alip yola cikmasi, yel degirmenlerini dev sanip saldirmasi, ve buyucu Freston bahanesiyle yola devam etmeleri.",
+      "names": ["Don Quixote", "Quixote", "Alonso", "Quixano", "La Mancha", "Mancha", "Sancho", "Panza", "Sancho Panza", "Rocinante", "Dulcinea", "Toboso", "Freston", "Briareus", "Lapice", "Puerto"],
+      "keyTerms": ["windmill", "windmills"]
+    },
+    "st-0279": {
+      "title": "Robinson Crusoe",
+      "work": "The Life and Strange Surprizing Adventures of Robinson Crusoe, of York, Mariner",
+      "author": "Daniel Defoe",
+      "firstPublished": 1719,
+      "originalLanguage": "en",
+      "episode": "Yogunlastirilmis tam yay: gemi kazasi, enkazdan esya kurtarma, ev ve takvim diregi, keciler ve papagan, kumdaki ayak izi, Friday'in kurtarilmasi ve dostluk, yillar sonra gelen gemiyle eve donus.",
+      "names": ["Robinson", "Crusoe", "Robinson Crusoe", "Friday", "York", "Brazil", "England", "Poll"],
+      "keyTerms": ["parrot", "footprint"]
+    },
+    "st-0280": {
+      "title": "The Little Mermaid",
+      "work": "Den lille Havfrue (The Little Mermaid)",
+      "author": "Hans Christian Andersen",
+      "firstPublished": 1837,
+      "originalLanguage": "da",
+      "episode": "Tam masal, orijinal son: on besinci yas gunu, firtinada prensi kurtarma, deniz cadisina sesini verme, aci veren adimlar, prensin baska prensesle evlenmesi, ablalarin bicagi, bicagi atip denize atlamasi, kopuge donusup havanin kizlarindan biri olmasi.",
+      "names": [],
+      "keyTerms": ["mermaid", "mermaids"]
+    },
+    "st-0281": {
+      "title": "The Pied Piper of Hamelin",
+      "work": "The Pied Piper of Hamelin; a Child's Story (Dramatic Lyrics)",
+      "author": "Robert Browning",
+      "firstPublished": 1842,
+      "originalLanguage": "en",
+      "episode": "Tam hikaye, orijinal son: fare istilasi, alaca giysili kavalci, bin altin vaadi, farelerin Weser nehrinde bogulmasi, belediye baskaninin sozunu tutmamasi, cocuklarin daga girip kaybolmasi, topal cocugun geride kalmasi.",
+      "altSource": "Brothers Grimm, Deutsche Sagen (1816), 'Die Kinder zu Hameln'",
+      "names": ["Hamelin", "Weser", "Koppelberg", "Brunswick", "Piper"],
+      "keyTerms": ["piper"]
+    },
+    "st-0282": {
+      "title": "Rumpelstiltskin",
+      "work": "Kinder- und Hausmärchen, KHM 55 'Rumpelstilzchen' (1812 first edition)",
+      "author": "Jacob and Wilhelm Grimm",
+      "firstPublished": 1812,
+      "originalLanguage": "de",
+      "episode": "Tam masal: degirmencinin ovunmesi, samanin altina egrilmesi uc gece (kolye, yuzuk, ilk cocuk vaadi), uc gunde isim tahmini, haberci (1812 metninde kralin kendisi degil hizmetkar) ates basindaki sarkiyi duyar, isim bilinir; 1812 metnindeki sonla ofkeyle kacar ve bir daha gelmez.",
+      "names": ["Rumpelstiltskin", "Caspar", "Melchior", "Balthazar", "Ribsofbeef", "Muttonchops", "Lacelegs"],
+      "keyTerms": ["straw"]
+    }
+  }
+}
