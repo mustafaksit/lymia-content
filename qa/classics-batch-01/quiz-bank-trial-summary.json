@@ -1,0 +1,127 @@
+{
+  "run": "build-quiz.py --stories st-0273..st-0282 (distilbert yerel, LLM yok)",
+  "lemmaPos": 2311,
+  "questions": 6776,
+  "bySource": {
+    "tatoeba": 4856,
+    "story": 1920
+  },
+  "byLevel": {
+    "B1": 2425,
+    "B2": 2180,
+    "A2": 1359,
+    "C1": 529,
+    "A1": 283
+  },
+  "note": "Pipeline sonda cache/quiz-report.json yazarken FileNotFoundError ile dustu (cache/ klasoru olusturulmuyor); shard ciktilari tamdi. Katalog capli content/v2/quiz shardlarini ezmemek icin cikti git checkout ile geri alindi; bu ozet saklandi.",
+  "samples": [
+    {
+      "id": "healthy|ADJ|2",
+      "sentence": "Every person in this community is like a cell in the immune system of a ____ human body.",
+      "answer": "healthy",
+      "options": [
+        "wild",
+        "healthy",
+        "dangerous",
+        "silver"
+      ],
+      "tag": "JJ",
+      "level": "A2",
+      "source": {
+        "type": "tatoeba",
+        "id": 57917
+      },
+      "gate": 0.2525
+    },
+    {
+      "id": "creak|VERB|1",
+      "sentence": "The chair ____ as he sat down.",
+      "answer": "creaked",
+      "options": [
+        "gnawed",
+        "astonished",
+        "creaked",
+        "untied"
+      ],
+      "tag": "VBD",
+      "level": "C1",
+      "source": {
+        "type": "tatoeba",
+        "id": 4442649
+      },
+      "gate": 0.8529
+    },
+    {
+      "id": "leader|NOUN|1",
+      "sentence": "The recent scandals involving altar boys and religious ____ have undermined the faith people have in the Church.",
+      "answer": "leaders",
+      "options": [
+        "letters",
+        "judges",
+        "fits",
+        "leaders"
+      ],
+      "tag": "NNS",
+      "level": "A2",
+      "source": {
+        "type": "tatoeba",
+        "id": 1943
+      },
+      "gate": 0.0834
+    },
+    {
+      "id": "sink|NOUN|1",
+      "sentence": "I haven't had time to do the dishes for two days; they are in a pile in the kitchen ____.",
+      "answer": "sink",
+      "options": [
+        "fence",
+        "hood",
+        "sink",
+        "dish"
+      ],
+      "tag": "NN",
+      "level": "B1",
+      "source": {
+        "type": "tatoeba",
+        "id": 61396
+      },
+      "gate": 0.4103
+    },
+    {
+      "id": "beam|VERB|2",
+      "sentence": "A ____ of white light is split by a prism into rays of various colors.",
+      "answer": "beam",
+      "options": [
+        "beam",
+        "lean",
+        "peer",
+        "scream"
+      ],
+      "tag": "VB",
+      "level": "B1",
+      "source": {
+        "type": "tatoeba",
+        "id": 282601
+      },
+      "gate": 0.2609
+    },
+    {
+      "id": "bow|VERB|2",
+      "sentence": "The little girl made a polite ____ to me.",
+      "answer": "bow",
+      "options": [
+        "slide",
+        "bow",
+        "bite",
+        "seal"
+      ],
+      "tag": "VB",
+      "level": "B1",
+      "source": {
+        "type": "tatoeba",
+        "id": 259468
+      },
+      "gate": 0.168
+    }
+  ]
+}

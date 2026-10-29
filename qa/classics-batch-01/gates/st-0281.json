@@ -1,0 +1,682 @@
+{
+  "id": "st-0281",
+  "title": "The Pied Piper of Hamelin",
+  "ts": "2026-10-29T14:58:56",
+  "node": {
+    "id": "st-0281",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %84.5 | 304 kelime\n    havuz dışı: hamelin(1), river(4), summer(1), streets(1), bread(1), cheese(1), slept(1), hats(1), sleep(1), shouted(1), tall(1), thin(1), coat(1), red(1), yellow(1), pipe(1), coins(2), cried(1), strange(1), song(2), jumped(1), deep(1), rang(1), bells(1), danced(1), laughed(2), promise(1), songs(1), sweet(1), happy(1), clapped(1), street(2), stones(1), hill(2), boy(1), leg(1), slow(1), sadly(1), alone(1)",
+        "level A2: A2: KALDI | kapsam %88.4 | 519 kelime\n    havuz dışı: beside(1), busy(1), terrible(1), chased(1), cats(1), cheese(1), soup(1), pots(1), nests(1), hats(1), angry(1), hall(2), shouted(1), soft(1), knock(1), strange(1), tall(1), thin(2), sharp(1), coat(1), yellow(1), pipe(3), hung(1), neck(1), gold(2), coins(3), cried(1), lips(1), poured(1), brown(1), fat(1), jumped(1), river(3), bells(1), quietly(1), silly(1), sweetest(1), stones(2), clapping(1), hill(4), can't(1), quiet(1), leg(1), wonderful(1), sadly(1), sick(1), slow(1)",
+        "level B1: B1: KALDI | kapsam %93.9 | 804 kelime\n    havuz dışı: chased(1), cheese(2), shelves(1), licked(1), soup(1), spoons(1), nests(2), squeaking(1), loud(1), marched(1), fool(1), robes(1), rid(1), sighed(1), rubbing(1), tapped(1), gently(1), pipe(3), bow(1), tune(2), creature(1), cloud(1), coins(4), distant(1), thunder(1), tumbled(1), rat(1), apples(1), bells(1), towers(1), politely(1), pale(1), wink(1), clapping(1), shining(1), terrified(1), steep(1), magic(1), hillside(1), silent(1), silver(1)",
+        "level B2: B2: KALDI | kapsam %94.1 | 1132 kelime\n    havuz dışı: duchy(1), steep(1), cradles(1), barrels(3), licked(1), soup(1), spoons(1), nests(1), endless(1), squeaking(1), townspeople(1), patience(1), useless(2), fur(1), robes(1), can't(3), cure(1), i'd(1), robe(1), groaned(1), aching(1), slim(1), forgive(1), interrupting(1), polite(1), bow(1), crawls(1), bats(1), rumbling(1), doorway(1), cellar(1), drain(1), plunged(1), apples(1), crushed(1), poles(1), poke(1), nest(1), marketplace(1), ridiculous(1), wink(1), drown(1), generous(1), scorpions(1), bargain(2), you'll(1), roared(1), ache(1), clapping(1), rosy(1), skipping(1), statues(1), horror(1), mountainside(1), hillside(1), afterwards(1), dull(1), joyful(1), stings(1), messengers(1), pillar(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8454,
+        "wordCount": 304,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "river(4)",
+          "coins(2)",
+          "song(2)",
+          "laughed(2)",
+          "street(2)",
+          "hill(2)",
+          "hamelin(1)",
+          "summer(1)",
+          "streets(1)",
+          "bread(1)",
+          "cheese(1)",
+          "slept(1)",
+          "hats(1)",
+          "sleep(1)",
+          "shouted(1)",
+          "tall(1)",
+          "thin(1)",
+          "coat(1)",
+          "red(1)",
+          "yellow(1)",
+          "pipe(1)",
+          "cried(1)",
+          "strange(1)",
+          "jumped(1)",
+          "deep(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8844,
+        "wordCount": 519,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "hill(4)",
+          "pipe(3)",
+          "coins(3)",
+          "river(3)",
+          "hall(2)",
+          "thin(2)",
+          "gold(2)",
+          "stones(2)",
+          "beside(1)",
+          "busy(1)",
+          "terrible(1)",
+          "chased(1)",
+          "cats(1)",
+          "cheese(1)",
+          "soup(1)",
+          "pots(1)",
+          "nests(1)",
+          "hats(1)",
+          "angry(1)",
+          "shouted(1)",
+          "soft(1)",
+          "knock(1)",
+          "strange(1)",
+          "tall(1)",
+          "sharp(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9391,
+        "wordCount": 804,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "coins(4)",
+          "pipe(3)",
+          "cheese(2)",
+          "nests(2)",
+          "tune(2)",
+          "chased(1)",
+          "shelves(1)",
+          "licked(1)",
+          "soup(1)",
+          "spoons(1)",
+          "squeaking(1)",
+          "loud(1)",
+          "marched(1)",
+          "fool(1)",
+          "robes(1)",
+          "rid(1)",
+          "sighed(1)",
+          "rubbing(1)",
+          "tapped(1)",
+          "gently(1)",
+          "bow(1)",
+          "creature(1)",
+          "cloud(1)",
+          "distant(1)",
+          "thunder(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9408,
+        "wordCount": 1132,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "barrels(3)",
+          "can't(3)",
+          "useless(2)",
+          "bargain(2)",
+          "duchy(1)",
+          "steep(1)",
+          "cradles(1)",
+          "licked(1)",
+          "soup(1)",
+          "spoons(1)",
+          "nests(1)",
+          "endless(1)",
+          "squeaking(1)",
+          "townspeople(1)",
+          "patience(1)",
+          "fur(1)",
+          "robes(1)",
+          "cure(1)",
+          "i'd(1)",
+          "robe(1)",
+          "groaned(1)",
+          "aching(1)",
+          "slim(1)",
+          "forgive(1)",
+          "interrupting(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9243,
+        "wordCount": 1413,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "barrels(3)",
+          "nests(2)",
+          "rumble(2)",
+          "stout(2)",
+          "drowned(2)",
+          "haggle(2)",
+          "lame(2)",
+          "steep(1)",
+          "gables(1)",
+          "prosperous(1)",
+          "merchants(1)",
+          "duchy(1)",
+          "humiliating(1)",
+          "cradles(1)",
+          "nibbled(1)",
+          "vanished(1)",
+          "soup(1)",
+          "licked(1)",
+          "spoons(1)",
+          "gnawed(1)",
+          "gossiping(1)",
+          "shrill(1)",
+          "ceaseless(1)",
+          "squeaking(1)",
+          "patience(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "ad leg and could not keep up. For years afterwards he missed his friends and complained th"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "WHOLE_LOT",
+          "cat": "REDUNDANCY",
+          "msg": "Consider using “lot”.",
+          "frag": "whole lot",
+          "ctx": "es and find a cure, or we will turn the whole lot of you out of office!\" Inside, the Mayo"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "the east of a plague of gnats, and soon afterwards I cleared a whole country of its bats. "
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 304,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0035,
+      "lowZipfWords": [
+        "clapped"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 519,
+      "sentLenMedian": 8,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0061,
+      "lowZipfWords": [
+        "clapping",
+        "nests",
+        "sweetest"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 804,
+      "sentLenMedian": 12,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0219,
+      "lowZipfWords": [
+        "angrily",
+        "clapping",
+        "coldly",
+        "hillside",
+        "kitchens",
+        "licked",
+        "nests",
+        "politely",
+        "robes",
+        "sighed",
+        "spoons",
+        "squeaking",
+        "swam",
+        "sweeter",
+        "tumbled"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1132,
+      "sentLenMedian": 16,
+      "zipfMedian": 5.95,
+      "lowZipfRatio": 0.03,
+      "lowZipfWords": [
+        "ache",
+        "aching",
+        "clapping",
+        "cradles",
+        "crawls",
+        "duchy",
+        "groaned",
+        "hillside",
+        "interrupting",
+        "joyful",
+        "kitchens",
+        "licked",
+        "messengers",
+        "mountainside",
+        "nervously",
+        "nests",
+        "plunged",
+        "roared",
+        "robes",
+        "rosy",
+        "rumbling",
+        "salted",
+        "scorpions",
+        "spoons",
+        "squeaking",
+        "stings",
+        "strangest",
+        "sweeter",
+        "swims",
+        "townspeople",
+        "uncles",
+        "whispered"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1413,
+      "sentLenMedian": 21,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0457,
+      "lowZipfWords": [
+        "ache",
+        "aching",
+        "bustle",
+        "ceaseless",
+        "cellars",
+        "clapping",
+        "cradles",
+        "creeps",
+        "dines",
+        "doorways",
+        "duchy",
+        "flung",
+        "flushed",
+        "gables",
+        "gnats",
+        "gnawed",
+        "gossiping",
+        "graceful",
+        "grandfathers",
+        "haggle",
+        "hillside",
+        "humiliating",
+        "interruption",
+        "invaders",
+        "joyful",
+        "kitchens",
+        "licked",
+        "limped",
+        "messengers",
+        "mountainside",
+        "murmur",
+        "muttered",
+        "nests",
+        "nibbled",
+        "oddest",
+        "patter",
+        "playmates",
+        "roared",
+        "rouse",
+        "rumble",
+        "rung",
+        "salted",
+        "scorpions",
+        "shrill",
+        "spoons",
+        "squeaking",
+        "steeples",
+        "stings",
+        "stout",
+        "straying",
+        "sweeter",
+        "swims",
+        "tumbling",
+        "unbearably",
+        "vagabond",
+        "westwards",
+        "winking",
+        "wiser"
+      ],
+      "keyTermTokens": 0,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8454,
+      "wordCount": 304,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "river(4)",
+        "coins(2)",
+        "song(2)",
+        "laughed(2)",
+        "street(2)",
+        "hill(2)",
+        "hamelin(1)",
+        "summer(1)",
+        "streets(1)",
+        "bread(1)",
+        "cheese(1)",
+        "slept(1)",
+        "hats(1)",
+        "sleep(1)",
+        "shouted(1)",
+        "tall(1)",
+        "thin(1)",
+        "coat(1)",
+        "red(1)",
+        "yellow(1)",
+        "pipe(1)",
+        "cried(1)",
+        "strange(1)",
+        "jumped(1)",
+        "deep(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8844,
+      "wordCount": 519,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "hill(4)",
+        "pipe(3)",
+        "coins(3)",
+        "river(3)",
+        "hall(2)",
+        "thin(2)",
+        "gold(2)",
+        "stones(2)",
+        "beside(1)",
+        "busy(1)",
+        "terrible(1)",
+        "chased(1)",
+        "cats(1)",
+        "cheese(1)",
+        "soup(1)",
+        "pots(1)",
+        "nests(1)",
+        "hats(1)",
+        "angry(1)",
+        "shouted(1)",
+        "soft(1)",
+        "knock(1)",
+        "strange(1)",
+        "tall(1)",
+        "sharp(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9391,
+      "wordCount": 804,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "coins(4)",
+        "pipe(3)",
+        "cheese(2)",
+        "nests(2)",
+        "tune(2)",
+        "chased(1)",
+        "shelves(1)",
+        "licked(1)",
+        "soup(1)",
+        "spoons(1)",
+        "squeaking(1)",
+        "loud(1)",
+        "marched(1)",
+        "fool(1)",
+        "robes(1)",
+        "rid(1)",
+        "sighed(1)",
+        "rubbing(1)",
+        "tapped(1)",
+        "gently(1)",
+        "bow(1)",
+        "creature(1)",
+        "cloud(1)",
+        "distant(1)",
+        "thunder(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9408,
+      "wordCount": 1132,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "barrels(3)",
+        "can't(3)",
+        "useless(2)",
+        "bargain(2)",
+        "duchy(1)",
+        "steep(1)",
+        "cradles(1)",
+        "licked(1)",
+        "soup(1)",
+        "spoons(1)",
+        "nests(1)",
+        "endless(1)",
+        "squeaking(1)",
+        "townspeople(1)",
+        "patience(1)",
+        "fur(1)",
+        "robes(1)",
+        "cure(1)",
+        "i'd(1)",
+        "robe(1)",
+        "groaned(1)",
+        "aching(1)",
+        "slim(1)",
+        "forgive(1)",
+        "interrupting(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9243,
+      "wordCount": 1413,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "barrels(3)",
+        "nests(2)",
+        "rumble(2)",
+        "stout(2)",
+        "drowned(2)",
+        "haggle(2)",
+        "lame(2)",
+        "steep(1)",
+        "gables(1)",
+        "prosperous(1)",
+        "merchants(1)",
+        "duchy(1)",
+        "humiliating(1)",
+        "cradles(1)",
+        "nibbled(1)",
+        "vanished(1)",
+        "soup(1)",
+        "licked(1)",
+        "spoons(1)",
+        "gnawed(1)",
+        "gossiping(1)",
+        "shrill(1)",
+        "ceaseless(1)",
+        "squeaking(1)",
+        "patience(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 2,
+      "1": 8,
+      "2": 5
+    },
+    "fails": []
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.125,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0164",
+        "title": "The Frog Prince",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.125,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0017",
+        "title": "The Lost Hotel Room",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.045,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0193",
+        "title": "The Fisherman and the Genie",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

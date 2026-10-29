@@ -1,0 +1,76 @@
+{
+  "id": "st-0277",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "meaning drift",
+          "quote": "He laughed at Gerda and ran away.",
+          "problem": "'Ran away' reads as Kai leaving home. That clashes with the next paragraph, where he is still at home playing in the snow, and it muddies the real reason he disappears (the Snow Queen). In the original he only turns cruel and goes off to play with the bigger boys.",
+          "fix": "He laughed at Gerda and played with the big boys."
+        },
+        {
+          "criterion": "unnatural English",
+          "quote": "A wise woman smiled at Gerda. \"Her heart is her power,\" she said.",
+          "problem": "She smiles at Gerda but talks about her in the third person, and no listener (the reindeer) is named. This is confusing at A1.",
+          "fix": "A wise woman smiled at Gerda. \"Your heart is your power,\" she said."
+        }
+      ],
+      "notes": [
+        "'The two friends were big now' would read better as 'The two friends were grown up now' ('grown up' is fine at A1).",
+        "Consider 'Then she went to Lapland and Finland' and keep the rest as is; the sequence is otherwise fine."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "3. Where did the birds say Kai went? — To the palace of the prince / To the river / *To Lapland",
+          "problem": "The A2 text never says the birds mentioned Lapland. They only say \"We saw Kai in the Snow Queen's sleigh,\" and the reindeer simply 'knew the way'. The keyed answer has no support in the text.",
+          "fix": "Change the birds' line to: \"We saw Kai in the Snow Queen's sleigh. She went to Lapland,\" they said."
+        }
+      ],
+      "notes": [
+        "\"Make the word 'forever', and you are free,\" the queen told him. Kai is described as alone, so the queen's line reads as if she is present. Suggest: 'Before she left, the queen told him, \"Make the word 'forever', and you are free.\"'",
+        "Gerda gets boots from the prince and princess, but later goes on 'without boots or gloves' with no explanation. Suggest adding: 'She left her boots at the wise woman's house.' (In the original she leaves her boots and mittens behind in Finland.) The same small gap appears in B1, B2 and C1."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'wrote a message on a dry fish' would be more natural as 'a dried fish'.",
+        "'so she made her roses disappear' is ambiguous (Gerda's roses or the woman's?). Suggest: 'so she made all the roses in her garden disappear.'",
+        "Boots gap: she receives 'warm boots' and later 'had no boots and no gloves'. Suggest one short sentence saying she left them at the wise woman's house."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "unnatural English",
+          "quote": "\"Don't you see how people and animals help her, and how far she has walked in bare feet?\" \"Her strength is in her heart, because she is a good and innocent child.\"",
+          "problem": "Two separate quotations stand back to back with no attribution or bridge, which signals a change of speaker. Readers may attribute the second line to the reindeer.",
+          "fix": "\"Don't you see how people and animals help her, and how far she has walked in bare feet? Her strength is in her heart, because she is a good and innocent child.\""
+        }
+      ],
+      "notes": [
+        "'in bare feet' would be more idiomatic as 'on her bare feet' or 'barefoot'.",
+        "Boots and mittens gap: she gets boots and a muff from the royals and huge mittens from the robber girl, and is later 'without boots or mittens' with no explanation. Suggest adding that she left them in the Finnish woman's hot hut."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "This version is very faithful to Andersen: squeaking boots, the dried cod, ice on the reindeer's head, the porcupine and snake snowflakes, the game of reason, the skates, the volcanoes, the robber girl's remark and the church bells.",
+        "She gets the robber mother's mittens and is later 'without boots or mittens'. A short clause such as 'having left her mittens in the Finnish woman's hut' would close the gap."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is faithful to Andersen at every level, and B1 and C1 are clean. The A2 quiz keys 'Lapland' as the birds' answer, but the A2 text never mentions it. A1 has a misleading 'ran away' and a confusing third-person line from the wise woman. In B2, two quotes stand back to back so the second could be read as the reindeer's."
+}

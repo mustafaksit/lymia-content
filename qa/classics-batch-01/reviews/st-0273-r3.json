@@ -1,0 +1,52 @@
+{
+  "id": "st-0273",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Geppetto sold his coat in the cold.\" is a little flat; consider \"It was cold, but Geppetto sold his coat.\"",
+        "\"Pinocchio sold it for a puppet show.\" is compressed; consider \"Pinocchio sold it and went to a puppet show.\"",
+        "The nose is made small again by the Fairy herself, not by the woodpeckers. That is a fair A1 simplification."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"As soon as he could walk, he ran out of the house. At home, the Talking Cricket gave him some advice.\" skips his return home; consider \"Later, back at home, the Talking Cricket gave him some advice.\"",
+        "\"Fire-Eater sneezed, and his heart became soft.\" makes the sneeze sound like the cause of the pity; consider \"Fire-Eater's heart became soft, and he sneezed.\"",
+        "\"Plant your coins there, and a money tree grows.\" reads slightly stiff, but it keeps to the present-simple limit. It is acceptable."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The text keeps to B1 limits: there are no conditionals or passives, and the relative clause and past perfect are acceptable.",
+        "The level skips Pinocchio swimming away from the drum-maker, so the dogfish arrives straight after he turns back into a puppet. This is acceptable condensing.",
+        "The tuna is left out of the escape. This is acceptable condensing."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Pinocchio worked hard turning a water wheel to buy milk for his weak father.\" In the original, he is paid in milk for the work. Consider \"to earn a glass of milk a day for his weak father.\"",
+        "The details match the original closely: four remaining coins, the gorilla judge, the four-month amnesty, twelve pairs of donkeys, and two years inside the dogfish."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"the third time he found himself riding a donkey behind the coach\". In the original, Pinocchio climbs onto one of the donkeys pulling the coach. Consider \"riding one of the donkeys that pulled the coach.\"",
+        "The prose is genuinely literary and not padded, and it is faithful to Collodi in its details: the painted fire, the pears, the thirty-five fish at the inn, the poodle coachman, the asthmatic dogfish more than a kilometer long, and the snail.",
+        "The Fairy's apparent death (the gravestone) is left out between the prison and the reunion. The phrase \"found the Fairy again\" still reads coherently, so this is acceptable condensing."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels are faithful to Collodi's novel: the events are in the right order, the ending is correct, and nothing comes from the film. Each level keeps to its grammar limits, and every quiz has a single defensible keyed answer. The remaining points are small wording preferences and are recorded as notes."
+}

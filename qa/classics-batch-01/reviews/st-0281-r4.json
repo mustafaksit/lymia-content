@@ -1,0 +1,53 @@
+{
+  "id": "st-0281",
+  "round": 4,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"A tall, thin man came into the room.\" No room has been set up; the previous paragraph only says the people ran to the Mayor. Optional fix: \"The people ran to the Mayor in the town hall.\"",
+        "\"They ran in the houses and the streets.\" A native writer would say \"They ran through the houses and the streets.\"",
+        "\"We can pay fifty thousand!\" reads a little flat; \"We will pay fifty thousand!\" is more natural, though 'will' may be outside the A1 tense set, so 'can' is acceptable.",
+        "Quiz Q2: 'at the end' correctly separates the 'fifty thousand' promise from the final offer of fifty. The keyed answer is sound."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"From then on, nobody played music in the Piper's street.\" At A2 the street is never named after the Piper, so 'the Piper's street' is slightly opaque. Optional fix: \"From then on, nobody played music in that street.\"",
+        "Grammar stays within present and past simple plus modals (can/must); there is no perfect, passive or conditional. Good."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No conditionals or passives were found; 'Get rid of the rats, or we will throw you all out!' and 'Keep your word, or you will hear a different tune' are imperative + or, which is fine.",
+        "\"It was too late, and the children never returned. Nobody in Hamelin ever saw them again.\" These two sentences say the same thing. Optional: drop the second sentence.",
+        "\"The Mayor sent people in every direction, offering silver and gold.\" It is unclear who receives the offer. Optional: \"offering silver and gold to anyone who could find the children.\"",
+        "'flies' in place of Browning's 'gnats' is an acceptable simplification."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"we'll send all of them away!\" Optional: \"we'll throw the lot of them out!\" sounds more idiomatic for an angry crowd.",
+        "The reward is offered to 'anyone who could bring the children home'. In Browning the gold is offered to the Piper himself if he returns the children. This is a minor drift that doesn't matter to the plot."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"promising to whoever found the Piper as much silver and gold as he cared to ask\": 'he' is ambiguous (the finder or the Piper?), and in Browning the offer is made to the Piper. Optional fix: \"charged to promise the Piper, wherever they found him, as much silver and gold as he cared to ask, if only he would bring the children back.\"",
+        "\"there lives a people whose customs puzzle their neighbors. They claim...\": 'They' could briefly be read as 'the neighbors'. Optional fix: \"That people claim, it is said, ...\"",
+        "The prose is genuinely literary rather than padded. Fidelity details all match Browning: the gnats, the bats, the scorpions in the ruler's kitchen, the apples and butter barrels, the lame boy, the pillar and church window, and the Transylvanian coda."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels follow Browning's poem faithfully: the pied coat, the thousand coins against the boasted fifty thousand, the rats drowned in the Weser with one survivor, the broken promise, the children led into the Koppelberg, the lame boy left behind, and the street, pillar and window. No film-only material appears. Grammar matches each level, the quizzes are keyed correctly with no second defensible answer, and the remaining points are minor clarity and taste notes."
+}

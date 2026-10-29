@@ -1,0 +1,56 @@
+{
+  "id": "st-0278",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "logic error",
+          "quote": "Don Quixote sat up slowly. \"Freston the wizard did this,\" he said. Sancho did not understand. \"He changed the giants into windmills!\" he cried.",
+          "problem": "Unclear speaker. Sancho is the last person named before \"he cried\", so the pronoun grammatically points to Sancho, but the line belongs to Don Quixote. The quote also has a third 'he' (Freston). Three referents for 'he' in four short sentences is too much for an A1 reader.",
+          "fix": "Don Quixote sat up slowly. \"Freston the wizard did this,\" he said. Sancho did not understand. \"Freston changed the giants into windmills!\" cried Don Quixote."
+        }
+      ],
+      "notes": [
+        "\"No, sir,\" said Sancho. \"They are windmills.\" \"The arms are only sails,\" he said. - Two quotes and two speech tags for one speaker are clunky. Merge them: \"No, sir,\" said Sancho. \"They are windmills. The arms are only sails.\"",
+        "The inn knighting is left out. This is acceptable condensing at A1.",
+        "Grammar stays within present simple, past simple and 'can'. Level fit is good."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"He lived with his housekeeper, his young niece and an old horse.\" - Putting the horse in the same list as the people reads as slightly comic. Consider: \"He lived with his housekeeper and his young niece. He also had an old horse.\"",
+        "This level uses 'spear', while the other levels use 'lance'. That is fine for A2 vocabulary."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Freston turned these giants into windmills to rob me.\" - 'rob me' needs an object to sound natural here: \"to rob me of my victory\".",
+        "\"In the afternoon of the next day\" is a little stilted. \"The next afternoon\" is better.",
+        "No passive or conditional forms found."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"In a village of La Mancha, whose name hardly matters\" - This changes the famous narrator's refusal ('which I do not care to remember') into 'it doesn't matter'. It is acceptable, but \"whose name I would rather not remember\" is closer to the original.",
+        "\"Luck is on our side today, Sancho, more than we ever hoped\" reads a little awkwardly. Consider: \"Luck is guiding us better than we could have hoped, Sancho.\""
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Highly faithful to Part I, chapters 1-8: the pasteboard visor, the account-book ceremony, the scrutiny of the library, the plain of Montiel, Briareus, the oak branch, Sancho's grumbling and the arrival at Puerto Lapice around three in the afternoon. The literary register is genuine and not padded."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "B2 and C1 are faithful and well written, and A2 and B1 are clean and within their grammar limits. A1 fails on one concrete problem: after 'Sancho did not understand', the tag 'he cried' attaches Don Quixote's Freston line to Sancho. A one-line fix naming Don Quixote resolves it."
+}

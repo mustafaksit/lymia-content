@@ -1,0 +1,50 @@
+{
+  "id": "st-0282",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Find my name in three days,\" he said. -- 'Guess my name in three days' is the more idiomatic fairy-tale phrasing (and matches what the queen actually does). Optional.",
+        "The third-night spinning is implied rather than stated (\"Sadly, she said yes.\" -> \"The king married the girl.\"). Optional: add \"The little man spun all the straw into gold.\" after she says yes.",
+        "Quiz Q3 key \"A man saw him by a fire.\" -- the A1 text only calls the messenger 'a helper' and never says it is a man. The distractors are clearly wrong, so it is not ambiguous, but \"Her helper saw him by a fire.\" would match the text exactly.",
+        "Quiz Q1 key is \"She can make gold from straw\" while the text says 'spin straw into gold'; acceptable paraphrase."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"I give you three days,\" he said. -- slightly stiff; \"You have three days,\" he said. stays within present simple and sounds more natural.",
+        "\"Find my name, and you can keep your child.\" -- 'Guess my name' would be more idiomatic. Optional."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No conditionals or passives found; \"Fail, and you will be in serious trouble.\" uses an imperative-and construction, which is fine at B1.",
+        "Song wording (\"Tonight I dance beside my fire...\") is a free adaptation of the Grimm rhyme (today bake, tomorrow brew); fine for a retelling."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The girl is brought in 'the next morning' and the little man greets her with 'Good evening'; the passage of time is implied by her long wait and is acceptable, but \"Late that night, the door swung open\" would make it explicit. Optional.",
+        "Faithful details kept: king's reasoning about a rich bride, messenger finding no new names, hopping on one leg, 'The devil told you that!'."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "On the final evening the queen teases with names already rejected (Melchior, Muttonchops) rather than new ordinary names as in Grimm (Kunz, Heinz) and as B1/B2 say ('a few ordinary names'). It reads as deliberate teasing and is not a contradiction, but \"Is it Conrad?\" / \"Then is it Henry?\" would be closer to the original.",
+        "Prose is genuinely literary without padding (e.g. 'gold, to a greedy heart, is less a meal than an appetite')."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels follow the Grimm plot in the right order: the boast, three nights (necklace, ring, promise of the first child), the marriage, 'something living' refused for treasure, three days of guessing, the messenger at the mountain fire, and 'The devil told you!'. The ending is softened to the 1812 'ran away' version, which is acceptable for children, and nothing comes from film versions. Grammar fits each level, the quiz keys are correct and unambiguous, and the remaining points are optional wording notes."
+}
