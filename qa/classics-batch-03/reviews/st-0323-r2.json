@@ -1,0 +1,50 @@
+{
+  "id": "st-0323",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Criterion 7: only a few words are above beginner level, so A1 passes. Suggested simplifications: \"We must not lose hope,\" said the father. -> \"Don't be afraid,\" said the father.",
+        "Criterion 7: 'Many years went by. The children grew big and strong.' (phrasal verb) -> 'After many years, the children were big and strong.'",
+        "'Fritz went far across the island.' is a little vague -> 'Fritz walked to every part of the island.'",
+        "'They made a tree house high in it.' -> 'They made a tree house high up in the tree.' (clearer referent)."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Even Franz was not little now.' sounds slightly stiff -> 'Even Franz was not a little boy any more.'"
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'For six days a wild storm was blowing' - a native writer would use 'For six days a wild storm blew' (or 'had been blowing').",
+        "'Year after year passed, and ten years went by.' is redundant -> 'Year after year passed. Ten years went by.' or simply 'Ten years went by.'",
+        "Small cross-level inconsistency: B1 says 'The ship left the next day', C1 says the ship weighed anchor 'a few days later'. Align B1 to 'A few days later the ship left with the two brothers on board.'",
+        "'store rooms' -> 'storerooms'."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Quiz Q1 ('Why did the family stay on the ship during the first night?'): the keyed answer is the only defensible option, but the deeper reason (the boats were gone) is not offered; consider rewording the stem to 'Why did the father say they could safely stay on the ship that night?'"
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'adopted the family with alarming confidence' - 'alarming' is a touch strong for a playful monkey; 'with remarkable confidence' or 'with complete confidence' reads more naturally. Taste only.",
+        "Departure timing ('a few days later') differs from B1 ('the next day'); see B1 note."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "A faithful, well-graded condensation of Wyss's novel: storm and abandonment, the tub raft, salvage trips with floated animals, Falconhurst, the crystal cave found while digging, ten years of settlement, the English ship, and the correct ending (Fritz and Franz sail to Europe, Ernest and Jack stay). Grammar constraints are respected at every level, quizzes are unambiguous, and nothing breaches 4+ suitability (the monkey's arrival is softened, which is acceptable). Remaining points are minor phrasing tweaks and one small cross-level timing inconsistency."
+}

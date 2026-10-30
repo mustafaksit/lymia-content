@@ -1,0 +1,20 @@
+{"id":"st-0370","round":2,"levels":{
+"A1":{"verdict":"PASS","issues":[],"notes":[
+"'The old man asked the Emperor for help. He sent many men to the house.' - 'He' could be read as the old man for a moment; consider 'The Emperor sent many men to the house.'",
+"'His men took the drink up Mount Fuji. There, they burned it.' - burning a drink is slightly odd for a beginner; consider 'They put the drink in a big fire on Mount Fuji.' or mention the letter too, as in A2.",
+"'At once' appears three times; it is A2-ish. 'right away' or simply dropping it would be safer for A1. 'At once, her heart changed.' could become 'At once, she was not sad any more.'",
+"Three different robes appear (suitor's robe, Kaguya's robe, the moon robe); 'a robe from the moon' (as in A2) would help readers keep them apart."]},
+"A2":{"verdict":"PASS","issues":[],"notes":[
+"'The first man brought an old bowl, but it had no light.' - the reader was never told the bowl should shine; consider 'Kaguya wanted a holy bowl with a light in it. The first man brought an old bowl, but it had no light.'",
+"'The last man also came back with nothing.' - he did not travel anywhere; 'The last man also brought nothing.' is cleaner."]},
+"B1":{"verdict":"FAIL","issues":[
+{"criterion":"4. logic error / 1. meaning drift","quote":"He secretly paid workers to make one. But then they came to the house and asked for their money.","problem":"If he paid the workers, there is no reason for them to come and ask for their money; the sentence contradicts the next one and the original (he never paid the craftsmen), and B2/C1 say they demanded unpaid wages.","fix":"He secretly asked workers to make one, but he never paid them. When he brought the branch to the house, the workers came too and asked for their money."}],
+"notes":[
+"'He only took an old bowl from a mountain temple, and it did not shine.' - the text never says the real bowl should shine; add 'The real bowl was supposed to shine with holy light.'"]},
+"B2":{"verdict":"PASS","issues":[],"notes":[
+"'This suitor set sail himself' - 'himself' implies he first sent others, which B2 does not mention (C1 does); either drop 'himself' or add a clause about his servants running off.",
+"'a robe made from the fur of the fire rat, which could not be burned' - 'which' could attach to the rat; 'a robe of fire-rat fur that no flame could burn' is cleaner."]},
+"C1":{"verdict":"PASS","issues":[],"notes":[
+"'sit near the edge of the house in the evenings' is a slightly odd rendering of the veranda; 'sit out on the veranda' reads more naturally."]}},
+"overall":"FAIL",
+"summary":"A faithful, age-appropriate retelling of the Tale of the Bamboo Cutter across all five levels, with correct quiz keys and well-controlled grammar. B1 fails on one concrete contradiction: the second suitor 'paid' the workers who then come asking for their money. A1, A2, B2 and C1 pass with only minor notes."}

@@ -1,0 +1,625 @@
+{
+  "id": "st-0326",
+  "title": "Robin Hood and Little John",
+  "ts": "2026-10-30T10:23:39",
+  "node": {
+    "id": "st-0326",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %94.5 | 330 kelime\n    havuz dışı: outlaws(1), horn(2), stream(3), bridge(3), fight(3), pushed(1), laugh(1), blew(1), laughed(3)",
+        "level B1: B1: KALDI | kapsam %94.3 | 750 kelime\n    havuz dışı: outlaws(3), travelers(1), adventure(1), horn(2), bow(6), arrows(1), noon(1), stream(4), log(2), halfway(1), wooden(1), arrow(1), coward(2), grass(1), oak(2), loud(2), crack(1), clever(1), splash(1), brave(1), lad(1), chest(1), floating(1), wet(1), bath(1), cheered(1), louder(1), feast(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9455,
+        "coreCoverage": 0.9686,
+        "exempt": [
+          "bridge",
+          "staff",
+          "stream",
+          "outlaws",
+          "horn"
+        ],
+        "wordCount": 330,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "fight(3)",
+          "laughed(3)",
+          "pushed(1)",
+          "laugh(1)",
+          "blew(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9591,
+        "coreCoverage": 0.9829,
+        "exempt": [
+          "bridge",
+          "staff",
+          "stream",
+          "outlaws",
+          "horn"
+        ],
+        "wordCount": 513,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "bow(4)",
+          "onto(2)",
+          "stranger(1)",
+          "blew(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9427,
+        "coreCoverage": 0.9508,
+        "exempt": [
+          "bridge",
+          "staff",
+          "stream",
+          "outlaws",
+          "horn"
+        ],
+        "wordCount": 750,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "bow(6)",
+          "log(2)",
+          "coward(2)",
+          "oak(2)",
+          "loud(2)",
+          "travelers(1)",
+          "adventure(1)",
+          "arrows(1)",
+          "noon(1)",
+          "halfway(1)",
+          "wooden(1)",
+          "arrow(1)",
+          "grass(1)",
+          "crack(1)",
+          "clever(1)",
+          "splash(1)",
+          "brave(1)",
+          "lad(1)",
+          "chest(1)",
+          "floating(1)",
+          "wet(1)",
+          "bath(1)",
+          "cheered(1)",
+          "louder(1)",
+          "feast(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9509,
+        "coreCoverage": 0.9531,
+        "exempt": [
+          "bridge",
+          "staff",
+          "stream",
+          "outlaws",
+          "horn"
+        ],
+        "wordCount": 1019,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "bow(6)",
+          "oaks(2)",
+          "bushes(2)",
+          "coward(2)",
+          "handful(1)",
+          "arrows(1)",
+          "dusty(1)",
+          "noon(1)",
+          "feather(1)",
+          "arrow(1)",
+          "disgust(1)",
+          "stung(1)",
+          "lowering(1)",
+          "fetch(1)",
+          "oak(1)",
+          "whistling(1)",
+          "bargain(1)",
+          "darted(1)",
+          "dodged(1)",
+          "fox(1)",
+          "grunted(1)",
+          "heels(1)",
+          "splash(1)",
+          "bubbles(1)",
+          "lad(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9254,
+        "coreCoverage": 0.9254,
+        "exempt": [
+          "bridge",
+          "staff",
+          "stream",
+          "outlaws",
+          "horn"
+        ],
+        "wordCount": 1447,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "bow(4)",
+          "blackthorn(3)",
+          "oaks(2)",
+          "blasts(2)",
+          "arrows(2)",
+          "sleeves(2)",
+          "arrow(2)",
+          "longbow(2)",
+          "soaked(2)",
+          "roared(2)",
+          "willow(1)",
+          "wand(1)",
+          "merrily(1)",
+          "merry(1)",
+          "dull(1)",
+          "fifteenth(1)",
+          "idleness(1)",
+          "bundle(1)",
+          "highway(1)",
+          "brambles(1)",
+          "noon(1)",
+          "shallow(1)",
+          "chattering(1)",
+          "pebbles(1)",
+          "halfway(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 330,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 513,
+      "sentLenMedian": 8,
+      "zipfMedian": 6.12,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 750,
+      "sentLenMedian": 11.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0043,
+      "lowZipfWords": [
+        "cheered",
+        "leaned",
+        "swung"
+      ],
+      "keyTermTokens": 17,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1019,
+      "sentLenMedian": 13.5,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0104,
+      "lowZipfWords": [
+        "blasts",
+        "darted",
+        "dodged",
+        "echoed",
+        "grunted",
+        "nodding",
+        "stung",
+        "tumbled",
+        "waded",
+        "whistling"
+      ],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1447,
+      "sentLenMedian": 19.5,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0441,
+      "lowZipfWords": [
+        "absurdity",
+        "astonishment",
+        "befallen",
+        "blackthorn",
+        "blasts",
+        "brambles",
+        "chattering",
+        "crackling",
+        "darted",
+        "dripping",
+        "drumming",
+        "ducking",
+        "exaggeration",
+        "exclaimed",
+        "feasted",
+        "feinted",
+        "fifteenth",
+        "glade",
+        "grinning",
+        "grudge",
+        "grunted",
+        "idleness",
+        "leaping",
+        "longbow",
+        "merriest",
+        "merrily",
+        "newcomer",
+        "overcame",
+        "paces",
+        "pebbles",
+        "peered",
+        "pleasantly",
+        "purest",
+        "ripples",
+        "roared",
+        "scattering",
+        "spaniel's",
+        "squarely",
+        "stirred",
+        "stout",
+        "strung",
+        "thicket",
+        "toppled",
+        "trimmed",
+        "truest",
+        "tumbled",
+        "unbearable",
+        "undergrowth",
+        "untroubled",
+        "waded",
+        "wand",
+        "whirled",
+        "whistling",
+        "whoop",
+        "wiping",
+        "wrung"
+      ],
+      "keyTermTokens": 21,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9455,
+      "coreCoverage": 0.9686,
+      "exempt": [
+        "bridge",
+        "staff",
+        "stream",
+        "outlaws",
+        "horn"
+      ],
+      "wordCount": 330,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "fight(3)",
+        "laughed(3)",
+        "pushed(1)",
+        "laugh(1)",
+        "blew(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9591,
+      "coreCoverage": 0.9829,
+      "exempt": [
+        "bridge",
+        "staff",
+        "stream",
+        "outlaws",
+        "horn"
+      ],
+      "wordCount": 513,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "bow(4)",
+        "onto(2)",
+        "stranger(1)",
+        "blew(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9427,
+      "coreCoverage": 0.9508,
+      "exempt": [
+        "bridge",
+        "staff",
+        "stream",
+        "outlaws",
+        "horn"
+      ],
+      "wordCount": 750,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "bow(6)",
+        "log(2)",
+        "coward(2)",
+        "oak(2)",
+        "loud(2)",
+        "travelers(1)",
+        "adventure(1)",
+        "arrows(1)",
+        "noon(1)",
+        "halfway(1)",
+        "wooden(1)",
+        "arrow(1)",
+        "grass(1)",
+        "crack(1)",
+        "clever(1)",
+        "splash(1)",
+        "brave(1)",
+        "lad(1)",
+        "chest(1)",
+        "floating(1)",
+        "wet(1)",
+        "bath(1)",
+        "cheered(1)",
+        "louder(1)",
+        "feast(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9509,
+      "coreCoverage": 0.9531,
+      "exempt": [
+        "bridge",
+        "staff",
+        "stream",
+        "outlaws",
+        "horn"
+      ],
+      "wordCount": 1019,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "bow(6)",
+        "oaks(2)",
+        "bushes(2)",
+        "coward(2)",
+        "handful(1)",
+        "arrows(1)",
+        "dusty(1)",
+        "noon(1)",
+        "feather(1)",
+        "arrow(1)",
+        "disgust(1)",
+        "stung(1)",
+        "lowering(1)",
+        "fetch(1)",
+        "oak(1)",
+        "whistling(1)",
+        "bargain(1)",
+        "darted(1)",
+        "dodged(1)",
+        "fox(1)",
+        "grunted(1)",
+        "heels(1)",
+        "splash(1)",
+        "bubbles(1)",
+        "lad(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9254,
+      "coreCoverage": 0.9254,
+      "exempt": [
+        "bridge",
+        "staff",
+        "stream",
+        "outlaws",
+        "horn"
+      ],
+      "wordCount": 1447,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "bow(4)",
+        "blackthorn(3)",
+        "oaks(2)",
+        "blasts(2)",
+        "arrows(2)",
+        "sleeves(2)",
+        "arrow(2)",
+        "longbow(2)",
+        "soaked(2)",
+        "roared(2)",
+        "willow(1)",
+        "wand(1)",
+        "merrily(1)",
+        "merry(1)",
+        "dull(1)",
+        "fifteenth(1)",
+        "idleness(1)",
+        "bundle(1)",
+        "highway(1)",
+        "brambles(1)",
+        "noon(1)",
+        "shallow(1)",
+        "chattering(1)",
+        "pebbles(1)",
+        "halfway(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9686,
+    "A2": 0.9829
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.333,
+      "summary3gramJaccard": 0.038,
+      "a1FiveGramOverlap": 0.006
+    },
+    "top3": [
+      {
+        "id": "st-0168",
+        "title": "Little Red Riding Hood",
+        "titleJaccard": 0.333,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0274",
+        "title": "Robin Hood and the Golden Arrow",
+        "titleJaccard": 0.333,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

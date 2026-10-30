@@ -1,0 +1,675 @@
+{
+  "id": "st-0338",
+  "title": "The Stolen Bacillus",
+  "ts": "2026-10-30T10:23:56",
+  "node": {
+    "id": "st-0338",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %88.9 | 325 kelime\n    havuz dışı: tubes(1), tube(6), microbe(3), frighten(1), wife(1), coat(4), cab(6), chase(1), husband(1), fast(1), drank(3), laugh(1), surprise(1), lie(1), cat(1), dogs(1), blue(2), laughed(1)",
+        "level A2: A2: KALDI | kapsam %91.6 | 514 kelime\n    havuz dışı: tubes(2), tube(8), microbe(3), ill(2), secret(1), frighten(1), goodbye(1), hurry(1), cried(1), hat(1), coat(5), shoes(1), cab(8), chase(1), cabs(1), stone(1), shouted(1), third(1), hurt(1), strange(1), cat(1)",
+        "level B1: B1: KALDI | kapsam %91.3 | 669 kelime\n    havuz dışı: laboratory(2), pale(1), untidy(1), nervous(1), endless(1), tubes(2), tube(6), microbe(4), sickness(1), gazed(1), glitter(1), frightening(1), lying(1), goodbye(1), hurry(1), chilly(1), slippers(1), cab(8), chase(1), grabbed(1), third(1), cabs(1), pedestrians(1), pavement(1), peculiar(1), tightly(1), fragile(1), cracked(1), liquid(1), trickled(1), swallowed(1), beside(1), hurried(1), astonishment(1), frightened(1), impress(1), kitten(1), puppies(1), sparrow(1), chuckled(1), chill(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8892,
+        "coreCoverage": 0.934,
+        "exempt": [
+          "tube",
+          "cab",
+          "chase",
+          "microbe"
+        ],
+        "wordCount": 325,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "coat(4)",
+          "drank(3)",
+          "blue(2)",
+          "frighten(1)",
+          "wife(1)",
+          "husband(1)",
+          "fast(1)",
+          "laugh(1)",
+          "surprise(1)",
+          "lie(1)",
+          "cat(1)",
+          "dogs(1)",
+          "laughed(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9163,
+        "coreCoverage": 0.9572,
+        "exempt": [
+          "tube",
+          "cab",
+          "chase",
+          "microbe"
+        ],
+        "wordCount": 514,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "coat(5)",
+          "ill(2)",
+          "secret(1)",
+          "frighten(1)",
+          "goodbye(1)",
+          "hurry(1)",
+          "cried(1)",
+          "hat(1)",
+          "shoes(1)",
+          "stone(1)",
+          "shouted(1)",
+          "third(1)",
+          "hurt(1)",
+          "strange(1)",
+          "cat(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9133,
+        "coreCoverage": 0.9423,
+        "exempt": [
+          "tube",
+          "cab",
+          "chase",
+          "microbe"
+        ],
+        "wordCount": 669,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "laboratory(2)",
+          "pale(1)",
+          "untidy(1)",
+          "nervous(1)",
+          "endless(1)",
+          "sickness(1)",
+          "gazed(1)",
+          "glitter(1)",
+          "frightening(1)",
+          "lying(1)",
+          "goodbye(1)",
+          "hurry(1)",
+          "chilly(1)",
+          "slippers(1)",
+          "grabbed(1)",
+          "third(1)",
+          "pedestrians(1)",
+          "pavement(1)",
+          "peculiar(1)",
+          "tightly(1)",
+          "fragile(1)",
+          "cracked(1)",
+          "liquid(1)",
+          "trickled(1)",
+          "swallowed(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9591,
+        "coreCoverage": 0.9722,
+        "exempt": [
+          "tube",
+          "cab",
+          "chase",
+          "microbe"
+        ],
+        "wordCount": 978,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cholera(3)",
+          "slippers(2)",
+          "restless(1)",
+          "eager(1)",
+          "microscope(1)",
+          "purple(1)",
+          "specks(1)",
+          "rack(1)",
+          "sickness(1)",
+          "reins(1)",
+          "dismay(1)",
+          "third(1)",
+          "pavements(1)",
+          "cheered(1)",
+          "precious(1)",
+          "astonished(1)",
+          "swallowed(1)",
+          "despair(1)",
+          "harmless(1)",
+          "patches(1)",
+          "kitten(1)",
+          "puppies(1)",
+          "sparrow(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9255,
+        "coreCoverage": 0.9318,
+        "exempt": [
+          "tube",
+          "cab",
+          "chase",
+          "microbe"
+        ],
+        "wordCount": 1262,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cholera(3)",
+          "overcoat(3)",
+          "rack(2)",
+          "terrify(2)",
+          "slippers(2)",
+          "specimen(2)",
+          "halfway(2)",
+          "racks(1)",
+          "faint(1)",
+          "acquaintance(1)",
+          "untidily(1)",
+          "collar(1)",
+          "flattered(1)",
+          "microscope(1)",
+          "violet(1)",
+          "scattered(1)",
+          "specks(1)",
+          "cloudy(1)",
+          "sickness(1)",
+          "docks(1)",
+          "palaces(1)",
+          "catastrophe(1)",
+          "murmured(1)",
+          "furious(1)",
+          "thoroughly(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "It",
+          "ctx": "a little cat and three young dogs blue. It turns faces blue too. And our young fri"
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "It",
+          "ctx": "the one I have been studying this week. It cannot hurt anyone, but it does somethi"
+        },
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "It",
+          "ctx": "ne, but it does something very strange. It turned a kitten, three puppies and a sp"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 325,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.26,
+      "lowZipfRatio": 0.0035,
+      "lowZipfWords": [
+        "frighten"
+      ],
+      "keyTermTokens": 17,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 514,
+      "sentLenMedian": 8,
+      "zipfMedian": 6.25,
+      "lowZipfRatio": 0.0021,
+      "lowZipfWords": [
+        "frighten"
+      ],
+      "keyTermTokens": 23,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 669,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.26,
+      "lowZipfRatio": 0.0144,
+      "lowZipfWords": [
+        "astonishment",
+        "chuckled",
+        "gazed",
+        "hurried",
+        "pedestrians",
+        "slippers",
+        "sparrow",
+        "trickled",
+        "untidy"
+      ],
+      "keyTermTokens": 22,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 978,
+      "sentLenMedian": 13.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0171,
+      "lowZipfWords": [
+        "astonished",
+        "cheered",
+        "cholera",
+        "dismay",
+        "excused",
+        "hurried",
+        "leaned",
+        "pavements",
+        "reins",
+        "slippers",
+        "sparrow",
+        "specks",
+        "visitor's"
+      ],
+      "keyTermTokens": 21,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1262,
+      "sentLenMedian": 18.5,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0402,
+      "lowZipfWords": [
+        "anguish",
+        "astonish",
+        "astonishment",
+        "bewildered",
+        "buttoning",
+        "cholera",
+        "clatter",
+        "clung",
+        "clutching",
+        "eloquence",
+        "errand",
+        "faintly",
+        "firmness",
+        "flattered",
+        "flung",
+        "frighten",
+        "glancing",
+        "guest's",
+        "hailed",
+        "hooves",
+        "hurried",
+        "jolt",
+        "murmured",
+        "overcoat",
+        "palaces",
+        "racks",
+        "railings",
+        "rattling",
+        "reins",
+        "scrambling",
+        "shabby",
+        "slippers",
+        "snatched",
+        "sparrow",
+        "specks",
+        "syllable",
+        "terrify",
+        "trickled",
+        "untidily",
+        "watered",
+        "whistled",
+        "wiping"
+      ],
+      "keyTermTokens": 18,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8892,
+      "coreCoverage": 0.934,
+      "exempt": [
+        "tube",
+        "cab",
+        "chase",
+        "microbe"
+      ],
+      "wordCount": 325,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "coat(4)",
+        "drank(3)",
+        "blue(2)",
+        "frighten(1)",
+        "wife(1)",
+        "husband(1)",
+        "fast(1)",
+        "laugh(1)",
+        "surprise(1)",
+        "lie(1)",
+        "cat(1)",
+        "dogs(1)",
+        "laughed(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9163,
+      "coreCoverage": 0.9572,
+      "exempt": [
+        "tube",
+        "cab",
+        "chase",
+        "microbe"
+      ],
+      "wordCount": 514,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "coat(5)",
+        "ill(2)",
+        "secret(1)",
+        "frighten(1)",
+        "goodbye(1)",
+        "hurry(1)",
+        "cried(1)",
+        "hat(1)",
+        "shoes(1)",
+        "stone(1)",
+        "shouted(1)",
+        "third(1)",
+        "hurt(1)",
+        "strange(1)",
+        "cat(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9133,
+      "coreCoverage": 0.9423,
+      "exempt": [
+        "tube",
+        "cab",
+        "chase",
+        "microbe"
+      ],
+      "wordCount": 669,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "laboratory(2)",
+        "pale(1)",
+        "untidy(1)",
+        "nervous(1)",
+        "endless(1)",
+        "sickness(1)",
+        "gazed(1)",
+        "glitter(1)",
+        "frightening(1)",
+        "lying(1)",
+        "goodbye(1)",
+        "hurry(1)",
+        "chilly(1)",
+        "slippers(1)",
+        "grabbed(1)",
+        "third(1)",
+        "pedestrians(1)",
+        "pavement(1)",
+        "peculiar(1)",
+        "tightly(1)",
+        "fragile(1)",
+        "cracked(1)",
+        "liquid(1)",
+        "trickled(1)",
+        "swallowed(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9591,
+      "coreCoverage": 0.9722,
+      "exempt": [
+        "tube",
+        "cab",
+        "chase",
+        "microbe"
+      ],
+      "wordCount": 978,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cholera(3)",
+        "slippers(2)",
+        "restless(1)",
+        "eager(1)",
+        "microscope(1)",
+        "purple(1)",
+        "specks(1)",
+        "rack(1)",
+        "sickness(1)",
+        "reins(1)",
+        "dismay(1)",
+        "third(1)",
+        "pavements(1)",
+        "cheered(1)",
+        "precious(1)",
+        "astonished(1)",
+        "swallowed(1)",
+        "despair(1)",
+        "harmless(1)",
+        "patches(1)",
+        "kitten(1)",
+        "puppies(1)",
+        "sparrow(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9255,
+      "coreCoverage": 0.9318,
+      "exempt": [
+        "tube",
+        "cab",
+        "chase",
+        "microbe"
+      ],
+      "wordCount": 1262,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cholera(3)",
+        "overcoat(3)",
+        "rack(2)",
+        "terrify(2)",
+        "slippers(2)",
+        "specimen(2)",
+        "halfway(2)",
+        "racks(1)",
+        "faint(1)",
+        "acquaintance(1)",
+        "untidily(1)",
+        "collar(1)",
+        "flattered(1)",
+        "microscope(1)",
+        "violet(1)",
+        "scattered(1)",
+        "specks(1)",
+        "cloudy(1)",
+        "sickness(1)",
+        "docks(1)",
+        "palaces(1)",
+        "catastrophe(1)",
+        "murmured(1)",
+        "furious(1)",
+        "thoroughly(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.934,
+    "A2": 0.9572
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "die": 5,
+      "terrify": 3
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0183",
+        "title": "The Tale of Mr. Jeremy Fisher",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0281",
+        "title": "The Pied Piper of Hamelin",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0318",
+        "title": "The Nutcracker and the Mouse King",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

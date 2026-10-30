@@ -1,0 +1,57 @@
+{
+  "id": "st-0340",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Wentworth saw her strong and clear mind.\" sounds a little unnatural. A simpler, more natural version: \"Wentworth saw that she was strong and calm.\"",
+        "\"Anne's heart was full.\" is an idiom an A1 reader may not get. Possible fix: \"Anne was very, very happy.\"",
+        "\"He was in the navy, with no money.\" is a little stiff. Possible fix: \"He was in the navy. He had no money.\"",
+        "\"Eight years ago\" inside a past-tense story is fine at A1, but \"Eight years before\" would match the timeline more precisely.",
+        "Apart from the items above, the vocabulary stays within beginner range. 'navy', 'letter' and 'captain' are glossed, and 'wall', 'steps' and 'doctor' are basic words."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Wentworth watched Anne, and he saw her strong mind.\" is slightly unnatural. Possible fix: \"Wentworth watched Anne, and he saw how calm and strong she was.\"",
+        "\"The wife in this family was Wentworth's sister.\" is clear but a little clumsy. Possible fix: \"The wife was Wentworth's sister.\""
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error (unclear referent)",
+          "quote": "She was very ill for some weeks, but slowly she got better.",
+          "problem": "This paragraph opens straight after \"Wentworth watched her with new respect.\", where 'her' is Anne. With no name given, a reader will first think Anne is the one who is ill and only later work out that it is Louisa.",
+          "fix": "Louisa was very ill for some weeks, but slowly she got better."
+        }
+      ],
+      "notes": [
+        "No conditionals or passive found. 'was hurt' and 'with her eyes closed' are used as adjectives, which is fine.",
+        "\"the captain who found the doctor\": in the original, Benwick was sent for the surgeon, so this is acceptable. \"the captain who went for the doctor\" would match the earlier sentence more closely."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Faithful and natural. Anne's constancy line is close to Austen's ('loving longest, when hope is gone'), the gloves excuse is kept, and Lady Russell admits her mistake."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Strong literary register that follows the novel closely: Wentworth writing for Harville, 'the pen in men's hands' argument, Benwick mourning an earlier loss, Louisa's 'firmness of mind', Lady Russell learning to like him.",
+        "Small point: in the novel Anne herself suggests Benwick go for the surgeon. Here she 'sent' him, which is a fair condensation."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, gentle and level-appropriate retelling of Persuasion at every level. All quizzes have a single correct keyed answer. The only concrete problem is in B1: the paragraph about Louisa's illness opens with an unclear 'She' that readers will take to mean Anne. Naming Louisa fixes it."
+}

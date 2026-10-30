@@ -1,0 +1,65 @@
+{
+  "id": "st-0366",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "1, 6",
+          "quote": "He was black, and he had a ladder.",
+          "problem": "With no mention of soot or coal, a beginner (and a parent reading along) will most naturally read 'He was black' as a description of skin colour, i.e. race. That is an unintended meaning, and it also contradicts the other levels, where his face stays clean and pink. Every higher level grounds the blackness in the job (coal, china).",
+          "fix": "His clothes were black from the chimney, and he had a ladder."
+        },
+        {
+          "criterion": "2",
+          "quote": "A little man was on its front.",
+          "problem": "'On its front' is an odd phrasing, and nothing tells the reader that the man is carved into the wood. An A1 reader will picture a real man standing on the cabinet, which makes 'the man on the cabinet' confusing later.",
+          "fix": "There was a little wooden man on the front of the cabinet."
+        }
+      ],
+      "notes": [
+        "Words that may slow an A1 reader (not enough to fail on their own): 'came after them' -> 'ran after them'; 'put the grandfather back together' -> 'fixed the grandfather'; 'It meant yes' is fine but could be 'That was a yes.'",
+        "'And he did not want to say why.' The A1 text never mentions the rivet or his pride, so 'why' is a bit vague. 'He did not want to say that he was broken' would close the gap.",
+        "Quiz keys are correct and unambiguous."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'He fell from the table on his way after them.' is a little unnatural. Better: 'He fell from the table when he went after them.'",
+        "'He was as black as night, but he was china too.' The 'but' contrast reads oddly. Consider 'He was black from the chimney, but his face was clean.', which also matches B1-C1.",
+        "Quiz distractor 'A red rose' is the Shepherdess's item, which is a fair distractor because it is clearly not the Chimney-Sweep's. Keys are correct."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No passives or conditionals found. 'when the old cabinet creaks' is a time clause, which is fine.",
+        "The drawer episode is condensed to a brief hiding place, which is acceptable condensing.",
+        "'He already has eleven china wives in there' comes from Andersen and stays harmless for figurines, but keep it as light as it is now."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'We only need to glue his back...' The 'we' slightly suggests the two lovers will do the mending, when it is the family who does it. 'Someone only needs to glue his back' would be cleaner.",
+        "Faithful to Andersen, including the puppet play in the drawer, the grandfather falling asleep and waking, the gold coming off her sash, and the blessed rivet."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'If only I were back on my little table under the mirror, I would never complain again, and I shall never be happy until I am standing there once more.' The shift from 'would' to 'shall' is slightly bumpy. Splitting it into two sentences would help.",
+        "The 'his head had rolled into a corner' detail is about a china figure and stays gentle, so it is acceptable for 4+.",
+        "Genuinely literary, not padded, and close to the original (the queens in the front row and jacks behind, 'confess to a stranger', 'nodded off')."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, well-graded retelling of Andersen's tale from B1 to C1, with correct quizzes at every level. A1 fails on one sentence: 'He was black' has no soot context, so it reads as a racial description and contradicts the clean face in the other levels. A1 also never makes clear that the man on the cabinet is a carving."
+}

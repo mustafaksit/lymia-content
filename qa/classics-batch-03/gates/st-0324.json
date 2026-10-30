@@ -1,0 +1,652 @@
+{
+  "id": "st-0324",
+  "title": "Nils and the Wild Geese",
+  "ts": "2026-10-30T10:23:36",
+  "node": {
+    "id": "st-0324",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %90.0 | 329 kelime\n    havuz dışı: farm(2), animals(3), elf(3), wild(3), geese(8), flew(2), goose(5), smirre(3), fox(2), tail(1), boy(1)",
+        "level A2: A2: KALDI | kapsam %93.0 | 517 kelime\n    havuz dışı: farm(2), unkind(1), elf(6), net(1), gold(1), coin(2), wild(3), geese(9), goose(4), yard(1), fox(4), tail(1), safe(1)",
+        "level B1: B1: KALDI | kapsam %93.5 | 773 kelime\n    havuz dışı: lazy(1), cruel(1), cows(1), hens(2), asleep(1), chest(2), elf(8), treasures(1), coin(1), sparrows(1), geese(6), goose(7), wings(1), wise(1), flock(4), fox(3), crept(1), teeth(1), fox's(1), tail(1), dawn(1), castles(1), creatures(1), joy(1), goodbye(1)",
+        "level B2: B2: KALDI | kapsam %93.9 | 1035 kelime\n    havuz dışı: teasing(1), hens(2), sermons(1), unhappily(1), elf(5), lace(1), butterfly(1), begged(1), desperate(1), forgiveness(1), sparrows(1), astonishment(1), elf's(1), kindness(1), geese(7), tame(1), handsome(1), gander(4), flung(1), goose's(1), flock(5), goose(4), exhaustion(1), suspicion(1), fox(4), crept(1), seized(1), heels(1), darted(1), beech(1), scrambled(1), fox's(1), squirrel(1), revenge(1), spoil(1), selfish(1), brave(1), wept(1), goodbye(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8997,
+        "coreCoverage": 0.9557,
+        "exempt": [
+          "goose",
+          "geese",
+          "elf",
+          "fox"
+        ],
+        "wordCount": 329,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "animals(3)",
+          "wild(3)",
+          "farm(2)",
+          "flew(2)",
+          "tail(1)",
+          "boy(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9304,
+        "coreCoverage": 0.9711,
+        "exempt": [
+          "goose",
+          "geese",
+          "elf",
+          "fox"
+        ],
+        "wordCount": 517,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "wild(3)",
+          "farm(2)",
+          "coin(2)",
+          "unkind(1)",
+          "net(1)",
+          "gold(1)",
+          "yard(1)",
+          "tail(1)",
+          "safe(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9353,
+        "coreCoverage": 0.9642,
+        "exempt": [
+          "goose",
+          "geese",
+          "elf",
+          "fox"
+        ],
+        "wordCount": 773,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "flock(4)",
+          "hens(2)",
+          "chest(2)",
+          "lazy(1)",
+          "cruel(1)",
+          "cows(1)",
+          "asleep(1)",
+          "treasures(1)",
+          "coin(1)",
+          "sparrows(1)",
+          "wings(1)",
+          "wise(1)",
+          "crept(1)",
+          "teeth(1)",
+          "tail(1)",
+          "dawn(1)",
+          "castles(1)",
+          "creatures(1)",
+          "joy(1)",
+          "goodbye(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9391,
+        "coreCoverage": 0.9584,
+        "exempt": [
+          "goose",
+          "geese",
+          "elf",
+          "fox"
+        ],
+        "wordCount": 1035,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "flock(5)",
+          "gander(4)",
+          "hens(2)",
+          "teasing(1)",
+          "sermons(1)",
+          "unhappily(1)",
+          "lace(1)",
+          "butterfly(1)",
+          "begged(1)",
+          "desperate(1)",
+          "forgiveness(1)",
+          "sparrows(1)",
+          "astonishment(1)",
+          "kindness(1)",
+          "tame(1)",
+          "handsome(1)",
+          "flung(1)",
+          "exhaustion(1)",
+          "suspicion(1)",
+          "crept(1)",
+          "seized(1)",
+          "heels(1)",
+          "darted(1)",
+          "beech(1)",
+          "scrambled(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9241,
+        "coreCoverage": 0.936,
+        "exempt": [
+          "goose",
+          "geese",
+          "elf",
+          "fox"
+        ],
+        "wordCount": 1529,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "gander(5)",
+          "flock(5)",
+          "roused(2)",
+          "hens(2)",
+          "bargain(2)",
+          "afterwards(2)",
+          "limbed(1)",
+          "thoroughly(1)",
+          "idle(1)",
+          "chores(1)",
+          "offended(1)",
+          "torment(1)",
+          "lowered(1)",
+          "stall(1)",
+          "scattered(1)",
+          "cobbles(1)",
+          "sermons(1)",
+          "drifted(1)",
+          "doze(1)",
+          "perched(1)",
+          "lace(1)",
+          "snatched(1)",
+          "butterfly(1)",
+          "nail(1)",
+          "dangling(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": " child. He did not like school or work. He was not kind to the animals.  One morni"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ANY_MORE",
+          "cat": "COMPOUNDING",
+          "msg": "Did you mean the adverb “anymore”?",
+          "frag": "any more",
+          "ctx": " they called. \"He is not so frightening any more!\" To his astonishment, Nils understood "
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "gain. What happened next he could never afterwards describe, except that the room suddenly"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "bout sending him away.  For many months afterwards, Nils travelled with the flock from the"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 329,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 18,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 517,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0022,
+      "lowZipfWords": [
+        "unkind"
+      ],
+      "keyTermTokens": 23,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 773,
+      "sentLenMedian": 11.0,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0086,
+      "lowZipfWords": [
+        "castles",
+        "crept",
+        "fox's",
+        "hens",
+        "sparrows"
+      ],
+      "keyTermTokens": 24,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1035,
+      "sentLenMedian": 15.0,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0229,
+      "lowZipfWords": [
+        "astonishment",
+        "beech",
+        "crept",
+        "darted",
+        "elf's",
+        "exhaustion",
+        "flung",
+        "fox's",
+        "gander",
+        "gazing",
+        "goose's",
+        "hens",
+        "regretted",
+        "scrambled",
+        "sermons",
+        "sparrows",
+        "unhappily",
+        "wept"
+      ],
+      "keyTermTokens": 20,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1529,
+      "sentLenMedian": 24.0,
+      "zipfMedian": 5.95,
+      "lowZipfRatio": 0.0365,
+      "lowZipfWords": [
+        "astonished",
+        "beech",
+        "braced",
+        "circled",
+        "clinging",
+        "cobbles",
+        "cockerel",
+        "crowed",
+        "dangling",
+        "depended",
+        "dismay",
+        "doze",
+        "drifted",
+        "echoing",
+        "flapped",
+        "fox's",
+        "frantic",
+        "friendless",
+        "gander",
+        "gander's",
+        "gazing",
+        "gliding",
+        "grumbled",
+        "hens",
+        "honking",
+        "limbed",
+        "lunged",
+        "mockery",
+        "patchwork",
+        "paw",
+        "perched",
+        "pines",
+        "roused",
+        "scrambling",
+        "sermons",
+        "shrunk",
+        "skimming",
+        "snatched",
+        "soared",
+        "sparrows",
+        "torment",
+        "trailed",
+        "triumphantly",
+        "trunks",
+        "weeping",
+        "yawned"
+      ],
+      "keyTermTokens": 21,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8997,
+      "coreCoverage": 0.9557,
+      "exempt": [
+        "goose",
+        "geese",
+        "elf",
+        "fox"
+      ],
+      "wordCount": 329,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "animals(3)",
+        "wild(3)",
+        "farm(2)",
+        "flew(2)",
+        "tail(1)",
+        "boy(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9304,
+      "coreCoverage": 0.9711,
+      "exempt": [
+        "goose",
+        "geese",
+        "elf",
+        "fox"
+      ],
+      "wordCount": 517,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "wild(3)",
+        "farm(2)",
+        "coin(2)",
+        "unkind(1)",
+        "net(1)",
+        "gold(1)",
+        "yard(1)",
+        "tail(1)",
+        "safe(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9353,
+      "coreCoverage": 0.9642,
+      "exempt": [
+        "goose",
+        "geese",
+        "elf",
+        "fox"
+      ],
+      "wordCount": 773,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "flock(4)",
+        "hens(2)",
+        "chest(2)",
+        "lazy(1)",
+        "cruel(1)",
+        "cows(1)",
+        "asleep(1)",
+        "treasures(1)",
+        "coin(1)",
+        "sparrows(1)",
+        "wings(1)",
+        "wise(1)",
+        "crept(1)",
+        "teeth(1)",
+        "tail(1)",
+        "dawn(1)",
+        "castles(1)",
+        "creatures(1)",
+        "joy(1)",
+        "goodbye(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9391,
+      "coreCoverage": 0.9584,
+      "exempt": [
+        "goose",
+        "geese",
+        "elf",
+        "fox"
+      ],
+      "wordCount": 1035,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "flock(5)",
+        "gander(4)",
+        "hens(2)",
+        "teasing(1)",
+        "sermons(1)",
+        "unhappily(1)",
+        "lace(1)",
+        "butterfly(1)",
+        "begged(1)",
+        "desperate(1)",
+        "forgiveness(1)",
+        "sparrows(1)",
+        "astonishment(1)",
+        "kindness(1)",
+        "tame(1)",
+        "handsome(1)",
+        "flung(1)",
+        "exhaustion(1)",
+        "suspicion(1)",
+        "crept(1)",
+        "seized(1)",
+        "heels(1)",
+        "darted(1)",
+        "beech(1)",
+        "scrambled(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9241,
+      "coreCoverage": 0.936,
+      "exempt": [
+        "goose",
+        "geese",
+        "elf",
+        "fox"
+      ],
+      "wordCount": 1529,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "gander(5)",
+        "flock(5)",
+        "roused(2)",
+        "hens(2)",
+        "bargain(2)",
+        "afterwards(2)",
+        "limbed(1)",
+        "thoroughly(1)",
+        "idle(1)",
+        "chores(1)",
+        "offended(1)",
+        "torment(1)",
+        "lowered(1)",
+        "stall(1)",
+        "scattered(1)",
+        "cobbles(1)",
+        "sermons(1)",
+        "drifted(1)",
+        "doze(1)",
+        "perched(1)",
+        "lace(1)",
+        "snatched(1)",
+        "butterfly(1)",
+        "nail(1)",
+        "dangling(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9557,
+    "A2": 0.9711
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.25,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0174",
+        "title": "The Wild Swans",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0238",
+        "title": "Wind in the Willows: The Wild Wood (epizod)",
+        "titleJaccard": 0.143,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

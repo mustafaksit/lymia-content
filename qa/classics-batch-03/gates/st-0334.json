@@ -1,0 +1,614 @@
+{
+  "id": "st-0334",
+  "title": "The Stolen White Elephant",
+  "ts": "2026-10-30T10:23:51",
+  "node": {
+    "id": "st-0334",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %92.7 | 315 kelime\n    havuz dışı: elephant(8), queen(1), police(2), detective(1), reward(1), detectives(4), telegrams(1), telegram(3), station(1), slept(1)",
+        "level A2: A2: KALDI | kapsam %94.4 | 501 kelime\n    havuz dışı: queen(1), elephant(11), king(1), famous(1), detective(3), quiet(1), detectives(4), reward(2), telegrams(2), farm(1), telegram(1)",
+        "level B1: B1: KALDI | kapsam %91.6 | 666 kelime\n    havuz dışı: quarreled(1), queen(3), quarrel(1), feelings(1), elephant(11), sacred(1), stall(1), headquarters(3), detective(3), notebook(2), elephant's(1), trunk(1), pile(2), nodded(1), detectives(4), thieves(2), railway(1), telegrams(2), cabbages(1), third(1), telegram(1), fence(1), fortune(1), shining(1), pride(1), basement(1), farthest(1), asleep(1), cheered(1), loudly(1), cheers(1), praised(1), fame(1)",
+        "level B2: B2: KALDI | kapsam %93.7 | 983 kelime\n    havuz dışı: disagreement(1), arose(1), queen(1), feelings(1), elephant(11), sacred(1), voyage(1), stall(1), vanished(1), headquarters(2), cleverest(1), detective(5), interrupting(1), umbrella(1), notebook(1), trunk(1), detectives(2), gentlemen(1), thieves(3), elephant's(1), hesitation(1), weaken(1), afterward(1), telegrams(2), dawn(1), hay(1), third(1), circus(1), puzzled(1), telegram(1), mysterious(1), savings(1), glowing(1), triumph(1), staircase(1), basement(1), gloomy(1), lamp(1), asleep(1), sacks(1), cheered(1), cheers(1), swallowed(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.927,
+        "coreCoverage": 0.9824,
+        "exempt": [
+          "elephant",
+          "detective",
+          "telegram",
+          "reward"
+        ],
+        "wordCount": 315,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "police(2)",
+          "queen(1)",
+          "station(1)",
+          "slept(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9441,
+        "coreCoverage": 0.9892,
+        "exempt": [
+          "elephant",
+          "detective",
+          "telegram",
+          "reward"
+        ],
+        "wordCount": 501,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "queen(1)",
+          "king(1)",
+          "famous(1)",
+          "quiet(1)",
+          "farm(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9159,
+        "coreCoverage": 0.9455,
+        "exempt": [
+          "elephant",
+          "detective",
+          "telegram",
+          "reward"
+        ],
+        "wordCount": 666,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "queen(3)",
+          "headquarters(3)",
+          "notebook(2)",
+          "pile(2)",
+          "thieves(2)",
+          "quarreled(1)",
+          "quarrel(1)",
+          "feelings(1)",
+          "sacred(1)",
+          "stall(1)",
+          "trunk(1)",
+          "nodded(1)",
+          "railway(1)",
+          "cabbages(1)",
+          "third(1)",
+          "fence(1)",
+          "fortune(1)",
+          "shining(1)",
+          "pride(1)",
+          "basement(1)",
+          "farthest(1)",
+          "asleep(1)",
+          "cheered(1)",
+          "loudly(1)",
+          "cheers(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9369,
+        "coreCoverage": 0.9575,
+        "exempt": [
+          "elephant",
+          "detective",
+          "telegram",
+          "reward"
+        ],
+        "wordCount": 983,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "thieves(3)",
+          "headquarters(2)",
+          "disagreement(1)",
+          "arose(1)",
+          "queen(1)",
+          "feelings(1)",
+          "sacred(1)",
+          "voyage(1)",
+          "stall(1)",
+          "vanished(1)",
+          "cleverest(1)",
+          "interrupting(1)",
+          "umbrella(1)",
+          "notebook(1)",
+          "trunk(1)",
+          "gentlemen(1)",
+          "hesitation(1)",
+          "weaken(1)",
+          "afterward(1)",
+          "dawn(1)",
+          "hay(1)",
+          "third(1)",
+          "circus(1)",
+          "puzzled(1)",
+          "mysterious(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9077,
+        "coreCoverage": 0.9204,
+        "exempt": [
+          "elephant",
+          "detective",
+          "telegram",
+          "reward"
+        ],
+        "wordCount": 1322,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "headquarters(2)",
+          "thieves(2)",
+          "arose(1)",
+          "queen(1)",
+          "politely(1)",
+          "generous(1)",
+          "goodwill(1)",
+          "kingdom(1)",
+          "sacred(1)",
+          "monarch(1)",
+          "treasure(1)",
+          "entrusted(1)",
+          "voyage(1)",
+          "visibly(1)",
+          "peaceful(1)",
+          "regained(1)",
+          "congratulate(1)",
+          "stall(1)",
+          "straw(1)",
+          "overnight(1)",
+          "unhurried(1)",
+          "alarmingly(1)",
+          "flicker(1)",
+          "umbrella(1)",
+          "notebook(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 315,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.18,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 18,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 501,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.18,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 23,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 666,
+      "sentLenMedian": 10.0,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0128,
+      "lowZipfWords": [
+        "cabbages",
+        "cheered",
+        "elephant's",
+        "farmer's",
+        "farthest",
+        "nodded",
+        "quarrel",
+        "quarreled"
+      ],
+      "keyTermTokens": 23,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 983,
+      "sentLenMedian": 14.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0138,
+      "lowZipfWords": [
+        "admiring",
+        "cheered",
+        "cleverest",
+        "depended",
+        "elephant's",
+        "farmer's",
+        "gloomy",
+        "interrupting",
+        "leaned",
+        "patiently",
+        "puzzled",
+        "wandered",
+        "weaken"
+      ],
+      "keyTermTokens": 24,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1322,
+      "sentLenMedian": 20,
+      "zipfMedian": 5.97,
+      "lowZipfRatio": 0.0353,
+      "lowZipfWords": [
+        "alarmed",
+        "alarmingly",
+        "brisk",
+        "cheered",
+        "confided",
+        "devoured",
+        "dignified",
+        "doubted",
+        "dwindled",
+        "entrusted",
+        "farmer's",
+        "farthest",
+        "flattened",
+        "flicker",
+        "galloped",
+        "gloomy",
+        "grasped",
+        "grudge",
+        "hurried",
+        "inquired",
+        "lodgings",
+        "modesty",
+        "nearer",
+        "pausing",
+        "peculiarities",
+        "politely",
+        "proudest",
+        "rarest",
+        "regained",
+        "roared",
+        "scattering",
+        "scenting",
+        "serene",
+        "splashing",
+        "startled",
+        "strolled",
+        "superiors",
+        "tatters",
+        "thoroughness",
+        "tightening",
+        "tripled",
+        "unhurried",
+        "ventured",
+        "visibly",
+        "watchful"
+      ],
+      "keyTermTokens": 23,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.927,
+      "coreCoverage": 0.9824,
+      "exempt": [
+        "elephant",
+        "detective",
+        "telegram",
+        "reward"
+      ],
+      "wordCount": 315,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "police(2)",
+        "queen(1)",
+        "station(1)",
+        "slept(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9441,
+      "coreCoverage": 0.9892,
+      "exempt": [
+        "elephant",
+        "detective",
+        "telegram",
+        "reward"
+      ],
+      "wordCount": 501,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "queen(1)",
+        "king(1)",
+        "famous(1)",
+        "quiet(1)",
+        "farm(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9159,
+      "coreCoverage": 0.9455,
+      "exempt": [
+        "elephant",
+        "detective",
+        "telegram",
+        "reward"
+      ],
+      "wordCount": 666,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "queen(3)",
+        "headquarters(3)",
+        "notebook(2)",
+        "pile(2)",
+        "thieves(2)",
+        "quarreled(1)",
+        "quarrel(1)",
+        "feelings(1)",
+        "sacred(1)",
+        "stall(1)",
+        "trunk(1)",
+        "nodded(1)",
+        "railway(1)",
+        "cabbages(1)",
+        "third(1)",
+        "fence(1)",
+        "fortune(1)",
+        "shining(1)",
+        "pride(1)",
+        "basement(1)",
+        "farthest(1)",
+        "asleep(1)",
+        "cheered(1)",
+        "loudly(1)",
+        "cheers(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9369,
+      "coreCoverage": 0.9575,
+      "exempt": [
+        "elephant",
+        "detective",
+        "telegram",
+        "reward"
+      ],
+      "wordCount": 983,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "thieves(3)",
+        "headquarters(2)",
+        "disagreement(1)",
+        "arose(1)",
+        "queen(1)",
+        "feelings(1)",
+        "sacred(1)",
+        "voyage(1)",
+        "stall(1)",
+        "vanished(1)",
+        "cleverest(1)",
+        "interrupting(1)",
+        "umbrella(1)",
+        "notebook(1)",
+        "trunk(1)",
+        "gentlemen(1)",
+        "hesitation(1)",
+        "weaken(1)",
+        "afterward(1)",
+        "dawn(1)",
+        "hay(1)",
+        "third(1)",
+        "circus(1)",
+        "puzzled(1)",
+        "mysterious(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9077,
+      "coreCoverage": 0.9204,
+      "exempt": [
+        "elephant",
+        "detective",
+        "telegram",
+        "reward"
+      ],
+      "wordCount": 1322,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "headquarters(2)",
+        "thieves(2)",
+        "arose(1)",
+        "queen(1)",
+        "politely(1)",
+        "generous(1)",
+        "goodwill(1)",
+        "kingdom(1)",
+        "sacred(1)",
+        "monarch(1)",
+        "treasure(1)",
+        "entrusted(1)",
+        "voyage(1)",
+        "visibly(1)",
+        "peaceful(1)",
+        "regained(1)",
+        "congratulate(1)",
+        "stall(1)",
+        "straw(1)",
+        "overnight(1)",
+        "unhurried(1)",
+        "alarmingly(1)",
+        "flicker(1)",
+        "umbrella(1)",
+        "notebook(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 4,
+      "1": 6,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9824,
+    "A2": 0.9892
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.167,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0167",
+        "title": "Snow White and the Seven Dwarfs",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0265",
+        "title": "Snow-White and Rose-Red",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

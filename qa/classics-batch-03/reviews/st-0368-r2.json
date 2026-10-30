@@ -1,0 +1,61 @@
+{
+  "id": "st-0368",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Criterion 7: only a few possible blockers remain, under the fail threshold. 'The mother ran at the younger girl.' An A1 reader may take 'ran at' as 'ran to'. Suggested: 'The mother was very angry with the younger girl.'",
+        "Criterion 7: \"'Well?' asked her mother. 'Well, Mother?' said the older girl.\" Using 'Well?' as a question is idiomatic. The echo is iconic, so it is acceptable, but 'How was it?' would be clearer for A1.",
+        "Criterion 7: 'Each word brings a flower or a diamond.' 'brings' is a little abstract. Suggested: 'Now, when you speak, a flower or a diamond comes out of your mouth.' The next scene makes the meaning clear, so this is not blocking.",
+        "Quiz Q1: 'first' in 'Who came to the younger girl at the fountain first?' is unnecessary but harmless."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "1. meaning drift",
+          "quote": "Every time you speak, a flower or a diamond comes out.",
+          "problem": "The fairy promises only flowers or diamonds, but then 'Two flowers, two pearls and two big diamonds fell from her mouth' and later 'Five or six pearls'. Pearls come out of nowhere. They are not glossed, and they contradict the gift as stated. A1 avoids this because it never mentions pearls.",
+          "fix": "Either change the gift to 'Every time you speak, a flower, a pearl or a diamond comes out.' or remove the pearls later: 'Two flowers and two big diamonds fell from her mouth.' / 'Some diamonds fell from her mouth.'"
+        },
+        {
+          "criterion": "3. level mismatch",
+          "quote": "Five or six pearls and as many diamonds fell from her mouth.",
+          "problem": "'as many diamonds' is a comparative ellipsis beyond A2. Learners will not see that it means 'five or six diamonds'.",
+          "fix": "Five or six pearls and five or six diamonds fell from her mouth."
+        }
+      ],
+      "notes": [
+        "'To him, her words were worth more than any money.' is fine as a simplification of the dowry idea."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No passive or conditionals. The relative clauses ('who was pretending', 'who asks for one') are allowed at B1.",
+        "The gift is 'a flower or a jewel', which keeps the later pearls consistent."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Faithful to Perrault, including the mother calling her 'daughter' for the first time and the dowry reasoning. Softening the elder sister's death to 'went far away from home' is acceptable for 4+."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'from her lips' appears twice in two consecutive sentences ('fall from her lips' ... 'tumbling from her lips'). Consider changing the second to 'from her mouth'.",
+        "The prose is genuinely literary and stays close to the original's tone and its ironic aside."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows Perrault's 'Diamonds and Toads' closely at every level, and the ending is acceptably softened for a 4+ audience. B1, B2 and C1 are clean, and A1 is understandable with only minor idiomatic friction. A2 fails because the fairy promises only flowers or diamonds, yet unannounced pearls fall out, and because 'as many diamonds' is above A2 level."
+}

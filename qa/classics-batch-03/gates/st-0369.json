@@ -1,0 +1,609 @@
+{
+  "id": "st-0369",
+  "title": "Ricky of the Tuft",
+  "ts": "2026-10-30T10:24:36",
+  "node": {
+    "id": "st-0369",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %92.2 | 370 kelime\n    havuz dışı: queen(2), tuft(1), fairy(4), princess(8), beautiful(1), prince(1), picture(1), marry(2), promise(3), ground(2), marries(1), tomorrow(1), forgot(1), married(1)",
+        "level B1: B1: KALDI | kapsam %93.7 | 820 kelime\n    havuz dışı: queen(4), handsome(5), tuft(1), fairy(7), cleverer(1), spilled(1), princess(8), unhappy(1), prince(4), kingdom(1), politely(1), forever(1), palace(1), princes(1), distant(1), clever(1), loud(1), pot(1), feast(1), foolish(2), honest(1), dislike(1), temper(1), fairy's(1), magic(1), patience(1), kindness(1), wise(1)",
+        "level B2: B2: KALDI | kapsam %92.8 | 1100 kelime\n    havuz dışı: queen(4), handsome(3), tuft(1), grieved(1), fairy(6), prince(4), kingdom(3), dawn(1), overjoyed(1), queen's(1), princess(10), wit(6), dull(1), clever(3), elder(3), begged(1), princesses(1), wittier(1), awkward(1), spilling(1), drifted(1), miserable(1), weep(1), magnificent(1), sorrowful(1), foolish(4), gracefully(1), palace(1), astonished(1), wisdom(1), princes(1), witty(1), splendid(1), feast(1), startled(1), follies(1), frank(1), cleverest(1), dislike(1), temper(1), fairy's(1), patience(1), worthy(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9216,
+        "coreCoverage": 0.9398,
+        "exempt": [
+          "tuft",
+          "fairy",
+          "promise"
+        ],
+        "wordCount": 370,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "princess(8)",
+          "queen(2)",
+          "marry(2)",
+          "ground(2)",
+          "beautiful(1)",
+          "prince(1)",
+          "picture(1)",
+          "marries(1)",
+          "tomorrow(1)",
+          "forgot(1)",
+          "married(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9658,
+        "coreCoverage": 0.9742,
+        "exempt": [
+          "tuft",
+          "fairy",
+          "promise"
+        ],
+        "wordCount": 527,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "princess(10)",
+          "queen(2)",
+          "prince(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9366,
+        "coreCoverage": 0.9457,
+        "exempt": [
+          "tuft",
+          "fairy",
+          "promise"
+        ],
+        "wordCount": 820,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "princess(8)",
+          "handsome(5)",
+          "queen(4)",
+          "prince(4)",
+          "foolish(2)",
+          "cleverer(1)",
+          "spilled(1)",
+          "unhappy(1)",
+          "kingdom(1)",
+          "politely(1)",
+          "forever(1)",
+          "palace(1)",
+          "princes(1)",
+          "distant(1)",
+          "clever(1)",
+          "loud(1)",
+          "pot(1)",
+          "feast(1)",
+          "honest(1)",
+          "dislike(1)",
+          "temper(1)",
+          "magic(1)",
+          "patience(1)",
+          "kindness(1)",
+          "wise(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9282,
+        "coreCoverage": 0.9338,
+        "exempt": [
+          "tuft",
+          "fairy",
+          "promise"
+        ],
+        "wordCount": 1100,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "princess(10)",
+          "wit(6)",
+          "queen(4)",
+          "prince(4)",
+          "foolish(4)",
+          "handsome(3)",
+          "kingdom(3)",
+          "clever(3)",
+          "elder(3)",
+          "grieved(1)",
+          "dawn(1)",
+          "overjoyed(1)",
+          "queen's(1)",
+          "dull(1)",
+          "begged(1)",
+          "princesses(1)",
+          "wittier(1)",
+          "awkward(1)",
+          "spilling(1)",
+          "drifted(1)",
+          "miserable(1)",
+          "weep(1)",
+          "magnificent(1)",
+          "sorrowful(1)",
+          "gracefully(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9186,
+        "coreCoverage": 0.9225,
+        "exempt": [
+          "tuft",
+          "fairy",
+          "promise"
+        ],
+        "wordCount": 1523,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "princess(10)",
+          "wit(6)",
+          "queen(4)",
+          "madam(4)",
+          "elder(4)",
+          "handsome(3)",
+          "kingdom(3)",
+          "foolish(3)",
+          "delightful(2)",
+          "temper(2)",
+          "sparkling(2)",
+          "awkward(2)",
+          "clever(2)",
+          "unhappy(2)",
+          "astonished(2)",
+          "prince(2)",
+          "dull(2)",
+          "ornament(1)",
+          "crown(1)",
+          "bestow(1)",
+          "enchanted(1)",
+          "attendants(1)",
+          "strikingly(1)",
+          "distress(1)",
+          "heaven(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 370,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.003,
+      "lowZipfWords": [
+        "marries"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 527,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.0021,
+      "lowZipfWords": [
+        "marries"
+      ],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 820,
+      "sentLenMedian": 12.0,
+      "zipfMedian": 6.12,
+      "lowZipfRatio": 0.0053,
+      "lowZipfWords": [
+        "cleverer",
+        "comforted",
+        "fairy's",
+        "politely"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1100,
+      "sentLenMedian": 14.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0166,
+      "lowZipfWords": [
+        "astonished",
+        "cleverest",
+        "drifted",
+        "fairy's",
+        "follies",
+        "gracefully",
+        "grieved",
+        "hurried",
+        "hurrying",
+        "lovelier",
+        "overjoyed",
+        "princesses",
+        "sorrowful",
+        "spilling",
+        "startled",
+        "weep",
+        "wittier"
+      ],
+      "keyTermTokens": 10,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1523,
+      "sentLenMedian": 22.0,
+      "zipfMedian": 6.09,
+      "lowZipfRatio": 0.027,
+      "lowZipfWords": [
+        "astonished",
+        "attendants",
+        "babbled",
+        "bestow",
+        "cleverest",
+        "displeases",
+        "enchanted",
+        "fairy's",
+        "follies",
+        "foolishness",
+        "foreseen",
+        "foretold",
+        "fro",
+        "gallant",
+        "gazes",
+        "gazing",
+        "graceful",
+        "handsomest",
+        "hurrying",
+        "inclination",
+        "longed",
+        "lovelier",
+        "magnificently",
+        "misfortune",
+        "muffled",
+        "ornament",
+        "prince's",
+        "princesses",
+        "sharper",
+        "sighed",
+        "spilling",
+        "splendor",
+        "strikingly",
+        "suitor's",
+        "wandered",
+        "weep",
+        "whomever"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9216,
+      "coreCoverage": 0.9398,
+      "exempt": [
+        "tuft",
+        "fairy",
+        "promise"
+      ],
+      "wordCount": 370,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "princess(8)",
+        "queen(2)",
+        "marry(2)",
+        "ground(2)",
+        "beautiful(1)",
+        "prince(1)",
+        "picture(1)",
+        "marries(1)",
+        "tomorrow(1)",
+        "forgot(1)",
+        "married(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9658,
+      "coreCoverage": 0.9742,
+      "exempt": [
+        "tuft",
+        "fairy",
+        "promise"
+      ],
+      "wordCount": 527,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "princess(10)",
+        "queen(2)",
+        "prince(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9366,
+      "coreCoverage": 0.9457,
+      "exempt": [
+        "tuft",
+        "fairy",
+        "promise"
+      ],
+      "wordCount": 820,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "princess(8)",
+        "handsome(5)",
+        "queen(4)",
+        "prince(4)",
+        "foolish(2)",
+        "cleverer(1)",
+        "spilled(1)",
+        "unhappy(1)",
+        "kingdom(1)",
+        "politely(1)",
+        "forever(1)",
+        "palace(1)",
+        "princes(1)",
+        "distant(1)",
+        "clever(1)",
+        "loud(1)",
+        "pot(1)",
+        "feast(1)",
+        "honest(1)",
+        "dislike(1)",
+        "temper(1)",
+        "magic(1)",
+        "patience(1)",
+        "kindness(1)",
+        "wise(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9282,
+      "coreCoverage": 0.9338,
+      "exempt": [
+        "tuft",
+        "fairy",
+        "promise"
+      ],
+      "wordCount": 1100,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "princess(10)",
+        "wit(6)",
+        "queen(4)",
+        "prince(4)",
+        "foolish(4)",
+        "handsome(3)",
+        "kingdom(3)",
+        "clever(3)",
+        "elder(3)",
+        "grieved(1)",
+        "dawn(1)",
+        "overjoyed(1)",
+        "queen's(1)",
+        "dull(1)",
+        "begged(1)",
+        "princesses(1)",
+        "wittier(1)",
+        "awkward(1)",
+        "spilling(1)",
+        "drifted(1)",
+        "miserable(1)",
+        "weep(1)",
+        "magnificent(1)",
+        "sorrowful(1)",
+        "gracefully(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9186,
+      "coreCoverage": 0.9225,
+      "exempt": [
+        "tuft",
+        "fairy",
+        "promise"
+      ],
+      "wordCount": 1523,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "princess(10)",
+        "wit(6)",
+        "queen(4)",
+        "madam(4)",
+        "elder(4)",
+        "handsome(3)",
+        "kingdom(3)",
+        "foolish(3)",
+        "delightful(2)",
+        "temper(2)",
+        "sparkling(2)",
+        "awkward(2)",
+        "clever(2)",
+        "unhappy(2)",
+        "astonished(2)",
+        "prince(2)",
+        "dull(2)",
+        "ornament(1)",
+        "crown(1)",
+        "bestow(1)",
+        "enchanted(1)",
+        "attendants(1)",
+        "strikingly(1)",
+        "distress(1)",
+        "heaven(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9398,
+    "A2": 0.9742
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

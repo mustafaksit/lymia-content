@@ -1,0 +1,30 @@
+{"id":"st-0326","round":1,"levels":{
+"A1":{"verdict":"FAIL","issues":[
+{"criterion":"2. unnatural English / 7. A1 comprehension","quote":"Come to me at my call.","problem":"Not natural English. 'At my call' is an old-fashioned phrase that a native children's author would not use, and an A1 learner cannot work it out. The sentence is also the only setup for the later rescue.","fix":"\"When you hear my horn, come to me.\" (add 'horn' to the glossed words), or \"When I call you, come to me.\""},
+{"criterion":"4. logic error","quote":"Then he called to his friends. His friends heard him and ran to him.","problem":"Robin 'walked for a long time' to reach the stream, so his friends could not hear his voice from Sherwood. Every other level uses the horn here. The A1 version leaves a small but visible plot hole.","fix":"\"Then he blew his horn three times. His friends heard it and ran to him.\" (gloss 'horn')"}
+],"notes":[
+"Quiz Q2 uses 'Will Stutely' as a distractor, but that name never appears in the A1 text. It works, but an A1 learner may be confused by an unknown name. 'Little John' or 'A friend' would be clearer.",
+"\"Only one man could go over it.\" could say \"Only one man at a time could go over it.\" so it does not sound as if only one man in the world could cross.",
+"\"For a long time, no man fell.\" is understandable. \"Nobody fell\" sounds more natural."
+]},
+"A2":{"verdict":"PASS","issues":[],"notes":[
+"\"Robin Hood lived in the green trees of Sherwood\" is slightly odd. \"in the green forest of Sherwood\" reads better.",
+"\"Now we are the same,\" said Robin. 'Now it is a fair fight' or 'Now we are equal' sounds more idiomatic.",
+"\"He walked out of the stream and took his horn. He called his men with it three times.\" 'took out his horn' / 'blew it three times' sounds more natural.",
+"Quiz Q2 and Q3 test the same fact (Robin called his men). Consider replacing one, for example: 'What was the stranger's name before the outlaws changed it?'"
+]},
+"B1":{"verdict":"PASS","issues":[],"notes":[
+"\"Nobody ever called him a coward\" is standard in narrative English, but in a graded reader \"Nobody had ever called him a coward\" shows the time relation more clearly.",
+"\"knocked him clean off the bridge\": 'clean' as an adverb is idiomatic and may puzzle some B1 readers, but the meaning is clear from context."
+]},
+"B2":{"verdict":"PASS","issues":[],"notes":[
+"\"he carried a heavy wooden staff as easily as a feather\" compares the man to a feather, which is loose. \"as easily as if it were a feather\" is more precise.",
+"Fidelity is good: fortnight of idleness, bow threat, coward taunt, oak staff, first-into-the-water terms, Robin's 'floating with the current' reply, horn, Will Stutely, outlaws seizing the stranger, renaming and feast all follow Pyle."
+]},
+"C1":{"verdict":"PASS","issues":[],"notes":[
+"Genuinely literary and close to Pyle in tone and detail: seven feet tall, three suits of Lincoln green a year, 'where might you be now?' / 'floating... with the current'.",
+"\"a sharp rap on the big man's ribs that would have doubled up a lesser fellow\" mentions a hit without showing harm or injury, so it is acceptable for 4+."
+]}
+},
+"overall":"FAIL",
+"summary":"A faithful, warm retelling of Little John's meeting with Robin on the log bridge, as told in Pyle and the ballad. A2 through C1 are natural, suitable for their levels and for age 4+. Only A1 fails: it has an unnatural setup line ('Come to me at my call'), and the friends hear Robin's voice from far away. Bringing back the horn, as every other level has it, fixes both."}

@@ -1,0 +1,95 @@
+{
+  "id": "st-0323",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "\"The island is our home,\" said the father. \"We want to stay here.\" So the ship went away without them. The family stayed on their island together.",
+          "problem": "In the novel (the standard English version with the English ship's arrival), the family splits up at the end: Fritz and Franz sail to Europe on the English ship, and the father, mother, Ernest and Jack stay on the island. Here the whole family stays together and the ship leaves with nobody, so the ending is changed. Quiz 3 ('They stayed on the island') also bakes in the wrong ending.",
+          "fix": "\"The father, the mother, Ernest and Jack want to stay,\" said the father. \"But Fritz and Franz can go with you to Europe.\" So Fritz and Franz went on the ship. The others stayed on their island. Change quiz 3 to: 'Who went away on the ship? — *Fritz and Franz / The father and the mother / Ernest and Jack'."
+        }
+      ],
+      "notes": [
+        "A1 comprehension is otherwise good. Only a couple of phrases may slow a beginner: 'We must not lose hope' (simpler: 'Do not be afraid') and 'Many years went by' (simpler: 'Ten years passed' or 'Ten years later'). That is well under a handful.",
+        "'The other men left in small boats' — the sailors were never mentioned, so 'other men' is vague. Better: 'The sailors left in small boats.'",
+        "'The dogs came after them' — they swam; 'The dogs swam after them' is clearer.",
+        "Quiz 1 distractor 'On a big bird' is silly but harmless."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "\"We want to stay.\" So the ship left without them, and the family stayed together.",
+          "problem": "Same ending change as A1. In the original, Fritz and Franz leave for Europe on the English ship, and the parents, Ernest and Jack stay. The ship does not leave without any of them. Quiz 3 is keyed to the changed ending.",
+          "fix": "\"Our home is here now,\" said the father. \"But Fritz and Franz can go to Europe with you,\" said the mother. So Fritz and Franz sailed away on the ship, and the father, the mother, Ernest and Jack stayed on the island. Update quiz 3 to match (e.g. 'Who went to Europe? — *Fritz and Franz / ...')."
+        }
+      ],
+      "notes": [
+        "'The years went by, ten in all.' — 'in all' is a bit awkward at A2; 'Ten years went by.' is enough.",
+        "'They brought the animals too, like the cow and the goats.' — fine, but 'They also brought the animals: a cow, some goats ...' reads more naturally since the cow has not been mentioned yet."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "\"Falconhurst is our home, and we will stay,\" said the mother. The ship sailed away the next day. The family stayed together on the island they loved.",
+          "problem": "Changes the ending of the novel: in the original, Fritz and Franz go to Europe on the English ship, and only the parents, Ernest and Jack stay. Quiz 3 ('Why did the family not leave with the English ship?') assumes the whole family stayed.",
+          "fix": "At last the father said, \"We have built our life here, and we are happy.\" They decided that Fritz and Franz should sail to Europe to see the world, while the father, the mother, Ernest and Jack stayed at Falconhurst. Change quiz 3 to: 'Who sailed away on the English ship? — *Fritz and Franz / Ernest and Jack / The whole family'."
+        }
+      ],
+      "notes": [
+        "'the ship was far from its course' — the usual collocation is 'far off its course'.",
+        "'One morning Fritz heard a loud bang from the sea.' — the bang is never explained. 'the sound of a cannon from the sea' would make it clear.",
+        "'One morning, while huge waves were crashing over the deck, the ship struck a rock' — A1/A2 place the crash at night, and B1 itself then says the boats disappeared 'into the dark sea'. Saying 'One evening' or 'In the darkness' would keep the levels consistent.",
+        "No conditionals or passives found; grammar fits the level."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "\"This is our home now,\" said the mother quietly, \"and we would like to stay.\" When the English ship sailed away, the family stood together on the shore and watched it go.",
+          "problem": "Changes the novel's ending: in the original, Fritz and Franz leave with the English ship for Europe, and the parents, Ernest and Jack stay behind. The whole family does not stand together on the shore.",
+          "fix": "Finally, the father spoke: he and the mother, with Ernest and Jack, would stay on the island that had given them everything. Fritz and Franz, however, would sail to Europe to see the world and return one day. When the English ship sailed away with the two brothers on board, the others stood on the shore and waved until it was out of sight."
+        }
+      ],
+      "notes": [
+        "'fastened the eight tubs side by side' — the definite article implies the number was already given; use 'fastened eight tubs side by side'.",
+        "'Fritz heard a deep boom across the water' — consider 'the boom of a cannon' so the reader knows what it is.",
+        "'Jack joked that they were going to sea in their washing' — 'in their washtubs' is clearer for learners; 'washing' (= laundry) may confuse.",
+        "The quiz answers are all correct and clear."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "When the English ship weighed anchor a few days later, the whole family stood together on the sand to watch her go. Then, without a backward glance, they turned and walked home.",
+          "problem": "Changes the novel's ending: in the original, Fritz and Franz sail to Europe on the English ship, and only the parents, Ernest and Jack remain. Saying the whole family stayed and watched the ship go contradicts the source.",
+          "fix": "In the morning the father gave the captain their answer: he and his wife, with Ernest and Jack, would remain where Providence had set them, but Fritz and Franz, young men now with the world before them, would sail for Europe. When the English ship weighed anchor a few days later, the four who remained stood on the sand and watched her carry the two brothers away."
+        },
+        {
+          "criterion": "4. logic error",
+          "quote": "Her captain was rowed ashore to find out who on earth had lit fires on an island that appeared on no chart.",
+          "problem": "No fires have been mentioned anywhere in the story, and the 'dull boom' is never explained. The reader cannot tell what drew the ship to the island.",
+          "fix": "Explain the boom as a ship's cannon and the reason for landing, e.g. 'heard the dull boom of a cannon rolling across the water ... Her captain was rowed ashore, curious to know who could be living on an island that appeared on no chart.'"
+        }
+      ],
+      "notes": [
+        "The prose is genuinely literary and not padded ('roots rose from the earth like the buttresses of a cathedral', 'adopted the family with alarming confidence').",
+        "'kids and piglets' — 'kids' = young goats is correct, but some learners may read it as 'children'; 'young goats' avoids the stumble if wanted."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is warm, well graded and natural at every level, and it softens the original safely for a 4+ audience (for example, the monkey simply wanders in). However, every level changes the novel's ending: the whole family stays and the English ship leaves empty, whereas in the original Fritz and Franz sail to Europe and the parents, Ernest and Jack remain. C1 also mentions 'fires' that are never set up."
+}

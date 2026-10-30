@@ -1,0 +1,57 @@
+{
+  "id": "st-0343",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Then a woman came to the lawyer. ... 'Can I still be your boy?' asked Cedric.\" jumps straight from the woman's claim to Cedric's question. A bridge would help: \"The lawyer told the Earl and Cedric. 'Can I still be your boy?' asked Cedric.\"",
+        "'lawyer' is not glossed and appears three times. Consider glossing it or using 'a man from England' at first mention.",
+        "\"Cedric believed in the Earl.\" uses the phrasal 'believe in'. A simpler version: \"Cedric thought the Earl was good.\"",
+        "\"The woman saw them and left at once.\" Change 'at once' to 'quickly'.",
+        "Quiz Q2 says 'in the Earl's country'. 'In England' is clearer."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"After your grandfather, you become the Earl\" sounds a little odd because of the present-simple-only rule. Possible fix: \"When your grandfather dies, you are the next Earl.\"",
+        "\"The woman saw her old husband\" could be read as 'elderly husband'. Change it to 'her first husband'."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Can I still be your boy, even when I am not an earl?\" Here 'even when' sounds slightly off. Possible fix: \"Can I still be your boy, even without being an earl?\"",
+        "\"Slowly, the Earl began to want to deserve that belief.\" is a bit stiff. Possible fix: \"Slowly, the Earl began to want to be as good as Cedric believed.\""
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "2. unnatural English",
+          "quote": "\"If he knew how his grandfather felt about me, he could never love him. I want him to love him, and I think it will do them both good,\" she said.",
+          "problem": "In 'I want him to love him', two pronouns point to different people, which is clumsy, and a reader has to stop to work out who is who. A native author would not write this line.",
+          "fix": "\"If he knew how his grandfather felt about me, he could never love him. I want Cedric to love his grandfather, and I think it will do them both good,\" she said."
+        }
+      ],
+      "notes": [
+        "Everything else (fidelity, quiz and level) is sound."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"the woman found that her story had nowhere left to stand\" is a slightly forced image. 'her story fell apart at once' would be smoother, but this is taste only.",
+        "The Earl's visit to Dearest comes after the claim is resolved. In the novel he first meets her during the crisis. This is an acceptable condensation at every level."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows Burnett's novel closely at all levels: the New York start, the lawyer's news, the money given away, Dearest kept apart at the lodge, the Earl changing, the false claimant exposed by the shoe cleaner's newspaper and his brother, and the eighth-birthday ending. It is age-appropriate and the quizzes are correctly keyed. One concrete wording problem fails B2: the clumsy dialogue line 'I want him to love him'. A1, A2 and B1 have only minor notes."
+}

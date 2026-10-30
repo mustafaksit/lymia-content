@@ -1,0 +1,702 @@
+{
+  "id": "st-0349",
+  "title": "The Story of the Treasure Seekers",
+  "ts": "2026-10-30T10:24:10",
+  "node": {
+    "id": "st-0349",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %91.3 | 322 kelime\n    havuz dışı: brother(1), treasure(1), hole(1), garden(1), earth(1), legs(1), uncle(6), coins(2), newspaper(2), laughed(1), robbers(1), prisoner(1), cake(1), dinner(1), coat(1), poor(2), oranges(1), nuts(1), quietly(1), rich(1)",
+        "level A2: A2: KALDI | kapsam %94.4 | 501 kelime\n    havuz dışı: treasure(3), hole(3), cry(2), uncle(8), coins(2), robbers(3), kitchen(1), cake(1), dear(1), dinner(1), coat(1), oranges(1), nuts(1)",
+        "level B1: B1: KALDI | kapsam %94.8 | 776 kelime\n    havuz dışı: eldest(1), twins(1), wet(1), treasure(4), dig(1), spades(1), digging(1), lunchtime(1), tight(1), loudly(1), uncle(7), dug(1), silver(2), coins(4), cheered(1), poems(1), brave(1), knight(1), robbers(3), polite(2), cake(1), oranges(1), nuts(1), cab(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.913,
+        "coreCoverage": 0.9338,
+        "exempt": [
+          "treasure",
+          "uncle",
+          "newspaper"
+        ],
+        "wordCount": 322,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "coins(2)",
+          "poor(2)",
+          "brother(1)",
+          "hole(1)",
+          "garden(1)",
+          "earth(1)",
+          "legs(1)",
+          "laughed(1)",
+          "robbers(1)",
+          "prisoner(1)",
+          "cake(1)",
+          "dinner(1)",
+          "coat(1)",
+          "oranges(1)",
+          "nuts(1)",
+          "quietly(1)",
+          "rich(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9441,
+        "coreCoverage": 0.9624,
+        "exempt": [
+          "treasure",
+          "uncle",
+          "newspaper"
+        ],
+        "wordCount": 501,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "hole(3)",
+          "robbers(3)",
+          "cry(2)",
+          "coins(2)",
+          "kitchen(1)",
+          "cake(1)",
+          "dear(1)",
+          "dinner(1)",
+          "coat(1)",
+          "oranges(1)",
+          "nuts(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9485,
+        "coreCoverage": 0.9602,
+        "exempt": [
+          "treasure",
+          "uncle",
+          "newspaper"
+        ],
+        "wordCount": 776,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "coins(4)",
+          "robbers(3)",
+          "silver(2)",
+          "polite(2)",
+          "eldest(1)",
+          "twins(1)",
+          "wet(1)",
+          "dig(1)",
+          "spades(1)",
+          "digging(1)",
+          "lunchtime(1)",
+          "tight(1)",
+          "loudly(1)",
+          "dug(1)",
+          "cheered(1)",
+          "poems(1)",
+          "brave(1)",
+          "knight(1)",
+          "cake(1)",
+          "oranges(1)",
+          "nuts(1)",
+          "cab(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.963,
+        "coreCoverage": 0.9656,
+        "exempt": [
+          "treasure",
+          "uncle",
+          "newspaper"
+        ],
+        "wordCount": 974,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "robbers(4)",
+          "afterwards(3)",
+          "penny(3)",
+          "shabby(1)",
+          "eldest(1)",
+          "rainy(1)",
+          "spades(1)",
+          "sensible(1)",
+          "midday(1)",
+          "howl(1)",
+          "scolding(1)",
+          "pirates(1)",
+          "knight(1)",
+          "ink(1)",
+          "seriousness(1)",
+          "honorable(1)",
+          "polite(1)",
+          "buns(1)",
+          "duller(1)",
+          "seldom(1)",
+          "dine(1)",
+          "nuts(1)",
+          "dessert(1)",
+          "cab(1)",
+          "contrary(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.927,
+        "coreCoverage": 0.9265,
+        "exempt": [
+          "treasure",
+          "uncle",
+          "newspaper"
+        ],
+        "wordCount": 1302,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "robbers(4)",
+          "afterwards(2)",
+          "penny(2)",
+          "buns(2)",
+          "farthing(2)",
+          "dessert(2)",
+          "shabby(1)",
+          "vanished(1)",
+          "shopkeepers(1)",
+          "sideboard(1)",
+          "muttered(1)",
+          "eldest(1)",
+          "clever(1)",
+          "dripping(1)",
+          "inclined(1)",
+          "objection(1)",
+          "respectable(1)",
+          "equipped(1)",
+          "spades(1)",
+          "boundless(1)",
+          "optimism(1)",
+          "thoroughly(1)",
+          "sensible(1)",
+          "occupation(1)",
+          "midday(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": " was not poor at all. He was very rich! He helped Father with his business. Soon t"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "poorer. Their mother had died, and soon afterwards their father fell seriously ill. While "
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "es about pirates as he worked. Not long afterwards, Oswald found two silver coins in the e"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "ile on the face of Albert's uncle. Ever afterwards he suspected that the coins had come ou"
+        },
+        {
+          "rule": "NEEDS_FIXED",
+          "cat": "STYLE",
+          "msg": "The double modal “wanted arrived” is nonstandard (only accepted in certain dialects). Consider “to be arrived”.",
+          "frag": "arrived",
+          "ctx": "Yet in the end, the fortune they wanted arrived by itself, carried in by the guest they"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "ad died some years before, and not long afterwards their father fell so ill that for month"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "ile on the face of Albert's uncle. Ever afterwards he suspected that the treasure had trav"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 322,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0035,
+      "lowZipfWords": [
+        "robbers"
+      ],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 501,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0067,
+      "lowZipfWords": [
+        "robbers"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 776,
+      "sentLenMedian": 13.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0097,
+      "lowZipfWords": [
+        "cheered",
+        "emptied",
+        "lunchtime",
+        "robbers",
+        "spades"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 974,
+      "sentLenMedian": 15,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0205,
+      "lowZipfWords": [
+        "buns",
+        "dine",
+        "duller",
+        "emptied",
+        "gentleman's",
+        "howl",
+        "midday",
+        "piled",
+        "quieter",
+        "reasoned",
+        "robbers",
+        "scolding",
+        "shabby",
+        "silenced",
+        "spades",
+        "whispered"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1302,
+      "sentLenMedian": 22.0,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0472,
+      "lowZipfWords": [
+        "alluded",
+        "banisters",
+        "beaming",
+        "blotted",
+        "boundless",
+        "breathless",
+        "buns",
+        "chiefly",
+        "consented",
+        "consoled",
+        "courteous",
+        "cuffs",
+        "dine",
+        "dripping",
+        "duller",
+        "dusted",
+        "emptied",
+        "energetically",
+        "excavation",
+        "farthing",
+        "frighten",
+        "gentleman's",
+        "glimpsed",
+        "gripping",
+        "guest's",
+        "handsomely",
+        "hauled",
+        "howls",
+        "keenly",
+        "midday",
+        "murmured",
+        "muttered",
+        "outvoted",
+        "parcels",
+        "peering",
+        "quarrels",
+        "reasoned",
+        "robbers",
+        "scanty",
+        "scarcely",
+        "scolding",
+        "setback",
+        "shabby",
+        "shopkeepers",
+        "shrieked",
+        "sideboard",
+        "solemn",
+        "spade",
+        "spades",
+        "tablecloth",
+        "trailed",
+        "unearthed",
+        "weeping",
+        "whispered"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.913,
+      "coreCoverage": 0.9338,
+      "exempt": [
+        "treasure",
+        "uncle",
+        "newspaper"
+      ],
+      "wordCount": 322,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "coins(2)",
+        "poor(2)",
+        "brother(1)",
+        "hole(1)",
+        "garden(1)",
+        "earth(1)",
+        "legs(1)",
+        "laughed(1)",
+        "robbers(1)",
+        "prisoner(1)",
+        "cake(1)",
+        "dinner(1)",
+        "coat(1)",
+        "oranges(1)",
+        "nuts(1)",
+        "quietly(1)",
+        "rich(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9441,
+      "coreCoverage": 0.9624,
+      "exempt": [
+        "treasure",
+        "uncle",
+        "newspaper"
+      ],
+      "wordCount": 501,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "hole(3)",
+        "robbers(3)",
+        "cry(2)",
+        "coins(2)",
+        "kitchen(1)",
+        "cake(1)",
+        "dear(1)",
+        "dinner(1)",
+        "coat(1)",
+        "oranges(1)",
+        "nuts(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9485,
+      "coreCoverage": 0.9602,
+      "exempt": [
+        "treasure",
+        "uncle",
+        "newspaper"
+      ],
+      "wordCount": 776,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "coins(4)",
+        "robbers(3)",
+        "silver(2)",
+        "polite(2)",
+        "eldest(1)",
+        "twins(1)",
+        "wet(1)",
+        "dig(1)",
+        "spades(1)",
+        "digging(1)",
+        "lunchtime(1)",
+        "tight(1)",
+        "loudly(1)",
+        "dug(1)",
+        "cheered(1)",
+        "poems(1)",
+        "brave(1)",
+        "knight(1)",
+        "cake(1)",
+        "oranges(1)",
+        "nuts(1)",
+        "cab(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.963,
+      "coreCoverage": 0.9656,
+      "exempt": [
+        "treasure",
+        "uncle",
+        "newspaper"
+      ],
+      "wordCount": 974,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "robbers(4)",
+        "afterwards(3)",
+        "penny(3)",
+        "shabby(1)",
+        "eldest(1)",
+        "rainy(1)",
+        "spades(1)",
+        "sensible(1)",
+        "midday(1)",
+        "howl(1)",
+        "scolding(1)",
+        "pirates(1)",
+        "knight(1)",
+        "ink(1)",
+        "seriousness(1)",
+        "honorable(1)",
+        "polite(1)",
+        "buns(1)",
+        "duller(1)",
+        "seldom(1)",
+        "dine(1)",
+        "nuts(1)",
+        "dessert(1)",
+        "cab(1)",
+        "contrary(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.927,
+      "coreCoverage": 0.9265,
+      "exempt": [
+        "treasure",
+        "uncle",
+        "newspaper"
+      ],
+      "wordCount": 1302,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "robbers(4)",
+        "afterwards(2)",
+        "penny(2)",
+        "buns(2)",
+        "farthing(2)",
+        "dessert(2)",
+        "shabby(1)",
+        "vanished(1)",
+        "shopkeepers(1)",
+        "sideboard(1)",
+        "muttered(1)",
+        "eldest(1)",
+        "clever(1)",
+        "dripping(1)",
+        "inclined(1)",
+        "objection(1)",
+        "respectable(1)",
+        "equipped(1)",
+        "spades(1)",
+        "boundless(1)",
+        "optimism(1)",
+        "thoroughly(1)",
+        "sensible(1)",
+        "occupation(1)",
+        "midday(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9338,
+    "A2": 0.9624
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 4
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.2,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0291",
+        "title": "The Story of Doctor Dolittle",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0237",
+        "title": "Treasure Island (tek epizod)",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0014",
+        "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+        "titleJaccard": 0.125,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

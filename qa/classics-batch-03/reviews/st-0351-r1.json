@@ -1,0 +1,51 @@
+{
+  "id": "st-0351",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The story switches to a flashback without signalling it: \"He told his friends his story. / The sphere went down into black water.\" An A1 reader may think a second dive begins here. Consider opening the next paragraph with \"In his story, the sphere went down into black water.\"",
+        "\"Then some figures came to it.\" 'figures' (in the sense of shapes) is above beginner level; \"Then some strange animals came to it.\" or \"Then some strange people came to it.\" would be clearer.",
+        "\"Hours went by.\" could be \"They waited for many hours.\" for a true beginner; 'weight' and 'They put their heads down' are understandable from context."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error (unclear reference)",
+          "quote": "Three friends were on board: Elstead, Weybridge and Steevens. He wanted to go five miles down, to the ocean bottom.",
+          "problem": "'He' follows a list of three men, so the reader cannot tell who wanted to go down. Elstead has not yet been singled out at this level.",
+          "fix": "Three friends were on board: Elstead, Weybridge and Steevens. Elstead wanted to go five miles down, to the ocean bottom."
+        }
+      ],
+      "notes": [
+        "\"That night, Elstead told his friends his story. As the sphere went down...\" works as a flashback marker; fine at A2."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No conditionals or passives found; 'would pull' / 'would float' are future-in-the-past, not conditionals.",
+        "\"Its walls were thick enough to stand the great weight of the water above\" uses 'stand' in the less common sense of 'withstand'; acceptable, but 'hold back' would be easier."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": []
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Genuinely literary register; the worship scene and the closing paragraph are well handled and faithful in spirit to Wells."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling of Wells's 'In the Abyss' across all five levels, with correct quizzes and good level grading. A2 fails on a single concrete issue: an ambiguous 'He' right after the list of three friends in the opening paragraph. A1 passes but would benefit from an explicit flashback marker and replacing 'figures'."
+}

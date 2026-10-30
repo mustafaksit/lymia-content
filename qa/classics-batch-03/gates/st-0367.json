@@ -1,0 +1,648 @@
+{
+  "id": "st-0367",
+  "title": "Clod Hans",
+  "ts": "2026-10-30T10:24:34",
+  "node": {
+    "id": "st-0367",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %88.7 | 310 kelime\n    havuz dışı: brothers(1), princess(7), marry(2), horse(2), goat(3), crow(4), laughed(2), clog(2), mud(2), princess's(1), hot(2), brother(2), cooks(1), chickens(1), cook(1), pot(1), king(1)",
+        "level A2: A2: KALDI | kapsam %92.2 | 513 kelime\n    havuz dışı: clever(1), princess(14), horse(4), rode(1), goat(3), crow(4), clog(2), pockets(1), mud(3), cooks(1), chickens(2), cook(1), pot(1), pocket(1), king(1)",
+        "level B1: B1: KALDI | kapsam %93.2 | 806 kelime\n    havuz dışı: clever(4), dictionary(2), backwards(1), sew(1), drummer(1), princess(13), coal(1), rubbed(1), palace(1), can't(1), goat(3), loudly(1), crow(4), wooden(1), clog(2), ditch(1), mud(3), terribly(2), chickens(3), oven(1), pot(1), pan(1), sauce(1), poured(1), frighten(1), tossed(1), crown(1), throne(1)",
+        "level B2: B2: KALDI | kapsam %91.1 | 1028 kelime\n    havuz dışı: manor(1), squire(2), clever(3), elder(4), dictionary(3), recite(1), backwards(1), whichever(2), guilds(1), sewing(1), braces(1), third(1), princess(13), guild(1), rubbed(1), princess's(1), drummer(1), nonsense(1), splendid(1), can't(1), billy(1), goat(3), astride(1), heels(1), crow(4), clog(2), mud(4), ditch(1), suitor(1), townspeople(1), palace(1), suitors(1), vanish(1), terribly(2), clerks(3), alderman(5), roasting(3), dreadfully(1), stammered(1), furnace(1), roasted(1), roast(1), pan(1), gravy(1), pocketful(1), giggled(1), ink(1), gentlemen(1), tossed(1), neatly(1), crown(1), throne(1), alderman's(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8871,
+        "coreCoverage": 0.9345,
+        "exempt": [
+          "goat",
+          "crow",
+          "clog",
+          "princess"
+        ],
+        "wordCount": 310,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "marry(2)",
+          "horse(2)",
+          "laughed(2)",
+          "mud(2)",
+          "hot(2)",
+          "brother(2)",
+          "brothers(1)",
+          "cooks(1)",
+          "chickens(1)",
+          "cook(1)",
+          "pot(1)",
+          "king(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.922,
+        "coreCoverage": 0.9634,
+        "exempt": [
+          "goat",
+          "crow",
+          "clog",
+          "princess"
+        ],
+        "wordCount": 513,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "horse(4)",
+          "mud(3)",
+          "chickens(2)",
+          "clever(1)",
+          "rode(1)",
+          "pockets(1)",
+          "cooks(1)",
+          "cook(1)",
+          "pot(1)",
+          "pocket(1)",
+          "king(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9318,
+        "coreCoverage": 0.9561,
+        "exempt": [
+          "goat",
+          "crow",
+          "clog",
+          "princess"
+        ],
+        "wordCount": 806,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "clever(4)",
+          "mud(3)",
+          "chickens(3)",
+          "dictionary(2)",
+          "terribly(2)",
+          "backwards(1)",
+          "sew(1)",
+          "drummer(1)",
+          "coal(1)",
+          "rubbed(1)",
+          "palace(1)",
+          "can't(1)",
+          "loudly(1)",
+          "wooden(1)",
+          "ditch(1)",
+          "oven(1)",
+          "pot(1)",
+          "pan(1)",
+          "sauce(1)",
+          "poured(1)",
+          "frighten(1)",
+          "tossed(1)",
+          "crown(1)",
+          "throne(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9105,
+        "coreCoverage": 0.9292,
+        "exempt": [
+          "goat",
+          "crow",
+          "clog",
+          "princess"
+        ],
+        "wordCount": 1028,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "alderman(5)",
+          "elder(4)",
+          "mud(4)",
+          "clever(3)",
+          "dictionary(3)",
+          "clerks(3)",
+          "roasting(3)",
+          "squire(2)",
+          "whichever(2)",
+          "terribly(2)",
+          "manor(1)",
+          "recite(1)",
+          "backwards(1)",
+          "guilds(1)",
+          "sewing(1)",
+          "braces(1)",
+          "third(1)",
+          "guild(1)",
+          "rubbed(1)",
+          "drummer(1)",
+          "nonsense(1)",
+          "splendid(1)",
+          "can't(1)",
+          "billy(1)",
+          "astride(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9006,
+        "coreCoverage": 0.9157,
+        "exempt": [
+          "goat",
+          "crow",
+          "clog",
+          "princess"
+        ],
+        "wordCount": 1298,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "alderman(6)",
+          "elder(4)",
+          "dictionary(3)",
+          "mud(3)",
+          "clerks(3)",
+          "roasting(3)",
+          "squire(2)",
+          "guild(2)",
+          "third(2)",
+          "suitors(2)",
+          "countryside(1)",
+          "manor(1)",
+          "clever(1)",
+          "cleverness(1)",
+          "whichever(1)",
+          "crammed(1)",
+          "bound(1)",
+          "memorized(1)",
+          "recite(1)",
+          "backwards(1)",
+          "statute(1)",
+          "guilds(1)",
+          "delicate(1)",
+          "sewing(1)",
+          "braces(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 310,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.2,
+      "lowZipfRatio": 0.0072,
+      "lowZipfWords": [
+        "princess's",
+        "talker"
+      ],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 513,
+      "sentLenMedian": 8.0,
+      "zipfMedian": 6.14,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 23,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 806,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.004,
+      "lowZipfWords": [
+        "frighten",
+        "official's",
+        "sew"
+      ],
+      "keyTermTokens": 22,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1028,
+      "sentLenMedian": 12,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0318,
+      "lowZipfWords": [
+        "alderman",
+        "alderman's",
+        "astride",
+        "braces",
+        "clerks",
+        "dreadfully",
+        "fared",
+        "frighten",
+        "giggled",
+        "gravy",
+        "guilds",
+        "neatly",
+        "pocketful",
+        "princess's",
+        "recite",
+        "roasting",
+        "squire",
+        "stammered",
+        "suitor",
+        "suitors",
+        "townspeople",
+        "vanish"
+      ],
+      "keyTermTokens": 22,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1298,
+      "sentLenMedian": 23,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.0458,
+      "lowZipfWords": [
+        "alarmed",
+        "alderman",
+        "alderman's",
+        "aloft",
+        "astonish",
+        "astride",
+        "barnyard",
+        "bellowing",
+        "braces",
+        "careering",
+        "clerks",
+        "cleverness",
+        "crammed",
+        "dazzling",
+        "dignified",
+        "dismay",
+        "doubted",
+        "dreadfully",
+        "eloquence",
+        "exclaimed",
+        "fared",
+        "feeble",
+        "gazing",
+        "giggled",
+        "glanced",
+        "gravy",
+        "guilds",
+        "memorized",
+        "neatly",
+        "pocketful",
+        "princess's",
+        "recite",
+        "rehearsing",
+        "roasting",
+        "spattered",
+        "spurring",
+        "squarely",
+        "squire",
+        "stiflingly",
+        "stuffing",
+        "suitors",
+        "townsfolk",
+        "trotting",
+        "undismayed",
+        "unsettle",
+        "wrinkling"
+      ],
+      "keyTermTokens": 23,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8871,
+      "coreCoverage": 0.9345,
+      "exempt": [
+        "goat",
+        "crow",
+        "clog",
+        "princess"
+      ],
+      "wordCount": 310,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "marry(2)",
+        "horse(2)",
+        "laughed(2)",
+        "mud(2)",
+        "hot(2)",
+        "brother(2)",
+        "brothers(1)",
+        "cooks(1)",
+        "chickens(1)",
+        "cook(1)",
+        "pot(1)",
+        "king(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.922,
+      "coreCoverage": 0.9634,
+      "exempt": [
+        "goat",
+        "crow",
+        "clog",
+        "princess"
+      ],
+      "wordCount": 513,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "horse(4)",
+        "mud(3)",
+        "chickens(2)",
+        "clever(1)",
+        "rode(1)",
+        "pockets(1)",
+        "cooks(1)",
+        "cook(1)",
+        "pot(1)",
+        "pocket(1)",
+        "king(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9318,
+      "coreCoverage": 0.9561,
+      "exempt": [
+        "goat",
+        "crow",
+        "clog",
+        "princess"
+      ],
+      "wordCount": 806,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "clever(4)",
+        "mud(3)",
+        "chickens(3)",
+        "dictionary(2)",
+        "terribly(2)",
+        "backwards(1)",
+        "sew(1)",
+        "drummer(1)",
+        "coal(1)",
+        "rubbed(1)",
+        "palace(1)",
+        "can't(1)",
+        "loudly(1)",
+        "wooden(1)",
+        "ditch(1)",
+        "oven(1)",
+        "pot(1)",
+        "pan(1)",
+        "sauce(1)",
+        "poured(1)",
+        "frighten(1)",
+        "tossed(1)",
+        "crown(1)",
+        "throne(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9105,
+      "coreCoverage": 0.9292,
+      "exempt": [
+        "goat",
+        "crow",
+        "clog",
+        "princess"
+      ],
+      "wordCount": 1028,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "alderman(5)",
+        "elder(4)",
+        "mud(4)",
+        "clever(3)",
+        "dictionary(3)",
+        "clerks(3)",
+        "roasting(3)",
+        "squire(2)",
+        "whichever(2)",
+        "terribly(2)",
+        "manor(1)",
+        "recite(1)",
+        "backwards(1)",
+        "guilds(1)",
+        "sewing(1)",
+        "braces(1)",
+        "third(1)",
+        "guild(1)",
+        "rubbed(1)",
+        "drummer(1)",
+        "nonsense(1)",
+        "splendid(1)",
+        "can't(1)",
+        "billy(1)",
+        "astride(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9006,
+      "coreCoverage": 0.9157,
+      "exempt": [
+        "goat",
+        "crow",
+        "clog",
+        "princess"
+      ],
+      "wordCount": 1298,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "alderman(6)",
+        "elder(4)",
+        "dictionary(3)",
+        "mud(3)",
+        "clerks(3)",
+        "roasting(3)",
+        "squire(2)",
+        "guild(2)",
+        "third(2)",
+        "suitors(2)",
+        "countryside(1)",
+        "manor(1)",
+        "clever(1)",
+        "cleverness(1)",
+        "whichever(1)",
+        "crammed(1)",
+        "bound(1)",
+        "memorized(1)",
+        "recite(1)",
+        "backwards(1)",
+        "statute(1)",
+        "guilds(1)",
+        "delicate(1)",
+        "sewing(1)",
+        "braces(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9345,
+    "A2": 0.9634
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.069,
+      "a1FiveGramOverlap": 0.007
+    },
+    "top3": [
+      {
+        "id": "st-0207",
+        "title": "The Fool of the World and the Flying Ship",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.069,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0317",
+        "title": "Dummling and the Golden Goose",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.007
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

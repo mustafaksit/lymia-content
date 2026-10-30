@@ -1,0 +1,563 @@
+{
+  "id": "st-0356",
+  "title": "The Clock That Went Backward",
+  "ts": "2026-10-30T10:24:20",
+  "node": {
+    "id": "st-0356",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %93.0 | 330 kelime\n    havuz dışı: cousins(2), boys(1), clock(13), key(1), siege(1), hungry(2), tired(1), leader's(1), corner(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9303,
+        "coreCoverage": 0.9669,
+        "exempt": [
+          "clock",
+          "time",
+          "siege"
+        ],
+        "wordCount": 330,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cousins(2)",
+          "hungry(2)",
+          "boys(1)",
+          "key(1)",
+          "tired(1)",
+          "leader's(1)",
+          "corner(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9824,
+        "coreCoverage": 0.9823,
+        "exempt": [
+          "clock",
+          "time",
+          "siege"
+        ],
+        "wordCount": 510,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cousins(3)",
+          "hungry(2)",
+          "tired(2)",
+          "cousin(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.966,
+        "coreCoverage": 0.9642,
+        "exempt": [
+          "clock",
+          "time",
+          "siege"
+        ],
+        "wordCount": 736,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ticking(4)",
+          "hungry(4)",
+          "cousins(3)",
+          "backward(3)",
+          "pale(2)",
+          "louder(2)",
+          "cousin(1)",
+          "clockmaker(1)",
+          "brave(1)",
+          "darkness(1)",
+          "terribly(1)",
+          "hurried(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.97,
+        "coreCoverage": 0.9688,
+        "exempt": [
+          "clock",
+          "time",
+          "siege"
+        ],
+        "wordCount": 967,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ticking(5)",
+          "backward(4)",
+          "hungry(4)",
+          "cobblestones(2)",
+          "boyhood(1)",
+          "creep(1)",
+          "brass(1)",
+          "peacefully(1)",
+          "nephews(1)",
+          "clockmaker(1)",
+          "desperately(1)",
+          "begged(1)",
+          "brave(1)",
+          "nodded(1)",
+          "brick(1)",
+          "terribly(1)",
+          "tilted(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9523,
+        "coreCoverage": 0.9504,
+        "exempt": [
+          "clock",
+          "time",
+          "siege"
+        ],
+        "wordCount": 1322,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ticking(5)",
+          "backward(4)",
+          "hungry(3)",
+          "drained(2)",
+          "cobblestones(2)",
+          "boyhood(1)",
+          "rambling(1)",
+          "polished(1)",
+          "crept(1)",
+          "deliberately(1)",
+          "lap(1)",
+          "devotion(1)",
+          "brass(1)",
+          "ribbon(1)",
+          "urgency(1)",
+          "peacefully(1)",
+          "nephews(1)",
+          "lodgings(1)",
+          "resumed(1)",
+          "absent(1)",
+          "instant(1)",
+          "clockmaker(1)",
+          "unoffended(1)",
+          "loaf(1)",
+          "desperately(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_MOUTH_TO_MOUTH",
+          "cat": "MISC",
+          "msg": "This word is normally spelled with a hyphen.",
+          "frag": "mouth to mouth",
+          "ctx": " someone cried, and the cry passed from mouth to mouth. \"Give up the city, and let us live!\"  "
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 330,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0037,
+      "lowZipfWords": [
+        "leader's"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 510,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0022,
+      "lowZipfWords": [
+        "leader's"
+      ],
+      "keyTermTokens": 17,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 736,
+      "sentLenMedian": 12,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0119,
+      "lowZipfWords": [
+        "clockmaker",
+        "hurried",
+        "leader's",
+        "professor's",
+        "ticking"
+      ],
+      "keyTermTokens": 19,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 967,
+      "sentLenMedian": 16.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.02,
+      "lowZipfWords": [
+        "bordered",
+        "boyhood",
+        "clockmaker",
+        "cobblestones",
+        "hurried",
+        "mayor's",
+        "nephews",
+        "nodded",
+        "professor's",
+        "tenderly",
+        "ticking",
+        "tilted",
+        "whispered"
+      ],
+      "keyTermTokens": 20,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1322,
+      "sentLenMedian": 22,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0311,
+      "lowZipfWords": [
+        "blinking",
+        "bordered",
+        "boyhood",
+        "breathed",
+        "clock's",
+        "clockmaker",
+        "cobblestones",
+        "cousin's",
+        "crept",
+        "dissolve",
+        "eagerness",
+        "faithfully",
+        "gripping",
+        "hurried",
+        "lamplight",
+        "loaf",
+        "lodgings",
+        "mayor's",
+        "murmur",
+        "nephews",
+        "nodded",
+        "patiently",
+        "professor's",
+        "rambling",
+        "striding",
+        "swelled",
+        "tenderly",
+        "ticking",
+        "unhurried",
+        "unoffended",
+        "unshakable",
+        "visibly",
+        "wavered",
+        "whispered"
+      ],
+      "keyTermTokens": 21,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9303,
+      "coreCoverage": 0.9669,
+      "exempt": [
+        "clock",
+        "time",
+        "siege"
+      ],
+      "wordCount": 330,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cousins(2)",
+        "hungry(2)",
+        "boys(1)",
+        "key(1)",
+        "tired(1)",
+        "leader's(1)",
+        "corner(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9824,
+      "coreCoverage": 0.9823,
+      "exempt": [
+        "clock",
+        "time",
+        "siege"
+      ],
+      "wordCount": 510,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cousins(3)",
+        "hungry(2)",
+        "tired(2)",
+        "cousin(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.966,
+      "coreCoverage": 0.9642,
+      "exempt": [
+        "clock",
+        "time",
+        "siege"
+      ],
+      "wordCount": 736,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ticking(4)",
+        "hungry(4)",
+        "cousins(3)",
+        "backward(3)",
+        "pale(2)",
+        "louder(2)",
+        "cousin(1)",
+        "clockmaker(1)",
+        "brave(1)",
+        "darkness(1)",
+        "terribly(1)",
+        "hurried(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.97,
+      "coreCoverage": 0.9688,
+      "exempt": [
+        "clock",
+        "time",
+        "siege"
+      ],
+      "wordCount": 967,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ticking(5)",
+        "backward(4)",
+        "hungry(4)",
+        "cobblestones(2)",
+        "boyhood(1)",
+        "creep(1)",
+        "brass(1)",
+        "peacefully(1)",
+        "nephews(1)",
+        "clockmaker(1)",
+        "desperately(1)",
+        "begged(1)",
+        "brave(1)",
+        "nodded(1)",
+        "brick(1)",
+        "terribly(1)",
+        "tilted(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9523,
+      "coreCoverage": 0.9504,
+      "exempt": [
+        "clock",
+        "time",
+        "siege"
+      ],
+      "wordCount": 1322,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ticking(5)",
+        "backward(4)",
+        "hungry(3)",
+        "drained(2)",
+        "cobblestones(2)",
+        "boyhood(1)",
+        "rambling(1)",
+        "polished(1)",
+        "crept(1)",
+        "deliberately(1)",
+        "lap(1)",
+        "devotion(1)",
+        "brass(1)",
+        "ribbon(1)",
+        "urgency(1)",
+        "peacefully(1)",
+        "nephews(1)",
+        "lodgings(1)",
+        "resumed(1)",
+        "absent(1)",
+        "instant(1)",
+        "clockmaker(1)",
+        "unoffended(1)",
+        "loaf(1)",
+        "desperately(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9669,
+    "A2": 0.9823
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 5
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.2,
+      "summary3gramJaccard": 0.034,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0019",
+        "title": "The Midnight Clock",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0025",
+        "title": "The Whispering Library Clock",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0131",
+        "title": "The Goose That Laid the Golden Eggs",
+        "titleJaccard": 0.125,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

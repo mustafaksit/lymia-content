@@ -13,6 +13,7 @@ from batch import V2 as _V2, batch_dir  # noqa: E402
 
 QA = batch_dir()
 V2 = _V2 / "stories"
+SOURCES = json.loads((_V2 / "sources.json").read_text()).get("stories", {})
 
 
 def main():
@@ -22,6 +23,10 @@ def main():
     for sid in sys.argv[2:]:
         s = json.loads((V2 / f"{sid}.json").read_text())
         lines = [f"# {s['title']}", "", f"Summary: {s['summary']}", ""]
+        # Kriter 7 (A1 anlasilirlik) icin sozlukte aciklanmis sayilan anahtar kelimeler.
+        key = SOURCES.get(sid, {}).get("keyTerms", [])[:5]
+        if key:
+            lines += [f"Glossed key words (A1/A2): {', '.join(key)}", ""]
         for lvl, lv in s["levels"].items():
             lines += [f"## Level {lvl}", ""]
             for p in lv["paragraphs"]:

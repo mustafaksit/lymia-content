@@ -150,8 +150,13 @@ Kapilar: 1 sema (uygulama zod), 2 D1-D5 + audit --strict, 3 LanguageTool 0 hata,
 - LanguageTool yanlis-pozitifi gibi gorunse bile cumleyi yeniden kur (ornek: "filled
   every corner of" -> baska ifade). Kural ignore etme.
 - Yasak yapi taramasi heuristiktir; yakaladigi her cumleyi seviyeye uygun yeniden yaz.
-- NGSL kapsami (profil satirindaki `ngsl`) uyari duzeyindedir; A1'de >= %92, A2-B2'de
-  >= %95 hedefle ama dogallik icin "fire source" gibi yapay ifadeye kacma.
+- NGSL kapsami (profil satirindaki `ngsl`) B1-C1'de uyari duzeyindedir (B1-B2 >= %95 hedefle).
+- **4c cekirdek kapsam (batch-03'ten itibaren KAPI):** A1 `core` >= 0.92 (NGSL-500 + ek liste),
+  A2 `core` >= 0.95 (NGSL-1000). Ozel isimler ve sources `keyTerms`'un ilk 5'i muaftir; geri
+  kalan her kelime listeden olmali. Kapi kalinca hata satiri liste disi kelimeleri sayilariyla
+  verir: her birini listede olan basit karsiligiyla degistir (gaze -> look, whisper -> say
+  quietly, enormous -> very big). Hikayeye ozgu bir kelime gerekiyorsa once keyTerms'te mi bak.
+  Dogallik yine sart: "fire source" gibi yapay ifadeye kacma, cumleyi yeniden kur.
 
 ## Teslim (son mesajin)
 

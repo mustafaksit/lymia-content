@@ -1,0 +1,661 @@
+{
+  "id": "st-0364",
+  "title": "King Thrushbeard",
+  "ts": "2026-10-30T10:24:30",
+  "node": {
+    "id": "st-0364",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %86.6 | 351 kelime\n    havuz dışı: princess(10), pride(3), marry(3), laughed(2), king(1), chin(1), bird's(1), mouth(1), beggar(6), sang(1), married(1), laugh(1), pots(5), horse(2), castle(2), kitchen(1), wedding(2), dance(1), inside(1), afraid(1), wrong(1)",
+        "level A2: A2: KALDI | kapsam %90.4 | 532 kelime\n    havuz dışı: princess(13), pride(3), unkind(1), king(2), chin(1), mouth(1), bird(1), angry(1), beggar(9), afraid(2), pots(5), horse(2), pot(1), castle(3), kitchen(2), wedding(3), stairs(1)",
+        "level B1: B1: KALDI | kapsam %91.5 | 798 kelime\n    havuz dışı: feast(2), princess(14), crooked(1), chin(2), thrush's(1), beak(1), beggar(11), castle(5), coins(1), servants(3), frightened(1), beggar's(1), meadow(1), baskets(1), spin(1), thread(1), pots(9), maid(2), dirtiest(1), candles(1), pride(2), silk(1), string(1), soup(1), stairs(1), maids(1), joy(1)",
+        "level B2: B2: KALDI | kapsam %94.0 | 1116 kelime\n    havuz dışı: feast(2), princess(13), sways(1), third(1), fourth(1), rooster(1), chin(2), crooked(1), thrush's(1), beak(1), furious(1), mocked(2), beggar(11), beggar's(1), foolish(1), meadow(1), splendid(2), annoyed(1), supper(1), fetched(1), willow(1), weave(1), baskets(1), thread(1), horseback(1), galloping(1), maid(2), leftover(1), upstairs(1), candles(1), silk(1), velvet(1), fright(1), soup(1), swallow(1), soften(1), wept(1), bitterly(1), worthy(1), maids(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8661,
+        "coreCoverage": 0.9299,
+        "exempt": [
+          "princess",
+          "beggar",
+          "pots",
+          "pride"
+        ],
+        "wordCount": 351,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "marry(3)",
+          "laughed(2)",
+          "horse(2)",
+          "castle(2)",
+          "wedding(2)",
+          "chin(1)",
+          "bird's(1)",
+          "mouth(1)",
+          "sang(1)",
+          "married(1)",
+          "laugh(1)",
+          "kitchen(1)",
+          "dance(1)",
+          "inside(1)",
+          "afraid(1)",
+          "wrong(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9041,
+        "coreCoverage": 0.9629,
+        "exempt": [
+          "princess",
+          "beggar",
+          "pots",
+          "pride"
+        ],
+        "wordCount": 532,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "castle(3)",
+          "wedding(3)",
+          "afraid(2)",
+          "horse(2)",
+          "kitchen(2)",
+          "unkind(1)",
+          "chin(1)",
+          "mouth(1)",
+          "bird(1)",
+          "angry(1)",
+          "stairs(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9148,
+        "coreCoverage": 0.9581,
+        "exempt": [
+          "princess",
+          "beggar",
+          "pots",
+          "pride"
+        ],
+        "wordCount": 798,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "castle(5)",
+          "servants(3)",
+          "feast(2)",
+          "chin(2)",
+          "maid(2)",
+          "crooked(1)",
+          "thrush's(1)",
+          "beak(1)",
+          "coins(1)",
+          "frightened(1)",
+          "meadow(1)",
+          "baskets(1)",
+          "spin(1)",
+          "thread(1)",
+          "dirtiest(1)",
+          "candles(1)",
+          "silk(1)",
+          "string(1)",
+          "soup(1)",
+          "stairs(1)",
+          "maids(1)",
+          "joy(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.94,
+        "coreCoverage": 0.9603,
+        "exempt": [
+          "princess",
+          "beggar",
+          "pots",
+          "pride"
+        ],
+        "wordCount": 1116,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "feast(2)",
+          "chin(2)",
+          "mocked(2)",
+          "splendid(2)",
+          "maid(2)",
+          "sways(1)",
+          "third(1)",
+          "fourth(1)",
+          "rooster(1)",
+          "crooked(1)",
+          "thrush's(1)",
+          "beak(1)",
+          "furious(1)",
+          "foolish(1)",
+          "meadow(1)",
+          "annoyed(1)",
+          "supper(1)",
+          "fetched(1)",
+          "willow(1)",
+          "weave(1)",
+          "baskets(1)",
+          "thread(1)",
+          "horseback(1)",
+          "galloping(1)",
+          "leftover(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9207,
+        "coreCoverage": 0.9338,
+        "exempt": [
+          "princess",
+          "beggar",
+          "pots",
+          "pride"
+        ],
+        "wordCount": 1488,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "suitor(3)",
+          "haughty(2)",
+          "feast(2)",
+          "chin(2)",
+          "rags(2)",
+          "splendid(2)",
+          "hut(2)",
+          "maid(2)",
+          "doorway(2)",
+          "bitterly(2)",
+          "mocked(2)",
+          "mockery(1)",
+          "dukes(1)",
+          "barons(1)",
+          "pumpkin(1)",
+          "likened(1)",
+          "swaying(1)",
+          "third(1)",
+          "stout(1)",
+          "fourth(1)",
+          "fifth(1)",
+          "rooster(1)",
+          "farmyard(1)",
+          "sixth(1)",
+          "stove(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "She",
+          "ctx": "knew his face: it was King Thrushbeard. She once laughed at him at her father's fea"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 351,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.26,
+      "lowZipfRatio": 0.0032,
+      "lowZipfWords": [
+        "bird's"
+      ],
+      "keyTermTokens": 24,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 532,
+      "sentLenMedian": 8.0,
+      "zipfMedian": 6.26,
+      "lowZipfRatio": 0.0021,
+      "lowZipfWords": [
+        "unkind"
+      ],
+      "keyTermTokens": 30,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 798,
+      "sentLenMedian": 11.0,
+      "zipfMedian": 6.26,
+      "lowZipfRatio": 0.008,
+      "lowZipfWords": [
+        "baskets",
+        "beak",
+        "beggar's",
+        "dirtiest",
+        "maids",
+        "thrush's"
+      ],
+      "keyTermTokens": 36,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1116,
+      "sentLenMedian": 12.0,
+      "zipfMedian": 6.26,
+      "lowZipfRatio": 0.0187,
+      "lowZipfWords": [
+        "baskets",
+        "beak",
+        "beggar's",
+        "bitterly",
+        "dirtiest",
+        "fetched",
+        "fright",
+        "galloping",
+        "horseback",
+        "leftover",
+        "maids",
+        "mocked",
+        "regretted",
+        "rooster",
+        "sighed",
+        "soften",
+        "sways",
+        "thrush's",
+        "wept"
+      ],
+      "keyTermTokens": 35,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1488,
+      "sentLenMedian": 17.0,
+      "zipfMedian": 6.2,
+      "lowZipfRatio": 0.0366,
+      "lowZipfWords": [
+        "barons",
+        "baskets",
+        "beak",
+        "beggar's",
+        "bitterly",
+        "bowed",
+        "clothed",
+        "coldly",
+        "crept",
+        "cruelly",
+        "dirtiest",
+        "dukes",
+        "fared",
+        "farmyard",
+        "fastened",
+        "fright",
+        "galloping",
+        "haughty",
+        "horrified",
+        "horseback",
+        "leftover",
+        "likened",
+        "longed",
+        "maids",
+        "misfortune",
+        "mocked",
+        "mockery",
+        "morsel",
+        "plunged",
+        "rags",
+        "regretted",
+        "relent",
+        "richly",
+        "rooster",
+        "scraps",
+        "sharpest",
+        "sighed",
+        "splendor",
+        "stoop",
+        "stout",
+        "suitor",
+        "swaying",
+        "thrush's",
+        "wares",
+        "wept",
+        "wretched"
+      ],
+      "keyTermTokens": 27,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8661,
+      "coreCoverage": 0.9299,
+      "exempt": [
+        "princess",
+        "beggar",
+        "pots",
+        "pride"
+      ],
+      "wordCount": 351,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "marry(3)",
+        "laughed(2)",
+        "horse(2)",
+        "castle(2)",
+        "wedding(2)",
+        "chin(1)",
+        "bird's(1)",
+        "mouth(1)",
+        "sang(1)",
+        "married(1)",
+        "laugh(1)",
+        "kitchen(1)",
+        "dance(1)",
+        "inside(1)",
+        "afraid(1)",
+        "wrong(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9041,
+      "coreCoverage": 0.9629,
+      "exempt": [
+        "princess",
+        "beggar",
+        "pots",
+        "pride"
+      ],
+      "wordCount": 532,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "castle(3)",
+        "wedding(3)",
+        "afraid(2)",
+        "horse(2)",
+        "kitchen(2)",
+        "unkind(1)",
+        "chin(1)",
+        "mouth(1)",
+        "bird(1)",
+        "angry(1)",
+        "stairs(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9148,
+      "coreCoverage": 0.9581,
+      "exempt": [
+        "princess",
+        "beggar",
+        "pots",
+        "pride"
+      ],
+      "wordCount": 798,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "castle(5)",
+        "servants(3)",
+        "feast(2)",
+        "chin(2)",
+        "maid(2)",
+        "crooked(1)",
+        "thrush's(1)",
+        "beak(1)",
+        "coins(1)",
+        "frightened(1)",
+        "meadow(1)",
+        "baskets(1)",
+        "spin(1)",
+        "thread(1)",
+        "dirtiest(1)",
+        "candles(1)",
+        "silk(1)",
+        "string(1)",
+        "soup(1)",
+        "stairs(1)",
+        "maids(1)",
+        "joy(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.94,
+      "coreCoverage": 0.9603,
+      "exempt": [
+        "princess",
+        "beggar",
+        "pots",
+        "pride"
+      ],
+      "wordCount": 1116,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "feast(2)",
+        "chin(2)",
+        "mocked(2)",
+        "splendid(2)",
+        "maid(2)",
+        "sways(1)",
+        "third(1)",
+        "fourth(1)",
+        "rooster(1)",
+        "crooked(1)",
+        "thrush's(1)",
+        "beak(1)",
+        "furious(1)",
+        "foolish(1)",
+        "meadow(1)",
+        "annoyed(1)",
+        "supper(1)",
+        "fetched(1)",
+        "willow(1)",
+        "weave(1)",
+        "baskets(1)",
+        "thread(1)",
+        "horseback(1)",
+        "galloping(1)",
+        "leftover(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9207,
+      "coreCoverage": 0.9338,
+      "exempt": [
+        "princess",
+        "beggar",
+        "pots",
+        "pride"
+      ],
+      "wordCount": 1488,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "suitor(3)",
+        "haughty(2)",
+        "feast(2)",
+        "chin(2)",
+        "rags(2)",
+        "splendid(2)",
+        "hut(2)",
+        "maid(2)",
+        "doorway(2)",
+        "bitterly(2)",
+        "mocked(2)",
+        "mockery(1)",
+        "dukes(1)",
+        "barons(1)",
+        "pumpkin(1)",
+        "likened(1)",
+        "swaying(1)",
+        "third(1)",
+        "stout(1)",
+        "fourth(1)",
+        "fifth(1)",
+        "rooster(1)",
+        "farmyard(1)",
+        "sixth(1)",
+        "stove(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9299,
+    "A2": 0.9629
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.25,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.006
+    },
+    "top3": [
+      {
+        "id": "st-0318",
+        "title": "The Nutcracker and the Mouse King",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0313",
+        "title": "King Midas and the Golden Touch",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0160",
+        "title": "The Frogs Who Wished for a King",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}
