@@ -180,9 +180,20 @@ def structure_hits(level, s):
 
 # ---------------------------------------------------------------- kapilar
 
+def find_app_repo():
+    """lymia-app kok dizini: icerik reposu lymia-app/lymia-content altinda durur
+    (worktree'ler de onun altinda), eski duzende ise kardes ../lymia-app'tir."""
+    for d in ROOT.parents:
+        if (d / "src/services/schemas.ts").exists():
+            return d
+        if (d / "lymia-app/src/services/schemas.ts").exists():
+            return d / "lymia-app"
+    return ROOT.parent / "lymia-app"
+
+
 def gate_node(path, exempt=(), names=()):
     env = dict(os.environ)
-    env.setdefault("APP_REPO", str(ROOT.parent / "lymia-app"))
+    env.setdefault("APP_REPO", str(find_app_repo()))
     cmd = ["node", str(HERE / "gate-node.mjs"), str(path)]
     if exempt:
         cmd += ["--exempt", ",".join(exempt)]

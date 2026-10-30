@@ -8,7 +8,8 @@
  *   +  NGSL kapsam / cumle tavani (pipeline/lib/validate.mjs) -> seviye profiline rapor
  *
  * Kullanim: node gate-node.mjs <story.json> [--index content/v2/index.json]
- * APP_REPO env: lymia-app kok dizini (varsayilan: ../lymia-app kardes dizin).
+ * APP_REPO env: lymia-app kok dizini (varsayilan: yukari dogru aranir; icerik reposu
+ * lymia-app/lymia-content altinda, eski duzende kardes ../lymia-app).
  */
 import { execFileSync } from 'node:child_process';
 import { readFileSync, existsSync } from 'node:fs';
@@ -21,7 +22,14 @@ const { detectLevel } = await import(pathToFileURL(path.join(ROOT, 'pipeline/lib
 const { validateStory } = await import(pathToFileURL(path.join(ROOT, 'pipeline/lib/validate.mjs')));
 const { lemmaCandidates, tokenizeWords } = await import(pathToFileURL(path.join(ROOT, 'pipeline/lib/tokenize.mjs')));
 
-const APP_REPO = process.env.APP_REPO || path.resolve(ROOT, '../lymia-app');
+const APP_REPO = process.env.APP_REPO || findAppRepo();
+function findAppRepo() {
+  for (let d = path.dirname(ROOT); d !== path.dirname(d); d = path.dirname(d)) {
+    if (existsSync(path.join(d, 'src/services/schemas.ts'))) return d;
+    if (existsSync(path.join(d, 'lymia-app/src/services/schemas.ts'))) return path.join(d, 'lymia-app');
+  }
+  return path.resolve(ROOT, '../lymia-app');
+}
 const appSchemas = path.join(APP_REPO, 'src/services/schemas.ts');
 if (!existsSync(appSchemas)) {
   console.error(`app schemas.ts bulunamadi: ${appSchemas} (APP_REPO env ile ver)`);
