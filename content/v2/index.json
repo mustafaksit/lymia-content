@@ -7760,6 +7760,1556 @@
       "cover": "covers/st-0322-pending.webp",
       "isNew": true,
       "order": 250
+    },
+    {
+      "id": "st-0339",
+      "slug": "sense-and-sensibility",
+      "title": "Sense and Sensibility",
+      "summary": "Two very different sisters move to a small cottage and learn hard lessons about love.",
+      "genre": "romance",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 319,
+        "A2": 514,
+        "B1": 749,
+        "B2": 1020,
+        "C1": 1513
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 12
+      },
+      "cover": "covers/st-0339-pending.webp",
+      "isNew": true,
+      "order": 251
+    },
+    {
+      "id": "st-0327",
+      "slug": "william-tell",
+      "title": "William Tell",
+      "summary": "A quiet mountain hunter refuses to bow to a proud governor's hat and faces a hard test.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 313,
+        "A2": 493,
+        "B1": 695,
+        "B2": 1015,
+        "C1": 1414
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 5,
+        "B2": 8,
+        "C1": 11
+      },
+      "cover": "covers/st-0327-pending.webp",
+      "isNew": true,
+      "order": 252
+    },
+    {
+      "id": "st-0363",
+      "slug": "hans-in-luck",
+      "title": "Hans in Luck",
+      "summary": "After seven years of work, a cheerful young man sets off for home with a lump of gold.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 324,
+        "A2": 516,
+        "B1": 796,
+        "B2": 1027,
+        "C1": 1435
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 11
+      },
+      "cover": "covers/st-0363-pending.webp",
+      "isNew": true,
+      "order": 253
+    },
+    {
+      "id": "st-0326",
+      "slug": "robin-hood-and-little-john",
+      "title": "Robin Hood and Little John",
+      "summary": "Bored in the forest, Robin Hood goes looking for adventure and meets a giant stranger on a narrow bridge.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 330,
+        "A2": 513,
+        "B1": 750,
+        "B2": 1019,
+        "C1": 1447
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 11
+      },
+      "cover": "covers/st-0326-pending.webp",
+      "isNew": true,
+      "order": 254
+    },
+    {
+      "id": "st-0324",
+      "slug": "nils-and-the-wild-geese",
+      "title": "Nils and the Wild Geese",
+      "summary": "A lazy farm boy is made tiny by an elf and flies across Sweden on a white goose.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 329,
+        "A2": 517,
+        "B1": 773,
+        "B2": 1035,
+        "C1": 1529
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 12
+      },
+      "cover": "covers/st-0324-pending.webp",
+      "isNew": true,
+      "order": 255
+    },
+    {
+      "id": "st-0323",
+      "slug": "the-swiss-family-robinson",
+      "title": "The Swiss Family Robinson",
+      "summary": "After a shipwreck, a father, a mother and their four sons build a new life on a lonely island.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 324,
+        "A2": 498,
+        "B1": 828,
+        "B2": 1043,
+        "C1": 1382
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 11
+      },
+      "cover": "covers/st-0323-pending.webp",
+      "isNew": true,
+      "order": 256
+    },
+    {
+      "id": "st-0329",
+      "slug": "thor-s-journey-to-utgard",
+      "title": "Thor's Journey to Utgard",
+      "summary": "Thor and his friends visit a castle of giants and take part in some very strange contests.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 339,
+        "A2": 528,
+        "B1": 821,
+        "B2": 1093,
+        "C1": 1443
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 11
+      },
+      "cover": "covers/st-0329-pending.webp",
+      "isNew": true,
+      "order": 257
+    },
+    {
+      "id": "st-0331",
+      "slug": "prince-ahmed-and-the-fairy-peri-banou",
+      "title": "Prince Ahmed and the Fairy Peri Banou",
+      "summary": "Three princes search distant lands for the rarest gift to win the cousin they all love.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 308,
+        "A2": 506,
+        "B1": 786,
+        "B2": 1116,
+        "C1": 1524
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0331-pending.webp",
+      "isNew": true,
+      "order": 258
+    },
+    {
+      "id": "st-0328",
+      "slug": "sadko-and-the-sea-king",
+      "title": "Sadko and the Sea King",
+      "summary": "A poor musician from Novgorod plays for the Sea King and goes on a long journey.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 330,
+        "A2": 509,
+        "B1": 808,
+        "B2": 1039,
+        "C1": 1369
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 11
+      },
+      "cover": "covers/st-0328-pending.webp",
+      "isNew": true,
+      "order": 259
+    },
+    {
+      "id": "st-0325",
+      "slug": "gulliver-in-the-land-of-giants",
+      "title": "Gulliver in the Land of Giants",
+      "summary": "A traveler from England lands in a country of giants, where a kind girl looks after him.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 329,
+        "A2": 496,
+        "B1": 817,
+        "B2": 1097,
+        "C1": 1494
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0325-pending.webp",
+      "isNew": true,
+      "order": 260
+    },
+    {
+      "id": "st-0330",
+      "slug": "the-ebony-horse",
+      "title": "The Ebony Horse",
+      "summary": "A young prince rides a flying ebony horse and searches far lands for the princess he loves.",
+      "genre": "adventure",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 330,
+        "A2": 494,
+        "B1": 819,
+        "B2": 1110,
+        "C1": 1496
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0330-pending.webp",
+      "isNew": true,
+      "order": 261
+    },
+    {
+      "id": "st-0332",
+      "slug": "a-case-of-identity",
+      "title": "A Case of Identity",
+      "summary": "A young woman asks Sherlock Holmes to find the man who vanished on their wedding morning.",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 328,
+        "A2": 520,
+        "B1": 812,
+        "B2": 1109,
+        "C1": 1497
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0332-pending.webp",
+      "isNew": true,
+      "order": 262
+    },
+    {
+      "id": "st-0333",
+      "slug": "the-naval-treaty",
+      "title": "The Naval Treaty",
+      "summary": "A secret treaty disappears from a young clerk's desk, and Sherlock Holmes must find the thief.",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 330,
+        "A2": 512,
+        "B1": 774,
+        "B2": 1033,
+        "C1": 1420
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 11
+      },
+      "cover": "covers/st-0333-pending.webp",
+      "isNew": true,
+      "order": 263
+    },
+    {
+      "id": "st-0334",
+      "slug": "the-stolen-white-elephant",
+      "title": "The Stolen White Elephant",
+      "summary": "A rare white elephant goes missing in New York, and a famous detective starts a very expensive search.",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 315,
+        "A2": 501,
+        "B1": 666,
+        "B2": 983,
+        "C1": 1322
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 5,
+        "B2": 8,
+        "C1": 10
+      },
+      "cover": "covers/st-0334-pending.webp",
+      "isNew": true,
+      "order": 264
+    },
+    {
+      "id": "st-0335",
+      "slug": "the-queer-feet",
+      "title": "The Queer Feet",
+      "summary": "A quiet priest in an expensive hotel hears strange footsteps and slowly understands a clever plan.",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 323,
+        "A2": 511,
+        "B1": 763,
+        "B2": 985,
+        "C1": 1355
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 11
+      },
+      "cover": "covers/st-0335-pending.webp",
+      "isNew": true,
+      "order": 265
+    },
+    {
+      "id": "st-0336",
+      "slug": "the-flying-stars",
+      "title": "The Flying Stars",
+      "summary": "At a Christmas party, three famous diamonds vanish during a children's play, and a quiet priest finds the thief.",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 327,
+        "A2": 515,
+        "B1": 770,
+        "B2": 1044,
+        "C1": 1537
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 12
+      },
+      "cover": "covers/st-0336-pending.webp",
+      "isNew": true,
+      "order": 266
+    },
+    {
+      "id": "st-0337",
+      "slug": "the-arrest-of-ars-ne-lupin",
+      "title": "The Arrest of Arsène Lupin",
+      "summary": "A famous gentleman thief is somewhere on a ship to New York, and every passenger wants to find him.",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 325,
+        "A2": 513,
+        "B1": 668,
+        "B2": 954,
+        "C1": 1289
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 5,
+        "B2": 7,
+        "C1": 10
+      },
+      "cover": "covers/st-0337-pending.webp",
+      "isNew": true,
+      "order": 267
+    },
+    {
+      "id": "st-0338",
+      "slug": "the-stolen-bacillus",
+      "title": "The Stolen Bacillus",
+      "summary": "A scientist shows a curious visitor a tube of microbes, and the visitor has a dangerous plan.",
+      "genre": "mystery",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 325,
+        "A2": 514,
+        "B1": 669,
+        "B2": 978,
+        "C1": 1262
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 5,
+        "B2": 8,
+        "C1": 10
+      },
+      "cover": "covers/st-0338-pending.webp",
+      "isNew": true,
+      "order": 268
+    },
+    {
+      "id": "st-0341",
+      "slug": "northanger-abbey",
+      "title": "Northanger Abbey",
+      "summary": "A young girl who loves dark old novels visits a real abbey and looks for its secrets.",
+      "genre": "romance",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 328,
+        "A2": 516,
+        "B1": 817,
+        "B2": 1032,
+        "C1": 1346
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 11
+      },
+      "cover": "covers/st-0341-pending.webp",
+      "isNew": true,
+      "order": 269
+    },
+    {
+      "id": "st-0342",
+      "slug": "the-courtship-of-miles-standish",
+      "title": "The Courtship of Miles Standish",
+      "summary": "A brave captain asks his young friend to carry his marriage proposal to the girl they both love.",
+      "genre": "romance",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 278,
+        "A2": 504,
+        "B1": 752,
+        "B2": 1024,
+        "C1": 1414
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 11
+      },
+      "cover": "covers/st-0342-pending.webp",
+      "isNew": true,
+      "order": 270
+    },
+    {
+      "id": "st-0340",
+      "slug": "persuasion",
+      "title": "Persuasion",
+      "summary": "Years after a friend talks her out of marriage, Anne Elliot meets her lost love again.",
+      "genre": "romance",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 326,
+        "A2": 514,
+        "B1": 792,
+        "B2": 1079,
+        "C1": 1464
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 11
+      },
+      "cover": "covers/st-0340-pending.webp",
+      "isNew": true,
+      "order": 271
+    },
+    {
+      "id": "st-0343",
+      "slug": "little-lord-fauntleroy",
+      "title": "Little Lord Fauntleroy",
+      "summary": "A kind boy from New York learns that his cold grandfather is a rich English earl.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 334,
+        "A2": 531,
+        "B1": 771,
+        "B2": 1057,
+        "C1": 1517
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 12
+      },
+      "cover": "covers/st-0343-pending.webp",
+      "isNew": true,
+      "order": 272
+    },
+    {
+      "id": "st-0346",
+      "slug": "what-katy-did",
+      "title": "What Katy Did",
+      "summary": "A wild and careless girl wants to be good, but one forbidden swing changes everything.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 323,
+        "A2": 515,
+        "B1": 725,
+        "B2": 1020,
+        "C1": 1350
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 11
+      },
+      "cover": "covers/st-0346-pending.webp",
+      "isNew": true,
+      "order": 273
+    },
+    {
+      "id": "st-0345",
+      "slug": "hans-brinker-and-the-silver-skates",
+      "title": "Hans Brinker and the Silver Skates",
+      "summary": "A poor Dutch boy and his sister dream of silver skates and hope to save their father.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 330,
+        "A2": 514,
+        "B1": 755,
+        "B2": 994,
+        "C1": 1271
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 10
+      },
+      "cover": "covers/st-0345-pending.webp",
+      "isNew": true,
+      "order": 274
+    },
+    {
+      "id": "st-0344",
+      "slug": "rebecca-of-sunnybrook-farm",
+      "title": "Rebecca of Sunnybrook Farm",
+      "summary": "A lively, dreamy girl from a poor farm moves in with two strict aunts to go to school.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 326,
+        "A2": 487,
+        "B1": 638,
+        "B2": 992,
+        "C1": 1418
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 5,
+        "B2": 8,
+        "C1": 11
+      },
+      "cover": "covers/st-0344-pending.webp",
+      "isNew": true,
+      "order": 275
+    },
+    {
+      "id": "st-0347",
+      "slug": "silas-marner",
+      "title": "Silas Marner",
+      "summary": "A lonely weaver loses his gold, but a little girl with golden hair changes his life.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 321,
+        "A2": 512,
+        "B1": 804,
+        "B2": 1117,
+        "C1": 1505
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0347-pending.webp",
+      "isNew": true,
+      "order": 276
+    },
+    {
+      "id": "st-0348",
+      "slug": "five-little-peppers-and-how-they-grew",
+      "title": "Five Little Peppers and How They Grew",
+      "summary": "Five poor but cheerful children and their hardworking mother make a happy life in a little brown house.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 319,
+        "A2": 486,
+        "B1": 673,
+        "B2": 962,
+        "C1": 1321
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 5,
+        "B2": 8,
+        "C1": 10
+      },
+      "cover": "covers/st-0348-pending.webp",
+      "isNew": true,
+      "order": 277
+    },
+    {
+      "id": "st-0349",
+      "slug": "the-story-of-the-treasure-seekers",
+      "title": "The Story of the Treasure Seekers",
+      "summary": "Six children in Lewisham try funny and clever ways to make money for their poor father.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 322,
+        "A2": 501,
+        "B1": 776,
+        "B2": 974,
+        "C1": 1302
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 10
+      },
+      "cover": "covers/st-0349-pending.webp",
+      "isNew": true,
+      "order": 278
+    },
+    {
+      "id": "st-0350",
+      "slug": "mrs-wiggs-of-the-cabbage-patch",
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "summary": "A poor but cheerful mother in Kentucky always finds the bright side, even in a hard winter.",
+      "genre": "daily",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 327,
+        "A2": 506,
+        "B1": 737,
+        "B2": 979,
+        "C1": 1335
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 10
+      },
+      "cover": "covers/st-0350-pending.webp",
+      "isNew": true,
+      "order": 279
+    },
+    {
+      "id": "st-0352",
+      "slug": "the-magic-shop",
+      "title": "The Magic Shop",
+      "summary": "A father and his little son visit a strange magic shop in London where the magic seems real.",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 312,
+        "A2": 510,
+        "B1": 658,
+        "B2": 962,
+        "C1": 1286
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 5,
+        "B2": 8,
+        "C1": 10
+      },
+      "cover": "covers/st-0352-pending.webp",
+      "isNew": true,
+      "order": 280
+    },
+    {
+      "id": "st-0354",
+      "slug": "doctor-ox-s-experiment",
+      "title": "Doctor Ox's Experiment",
+      "summary": "A strange doctor brings new pipes to a sleepy Flemish town, and the people begin to change.",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 329,
+        "A2": 500,
+        "B1": 676,
+        "B2": 973,
+        "C1": 1271
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 5,
+        "B2": 8,
+        "C1": 10
+      },
+      "cover": "covers/st-0354-pending.webp",
+      "isNew": true,
+      "order": 281
+    },
+    {
+      "id": "st-0351",
+      "slug": "in-the-abyss",
+      "title": "In the Abyss",
+      "summary": "A daring scientist goes down to the bottom of the ocean in a steel sphere and finds a hidden world.",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 303,
+        "A2": 490,
+        "B1": 810,
+        "B2": 974,
+        "C1": 1286
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 10
+      },
+      "cover": "covers/st-0351-pending.webp",
+      "isNew": true,
+      "order": 282
+    },
+    {
+      "id": "st-0353",
+      "slug": "the-truth-about-pyecraft",
+      "title": "The Truth About Pyecraft",
+      "summary": "A very large man begs his club friend for an old family recipe to lose weight.",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 326,
+        "A2": 467,
+        "B1": 688,
+        "B2": 956,
+        "C1": 1303
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 5,
+        "B2": 7,
+        "C1": 10
+      },
+      "cover": "covers/st-0353-pending.webp",
+      "isNew": true,
+      "order": 283
+    },
+    {
+      "id": "st-0356",
+      "slug": "the-clock-that-went-backward",
+      "title": "The Clock That Went Backward",
+      "summary": "Two cousins inherit a strange old clock whose hands move backward, and it hides a secret.",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 330,
+        "A2": 510,
+        "B1": 736,
+        "B2": 967,
+        "C1": 1322
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 10
+      },
+      "cover": "covers/st-0356-pending.webp",
+      "isNew": true,
+      "order": 284
+    },
+    {
+      "id": "st-0355",
+      "slug": "off-on-a-comet",
+      "title": "Off on a Comet",
+      "summary": "A French captain and his loyal helper wake up one morning and see the sun rise in the west.",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 346,
+        "A2": 520,
+        "B1": 792,
+        "B2": 1019,
+        "C1": 1298
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 10
+      },
+      "cover": "covers/st-0355-pending.webp",
+      "isNew": true,
+      "order": 285
+    },
+    {
+      "id": "st-0358",
+      "slug": "daedalus-and-icarus",
+      "title": "Daedalus and Icarus",
+      "summary": "A great inventor makes wings of feathers and wax so he and his son can leave an island.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 320,
+        "A2": 505,
+        "B1": 662,
+        "B2": 939,
+        "C1": 1270
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 5,
+        "B2": 7,
+        "C1": 10
+      },
+      "cover": "covers/st-0358-pending.webp",
+      "isNew": true,
+      "order": 286
+    },
+    {
+      "id": "st-0359",
+      "slug": "baucis-and-philemon",
+      "title": "Baucis and Philemon",
+      "summary": "A poor old couple open their door to two travelers nobody else will help.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 324,
+        "A2": 506,
+        "B1": 744,
+        "B2": 971,
+        "C1": 1352
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 11
+      },
+      "cover": "covers/st-0359-pending.webp",
+      "isNew": true,
+      "order": 287
+    },
+    {
+      "id": "st-0357",
+      "slug": "gulliver-and-the-flying-island",
+      "title": "Gulliver and the Flying Island",
+      "summary": "A traveler from England finds an island in the air where everyone thinks only of numbers.",
+      "genre": "scifi",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 329,
+        "A2": 513,
+        "B1": 790,
+        "B2": 1054,
+        "C1": 1389
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 11
+      },
+      "cover": "covers/st-0357-pending.webp",
+      "isNew": true,
+      "order": 288
+    },
+    {
+      "id": "st-0360",
+      "slug": "persephone-and-the-pomegranate",
+      "title": "Persephone and the Pomegranate",
+      "summary": "A mother searches the whole world for her missing daughter while nothing on the earth can grow.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 328,
+        "A2": 507,
+        "B1": 756,
+        "B2": 952,
+        "C1": 1306
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 7,
+        "C1": 10
+      },
+      "cover": "covers/st-0360-pending.webp",
+      "isNew": true,
+      "order": 289
+    },
+    {
+      "id": "st-0361",
+      "slug": "arachne-the-weaver",
+      "title": "Arachne the Weaver",
+      "summary": "A young weaver in Lydia boasts that her work is better than a goddess's.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 329,
+        "A2": 495,
+        "B1": 676,
+        "B2": 981,
+        "C1": 1321
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 5,
+        "B2": 8,
+        "C1": 10
+      },
+      "cover": "covers/st-0361-pending.webp",
+      "isNew": true,
+      "order": 290
+    },
+    {
+      "id": "st-0362",
+      "slug": "the-three-golden-apples",
+      "title": "The Three Golden Apples",
+      "summary": "The strong hero Hercules travels to the end of the world to find three golden apples.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 317,
+        "A2": 490,
+        "B1": 757,
+        "B2": 1023,
+        "C1": 1500
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 12
+      },
+      "cover": "covers/st-0362-pending.webp",
+      "isNew": true,
+      "order": 291
+    },
+    {
+      "id": "st-0364",
+      "slug": "king-thrushbeard",
+      "title": "King Thrushbeard",
+      "summary": "A proud princess mocks every man who wants to marry her, until her angry father makes a choice.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 351,
+        "A2": 532,
+        "B1": 798,
+        "B2": 1116,
+        "C1": 1488
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0364-pending.webp",
+      "isNew": true,
+      "order": 292
+    },
+    {
+      "id": "st-0371",
+      "slug": "nasreddin-hodja-and-the-borrowed-pot",
+      "title": "Nasreddin Hodja and the Borrowed Pot",
+      "summary": "A clever teacher in an old Turkish town borrows his neighbor's big pot and returns it with a surprise.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 276,
+        "A2": 438,
+        "B1": 632,
+        "B2": 967,
+        "C1": 1259
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 3,
+        "B1": 5,
+        "B2": 8,
+        "C1": 10
+      },
+      "cover": "covers/st-0371-pending.webp",
+      "isNew": true,
+      "order": 293
+    },
+    {
+      "id": "st-0367",
+      "slug": "clod-hans",
+      "title": "Clod Hans",
+      "summary": "Two clever brothers try to win a princess with words, but their simple younger brother follows on a goat.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 310,
+        "A2": 513,
+        "B1": 806,
+        "B2": 1028,
+        "C1": 1298
+      },
+      "minutes": {
+        "A1": 2,
+        "A2": 4,
+        "B1": 6,
+        "B2": 8,
+        "C1": 10
+      },
+      "cover": "covers/st-0367-pending.webp",
+      "isNew": true,
+      "order": 294
+    },
+    {
+      "id": "st-0366",
+      "slug": "the-shepherdess-and-the-chimney-sweep",
+      "title": "The Shepherdess and the Chimney-Sweep",
+      "summary": "Two little china figures in love try to escape a wedding that the old grandfather has arranged.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 328,
+        "A2": 507,
+        "B1": 815,
+        "B2": 1137,
+        "C1": 1532
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0366-pending.webp",
+      "isNew": true,
+      "order": 295
+    },
+    {
+      "id": "st-0368",
+      "slug": "diamonds-and-toads",
+      "title": "Diamonds and Toads",
+      "summary": "A kind girl gives water to a poor woman at a fountain and receives a strange gift.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 331,
+        "A2": 522,
+        "B1": 756,
+        "B2": 925,
+        "C1": 1158
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 7,
+        "C1": 9
+      },
+      "cover": "covers/st-0368-pending.webp",
+      "isNew": true,
+      "order": 296
+    },
+    {
+      "id": "st-0365",
+      "slug": "the-swineherd",
+      "title": "The Swineherd",
+      "summary": "A poor prince sends a proud princess a rose and a nightingale, but she does not want them.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 370,
+        "A2": 533,
+        "B1": 826,
+        "B2": 1088,
+        "C1": 1544
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0365-pending.webp",
+      "isNew": true,
+      "order": 297
+    },
+    {
+      "id": "st-0372",
+      "slug": "the-frog-princess",
+      "title": "The Frog Princess",
+      "summary": "A young prince must marry a frog, but his strange new wife hides a big secret.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 371,
+        "A2": 554,
+        "B1": 826,
+        "B2": 1153,
+        "C1": 1519
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0372-pending.webp",
+      "isNew": true,
+      "order": 298
+    },
+    {
+      "id": "st-0369",
+      "slug": "ricky-of-the-tuft",
+      "title": "Ricky of the Tuft",
+      "summary": "A plain prince with a brilliant mind offers a beautiful princess the gift of wisdom.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 370,
+        "A2": 527,
+        "B1": 820,
+        "B2": 1100,
+        "C1": 1523
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0369-pending.webp",
+      "isNew": true,
+      "order": 299
+    },
+    {
+      "id": "st-0370",
+      "slug": "the-bamboo-cutter-s-daughter",
+      "title": "The Bamboo Cutter's Daughter",
+      "summary": "An old bamboo cutter finds a tiny shining girl, and soon many great men wish to marry her.",
+      "genre": "classic",
+      "levels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "wordCount": {
+        "A1": 325,
+        "A2": 517,
+        "B1": 821,
+        "B2": 1148,
+        "C1": 1538
+      },
+      "minutes": {
+        "A1": 3,
+        "A2": 4,
+        "B1": 6,
+        "B2": 9,
+        "C1": 12
+      },
+      "cover": "covers/st-0370-pending.webp",
+      "isNew": true,
+      "order": 300
     }
   ]
 }

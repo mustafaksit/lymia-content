@@ -1,0 +1,647 @@
+{
+  "id": "st-0357",
+  "title": "Gulliver and the Flying Island",
+  "ts": "2026-10-30T10:24:21",
+  "node": {
+    "id": "st-0357",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %92.1 | 329 kelime\n    havuz dışı: doctor(1), ship(3), boat(1), island(6), air(1), seat(1), helpers(1), bags(1), king(4), bag(1), mouth(1), magnet(1), academy(1), cucumbers(1), sun's(1), cold(1)",
+        "level A2: A2: KALDI | kapsam %94.7 | 513 kelime\n    havuz dışı: ship(2), boat(1), island(8), bag(3), mouth(2), king(5), king's(1), magnet(1), academy(1), cucumbers(2), sun's(1)",
+        "level B1: B1: KALDI | kapsam %94.7 | 790 kelime\n    havuz dışı: voyages(1), sail(1), voyage(1), port(1), pirates(1), bare(1), rocky(1), cave(1), lowered(1), inward(1), servant(4), peas(1), gently(1), tapped(3), servants(1), mathematical(2), triangles(1), tailor(1), magnet(1), unkind(1), lonely(1), lord(2), academy(1), dirty(1), piles(1), cucumbers(2), sunlight(1), jars(2), roof(1), pigs(1), dig(1), sailed(1), oceans(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.921,
+        "coreCoverage": 0.9388,
+        "exempt": [
+          "island",
+          "magnet",
+          "academy"
+        ],
+        "wordCount": 329,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "king(4)",
+          "ship(3)",
+          "doctor(1)",
+          "boat(1)",
+          "air(1)",
+          "seat(1)",
+          "helpers(1)",
+          "bags(1)",
+          "bag(1)",
+          "mouth(1)",
+          "cucumbers(1)",
+          "sun's(1)",
+          "cold(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9474,
+        "coreCoverage": 0.9641,
+        "exempt": [
+          "island",
+          "magnet",
+          "academy"
+        ],
+        "wordCount": 513,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "king(5)",
+          "bag(3)",
+          "ship(2)",
+          "mouth(2)",
+          "cucumbers(2)",
+          "boat(1)",
+          "king's(1)",
+          "sun's(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9468,
+        "coreCoverage": 0.9465,
+        "exempt": [
+          "island",
+          "magnet",
+          "academy"
+        ],
+        "wordCount": 790,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "servant(4)",
+          "tapped(3)",
+          "mathematical(2)",
+          "lord(2)",
+          "cucumbers(2)",
+          "jars(2)",
+          "voyages(1)",
+          "sail(1)",
+          "voyage(1)",
+          "port(1)",
+          "pirates(1)",
+          "bare(1)",
+          "rocky(1)",
+          "cave(1)",
+          "lowered(1)",
+          "inward(1)",
+          "peas(1)",
+          "gently(1)",
+          "servants(1)",
+          "triangles(1)",
+          "tailor(1)",
+          "unkind(1)",
+          "lonely(1)",
+          "dirty(1)",
+          "piles(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.963,
+        "coreCoverage": 0.9644,
+        "exempt": [
+          "island",
+          "magnet",
+          "academy"
+        ],
+        "wordCount": 1054,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cucumbers(3)",
+          "lowered(2)",
+          "lord(2)",
+          "jars(2)",
+          "voyages(1)",
+          "voyage(1)",
+          "pirates(1)",
+          "bare(1)",
+          "rocky(1)",
+          "cave(1)",
+          "sunlight(1)",
+          "amazement(1)",
+          "drifting(1)",
+          "inward(1)",
+          "peas(1)",
+          "palace(1)",
+          "mathematical(1)",
+          "triangles(1)",
+          "tailor(1)",
+          "comet(1)",
+          "astronomers(1)",
+          "mistreated(1)",
+          "lonelier(1)",
+          "hungry(1)",
+          "ragged(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9244,
+        "coreCoverage": 0.9251,
+        "exempt": [
+          "island",
+          "magnet",
+          "academy"
+        ],
+        "wordCount": 1389,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cucumbers(3)",
+          "islanders(2)",
+          "lord(2)",
+          "voyages(1)",
+          "improbable(1)",
+          "scarcely(1)",
+          "sworn(1)",
+          "restless(1)",
+          "merchant(1)",
+          "bound(1)",
+          "voyage(1)",
+          "pirates(1)",
+          "overtook(1)",
+          "seized(1)",
+          "adrift(1)",
+          "scrap(1)",
+          "ashore(1)",
+          "bare(1)",
+          "heap(1)",
+          "shallow(1)",
+          "cave(1)",
+          "sunlight(1)",
+          "vanished(1)",
+          "abruptly(1)",
+          "underside(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 329,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.2,
+      "lowZipfRatio": 0.0136,
+      "lowZipfWords": [
+        "cucumbers",
+        "helper",
+        "helpers",
+        "sun's"
+      ],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 513,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.16,
+      "lowZipfRatio": 0.0127,
+      "lowZipfWords": [
+        "cucumbers",
+        "helper",
+        "sun's"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 790,
+      "sentLenMedian": 12.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0134,
+      "lowZipfWords": [
+        "cucumbers",
+        "inward",
+        "jars",
+        "leaned",
+        "rowed",
+        "triangles",
+        "unkind",
+        "voyages"
+      ],
+      "keyTermTokens": 10,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1054,
+      "sentLenMedian": 15,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0227,
+      "lowZipfWords": [
+        "amazement",
+        "anxieties",
+        "astronomers",
+        "burying",
+        "cucumbers",
+        "extracting",
+        "gazed",
+        "inward",
+        "island's",
+        "jars",
+        "leaned",
+        "lonelier",
+        "mistreated",
+        "plow",
+        "ragged",
+        "rowed",
+        "sunbeams",
+        "triangles",
+        "voyages",
+        "woken"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1389,
+      "sentLenMedian": 24.0,
+      "zipfMedian": 5.96,
+      "lowZipfRatio": 0.0386,
+      "lowZipfWords": [
+        "adrift",
+        "airtight",
+        "astronomers",
+        "cleverly",
+        "cucumbers",
+        "ditches",
+        "extracting",
+        "farmhouses",
+        "fastened",
+        "fixedly",
+        "globes",
+        "grimy",
+        "hauled",
+        "heaped",
+        "heaps",
+        "hoarse",
+        "improbable",
+        "indignity",
+        "ingenuity",
+        "inward",
+        "island's",
+        "islanders",
+        "jars",
+        "leaned",
+        "marvels",
+        "orchards",
+        "outweighed",
+        "overtook",
+        "owner's",
+        "pebbles",
+        "plow",
+        "politely",
+        "ragged",
+        "rowed",
+        "scarcely",
+        "shockingly",
+        "shuffled",
+        "soundly",
+        "sparing",
+        "sturdy",
+        "sunbeams",
+        "tilted",
+        "triangles",
+        "tumbling",
+        "underside",
+        "unkind",
+        "untidy",
+        "voyages",
+        "wrestled"
+      ],
+      "keyTermTokens": 10,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.921,
+      "coreCoverage": 0.9388,
+      "exempt": [
+        "island",
+        "magnet",
+        "academy"
+      ],
+      "wordCount": 329,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "king(4)",
+        "ship(3)",
+        "doctor(1)",
+        "boat(1)",
+        "air(1)",
+        "seat(1)",
+        "helpers(1)",
+        "bags(1)",
+        "bag(1)",
+        "mouth(1)",
+        "cucumbers(1)",
+        "sun's(1)",
+        "cold(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9474,
+      "coreCoverage": 0.9641,
+      "exempt": [
+        "island",
+        "magnet",
+        "academy"
+      ],
+      "wordCount": 513,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "king(5)",
+        "bag(3)",
+        "ship(2)",
+        "mouth(2)",
+        "cucumbers(2)",
+        "boat(1)",
+        "king's(1)",
+        "sun's(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9468,
+      "coreCoverage": 0.9465,
+      "exempt": [
+        "island",
+        "magnet",
+        "academy"
+      ],
+      "wordCount": 790,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "servant(4)",
+        "tapped(3)",
+        "mathematical(2)",
+        "lord(2)",
+        "cucumbers(2)",
+        "jars(2)",
+        "voyages(1)",
+        "sail(1)",
+        "voyage(1)",
+        "port(1)",
+        "pirates(1)",
+        "bare(1)",
+        "rocky(1)",
+        "cave(1)",
+        "lowered(1)",
+        "inward(1)",
+        "peas(1)",
+        "gently(1)",
+        "servants(1)",
+        "triangles(1)",
+        "tailor(1)",
+        "unkind(1)",
+        "lonely(1)",
+        "dirty(1)",
+        "piles(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.963,
+      "coreCoverage": 0.9644,
+      "exempt": [
+        "island",
+        "magnet",
+        "academy"
+      ],
+      "wordCount": 1054,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cucumbers(3)",
+        "lowered(2)",
+        "lord(2)",
+        "jars(2)",
+        "voyages(1)",
+        "voyage(1)",
+        "pirates(1)",
+        "bare(1)",
+        "rocky(1)",
+        "cave(1)",
+        "sunlight(1)",
+        "amazement(1)",
+        "drifting(1)",
+        "inward(1)",
+        "peas(1)",
+        "palace(1)",
+        "mathematical(1)",
+        "triangles(1)",
+        "tailor(1)",
+        "comet(1)",
+        "astronomers(1)",
+        "mistreated(1)",
+        "lonelier(1)",
+        "hungry(1)",
+        "ragged(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9244,
+      "coreCoverage": 0.9251,
+      "exempt": [
+        "island",
+        "magnet",
+        "academy"
+      ],
+      "wordCount": 1389,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cucumbers(3)",
+        "islanders(2)",
+        "lord(2)",
+        "voyages(1)",
+        "improbable(1)",
+        "scarcely(1)",
+        "sworn(1)",
+        "restless(1)",
+        "merchant(1)",
+        "bound(1)",
+        "voyage(1)",
+        "pirates(1)",
+        "overtook(1)",
+        "seized(1)",
+        "adrift(1)",
+        "scrap(1)",
+        "ashore(1)",
+        "bare(1)",
+        "heap(1)",
+        "shallow(1)",
+        "cave(1)",
+        "sunlight(1)",
+        "vanished(1)",
+        "abruptly(1)",
+        "underside(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9388,
+    "A2": 0.9641
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.25,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0227",
+        "title": "Aepyornis Island",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0276",
+        "title": "Gulliver in Lilliput",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0104",
+        "title": "The Lost Island Quest",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

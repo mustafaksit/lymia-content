@@ -1,0 +1,62 @@
+{
+  "id": "st-0347",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Criterion 7 (A1 vocabulary): a few non-beginner items remain, under the fail threshold. 'pit' in 'Men took the water from an old pit.' is unglossed and carries the climax; fix: 'Sixteen years later, men took all the water out of an old pond. At the bottom, they found Silas's gold!' (or add 'pit' to the glossed words).",
+        "Criterion 7: 'some money went missing' is idiomatic; fix: 'One day, some money was gone.'",
+        "Criterion 7: phrasal 'Sixteen years went by.'; fix: 'Sixteen years later...' (merge with the pit sentence).",
+        "'Men took the water from an old pit' reads as if they carried water away; 'took all the water out of' is the natural phrasing.",
+        "'He went to a small town, Raveloe.' - every other level calls Raveloe a village; use 'a small village, Raveloe' for consistency.",
+        "'He stood very still. He did not see anything.' gives no reason; optional: 'He was ill for a moment. He did not see anything.'",
+        "'Godfrey and his wife came to Silas.' -> 'came to Silas's house.' 'So Dunstan took it years ago.' could be the more natural 'So Dunstan was the thief!'",
+        "'He gave her a name, Eppie.' -> 'He called her Eppie.'"
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "1/4/5 meaning drift, logic, fidelity",
+          "quote": "So Dunstan took the gold, and then he went away.",
+          "problem": "This states as fact that Dunstan left with the gold, but the gold has just been found in the pit, so the reader is left asking why he left it behind. It also contradicts the original, where Dunstan never left Raveloe and his remains were found in the pit with the gold. Simply not mentioning his fate, as the other levels do, is fine; saying he 'went away' is false.",
+          "fix": "So Dunstan took the gold on that dark night. (Or: 'So it was Dunstan! He took the gold on the night he disappeared.')"
+        }
+      ],
+      "notes": [
+        "'On New Year's night' can mean the evening of 1 January. The novel and the A2 quiz ('on the last night of the year') mean New Year's Eve; use 'On the last night of the year' or 'On New Year's Eve'.",
+        "'pit' is not glossed and is first introduced in the drained-pit sentence; consider glossing it or adding 'an old pit full of water' near Silas's house earlier."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'He needed help, and a New Year party was taking place there.' The 'and' links two unrelated ideas; split it: 'He needed help. A New Year party was taking place there.'",
+        "'When Silas woke from his dream' - he was not asleep; 'When Silas came back to himself' or 'When the strange moment ended' is more exact.",
+        "'He named her Eppie, after his little sister.' B2/C1 say mother and sister; not a contradiction, but 'after his mother and his little sister' would align the levels."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'he decided that every secret comes to light in the end' - 'decided' is slightly off for a realisation; 'he felt that every secret comes to light in the end' or 'he realized...'.",
+        "'Silas's friend said that he suspected Silas' - fine, but 'said that he suspected him' would read more smoothly."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Across all levels, the child's mother (who dies in the snow in the novel and is why Silas goes to the Red House) is left out, so nothing explains why Godfrey's two-year-old is wandering alone at night. This is acceptable softening, but at B2/C1 one gentle line would close the gap, e.g. 'Following the small footprints, Silas found the child's mother lying still in the snow; she had died of the cold.'",
+        "'He left the town with his loom on his back' is a vivid invention, not in the novel; harmless."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, well-graded and age-appropriate retelling: the Lantern Yard lots, the robbery, the golden hair, the drained pit and Eppie's refusal all match Eliot. The only failure is at A2, where 'then he went away' says Dunstan left with the gold, which conflicts with the gold being found in the pit and with the original. The rest are small A1 wording and vocabulary fixes and minor polish notes."
+}

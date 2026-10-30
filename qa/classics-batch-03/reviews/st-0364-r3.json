@@ -1,0 +1,48 @@
+{
+  "id": "st-0364",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"It is like a bird's mouth.\" is slightly odd (a native writer would say 'beak'), but it avoids a non-A1 word and is understandable.",
+        "Possible A1 vocabulary friction is limited to 'chin', 'owns' and 'looked in at the door'; none blocks the meaning of its sentence. Optional: 'The princess looked in at the door' -> 'The princess stood at the door and looked in.'",
+        "\"At last, they came to a big city.\" followed by \"Then they came to a very small house.\" uses 'At last' before the real end of the journey; optional: move 'At last' to the small-house sentence."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Make a fire and make our food.\" -> 'Make a fire and cook our food.' reads more naturally.",
+        "\"Then she came to a good young king.\" implies a row of suitors that A2 never mentions; optional: 'Then she saw a good young king.'"
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The string around her pockets broke\" is slightly unclear; 'The string that held her pockets broke' (as in B2) is clearer.",
+        "The move from the castle to the forest is abrupt after the father's line; optional bridge: 'So the beggar led her away on foot.'"
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"'It is ours,' said the beggar. 'This is where we will live.' 'There are no servants,' he told her.\" splits one speaker's speech into two attributions back to back; could be merged into one."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Genuinely literary register and close to the Grimm original (row of suitors by rank, green wood behind the stove, priest sent for, willow baskets, spinning, market corner, pots in pockets). The drunken hussar is softened to a rider, which is appropriate for 4+.",
+        "\"at everyone's beck and call and given the dirtiest tasks\" is slightly loose in structure but acceptable in a literary register."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels retell the Grimm tale faithfully in the right order, with consistent events across levels, correct quiz keys, and grammar that respects each level's limits (B1 avoids conditionals and passive; A1/A2 stay in present/past simple). Content is 4+ safe (alcohol from the original is removed). Only minor style notes remain."
+}

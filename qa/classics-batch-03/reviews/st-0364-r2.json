@@ -1,0 +1,53 @@
+{
+  "id": "st-0364",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"One evening the castle had a wedding.\" reads slightly stiff; \"One evening there was a wedding at the castle.\" is more natural.",
+        "Possible A1 blockers are few and context-supported: \"chin\", \"owns\", \"The bad days are over\". If wanted: \"over\" -> \"The bad days are gone\"; \"Who owns this city?\" -> \"Whose city is this?\".",
+        "Faithful condensation of Grimm KHM 52; the reveal that he was also the horseman is omitted, which is acceptable condensing."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Then she came to a good young king.\" assumes a line of suitors that A2 never sets up; \"Then she saw a good young king.\" is clearer.",
+        "\"Make a fire and make our food.\" -> \"Make a fire and cook our food.\" is more natural."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "1. meaning drift",
+          "quote": "\"It could be yours too. You only had to say yes to him.\"",
+          "problem": "Present-tense \"could be yours too\" sounds like the forest is still available to her (or shared with someone else), not a missed chance. It contradicts the point of the scene and the princess's reply \"Why didn't I marry King Thrushbeard?\", and differs from the B2/C1 counterfactual meaning.",
+          "fix": "\"It could have been yours. You only had to say yes to him.\""
+        }
+      ],
+      "notes": [
+        "\"The string around her pockets broke\" is slightly odd; \"The string that held her pockets broke\" (as in B2) is clearer."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Suitor insults, oath, forest/meadow/city, baskets/spinning, pots, kitchen maid, wedding and reveal all follow the Grimm order."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"at everyone's call and given the dirtiest tasks\" is a non-standard collocation; \"at everyone's beck and call and given the dirtiest tasks\" is the idiomatic form."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling of Grimm's King Thrushbeard with correct quizzes and level-appropriate grammar throughout. A2, B2 and C1 pass, and so does A1, with only minor notes. B1 fails on one meaning error, where the beggar's \"It could be yours too\" presents a missed chance as a present possibility."
+}

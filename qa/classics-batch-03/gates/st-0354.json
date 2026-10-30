@@ -1,0 +1,560 @@
+{
+  "id": "st-0354",
+  "title": "Doctor Ox's Experiment",
+  "ts": "2026-10-30T10:24:17",
+  "node": {
+    "id": "st-0354",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %92.1 | 329 kelime\n    havuz dışı: slow(3), slowly(1), gas(3), pipes(3), oxygen(4), experiment(1), argue(2), plants(1), argued(1), shouted(1), tower(1), calm(1), shook(1), loud(1), exploded(1), safe(1)",
+        "level A2: A2: KALDI | kapsam %94.8 | 500 kelime\n    havuz dışı: slow(3), slowly(3), gas(4), pipes(3), oxygen(4), experiment(1), shouted(1), tower(2), calm(1), shook(1), loud(1), exploded(1), safe(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.921,
+        "coreCoverage": 0.9368,
+        "exempt": [
+          "oxygen",
+          "gas",
+          "experiment"
+        ],
+        "wordCount": 329,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "slow(3)",
+          "pipes(3)",
+          "argue(2)",
+          "slowly(1)",
+          "plants(1)",
+          "argued(1)",
+          "shouted(1)",
+          "tower(1)",
+          "calm(1)",
+          "shook(1)",
+          "loud(1)",
+          "exploded(1)",
+          "safe(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.948,
+        "coreCoverage": 0.9619,
+        "exempt": [
+          "oxygen",
+          "gas",
+          "experiment"
+        ],
+        "wordCount": 500,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "slow(3)",
+          "slowly(3)",
+          "pipes(3)",
+          "tower(2)",
+          "shouted(1)",
+          "calm(1)",
+          "shook(1)",
+          "loud(1)",
+          "exploded(1)",
+          "safe(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9749,
+        "coreCoverage": 0.9789,
+        "exempt": [
+          "oxygen",
+          "gas",
+          "experiment"
+        ],
+        "wordCount": 676,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "pipes(3)",
+          "tower(2)",
+          "hurried(1)",
+          "pure(1)",
+          "singers(1)",
+          "cow(1)",
+          "grass(1)",
+          "loudly(1)",
+          "exploded(1)",
+          "anymore(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9815,
+        "coreCoverage": 0.9847,
+        "exempt": [
+          "oxygen",
+          "gas",
+          "experiment"
+        ],
+        "wordCount": 973,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "meetings(2)",
+          "quarrel(2)",
+          "outlive(1)",
+          "lamps(1)",
+          "jug(1)",
+          "hasty(1)",
+          "haste(1)",
+          "nodded(1)",
+          "peaceful(1)",
+          "strolled(1)",
+          "tremendous(1)",
+          "exploded(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9662,
+        "coreCoverage": 0.9678,
+        "exempt": [
+          "oxygen",
+          "gas",
+          "experiment"
+        ],
+        "wordCount": 1271,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "quarrel(3)",
+          "lamps(2)",
+          "peaceful(2)",
+          "meetings(2)",
+          "outlive(1)",
+          "inhabitants(1)",
+          "wisdom(1)",
+          "pitied(1)",
+          "restless(1)",
+          "jug(1)",
+          "precious(1)",
+          "haste(1)",
+          "bold(1)",
+          "generous(1)",
+          "noon(1)",
+          "strolled(1)",
+          "murmured(1)",
+          "shopkeepers(1)",
+          "breathless(1)",
+          "afterwards(1)",
+          "apples(1)",
+          "hopelessly(1)",
+          "injustice(1)",
+          "intolerable(1)",
+          "canals(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": " a question so small that neither could afterwards remember what it was, and the argument "
+        },
+        {
+          "rule": "STREET_LIGHTS_COMPOUND",
+          "cat": "COMPOUNDING",
+          "msg": "In American English this noun is spelled as one word.",
+          "frag": "street lamps",
+          "ctx": "r disturbed it. And the question of the street lamps, naturally, returned to its honored pla"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 329,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 500,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 676,
+      "sentLenMedian": 11,
+      "zipfMedian": 5.96,
+      "lowZipfRatio": 0.0049,
+      "lowZipfWords": [
+        "hurried",
+        "slowest"
+      ],
+      "keyTermTokens": 10,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 973,
+      "sentLenMedian": 15,
+      "zipfMedian": 6.03,
+      "lowZipfRatio": 0.0164,
+      "lowZipfWords": [
+        "calmer",
+        "haste",
+        "hasty",
+        "hurried",
+        "jug",
+        "nodded",
+        "outlive",
+        "parted",
+        "quarrel",
+        "slowest",
+        "strolled",
+        "whispered"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1271,
+      "sentLenMedian": 22,
+      "zipfMedian": 5.94,
+      "lowZipfRatio": 0.0215,
+      "lowZipfWords": [
+        "breathless",
+        "brightly",
+        "calmer",
+        "canals",
+        "disagreed",
+        "gazing",
+        "haste",
+        "hopelessly",
+        "hurried",
+        "intolerable",
+        "jug",
+        "loudest",
+        "murmured",
+        "outlive",
+        "parted",
+        "pitied",
+        "puzzled",
+        "quarrel",
+        "shopkeepers",
+        "slowest",
+        "strolled",
+        "wandered",
+        "warmly"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.921,
+      "coreCoverage": 0.9368,
+      "exempt": [
+        "oxygen",
+        "gas",
+        "experiment"
+      ],
+      "wordCount": 329,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "slow(3)",
+        "pipes(3)",
+        "argue(2)",
+        "slowly(1)",
+        "plants(1)",
+        "argued(1)",
+        "shouted(1)",
+        "tower(1)",
+        "calm(1)",
+        "shook(1)",
+        "loud(1)",
+        "exploded(1)",
+        "safe(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.948,
+      "coreCoverage": 0.9619,
+      "exempt": [
+        "oxygen",
+        "gas",
+        "experiment"
+      ],
+      "wordCount": 500,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "slow(3)",
+        "slowly(3)",
+        "pipes(3)",
+        "tower(2)",
+        "shouted(1)",
+        "calm(1)",
+        "shook(1)",
+        "loud(1)",
+        "exploded(1)",
+        "safe(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9749,
+      "coreCoverage": 0.9789,
+      "exempt": [
+        "oxygen",
+        "gas",
+        "experiment"
+      ],
+      "wordCount": 676,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "pipes(3)",
+        "tower(2)",
+        "hurried(1)",
+        "pure(1)",
+        "singers(1)",
+        "cow(1)",
+        "grass(1)",
+        "loudly(1)",
+        "exploded(1)",
+        "anymore(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9815,
+      "coreCoverage": 0.9847,
+      "exempt": [
+        "oxygen",
+        "gas",
+        "experiment"
+      ],
+      "wordCount": 973,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "meetings(2)",
+        "quarrel(2)",
+        "outlive(1)",
+        "lamps(1)",
+        "jug(1)",
+        "hasty(1)",
+        "haste(1)",
+        "nodded(1)",
+        "peaceful(1)",
+        "strolled(1)",
+        "tremendous(1)",
+        "exploded(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9662,
+      "coreCoverage": 0.9678,
+      "exempt": [
+        "oxygen",
+        "gas",
+        "experiment"
+      ],
+      "wordCount": 1271,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "quarrel(3)",
+        "lamps(2)",
+        "peaceful(2)",
+        "meetings(2)",
+        "outlive(1)",
+        "inhabitants(1)",
+        "wisdom(1)",
+        "pitied(1)",
+        "restless(1)",
+        "jug(1)",
+        "precious(1)",
+        "haste(1)",
+        "bold(1)",
+        "generous(1)",
+        "noon(1)",
+        "strolled(1)",
+        "murmured(1)",
+        "shopkeepers(1)",
+        "breathless(1)",
+        "afterwards(1)",
+        "apples(1)",
+        "hopelessly(1)",
+        "injustice(1)",
+        "intolerable(1)",
+        "canals(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 7,
+      "2": 3
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9368,
+    "A2": 0.9619
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.2,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0291",
+        "title": "The Story of Doctor Dolittle",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0292",
+        "title": "The Hound of the Baskervilles",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0294",
+        "title": "The Purloined Letter",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

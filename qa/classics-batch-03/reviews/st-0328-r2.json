@@ -1,0 +1,47 @@
+{
+  "id": "st-0328",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Three fish of gold live here.\" / \"Three fish of gold were in the net!\" - 'fish of gold' sounds slightly old-fashioned; 'three golden fish' is more natural and just as easy for A1.",
+        "\"That night, Sadko closed his eyes. In the morning, he opened them. He was by the water near Novgorod!\" - the chosen bride simply disappears without comment, so the old man's advice gets no payoff. Optional fix: add \"The girl was not there. She was the river!\" before \"His ships came home on the Volkhov River.\"",
+        "\"Go and tell the men at the market.\" - could say what to tell them: \"Go and tell the men at the market about the fish.\"",
+        "A1 vocabulary check: no blocking words found beyond the glossed harp/sea king/palace; 'believe' and 'net' are concrete and supported by context."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"There are fish of gold in Lake Ilmen\" / \"three fish of gold\" - 'golden fish' would be more natural.",
+        "\"The girl was not there, because she was the river.\" - slightly abrupt; consider \"The girl was not there. Sadko understood that she was the river.\""
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"the lake suddenly began to rise and turn\" - 'rise and turn' is an odd collocation for water; \"began to rise and swirl\" reads better.",
+        "\"On the third day, while he was playing\" - works because the previous paragraph counts the days without invitations, but readers may assume he only went to the lake once; B2's \"He returned the next day, and the day after that\" could be borrowed."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": []
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Stung in his pride rather than his purse\" - slightly odd for a man whose whole fortune is a harp and who has just lost his only paid work; consider \"Stung in his pride even more than in his purse\".",
+        "\"...climbed down onto a broad oak plank that lay on the water, and let the ship go. No sooner had he let go of the ship's side than the fleet surged forward\" - 'let go' is repeated in consecutive clauses; drop \"and let the ship go\" from the first sentence."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels follow the bylina faithfully (playing at Lake Ilmen, golden-finned fish wager, thirty ships and twelve years, ships held still, lots cast, descent on a plank, the Sea King's dance and storm, the old man's advice, choosing the last girl who is the river, return on the Volkhov) with no film elements. Grammar matches each level's limits, quizzes have single correct keyed answers, and content is gentle and 4+ suitable. Remaining points are minor style suggestions only."
+}

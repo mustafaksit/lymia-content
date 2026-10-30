@@ -1,0 +1,62 @@
+{
+  "id": "st-0325",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "1. meaning drift / 7. A1 comprehension",
+          "quote": "Gulliver was only as big as his hand.",
+          "problem": "With Gulliver as the subject, a beginner will read 'his hand' as Gulliver's own hand, which makes no sense. The intended meaning is the giant's hand.",
+          "fix": "Gulliver was only as big as the giant's hand."
+        }
+      ],
+      "notes": [
+        "'Then the men saw a giant! They ran back to the ship. The ship left without Gulliver.' The text never says why Gulliver was not with the men. Consider adding 'Gulliver walked away alone.' before 'Then the men saw a giant!'",
+        "'He did not like all of England's ways.' reads a little awkwardly. 'He did not like everything about England.' is simpler and more natural.",
+        "'Then the king took everyone to the sea.' is vague but acceptable as a simplification."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'After some hours, a ship came near.' 'After a few hours' is more natural.",
+        "Gulliver calls Glumdalclitch 'his little teacher'. Swift's 'little nurse' could stay, but 'teacher' is an acceptable A2 simplification.",
+        "'The queen had a very small man in her service.' is slightly formal. Consider 'The queen had a very small man who worked for her.'"
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'He shouted at the sailors because they looked as tiny as dolls to him.' 'Shouted at' suggests anger, which makes the quiz distractor 'He was angry with them' slightly tempting. Consider 'He spoke very loudly to the sailors, because to him they looked as tiny as dolls.'",
+        "'Gulliver asked the queen for one favor: Glumdalclitch must stay with him.' Consider '...for one favor: to let Glumdalclitch stay with him.'",
+        "'the whole court praised him' (wasps) is a small embellishment and harmless."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The name 'Brobdingnag' appears for the first time near the end ('the south coast of Brobdingnag') and in a quiz distractor. Introducing it when Gulliver first sees the country would help, e.g. 'a land called Brobdingnag'.",
+        "'striding ... wading through the sea with steps that covered a whole field at a time' mixes sea and field imagery. Consider 'with steps as long as a ship'.",
+        "'shouted with all the strength in his lungs' is slightly unusual. 'shouted as loudly as his lungs allowed' or 'at the top of his voice' are more idiomatic.",
+        "In Swift, Gulliver bows and speaks several languages to the farmer, not to the reaper. This is a minor rearrangement and is fine for a retelling.",
+        "'Two years passed ... That summer he went ...' 'That summer' has no clear antecedent. Consider 'In the third summer'."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "As in B2, 'Brobdingnag' is first named only in the departure paragraph. Consider naming the country earlier.",
+        "'For hours, he drifted, tied a handkerchief to a stick and waved it ...' The comma after 'For hours' makes the list awkward. Consider 'For hours he drifted, waving a handkerchief tied to a stick through a hole in the ceiling and calling out until his voice failed.'",
+        "The prose is genuinely literary and stays faithful to Swift: the reapers, the doll's cradle, the inn shows, a thousand pieces of gold, the cream bowl, partridge-sized wasps, the standing-army question, the eagle, the carpenter and ladder, and stooping at home."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "This is a faithful, age-appropriate retelling of Gulliver's voyage to Brobdingnag, with well-graded B1-C1 texts and correctly keyed quizzes. Only A1 fails, because of one ambiguous possessive ('as big as his hand') that a beginner will misread. The rest are minor wording and naming notes."
+}

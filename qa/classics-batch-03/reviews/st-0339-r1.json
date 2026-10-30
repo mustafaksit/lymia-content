@@ -1,0 +1,57 @@
+{
+  "id": "st-0339",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Comprehension: only a few items might slow a true beginner. 'She kept her feelings to herself.' -> 'She did not show her feelings.'; 'At a party, he turned away from her.' -> 'At a party, he did not talk to her.'; 'Then he sent her a cold letter.' -> 'Then he sent her an unkind letter.' That is within a handful, so A1 passes criterion 7.",
+        "'Elinor said yes with a happy face.' is slightly odd. Better: 'Elinor happily said yes.'",
+        "'Marianne walked for hours in the rain.' In the novel she takes long evening walks in the wet grass at Cleveland, not in the rain. Optional fix: 'Marianne walked for hours in the wet grass.'",
+        "Order: in the novel Edward's mother learns about Lucy in London, before Marianne's illness. Here it comes after. Telling it this way is acceptable condensing, but moving the 'Edward's mother learned about Lucy' sentences to just before 'Marianne walked for hours...' would match the original."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'That winter the sisters went to the city too.' The word 'too' suggests that Willoughby went to the city, but the A2 text never says where he went. Fix: 'He had to go away to the city, but he did not explain why.' or drop 'too'.",
+        "'Marianne's heart was broken.' is adjectival and fine, but 'Marianne was very, very sad.' avoids any passive-looking form at A2.",
+        "'Colonel Brandon went through the night to bring her mother.' -> 'Colonel Brandon rode all night to bring her mother.' sounds more natural.",
+        "Order: in the novel the disinheritance and Brandon's offer of the church come in London, before the illness at the friend's house. Optional fix: move that paragraph before the illness paragraph.",
+        "Same 'in the rain' simplification as A1 (the original says wet grass in the evening)."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Still, she kept her promise and told no one, not even Marianne.' Elinor is never shown making a promise in the B1 text. Fix: give Lucy the line '...so we must wait. Please promise to tell no one.' or change it to 'Still, she kept the secret and told no one, not even Marianne.'",
+        "'Elinor was worried, because the two of them never made any promise.' The tense is awkward. Better: '...because the two of them had never made any promise.' or '...because Willoughby never asked Marianne to marry him.'",
+        "'A few years later she married him.' In the novel it is about two years, and B2 says 'Within two years'. Fix: 'Two years later she married him.'",
+        "'Meanwhile, everyone learned about the secret engagement.' This comes after the illness, though in the novel it happens in London before it. 'Meanwhile' covers this well enough."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'two young women, the Steele sisters, arrived as guests of their cousin.' Here 'their' could mean the Steeles' cousin. Fix: 'arrived as guests at their cousin Sir John's house' or 'arrived to stay with the Dashwoods' cousin'.",
+        "The order matches the novel well: the secret comes out in London, Elinor delivers the offer, then the illness at Cleveland, then the 'Mr Ferrars' news."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'the generous sum had shrunk to an occasional basket of fruit in season.' In the novel Fanny suggests presents of fish and game when they are in season. Fix: 'an occasional present of fish and game in season.'",
+        "'Their departure was delayed, however, by the arrival of the wife's brother, Edward Ferrars.' In the novel the stay is long mainly because no suitable house can be found. Edward's visit happens during that time; it does not cause the delay. Fix: 'While they searched in vain for a suitable house, the wife's brother, Edward Ferrars, came to stay.'",
+        "'who complained of a pain in his shoulder' is a fair stand-in for the rheumatism and flannel-waistcoat jibes.",
+        "This version is genuinely literary in Austen's ironic register and has strong fidelity, including Willoughby's night visit, the toothpick-case brother, the servant's 'Mr Ferrars' report and Marianne marrying at nineteen."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels follow the main events, ending and character arcs of Austen's novel, and nothing in them is unsuitable for a 4+ rating. The grammar fits each level's limits, and every quiz has one clearly correct keyed answer. The remaining points are minor: in A1, A2 and B1 the disinheritance subplot comes after the illness instead of before it, B1 mentions a promise that is never shown, and C1 has two small factual slips (the fruit basket, the cause of the delay)."
+}

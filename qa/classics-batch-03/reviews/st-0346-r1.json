@@ -1,0 +1,56 @@
+{
+  "id": "st-0346",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Criterion 7 (below the fail threshold, but worth fixing): \"She cried and was cross with everyone.\" - 'cross' meaning 'angry' is not beginner vocabulary; use \"She cried and was angry with everyone.\"",
+        "Criterion 7: \"A new swing hung in the shed.\" - 'shed' is not glossed and not A1; use \"A new swing hung in a small wooden house in the garden.\" or add 'shed' to the glossed key words.",
+        "Criterion 7: \"She put her things in order.\" - idiom; use \"She made her room clean and nice.\"",
+        "Criterion 7: \"But things often went wrong for her.\" - idiomatic; use \"But she often made mistakes.\"",
+        "Criterion 7: \"She was the heart of the home.\" - metaphor; acceptable after the previous sentence, or use \"Everyone needed her and loved her.\"",
+        "\"Weeks and months went by.\" - 'went by' is a phrasal verb but inferable from context; \"Many weeks and months passed.\" is optional."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"She went higher and higher, almost up to the top.\" - 'the top' of what is unclear; suggest \"almost up to the roof.\"",
+        "\"Aunt Izzie often spoke to her in a hard voice.\" - 'sharp voice' or 'cross voice' is more natural; 'hard voice' is slightly calqued."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"For many years Cousin Helen could not walk, and she spent her days on a sofa.\" - reads as if she can walk now; more natural: \"Cousin Helen had not been able to walk for many years, and she spent her days on a sofa.\""
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "2. unnatural English",
+          "quote": "Next you study cheerfulness, of keeping your room neat and pleasant, and of making the best of things.",
+          "problem": "Ungrammatical: the 'of ...' phrases have nothing to attach to after 'study cheerfulness' (a leftover from 'the lessons of ...'). A reader stumbles on this sentence in the key speech of the story.",
+          "fix": "Next come the lessons of cheerfulness, of keeping your room neat and pleasant, and of making the best of things."
+        }
+      ],
+      "notes": [
+        "\"Then, at the very top of a swing, the cracked hook gave way\" - 'a swing' as a movement is easily confused with the swing itself; suggest \"at the very top of one long swing\" or \"at the highest point\"."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Then Aunt Izzie got sick and died.\" - flat for the C1 register; e.g. \"Then Aunt Izzie fell ill, and within a short time she was dead.\" (optional)."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling: the forbidden swing with the cracked hook, Aunt Izzie's unexplained order, the long confinement, Cousin Helen's 'school' of patience, cheerfulness, neatness, making the best of things and hope, Aunt Izzie's death, Katy running the house from her bed, and the surprise walk after almost four years all match Coolidge's novel. All quizzes are keyed correctly and level grammar holds. B2 fails on one ungrammatical sentence in Cousin Helen's speech; A1 has a few beginner-vocabulary snags ('cross', 'shed', 'put in order') that are worth fixing but stay below the fail threshold."
+}

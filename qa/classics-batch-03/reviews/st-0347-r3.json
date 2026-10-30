@@ -1,0 +1,51 @@
+{
+  "id": "st-0347",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Criterion 7: 'pit' is not a beginner word and not glossed. In 'Men took the water from an old pit.' a learner may not know what was emptied. Fix: 'Some men took the water out of an old pond near Silas's house.' (or add 'pit' to the glossed words).",
+        "Criterion 7: 'went missing' is an idiom. In 'One day, some money went missing.' a simpler wording is 'One day, some money was gone.'",
+        "Criterion 7: 'went by' in 'Sixteen years went by.' is a phrasal verb. A simpler opening is 'Sixteen years later, men took the water...'",
+        "Only these 2-3 words are outside a beginner's vocabulary, which is under the 'handful' threshold, so A1 comprehension passes.",
+        "'Men took the water from an old pit.' is slightly stilted. 'took the water out of' (as in A2) reads more naturally."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Grammar stays within present and past simple, the plot follows the novel, and the quiz keys are correct."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Godfrey understood at once that Dunstan took the money on the night he disappeared.' A native writer would use 'had taken'. The past perfect is allowed at B1.",
+        "'He loved Eppie far more than he ever loved his gold.' reads more naturally as 'had ever loved'.",
+        "'Come and live with us, and you will be a fine lady.' is an imperative plus 'and', not a formal conditional, so it is acceptable at B1."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'the weaver's narrow life opened up like a window' is a slightly odd image. 'like a shuttered room letting in the light' or simply 'began to open up' would be smoother. This is a matter of taste.",
+        "The text faithfully keeps the drawing of lots, the loose bricks, Dolly's son singing, the pit drained by Godfrey and Eppie's refusal. Leaving out Molly's death and Dunstan's remains is acceptable softening for a 4+ app."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Godfrey understood at once that Dunstan had taken the money' works by inference (the gold is in the pit by the cottage and Dunstan vanished that same night), since the novel's skeleton is rightly left out for 4+. If you want the inference more explicit, add: 'the gold had lain in the water ever since the night his brother disappeared'.",
+        "The prose is genuinely literary and not padded. Details such as the lettered lard-cakes, the suspected peddler, the ditch episode and the garden at Godfrey's expense are all faithful to the novel."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels are faithful to Eliot's novel in their main events, order and ending, and they are consistent with each other. They are suitable for a 4+ rating: Molly's death and Dunstan's remains are left out, and the gold-to-curls reveal stays gentle. The remaining points are minor: a few words outside a beginner's vocabulary in A1 ('pit', 'went missing') and some places in B1 where the past perfect would be more natural."
+}

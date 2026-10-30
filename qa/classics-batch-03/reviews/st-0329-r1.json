@@ -1,0 +1,117 @@
+{
+  "id": "st-0329",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "1. meaning drift",
+          "quote": "Your horn went down into the sea.",
+          "problem": "Reads as if the horn itself fell into the sea, but Thor was holding it. The real point is that the far end of the horn reached the sea. An A1 reader cannot work this out, so the trick makes no sense.",
+          "fix": "The end of your horn was in the sea."
+        },
+        {
+          "criterion": "7. A1 comprehension",
+          "quote": "\"Do not talk big there.\"",
+          "problem": "'Talk big' is an idiom. A beginner will read it as 'talk loudly' or not understand it at all.",
+          "fix": "\"Do not say 'I am very strong' there.\""
+        },
+        {
+          "criterion": "4. logic error",
+          "quote": "Then Thialfi and Hugi had a race. But Hugi won every time.",
+          "problem": "Hugi has not been introduced, and 'every time' does not fit 'a race' (one race). 'But' does not connect to anything.",
+          "fix": "Then Thialfi ran three races with a young giant, Hugi. Hugi won every time."
+        },
+        {
+          "criterion": "7. A1 comprehension",
+          "quote": "Next, Thor tried to hold up a cat.",
+          "problem": "'Hold up' is a phrasal verb with several meanings (to delay, to rob). A beginner may not read it as 'lift'.",
+          "fix": "Next, Thor tried to lift a big cat. ('lift' is a very common word, or add a gloss.)"
+        }
+      ],
+      "notes": [
+        "The opening 'Thor had a big, strong hammer. Then he went far away with Loki.' uses 'Then' with no earlier event. Better: 'One day, he went far away with Loki.'",
+        "'the land moved under them' is never explained at A1, because the snoring is left out. A short line would help, e.g. 'The giant was asleep. He was very loud.'",
+        "'The biggest giant was Utgard-Loki' could be 'The king of the giants was Utgard-Loki', to match the other levels."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "3. level mismatch",
+          "quote": "\"Do not talk big in front of them.\"",
+          "problem": "'Talk big' is an idiom above A2. Read literally ('talk loudly'), it changes the warning about boasting.",
+          "fix": "\"Do not say that you are strong in front of them.\""
+        },
+        {
+          "criterion": "4. logic error / 2. unnatural English",
+          "quote": "The gate was closed, but the small friends got through it.",
+          "problem": "It is unclear how they got through a closed gate. 'The small friends' is an odd way to name them. In the original they slip between the bars.",
+          "fix": "The gate was closed, but they were small, so they went in between its bars."
+        }
+      ],
+      "notes": [
+        "As in A1, the ground moving in the night is never explained. Consider adding 'He was asleep, and his snoring was very loud' (gloss 'snoring'), or simply 'The noise in the night was the giant.'",
+        "'Last, an old woman came in, and her name was Elli.' is a little stilted. Better: 'Last, an old woman called Elli came in.'"
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error (unclear speaker)",
+          "quote": "\"I can eat faster than anyone in this hall,\" he said.",
+          "problem": "Loki is not named. The last speaker was Utgard-Loki and the question was put to Thor, so a reader will think 'he' is Thor or the king, until Loki is suddenly seated at the trough.",
+          "fix": "\"I can eat faster than anyone in this hall,\" said Loki."
+        }
+      ],
+      "notes": [
+        "'picked up the building where they slept' would read better as 'where they had slept' (or 'where they spent the night').",
+        "Grammar stays within B1 (no conditionals or passives found)."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "2. unnatural English",
+          "quote": "Red with shame, Thor demanded someone to wrestle.",
+          "problem": "'Demand someone to do something' is not standard English. You demand something, or you challenge someone to do something.",
+          "fix": "Red with shame, Thor demanded a wrestling match."
+        },
+        {
+          "criterion": "1. meaning drift",
+          "quote": "It was a wonder that you stayed on your feet at all.",
+          "problem": "This contradicts the contest, in which Thor 'went down onto one knee'. The original says it was a wonder he fell only to one knee.",
+          "fix": "It was a wonder that you fell no further than one knee."
+        }
+      ],
+      "notes": [
+        "'who came in slowly, leaning on nothing' is unclear. Better: 'who came in slowly without a stick'.",
+        "Spelling is mixed: the text has 'travelers' and 'gray' but also 'turned round', and the quiz has 'travellers'. Use one spelling throughout.",
+        "Quiz Q2 says 'Thor's friends', but Thor also slipped through. 'How did the travelers get into the castle?' is more accurate."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "2. unnatural English",
+          "quote": "Burning with shame, Thor demanded someone to wrestle, and the king, laughing, sent for his old nurse Elli.",
+          "problem": "'Demanded someone to wrestle' is not standard (same error as B2). It stands out in an otherwise polished literary text.",
+          "fix": "Burning with shame, Thor challenged anyone in the hall to wrestle him, and the king, laughing, sent for his old nurse Elli."
+        }
+      ],
+      "notes": [
+        "'the bars, which were wide enough for creatures of their modest size': the gaps were wide, not the bars. Better: 'the bars, which stood far enough apart for creatures of their modest size'.",
+        "Spelling is mixed ('gray', 'travelers' but 'towards', 'turn round'). Standardise it.",
+        "Thor turning back 'meaning to speak with its people' softens the original, where he means to destroy it. That is acceptable for 4+.",
+        "Strong, genuinely literary level. It is faithful to the Gylfaginning account, leaving out the goat episode and the hammer blows on the sleeping Skrymir, which is fine for a children's app."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling of Thor's visit to Utgard-Loki that follows the Prose Edda order and ending. Every level has at least one concrete flaw, all easy to fix: A1 has an ambiguous horn explanation and idioms ('talk big', 'hold up'), A2 has 'talk big' and an unclear gate line, B1 has an unnamed speaker for Loki's boast, and B2/C1 use the non-standard 'demanded someone to wrestle' (B2 also contradicts the one-knee outcome)."
+}

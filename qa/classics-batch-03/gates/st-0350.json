@@ -1,0 +1,642 @@
+{
+  "id": "st-0350",
+  "title": "Mrs. Wiggs of the Cabbage Patch",
+  "ts": "2026-10-30T10:24:11",
+  "node": {
+    "id": "st-0350",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %94.5 | 327 kelime\n    havuz dışı: poor(1), happy(1), cold(1), laughed(3), forgot(1), basket(2), horse(5), thin(1), weak(1), slowly(1), married(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.945,
+        "coreCoverage": 0.9607,
+        "exempt": [
+          "cabbage",
+          "basket",
+          "horse"
+        ],
+        "wordCount": 327,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "laughed(3)",
+          "poor(1)",
+          "happy(1)",
+          "cold(1)",
+          "forgot(1)",
+          "thin(1)",
+          "weak(1)",
+          "slowly(1)",
+          "married(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9605,
+        "coreCoverage": 0.9716,
+        "exempt": [
+          "cabbage",
+          "basket",
+          "horse"
+        ],
+        "wordCount": 506,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "warm(3)",
+          "rich(1)",
+          "dinner(1)",
+          "shouted(1)",
+          "sad(1)",
+          "secret(1)",
+          "thin(1)",
+          "weak(1)",
+          "slowly(1)",
+          "bright(1)",
+          "spring(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9661,
+        "coreCoverage": 0.9664,
+        "exempt": [
+          "cabbage",
+          "basket",
+          "horse"
+        ],
+        "wordCount": 737,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "crooked(1)",
+          "beside(1)",
+          "roof(1)",
+          "leaked(1)",
+          "soup(1)",
+          "hungry(1)",
+          "crack(1)",
+          "coal(1)",
+          "errands(1)",
+          "stove(1)",
+          "cloth(1)",
+          "shyly(1)",
+          "bread(1)",
+          "cake(1)",
+          "stockings(1)",
+          "mittens(1)",
+          "joy(1)",
+          "lonely(1)",
+          "quarreled(1)",
+          "lying(1)",
+          "brushed(1)",
+          "steady(1)",
+          "doorstep(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.954,
+        "coreCoverage": 0.9537,
+        "exempt": [
+          "cabbage",
+          "basket",
+          "horse"
+        ],
+        "wordCount": 979,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "railroad(2)",
+          "cart(2)",
+          "crooked(1)",
+          "patched(1)",
+          "geography(1)",
+          "cheerfulness(1)",
+          "leaked(1)",
+          "pan(1)",
+          "supper(1)",
+          "soup(1)",
+          "cupboard(1)",
+          "shoveled(1)",
+          "bundles(1)",
+          "huddled(1)",
+          "stove(1)",
+          "elegant(1)",
+          "shyly(1)",
+          "candy(1)",
+          "stockings(1)",
+          "mittens(1)",
+          "angel(1)",
+          "heaven(1)",
+          "seldom(1)",
+          "cramped(1)",
+          "unhappy(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9258,
+        "coreCoverage": 0.9253,
+        "exempt": [
+          "cabbage",
+          "basket",
+          "horse"
+        ],
+        "wordCount": 1335,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "railroad(2)",
+          "soup(2)",
+          "elegant(2)",
+          "stove(2)",
+          "patience(2)",
+          "cart(2)",
+          "ragged(1)",
+          "wedged(1)",
+          "muddy(1)",
+          "sprawled(1)",
+          "cottages(1)",
+          "patched(1)",
+          "scraps(1)",
+          "tin(1)",
+          "cheerful(1)",
+          "stack(1)",
+          "unpaid(1)",
+          "geography(1)",
+          "treasured(1)",
+          "schoolgirl(1)",
+          "stubborn(1)",
+          "conviction(1)",
+          "misfortune(1)",
+          "leaked(1)",
+          "pan(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ANY_MORE",
+          "cat": "COMPOUNDING",
+          "msg": "Did you mean the adverb “anymore”?",
+          "frag": "any more",
+          "ctx": "and weak, and its owner did not want it any more. Billy asked if he could have it, and t"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_WELL_DRESSED",
+          "cat": "MISC",
+          "msg": "This word is normally spelled with a hyphen.",
+          "frag": "well dressed",
+          "ctx": " a shyness that sat oddly on someone so well dressed. \"My name is Lucy Olcott, and I hoped y"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 327,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 506,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 737,
+      "sentLenMedian": 12.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0088,
+      "lowZipfWords": [
+        "errands",
+        "mittens",
+        "quarreled",
+        "shyly",
+        "stables",
+        "stockings"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 979,
+      "sentLenMedian": 16,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0184,
+      "lowZipfWords": [
+        "apron",
+        "bitterly",
+        "cheerfulness",
+        "cramped",
+        "cupboard",
+        "huddled",
+        "interrupting",
+        "mittens",
+        "patched",
+        "quarreled",
+        "shopkeepers",
+        "shoveled",
+        "shrugged",
+        "shyly",
+        "stockings",
+        "stomachs",
+        "wealthiest"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1335,
+      "sentLenMedian": 19.5,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0375,
+      "lowZipfWords": [
+        "apron",
+        "blackened",
+        "castles",
+        "chattered",
+        "coaxing",
+        "cottages",
+        "cupboard",
+        "deliberation",
+        "errands",
+        "firmest",
+        "frosted",
+        "gasped",
+        "gazed",
+        "gloved",
+        "huddled",
+        "interruption",
+        "leaned",
+        "misfortune",
+        "mittens",
+        "parting",
+        "patched",
+        "pennies",
+        "quarrel",
+        "quarreled",
+        "ragged",
+        "scarcely",
+        "schoolgirl",
+        "scraps",
+        "shopkeeper",
+        "shopkeepers",
+        "shoveled",
+        "shrank",
+        "shrieks",
+        "shrugged",
+        "shyness",
+        "sidewalks",
+        "smoky",
+        "spoonful",
+        "sprawled",
+        "stockings",
+        "stomachs",
+        "stubbornness",
+        "teacup",
+        "timbers",
+        "treasured",
+        "wealthiest",
+        "wedged",
+        "woolen"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.945,
+      "coreCoverage": 0.9607,
+      "exempt": [
+        "cabbage",
+        "basket",
+        "horse"
+      ],
+      "wordCount": 327,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "laughed(3)",
+        "poor(1)",
+        "happy(1)",
+        "cold(1)",
+        "forgot(1)",
+        "thin(1)",
+        "weak(1)",
+        "slowly(1)",
+        "married(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9605,
+      "coreCoverage": 0.9716,
+      "exempt": [
+        "cabbage",
+        "basket",
+        "horse"
+      ],
+      "wordCount": 506,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "warm(3)",
+        "rich(1)",
+        "dinner(1)",
+        "shouted(1)",
+        "sad(1)",
+        "secret(1)",
+        "thin(1)",
+        "weak(1)",
+        "slowly(1)",
+        "bright(1)",
+        "spring(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9661,
+      "coreCoverage": 0.9664,
+      "exempt": [
+        "cabbage",
+        "basket",
+        "horse"
+      ],
+      "wordCount": 737,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "crooked(1)",
+        "beside(1)",
+        "roof(1)",
+        "leaked(1)",
+        "soup(1)",
+        "hungry(1)",
+        "crack(1)",
+        "coal(1)",
+        "errands(1)",
+        "stove(1)",
+        "cloth(1)",
+        "shyly(1)",
+        "bread(1)",
+        "cake(1)",
+        "stockings(1)",
+        "mittens(1)",
+        "joy(1)",
+        "lonely(1)",
+        "quarreled(1)",
+        "lying(1)",
+        "brushed(1)",
+        "steady(1)",
+        "doorstep(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.954,
+      "coreCoverage": 0.9537,
+      "exempt": [
+        "cabbage",
+        "basket",
+        "horse"
+      ],
+      "wordCount": 979,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "railroad(2)",
+        "cart(2)",
+        "crooked(1)",
+        "patched(1)",
+        "geography(1)",
+        "cheerfulness(1)",
+        "leaked(1)",
+        "pan(1)",
+        "supper(1)",
+        "soup(1)",
+        "cupboard(1)",
+        "shoveled(1)",
+        "bundles(1)",
+        "huddled(1)",
+        "stove(1)",
+        "elegant(1)",
+        "shyly(1)",
+        "candy(1)",
+        "stockings(1)",
+        "mittens(1)",
+        "angel(1)",
+        "heaven(1)",
+        "seldom(1)",
+        "cramped(1)",
+        "unhappy(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9258,
+      "coreCoverage": 0.9253,
+      "exempt": [
+        "cabbage",
+        "basket",
+        "horse"
+      ],
+      "wordCount": 1335,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "railroad(2)",
+        "soup(2)",
+        "elegant(2)",
+        "stove(2)",
+        "patience(2)",
+        "cart(2)",
+        "ragged(1)",
+        "wedged(1)",
+        "muddy(1)",
+        "sprawled(1)",
+        "cottages(1)",
+        "patched(1)",
+        "scraps(1)",
+        "tin(1)",
+        "cheerful(1)",
+        "stack(1)",
+        "unpaid(1)",
+        "geography(1)",
+        "treasured(1)",
+        "schoolgirl(1)",
+        "stubborn(1)",
+        "conviction(1)",
+        "misfortune(1)",
+        "leaked(1)",
+        "pan(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9607,
+    "A2": 0.9716
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 4
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.143,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0181",
+        "title": "The Tale of Mrs. Tiggy-Winkle",
+        "titleJaccard": 0.143,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0277",
+        "title": "The Snow Queen",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0305",
+        "title": "Black Beauty",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

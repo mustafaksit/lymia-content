@@ -1,0 +1,629 @@
+{
+  "id": "st-0370",
+  "title": "The Bamboo Cutter's Daughter",
+  "ts": "2026-10-30T10:24:37",
+  "node": {
+    "id": "st-0370",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %90.2 | 325 kelime\n    havuz dışı: bamboo(3), wife(1), gold(1), fast(1), beautiful(1), marry(2), robe(3), fire(2), burn(1), burned(2), moon(7), cried(2), drink(3), forever(1), heart(1), smoke(1)",
+        "level A2: A2: KALDI | kapsam %94.2 | 517 kelime\n    havuz dışı: bamboo(3), gold(2), bowl(1), branch(2), robe(4), burn(1), burned(2), storm(1), shadow(1), moon(9), cried(1), forever(2), smoke(1)",
+        "level B1: B1: KALDI | kapsam %91.1 | 821 kelime\n    havuz dışı: bamboo(4), stalk(1), glowing(1), inches(1), wise(1), lords(1), begged(1), suitor(1), holy(1), bowl(2), faraway(1), temple(1), shine(1), magic(1), silver(1), fake(1), third(2), robe(4), rat(1), fur(1), flame(1), fourth(1), jewel(1), dragon's(1), sailed(1), fifth(1), shell(2), swallow's(1), nest(2), basket(1), royal(1), palace(1), shadow(1), poems(1), gaze(1), moon(8), eighth(1), fifteenth(1), roof(1), tight(1), midnight(1), noon(1), cloud(1), carriage(2), feathers(2), jar(1), forever(2), captain(2), sadness(1), heaven(1), advisers(1), clouds(1)",
+        "level B2: B2: KALDI | kapsam %93.8 | 1148 kelime\n    havuz dışı: bamboo(2), grove(1), stalks(2), puzzled(1), palm(1), basket(2), hollow(1), glimpse(1), drifted(1), noblemen(1), feelings(1), whichever(1), suitor(3), holy(2), temple(1), gleam(1), fetch(1), trunk(1), jewels(1), craftsmen(2), third(2), robe(4), fur(1), merchant(1), flames(1), fourth(1), jewel(1), dragon's(1), fierce(1), thunder(1), dragon(1), begged(1), forgiveness(1), fifth(1), swallows(1), nests(1), nest(1), palace(1), vanished(1), unhappy(1), wept(2), eighth(1), fifteenth(1), midnight(1), noon(1), carriage(2), feathers(2), jar(4), eternal(2), captain(2), sorrow(1), heaven(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9015,
+        "coreCoverage": 0.9347,
+        "exempt": [
+          "bamboo",
+          "moon",
+          "suitors",
+          "robe"
+        ],
+        "wordCount": 325,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "drink(3)",
+          "marry(2)",
+          "fire(2)",
+          "burned(2)",
+          "cried(2)",
+          "wife(1)",
+          "gold(1)",
+          "fast(1)",
+          "beautiful(1)",
+          "burn(1)",
+          "forever(1)",
+          "heart(1)",
+          "smoke(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.942,
+        "coreCoverage": 0.9705,
+        "exempt": [
+          "bamboo",
+          "moon",
+          "suitors",
+          "robe"
+        ],
+        "wordCount": 517,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "gold(2)",
+          "branch(2)",
+          "burned(2)",
+          "forever(2)",
+          "bowl(1)",
+          "burn(1)",
+          "storm(1)",
+          "shadow(1)",
+          "cried(1)",
+          "smoke(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9111,
+        "coreCoverage": 0.9281,
+        "exempt": [
+          "bamboo",
+          "moon",
+          "suitors",
+          "robe"
+        ],
+        "wordCount": 821,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "bowl(2)",
+          "third(2)",
+          "shell(2)",
+          "nest(2)",
+          "carriage(2)",
+          "feathers(2)",
+          "forever(2)",
+          "captain(2)",
+          "stalk(1)",
+          "glowing(1)",
+          "inches(1)",
+          "wise(1)",
+          "lords(1)",
+          "begged(1)",
+          "holy(1)",
+          "faraway(1)",
+          "temple(1)",
+          "shine(1)",
+          "magic(1)",
+          "silver(1)",
+          "fake(1)",
+          "rat(1)",
+          "fur(1)",
+          "flame(1)",
+          "fourth(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9382,
+        "coreCoverage": 0.9439,
+        "exempt": [
+          "bamboo",
+          "moon",
+          "suitors",
+          "robe"
+        ],
+        "wordCount": 1148,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "jar(4)",
+          "stalks(2)",
+          "basket(2)",
+          "holy(2)",
+          "craftsmen(2)",
+          "third(2)",
+          "wept(2)",
+          "carriage(2)",
+          "feathers(2)",
+          "eternal(2)",
+          "captain(2)",
+          "grove(1)",
+          "puzzled(1)",
+          "palm(1)",
+          "hollow(1)",
+          "glimpse(1)",
+          "drifted(1)",
+          "noblemen(1)",
+          "feelings(1)",
+          "whichever(1)",
+          "temple(1)",
+          "gleam(1)",
+          "fetch(1)",
+          "trunk(1)",
+          "jewels(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9265,
+        "coreCoverage": 0.9319,
+        "exempt": [
+          "bamboo",
+          "moon",
+          "suitors",
+          "robe"
+        ],
+        "wordCount": 1538,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "palace(4)",
+          "jar(4)",
+          "captain(3)",
+          "hollow(2)",
+          "basket(2)",
+          "sorrow(2)",
+          "prince(2)",
+          "holy(2)",
+          "jewels(2)",
+          "craftsmen(2)",
+          "instant(2)",
+          "third(2)",
+          "fur(2)",
+          "fifteenth(2)",
+          "heaven(2)",
+          "carriage(2)",
+          "feathers(2)",
+          "eternal(2)",
+          "grove(1)",
+          "bound(1)",
+          "rustling(1)",
+          "stalk(1)",
+          "glowed(1)",
+          "lantern(1)",
+          "palm(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 325,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 517,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 821,
+      "sentLenMedian": 12.0,
+      "zipfMedian": 6.19,
+      "lowZipfRatio": 0.0103,
+      "lowZipfWords": [
+        "dragon's",
+        "faraway",
+        "fifteenth",
+        "sadder",
+        "stalk",
+        "suitor",
+        "swallow's"
+      ],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1148,
+      "sentLenMedian": 16.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0171,
+      "lowZipfWords": [
+        "bathed",
+        "craftsmen",
+        "dragon's",
+        "drifted",
+        "fifteenth",
+        "gleam",
+        "nests",
+        "noblemen",
+        "puzzled",
+        "stalks",
+        "suitor",
+        "swallows",
+        "swung",
+        "wept"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1538,
+      "sentLenMedian": 24,
+      "zipfMedian": 6.14,
+      "lowZipfRatio": 0.0247,
+      "lowZipfWords": [
+        "alight",
+        "blackened",
+        "craftsmen",
+        "cunning",
+        "cutter's",
+        "dragon's",
+        "earthly",
+        "faintest",
+        "fetched",
+        "fifteenth",
+        "fullness",
+        "gazing",
+        "glimmer",
+        "glowed",
+        "grieves",
+        "hurried",
+        "innermost",
+        "lovelier",
+        "marries",
+        "minister's",
+        "nests",
+        "noblemen",
+        "peering",
+        "rustling",
+        "shimmering",
+        "snows",
+        "stalk",
+        "stalks",
+        "suitor",
+        "swallows",
+        "swung",
+        "wept"
+      ],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9015,
+      "coreCoverage": 0.9347,
+      "exempt": [
+        "bamboo",
+        "moon",
+        "suitors",
+        "robe"
+      ],
+      "wordCount": 325,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "drink(3)",
+        "marry(2)",
+        "fire(2)",
+        "burned(2)",
+        "cried(2)",
+        "wife(1)",
+        "gold(1)",
+        "fast(1)",
+        "beautiful(1)",
+        "burn(1)",
+        "forever(1)",
+        "heart(1)",
+        "smoke(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.942,
+      "coreCoverage": 0.9705,
+      "exempt": [
+        "bamboo",
+        "moon",
+        "suitors",
+        "robe"
+      ],
+      "wordCount": 517,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "gold(2)",
+        "branch(2)",
+        "burned(2)",
+        "forever(2)",
+        "bowl(1)",
+        "burn(1)",
+        "storm(1)",
+        "shadow(1)",
+        "cried(1)",
+        "smoke(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9111,
+      "coreCoverage": 0.9281,
+      "exempt": [
+        "bamboo",
+        "moon",
+        "suitors",
+        "robe"
+      ],
+      "wordCount": 821,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "bowl(2)",
+        "third(2)",
+        "shell(2)",
+        "nest(2)",
+        "carriage(2)",
+        "feathers(2)",
+        "forever(2)",
+        "captain(2)",
+        "stalk(1)",
+        "glowing(1)",
+        "inches(1)",
+        "wise(1)",
+        "lords(1)",
+        "begged(1)",
+        "holy(1)",
+        "faraway(1)",
+        "temple(1)",
+        "shine(1)",
+        "magic(1)",
+        "silver(1)",
+        "fake(1)",
+        "rat(1)",
+        "fur(1)",
+        "flame(1)",
+        "fourth(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9382,
+      "coreCoverage": 0.9439,
+      "exempt": [
+        "bamboo",
+        "moon",
+        "suitors",
+        "robe"
+      ],
+      "wordCount": 1148,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "jar(4)",
+        "stalks(2)",
+        "basket(2)",
+        "holy(2)",
+        "craftsmen(2)",
+        "third(2)",
+        "wept(2)",
+        "carriage(2)",
+        "feathers(2)",
+        "eternal(2)",
+        "captain(2)",
+        "grove(1)",
+        "puzzled(1)",
+        "palm(1)",
+        "hollow(1)",
+        "glimpse(1)",
+        "drifted(1)",
+        "noblemen(1)",
+        "feelings(1)",
+        "whichever(1)",
+        "temple(1)",
+        "gleam(1)",
+        "fetch(1)",
+        "trunk(1)",
+        "jewels(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9265,
+      "coreCoverage": 0.9319,
+      "exempt": [
+        "bamboo",
+        "moon",
+        "suitors",
+        "robe"
+      ],
+      "wordCount": 1538,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "palace(4)",
+        "jar(4)",
+        "captain(3)",
+        "hollow(2)",
+        "basket(2)",
+        "sorrow(2)",
+        "prince(2)",
+        "holy(2)",
+        "jewels(2)",
+        "craftsmen(2)",
+        "instant(2)",
+        "third(2)",
+        "fur(2)",
+        "fifteenth(2)",
+        "heaven(2)",
+        "carriage(2)",
+        "feathers(2)",
+        "eternal(2)",
+        "grove(1)",
+        "bound(1)",
+        "rustling(1)",
+        "stalk(1)",
+        "glowed(1)",
+        "lantern(1)",
+        "palm(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9347,
+    "A2": 0.9705
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0234",
+        "title": "Heidi (tek epizod)",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0318",
+        "title": "The Nutcracker and the Mouse King",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

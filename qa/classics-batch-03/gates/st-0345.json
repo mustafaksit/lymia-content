@@ -1,0 +1,655 @@
+{
+  "id": "st-0345",
+  "title": "Hans Brinker and the Silver Skates",
+  "ts": "2026-10-30T10:24:05",
+  "node": {
+    "id": "st-0345",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %90.0 | 330 kelime\n    havuz dışı: canal(3), cold(1), ice(1), skates(6), storm(2), hit(1), safe(1), race(2), boy(1), silver(2), chain(1), doctor(4), listen(1), tree(2), ground(1), fast(2), happy(1), sister(1)",
+        "level A2: A2: KALDI | kapsam %94.2 | 514 kelime\n    havuz dışı: canal(4), ice(1), skates(8), wood(1), storm(2), safe(1), silver(2), wooden(1), chain(1), sir(1), afraid(1), slowly(1), tall(1), dug(1), strap(2), skate(2)",
+        "level B1: B1: KALDI | kapsam %93.8 | 755 kelime\n    havuz dışı: beside(1), canal(3), bread(1), canals(1), shining(1), steel(2), skates(9), wooden(3), loud(1), dike(1), mystery(1), savings(1), guilders(2), twentieth(2), silver(3), carved(1), unfriendly(1), sir(1), frowned(1), honestly(1), buried(1), willow(1), dug(1), pot(1), flags(1), skaters(1), strap(2), skate(2)",
+        "level B2: B2: KALDI | kapsam %94.7 | 994 kelime\n    havuz dışı: crooked(1), canal(4), canals(1), skates(8), glided(1), blades(1), clumsy(1), carved(2), creaked(1), scraped(1), giggled(1), sorrow(1), dike(3), spun(1), wool(1), guilders(2), breathless(1), twentieth(2), unkind(1), generous(1), impatient(1), patched(1), frowned(1), impatiently(1), honesty(1), softened(1), afterward(1), willow(1), spade(2), fluttered(1), drifted(1), cheered(1), skaters(1), strap(2), skate(2)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9,
+        "coreCoverage": 0.9368,
+        "exempt": [
+          "skates",
+          "canal",
+          "race",
+          "doctor"
+        ],
+        "wordCount": 330,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "storm(2)",
+          "silver(2)",
+          "tree(2)",
+          "fast(2)",
+          "cold(1)",
+          "ice(1)",
+          "hit(1)",
+          "safe(1)",
+          "boy(1)",
+          "chain(1)",
+          "listen(1)",
+          "ground(1)",
+          "happy(1)",
+          "sister(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9416,
+        "coreCoverage": 0.9638,
+        "exempt": [
+          "skates",
+          "canal",
+          "race",
+          "doctor"
+        ],
+        "wordCount": 514,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "storm(2)",
+          "silver(2)",
+          "strap(2)",
+          "ice(1)",
+          "wood(1)",
+          "safe(1)",
+          "wooden(1)",
+          "chain(1)",
+          "sir(1)",
+          "afraid(1)",
+          "slowly(1)",
+          "tall(1)",
+          "dug(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9377,
+        "coreCoverage": 0.9528,
+        "exempt": [
+          "skates",
+          "canal",
+          "race",
+          "doctor"
+        ],
+        "wordCount": 755,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "wooden(3)",
+          "silver(3)",
+          "steel(2)",
+          "guilders(2)",
+          "twentieth(2)",
+          "strap(2)",
+          "beside(1)",
+          "bread(1)",
+          "shining(1)",
+          "loud(1)",
+          "dike(1)",
+          "mystery(1)",
+          "savings(1)",
+          "carved(1)",
+          "unfriendly(1)",
+          "sir(1)",
+          "frowned(1)",
+          "honestly(1)",
+          "buried(1)",
+          "willow(1)",
+          "dug(1)",
+          "pot(1)",
+          "flags(1)",
+          "skaters(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9467,
+        "coreCoverage": 0.9586,
+        "exempt": [
+          "skates",
+          "canal",
+          "race",
+          "doctor"
+        ],
+        "wordCount": 994,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "dike(3)",
+          "carved(2)",
+          "guilders(2)",
+          "twentieth(2)",
+          "spade(2)",
+          "strap(2)",
+          "crooked(1)",
+          "glided(1)",
+          "blades(1)",
+          "clumsy(1)",
+          "creaked(1)",
+          "scraped(1)",
+          "giggled(1)",
+          "sorrow(1)",
+          "spun(1)",
+          "wool(1)",
+          "breathless(1)",
+          "unkind(1)",
+          "generous(1)",
+          "impatient(1)",
+          "patched(1)",
+          "frowned(1)",
+          "impatiently(1)",
+          "honesty(1)",
+          "softened(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9355,
+        "coreCoverage": 0.9456,
+        "exempt": [
+          "skates",
+          "canal",
+          "race",
+          "doctor"
+        ],
+        "wordCount": 1271,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cottage(4)",
+          "dike(3)",
+          "carved(2)",
+          "guilders(2)",
+          "twentieth(2)",
+          "strap(2)",
+          "sagging(1)",
+          "loaf(1)",
+          "supper(1)",
+          "hardened(1)",
+          "strapped(1)",
+          "glided(1)",
+          "baskets(1)",
+          "polished(1)",
+          "blades(1)",
+          "scarves(1)",
+          "clumsy(1)",
+          "creaked(1)",
+          "sorrow(1)",
+          "cheerful(1)",
+          "flames(1)",
+          "spun(1)",
+          "wool(1)",
+          "vanished(1)",
+          "murmured(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ADVERB_WORD_ORDER",
+          "cat": "STYLE",
+          "msg": "The adverb ‘seldom’ is usually put before the verb ‘smiled’.",
+          "frag": "smiled seldom",
+          "ctx": "lso the coldest; he charged great sums, smiled seldom and had little patience for strangers. "
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 330,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 514,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 19,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 755,
+      "sentLenMedian": 12.0,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0103,
+      "lowZipfWords": [
+        "dike",
+        "frowned",
+        "froze",
+        "guilders",
+        "skaters",
+        "unfriendly"
+      ],
+      "keyTermTokens": 21,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 994,
+      "sentLenMedian": 15,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0294,
+      "lowZipfWords": [
+        "breathless",
+        "cheered",
+        "clumsy",
+        "creaked",
+        "dike",
+        "drifted",
+        "fluttered",
+        "frowned",
+        "gazed",
+        "giggled",
+        "glided",
+        "guilders",
+        "hesitating",
+        "impatiently",
+        "patched",
+        "scraped",
+        "shone",
+        "sighed",
+        "skaters",
+        "softened",
+        "spade",
+        "unkind",
+        "whispered"
+      ],
+      "keyTermTokens": 19,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1271,
+      "sentLenMedian": 19,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.0326,
+      "lowZipfWords": [
+        "baskets",
+        "brows",
+        "cleverest",
+        "clumsy",
+        "coldest",
+        "creaked",
+        "deceive",
+        "dike",
+        "earthen",
+        "glided",
+        "gruffer",
+        "guilders",
+        "guiltily",
+        "handsomely",
+        "labored",
+        "loaf",
+        "mended",
+        "moment's",
+        "murmured",
+        "patched",
+        "pitied",
+        "plainly",
+        "poorest",
+        "puzzled",
+        "roared",
+        "sagging",
+        "scarves",
+        "shone",
+        "skater",
+        "soften",
+        "spade",
+        "straightened",
+        "strapped",
+        "ticking",
+        "unbuckled",
+        "unkind"
+      ],
+      "keyTermTokens": 19,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9,
+      "coreCoverage": 0.9368,
+      "exempt": [
+        "skates",
+        "canal",
+        "race",
+        "doctor"
+      ],
+      "wordCount": 330,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "storm(2)",
+        "silver(2)",
+        "tree(2)",
+        "fast(2)",
+        "cold(1)",
+        "ice(1)",
+        "hit(1)",
+        "safe(1)",
+        "boy(1)",
+        "chain(1)",
+        "listen(1)",
+        "ground(1)",
+        "happy(1)",
+        "sister(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9416,
+      "coreCoverage": 0.9638,
+      "exempt": [
+        "skates",
+        "canal",
+        "race",
+        "doctor"
+      ],
+      "wordCount": 514,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "storm(2)",
+        "silver(2)",
+        "strap(2)",
+        "ice(1)",
+        "wood(1)",
+        "safe(1)",
+        "wooden(1)",
+        "chain(1)",
+        "sir(1)",
+        "afraid(1)",
+        "slowly(1)",
+        "tall(1)",
+        "dug(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9377,
+      "coreCoverage": 0.9528,
+      "exempt": [
+        "skates",
+        "canal",
+        "race",
+        "doctor"
+      ],
+      "wordCount": 755,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "wooden(3)",
+        "silver(3)",
+        "steel(2)",
+        "guilders(2)",
+        "twentieth(2)",
+        "strap(2)",
+        "beside(1)",
+        "bread(1)",
+        "shining(1)",
+        "loud(1)",
+        "dike(1)",
+        "mystery(1)",
+        "savings(1)",
+        "carved(1)",
+        "unfriendly(1)",
+        "sir(1)",
+        "frowned(1)",
+        "honestly(1)",
+        "buried(1)",
+        "willow(1)",
+        "dug(1)",
+        "pot(1)",
+        "flags(1)",
+        "skaters(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9467,
+      "coreCoverage": 0.9586,
+      "exempt": [
+        "skates",
+        "canal",
+        "race",
+        "doctor"
+      ],
+      "wordCount": 994,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "dike(3)",
+        "carved(2)",
+        "guilders(2)",
+        "twentieth(2)",
+        "spade(2)",
+        "strap(2)",
+        "crooked(1)",
+        "glided(1)",
+        "blades(1)",
+        "clumsy(1)",
+        "creaked(1)",
+        "scraped(1)",
+        "giggled(1)",
+        "sorrow(1)",
+        "spun(1)",
+        "wool(1)",
+        "breathless(1)",
+        "unkind(1)",
+        "generous(1)",
+        "impatient(1)",
+        "patched(1)",
+        "frowned(1)",
+        "impatiently(1)",
+        "honesty(1)",
+        "softened(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9355,
+      "coreCoverage": 0.9456,
+      "exempt": [
+        "skates",
+        "canal",
+        "race",
+        "doctor"
+      ],
+      "wordCount": 1271,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cottage(4)",
+        "dike(3)",
+        "carved(2)",
+        "guilders(2)",
+        "twentieth(2)",
+        "strap(2)",
+        "sagging(1)",
+        "loaf(1)",
+        "supper(1)",
+        "hardened(1)",
+        "strapped(1)",
+        "glided(1)",
+        "baskets(1)",
+        "polished(1)",
+        "blades(1)",
+        "scarves(1)",
+        "clumsy(1)",
+        "creaked(1)",
+        "sorrow(1)",
+        "cheerful(1)",
+        "flames(1)",
+        "spun(1)",
+        "wool(1)",
+        "vanished(1)",
+        "murmured(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9368,
+    "A2": 0.9638
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.2,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0219",
+        "title": "Silver Blaze",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0141",
+        "title": "Rikki-Tikki-Tavi",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0221",
+        "title": "The Musgrave Ritual",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

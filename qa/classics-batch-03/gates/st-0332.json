@@ -1,0 +1,648 @@
+{
+  "id": "st-0332",
+  "title": "A Case of Identity",
+  "ts": "2026-10-30T10:23:48",
+  "node": {
+    "id": "st-0332",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %93.3 | 328 kelime\n    havuz dışı: sherlock(1), husband(1), dance(1), wore(1), dark(1), glasses(2), mustache(2), voice(1), marry(1), typewriter(3), wedding(1), cab(3), church(1), disguise(1), can't(2)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9329,
+        "coreCoverage": 0.9358,
+        "exempt": [
+          "typewriter",
+          "letters",
+          "disguise"
+        ],
+        "wordCount": 328,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cab(3)",
+          "glasses(2)",
+          "mustache(2)",
+          "can't(2)",
+          "husband(1)",
+          "dance(1)",
+          "wore(1)",
+          "dark(1)",
+          "voice(1)",
+          "marry(1)",
+          "wedding(1)",
+          "church(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9577,
+        "coreCoverage": 0.9595,
+        "exempt": [
+          "typewriter",
+          "letters",
+          "disguise"
+        ],
+        "wordCount": 520,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cab(5)",
+          "wedding(3)",
+          "glasses(2)",
+          "mustache(2)",
+          "can't(2)",
+          "uncle(1)",
+          "winter(1)",
+          "weak(1)",
+          "empty(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9618,
+        "coreCoverage": 0.9616,
+        "exempt": [
+          "typewriter",
+          "letters",
+          "disguise"
+        ],
+        "wordCount": 812,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "stepfather(2)",
+          "tinted(2)",
+          "mustache(2)",
+          "whiskers(2)",
+          "whisper(2)",
+          "cab(2)",
+          "false(2)",
+          "autumn(1)",
+          "sleeves(1)",
+          "uncle(1)",
+          "gentle(1)",
+          "shy(1)",
+          "cabs(1)",
+          "gently(1)",
+          "can't(1)",
+          "handwriting(1)",
+          "polite(1)",
+          "smooth(1)",
+          "tail(1)",
+          "cruel(1)",
+          "stairs(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9657,
+        "coreCoverage": 0.9654,
+        "exempt": [
+          "typewriter",
+          "letters",
+          "disguise"
+        ],
+        "wordCount": 1109,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "stepfather(3)",
+          "whiskers(3)",
+          "tinted(2)",
+          "mustache(2)",
+          "signature(2)",
+          "cab(2)",
+          "handwriting(2)",
+          "pavement(1)",
+          "shy(1)",
+          "bushy(1)",
+          "displeased(1)",
+          "typewritten(1)",
+          "unexpected(1)",
+          "fond(1)",
+          "cabs(1)",
+          "swore(1)",
+          "polite(1)",
+          "contrary(1)",
+          "alike(1)",
+          "blurred(1)",
+          "travelers(1)",
+          "muttered(1)",
+          "comfortably(1)",
+          "stepdaughter's(1)",
+          "faithful(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9526,
+        "coreCoverage": 0.9523,
+        "exempt": [
+          "typewriter",
+          "letters",
+          "disguise"
+        ],
+        "wordCount": 1497,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "whiskers(3)",
+          "signature(3)",
+          "cab(3)",
+          "pavement(2)",
+          "tinted(2)",
+          "vanish(2)",
+          "novelist(1)",
+          "upstairs(1)",
+          "spite(1)",
+          "sleeves(1)",
+          "plumber(1)",
+          "penny(1)",
+          "purse(1)",
+          "encouragement(1)",
+          "bushy(1)",
+          "mustache(1)",
+          "hoarse(1)",
+          "displeased(1)",
+          "courtship(1)",
+          "disliked(1)",
+          "typewritten(1)",
+          "solemn(1)",
+          "devotion(1)",
+          "cabs(1)",
+          "bewildered(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ADVERB_WORD_ORDER",
+          "cat": "STYLE",
+          "msg": "The adverb ‘Always’ usually goes after the verb ‘be’.",
+          "frag": "Always be",
+          "ctx": "ding, Hosmer asked Mary for a promise. \"Always be true to me,\" he said. \"Wait for me, alw"
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": "ft him able to speak only in a whisper. He called at the house, and Mr. Windibank "
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "Her",
+          "ctx": " and her mother had soon married again. Her choice was a Mr. Windibank, nearly fift"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 328,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0079,
+      "lowZipfWords": [
+        "mustache"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 520,
+      "sentLenMedian": 8.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0046,
+      "lowZipfWords": [
+        "mustache"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 812,
+      "sentLenMedian": 10,
+      "zipfMedian": 6.14,
+      "lowZipfRatio": 0.0126,
+      "lowZipfWords": [
+        "cabs",
+        "mustache",
+        "stepfather",
+        "tinted",
+        "whiskers"
+      ],
+      "keyTermTokens": 10,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1109,
+      "sentLenMedian": 13.0,
+      "zipfMedian": 6.2,
+      "lowZipfRatio": 0.0216,
+      "lowZipfWords": [
+        "blurred",
+        "bushy",
+        "cabs",
+        "courted",
+        "displeased",
+        "glanced",
+        "hesitating",
+        "leaned",
+        "mustache",
+        "muttered",
+        "sneer",
+        "stepdaughter's",
+        "stepfather",
+        "tinted",
+        "typewritten",
+        "whiskers"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1497,
+      "sentLenMedian": 19,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0356,
+      "lowZipfWords": [
+        "armchair",
+        "bewildered",
+        "blurred",
+        "bridegroom",
+        "bushy",
+        "buttoning",
+        "cabs",
+        "clattering",
+        "courtship",
+        "disliked",
+        "displeased",
+        "dozing",
+        "excitable",
+        "faintly",
+        "flickered",
+        "heartless",
+        "hesitates",
+        "hesitating",
+        "hoarse",
+        "mustache",
+        "muttered",
+        "natured",
+        "plainly",
+        "pleasantly",
+        "plumber",
+        "prompting",
+        "selfishness",
+        "shaven",
+        "solemn",
+        "stepdaughter",
+        "stepdaughter's",
+        "stepfather",
+        "sturdy",
+        "suitor",
+        "suitors",
+        "swimmer",
+        "tinted",
+        "tiring",
+        "typewritten",
+        "unmarried",
+        "unsteady",
+        "vanish",
+        "visitor's",
+        "wheeled",
+        "whiskers"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9329,
+      "coreCoverage": 0.9358,
+      "exempt": [
+        "typewriter",
+        "letters",
+        "disguise"
+      ],
+      "wordCount": 328,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cab(3)",
+        "glasses(2)",
+        "mustache(2)",
+        "can't(2)",
+        "husband(1)",
+        "dance(1)",
+        "wore(1)",
+        "dark(1)",
+        "voice(1)",
+        "marry(1)",
+        "wedding(1)",
+        "church(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9577,
+      "coreCoverage": 0.9595,
+      "exempt": [
+        "typewriter",
+        "letters",
+        "disguise"
+      ],
+      "wordCount": 520,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cab(5)",
+        "wedding(3)",
+        "glasses(2)",
+        "mustache(2)",
+        "can't(2)",
+        "uncle(1)",
+        "winter(1)",
+        "weak(1)",
+        "empty(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9618,
+      "coreCoverage": 0.9616,
+      "exempt": [
+        "typewriter",
+        "letters",
+        "disguise"
+      ],
+      "wordCount": 812,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "stepfather(2)",
+        "tinted(2)",
+        "mustache(2)",
+        "whiskers(2)",
+        "whisper(2)",
+        "cab(2)",
+        "false(2)",
+        "autumn(1)",
+        "sleeves(1)",
+        "uncle(1)",
+        "gentle(1)",
+        "shy(1)",
+        "cabs(1)",
+        "gently(1)",
+        "can't(1)",
+        "handwriting(1)",
+        "polite(1)",
+        "smooth(1)",
+        "tail(1)",
+        "cruel(1)",
+        "stairs(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9657,
+      "coreCoverage": 0.9654,
+      "exempt": [
+        "typewriter",
+        "letters",
+        "disguise"
+      ],
+      "wordCount": 1109,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "stepfather(3)",
+        "whiskers(3)",
+        "tinted(2)",
+        "mustache(2)",
+        "signature(2)",
+        "cab(2)",
+        "handwriting(2)",
+        "pavement(1)",
+        "shy(1)",
+        "bushy(1)",
+        "displeased(1)",
+        "typewritten(1)",
+        "unexpected(1)",
+        "fond(1)",
+        "cabs(1)",
+        "swore(1)",
+        "polite(1)",
+        "contrary(1)",
+        "alike(1)",
+        "blurred(1)",
+        "travelers(1)",
+        "muttered(1)",
+        "comfortably(1)",
+        "stepdaughter's(1)",
+        "faithful(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9526,
+      "coreCoverage": 0.9523,
+      "exempt": [
+        "typewriter",
+        "letters",
+        "disguise"
+      ],
+      "wordCount": 1497,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "whiskers(3)",
+        "signature(3)",
+        "cab(3)",
+        "pavement(2)",
+        "tinted(2)",
+        "vanish(2)",
+        "novelist(1)",
+        "upstairs(1)",
+        "spite(1)",
+        "sleeves(1)",
+        "plumber(1)",
+        "penny(1)",
+        "purse(1)",
+        "encouragement(1)",
+        "bushy(1)",
+        "mustache(1)",
+        "hoarse(1)",
+        "displeased(1)",
+        "courtship(1)",
+        "disliked(1)",
+        "typewritten(1)",
+        "solemn(1)",
+        "devotion(1)",
+        "cabs(1)",
+        "bewildered(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9358,
+    "A2": 0.9595
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "death": 1,
+      "died": 2
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.038,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0220",
+        "title": "The Man with the Twisted Lip",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.038,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0293",
+        "title": "The Adventure of the Norwood Builder",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.038,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0234",
+        "title": "Heidi (tek epizod)",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

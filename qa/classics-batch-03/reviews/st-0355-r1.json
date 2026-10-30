@@ -1,0 +1,69 @@
+{
+  "id": "st-0355",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Criterion 7: only a few words may slow an A1 reader, and none blocks the story. 'The last note named an island.' -> 'The last note had the name of an island.' (as in A2).",
+        "Criterion 7: 'They were home at last!' -> 'They were home again!' ('at last' is idiomatic but common).",
+        "'Servadac went on it, but Ben Zoof stayed. They looked for other lands.' 'They' comes right after Ben Zoof, so it could be misread. Optional: 'Servadac and the sailors looked for other lands.'",
+        "'So all the people lived in it.' The A1 text never says who 'all the people' are. Optional: 'So Servadac, the sailors and the girl lived in it.'"
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Grammar stays in present simple and past simple ('When Gallia comes close...' is a time clause, not a conditional). The plot matches Verne: the Russian count, the girl, the volcano, the Gallia notes, Rosette on the island, and the balloon made from the ship's sails."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "1. meaning drift / 2. unnatural English",
+          "quote": "Both men fell to the floor and lost their senses.",
+          "problem": "In modern English, 'lose your senses' usually means 'go mad / act foolishly'. A B1 learner who looks it up gets the wrong meaning. The intended meaning is 'became unconscious'.",
+          "fix": "Both men fell to the floor, and everything went black."
+        },
+        {
+          "criterion": "2. unnatural English",
+          "quote": "They found almost nothing, only a few small islands where large lands were before.",
+          "problem": "'where large lands were before' is a calque-like, ungrammatical-sounding phrase. No native writer would say it.",
+          "fix": "They found almost nothing, only a few small islands where big countries used to be."
+        }
+      ],
+      "notes": [
+        "'made their rooms in its warm tunnels' -> 'made their homes in its warm tunnels' reads more naturally.",
+        "There are no conditionals and no passive voice. The past perfect active ('Someone had written them') is fine at B1."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error (unclear reference)",
+          "quote": "For a few moments, the travelers felt the wind change around them. Then it came softly down in a field in Algeria, near Servadac's old home.",
+          "problem": "The nearest noun before 'it' is 'the wind', so the sentence reads as 'the wind came softly down in a field'. The balloon was last named two sentences earlier.",
+          "fix": "Then the balloon came softly down in a field in Algeria, near Servadac's old home."
+        }
+      ],
+      "notes": [
+        "Fidelity is good: it includes the English garrison on the rock (Gibraltar) refusing help, water boiling faster in the thin air, Rosette's prickly character and pride, and the return on 1 January.",
+        "'Neither man could have guessed how far that journey would really take them.' 'that journey' has only an implied antecedent ('to the end of the world'). This is acceptable, but 'how far their life would really take them' would be clearer."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Nevertheless, they bundled him in warm coats and carried him back to the volcano, grumbling all the way.' Grammatically, 'grumbling' attaches to 'they', but the intended grumbler is Rosette. Optional: '...carried him, grumbling all the way, back to the volcano.' or '...while he grumbled all the way.'",
+        "The prose is genuinely literary and not padded. The quiz keys are all correct and unambiguous."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is faithful to Verne's Hector Servadac: the sun rises in the west after the New Year's Eve collision, the Dobryna voyage finds the girl with her goat, the English garrison and the volcano, Rosette's Gallia notes lead to the ice-sled rescue, and the sail-balloon brings everyone home on 1 January. It is 4+ safe throughout. Two levels fail on small, easily fixed wording problems: B1 has a misleading idiom ('lost their senses') and an unnatural phrase ('where large lands were before'), and B2 has an ambiguous 'it' that makes the wind, not the balloon, land in Algeria."
+}

@@ -1,0 +1,611 @@
+{
+  "id": "st-0348",
+  "title": "Five Little Peppers and How They Grew",
+  "ts": "2026-10-30T10:24:09",
+  "node": {
+    "id": "st-0348",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %94.7 | 319 kelime\n    havuz dışı: mrs(1), joel(2), baby(1), fun(1), birthday(1), cake(5), stove(1), dear(1), measles(3), slowly(1)",
+        "level A2: A2: KALDI | kapsam %94.7 | 486 kelime\n    havuz dışı: brown(1), mrs(1), farmers(1), birthday(2), cake(4), stove(5), holes(1), smoked(1), wood(1), measles(2), weak(1), angry(1), afraid(2), knee(1), piano(1), relative(1)",
+        "level B1: B1: KALDI | kapsam %94.8 | 673 kelime\n    havuz dışı: cheerful(1), steady(1), loud(1), hungry(1), gentle(1), sewed(1), whenever(1), laughter(2), birthday(3), bake(1), cake(5), whispered(1), stove(4), hugged(1), wet(1), measles(2), sewing(1), cheer(1), lonely(1), temper(1), noisy(1), knee(1), piano(1), anymore(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9467,
+        "coreCoverage": 0.9809,
+        "exempt": [
+          "stove",
+          "cake",
+          "measles"
+        ],
+        "wordCount": 319,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "baby(1)",
+          "fun(1)",
+          "birthday(1)",
+          "dear(1)",
+          "slowly(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9465,
+        "coreCoverage": 0.9671,
+        "exempt": [
+          "stove",
+          "cake",
+          "measles"
+        ],
+        "wordCount": 486,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "birthday(2)",
+          "afraid(2)",
+          "brown(1)",
+          "farmers(1)",
+          "holes(1)",
+          "smoked(1)",
+          "wood(1)",
+          "weak(1)",
+          "angry(1)",
+          "knee(1)",
+          "piano(1)",
+          "relative(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.948,
+        "coreCoverage": 0.9604,
+        "exempt": [
+          "stove",
+          "cake",
+          "measles"
+        ],
+        "wordCount": 673,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "birthday(3)",
+          "laughter(2)",
+          "cheerful(1)",
+          "steady(1)",
+          "loud(1)",
+          "hungry(1)",
+          "gentle(1)",
+          "sewed(1)",
+          "whenever(1)",
+          "bake(1)",
+          "whispered(1)",
+          "hugged(1)",
+          "wet(1)",
+          "sewing(1)",
+          "cheer(1)",
+          "lonely(1)",
+          "temper(1)",
+          "noisy(1)",
+          "knee(1)",
+          "piano(1)",
+          "anymore(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9615,
+        "coreCoverage": 0.9652,
+        "exempt": [
+          "stove",
+          "cake",
+          "measles"
+        ],
+        "wordCount": 962,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sewing(3)",
+          "birthday(3)",
+          "noisy(2)",
+          "sleepy(1)",
+          "neat(1)",
+          "bravest(1)",
+          "dependable(1)",
+          "cheerful(1)",
+          "restless(1)",
+          "hungry(1)",
+          "someday(1)",
+          "frowned(1)",
+          "bakery(1)",
+          "batter(1)",
+          "sulked(1)",
+          "baked(1)",
+          "afterward(1)",
+          "weakened(1)",
+          "darkened(1)",
+          "healed(1)",
+          "lonely(1)",
+          "endless(1)",
+          "temper(1)",
+          "grumbled(1)",
+          "softened(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9364,
+        "coreCoverage": 0.9391,
+        "exempt": [
+          "stove",
+          "cake",
+          "measles"
+        ],
+        "wordCount": 1321,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "birthday(3)",
+          "restless(2)",
+          "temper(2)",
+          "crumb(2)",
+          "sewing(2)",
+          "noisy(2)",
+          "tread(2)",
+          "drowsy(1)",
+          "townspeople(1)",
+          "fondness(1)",
+          "widow(1)",
+          "courage(1)",
+          "needle(1)",
+          "eldest(1)",
+          "chopping(1)",
+          "flare(1)",
+          "brimming(1)",
+          "endlessly(1)",
+          "hungry(1)",
+          "solemn(1)",
+          "melt(1)",
+          "sewed(1)",
+          "candle(1)",
+          "feast(1)",
+          "cheerfulness(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 319,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 486,
+      "sentLenMedian": 8,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 673,
+      "sentLenMedian": 12,
+      "zipfMedian": 5.98,
+      "lowZipfRatio": 0.0083,
+      "lowZipfWords": [
+        "hugged",
+        "nursed",
+        "sewed",
+        "smokes",
+        "whispered"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 962,
+      "sentLenMedian": 16,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.018,
+      "lowZipfWords": [
+        "astonished",
+        "bravest",
+        "chatted",
+        "darkened",
+        "dependable",
+        "frowned",
+        "gentler",
+        "glancing",
+        "grumbled",
+        "nursed",
+        "sighing",
+        "smokes",
+        "softened",
+        "sulked",
+        "suspecting",
+        "wisest"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1321,
+      "sentLenMedian": 21.5,
+      "zipfMedian": 5.96,
+      "lowZipfRatio": 0.0361,
+      "lowZipfWords": [
+        "ache",
+        "alarmingly",
+        "astonishment",
+        "battered",
+        "brimming",
+        "chatted",
+        "cheerfulness",
+        "chopping",
+        "coax",
+        "coaxed",
+        "cramped",
+        "crumb",
+        "darkened",
+        "drowsy",
+        "endlessly",
+        "fondness",
+        "grumbled",
+        "hatched",
+        "hauled",
+        "hovered",
+        "luckier",
+        "mend",
+        "newcomer",
+        "nodded",
+        "nursed",
+        "plainest",
+        "rallied",
+        "resented",
+        "reverent",
+        "scarcely",
+        "sewed",
+        "shone",
+        "shopkeepers",
+        "shrank",
+        "softened",
+        "solemn",
+        "stirred",
+        "sulked",
+        "taming",
+        "townspeople",
+        "trailed",
+        "wandered",
+        "watcher"
+      ],
+      "keyTermTokens": 17,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9467,
+      "coreCoverage": 0.9809,
+      "exempt": [
+        "stove",
+        "cake",
+        "measles"
+      ],
+      "wordCount": 319,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "baby(1)",
+        "fun(1)",
+        "birthday(1)",
+        "dear(1)",
+        "slowly(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9465,
+      "coreCoverage": 0.9671,
+      "exempt": [
+        "stove",
+        "cake",
+        "measles"
+      ],
+      "wordCount": 486,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "birthday(2)",
+        "afraid(2)",
+        "brown(1)",
+        "farmers(1)",
+        "holes(1)",
+        "smoked(1)",
+        "wood(1)",
+        "weak(1)",
+        "angry(1)",
+        "knee(1)",
+        "piano(1)",
+        "relative(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.948,
+      "coreCoverage": 0.9604,
+      "exempt": [
+        "stove",
+        "cake",
+        "measles"
+      ],
+      "wordCount": 673,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "birthday(3)",
+        "laughter(2)",
+        "cheerful(1)",
+        "steady(1)",
+        "loud(1)",
+        "hungry(1)",
+        "gentle(1)",
+        "sewed(1)",
+        "whenever(1)",
+        "bake(1)",
+        "whispered(1)",
+        "hugged(1)",
+        "wet(1)",
+        "sewing(1)",
+        "cheer(1)",
+        "lonely(1)",
+        "temper(1)",
+        "noisy(1)",
+        "knee(1)",
+        "piano(1)",
+        "anymore(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9615,
+      "coreCoverage": 0.9652,
+      "exempt": [
+        "stove",
+        "cake",
+        "measles"
+      ],
+      "wordCount": 962,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sewing(3)",
+        "birthday(3)",
+        "noisy(2)",
+        "sleepy(1)",
+        "neat(1)",
+        "bravest(1)",
+        "dependable(1)",
+        "cheerful(1)",
+        "restless(1)",
+        "hungry(1)",
+        "someday(1)",
+        "frowned(1)",
+        "bakery(1)",
+        "batter(1)",
+        "sulked(1)",
+        "baked(1)",
+        "afterward(1)",
+        "weakened(1)",
+        "darkened(1)",
+        "healed(1)",
+        "lonely(1)",
+        "endless(1)",
+        "temper(1)",
+        "grumbled(1)",
+        "softened(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9364,
+      "coreCoverage": 0.9391,
+      "exempt": [
+        "stove",
+        "cake",
+        "measles"
+      ],
+      "wordCount": 1321,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "birthday(3)",
+        "restless(2)",
+        "temper(2)",
+        "crumb(2)",
+        "sewing(2)",
+        "noisy(2)",
+        "tread(2)",
+        "drowsy(1)",
+        "townspeople(1)",
+        "fondness(1)",
+        "widow(1)",
+        "courage(1)",
+        "needle(1)",
+        "eldest(1)",
+        "chopping(1)",
+        "flare(1)",
+        "brimming(1)",
+        "endlessly(1)",
+        "hungry(1)",
+        "solemn(1)",
+        "melt(1)",
+        "sewed(1)",
+        "candle(1)",
+        "feast(1)",
+        "cheerfulness(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9809,
+    "A2": 0.9671
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 5
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.143,
+      "summary3gramJaccard": 0.034,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.143,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0280",
+        "title": "The Little Mermaid",
+        "titleJaccard": 0.143,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0256",
+        "title": "The Wise Little Girl",
+        "titleJaccard": 0.125,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

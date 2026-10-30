@@ -1,0 +1,50 @@
+{
+  "id": "st-0324",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"He went up after them.\" is a little vague for a learner; \"He flew up after them.\" uses a word the text already has and reads more naturally.",
+        "\"There, his father found Martin and took him.\" followed by \"Nils ran into the house.\" leaves a small gap; \"took him into the house\" would make the next step clearer.",
+        "The fight with Smirre is reduced to the fox simply running away (no tree, no geese teasing him). That is an acceptable condensation, and A1 stays within present and past simple with only a few modals (can/could)."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "A2 and B1 have Akka alone flying low over the fox, while B2 and C1 have the geese coming one by one. In the original several geese do it, with Akka last, so both versions are defensible simplifications rather than a contradiction.",
+        "Quiz 2 \"after the night with the fox\" could read as \"the next day\"; \"in the morning after the fox came\" would be more precise. The keyed answer is still unambiguous."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No conditionals or passives found; \"The elf said Nils would become a normal boy again\" is reported speech, not a conditional.",
+        "Vocabulary (chest, treasures, crept, dawn, reach) is suitable for B1."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Akka went to see the elf and learned his condition\" could briefly be read as the elf's health; \"learned the elf's terms\" or \"his conditions for Nils\" would avoid this. The next sentence makes it clear.",
+        "The squirrel episode (a mother squirrel taken from her young) and the mines and cities match Lagerlöf's book."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Genuinely literary and not padded; idioms such as \"come down in the world\" and \"drive a harder bargain\" are used well.",
+        "Softening the slaughter of Martin into a sale at market is an acceptable change for children. The farewell at the shore and Martin staying on the farm follow the spirit of the original ending.",
+        "\"learned his condition\" has the same slight ambiguity as in B2, but at C1 it is acceptable."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "A faithful, well-graded retelling of Selma Lagerlöf's Nils Holgersson: the elf in the chest, the shrinking, Martin's flight, Akka, the Smirre night on the ice, the journey to Kebnekaise and the homecoming rescue, all in the right order. Grammar stays within each level's limits, the quizzes have single defensible answers, and the fox and the threat to Martin are handled gently enough for a 4+ rating. Only minor wording suggestions remain."
+}

@@ -1,0 +1,100 @@
+{
+  "id": "st-0338",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "\"He took a different tube,\" said the Bacteriologist. \"It was not the bad one. It has a new microbe in it.\"",
+          "problem": "In Wells's story there is no mix-up of tubes. The visitor steals exactly the tube he was shown. The Bacteriologist wanted to impress his guest, so he held up his new harmless microbe (the one he thinks causes blue patches on monkeys) and lied that it was cholera. The twist and its irony come from the scientist's boast. A 'wrong tube' accident changes how the story ends.",
+          "fix": "\"He took the tube that I showed him,\" said the Bacteriologist. \"But I told him a lie. I wanted to surprise him. It was not the bad microbe. It is a new microbe. This microbe makes animals blue. The young man drank it. Soon his face turns blue too!\" (In paragraph 1 nothing needs to change: the Bacteriologist's words there are his boast.)"
+        },
+        {
+          "criterion": "4. logic error",
+          "quote": "2. What did Minnie take to the Bacteriologist? — His tube / *His hat and coat / A cab",
+          "problem": "The A1 text only says \"She took his coat and ran out.\" and \"she gave him the coat\". A hat is never mentioned at A1, so the keyed answer is not supported by the text.",
+          "fix": "Change the keyed option to \"*His coat\", or change the text to \"She took his hat and coat and ran out.\""
+        }
+      ],
+      "notes": [
+        "\"Soon his face turns blue too!\" uses present simple for the future because the A1 tense rule requires it. It is a little odd but understandable. \"Soon his face is blue too!\" reads slightly more naturally.",
+        "A1 vocabulary is otherwise accessible. \"frighten\" is the only word above a strict beginner level, and context makes it clear."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "\"The young man took the wrong tube,\" said the Bacteriologist. \"The bad microbe is still at home. He took my new microbe.\"",
+          "problem": "This is the same change as at A1. In the original the visitor took the tube he was shown. The Bacteriologist had falsely called his new blue-making microbe cholera to impress him.",
+          "fix": "\"He took the tube that I showed him,\" said the Bacteriologist. \"But it was not the bad microbe. I wanted to surprise him, so I told him a lie. It is my new microbe. It does not hurt people, but it does a strange thing. It turns animals blue! Our young friend drank it. Soon he has a blue face too!\""
+        }
+      ],
+      "notes": [
+        "\"Minnie watched her husband from the window\" (A2) and \"Minnie saw her husband from the door\" (A1) differ slightly. This is harmless."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "\"The poor man took the wrong tube,\" said the Bacteriologist. \"The dangerous microbe is still safe on my table. He took my new microbe, the one I was studying this week.\"",
+          "problem": "The original twist is that the Bacteriologist knowingly showed the harmless new microbe and boasted that it was cholera. There was never a second, real cholera tube that got mixed up. The scientist's vanity is the point of the joke, and the retelling loses it.",
+          "fix": "\"The poor man took exactly the tube I showed him,\" said the Bacteriologist. \"But I wanted to impress him, so I told him it was the dangerous microbe. It wasn't. It's my new microbe, the one I have been studying this week. It cannot hurt anyone, but it does something very strange. It turns animals blue!\""
+        }
+      ],
+      "notes": [
+        "\"the one I was studying this week\" sounds a little odd. \"the one I have been studying this week\" is more natural.",
+        "At A1, A2 and B1 the reader is never told when the Bacteriologist realized the theft was harmless, so his white face and frantic chase sit awkwardly beside his laughter. The fidelity fix solves this: he knew the tube was harmless all along and chased it because it was a valuable new specimen."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "\"This one is the most dangerous of all,\" he said. \"It contains the microbe of cholera.\" ... \"The cholera tube had stood at the very end of the row, close to the wall. The empty space, he now remembered, was in the middle, where he kept the newest of his samples.\" ... \"In his hurry he grabbed the tube next to it\"",
+          "problem": "The retelling invents a mix-up of rack positions and a realization in the cab. In Wells the Bacteriologist held up his new blue-patch bacterium on purpose and lied that it was cholera, to astonish his guest. The visitor stole that very tube. The ending's mechanism and its irony (the scientist's boast backfires into comedy) are changed.",
+          "fix": "Paragraph 2: keep the boast but make it a lie, e.g. \"Then he took a small sealed tube from the rack ... 'This one is the most dangerous of all,' he said, though it was not quite true. 'It contains the microbe of cholera.'\" (Or leave the truth for the ending.) Delete the in-cab rack-memory paragraph, or replace it with the Bacteriologist simply urging the driver on to save his precious new specimen. Ending: \"My dear, I'm afraid I told him a story,\" said the Bacteriologist. \"I wanted to impress him, so I showed him my new microbe and said it was cholera. It is completely harmless, but it does something rather odd. It turns animals blue, in large bright patches.\""
+        },
+        {
+          "criterion": "4. logic error",
+          "quote": "1. How did the Bacteriologist work out which tube was missing? — *He remembered where the cholera tube stood in the rack / ...",
+          "problem": "Once the fidelity fix is applied, this question tests an invented event.",
+          "fix": "Replace it with e.g. \"Why did the Bacteriologist say the tube held cholera? — *He wanted to impress his visitor / Minnie asked him to / The tube was labelled cholera\"."
+        }
+      ],
+      "notes": [
+        "\"three of my monkeys are already blue\": in Wells the microbe turned a kitten, three puppies and a sparrow blue. It is only suspected of causing the blue patches on monkeys. \"it turned a kitten and three puppies blue\" would be more faithful.",
+        "Minnie bringing his boots is not in the original, as far as I recall, but it is harmless."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "\"This, now, is cholera,\" he announced, with the pride of a man showing off a rare bird. ... \"The cholera tube, he remembered, had stood at the far end of the row ... The gap had been in the middle\" ... \"the poor fellow has stolen the wrong tube. The cholera is sitting quietly in its rack at home.\"",
+          "problem": "The C1 text already hints at the scientist's vanity (\"flattered by his guest's attention\", \"the pride of a man showing off a rare bird\"), but it then turns the twist into an accidental mix-up. In Wells, the Bacteriologist deliberately showed the harmless blue-patch bacterium and, in his own words, like a fool called it Asiatic cholera. The famous closing irony depends on that boast.",
+          "fix": "Keep paragraph 2 but make the boast the lie. Replace the in-cab paragraph with the Bacteriologist urging his driver on because he has no intention of losing so interesting a specimen. Ending: \"My dear,\" said the Bacteriologist, wiping his eyes, \"I wanted to astonish him, so I showed him that little novelty I found last week and, like a fool, told him it was cholera. And he has run off with it to poison London.\" Then keep the blue-patches joke and Minnie's coat scene."
+        },
+        {
+          "criterion": "4. logic error",
+          "quote": "2. Why did the Bacteriologist keep following the first cab after he started to smile?",
+          "problem": "This question depends on the invented in-cab realization. After the fix it needs rewording.",
+          "fix": "\"Why did the visitor believe he was carrying cholera? — *The Bacteriologist had boasted that the tube held it / He read the label / Minnie told him\"."
+        }
+      ],
+      "notes": [
+        "\"three of mine already look like a sky in summer\": in the original the microbe turned a kitten, three puppies and a sparrow blue. It is only suspected of causing the patches on monkeys.",
+        "The prose is genuinely literary and well paced, and Minnie's belief that he has gone mad from his work matches the original nicely."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The language, levelling and age suitability are good at every level. The retelling fails on fidelity because it turns Wells's twist into an accidental 'wrong tube' mix-up. In the original, the Bacteriologist boastfully showed his harmless blue-making microbe and lied that it was cholera, and the visitor stole that very tube. The A1 quiz also keys 'hat and coat' when the A1 text mentions only the coat."
+}

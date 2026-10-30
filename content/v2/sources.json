@@ -1,5 +1,5 @@
 {
-  "_doc": "Klasik yeniden anlatimlarin kaynak eserleri. Yalniz 1929 oncesi yayimlanmis, kamu malı (public domain) eserler. Metinler kaynaktan cumle kopyalanmadan, tamamen yeniden yazilmistir. names: hikayede gecen ozel isimler (kaynak esere ait). keyTerms: hikayenin cekirdek nesnesi olan dusuk frekansli ortak isimler (A1-A2 zipf<3.5 orani hesabinda ozel isim gibi sayilir, raporda ayrica gosterilir; en fazla 2). fourPlus: App Store 4+ uygunluk notu (kan/şiddet/cinayet ayrıntısı/cinsellik yok; yumuşatmalar).",
+  "_doc": "Klasik yeniden anlatimlarin kaynak eserleri. Yalniz 1929 oncesi yayimlanmis, kamu malı (public domain) eserler. Metinler kaynaktan cumle kopyalanmadan, tamamen yeniden yazilmistir. names: hikayede gecen ozel isimler (kaynak esere ait). keyTerms: hikayenin cekirdek nesnesi olan dusuk frekansli ortak isimler (A1-A2 zipf<3.5 orani hesabinda ozel isim gibi sayilir, raporda ayrica gosterilir; en fazla 5; batch-03'ten itibaren ilk 5'i A1-A2 cekirdek NGSL kapsamindan da muaf). fourPlus: App Store 4+ uygunluk notu (kan/şiddet/cinayet ayrıntısı/cinsellik yok; yumuşatmalar).",
   "series": "classics",
   "stories": {
     "st-0273": {
@@ -1360,6 +1360,1213 @@
       ],
       "fourPlus": "Kale kuşatması komik ve kansız. Uygun.",
       "batch": "classics-batch-02"
+    },
+    "st-0323": {
+      "title": "The Swiss Family Robinson",
+      "genre": "adventure",
+      "work": "Der Schweizerische Robinson",
+      "author": "Johann David Wyss",
+      "firstPublished": 1812,
+      "originalLanguage": "de",
+      "episode": "Fırtınada batan gemiden bir İsviçreli aile (anne, baba, dört oğul) ıssız bir adaya çıkar; gemiden alet ve hayvan kurtarır, ağaç üstünde ev (Falconhurst) kurar, adayı keşfedip çiftlik düzenler, bir mağara bulur; on yıl sonra bir İngiliz gemisi gelir: Fritz ve Franz gemiyle Avrupa'ya döner, anne, baba, Ernest ve Jack adada kalmayı seçer (yaygın İngilizce baskının sonu).",
+      "names": [
+        "Fritz",
+        "Ernest",
+        "Jack",
+        "Franz",
+        "Turk",
+        "Juno",
+        "Falconhurst"
+      ],
+      "keyTerms": [
+        "island",
+        "raft",
+        "tree house"
+      ],
+      "fourPlus": "Hayvan avları ve öldürme anlatılmaz; hayvanlar evcilleştirilir. Fırtına gerilimi ayrıntısız. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0324": {
+      "title": "Nils and the Wild Geese",
+      "genre": "adventure",
+      "work": "Nils Holgerssons underbara resa genom Sverige",
+      "author": "Selma Lagerlöf",
+      "firstPublished": 1906,
+      "originalLanguage": "sv",
+      "episode": "Haylaz çocuk Nils, bir cini kızdırınca küçülür; evdeki beyaz kaz Martin'in sırtında yaban kazlarıyla İsveç'i baştan başa dolaşır; tilki Smirre'den kazları korur, hayvanlara iyilik yapmayı öğrenir; bahar döndüğünde iyi bir çocuk olarak eski boyuna kavuşur.",
+      "names": [
+        "Nils",
+        "Holgersson",
+        "Martin",
+        "Akka",
+        "Kebnekaise",
+        "Smirre",
+        "Sweden",
+        "Skane"
+      ],
+      "keyTerms": [
+        "goose",
+        "geese",
+        "elf",
+        "fox"
+      ],
+      "fourPlus": "Tilkinin saldırıları kansız, kazlar kaçar. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0325": {
+      "title": "Gulliver in the Land of Giants",
+      "genre": "adventure",
+      "work": "Gulliver's Travels, Part II (Brobdingnag)",
+      "author": "Jonathan Swift",
+      "firstPublished": 1726,
+      "originalLanguage": "en",
+      "episode": "Gulliver bu kez devler ülkesi Brobdingnag'a düşer; bir çiftçi onu panayırda gösterir; kraliçe onu satın alır, küçük kız Glumdalclitch ona bakar; kral ile Avrupa üzerine sohbet eder; bir kartal kutusunu denize düşürür ve bir gemi onu kurtarır.",
+      "names": [
+        "Gulliver",
+        "Glumdalclitch",
+        "Brobdingnag",
+        "England"
+      ],
+      "keyTerms": [
+        "giant",
+        "giants",
+        "box"
+      ],
+      "fourPlus": "Saray cücesinin şakaları ve fare/arı sahneleri korkutmayan, kısa; kral ile barut konuşması yok. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0326": {
+      "title": "Robin Hood and Little John",
+      "genre": "adventure",
+      "work": "The Merry Adventures of Robin Hood",
+      "author": "Howard Pyle",
+      "firstPublished": 1883,
+      "originalLanguage": "en",
+      "episode": "Robin Hood dar bir köprüde iri bir yabancıyla karşılaşır; ikisi de geri çekilmez ve sopalarla dövüşür; yabancı Robin'i dereye düşürür; Robin onu ormandaki arkadaşlarına katılmaya çağırır, adamlar onu 'Little John' diye adlandırır.",
+      "names": [
+        "Robin Hood",
+        "Little John",
+        "John Little",
+        "Will Stutely",
+        "Sherwood",
+        "Nottingham"
+      ],
+      "keyTerms": [
+        "bridge",
+        "staff",
+        "stream",
+        "outlaws",
+        "horn"
+      ],
+      "fourPlus": "Sopa düellosu komik ve kansız; yalnız ıslanma. Disney tilki Robin öğeleri yasak. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0327": {
+      "title": "William Tell",
+      "genre": "adventure",
+      "work": "Wilhelm Tell",
+      "author": "Friedrich Schiller",
+      "firstPublished": 1804,
+      "originalLanguage": "de",
+      "episode": "Vali Gessler meydana bir şapka diktirip herkesin selam vermesini ister; avcı William Tell selam vermez; ceza olarak oğlunun başındaki elmayı vurması istenir; Tell elmayı vurur; Gessler onu tutuklatır, Tell fırtınada tekneden kaçar ve halk özgürlüğe kavuşur.",
+      "names": [
+        "William Tell",
+        "Tell",
+        "Walter",
+        "Gessler",
+        "Altdorf",
+        "Lucerne",
+        "Switzerland"
+      ],
+      "keyTerms": [
+        "apple",
+        "hat",
+        "crossbow",
+        "bow"
+      ],
+      "fourPlus": "Elma atışı korunur, çocuk zarar görmez. Gessler'in öldürülmesi anlatılmaz; 'ülkeden kaçtı/halk özgür oldu'. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0328": {
+      "title": "Sadko and the Sea King",
+      "genre": "adventure",
+      "work": "Sadko (bylina)",
+      "author": "Russian folk epic",
+      "firstPublished": 1860,
+      "originalLanguage": "ru",
+      "episode": "Novgorodlu fakir gusli çalgıcısı Sadko göl kıyısında çalar; Deniz Kralı onu ödüllendirir ve zengin olur; bir yolculukta gemi denizde durur, Sadko denizin dibindeki saraya iner, kral için çalar; kral ona deniz kızlarından eş seçtirir; Sadko akıllıca seçer ve uyandığında evinin yakınındadır.",
+      "names": [
+        "Sadko",
+        "Novgorod",
+        "Volkhov",
+        "Ilmen"
+      ],
+      "keyTerms": [
+        "harp",
+        "sea king",
+        "palace"
+      ],
+      "fourPlus": "Fırtınalar ve batmalar ayrıntısız; kimse ölmez. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0329": {
+      "title": "Thor's Journey to Utgard",
+      "genre": "adventure",
+      "work": "Prose Edda (Gylfaginning)",
+      "author": "Snorri Sturluson",
+      "firstPublished": 1220,
+      "originalLanguage": "non",
+      "episode": "Thor, Loki ve iki çocuk dev Utgard-Loki'nin şatosuna gider; yolda dev bir eldivende uyurlar; şatoda yarışmalara girerler: Loki yemek yarışını, Thialfi koşuyu, Thor içme, kedi kaldırma ve güreşi kaybeder; sonunda dev, hepsinin büyü olduğunu açıklar: boynuz denize, kedi dünyayı saran yılana, güreşilen kadın yaşlılığa bağlıdır.",
+      "names": [
+        "Thor",
+        "Loki",
+        "Thialfi",
+        "Roskva",
+        "Utgard",
+        "Utgard-Loki",
+        "Skrymir",
+        "Logi",
+        "Hugi",
+        "Elli"
+      ],
+      "keyTerms": [
+        "giant",
+        "horn",
+        "contest",
+        "hammer"
+      ],
+      "fourPlus": "Kavga yok; komik hileler. Boynuzdan içilen şey 'su' (alkol yok). Marvel öğeleri yasak. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0330": {
+      "title": "The Ebony Horse",
+      "genre": "adventure",
+      "work": "The Arabian Nights: The Ebony Horse",
+      "author": "Andrew Lang (ed.)",
+      "firstPublished": 1885,
+      "originalLanguage": "en",
+      "episode": "Bir bilge krala uçan abanoz bir at getirir; prens ata biner ve uzak bir ülkeye uçar, orada bir prensese âşık olur; bilge kızgınlıkla prensesi kaçırır, prens onu arar; deli numarası yapan prensesi bulup atla birlikte uçarak eve döner ve evlenirler.",
+      "names": [
+        "Persia",
+        "Sana"
+      ],
+      "keyTerms": [
+        "horse",
+        "ebony",
+        "sage",
+        "princess"
+      ],
+      "fourPlus": "Kaçırma 'onu götürdü' düzeyinde; hapis ve ceza ayrıntısız. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0331": {
+      "title": "Prince Ahmed and the Fairy Peri Banou",
+      "genre": "adventure",
+      "work": "The Arabian Nights: Prince Ahmed and the Fairy Paribanou",
+      "author": "Andrew Lang (ed.)",
+      "firstPublished": 1885,
+      "originalLanguage": "en",
+      "episode": "Sultan, yeğeni Nouronnihar'ı en güzel armağanı getirecek oğluna vereceğini söyler; Houssain uçan halı, Ali fildişi dürbün, Ahmed iyileştiren elma bulur; üçü birlikte prensesi kurtarır; ok yarışında Ahmed'in oku kaybolur, onu ararken peri Banou'yu bulur ve onunla evlenir.",
+      "names": [
+        "Ahmed",
+        "Houssain",
+        "Ali",
+        "Nouronnihar",
+        "Peri Banou",
+        "Bisnagar"
+      ],
+      "keyTerms": [
+        "carpet",
+        "tube",
+        "apple",
+        "fairy",
+        "arrow"
+      ],
+      "fourPlus": "Kardeş kıskançlığı ve sultanın tuzakları şiddetsiz; Schaibar'ın öldürmesi bölümü yok. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0332": {
+      "title": "A Case of Identity",
+      "genre": "mystery",
+      "work": "The Adventures of Sherlock Holmes: A Case of Identity",
+      "author": "Arthur Conan Doyle",
+      "firstPublished": 1891,
+      "originalLanguage": "en",
+      "episode": "Miss Mary Sutherland nişanlısı Hosmer Angel'ın düğün sabahı kaybolduğunu söyler; Holmes daktilo ile yazılmış mektupları inceler; Angel'ın aslında üvey babası Windibank olduğunu ve kızın parasını elinde tutmak için kılık değiştirdiğini kanıtlar.",
+      "names": [
+        "Sherlock Holmes",
+        "Holmes",
+        "Watson",
+        "Mary Sutherland",
+        "Hosmer Angel",
+        "Windibank",
+        "Baker Street"
+      ],
+      "keyTerms": [
+        "typewriter",
+        "letters",
+        "disguise"
+      ],
+      "fourPlus": "Suç yok, aldatma var; Holmes'un kırbaç tehdidi yok. Tütün yok. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0333": {
+      "title": "The Naval Treaty",
+      "genre": "mystery",
+      "work": "The Memoirs of Sherlock Holmes: The Naval Treaty",
+      "author": "Arthur Conan Doyle",
+      "firstPublished": 1893,
+      "originalLanguage": "en",
+      "episode": "Dışişlerinde çalışan Percy Phelps'in masasından gizli bir antlaşma çalınır; Phelps hastalanır; Holmes zile, kapıya ve pencerelere bakar; hırsızın Phelps'in nişanlısının kardeşi Joseph Harrison olduğunu ve belgeyi Phelps'in yatak odasında sakladığını bulur; belgeyi kahvaltıda tabak altında geri verir.",
+      "names": [
+        "Sherlock Holmes",
+        "Holmes",
+        "Watson",
+        "Percy Phelps",
+        "Joseph Harrison",
+        "Annie Harrison",
+        "Woking",
+        "London"
+      ],
+      "keyTerms": [
+        "treaty",
+        "paper",
+        "bell"
+      ],
+      "fourPlus": "Ölüm yok; bıçak sahnesi 'kaçtı' düzeyinde, yara yok. Tütün yok. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0334": {
+      "title": "The Stolen White Elephant",
+      "genre": "mystery",
+      "work": "The Stolen White Elephant",
+      "author": "Mark Twain",
+      "firstPublished": 1882,
+      "originalLanguage": "en",
+      "episode": "Siam kralının İngiltere kraliçesine hediyesi beyaz fil New York'ta kaybolur; ünlü dedektif Blunt yüzlerce dedektifle iz sürer, filin her gün başka bir kasabada görüldüğü telgraflar gelir; anlatıcı bütün parasını harcar; fil sonunda karakolun bodrumunda bulunur, dedektifler yine kendilerini över.",
+      "names": [
+        "Blunt",
+        "Siam",
+        "New York",
+        "Jumbo"
+      ],
+      "keyTerms": [
+        "elephant",
+        "detective",
+        "telegram",
+        "reward"
+      ],
+      "fourPlus": "Kaynakta filin ölümü ve yıkımları var: filin sonu 'bodrumda uyurken bulundu'; yıkımlar komik ve kişisiz. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0335": {
+      "title": "The Queer Feet",
+      "genre": "mystery",
+      "work": "The Innocence of Father Brown: The Queer Feet",
+      "author": "G. K. Chesterton",
+      "firstPublished": 1910,
+      "originalLanguage": "en",
+      "episode": "Rahip Father Brown lüks bir otelin küçük odasında yazı yazarken koridordaki ayak seslerinin değiştiğini duyar; biri bazen garson gibi hızlı, bazen beyefendi gibi yavaş yürür; hırsız Flambeau'nun iki rol oynadığını anlar, gümüş çatal-bıçakları geri alır.",
+      "names": [
+        "Father Brown",
+        "Flambeau",
+        "Vernon Hotel",
+        "Twelve True Fishermen"
+      ],
+      "keyTerms": [
+        "footsteps",
+        "silver",
+        "waiter"
+      ],
+      "fourPlus": "Şiddet yok; kaynaktaki ölen garson 'hasta garson' olarak verilir. Şarap/içki yok. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0336": {
+      "title": "The Flying Stars",
+      "genre": "mystery",
+      "work": "The Innocence of Father Brown: The Flying Stars",
+      "author": "G. K. Chesterton",
+      "firstPublished": 1911,
+      "originalLanguage": "en",
+      "episode": "Noel'de bir evde 'Uçan Yıldızlar' adlı elmaslar hediye edilir; çocuklar için pandomim oyunu oynanırken elmaslar kaybolur; Father Brown, palyaço kılığındaki Flambeau'nun elmasları aldığını anlar ve ağaçta ona iyi olmasını söyler; Flambeau elmasları bırakır.",
+      "names": [
+        "Father Brown",
+        "Flambeau",
+        "Ruby",
+        "Crook",
+        "Sir Leopold",
+        "Putney"
+      ],
+      "keyTerms": [
+        "diamonds",
+        "pantomime",
+        "clown"
+      ],
+      "fourPlus": "Hırsızlık, şiddet yok. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0337": {
+      "title": "The Arrest of Arsène Lupin",
+      "genre": "mystery",
+      "work": "Arsène Lupin, gentleman-cambrioleur: L'Arrestation d'Arsène Lupin",
+      "author": "Maurice Leblanc",
+      "firstPublished": 1905,
+      "originalLanguage": "fr",
+      "episode": "Atlantik'i geçen bir gemide, Arsène Lupin'in yolcular arasında olduğu telsizle duyurulur; anlatıcı genç Nelly ile vakit geçirirken herkes Lupin'i arar; mücevherler kaybolur; New York'ta dedektif Ganimard bekler ve Lupin'in anlatıcı olduğu ortaya çıkar; Nelly fotoğraf makinesini suya atarak onu korur.",
+      "names": [
+        "Arsene Lupin",
+        "Lupin",
+        "Nelly",
+        "Ganimard",
+        "Rozaine",
+        "Provence",
+        "New York"
+      ],
+      "keyTerms": [
+        "ship",
+        "camera",
+        "jewels"
+      ],
+      "fourPlus": "Hırsızlık zarif, şiddet yok. Netflix 'Lupin' (Assane Diop) öğeleri yasak. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0338": {
+      "title": "The Stolen Bacillus",
+      "genre": "mystery",
+      "work": "The Stolen Bacillus",
+      "author": "H. G. Wells",
+      "firstPublished": 1894,
+      "originalLanguage": "en",
+      "episode": "Bir bakteriyolog ziyaretçisine bir tüpte tehlikeli mikrop olduğunu söyler; ziyaretçi tüpü çalıp at arabasıyla kaçar; bilim adamı, onu arayan karısıyla birlikte Londra sokaklarında kovalar; tüp kırılır, ziyaretçi içini içer; meğer tüp yalnız maymunları maviye boyayan zararsız bir mikropmuş.",
+      "names": [
+        "Bacteriologist",
+        "Minnie",
+        "London",
+        "Waterloo Bridge"
+      ],
+      "keyTerms": [
+        "tube",
+        "cab",
+        "chase",
+        "microbe"
+      ],
+      "fourPlus": "Kaynaktaki anarşist bomba niyeti 'şehri korkutmak istiyordu' düzeyine indirilir; zararsız komik son. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0339": {
+      "title": "Sense and Sensibility",
+      "genre": "romance",
+      "work": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "firstPublished": 1811,
+      "originalLanguage": "en",
+      "episode": "Dashwood kız kardeşler babalarının ölümünden sonra küçük bir eve taşınır; sakin Elinor, Edward'a; duygusal Marianne, Willoughby'ye bağlanır; Willoughby zengin biriyle evlenmek için Marianne'i bırakır, Marianne ağır hastalanır; Edward'ın gizli nişanı biter, Elinor ile evlenir; Marianne, sabırlı Colonel Brandon'ı sevmeyi öğrenir.",
+      "names": [
+        "Elinor",
+        "Marianne",
+        "Dashwood",
+        "Edward",
+        "Ferrars",
+        "Willoughby",
+        "Colonel Brandon",
+        "Lucy Steele",
+        "Barton",
+        "Norland"
+      ],
+      "keyTerms": [
+        "sisters",
+        "cottage",
+        "letter"
+      ],
+      "fourPlus": "Willoughby'nin skandalı yalnız 'kötü davrandı'; düello ve Eliza öyküsü yok. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0340": {
+      "title": "Persuasion",
+      "genre": "romance",
+      "work": "Persuasion",
+      "author": "Jane Austen",
+      "firstPublished": 1817,
+      "originalLanguage": "en",
+      "episode": "Anne Elliot sekiz yıl önce, akıl hocasının sözüne uyarak deniz subayı Frederick Wentworth ile nişanını bozmuştur; Wentworth zengin bir kaptan olarak döner; Lyme'da Louisa düşer ve Anne'in soğukkanlılığı dikkat çeker; Bath'ta Wentworth Anne'e mektup yazar ve yeniden evlenme teklif eder.",
+      "names": [
+        "Anne Elliot",
+        "Anne",
+        "Frederick Wentworth",
+        "Wentworth",
+        "Lady Russell",
+        "Louisa Musgrove",
+        "Lyme",
+        "Bath",
+        "Sir Walter"
+      ],
+      "keyTerms": [
+        "navy",
+        "letter",
+        "captain"
+      ],
+      "fourPlus": "Louisa'nın düşüşü yaralanma ayrıntısız ('düştü, bayıldı, iyileşti'). Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0341": {
+      "title": "Northanger Abbey",
+      "genre": "romance",
+      "work": "Northanger Abbey",
+      "author": "Jane Austen",
+      "firstPublished": 1817,
+      "originalLanguage": "en",
+      "episode": "Gotik romanlara düşkün Catherine Morland Bath'ta Henry Tilney ile tanışır; Tilney ailesinin eski manastır evine davet edilir; evde gizemli bir sır olduğunu hayal eder, Henry onu nazikçe uyandırır; General Tilney onu evden gönderir ama Henry gelip onunla evlenmek ister.",
+      "names": [
+        "Catherine Morland",
+        "Catherine",
+        "Henry Tilney",
+        "Henry",
+        "Eleanor Tilney",
+        "General Tilney",
+        "Isabella Thorpe",
+        "John Thorpe",
+        "Bath",
+        "Northanger"
+      ],
+      "keyTerms": [
+        "abbey",
+        "novels",
+        "chest"
+      ],
+      "fourPlus": "Gotik parodi korkutmayan, komik; kaynaktaki 'karısını öldürdü' kuşkusu 'eski bir sır sandı' düzeyinde. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0342": {
+      "title": "The Courtship of Miles Standish",
+      "genre": "romance",
+      "work": "The Courtship of Miles Standish",
+      "author": "Henry Wadsworth Longfellow",
+      "firstPublished": 1858,
+      "originalLanguage": "en",
+      "episode": "Plymouth'ta yüzbaşı Miles Standish, utangaç olduğu için genç arkadaşı John Alden'dan Priscilla'ya kendi adına evlenme teklifi götürmesini ister; John da Priscilla'yı sevmektedir ama sözünü tutar; Priscilla 'Neden kendin için konuşmuyorsun, John?' der; sonunda John ile Priscilla evlenir, Standish onları kutlar.",
+      "names": [
+        "Miles Standish",
+        "Standish",
+        "John Alden",
+        "John",
+        "Priscilla",
+        "Plymouth",
+        "Mayflower"
+      ],
+      "keyTerms": [
+        "captain",
+        "proposal",
+        "wedding"
+      ],
+      "fourPlus": "Yerlilerle çatışma sahnesi yok; Standish 'uzak bir yolculuğa çıktı'. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0343": {
+      "title": "Little Lord Fauntleroy",
+      "genre": "daily",
+      "work": "Little Lord Fauntleroy",
+      "author": "Frances Hodgson Burnett",
+      "firstPublished": 1886,
+      "originalLanguage": "en",
+      "episode": "New York'ta annesiyle yaşayan Cedric, İngiltere'deki huysuz büyükbabası Earl'ün varisi olduğunu öğrenir; şatoya gider, iyiliğiyle büyükbabasını değiştirir; başka bir çocuğun varis olduğu iddiası çıkar ama yalan olduğu anlaşılır; Earl, Cedric'in annesini de şatoya alır.",
+      "names": [
+        "Cedric",
+        "Cedric Errol",
+        "Fauntleroy",
+        "Earl of Dorincourt",
+        "Dearest",
+        "Mr Hobbs",
+        "Dick",
+        "Dorincourt",
+        "New York"
+      ],
+      "keyTerms": [
+        "earl",
+        "castle",
+        "heir"
+      ],
+      "fourPlus": "Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0344": {
+      "title": "Rebecca of Sunnybrook Farm",
+      "genre": "daily",
+      "work": "Rebecca of Sunnybrook Farm",
+      "author": "Kate Douglas Wiggin",
+      "firstPublished": 1903,
+      "originalLanguage": "en",
+      "episode": "Neşeli ve hayalperest Rebecca, okula gitmek için sert teyzeleri Miranda ve Jane'in yanına gönderilir; posta arabasında nazik sürücüyle yolculuk eder; sabun satarken Adam Ladd ile tanışır ve ödül kazanır, okulda başarılı olur; Miranda teyze ölünce evi Rebecca'ya bırakır ve Rebecca ailesine yardım eder.",
+      "names": [
+        "Rebecca",
+        "Rebecca Randall",
+        "Miranda",
+        "Jane",
+        "Adam Ladd",
+        "Mr Aladdin",
+        "Emma Jane",
+        "Riverboro",
+        "Sunnybrook"
+      ],
+      "keyTerms": [
+        "aunts",
+        "soap",
+        "school"
+      ],
+      "fourPlus": "Miranda teyzenin ölümü sakin ve kısa. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0345": {
+      "title": "Hans Brinker and the Silver Skates",
+      "genre": "daily",
+      "work": "Hans Brinker, or the Silver Skates",
+      "author": "Mary Mapes Dodge",
+      "firstPublished": 1865,
+      "originalLanguage": "en",
+      "episode": "Hollandalı yoksul çocuk Hans ve kardeşi Gretel tahta patenleriyle gümüş paten yarışına girmek ister; babaları yıllar önce bir kazada hafızasını yitirmiştir; Hans ünlü doktor Boekman'ı ikna eder, doktor babayı iyileştirir; baba kayıp parayı hatırlar; Gretel kızlar yarışını kazanır.",
+      "names": [
+        "Hans",
+        "Hans Brinker",
+        "Gretel",
+        "Raff Brinker",
+        "Dr. Boekman",
+        "Hilda",
+        "Peter",
+        "Holland",
+        "Amsterdam"
+      ],
+      "keyTerms": [
+        "skates",
+        "canal",
+        "race",
+        "doctor"
+      ],
+      "fourPlus": "Babanın ameliyatı ayrıntısız ('doktor onu iyileştirdi'). Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0346": {
+      "title": "What Katy Did",
+      "genre": "daily",
+      "work": "What Katy Did",
+      "author": "Susan Coolidge",
+      "firstPublished": 1872,
+      "originalLanguage": "en",
+      "episode": "Hırçın ve dalgın Katy, en büyük kardeş olarak iyi olmak ister ama hep yaramazlık yapar; yasaklanan bir salıncaktan düşer ve uzun süre yataktan kalkamaz; kuzeni Helen ona sabrı öğretir; Katy evi odasından yönetmeyi, kardeşlerine bakmayı öğrenir ve sonunda yeniden yürür.",
+      "names": [
+        "Katy",
+        "Katy Carr",
+        "Clover",
+        "Elsie",
+        "Dorry",
+        "Johnnie",
+        "Phil",
+        "Cousin Helen",
+        "Aunt Izzie",
+        "Papa"
+      ],
+      "keyTerms": [
+        "swing",
+        "family",
+        "patience"
+      ],
+      "fourPlus": "Düşüş ve sakatlık sakin anlatılır; ağrı ayrıntısı yok. Aunt Izzie'nin ölümü 'hastalandı ve öldü' tek cümle. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0347": {
+      "title": "Silas Marner",
+      "genre": "daily",
+      "work": "Silas Marner",
+      "author": "George Eliot",
+      "firstPublished": 1861,
+      "originalLanguage": "en",
+      "episode": "Haksız yere suçlanıp köyünden kovulan dokumacı Silas, Raveloe'da yalnız yaşar ve altın biriktirir; altını çalınır; bir kış gecesi altın saçlı küçük bir kız kapısından içeri girer; Silas ona Eppie adını verip büyütür; yıllar sonra gerçek babası Godfrey onu ister, Eppie Silas'ın yanında kalmayı seçer.",
+      "names": [
+        "Silas Marner",
+        "Silas",
+        "Eppie",
+        "Godfrey Cass",
+        "Dunstan",
+        "Dolly Winthrop",
+        "Raveloe",
+        "Lantern Yard"
+      ],
+      "keyTerms": [
+        "weaver",
+        "gold",
+        "loom"
+      ],
+      "fourPlus": "Molly'nin afyon ve ölüm sahnesi yok; çocuk kapıda bulunur, 'annesi karda yorgun düşmüştü' bile verilmez, yalnız 'kimse onu aramadı'. Dunstan'ın ölümü 'kayboldu, yıllar sonra bulundu' ayrıntısız. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0348": {
+      "title": "Five Little Peppers and How They Grew",
+      "genre": "daily",
+      "work": "Five Little Peppers and How They Grew",
+      "author": "Margaret Sidney",
+      "firstPublished": 1881,
+      "originalLanguage": "en",
+      "episode": "Dul Mamsie ve beş çocuğu 'Küçük Kahverengi Ev'de yoksul ama mutlu yaşar; Polly annesinin doğum gününe kek yapar, çocuklar kızamık geçirir; zengin çocuk Jasper ile dost olurlar; Jasper'ın babası aileyi evine alır ve Mamsie'nin akrabası olduğu anlaşılır.",
+      "names": [
+        "Polly",
+        "Ben",
+        "Joel",
+        "Davie",
+        "Phronsie",
+        "Mamsie",
+        "Mrs. Pepper",
+        "Jasper",
+        "Mr. King"
+      ],
+      "keyTerms": [
+        "stove",
+        "cake",
+        "measles"
+      ],
+      "fourPlus": "Hastalık sahneleri sakin. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0349": {
+      "title": "The Story of the Treasure Seekers",
+      "genre": "daily",
+      "work": "The Story of the Treasure Seekers",
+      "author": "E. Nesbit",
+      "firstPublished": 1899,
+      "originalLanguage": "en",
+      "episode": "Bastable kardeşler, işleri bozulan babalarına yardım için para bulmaya karar verir; bahçede hazine kazarlar, gazete çıkarırlar, kibarca soyguncu taklidi yaparlar; hepsi komik biçimde başarısız olur; sonunda Hint amcası onlara iyiliği için zengin olmadığını sanarak yardım eder ve aile kurtulur.",
+      "names": [
+        "Oswald",
+        "Dora",
+        "Dicky",
+        "Alice",
+        "Noel",
+        "H. O.",
+        "Bastable",
+        "Albert",
+        "Lewisham"
+      ],
+      "keyTerms": [
+        "treasure",
+        "uncle",
+        "newspaper"
+      ],
+      "fourPlus": "Kaynaktaki 'Hintli amca' etnik tasvir değil İngiliz akraba; soygun oyunu şiddetsiz ve komik. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0350": {
+      "title": "Mrs. Wiggs of the Cabbage Patch",
+      "genre": "daily",
+      "work": "Mrs. Wiggs of the Cabbage Patch",
+      "author": "Alice Hegan Rice",
+      "firstPublished": 1901,
+      "originalLanguage": "en",
+      "episode": "Kentucky'de yoksul bir mahallede dul Mrs. Wiggs beş çocuğuyla her şeyin iyi yanını görür; zengin genç Lucy Olcott onlara Noel sepeti getirir ve dost olur; çocuklar tiyatroya gider, aile bir at kurtarır; Lucy nişanlısıyla barışır, Wiggs ailesi düzene girer.",
+      "names": [
+        "Mrs. Wiggs",
+        "Lovey Mary",
+        "Billy",
+        "Asia",
+        "Australia",
+        "Europena",
+        "Lucy Olcott",
+        "Kentucky"
+      ],
+      "keyTerms": [
+        "cabbage",
+        "basket",
+        "horse"
+      ],
+      "fourPlus": "Oğul Jim'in ölümü yok (Jim yalnız 'uzakta çalışan büyük oğul' veya hiç anılmaz). Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0351": {
+      "title": "In the Abyss",
+      "genre": "scifi",
+      "work": "In the Abyss",
+      "author": "H. G. Wells",
+      "firstPublished": 1896,
+      "originalLanguage": "en",
+      "episode": "Elstead adlı bir bilim adamı çelik bir küreyle okyanusun en derin yerine iner; karanlıkta ışık saçan balıkları ve deniz dibinde yaşayan, kendisine tapınır gibi bakan akıllı canlıların ışıklı şehrini görür; ip kopar ama kürenin ağırlığı çözülür ve yüzeye çıkar; ikinci dalışından dönmez.",
+      "names": [
+        "Elstead",
+        "Weybridge",
+        "Steevens",
+        "Ptarmigan"
+      ],
+      "keyTerms": [
+        "sphere",
+        "ocean",
+        "lights"
+      ],
+      "fourPlus": "Kaynaktaki 'ikinci dalıştan dönmedi' ölüm vurgusuz ('bir daha görülmedi'); canlılar korkutmayan, merak uyandıran. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0352": {
+      "title": "The Magic Shop",
+      "genre": "scifi",
+      "work": "The Magic Shop",
+      "author": "H. G. Wells",
+      "firstPublished": 1903,
+      "originalLanguage": "en",
+      "episode": "Bir baba ile oğlu Gip Londra'da tuhaf bir sihir dükkanına girer; satıcı gerçek sihir yapar: cebinden kuşlar çıkar, kutular büyür, oyuncak askerler canlanır; Gip bir an kaybolur ve babası korkar; dışarıda Gip yanında belirir; eve aldıkları oyuncaklar gerçekten sihirlidir.",
+      "names": [
+        "Gip",
+        "Regent Street",
+        "London"
+      ],
+      "keyTerms": [
+        "shop",
+        "magic",
+        "soldiers"
+      ],
+      "fourPlus": "Korku hafif, masalsı; kimse zarar görmez. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0353": {
+      "title": "The Truth About Pyecraft",
+      "genre": "scifi",
+      "work": "The Truth About Pyecraft",
+      "author": "H. G. Wells",
+      "firstPublished": 1903,
+      "originalLanguage": "en",
+      "episode": "Şişman Pyecraft, anlatıcıdan büyükannesinin Hint tariflerinden zayıflatıcı bir ilaç ister; ilaç ağırlığını alır, kilosunu değil; Pyecraft tavana yapışır ve havada süzülür; anlatıcı ona kurşun ağırlıklarla dolu iç çamaşırı önerir; Pyecraft kulüpte gizlice ağır giysilerle yaşar.",
+      "names": [
+        "Pyecraft",
+        "Formalyn"
+      ],
+      "keyTerms": [
+        "recipe",
+        "ceiling",
+        "weight",
+        "lead"
+      ],
+      "fourPlus": "Komik; 'yağ' ve kilo şakaları kırıcı değil, nazik. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0354": {
+      "title": "Doctor Ox's Experiment",
+      "genre": "scifi",
+      "work": "Une fantaisie du docteur Ox",
+      "author": "Jules Verne",
+      "firstPublished": 1872,
+      "originalLanguage": "fr",
+      "episode": "Flaman kasabası Quiquendone o kadar sakindir ki kimse acele etmez; Doctor Ox kasabaya ışık için gaz borusu döşer ama aslında havaya oksijen verir; insanlar hızlanır, tartışır, bitkiler dev olur; kule tepesinde herkes heyecanlanır; bir patlamayla deney biter, kasaba yine sakinleşir.",
+      "names": [
+        "Doctor Ox",
+        "Ygene",
+        "Quiquendone",
+        "Van Tricasse",
+        "Niklausse",
+        "Flanders"
+      ],
+      "keyTerms": [
+        "oxygen",
+        "gas",
+        "experiment"
+      ],
+      "fourPlus": "Kaynaktaki düello ve savaş ilanı 'çok tartıştılar' düzeyine iner; patlamada kimse yaralanmaz. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0355": {
+      "title": "Off on a Comet",
+      "genre": "scifi",
+      "work": "Hector Servadac",
+      "author": "Jules Verne",
+      "firstPublished": 1877,
+      "originalLanguage": "fr",
+      "episode": "Bir kuyruklu yıldız Dünya'ya sürtünür ve Akdeniz'in bir parçasını, Kaptan Servadac ile emir eri Ben Zoof'u alıp uzaya taşır; küçük bir grup insan yıldızın üstünde yaşamayı öğrenir, dondurucu soğuğa karşı yanardağın içinde barınır; iki yıl sonra yıldız yine Dünya'ya yaklaşır ve balonla geri dönerler.",
+      "names": [
+        "Hector Servadac",
+        "Servadac",
+        "Ben Zoof",
+        "Palmyrin Rosette",
+        "Gallia",
+        "Algeria",
+        "Mediterranean"
+      ],
+      "keyTerms": [
+        "comet",
+        "balloon",
+        "volcano"
+      ],
+      "fourPlus": "Kaynaktaki tüccar Isaac karakteri (antisemitik karikatür) tümüyle dışarıda. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0356": {
+      "title": "The Clock That Went Backward",
+      "genre": "scifi",
+      "work": "The Clock That Went Backward",
+      "author": "Edward Page Mitchell",
+      "firstPublished": 1881,
+      "originalLanguage": "en",
+      "episode": "Harry ve kuzeni Robert, Gertrude teyzenin geriye işleyen tuhaf saatini alır; Leiden'de Profesör Van Stopp saatin zamanı geri götürdüğünü söyler; üçü saatle 1574'teki Leiden kuşatmasına gider; kuzenler kuşatma altındaki şehrin teslim olmayı reddeden liderini görür ve onun Profesör Van Stopp'un yüzünü taşıdığını fark eder (saat aslında onundur); sonra kendi zamanlarına dönerler.",
+      "names": [
+        "Harry",
+        "Robert",
+        "Aunt Gertrude",
+        "Professor Van Stopp",
+        "Leiden",
+        "Holland"
+      ],
+      "keyTerms": [
+        "clock",
+        "time",
+        "siege"
+      ],
+      "fourPlus": "Kuşatma açlık ve savaş sahnesi ayrıntısız; Leiden halkı 'çok aç ve yorgun'. Rakam yıllar yazıyla. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0357": {
+      "title": "Gulliver and the Flying Island",
+      "genre": "scifi",
+      "work": "Gulliver's Travels, Part III (Laputa)",
+      "author": "Jonathan Swift",
+      "firstPublished": 1726,
+      "originalLanguage": "en",
+      "episode": "Gulliver bu kez uçan ada Laputa'ya alınır; ada halkı matematik ve müzikle öyle meşguldür ki uşaklar onlara keselerle vurarak dikkatlerini çeker; Lagado'daki akademide salatalıktan güneş ışığı çıkarmaya çalışan bilginleri görür; sonunda Japonya üzerinden evine döner.",
+      "names": [
+        "Gulliver",
+        "Laputa",
+        "Lagado",
+        "Balnibarbi",
+        "Japan",
+        "England"
+      ],
+      "keyTerms": [
+        "island",
+        "magnet",
+        "academy"
+      ],
+      "fourPlus": "Adanın isyancı şehirleri ezmesi anlatılmaz; ölüleri çağırma (Glubbdubdrib) bölümü yok. Ghibli 'Laputa' öğeleri yasak. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0358": {
+      "title": "Daedalus and Icarus",
+      "genre": "classic",
+      "work": "Metamorphoses VIII",
+      "author": "Ovid",
+      "firstPublished": 8,
+      "originalLanguage": "la",
+      "episode": "Usta zanaatkar Daedalus ve oğlu Icarus, Kral Minos'un adası Girit'te tutsaktır; Daedalus kuş tüyleri ve balmumundan kanatlar yapar; oğlunu çok alçaktan da çok yüksekten de uçmaması için uyarır; Icarus sevinçle güneşe yükselir, balmumu erir ve denize düşer; Daedalus yasla yoluna devam eder.",
+      "names": [
+        "Daedalus",
+        "Icarus",
+        "Minos",
+        "Crete",
+        "Sicily"
+      ],
+      "keyTerms": [
+        "wings",
+        "feathers",
+        "wax"
+      ],
+      "fourPlus": "Icarus'un düşüşü korunur (orijinal son) ama sakin: 'denize düştü ve geri gelmedi'; ölüm ayrıntısı yok. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0359": {
+      "title": "Baucis and Philemon",
+      "genre": "classic",
+      "work": "A Wonder-Book: The Miraculous Pitcher",
+      "author": "Nathaniel Hawthorne",
+      "firstPublished": 1852,
+      "originalLanguage": "en",
+      "episode": "Yaşlı ve yoksul çift Baucis ile Philemon, köydeki herkesin kovduğu iki yolcuyu evlerine alır; azıcık sütleri sürahide hiç bitmez, ekmek tazelenir; yolcular tanrı olduklarını açıklar; kötü köy bir göle dönüşür, kulübe saraya; çift sonsuza dek birlikte iki ağaç olur.",
+      "names": [
+        "Baucis",
+        "Philemon",
+        "Quicksilver",
+        "Jupiter",
+        "Phrygia"
+      ],
+      "keyTerms": [
+        "pitcher",
+        "milk",
+        "travelers"
+      ],
+      "fourPlus": "Köyün göle dönüşmesi: 'köy ve insanları bir gölün altında kayboldu, sularda balıklar yüzdü' masalsı, ölüm vurgusu yok. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0360": {
+      "title": "Persephone and the Pomegranate",
+      "genre": "classic",
+      "work": "Tanglewood Tales: The Pomegranate Seeds",
+      "author": "Nathaniel Hawthorne",
+      "firstPublished": 1853,
+      "originalLanguage": "en",
+      "episode": "Ceres'in kızı Proserpina deniz kıyısında çiçek toplarken Pluto onu altın arabasıyla yer altındaki sarayına götürür; Ceres kızını her yerde arar, dünyada hiçbir şey yetişmez; Quicksilver kızı geri getirmeye gönderilir; Proserpina altı nar tanesi yediği için her yıl altı ay yer altında kalır; böylece mevsimler oluşur.",
+      "names": [
+        "Proserpina",
+        "Ceres",
+        "Pluto",
+        "Quicksilver",
+        "Phoebus",
+        "Hecate"
+      ],
+      "keyTerms": [
+        "pomegranate",
+        "seeds",
+        "seasons"
+      ],
+      "fourPlus": "Kaçırma 'arabasına aldı ve götürdü' düzeyinde; Hawthorne çocuk versiyonu. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0361": {
+      "title": "Arachne the Weaver",
+      "genre": "classic",
+      "work": "Metamorphoses VI",
+      "author": "Ovid",
+      "firstPublished": 8,
+      "originalLanguage": "la",
+      "episode": "Lidyalı Arachne öyle güzel dokur ki kendini tanrıça Athena'dan üstün sayar; Athena yaşlı kadın kılığında onu uyarır; Arachne yarışmak ister; ikisi de muhteşem kumaşlar dokur; Athena onun kibrine kızar ve Arachne'yi bir örümceğe dönüştürür; o günden beri örümcekler dokur.",
+      "names": [
+        "Arachne",
+        "Athena",
+        "Lydia"
+      ],
+      "keyTerms": [
+        "loom",
+        "spider",
+        "contest",
+        "thread"
+      ],
+      "fourPlus": "Kaynaktaki kendini asma yok: Athena doğrudan örümceğe dönüştürür. Kumaşlardaki tanrı hikayeleri yalnız 'tanrıların hataları' genelliğinde. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0362": {
+      "title": "The Three Golden Apples",
+      "genre": "classic",
+      "work": "A Wonder-Book: The Three Golden Apples",
+      "author": "Nathaniel Hawthorne",
+      "firstPublished": 1852,
+      "originalLanguage": "en",
+      "episode": "Hercules Hesperides bahçesinin altın elmalarını aramaktadır; deniz yaşlısını yakalayıp yolu öğrenir; dünyanın sonunda gökyüzünü omuzlarında taşıyan dev Atlas'ı bulur; Atlas elmaları getirir ama gökyüzünü geri almak istemez; Hercules bir hileyle gökyüzünü Atlas'a geri verir ve elmalarla döner.",
+      "names": [
+        "Hercules",
+        "Atlas",
+        "Hesperides",
+        "Old Man of the Sea",
+        "Antaeus"
+      ],
+      "keyTerms": [
+        "apples",
+        "sky",
+        "giant"
+      ],
+      "fourPlus": "Antaeus güreşi kısa ve kansız ('onu havada tuttu ve yendi'); ejderha bölümü yok. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0363": {
+      "title": "Hans in Luck",
+      "genre": "classic",
+      "work": "Kinder- und Hausmärchen, KHM 83",
+      "author": "Jacob and Wilhelm Grimm",
+      "firstPublished": 1819,
+      "originalLanguage": "de",
+      "episode": "Hans yedi yıllık hizmetinin karşılığı olarak bir külçe altın alır; yolda altını ata, atı ineğe, ineği domuza, domuzu kaza, kazı bir bileği taşına değişir; taş kuyuya düşünce kendini dünyanın en şanslı adamı sayar ve hafiflemiş olarak annesinin evine koşar.",
+      "names": [
+        "Hans"
+      ],
+      "keyTerms": [
+        "gold",
+        "cow",
+        "pig",
+        "goose",
+        "grindstone"
+      ],
+      "fourPlus": "İneğin tekmesi ve kasap sözleri yumuşak; kesim yok. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0364": {
+      "title": "King Thrushbeard",
+      "genre": "classic",
+      "work": "Kinder- und Hausmärchen, KHM 52",
+      "author": "Jacob and Wilhelm Grimm",
+      "firstPublished": 1812,
+      "originalLanguage": "de",
+      "episode": "Kibirli prenses bütün taliplerle alay eder, birine 'Ardıçkuşu Sakal' der; kızan babası onu kapıya gelen ilk dilenci çalgıcıyla evlendirir; prenses yoksul bir hayatta çalışmayı öğrenir; sonunda çalgıcının aslında Kral Ardıçkuşu Sakal olduğu ve onu alçakgönüllü yapmak için böyle yaptığı ortaya çıkar; düğün yapılır.",
+      "names": [
+        "Thrushbeard",
+        "King Thrushbeard"
+      ],
+      "keyTerms": [
+        "princess",
+        "beggar",
+        "pots",
+        "pride"
+      ],
+      "fourPlus": "Şiddet yok; prensesin utancı kısa ve nazik. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0365": {
+      "title": "The Swineherd",
+      "genre": "classic",
+      "work": "Svinedrengen",
+      "author": "Hans Christian Andersen",
+      "firstPublished": 1841,
+      "originalLanguage": "da",
+      "episode": "Fakir bir prens, imparatorun kızına bir gül ve bülbül gönderir; prenses gerçek şeyleri beğenmez; prens domuz çobanı kılığında saraya girer ve sihirli bir tencere ile çıngırak yapar; prenses onları almak için domuz çobanına yanaktan öpücük verir; prens kendini gösterir, prensesi küçümser ve gider.",
+      "names": [
+        "Emperor"
+      ],
+      "keyTerms": [
+        "swineherd",
+        "rose",
+        "nightingale",
+        "pot",
+        "rattle"
+      ],
+      "fourPlus": "Öpücük pazarlığı yanaktan ve masalsı; romantik ayrıntı yok. Andersen'in sonu korunur. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0366": {
+      "title": "The Shepherdess and the Chimney-Sweep",
+      "genre": "classic",
+      "work": "Hyrdinden og Skorstensfejeren",
+      "author": "Hans Christian Andersen",
+      "firstPublished": 1845,
+      "originalLanguage": "da",
+      "episode": "Porselen çoban kızı ile porselen baca temizleyicisi birbirini sever; oyma dolaptaki teke ayaklı adam kızla evlenmek ister; Çinli porselen büyükbaba ona izin verir; iki sevgili bacadan dünyaya kaçar ama dünya çok büyüktür, geri dönerler; büyükbaba düşüp kırılmıştır ve tamir edilince başını sallayamaz, böylece sevgililer birlikte kalır.",
+      "names": [
+        "Shepherdess",
+        "Chimney-Sweep"
+      ],
+      "keyTerms": [
+        "china",
+        "chimney",
+        "cabinet",
+        "goat-legs"
+      ],
+      "fourPlus": "Kırılma porselen için masalsı; korku yok. 'Chinaman' ifadesi kullanılmaz: 'old china grandfather'. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0367": {
+      "title": "Clod Hans",
+      "genre": "classic",
+      "work": "Klods-Hans",
+      "author": "Hans Christian Andersen",
+      "firstPublished": 1855,
+      "originalLanguage": "da",
+      "episode": "İki bilgiç kardeş, en iyi konuşanla evleneceğini söyleyen prensese gider; saf kardeş Clod Hans keçiye binip yolda ölü bir karga, eski bir takunya ve çamur toplar; saraydaki sıcak odada kardeşler şaşırır; Clod Hans karga için takunya ile çamuru çıkarıp prensesi güldürür ve onunla evlenir.",
+      "names": [
+        "Clod Hans",
+        "Hans"
+      ],
+      "keyTerms": [
+        "goat",
+        "crow",
+        "clog",
+        "princess"
+      ],
+      "fourPlus": "Ölü karga komik nesne olarak 'eski bir karga'; ayrıntı yok. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0368": {
+      "title": "Diamonds and Toads",
+      "genre": "classic",
+      "work": "Les Fées",
+      "author": "Charles Perrault",
+      "firstPublished": 1697,
+      "originalLanguage": "fr",
+      "episode": "İyi kalpli küçük kız çeşmede yaşlı bir kadına su verir; kadın bir peridir ve her konuştuğunda ağzından çiçek ve elmas çıkmasını sağlar; kıskanç anne kaba büyük kızı gönderir; kız kibar bir hanıma kaba davranır ve her konuşmasında ağzından kurbağa ve yılan çıkar; iyi kız bir prensle evlenir.",
+      "names": [
+        "Fairy"
+      ],
+      "keyTerms": [
+        "diamonds",
+        "toads",
+        "fountain",
+        "pitcher"
+      ],
+      "fourPlus": "Kaynaktaki büyük kızın ormanda ölümü yok: 'ormana gitti ve bir daha görülmedi' yerine 'evden uzağa gitti'. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0369": {
+      "title": "Ricky of the Tuft",
+      "genre": "classic",
+      "work": "Riquet à la houppe",
+      "author": "Charles Perrault",
+      "firstPublished": 1697,
+      "originalLanguage": "fr",
+      "episode": "Çirkin ama çok zeki doğan Prens Ricky, sevdiği kişiye zeka verme yeteneğine sahiptir; çok güzel ama aptal bir prenses onunla bir yıl sonra evlenmeye söz verip zeki olur; bir yıl sonra sözünü unutmak ister; Ricky'nin de sevdiğine güzellik verme gücü olduğunu öğrenir; onu sevdiği için Ricky ona güzel görünür ve evlenirler.",
+      "names": [
+        "Ricky",
+        "Ricky of the Tuft"
+      ],
+      "keyTerms": [
+        "tuft",
+        "fairy",
+        "promise"
+      ],
+      "fourPlus": "Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0370": {
+      "title": "The Bamboo Cutter's Daughter",
+      "genre": "classic",
+      "work": "Taketori Monogatari",
+      "author": "Anonymous",
+      "firstPublished": 950,
+      "originalLanguage": "ja",
+      "episode": "Yaşlı bambu kesici parlayan bir bambunun içinde minik bir kız bulur ve ona Kaguya adını verir; kız güzel bir genç kadın olur; beş talip ona imkansız hediyeler getirmeye çalışır ve başarısız olur; imparator bile onu ikna edemez; Kaguya aslında aydan gelmiştir; bir dolunay gecesi ay halkı onu almaya gelir, o da yaşlı ebeveynine mektup bırakıp gider.",
+      "names": [
+        "Kaguya",
+        "Kaguya-hime",
+        "Emperor",
+        "Mount Fuji"
+      ],
+      "keyTerms": [
+        "bamboo",
+        "moon",
+        "suitors",
+        "robe"
+      ],
+      "fourPlus": "Talip ölümleri yok; ayrılık hüzünlü ama sakin. Ghibli 'Kaguya' filmine özgü öğeler yasak. Uygun.",
+      "batch": "classics-batch-03"
+    },
+    "st-0371": {
+      "title": "Nasreddin Hodja and the Borrowed Pot",
+      "genre": "classic",
+      "work": "Nasreddin Hoca fıkraları (Kazan doğurdu)",
+      "author": "Turkish folk tradition",
+      "firstPublished": 1480,
+      "originalLanguage": "tr",
+      "episode": "Nasreddin Hoca komşusundan bir kazan ödünç alır, geri verirken içine küçük bir tencere koyar ve 'kazan doğurdu' der; komşu sevinçle alır; bir dahaki sefere Hoca kazanı geri getirmez ve 'kazan öldü' der; komşu itiraz edince Hoca 'doğurduğuna inandın da öldüğüne neden inanmıyorsun' der. Hikaye birkaç kısa Hoca fıkrasıyla zenginleştirilebilir (eşeğe ters binmek gibi).",
+      "names": [
+        "Nasreddin Hodja",
+        "Hodja",
+        "Aksehir"
+      ],
+      "keyTerms": [
+        "pot",
+        "neighbor",
+        "donkey"
+      ],
+      "fourPlus": "Uygun. Türk pazarı için yerel klasik; 'kazan öldü' komik söz oyunu.",
+      "batch": "classics-batch-03"
+    },
+    "st-0372": {
+      "title": "The Frog Princess",
+      "genre": "classic",
+      "work": "Narodnye russkie skazki: Tsarevna-lyagushka",
+      "author": "Alexander Afanasyev",
+      "firstPublished": 1855,
+      "originalLanguage": "ru",
+      "episode": "Çar üç oğluna ok atmalarını, okun düştüğü yerdeki kızla evlenmelerini söyler; en küçük oğul İvan'ın oku bataklıkta bir kurbağaya düşer; kurbağa geceleri Bilge Vasilisa'ya dönüşür ve Çar'ın görevlerini mükemmel yapar; İvan kurbağa derisini yakar ve Vasilisa kaybolur; İvan uzun yolculuktan sonra Ölümsüz Koşçey'in elinden onu kurtarır.",
+      "names": [
+        "Ivan",
+        "Tsarevich Ivan",
+        "Vasilisa the Wise",
+        "Vasilisa",
+        "Koschei",
+        "Baba Yaga",
+        "Tsar"
+      ],
+      "keyTerms": [
+        "frog",
+        "arrow",
+        "skin",
+        "needle"
+      ],
+      "fourPlus": "Kurbağa derisinin yakılması korunur. Koşçey'in ölümü 'iğne kırıldı, Koşçey yok oldu' masalsı ve kansız. Baba Yaga yardımsever, korkutmayan. Uygun.",
+      "batch": "classics-batch-03"
     }
   }
 }

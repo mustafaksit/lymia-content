@@ -1,0 +1,57 @@
+{
+  "id": "st-0368",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Each word brings a flower or a diamond.\" / \"Each word brings a snake or a toad.\" — 'brings' is a slightly abstract use for A1 and reads stiffly; the next scene clarifies it, but clearer would be: \"When you speak, a flower or a diamond falls from your mouth.\" (and the same pattern for snakes and toads).",
+        "\"One day, a poor woman came there.\" — 'came there' is a little unnatural; better: \"One day, a poor woman came to the fountain.\"",
+        "\"The mother ran at the younger girl.\" — 'ran at' (to attack) is a phrasal use an A1 reader may misread as 'ran to'; simpler: \"The mother was very angry. She ran after the younger girl.\"",
+        "Only a few words lie outside beginner vocabulary ('fairy' is unglossed but standard in A1 fairy tales); comprehension holds overall."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"She carried a big pitcher to a far fountain and back.\" — 'a far fountain' is not natural modern English; better: \"She carried a big pitcher to a fountain far from the house, and back again.\"",
+        "\"Five or six pearls and as many diamonds fell from her mouth.\" — 'as many' is above A2; simpler: \"Five or six pearls and five or six diamonds fell from her mouth.\"",
+        "\"So I give you a present.\" — slightly odd; \"So here is a present for you.\" stays within present simple and sounds natural.",
+        "\"The mother ran at the younger daughter.\" — same 'ran at' point as A1; consider \"The mother ran after the younger daughter angrily.\""
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error / 1. meaning drift",
+          "quote": "\"Do you think I came here to give you water? Of course, I brought this silver flask just for you! Go and drink from the fountain yourself!\" said the older girl.",
+          "problem": "The middle sentence is sarcastic, but at B1 nothing signals the sarcasm ('Of course,' reads as a sincere statement). A learner will read it literally — she brought the flask for the lady — which directly contradicts the next sentence and the point of the scene. B2/C1 mark the irony with 'I suppose', B1 does not.",
+          "fix": "\"Do you think I came all this way to give you water? Do you think I brought this fine silver flask just for you? Go and drink from the fountain yourself!\" said the older girl."
+        }
+      ],
+      "notes": [
+        "\"The mother scolded her for coming back so late\" and the rest of the level respect the B1 grammar limits (no conditionals or passive)."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Close and natural rendering of Perrault; sarcasm is clearly marked with 'I suppose'. Quiz keys are correct and unambiguous."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Genuinely literary and faithful (half league, 'Well, daughter?' / 'Well, Mother?', dowry reasoning). The added line about the mother not noticing she said 'my daughter' and the prince's growing astonishment are tasteful embellishments, not padding.",
+        "Softening the elder sister's death in the wood to 'went far away from home' is appropriate for a 4+ app and consistent across all levels."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling of Perrault's 'Diamonds and Toads' (Les Fées) at all five levels, with correct quiz keys and a suitably softened ending. B1 fails on one concrete point: the elder sister's sarcastic line 'Of course, I brought this silver flask just for you!' is unmarked and will be read literally, contradicting the scene. A1/A2 have minor wording notes ('ran at', 'a far fountain', 'as many diamonds') that are worth fixing but not blocking."
+}

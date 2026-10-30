@@ -73,6 +73,21 @@ def story_names(story_id):
     return names
 
 
+# 4c: A1-A2 cekirdek NGSL kapsami (ozel isimler + hikayenin ilk 5 keyTerm'i muaf).
+# batch-03'ten itibaren kapi; onceki batch'lerde yalniz rapor.
+CORE_TARGETS = {"A1": 0.92, "A2": 0.95}
+CORE_EXEMPT_MAX = 5
+
+
+def core_gate_applies(story_id):
+    m = re.search(r"(\d+)$", SOURCES.get("stories", {}).get(story_id, {}).get("batch", ""))
+    return bool(m) and int(m.group(1)) >= 3
+
+
+def story_exempt_terms(story_id):
+    return [t.lower() for t in SOURCES.get("stories", {}).get(story_id, {}).get("keyTerms", [])][:CORE_EXEMPT_MAX]
+
+
 def story_key_terms(story_id):
     return {t.lower() for t in SOURCES.get("stories", {}).get(story_id, {}).get("keyTerms", [])}
 
@@ -165,10 +180,15 @@ def structure_hits(level, s):
 
 # ---------------------------------------------------------------- kapilar
 
-def gate_node(path):
+def gate_node(path, exempt=(), names=()):
     env = dict(os.environ)
     env.setdefault("APP_REPO", str(ROOT.parent / "lymia-app"))
-    r = subprocess.run(["node", str(HERE / "gate-node.mjs"), str(path)], capture_output=True, text=True, env=env)
+    cmd = ["node", str(HERE / "gate-node.mjs"), str(path)]
+    if exempt:
+        cmd += ["--exempt", ",".join(exempt)]
+    if names:
+        cmd += ["--names", ",".join(sorted(n for n in names if n[:1].isupper()))]
+    r = subprocess.run(cmd, capture_output=True, text=True, env=env)
     if r.returncode != 0 or not r.stdout.strip():
         return {"error": r.stderr[-2000:]}
     return json.loads(r.stdout)
@@ -205,7 +225,8 @@ IGNORE_RULES = {
 }
 
 
-def gate_grammar(story, names):
+def gate_grammar(story, names, key_terms=frozenset()):
+    allowed = {n.lower() for n in names} | set(key_terms)
     out = {}
     for lvl in LEVELS:
         if lvl not in story["levels"]:
@@ -218,8 +239,8 @@ def gate_grammar(story, names):
                     "ctx": text[max(0, m.offset - 40) : m.offset + m.error_length + 40].replace("\n", " ")}
             if m.rule_id in IGNORE_RULES:
                 continue
-            if m.category == "TYPOS" and (set(WORD_RE.findall(frag)) <= names):
-                continue  # hikayenin ozel isimleri (sources.json names)
+            if m.category == "TYPOS" and ({w.lower() for w in WORD_RE.findall(frag)} <= allowed):
+                continue  # hikayenin ozel isimleri ve keyTerms (yabanci nesne adlari: gusli...)
             if m.rule_id == "UPPERCASE_SENTENCE_START":
                 continue
             (errs if m.category in ERROR_CATS else style).append(item)
@@ -397,7 +418,7 @@ def run(story_id, use_lt=True):
     story = json.loads(path.read_text())
     names = story_names(story_id)
     res = {"id": story_id, "title": story["title"], "ts": time.strftime("%Y-%m-%dT%H:%M:%S")}
-    node = gate_node(path)
+    node = gate_node(path, story_exempt_terms(story_id), names)
     res["node"] = node
     verdict = {}
 
@@ -426,7 +447,7 @@ def run(story_id, use_lt=True):
 
     # 3 LanguageTool
     if use_lt:
-        g = gate_grammar(story, names)
+        g = gate_grammar(story, names, story_key_terms(story_id))
         res["grammar"] = g
         verdict["3_grammar"] = [f"{l} {e['rule']}: {e['ctx']}" for l, v in g.items() for e in v["errors"]]
     else:
@@ -448,6 +469,14 @@ def run(story_id, use_lt=True):
     q = gate_quiz(story)
     res["quiz"] = q
     verdict["4_profile"] += [f"quiz: {f}" for f in q["fails"]]
+
+    # 4c cekirdek kapsam
+    core = {l: node.get("ngsl", {}).get(l, {}).get("coreCoverage") for l in CORE_TARGETS}
+    res["coreCoverage"] = core
+    f4c = [f"{l} cekirdek NGSL {core[l]} < {t}; liste disi: "
+           + " ".join(node["ngsl"][l].get("offPool", [])[:15])
+           for l, t in CORE_TARGETS.items() if core[l] is not None and core[l] < t]
+    verdict["4c_core_coverage"] = f4c if core_gate_applies(story_id) else []
 
     # 4+ yas uygunlugu (sozcuk taramasi; asil karar kor incelemede)
     fp = gate_fourplus(story)
@@ -493,7 +522,7 @@ def main():
                 print(f"       - {item}")
         prof = r["profile"]
         print("   profil: " + " | ".join(
-            f"{l} {v['words']}w s{v['sentLenMedian']} z{v['zipfMedian']} low{v['lowZipfRatio']} ngsl{r['ngsl'].get(l, {}).get('coverage')}"
+            f"{l} {v['words']}w s{v['sentLenMedian']} z{v['zipfMedian']} low{v['lowZipfRatio']} ngsl{r['ngsl'].get(l, {}).get('coverage')} core{r['ngsl'].get(l, {}).get('coreCoverage')}"
             for l, v in prof.items()))
     if _LT is not None:
         _LT.close()

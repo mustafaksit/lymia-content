@@ -1,0 +1,633 @@
+{
+  "id": "st-0333",
+  "title": "The Naval Treaty",
+  "ts": "2026-10-30T10:23:50",
+  "node": {
+    "id": "st-0333",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %90.0 | 330 kelime\n    havuz dışı: boss(1), treaty(6), tonight(1), coffee(2), rang(2), bell(4), asleep(1), chair(1), ill(2), annie(3), brother(1), windows(1), window(2), garden(1), pulled(1), board(1), floor(1), plate(1), hid(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9,
+        "coreCoverage": 0.927,
+        "exempt": [
+          "treaty",
+          "paper",
+          "bell"
+        ],
+        "wordCount": 330,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "coffee(2)",
+          "rang(2)",
+          "ill(2)",
+          "window(2)",
+          "boss(1)",
+          "tonight(1)",
+          "asleep(1)",
+          "chair(1)",
+          "brother(1)",
+          "windows(1)",
+          "garden(1)",
+          "pulled(1)",
+          "board(1)",
+          "floor(1)",
+          "plate(1)",
+          "hid(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9531,
+        "coreCoverage": 0.9704,
+        "exempt": [
+          "treaty",
+          "paper",
+          "bell"
+        ],
+        "wordCount": 512,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "coffee(3)",
+          "ill(2)",
+          "secret(1)",
+          "tonight(1)",
+          "chair(1)",
+          "asleep(1)",
+          "lock(1)",
+          "plate(1)",
+          "shouted(1)",
+          "joy(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9587,
+        "coreCoverage": 0.9703,
+        "exempt": [
+          "treaty",
+          "paper",
+          "bell"
+        ],
+        "wordCount": 774,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "stairs(4)",
+          "uncle(3)",
+          "clerks(1)",
+          "downstairs(1)",
+          "asleep(1)",
+          "kettle(1)",
+          "boiling(1)",
+          "sir(1)",
+          "thief(1)",
+          "wet(1)",
+          "hurry(1)",
+          "fever(1)",
+          "admire(1)",
+          "clues(1)",
+          "bushes(1)",
+          "joy(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9642,
+        "coreCoverage": 0.9687,
+        "exempt": [
+          "treaty",
+          "paper",
+          "bell"
+        ],
+        "wordCount": 1033,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "porter's(2)",
+          "sickroom(2)",
+          "lord(1)",
+          "clerks(1)",
+          "kettle(1)",
+          "boiling(1)",
+          "thief(1)",
+          "footprints(1)",
+          "suspicion(1)",
+          "fever(1)",
+          "endless(1)",
+          "patience(1)",
+          "clues(1)",
+          "faint(1)",
+          "scratching(1)",
+          "fled(1)",
+          "gleam(1)",
+          "bushes(1)",
+          "crept(1)",
+          "lawn(1)",
+          "moonlight(1)",
+          "knelt(1)",
+          "uncover(1)",
+          "lying(1)",
+          "risky(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9359,
+        "coreCoverage": 0.9364,
+        "exempt": [
+          "treaty",
+          "paper",
+          "bell"
+        ],
+        "wordCount": 1420,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "porter's(2)",
+          "despair(2)",
+          "fever(2)",
+          "sickroom(2)",
+          "lawn(2)",
+          "foreseen(2)",
+          "clever(1)",
+          "diligence(1)",
+          "handsomely(1)",
+          "lowering(1)",
+          "clerks(1)",
+          "dense(1)",
+          "ached(1)",
+          "lumbered(1)",
+          "irritated(1)",
+          "asleep(1)",
+          "staircase(1)",
+          "slumped(1)",
+          "snoring(1)",
+          "kettle(1)",
+          "rattled(1)",
+          "furiously(1)",
+          "awake(1)",
+          "bewilderment(1)",
+          "stammered(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": "and took it. He took it home to Woking. He hid it in his own room. But then you we"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "GROUND_FIRST_FLOOR",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "This word is British English. Did you mean “first floor”?",
+          "frag": "ground floor",
+          "ctx": "e up his own comfortable bedroom on the ground floor so that Percy could rest there. As soon"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "GROUND_FIRST_FLOOR",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "This word is British English. Did you mean “first floor”?",
+          "frag": "ground floor",
+          "ctx": "erously given up his own bedroom on the ground floor so that the invalid might lie undisturb"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 330,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.3,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 512,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 774,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0014,
+      "lowZipfWords": [
+        "clerks"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1033,
+      "sentLenMedian": 14.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0157,
+      "lowZipfWords": [
+        "clauses",
+        "clerks",
+        "crept",
+        "footprints",
+        "gleam",
+        "intending",
+        "knelt",
+        "nursed",
+        "porter's",
+        "sickroom",
+        "sprang",
+        "uncover",
+        "woken"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1420,
+      "sentLenMedian": 22,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0356,
+      "lowZipfWords": [
+        "absurdly",
+        "ached",
+        "admiring",
+        "armchair",
+        "bewilderment",
+        "breathless",
+        "brisk",
+        "clauses",
+        "clerks",
+        "crouched",
+        "curiously",
+        "drifted",
+        "drooping",
+        "eased",
+        "fastened",
+        "floorboard",
+        "foreseen",
+        "froze",
+        "furiously",
+        "generously",
+        "handsomely",
+        "interrupting",
+        "knelt",
+        "lumbered",
+        "motionless",
+        "nursed",
+        "pocketed",
+        "porter's",
+        "pried",
+        "puzzling",
+        "rattled",
+        "scarcely",
+        "scraping",
+        "shadowy",
+        "sickroom",
+        "slumped",
+        "snoring",
+        "sprang",
+        "stammered",
+        "tenderness",
+        "trembling",
+        "uncle's",
+        "undisturbed",
+        "wandered"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9,
+      "coreCoverage": 0.927,
+      "exempt": [
+        "treaty",
+        "paper",
+        "bell"
+      ],
+      "wordCount": 330,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "coffee(2)",
+        "rang(2)",
+        "ill(2)",
+        "window(2)",
+        "boss(1)",
+        "tonight(1)",
+        "asleep(1)",
+        "chair(1)",
+        "brother(1)",
+        "windows(1)",
+        "garden(1)",
+        "pulled(1)",
+        "board(1)",
+        "floor(1)",
+        "plate(1)",
+        "hid(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9531,
+      "coreCoverage": 0.9704,
+      "exempt": [
+        "treaty",
+        "paper",
+        "bell"
+      ],
+      "wordCount": 512,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "coffee(3)",
+        "ill(2)",
+        "secret(1)",
+        "tonight(1)",
+        "chair(1)",
+        "asleep(1)",
+        "lock(1)",
+        "plate(1)",
+        "shouted(1)",
+        "joy(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9587,
+      "coreCoverage": 0.9703,
+      "exempt": [
+        "treaty",
+        "paper",
+        "bell"
+      ],
+      "wordCount": 774,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "stairs(4)",
+        "uncle(3)",
+        "clerks(1)",
+        "downstairs(1)",
+        "asleep(1)",
+        "kettle(1)",
+        "boiling(1)",
+        "sir(1)",
+        "thief(1)",
+        "wet(1)",
+        "hurry(1)",
+        "fever(1)",
+        "admire(1)",
+        "clues(1)",
+        "bushes(1)",
+        "joy(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9642,
+      "coreCoverage": 0.9687,
+      "exempt": [
+        "treaty",
+        "paper",
+        "bell"
+      ],
+      "wordCount": 1033,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "porter's(2)",
+        "sickroom(2)",
+        "lord(1)",
+        "clerks(1)",
+        "kettle(1)",
+        "boiling(1)",
+        "thief(1)",
+        "footprints(1)",
+        "suspicion(1)",
+        "fever(1)",
+        "endless(1)",
+        "patience(1)",
+        "clues(1)",
+        "faint(1)",
+        "scratching(1)",
+        "fled(1)",
+        "gleam(1)",
+        "bushes(1)",
+        "crept(1)",
+        "lawn(1)",
+        "moonlight(1)",
+        "knelt(1)",
+        "uncover(1)",
+        "lying(1)",
+        "risky(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9359,
+      "coreCoverage": 0.9364,
+      "exempt": [
+        "treaty",
+        "paper",
+        "bell"
+      ],
+      "wordCount": 1420,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "porter's(2)",
+        "despair(2)",
+        "fever(2)",
+        "sickroom(2)",
+        "lawn(2)",
+        "foreseen(2)",
+        "clever(1)",
+        "diligence(1)",
+        "handsomely(1)",
+        "lowering(1)",
+        "clerks(1)",
+        "dense(1)",
+        "ached(1)",
+        "lumbered(1)",
+        "irritated(1)",
+        "asleep(1)",
+        "staircase(1)",
+        "slumped(1)",
+        "snoring(1)",
+        "kettle(1)",
+        "rattled(1)",
+        "furiously(1)",
+        "awake(1)",
+        "bewilderment(1)",
+        "stammered(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.927,
+    "A2": 0.9704
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

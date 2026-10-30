@@ -1,0 +1,671 @@
+{
+  "id": "st-0366",
+  "title": "The Shepherdess and the Chimney-Sweep",
+  "ts": "2026-10-30T10:24:32",
+  "node": {
+    "id": "st-0366",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %91.8 | 328 kelime\n    havuz dışı: cabinet(5), wooden(1), legs(1), goat(1), china(2), clothes(1), chimneys(1), ladder(1), grandfather(7), marry(2), tonight(1), cried(2), chimney(1), stars(1)",
+        "level A2: A2: KALDI | kapsam %94.1 | 507 kelime\n    havuz dışı: cabinet(5), legs(1), goat(1), china(3), ladder(2), grandfather(8), nodded(1), tonight(1), cry(1), chimney(3), bright(1), cried(2), oh(1)",
+        "level B1: B1: KALDI | kapsam %92.1 | 815 kelime\n    havuz dışı: cabinet(5), deer(1), carved(1), horns(1), goat(6), mirror(2), china(5), golden(2), coal(1), ladder(2), pink(1), grandfather(12), nodded(1), silver(1), creaks(1), stove(4), chimney(2), brave(1), crept(1), iron(1), shining(1), lamp(1), starry(1), roofs(1), belt(1), lying(1), oh(1), glue(1), rivet(3), mended(1), glued(1)",
+        "level B2: B2: KALDI | kapsam %92.4 | 1137 kelime\n    havuz dışı: parlor(1), cabinet(4), craftsman(1), carved(1), tulips(1), deer(1), antlers(1), peeped(2), carving(1), horns(1), forehead(1), goat(7), china(7), pinned(1), shepherd's(1), crook(1), rosy(1), ladder(2), fond(1), grandfather(12), nodded(2), gloomy(1), twelfth(1), creaks(1), asleep(1), begged(2), puppet(1), can't(1), awake(1), stove(3), chimney(5), brave(1), crept(2), upward(1), rim(1), sash(1), sobbed(2), bitterly(1), mended(2), glue(1), rivet(4), unkind(1), glued(1), grandfather's(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9177,
+        "coreCoverage": 0.9406,
+        "exempt": [
+          "china",
+          "chimney",
+          "cabinet",
+          "goat-legs"
+        ],
+        "wordCount": 328,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "grandfather(7)",
+          "marry(2)",
+          "cried(2)",
+          "wooden(1)",
+          "legs(1)",
+          "goat(1)",
+          "clothes(1)",
+          "ladder(1)",
+          "tonight(1)",
+          "stars(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9408,
+        "coreCoverage": 0.9598,
+        "exempt": [
+          "china",
+          "chimney",
+          "cabinet",
+          "goat-legs"
+        ],
+        "wordCount": 507,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "grandfather(8)",
+          "ladder(2)",
+          "cried(2)",
+          "legs(1)",
+          "goat(1)",
+          "nodded(1)",
+          "tonight(1)",
+          "cry(1)",
+          "bright(1)",
+          "oh(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9215,
+        "coreCoverage": 0.9328,
+        "exempt": [
+          "china",
+          "chimney",
+          "cabinet",
+          "goat-legs"
+        ],
+        "wordCount": 815,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "grandfather(12)",
+          "goat(6)",
+          "stove(4)",
+          "rivet(3)",
+          "mirror(2)",
+          "golden(2)",
+          "ladder(2)",
+          "deer(1)",
+          "carved(1)",
+          "horns(1)",
+          "coal(1)",
+          "pink(1)",
+          "nodded(1)",
+          "silver(1)",
+          "creaks(1)",
+          "brave(1)",
+          "crept(1)",
+          "iron(1)",
+          "shining(1)",
+          "lamp(1)",
+          "starry(1)",
+          "roofs(1)",
+          "belt(1)",
+          "lying(1)",
+          "oh(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9244,
+        "coreCoverage": 0.936,
+        "exempt": [
+          "china",
+          "chimney",
+          "cabinet",
+          "goat-legs"
+        ],
+        "wordCount": 1137,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "grandfather(12)",
+          "goat(7)",
+          "rivet(4)",
+          "stove(3)",
+          "peeped(2)",
+          "ladder(2)",
+          "nodded(2)",
+          "begged(2)",
+          "crept(2)",
+          "sobbed(2)",
+          "mended(2)",
+          "parlor(1)",
+          "craftsman(1)",
+          "carved(1)",
+          "tulips(1)",
+          "deer(1)",
+          "antlers(1)",
+          "carving(1)",
+          "horns(1)",
+          "forehead(1)",
+          "pinned(1)",
+          "shepherd's(1)",
+          "crook(1)",
+          "rosy(1)",
+          "fond(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9099,
+        "coreCoverage": 0.9171,
+        "exempt": [
+          "china",
+          "chimney",
+          "cabinet",
+          "goat-legs"
+        ],
+        "wordCount": 1532,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "grandfather(12)",
+          "goat(7)",
+          "stove(4)",
+          "rivet(4)",
+          "gilded(3)",
+          "crept(3)",
+          "peeped(2)",
+          "carved(2)",
+          "ladder(2)",
+          "nodded(2)",
+          "rim(2)",
+          "sobbed(2)",
+          "mended(2)",
+          "parlor(1)",
+          "darkened(1)",
+          "carver(1)",
+          "tulips(1)",
+          "curling(1)",
+          "deer(1)",
+          "antlers(1)",
+          "carving(1)",
+          "horns(1)",
+          "sprouting(1)",
+          "forehead(1)",
+          "waist(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ANY_MORE",
+          "cat": "COMPOUNDING",
+          "msg": "Did you mean the adverb “anymore”?",
+          "frag": "any more",
+          "ctx": "as as good as new, but he could not nod any more. \"You are very proud now,\" said the goa"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 328,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.25,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 507,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.25,
+      "lowZipfRatio": 0.0021,
+      "lowZipfWords": [
+        "nodded"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 815,
+      "sentLenMedian": 12,
+      "zipfMedian": 6.12,
+      "lowZipfRatio": 0.0142,
+      "lowZipfWords": [
+        "creaks",
+        "crept",
+        "glued",
+        "leaned",
+        "mend",
+        "mended",
+        "nodded",
+        "rivet",
+        "starry"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1137,
+      "sentLenMedian": 13.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.032,
+      "lowZipfWords": [
+        "antlers",
+        "bitterly",
+        "branching",
+        "craftsman",
+        "creaks",
+        "crept",
+        "crook",
+        "gloomy",
+        "glued",
+        "grandfather's",
+        "leaned",
+        "mended",
+        "nodded",
+        "parlor",
+        "peeped",
+        "rivet",
+        "rosy",
+        "sash",
+        "shepherd's",
+        "shone",
+        "sobbed",
+        "sprang",
+        "strangest",
+        "tulips",
+        "twisting",
+        "unkind",
+        "whispered"
+      ],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1532,
+      "sentLenMedian": 23.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0445,
+      "lowZipfWords": [
+        "admiring",
+        "antlers",
+        "bellowed",
+        "bitterly",
+        "branching",
+        "brimming",
+        "carver",
+        "comforted",
+        "crammed",
+        "creaks",
+        "crept",
+        "crook",
+        "darkened",
+        "dearly",
+        "drawers",
+        "dreaded",
+        "droop",
+        "edging",
+        "firmness",
+        "fright",
+        "gilded",
+        "gilding",
+        "gloomy",
+        "glued",
+        "grandfather's",
+        "immeasurably",
+        "jacks",
+        "leaned",
+        "leapt",
+        "mended",
+        "nodded",
+        "parlor",
+        "peeped",
+        "rivet",
+        "rosy",
+        "sash",
+        "shatter",
+        "shepherd's",
+        "shone",
+        "sly",
+        "sobbed",
+        "softened",
+        "sprouting",
+        "steadied",
+        "stiffly",
+        "stumbling",
+        "tabletop",
+        "toppled",
+        "trembled",
+        "tulips",
+        "unkind",
+        "weep",
+        "wept",
+        "whispered",
+        "woken"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9177,
+      "coreCoverage": 0.9406,
+      "exempt": [
+        "china",
+        "chimney",
+        "cabinet",
+        "goat-legs"
+      ],
+      "wordCount": 328,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "grandfather(7)",
+        "marry(2)",
+        "cried(2)",
+        "wooden(1)",
+        "legs(1)",
+        "goat(1)",
+        "clothes(1)",
+        "ladder(1)",
+        "tonight(1)",
+        "stars(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9408,
+      "coreCoverage": 0.9598,
+      "exempt": [
+        "china",
+        "chimney",
+        "cabinet",
+        "goat-legs"
+      ],
+      "wordCount": 507,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "grandfather(8)",
+        "ladder(2)",
+        "cried(2)",
+        "legs(1)",
+        "goat(1)",
+        "nodded(1)",
+        "tonight(1)",
+        "cry(1)",
+        "bright(1)",
+        "oh(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9215,
+      "coreCoverage": 0.9328,
+      "exempt": [
+        "china",
+        "chimney",
+        "cabinet",
+        "goat-legs"
+      ],
+      "wordCount": 815,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "grandfather(12)",
+        "goat(6)",
+        "stove(4)",
+        "rivet(3)",
+        "mirror(2)",
+        "golden(2)",
+        "ladder(2)",
+        "deer(1)",
+        "carved(1)",
+        "horns(1)",
+        "coal(1)",
+        "pink(1)",
+        "nodded(1)",
+        "silver(1)",
+        "creaks(1)",
+        "brave(1)",
+        "crept(1)",
+        "iron(1)",
+        "shining(1)",
+        "lamp(1)",
+        "starry(1)",
+        "roofs(1)",
+        "belt(1)",
+        "lying(1)",
+        "oh(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9244,
+      "coreCoverage": 0.936,
+      "exempt": [
+        "china",
+        "chimney",
+        "cabinet",
+        "goat-legs"
+      ],
+      "wordCount": 1137,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "grandfather(12)",
+        "goat(7)",
+        "rivet(4)",
+        "stove(3)",
+        "peeped(2)",
+        "ladder(2)",
+        "nodded(2)",
+        "begged(2)",
+        "crept(2)",
+        "sobbed(2)",
+        "mended(2)",
+        "parlor(1)",
+        "craftsman(1)",
+        "carved(1)",
+        "tulips(1)",
+        "deer(1)",
+        "antlers(1)",
+        "carving(1)",
+        "horns(1)",
+        "forehead(1)",
+        "pinned(1)",
+        "shepherd's(1)",
+        "crook(1)",
+        "rosy(1)",
+        "fond(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9099,
+      "coreCoverage": 0.9171,
+      "exempt": [
+        "china",
+        "chimney",
+        "cabinet",
+        "goat-legs"
+      ],
+      "wordCount": 1532,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "grandfather(12)",
+        "goat(7)",
+        "stove(4)",
+        "rivet(4)",
+        "gilded(3)",
+        "crept(3)",
+        "peeped(2)",
+        "carved(2)",
+        "ladder(2)",
+        "nodded(2)",
+        "rim(2)",
+        "sobbed(2)",
+        "mended(2)",
+        "parlor(1)",
+        "darkened(1)",
+        "carver(1)",
+        "tulips(1)",
+        "curling(1)",
+        "deer(1)",
+        "antlers(1)",
+        "carving(1)",
+        "horns(1)",
+        "sprouting(1)",
+        "forehead(1)",
+        "waist(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9406,
+    "A2": 0.9598
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0289",
+        "title": "Jason and the Golden Fleece",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0296",
+        "title": "The Blue Cross",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0294",
+        "title": "The Purloined Letter",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

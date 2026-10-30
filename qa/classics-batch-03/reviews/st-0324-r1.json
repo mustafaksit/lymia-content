@@ -1,0 +1,68 @@
+{
+  "id": "st-0324",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "A1 comprehension: a few phrases may slow a true beginner, but they are not enough to fail the level: 'In a moment, Nils became very small.' -> 'Then Nils became very small.'; 'Nils ran and held on to Martin.' -> 'Nils ran and took Martin by the neck.'; 'Smirre let the goose go.' -> 'Smirre dropped the goose.'; 'His mother and father held him close.' -> 'His mother and father put their arms around him.'",
+        "'He was often bad to the animals.' (also in A2) reads a little like a calque; 'He was often unkind to the animals.' is more natural.",
+        "A1 never states the elf's condition, so the change back at the end reads as a reward for kindness. This works as fairy-tale logic, but you could add one line, for example 'The elf said: \"Take Martin home, and you can be big again.\"'"
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "1/5 meaning drift and fidelity",
+          "quote": "\"Let me go, and I can give you money,\" said the elf. But Nils only laughed at him. The elf did not like this at all.",
+          "problem": "In the original, and in B1, B2 and C1, Nils takes the elf's offer, lets him go, then greedily tries to catch him again, and that is why he is shrunk. A2 has Nils refuse and mock the elf instead. This changes why he is punished, contradicts the other levels, and never says the elf gets out of the net.",
+          "fix": "\"Let me go, and I can give you a gold coin,\" said the elf. Nils took the coin and let the elf go. But then he wanted more, and he tried to catch the elf again. In a moment, Nils became very small."
+        },
+        {
+          "criterion": "1 meaning drift (contradicts other levels)",
+          "quote": "One day, Nils learned some news from the elf.",
+          "problem": "In B1, B2 and C1 the elf's condition reaches Nils through Akka. Here Nils hears it from the elf himself, although the elf is never seen again in the story.",
+          "fix": "One day, Akka told Nils some news from the elf."
+        }
+      ],
+      "notes": [
+        "'Let me go, and I can give you money' is slightly unnatural; 'I will give you a gold coin' would be better if 'will' is allowed at A2."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Grammar stays within B1 (no conditionals, no passive). The plot follows the original closely: the mirror, the chest, the butterfly net, the bargain, Smirre on the ice, the beech tree and the geese teasing the fox at dawn."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "1 meaning drift (contradicts other levels)",
+          "quote": "During the journey, Akka learned the elf's condition from another bird.",
+          "problem": "B1 says Akka spoke with the elf himself, and A2 says the news came from the elf. 'Another bird' brings in a new, unexplained source that clashes with the other levels and, as far as I recall, with the original, where Akka gets the condition from the elf.",
+          "fix": "During the journey, Akka went to see the elf and learned his condition."
+        }
+      ],
+      "notes": [
+        "'a gold coin, as large as the silver buttons on your father's coat' (also in C1): in Lagerlof the elf offers an old coin, a silver spoon and a gold coin as big as the case of the father's silver watch. This is a minor detail, but 'as big as the case of your father's silver watch' would be more faithful.",
+        "'a mother squirrel whose young had been carried off' (also in C1): as I recall the original, the mother squirrel (Sirle) is the one caught and caged, and Nils brings her babies to her. Consider 'a mother squirrel who had been taken from her young'."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The prose is genuinely literary and not padded. The episodes and their order follow the original, and softening the planned slaughter to a trip to market is acceptable for 4+.",
+        "This level shares the coin-size and squirrel details noted under B2.",
+        "'Akka discovered the elf's condition' leaves the source vague. That is consistent with any fix, but you could add 'from the elf himself' to match B1."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is faithful to Lagerlof's main events and order (bargain with the elf, shrinking, Martin's flight, Smirre and the beech tree, Kebnekaise, the condition, the transformation in the kitchen) and suits a 4+ audience at every level. A2 changes the core bargain scene (Nils laughs instead of taking the coin and then grabbing again) and has Nils hear the condition from the elf directly. B2 attributes the condition to 'another bird'. These contradict the other levels and need small alignment fixes."
+}

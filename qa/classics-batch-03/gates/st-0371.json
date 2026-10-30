@@ -1,0 +1,533 @@
+{
+  "id": "st-0371",
+  "title": "Nasreddin Hodja and the Borrowed Pot",
+  "ts": "2026-10-30T10:24:38",
+  "node": {
+    "id": "st-0371",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %81.9 | 276 kelime\n    havuz dışı: nasreddin(1), neighbor(14), pot(20), neighbor's(1), pots(3), baby(3), smiled(2), happy(1), sad(1), sorry(1), can't(2), dead(1)",
+        "level A2: A2: KALDI | kapsam %91.6 | 438 kelime\n    havuz dışı: donkey(2), neighbor(11), pot(16), neighbor's(3), pots(2), sad(1), can't(1), mouth(1)",
+        "level B1: B1: KALDI | kapsam %94.6 | 632 kelime\n    havuz dışı: foolish(1), cleverest(1), donkey(3), donkey's(1), tail(1), backward(1), polite(1), pot(17), loud(1), pots(2), nonsense(2), sigh(1), ah(1), can't(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8188,
+        "coreCoverage": 0.9498,
+        "exempt": [
+          "pot",
+          "neighbor",
+          "donkey"
+        ],
+        "wordCount": 276,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "baby(3)",
+          "smiled(2)",
+          "can't(2)",
+          "happy(1)",
+          "sad(1)",
+          "sorry(1)",
+          "dead(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9155,
+        "coreCoverage": 0.9921,
+        "exempt": [
+          "pot",
+          "neighbor",
+          "donkey"
+        ],
+        "wordCount": 438,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sad(1)",
+          "can't(1)",
+          "mouth(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9462,
+        "coreCoverage": 0.9806,
+        "exempt": [
+          "pot",
+          "neighbor",
+          "donkey"
+        ],
+        "wordCount": 632,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "nonsense(2)",
+          "foolish(1)",
+          "cleverest(1)",
+          "tail(1)",
+          "backward(1)",
+          "polite(1)",
+          "loud(1)",
+          "sigh(1)",
+          "ah(1)",
+          "can't(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9772,
+        "coreCoverage": 0.9798,
+        "exempt": [
+          "pot",
+          "neighbor",
+          "donkey"
+        ],
+        "wordCount": 967,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "politely(2)",
+          "sellers(2)",
+          "nonsense(2)",
+          "foolish(1)",
+          "shopkeepers(1)",
+          "giggle(1)",
+          "rude(1)",
+          "backward(1)",
+          "noisy(1)",
+          "cloth(1)",
+          "stall(1)",
+          "patience(1)",
+          "lowered(1)",
+          "ah(1)",
+          "faintest(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9619,
+        "coreCoverage": 0.9622,
+        "exempt": [
+          "pot",
+          "neighbor",
+          "donkey"
+        ],
+        "wordCount": 1259,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "nonsense(2)",
+          "lane(2)",
+          "messenger(1)",
+          "lanes(1)",
+          "unexpectedly(1)",
+          "harmless(1)",
+          "swore(1)",
+          "fond(1)",
+          "shopkeepers(1)",
+          "doorways(1)",
+          "saddle(1)",
+          "giggle(1)",
+          "polite(1)",
+          "insulted(1)",
+          "tellers(1)",
+          "politely(1)",
+          "strolled(1)",
+          "stalls(1)",
+          "cloth(1)",
+          "pans(1)",
+          "spoons(1)",
+          "bargaining(1)",
+          "comfortably(1)",
+          "palm(1)",
+          "tuck(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 276,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0045,
+      "lowZipfWords": [
+        "neighbor's"
+      ],
+      "keyTermTokens": 37,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 438,
+      "sentLenMedian": 8.5,
+      "zipfMedian": 6.22,
+      "lowZipfRatio": 0.0079,
+      "lowZipfWords": [
+        "neighbor's"
+      ],
+      "keyTermTokens": 31,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 632,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.13,
+      "lowZipfRatio": 0.0053,
+      "lowZipfWords": [
+        "cleverest",
+        "donkey's",
+        "neighbor's"
+      ],
+      "keyTermTokens": 34,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 967,
+      "sentLenMedian": 13.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0112,
+      "lowZipfWords": [
+        "donkey's",
+        "faintest",
+        "giggle",
+        "hurrying",
+        "leaned",
+        "neighbor's",
+        "politely",
+        "shopkeepers",
+        "wisest"
+      ],
+      "keyTermTokens": 41,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1259,
+      "sentLenMedian": 19,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.0193,
+      "lowZipfWords": [
+        "congratulating",
+        "donkey's",
+        "doorways",
+        "faintest",
+        "giggle",
+        "glanced",
+        "graciously",
+        "leaned",
+        "mournful",
+        "neighbor's",
+        "newcomer",
+        "pans",
+        "peered",
+        "piled",
+        "politely",
+        "shopkeepers",
+        "solemn",
+        "spoons",
+        "strolled",
+        "swallows",
+        "tellers",
+        "warmest",
+        "wisest"
+      ],
+      "keyTermTokens": 41,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8188,
+      "coreCoverage": 0.9498,
+      "exempt": [
+        "pot",
+        "neighbor",
+        "donkey"
+      ],
+      "wordCount": 276,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "baby(3)",
+        "smiled(2)",
+        "can't(2)",
+        "happy(1)",
+        "sad(1)",
+        "sorry(1)",
+        "dead(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9155,
+      "coreCoverage": 0.9921,
+      "exempt": [
+        "pot",
+        "neighbor",
+        "donkey"
+      ],
+      "wordCount": 438,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sad(1)",
+        "can't(1)",
+        "mouth(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9462,
+      "coreCoverage": 0.9806,
+      "exempt": [
+        "pot",
+        "neighbor",
+        "donkey"
+      ],
+      "wordCount": 632,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "nonsense(2)",
+        "foolish(1)",
+        "cleverest(1)",
+        "tail(1)",
+        "backward(1)",
+        "polite(1)",
+        "loud(1)",
+        "sigh(1)",
+        "ah(1)",
+        "can't(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9772,
+      "coreCoverage": 0.9798,
+      "exempt": [
+        "pot",
+        "neighbor",
+        "donkey"
+      ],
+      "wordCount": 967,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "politely(2)",
+        "sellers(2)",
+        "nonsense(2)",
+        "foolish(1)",
+        "shopkeepers(1)",
+        "giggle(1)",
+        "rude(1)",
+        "backward(1)",
+        "noisy(1)",
+        "cloth(1)",
+        "stall(1)",
+        "patience(1)",
+        "lowered(1)",
+        "ah(1)",
+        "faintest(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9619,
+      "coreCoverage": 0.9622,
+      "exempt": [
+        "pot",
+        "neighbor",
+        "donkey"
+      ],
+      "wordCount": 1259,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "nonsense(2)",
+        "lane(2)",
+        "messenger(1)",
+        "lanes(1)",
+        "unexpectedly(1)",
+        "harmless(1)",
+        "swore(1)",
+        "fond(1)",
+        "shopkeepers(1)",
+        "doorways(1)",
+        "saddle(1)",
+        "giggle(1)",
+        "polite(1)",
+        "insulted(1)",
+        "tellers(1)",
+        "politely(1)",
+        "strolled(1)",
+        "stalls(1)",
+        "cloth(1)",
+        "pans(1)",
+        "spoons(1)",
+        "bargaining(1)",
+        "comfortably(1)",
+        "palm(1)",
+        "tuck(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9498,
+    "A2": 0.9921
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 14,
+      "die": 6,
+      "dead": 1,
+      "death": 1
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.167,
+      "summary3gramJaccard": 0.042,
+      "a1FiveGramOverlap": 0.004
+    },
+    "top3": [
+      {
+        "id": "st-0198",
+        "title": "Anansi and the Pot of Wisdom",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0021",
+        "title": "The Signs on the Yellow Paper",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.042,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0024",
+        "title": "The Midnight Library Key",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.042,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

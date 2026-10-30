@@ -1,0 +1,67 @@
+{
+  "id": "st-0365",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"So her women stood around her.\" The A1 text never says why. Consider adding \"Nobody could see her.\" (A2 does this.)",
+        "\"Why did I say no to the prince?\" has no speaker tag. Consider \"Why did I say no to the prince?\" she said.",
+        "Quiz Q1: the distractor \"A pot and a rattle\" is things the prince (as swineherd) made and gave her. The verb 'send' keeps the key clear, but \"A ring and a dress\" would be a cleaner distractor.",
+        "A1 comprehension: no blocking words found beyond the glossed ones. 'dirt', 'cheek', 'price' and 'Emperor' are fine for beginners."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "2. unnatural English",
+          "quote": "She wanted a made rose, not a real one.",
+          "problem": "'a made rose' is not idiomatic English; 'made' does not work as an attributive adjective here. The princess's wish for an artificial rose is the key point of the scene, and a learner may not understand the phrase or may learn it wrongly.",
+          "fix": "She wanted a toy rose, not a real one. (This matches A1. 'She wanted a rose made of silk, not a real one.' would also work.)"
+        },
+        {
+          "criterion": "2. unnatural English",
+          "quote": "\"Yes, it is real,\" said the young man's people.",
+          "problem": "'the young man's people' is vague and odd. It is not clear who is speaking. They are the men who brought the gifts.",
+          "fix": "\"Yes, it is real,\" said the prince's men."
+        }
+      ],
+      "notes": [
+        "\"And the swineherd said no to this plan. So once more, the women stood around her.\" The princess's agreement is only implied. You could add: \"So the princess said yes.\"",
+        "\"Then he went into his own country and closed the door.\" A1's \"went home and closed his door\" reads more naturally, but this is acceptable in a fairy tale."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "2. unnatural English",
+          "quote": "\"It is not a made rose at all. It is just a real one!\"",
+          "problem": "'a made rose' is not natural English. Unlike B2, nothing earlier in the B1 text (such as the ladies saying 'how prettily it is made') sets up the idea, so the contrast the princess draws is unclear.",
+          "fix": "\"It is not a silk rose at all. It is just a real one!\" (or \"It is not a pretend rose at all...\"; to keep 'made', add an earlier line: The ladies cried, \"Oh, how pretty! Who made it?\")"
+        }
+      ],
+      "notes": [
+        "\"the only tune she could play on the piano\": Andersen does not name the instrument; he only says she played it with one finger. This is harmless."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"One of the ladies put on wooden shoes and went in.\" The reason (the mud of the pigsty) is left implicit, as in Andersen. That is fine."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Very faithful and genuinely literary: the French-speaking ladies, the late Empress's music box, the 'well-educated swineherd', the trodden-down slippers and the bolted door are all present. Leaving out the slipper blow on the heads is suitable softening for 4+."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is faithful to Andersen at every level, age-appropriate, and the quizzes are sound. B2 and C1 are strong. A2 and B1 fail only on the unidiomatic phrase 'a made rose', which sits at the plot's key point (A2 also has the vague 'the young man's people'). These are small wording fixes."
+}

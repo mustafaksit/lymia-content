@@ -1,0 +1,61 @@
+{
+  "id": "st-0327",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "7. A1 comprehension",
+          "quote": "\"Bow to my hat!\" said Gessler.",
+          "problem": "The verb 'bow' is the key to the whole conflict, but it is not glossed and it is not a beginner word. An A1 learner who has just learned the glossed word 'crossbow' will probably read 'bow' as the weapon, so 'Bow to my hat!' and 'Tell did not bow.' make no sense to them.",
+          "fix": "Add 'bow' (verb) to the glossed key words (that makes 4, still within 3-5). Or show the action in the text: \"Bow to my hat! Put your head down to my hat!\" said Gessler."
+        }
+      ],
+      "notes": [
+        "Other words a beginner may not know (not enough to fail on their own): 'ruled the land' -> 'was the boss of the land' / 'was the king's man in the land'; 'Soon all the people stood together.' -> 'Soon all the people worked together against Gessler.'",
+        "'Tell took the boat near the land.' sounds a little odd. Try 'Tell moved the boat near the land.' or 'Tell took the boat to the land.'",
+        "Fidelity (applies to all levels): in the original (Schiller / the legend), Tell later ambushes and kills Gessler at Küssnacht. Here Gessler simply flees. This counts as acceptable softening for a 4+ app, so it is not a failure."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'So Gessler told his men to free Tell's hands.' The text never says his hands were tied, and quiz Q3 depends on this. Suggest: 'They tied Tell's hands and put him in a boat on the lake of Lucerne.'",
+        "'Please, ask anything else of me' is a bit stilted for A2. Try 'Please, ask me for anything else.'"
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No conditionals or passive found. The story is faithful (two arrows, the hidden arrow, the promise of life, the boat, the storm, the leap)."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Had the first arrow harmed my son, the second was meant for you.' mixes tenses. The C1 version gets this right. Suggest: 'Had the first arrow harmed my son, the second would have been for you.' This is the line B2 learners will study, so it is worth fixing."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error",
+          "quote": "\"Your son tells me that you can strike an apple from a tree at a hundred paces.\"",
+          "problem": "The text never shows Walter speaking to Gessler. Gessler has only just ridden in and 'listened to the soldiers' account', and Walter was last 'staring at the stalls'. Readers will ask when the boy said this. (In Schiller, Walter boasts about his father in front of Gessler, and that boast is what gives Gessler the idea.)",
+          "fix": "Before Gessler speaks, add something like: 'Walter, indignant on his father's behalf, piped up that his father could strike an apple from a tree at a hundred paces.' Then keep Gessler's line, or change it to 'So the boy says you can strike an apple...'"
+        }
+      ],
+      "notes": [
+        "'a fine or a spell in his cells': a reader may briefly take 'spell' as magic. 'a spell in his dungeons' or 'a term in his cells' avoids this.",
+        "The writing is genuinely literary and not padded. The linden tree, the young nobleman's protest, Tell keeping out of the secret oath and the Tellsplatte leap are all faithful to the original."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A careful, mostly faithful retelling with correct quizzes and suitable content at every level. A1 fails because the key verb 'bow' is not glossed and is easy to mistake for the weapon (crossbow). C1 fails because Gessler says 'Your son tells me...' but Walter never speaks to him. Gessler fleeing instead of being killed by Tell is accepted as softening for a 4+ app."
+}
