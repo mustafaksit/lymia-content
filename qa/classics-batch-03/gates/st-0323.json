@@ -1,0 +1,696 @@
+{
+  "id": "st-0323",
+  "title": "The Swiss Family Robinson",
+  "ts": "2026-10-30T10:23:34",
+  "node": {
+    "id": "st-0323",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %91.7 | 324 kelime\n    havuz dışı: ship(5), dogs(2), storm(1), hit(1), rock(1), sailors(1), boats(1), raft(2), swam(1), island(4), tools(1), clothes(1), animals(2), tree(2), seeds(1), ground(1)",
+        "level A2: A2: KALDI | kapsam %94.8 | 498 kelime\n    havuz dışı: storm(1), ship(6), boats(1), island(6), raft(1), tools(1), seeds(2), cow(2), goats(2), ladder(1), rain(1), cave(1), captain(1)",
+        "level B1: B1: KALDI | kapsam %92.4 | 828 kelime\n    havuz dışı: pastor(1), sensible(1), thoughtful(1), bold(1), deck(2), pour(1), confusion(1), sailors(1), brave(1), sink(1), barrels(1), raft(2), tubs(1), washtubs(1), floated(1), beside(1), bay(2), shore(2), stream(1), tent(1), sail(2), wreck(1), cow(2), donkey(1), goats(2), sheep(1), pigs(1), hens(2), floats(1), giant(1), ropes(1), rope(1), ladder(1), steady(1), rhythm(1), fences(1), wandered(1), monkey(1), pet(1), valleys(1), discovery(1), salt(1), cotton(1), rainy(1), damp(1), shelter(1), digging(1), cave(3), shone(1), wet(1), cannon(1), anchor(1), captain(1)",
+        "level B2: B2: KALDI | kapsam %93.5 | 1043 kelime\n    havuz dışı: pastor(1), colony(1), eldest(1), eager(1), bold(1), cheerful(2), voyage(1), reef(2), lowered(1), backward(1), deck(1), vanishing(1), wedged(1), dawn(1), mist(1), barrels(1), fastened(1), halves(1), planks(2), sturdy(1), raft(2), washtubs(1), precious(1), steered(1), bay(2), wreck(1), sacks(1), donkey(1), goats(2), hens(2), baskets(1), expedition(1), grove(1), rope(2), sailcloth(1), ladder(1), airy(1), sowed(1), piglets(1), harmful(1), monkey(1), ridges(1), cotton(1), rainy(1), harsh(1), damp(1), miserable(1), cave(4), astonishment(1), glittered(1), crystals(1), harvest(1), shipwreck(1), cannon(1), anchor(1), captain(1), ashore(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9167,
+        "coreCoverage": 0.9291,
+        "exempt": [
+          "island",
+          "raft",
+          "tree house"
+        ],
+        "wordCount": 324,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ship(5)",
+          "dogs(2)",
+          "animals(2)",
+          "tree(2)",
+          "storm(1)",
+          "hit(1)",
+          "rock(1)",
+          "sailors(1)",
+          "boats(1)",
+          "swam(1)",
+          "tools(1)",
+          "clothes(1)",
+          "seeds(1)",
+          "ground(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9478,
+        "coreCoverage": 0.9593,
+        "exempt": [
+          "island",
+          "raft",
+          "tree house"
+        ],
+        "wordCount": 498,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ship(6)",
+          "seeds(2)",
+          "cow(2)",
+          "goats(2)",
+          "storm(1)",
+          "boats(1)",
+          "tools(1)",
+          "ladder(1)",
+          "rain(1)",
+          "cave(1)",
+          "captain(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9239,
+        "coreCoverage": 0.9235,
+        "exempt": [
+          "island",
+          "raft",
+          "tree house"
+        ],
+        "wordCount": 828,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cave(3)",
+          "deck(2)",
+          "bay(2)",
+          "shore(2)",
+          "sail(2)",
+          "cow(2)",
+          "goats(2)",
+          "hens(2)",
+          "pastor(1)",
+          "sensible(1)",
+          "thoughtful(1)",
+          "bold(1)",
+          "pour(1)",
+          "confusion(1)",
+          "sailors(1)",
+          "brave(1)",
+          "sink(1)",
+          "barrels(1)",
+          "tubs(1)",
+          "washtubs(1)",
+          "floated(1)",
+          "beside(1)",
+          "stream(1)",
+          "tent(1)",
+          "wreck(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9348,
+        "coreCoverage": 0.9348,
+        "exempt": [
+          "island",
+          "raft",
+          "tree house"
+        ],
+        "wordCount": 1043,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cave(4)",
+          "cheerful(2)",
+          "reef(2)",
+          "planks(2)",
+          "bay(2)",
+          "goats(2)",
+          "hens(2)",
+          "rope(2)",
+          "pastor(1)",
+          "colony(1)",
+          "eldest(1)",
+          "eager(1)",
+          "bold(1)",
+          "voyage(1)",
+          "lowered(1)",
+          "backward(1)",
+          "deck(1)",
+          "vanishing(1)",
+          "wedged(1)",
+          "dawn(1)",
+          "mist(1)",
+          "barrels(1)",
+          "fastened(1)",
+          "halves(1)",
+          "sturdy(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9052,
+        "coreCoverage": 0.9053,
+        "exempt": [
+          "island",
+          "raft",
+          "tree house"
+        ],
+        "wordCount": 1382,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "wreck(4)",
+          "rope(3)",
+          "cave(3)",
+          "reef(2)",
+          "bay(2)",
+          "sailcloth(2)",
+          "goats(2)",
+          "hens(2)",
+          "timber(2)",
+          "anchor(2)",
+          "captain(2)",
+          "colonies(1)",
+          "pastor(1)",
+          "embarked(1)",
+          "thoughtful(1)",
+          "wavered(1)",
+          "sleeves(1)",
+          "alike(1)",
+          "eldest(1)",
+          "restless(1)",
+          "dreamy(1)",
+          "cheerful(1)",
+          "reckless(1)",
+          "trotted(1)",
+          "voyage(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "They",
+          "ctx": ". They brought food, tools and clothes. They brought some animals too.  The family n"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "They",
+          "ctx": " made a long ladder to get up and down. They called their new home Falconhurst. At n"
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 324,
+      "sentLenMedian": 6.5,
+      "zipfMedian": 6.12,
+      "lowZipfRatio": 0.0034,
+      "lowZipfWords": [
+        "swam"
+      ],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 498,
+      "sentLenMedian": 8.0,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 828,
+      "sentLenMedian": 11,
+      "zipfMedian": 5.95,
+      "lowZipfRatio": 0.0164,
+      "lowZipfWords": [
+        "floated",
+        "floats",
+        "hens",
+        "rowed",
+        "sawed",
+        "shone",
+        "swam",
+        "tubs",
+        "wandered",
+        "washtubs"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1043,
+      "sentLenMedian": 14.0,
+      "zipfMedian": 5.92,
+      "lowZipfRatio": 0.0328,
+      "lowZipfWords": [
+        "airy",
+        "astonishment",
+        "baskets",
+        "climber",
+        "fastened",
+        "fenced",
+        "floated",
+        "floats",
+        "glittered",
+        "halves",
+        "hens",
+        "joked",
+        "leaned",
+        "piglets",
+        "planks",
+        "ridges",
+        "rowed",
+        "sailcloth",
+        "sawed",
+        "shipwreck",
+        "sowed",
+        "steered",
+        "sturdy",
+        "swam",
+        "vanishing",
+        "wandered",
+        "washtubs",
+        "wedged"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1382,
+      "sentLenMedian": 21,
+      "zipfMedian": 5.89,
+      "lowZipfRatio": 0.0535,
+      "lowZipfWords": [
+        "baskets",
+        "bobbing",
+        "boughs",
+        "buttresses",
+        "calmer",
+        "casks",
+        "climber",
+        "coaxed",
+        "colossal",
+        "contented",
+        "dignified",
+        "dismay",
+        "dreamy",
+        "dripping",
+        "explorations",
+        "farmed",
+        "fastened",
+        "floated",
+        "floats",
+        "fording",
+        "fringed",
+        "gentleness",
+        "glittered",
+        "groaning",
+        "hammers",
+        "hauled",
+        "hens",
+        "island's",
+        "jammed",
+        "jolt",
+        "lodged",
+        "naturalist",
+        "oddest",
+        "orchards",
+        "overboard",
+        "paddled",
+        "pans",
+        "perch",
+        "piglets",
+        "planks",
+        "plunged",
+        "ridges",
+        "roofed",
+        "rowed",
+        "rummaging",
+        "sailcloth",
+        "sawed",
+        "saws",
+        "sheltered",
+        "sown",
+        "spanned",
+        "speechless",
+        "steadiness",
+        "stitched",
+        "storeroom",
+        "storerooms",
+        "stubbornly",
+        "sturdier",
+        "summered",
+        "sunburnt",
+        "thinning",
+        "timbers",
+        "treetops",
+        "trotted",
+        "tubs",
+        "tumbling",
+        "unwise",
+        "wandered",
+        "wavered",
+        "wintered"
+      ],
+      "keyTermTokens": 6,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9167,
+      "coreCoverage": 0.9291,
+      "exempt": [
+        "island",
+        "raft",
+        "tree house"
+      ],
+      "wordCount": 324,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ship(5)",
+        "dogs(2)",
+        "animals(2)",
+        "tree(2)",
+        "storm(1)",
+        "hit(1)",
+        "rock(1)",
+        "sailors(1)",
+        "boats(1)",
+        "swam(1)",
+        "tools(1)",
+        "clothes(1)",
+        "seeds(1)",
+        "ground(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9478,
+      "coreCoverage": 0.9593,
+      "exempt": [
+        "island",
+        "raft",
+        "tree house"
+      ],
+      "wordCount": 498,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ship(6)",
+        "seeds(2)",
+        "cow(2)",
+        "goats(2)",
+        "storm(1)",
+        "boats(1)",
+        "tools(1)",
+        "ladder(1)",
+        "rain(1)",
+        "cave(1)",
+        "captain(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9239,
+      "coreCoverage": 0.9235,
+      "exempt": [
+        "island",
+        "raft",
+        "tree house"
+      ],
+      "wordCount": 828,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cave(3)",
+        "deck(2)",
+        "bay(2)",
+        "shore(2)",
+        "sail(2)",
+        "cow(2)",
+        "goats(2)",
+        "hens(2)",
+        "pastor(1)",
+        "sensible(1)",
+        "thoughtful(1)",
+        "bold(1)",
+        "pour(1)",
+        "confusion(1)",
+        "sailors(1)",
+        "brave(1)",
+        "sink(1)",
+        "barrels(1)",
+        "tubs(1)",
+        "washtubs(1)",
+        "floated(1)",
+        "beside(1)",
+        "stream(1)",
+        "tent(1)",
+        "wreck(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9348,
+      "coreCoverage": 0.9348,
+      "exempt": [
+        "island",
+        "raft",
+        "tree house"
+      ],
+      "wordCount": 1043,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cave(4)",
+        "cheerful(2)",
+        "reef(2)",
+        "planks(2)",
+        "bay(2)",
+        "goats(2)",
+        "hens(2)",
+        "rope(2)",
+        "pastor(1)",
+        "colony(1)",
+        "eldest(1)",
+        "eager(1)",
+        "bold(1)",
+        "voyage(1)",
+        "lowered(1)",
+        "backward(1)",
+        "deck(1)",
+        "vanishing(1)",
+        "wedged(1)",
+        "dawn(1)",
+        "mist(1)",
+        "barrels(1)",
+        "fastened(1)",
+        "halves(1)",
+        "sturdy(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9052,
+      "coreCoverage": 0.9053,
+      "exempt": [
+        "island",
+        "raft",
+        "tree house"
+      ],
+      "wordCount": 1382,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "wreck(4)",
+        "rope(3)",
+        "cave(3)",
+        "reef(2)",
+        "bay(2)",
+        "sailcloth(2)",
+        "goats(2)",
+        "hens(2)",
+        "timber(2)",
+        "anchor(2)",
+        "captain(2)",
+        "colonies(1)",
+        "pastor(1)",
+        "embarked(1)",
+        "thoughtful(1)",
+        "wavered(1)",
+        "sleeves(1)",
+        "alike(1)",
+        "eldest(1)",
+        "restless(1)",
+        "dreamy(1)",
+        "cheerful(1)",
+        "reckless(1)",
+        "trotted(1)",
+        "voyage(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9291,
+    "A2": 0.9593
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.25,
+      "summary3gramJaccard": 0.033,
+      "a1FiveGramOverlap": 0.016
+    },
+    "top3": [
+      {
+        "id": "st-0279",
+        "title": "Robinson Crusoe",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0213",
+        "title": "A Retrieved Reformation",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.033,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0292",
+        "title": "The Hound of the Baskervilles",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.031,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "st-0325",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Quiz Q1 wording 'Why did Gulliver and the men go on the land?' is slightly unnatural; 'Why did Gulliver and the men leave the ship?' or 'Why did Gulliver and the men go to the land?' reads better.",
+        "'They ran back to the ship' compresses the rowing escape in the boat; acceptable simplification.",
+        "'The giant took him home' then 'The giant had a little girl' merges the reaper and the farmer into one giant; acceptable condensation for A1.",
+        "Vocabulary and grammar are within A1 (present/past simple only, no relative clauses); no comprehension blockers beyond the glossed words."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Gulliver and a few men went on the land to find water' - 'went on land' or 'went onto the land' is more natural than 'went on the land'.",
+        "'He gave Gulliver to the farmer.' introduces the farmer with 'the' at first mention; 'He took Gulliver to his master, a farmer.' is clearer.",
+        "'called her his little teacher' departs from the original 'little nurse' (Glumdalclitch), but is a reasonable simplification."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "1. meaning drift / 5. fidelity",
+          "quote": "For many days, he still felt like a tiny man among giants.",
+          "problem": "This reverses the original ending and contradicts the B1 text itself and the B2/C1 levels. In Swift, back in England Gulliver sees everyone else as tiny and feels like a giant among little people (he stoops to his wife, fears treading on people). Two sentences earlier B1 says 'The sailors looked as tiny as dolls to him', so the closing line confuses the reader about who looks small to whom.",
+          "fix": "For many days, the people around him still looked strangely small, and he felt like a giant among them."
+        }
+      ],
+      "notes": [
+        "'page' (servant boy) may be unfamiliar at B1; 'a young servant boy (a page)' would help.",
+        "No passive or conditional structures found; level grammar is fine."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'showed him in an inn for money' - 'showed him at an inn' or 'exhibited him at an inn' is more idiomatic.",
+        "Events, order and ending match the original well (thousand pieces of gold, sixteen-foot box, dwarf and cream bowl, wasps, king's verdict, eagle, rescue, ring from the queen, stooping to family)."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'It was the youngest of the family, however, who claimed him' - in the original the farmer's household also has a baby, so Glumdalclitch is not strictly the youngest; 'It was the daughter of the house, however, ...' avoids the inaccuracy.",
+        "'it did not escape him, in later years, that he had found no answer the king could not dismiss' is dense; 'he had found no answer the king could not easily dismiss' or a simpler clause would read more smoothly. Taste only.",
+        "Literary register is genuine and not padded; ending (stooping, fear of treading on people, feeling a giant among little people) is faithful."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A strong, faithful retelling of Brobdingnag across all five levels, with correct quiz keys and nothing unsuitable for a 4+ rating. A1, A2, B2 and C1 pass. B1 fails on one concrete point: its final sentence says Gulliver felt like 'a tiny man among giants', which reverses the original ending and contradicts the sailors-as-dolls line just before it and the B2/C1 endings."
+}

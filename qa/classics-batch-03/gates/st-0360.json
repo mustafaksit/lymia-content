@@ -1,0 +1,623 @@
+{
+  "id": "st-0360",
+  "title": "Persephone and the Pomegranate",
+  "ts": "2026-10-30T10:24:25",
+  "node": {
+    "id": "st-0360",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %94.5 | 328 kelime\n    havuz dışı: sea(1), picked(1), flowers(3), plant(1), pulled(1), ground(2), horses(1), chariot(2), sun(1), gods(1), pomegranate(1), seeds(2), seasons(1)",
+        "level B1: B1: KALDI | kapsam %93.3 | 756 kelime\n    havuz dışı: corn(2), joy(1), seashore(2), nymphs(3), wander(1), necklace(1), shiny(1), shells(1), crown(2), bush(2), golden(2), chariot(4), palace(5), jewels(1), sunlight(1), cruel(1), lonely(2), treasures(1), torch(2), cave(1), sunshine(1), sorrow(1), anger(1), gods(1), messenger(1), hungry(3), servant(1), pomegranate(2), tightly(1), grass(1), bare(1), bloom(1)",
+        "level B2: B2: KALDI | kapsam %93.6 | 952 kelime\n    havuz dışı: corn(2), apples(1), cheerful(2), seashore(2), nymphs(4), necklace(1), crown(2), farther(1), bush(2), splendid(1), chariot(4), robes(1), kingdom(2), palace(5), lonely(3), magnificent(1), jewels(1), sunlight(1), cruel(1), brighten(1), gloomy(1), treasures(1), mouthful(1), torch(2), cave(1), seldom(1), daylight(1), sunshine(1), sorrow(2), bare(2), swiftest(1), messenger(1), terribly(1), hungry(1), pomegranate(2), sprout(1), starving(1), grieves(1), bloom(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9451,
+        "coreCoverage": 0.951,
+        "exempt": [
+          "pomegranate",
+          "seeds",
+          "seasons"
+        ],
+        "wordCount": 328,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "flowers(3)",
+          "ground(2)",
+          "chariot(2)",
+          "sea(1)",
+          "picked(1)",
+          "plant(1)",
+          "pulled(1)",
+          "horses(1)",
+          "sun(1)",
+          "gods(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9586,
+        "coreCoverage": 0.9627,
+        "exempt": [
+          "pomegranate",
+          "seeds",
+          "seasons"
+        ],
+        "wordCount": 507,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "flowers(3)",
+          "chariot(3)",
+          "hole(2)",
+          "palace(2)",
+          "horses(1)",
+          "golden(1)",
+          "quiet(1)",
+          "gods(1)",
+          "dry(1)",
+          "hungry(1)",
+          "sad(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9325,
+        "coreCoverage": 0.9306,
+        "exempt": [
+          "pomegranate",
+          "seeds",
+          "seasons"
+        ],
+        "wordCount": 756,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "palace(5)",
+          "chariot(4)",
+          "nymphs(3)",
+          "hungry(3)",
+          "corn(2)",
+          "seashore(2)",
+          "crown(2)",
+          "bush(2)",
+          "golden(2)",
+          "lonely(2)",
+          "torch(2)",
+          "joy(1)",
+          "wander(1)",
+          "necklace(1)",
+          "shiny(1)",
+          "shells(1)",
+          "jewels(1)",
+          "sunlight(1)",
+          "cruel(1)",
+          "treasures(1)",
+          "cave(1)",
+          "sunshine(1)",
+          "sorrow(1)",
+          "anger(1)",
+          "gods(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9359,
+        "coreCoverage": 0.9344,
+        "exempt": [
+          "pomegranate",
+          "seeds",
+          "seasons"
+        ],
+        "wordCount": 952,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "palace(5)",
+          "nymphs(4)",
+          "chariot(4)",
+          "lonely(3)",
+          "corn(2)",
+          "cheerful(2)",
+          "seashore(2)",
+          "crown(2)",
+          "bush(2)",
+          "kingdom(2)",
+          "torch(2)",
+          "sorrow(2)",
+          "bare(2)",
+          "apples(1)",
+          "necklace(1)",
+          "farther(1)",
+          "splendid(1)",
+          "robes(1)",
+          "magnificent(1)",
+          "jewels(1)",
+          "sunlight(1)",
+          "cruel(1)",
+          "brighten(1)",
+          "gloomy(1)",
+          "treasures(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.928,
+        "coreCoverage": 0.9265,
+        "exempt": [
+          "pomegranate",
+          "seeds",
+          "seasons"
+        ],
+        "wordCount": 1306,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "palace(5)",
+          "nymphs(4)",
+          "crown(3)",
+          "chariot(3)",
+          "kingdom(3)",
+          "corn(2)",
+          "sunshine(2)",
+          "seashore(2)",
+          "farther(2)",
+          "bush(2)",
+          "jewels(2)",
+          "lonely(2)",
+          "torch(2)",
+          "sorrow(2)",
+          "sprout(2)",
+          "bare(2)",
+          "blade(1)",
+          "apples(1)",
+          "blushed(1)",
+          "orchards(1)",
+          "merry(1)",
+          "harvest(1)",
+          "fuss(1)",
+          "dived(1)",
+          "strung(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ANY_MORE",
+          "cat": "COMPOUNDING",
+          "msg": "Did you mean the adverb “anymore”?",
+          "frag": "any more",
+          "ctx": " dry, because nothing grew on the earth any more. Proserpina only wanted to smell it, bu"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 328,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.02,
+      "lowZipfRatio": 0.007,
+      "lowZipfWords": [
+        "chariot"
+      ],
+      "keyTermTokens": 4,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 507,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.14,
+      "lowZipfRatio": 0.0066,
+      "lowZipfWords": [
+        "chariot"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 756,
+      "sentLenMedian": 11.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0127,
+      "lowZipfWords": [
+        "chariot",
+        "nymphs",
+        "seashore"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 952,
+      "sentLenMedian": 15,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.02,
+      "lowZipfWords": [
+        "brighten",
+        "chariot",
+        "gloomy",
+        "grieves",
+        "hurried",
+        "mouthful",
+        "nymphs",
+        "robes",
+        "seashore",
+        "sprout",
+        "swiftest"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1306,
+      "sentLenMedian": 20.5,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0351,
+      "lowZipfWords": [
+        "anxiously",
+        "armful",
+        "astonishment",
+        "bloomed",
+        "blushed",
+        "chariot",
+        "crossroads",
+        "crumb",
+        "dived",
+        "finer",
+        "gentler",
+        "glittered",
+        "gloom",
+        "grieves",
+        "hurried",
+        "hurrying",
+        "lyre",
+        "messengers",
+        "neatly",
+        "nymphs",
+        "orchards",
+        "pang",
+        "peered",
+        "prettiest",
+        "robes",
+        "scarcely",
+        "seashore",
+        "shriveled",
+        "sprang",
+        "sprout",
+        "strung",
+        "swiftest",
+        "tugged",
+        "unfold",
+        "ventured",
+        "wandered"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9451,
+      "coreCoverage": 0.951,
+      "exempt": [
+        "pomegranate",
+        "seeds",
+        "seasons"
+      ],
+      "wordCount": 328,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "flowers(3)",
+        "ground(2)",
+        "chariot(2)",
+        "sea(1)",
+        "picked(1)",
+        "plant(1)",
+        "pulled(1)",
+        "horses(1)",
+        "sun(1)",
+        "gods(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9586,
+      "coreCoverage": 0.9627,
+      "exempt": [
+        "pomegranate",
+        "seeds",
+        "seasons"
+      ],
+      "wordCount": 507,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "flowers(3)",
+        "chariot(3)",
+        "hole(2)",
+        "palace(2)",
+        "horses(1)",
+        "golden(1)",
+        "quiet(1)",
+        "gods(1)",
+        "dry(1)",
+        "hungry(1)",
+        "sad(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9325,
+      "coreCoverage": 0.9306,
+      "exempt": [
+        "pomegranate",
+        "seeds",
+        "seasons"
+      ],
+      "wordCount": 756,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "palace(5)",
+        "chariot(4)",
+        "nymphs(3)",
+        "hungry(3)",
+        "corn(2)",
+        "seashore(2)",
+        "crown(2)",
+        "bush(2)",
+        "golden(2)",
+        "lonely(2)",
+        "torch(2)",
+        "joy(1)",
+        "wander(1)",
+        "necklace(1)",
+        "shiny(1)",
+        "shells(1)",
+        "jewels(1)",
+        "sunlight(1)",
+        "cruel(1)",
+        "treasures(1)",
+        "cave(1)",
+        "sunshine(1)",
+        "sorrow(1)",
+        "anger(1)",
+        "gods(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9359,
+      "coreCoverage": 0.9344,
+      "exempt": [
+        "pomegranate",
+        "seeds",
+        "seasons"
+      ],
+      "wordCount": 952,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "palace(5)",
+        "nymphs(4)",
+        "chariot(4)",
+        "lonely(3)",
+        "corn(2)",
+        "cheerful(2)",
+        "seashore(2)",
+        "crown(2)",
+        "bush(2)",
+        "kingdom(2)",
+        "torch(2)",
+        "sorrow(2)",
+        "bare(2)",
+        "apples(1)",
+        "necklace(1)",
+        "farther(1)",
+        "splendid(1)",
+        "robes(1)",
+        "magnificent(1)",
+        "jewels(1)",
+        "sunlight(1)",
+        "cruel(1)",
+        "brighten(1)",
+        "gloomy(1)",
+        "treasures(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.928,
+      "coreCoverage": 0.9265,
+      "exempt": [
+        "pomegranate",
+        "seeds",
+        "seasons"
+      ],
+      "wordCount": 1306,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "palace(5)",
+        "nymphs(4)",
+        "crown(3)",
+        "chariot(3)",
+        "kingdom(3)",
+        "corn(2)",
+        "sunshine(2)",
+        "seashore(2)",
+        "farther(2)",
+        "bush(2)",
+        "jewels(2)",
+        "lonely(2)",
+        "torch(2)",
+        "sorrow(2)",
+        "sprout(2)",
+        "bare(2)",
+        "blade(1)",
+        "apples(1)",
+        "blushed(1)",
+        "orchards(1)",
+        "merry(1)",
+        "harvest(1)",
+        "fuss(1)",
+        "dived(1)",
+        "strung(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.951,
+    "A2": 0.9627
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0277",
+        "title": "The Snow Queen",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

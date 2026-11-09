@@ -1,0 +1,649 @@
+{
+  "id": "st-0351",
+  "title": "In the Abyss",
+  "ts": "2026-10-30T10:24:13",
+  "node": {
+    "id": "st-0351",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %88.8 | 303 kelime\n    havuz dışı: ship(2), ocean(4), bottom(2), sphere(14), windows(1), inside(1), rope(3), heavy(1), weight(3), clock(2), fish(1)",
+        "level A2: A2: KALDI | kapsam %92.0 | 490 kelime\n    havuz dışı: ship(2), ocean(7), bottom(2), sphere(18), steel(1), thick(1), glass(1), rope(4), heavy(1), slow(1), gift(1)",
+        "level B1: B1: KALDI | kapsam %92.3 | 810 kelime\n    havuz dışı: ocean(10), deck(1), bold(1), hollow(1), sphere(21), steel(2), electric(2), shine(1), darkness(3), rope(4), float(1), crack(1), screwed(1), tight(1), sailors(2), rail(1), gently(1), shining(3), lamps(1), curious(1), bowed(1), holy(1), upward(1)",
+        "level B2: B2: KALDI | kapsam %93.5 | 974 kelime\n    havuz dışı: motionless(1), deck(2), boldest(1), hollow(1), sphere(17), crushing(1), eternal(1), rope(4), swiftly(1), clever(1), screwed(1), sailors(2), vanished(1), i'm(1), midnight(1), hauled(1), unscrewed(1), drifting(1), glowed(1), lanterns(1), darted(1), mud(1), upright(1), sunlight(1), curiosity(1), hostile(1), puzzled(1), faint(1), glow(1), temple(2), procession(1), bowed(1), chant(1), sacred(1), upward(2), astonished(1), glowing(1), shrank(1), spark(1), amazement(1)",
+        "level C1: C1: KALDI | kapsam %90.0 | 1286 kelime\n    havuz dışı: anchor(1), polished(1), deck(1), bound(1), descend(1), hollow(1), sphere(12), dense(1), lamp(2), beam(2), stout(1), rope(4), contrivance(1), swiftly(1), downward(1), entrusted(1), clockwork(2), sever(1), relieved(1), displaced(1), dissuade(1), patience(1), dawn(1), squeezed(1), companions(1), screwed(1), betrayed(1), unease(1), sailors(1), outboard(1), reluctant(1), swell(1), precision(1), descent(2), tolerable(1), composure(1), noon(1), glaring(1), sunset(1), murmurs(1), aloud(1), crawled(2), midnight(1), seized(2), faint(2), swelled(2), brightened(1), foam(1), unscrewed(1), chilled(1), exhaustion(1), twilight(1), deepened(1), blackness(2), drifting(2), darting(1), motionless(1), void(1), illumination(1), portholes(1), miniature(1), inspect(1), intruder(1), pulsing(1), absorbed(1), scarcely(1), ooze(2), upright(1), sunlight(1), solemn(1), immense(1), curiosity(1), confronting(1), haul(1), scraping(1), glow(1), kindled(1), edifice(1), temple(2), doorways(1), procession(1), bowed(1), chant(1), dawned(1), afterward(1), worshiped(1), countless(1), upward(2), descended(1), heaven(1), marvelous(1), punctual(1), abyss(1), leapt(1), reverent(1), dwindled(1), sparks(1), glimmer(1), glimpsed(1), civilization(1), cowardice(1), unexplored(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8878,
+        "coreCoverage": 0.9387,
+        "exempt": [
+          "sphere",
+          "ocean",
+          "lights"
+        ],
+        "wordCount": 303,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "rope(3)",
+          "weight(3)",
+          "ship(2)",
+          "bottom(2)",
+          "clock(2)",
+          "windows(1)",
+          "inside(1)",
+          "heavy(1)",
+          "fish(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9204,
+        "coreCoverage": 0.9679,
+        "exempt": [
+          "sphere",
+          "ocean",
+          "lights"
+        ],
+        "wordCount": 490,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "rope(4)",
+          "ship(2)",
+          "bottom(2)",
+          "steel(1)",
+          "thick(1)",
+          "glass(1)",
+          "heavy(1)",
+          "slow(1)",
+          "gift(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9235,
+        "coreCoverage": 0.9585,
+        "exempt": [
+          "sphere",
+          "ocean",
+          "lights"
+        ],
+        "wordCount": 810,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "rope(4)",
+          "darkness(3)",
+          "shining(3)",
+          "steel(2)",
+          "electric(2)",
+          "sailors(2)",
+          "deck(1)",
+          "bold(1)",
+          "hollow(1)",
+          "shine(1)",
+          "float(1)",
+          "crack(1)",
+          "screwed(1)",
+          "tight(1)",
+          "rail(1)",
+          "gently(1)",
+          "lamps(1)",
+          "curious(1)",
+          "bowed(1)",
+          "holy(1)",
+          "upward(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9353,
+        "coreCoverage": 0.95,
+        "exempt": [
+          "sphere",
+          "ocean",
+          "lights"
+        ],
+        "wordCount": 974,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "rope(4)",
+          "deck(2)",
+          "sailors(2)",
+          "temple(2)",
+          "upward(2)",
+          "motionless(1)",
+          "boldest(1)",
+          "hollow(1)",
+          "crushing(1)",
+          "eternal(1)",
+          "swiftly(1)",
+          "clever(1)",
+          "screwed(1)",
+          "vanished(1)",
+          "i'm(1)",
+          "midnight(1)",
+          "hauled(1)",
+          "unscrewed(1)",
+          "drifting(1)",
+          "glowed(1)",
+          "lanterns(1)",
+          "darted(1)",
+          "mud(1)",
+          "upright(1)",
+          "sunlight(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.8997,
+        "coreCoverage": 0.9059,
+        "exempt": [
+          "sphere",
+          "ocean",
+          "lights"
+        ],
+        "wordCount": 1286,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "rope(4)",
+          "lamp(2)",
+          "beam(2)",
+          "clockwork(2)",
+          "descent(2)",
+          "crawled(2)",
+          "seized(2)",
+          "faint(2)",
+          "swelled(2)",
+          "blackness(2)",
+          "drifting(2)",
+          "ooze(2)",
+          "temple(2)",
+          "upward(2)",
+          "anchor(1)",
+          "polished(1)",
+          "deck(1)",
+          "bound(1)",
+          "descend(1)",
+          "hollow(1)",
+          "dense(1)",
+          "stout(1)",
+          "contrivance(1)",
+          "swiftly(1)",
+          "downward(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "They",
+          "ctx": "ound eyes, and they walked on two feet. They came close and looked at the sphere for"
+        },
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "They",
+          "ctx": "d looked at the sphere for a long time. They only wanted to learn about this new thi"
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "NOUN_AROUND_IT",
+          "cat": "REDUNDANCY",
+          "msg": "Consider using “the surrounding water”.",
+          "frag": "the water around him",
+          "ctx": "ds everything. As the sphere went down, the water around him changed from blue to green. Then it tur"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 303,
+      "sentLenMedian": 6,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 21,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 490,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 30,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 810,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.004,
+      "lowZipfWords": [
+        "bowed",
+        "swam",
+        "swung"
+      ],
+      "keyTermTokens": 33,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 974,
+      "sentLenMedian": 16.0,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0183,
+      "lowZipfWords": [
+        "amazement",
+        "astonished",
+        "boldest",
+        "bowed",
+        "darted",
+        "gazed",
+        "glowed",
+        "hauled",
+        "lanterns",
+        "motionless",
+        "peered",
+        "puzzled",
+        "shone",
+        "shrank",
+        "swam",
+        "swung",
+        "unscrewed"
+      ],
+      "keyTermTokens": 25,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1286,
+      "sentLenMedian": 25,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0496,
+      "lowZipfWords": [
+        "abyss",
+        "blackness",
+        "bowed",
+        "brightened",
+        "chilled",
+        "circled",
+        "clockwork",
+        "composure",
+        "confronting",
+        "contrivance",
+        "cowardice",
+        "crawled",
+        "darting",
+        "dawned",
+        "deepened",
+        "dissuade",
+        "doorways",
+        "dwindled",
+        "edifice",
+        "entrusted",
+        "exhaustion",
+        "gazed",
+        "glaring",
+        "glimmer",
+        "glimpsed",
+        "harbored",
+        "illumination",
+        "intruder",
+        "kindled",
+        "lain",
+        "leapt",
+        "motionless",
+        "murmurs",
+        "ooze",
+        "outboard",
+        "peered",
+        "plainly",
+        "portholes",
+        "pulsing",
+        "punctual",
+        "reckoned",
+        "reverent",
+        "scarcely",
+        "scraping",
+        "sever",
+        "shone",
+        "solemn",
+        "stately",
+        "stirred",
+        "stout",
+        "swelled",
+        "swung",
+        "tolerable",
+        "unease",
+        "unexplored",
+        "unscrewed",
+        "worshiped"
+      ],
+      "keyTermTokens": 17,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8878,
+      "coreCoverage": 0.9387,
+      "exempt": [
+        "sphere",
+        "ocean",
+        "lights"
+      ],
+      "wordCount": 303,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "rope(3)",
+        "weight(3)",
+        "ship(2)",
+        "bottom(2)",
+        "clock(2)",
+        "windows(1)",
+        "inside(1)",
+        "heavy(1)",
+        "fish(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9204,
+      "coreCoverage": 0.9679,
+      "exempt": [
+        "sphere",
+        "ocean",
+        "lights"
+      ],
+      "wordCount": 490,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "rope(4)",
+        "ship(2)",
+        "bottom(2)",
+        "steel(1)",
+        "thick(1)",
+        "glass(1)",
+        "heavy(1)",
+        "slow(1)",
+        "gift(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9235,
+      "coreCoverage": 0.9585,
+      "exempt": [
+        "sphere",
+        "ocean",
+        "lights"
+      ],
+      "wordCount": 810,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "rope(4)",
+        "darkness(3)",
+        "shining(3)",
+        "steel(2)",
+        "electric(2)",
+        "sailors(2)",
+        "deck(1)",
+        "bold(1)",
+        "hollow(1)",
+        "shine(1)",
+        "float(1)",
+        "crack(1)",
+        "screwed(1)",
+        "tight(1)",
+        "rail(1)",
+        "gently(1)",
+        "lamps(1)",
+        "curious(1)",
+        "bowed(1)",
+        "holy(1)",
+        "upward(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9353,
+      "coreCoverage": 0.95,
+      "exempt": [
+        "sphere",
+        "ocean",
+        "lights"
+      ],
+      "wordCount": 974,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "rope(4)",
+        "deck(2)",
+        "sailors(2)",
+        "temple(2)",
+        "upward(2)",
+        "motionless(1)",
+        "boldest(1)",
+        "hollow(1)",
+        "crushing(1)",
+        "eternal(1)",
+        "swiftly(1)",
+        "clever(1)",
+        "screwed(1)",
+        "vanished(1)",
+        "i'm(1)",
+        "midnight(1)",
+        "hauled(1)",
+        "unscrewed(1)",
+        "drifting(1)",
+        "glowed(1)",
+        "lanterns(1)",
+        "darted(1)",
+        "mud(1)",
+        "upright(1)",
+        "sunlight(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.8997,
+      "coreCoverage": 0.9059,
+      "exempt": [
+        "sphere",
+        "ocean",
+        "lights"
+      ],
+      "wordCount": 1286,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "rope(4)",
+        "lamp(2)",
+        "beam(2)",
+        "clockwork(2)",
+        "descent(2)",
+        "crawled(2)",
+        "seized(2)",
+        "faint(2)",
+        "swelled(2)",
+        "blackness(2)",
+        "drifting(2)",
+        "ooze(2)",
+        "temple(2)",
+        "upward(2)",
+        "anchor(1)",
+        "polished(1)",
+        "deck(1)",
+        "bound(1)",
+        "descend(1)",
+        "hollow(1)",
+        "dense(1)",
+        "stout(1)",
+        "contrivance(1)",
+        "swiftly(1)",
+        "downward(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9387,
+    "A2": 0.9679
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.031,
+      "a1FiveGramOverlap": 0.007
+    },
+    "top3": [
+      {
+        "id": "st-0317",
+        "title": "Dummling and the Golden Goose",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.031,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0281",
+        "title": "The Pied Piper of Hamelin",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.007
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

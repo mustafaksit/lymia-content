@@ -1,0 +1,47 @@
+{
+  "id": "st-0331",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"A young girl, Nouronnihar, lived with them.\" Since all three sons want to marry her, \"A young woman\" fits better (B1 onward says she grew into a young woman).",
+        "\"Each of you must send an arrow far.\" The usual collocation is \"shoot an arrow\". \"Send\" is understandable, but \"Each of you must shoot an arrow. The farthest arrow wins.\" is more natural and still A1.",
+        "\"sultan\" is not in the glossed list. Context (\"had three sons\", \"Go out into the world,\" said the sultan) makes it clear enough, but adding it to the glossed words would help.",
+        "Comprehension: apart from 'sultan', the vocabulary (carpet, tube, apple, arrow, fairy glossed; in a moment, smell, sick, well, farthest, power) is within reach of an A1 learner. Only past simple, present simple and 'could' are used."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Ahmed did not stay for the party.\" The event is a wedding; \"did not stay for the wedding\" is clearer and matches the line before it."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"He thought of his room at the inn, and at once they were there.\" In Galland's version, Houssain wishes himself back to his lodging (the khan) in Bisnagar, not the crossroads inn. Because the inn was just introduced as the meeting place, \"the inn\" reads as that inn. Minor fidelity detail; \"He thought of his room in the city\" (and adjust quiz Q1 to match) would be more faithful. No passive voice or conditionals found."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Same minor detail as B1: \"wished to be back in his room at the inn\". In the original, this is his lodging in Bisnagar. A possible fix is \"back in his lodgings across the city\"."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Houssain fixed his thoughts on his room at the distant inn\" explicitly makes it the crossroads inn, while the original has his lodging (khan) in Bisnagar. Suggest \"his room at the khan where he lodged\". This is a small detail and not plot-relevant.",
+        "Quiz Q1 (\"What made the price ... seem outrageous at first?\") depends on inference from \"a small and distinctly shabby carpet\". The keyed answer is the only defensible one, so it is acceptable."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels follow the original tale faithfully, up to Ahmed's marriage to Peri Banou: the three quests (carpet, ivory tube, artificial apple), the cure, the archery contest, Ali's marriage, Houssain becoming a holy man, and the lost arrow leading to the iron door. Grammar fits each level, the quizzes key correctly, and nothing is unsuitable for a 4+ rating. Only minor notes remain: A1 wording ('young girl', 'send an arrow') and the room Houssain teleports to (his Bisnagar lodging in the original)."
+}

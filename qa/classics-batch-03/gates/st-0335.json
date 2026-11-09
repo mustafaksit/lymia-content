@@ -1,0 +1,608 @@
+{
+  "id": "st-0335",
+  "title": "The Queer Feet",
+  "ts": "2026-10-30T10:23:52",
+  "node": {
+    "id": "st-0335",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %90.1 | 323 kelime\n    havuz dışı: silver(6), fish(1), hotel(2), priest(1), coats(1), footsteps(5), fast(4), slow(1), slowly(2), waiters(3), wear(2), coat(2), famous(1), thief(1)",
+        "level A2: A2: KALDI | kapsam %93.9 | 511 kelime\n    havuz dışı: silver(8), knives(1), forks(1), waiters(4), priest(1), coats(2), footsteps(4), slowly(4), slow(1), coat(2), famous(1), thief(2)",
+        "level B1: B1: KALDI | kapsam %94.1 | 763 kelime\n    havuz dışı: gentlemen(6), silver(7), knives(2), forks(2), pearl(1), waiters(3), priest(7), afterwards(1), cloakroom(3), dining(1), pen(2), footsteps(4), trick(1), thief(2), colonel(2), hurries(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9009,
+        "coreCoverage": 0.941,
+        "exempt": [
+          "footsteps",
+          "silver",
+          "waiter"
+        ],
+        "wordCount": 323,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "fast(4)",
+          "slowly(2)",
+          "wear(2)",
+          "coat(2)",
+          "fish(1)",
+          "priest(1)",
+          "coats(1)",
+          "slow(1)",
+          "famous(1)",
+          "thief(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9393,
+        "coreCoverage": 0.9661,
+        "exempt": [
+          "footsteps",
+          "silver",
+          "waiter"
+        ],
+        "wordCount": 511,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "slowly(4)",
+          "coats(2)",
+          "coat(2)",
+          "thief(2)",
+          "knives(1)",
+          "forks(1)",
+          "priest(1)",
+          "slow(1)",
+          "famous(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.941,
+        "coreCoverage": 0.9555,
+        "exempt": [
+          "footsteps",
+          "silver",
+          "waiter"
+        ],
+        "wordCount": 763,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "priest(7)",
+          "gentlemen(6)",
+          "cloakroom(3)",
+          "knives(2)",
+          "forks(2)",
+          "pen(2)",
+          "thief(2)",
+          "colonel(2)",
+          "pearl(1)",
+          "afterwards(1)",
+          "dining(1)",
+          "trick(1)",
+          "hurries(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9523,
+        "coreCoverage": 0.9561,
+        "exempt": [
+          "footsteps",
+          "silver",
+          "waiter"
+        ],
+        "wordCount": 985,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "gentlemen(7)",
+          "priest(6)",
+          "forks(3)",
+          "cloakroom(3)",
+          "colonel(3)",
+          "dining(2)",
+          "neatly(2)",
+          "thief(2)",
+          "dined(1)",
+          "pearl(1)",
+          "fetch(1)",
+          "umbrella(1)",
+          "afterwards(1)",
+          "murmured(1)",
+          "strolled(1)",
+          "precious(1)",
+          "attendant(1)",
+          "impatiently(1)",
+          "priest's(1)",
+          "astonishment(1)",
+          "alike(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9469,
+        "coreCoverage": 0.9497,
+        "exempt": [
+          "footsteps",
+          "silver",
+          "waiter"
+        ],
+        "wordCount": 1355,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "priest(6)",
+          "gentlemen(5)",
+          "cloakroom(3)",
+          "colonel(3)",
+          "forks(2)",
+          "umbrella(2)",
+          "shabby(2)",
+          "dining(2)",
+          "thief(2)",
+          "staircases(1)",
+          "overlooked(1)",
+          "crowned(1)",
+          "pearl(1)",
+          "vault(1)",
+          "respectability(1)",
+          "shapeless(1)",
+          "afterwards(1)",
+          "begged(1)",
+          "hesitation(1)",
+          "clergyman(1)",
+          "polite(1)",
+          "gentlemen's(1)",
+          "scratch(1)",
+          "murmur(1)",
+          "unhurried(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "Afterwards",
+          "ctx": "sat with the sick waiter for some time. Afterwards, the waiter asked him to write down a f"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "Afterwards",
+          "ctx": "a, sat with the sick man for some time. Afterwards the waiter asked him to write down cert"
+        },
+        {
+          "rule": "EN_COMPOUNDS_F_SH_PLATES",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "fish plates",
+          "ctx": "ed its loss. A waiter came to clear the fish plates and found that there was nothing left t"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "Afterwards",
+          "ctx": "mplete attention to what he had to say. Afterwards the waiter begged him to put certain ma"
+        },
+        {
+          "rule": "EN_COMPOUNDS_F_SH_PLATES",
+          "cat": "MISC",
+          "msg": "This word is normally spelled as one.",
+          "frag": "fish plates",
+          "ctx": " possible. A waiter came to collect the fish plates and found that there was nothing left t"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 323,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.18,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 18,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 511,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.18,
+      "lowZipfRatio": 0.0022,
+      "lowZipfWords": [
+        "forks"
+      ],
+      "keyTermTokens": 21,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 763,
+      "sentLenMedian": 12.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0085,
+      "lowZipfWords": [
+        "cloakroom",
+        "forks",
+        "hurries"
+      ],
+      "keyTermTokens": 24,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 985,
+      "sentLenMedian": 14.0,
+      "zipfMedian": 6.05,
+      "lowZipfRatio": 0.016,
+      "lowZipfWords": [
+        "astonishment",
+        "cloakroom",
+        "dined",
+        "forks",
+        "hurried",
+        "impatiently",
+        "murmured",
+        "neatly",
+        "priest's",
+        "strolled"
+      ],
+      "keyTermTokens": 20,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1355,
+      "sentLenMedian": 21,
+      "zipfMedian": 6.12,
+      "lowZipfRatio": 0.0246,
+      "lowZipfWords": [
+        "anxiously",
+        "astonished",
+        "blackboard",
+        "bowed",
+        "clergyman",
+        "cloakroom",
+        "crowding",
+        "faultless",
+        "forks",
+        "gentlemen's",
+        "humiliating",
+        "hurried",
+        "impatience",
+        "mildly",
+        "murmur",
+        "neatly",
+        "priest's",
+        "regularity",
+        "respectability",
+        "riddle",
+        "shabby",
+        "shapeless",
+        "sharper",
+        "sprang",
+        "staircases",
+        "strolled",
+        "tablecloth",
+        "unhurried"
+      ],
+      "keyTermTokens": 24,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9009,
+      "coreCoverage": 0.941,
+      "exempt": [
+        "footsteps",
+        "silver",
+        "waiter"
+      ],
+      "wordCount": 323,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "fast(4)",
+        "slowly(2)",
+        "wear(2)",
+        "coat(2)",
+        "fish(1)",
+        "priest(1)",
+        "coats(1)",
+        "slow(1)",
+        "famous(1)",
+        "thief(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9393,
+      "coreCoverage": 0.9661,
+      "exempt": [
+        "footsteps",
+        "silver",
+        "waiter"
+      ],
+      "wordCount": 511,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "slowly(4)",
+        "coats(2)",
+        "coat(2)",
+        "thief(2)",
+        "knives(1)",
+        "forks(1)",
+        "priest(1)",
+        "slow(1)",
+        "famous(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.941,
+      "coreCoverage": 0.9555,
+      "exempt": [
+        "footsteps",
+        "silver",
+        "waiter"
+      ],
+      "wordCount": 763,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "priest(7)",
+        "gentlemen(6)",
+        "cloakroom(3)",
+        "knives(2)",
+        "forks(2)",
+        "pen(2)",
+        "thief(2)",
+        "colonel(2)",
+        "pearl(1)",
+        "afterwards(1)",
+        "dining(1)",
+        "trick(1)",
+        "hurries(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9523,
+      "coreCoverage": 0.9561,
+      "exempt": [
+        "footsteps",
+        "silver",
+        "waiter"
+      ],
+      "wordCount": 985,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "gentlemen(7)",
+        "priest(6)",
+        "forks(3)",
+        "cloakroom(3)",
+        "colonel(3)",
+        "dining(2)",
+        "neatly(2)",
+        "thief(2)",
+        "dined(1)",
+        "pearl(1)",
+        "fetch(1)",
+        "umbrella(1)",
+        "afterwards(1)",
+        "murmured(1)",
+        "strolled(1)",
+        "precious(1)",
+        "attendant(1)",
+        "impatiently(1)",
+        "priest's(1)",
+        "astonishment(1)",
+        "alike(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9469,
+      "coreCoverage": 0.9497,
+      "exempt": [
+        "footsteps",
+        "silver",
+        "waiter"
+      ],
+      "wordCount": 1355,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "priest(6)",
+        "gentlemen(5)",
+        "cloakroom(3)",
+        "colonel(3)",
+        "forks(2)",
+        "umbrella(2)",
+        "shabby(2)",
+        "dining(2)",
+        "thief(2)",
+        "staircases(1)",
+        "overlooked(1)",
+        "crowned(1)",
+        "pearl(1)",
+        "vault(1)",
+        "respectability(1)",
+        "shapeless(1)",
+        "afterwards(1)",
+        "begged(1)",
+        "hesitation(1)",
+        "clergyman(1)",
+        "polite(1)",
+        "gentlemen's(1)",
+        "scratch(1)",
+        "murmur(1)",
+        "unhurried(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.941,
+    "A2": 0.9661
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "knives": 9
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.006
+    },
+    "top3": [
+      {
+        "id": "st-0291",
+        "title": "The Story of Doctor Dolittle",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.006
+      },
+      {
+        "id": "st-0119",
+        "title": "The Garden Without Soil",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0168",
+        "title": "Little Red Riding Hood",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

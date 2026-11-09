@@ -1,0 +1,88 @@
+{
+  "id": "st-0338",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error",
+          "quote": "\"It has a new microbe in it. This microbe makes monkeys blue. So soon the young man is blue too!\"",
+          "problem": "The Bacteriologist never saw the young man drink the drops (it happened alone inside the first cab), and nobody tells him. He cannot know the young man will turn blue, and the punchline depends on it. In Wells the Anarchist meets the Bacteriologist at the bridge and tells him he has drunk it.",
+          "fix": "After 'He got out near Waterloo Bridge.' add: 'Then he saw the Bacteriologist. \"You are too late!\" he shouted. \"I drank it!\"' Then 'Then he walked away among the people.'"
+        },
+        {
+          "criterion": "2. unnatural English",
+          "quote": "\"So soon the young man is blue too!\"",
+          "problem": "'So soon' reads as 'that early', and the present simple for a future result sounds odd.",
+          "fix": "\"He drank it. Soon his face turns blue too!\""
+        }
+      ],
+      "notes": [
+        "Comprehension is mostly fine. Possible blockers: 'frighten' (use 'make the whole city afraid') and 'among the people' (use 'into the crowd' or 'with the other people')."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error",
+          "quote": "\"So soon our young friend gets a blue face too.\"",
+          "problem": "The Bacteriologist did not see the visitor drink the drops, and nobody tells him, so he has no reason to think the visitor will turn blue. It also leaves unexplained why he 'did not run after him' at the bridge.",
+          "fix": "After 'He paid the driver and got out near Waterloo Bridge.' add: 'There he saw the Bacteriologist's cab. \"You are too late!\" he shouted. \"I drank it!\"' Then 'Then he walked away among the people.'"
+        },
+        {
+          "criterion": "2. unnatural English",
+          "quote": "\"So soon our young friend gets a blue face too.\"",
+          "problem": "'So soon' reads as 'that early'. The present simple for a future result sounds odd.",
+          "fix": "\"He drank it, so soon our young friend gets a blue face too!\" or simply \"Soon our young friend has a blue face too!\""
+        }
+      ],
+      "notes": []
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error",
+          "quote": "\"Soon our visitor will have a bright blue face, just like my monkeys.\"",
+          "problem": "The drinking happens alone in the first cab and nobody reports it, so the Bacteriologist cannot know the visitor swallowed the microbe.",
+          "fix": "After 'got out near Waterloo Bridge,' add: 'When he saw the Bacteriologist's cab, he shouted, \"You are too late! I have drunk it!\" Then he walked away into the crowd.'"
+        }
+      ],
+      "notes": [
+        "'Pedestrians ... giggled' is a little odd for adults in the street; 'laughed' or 'smiled' is more natural (the quiz already says 'laughed')."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error",
+          "quote": "\"I am afraid our visitor is going to look very blue for a while.\"",
+          "problem": "The Bacteriologist did not see the visitor drink the drops, and nobody tells him. He also 'made no attempt to follow him' with no reason given.",
+          "fix": "When the young man gets out at Waterloo Bridge, have him see the second cab and call out, \"You are too late! I have drunk it!\" before he walks off into the crowd."
+        }
+      ],
+      "notes": [
+        "'She caught up his hat' is old-fashioned; 'She snatched up' or 'She grabbed' is clearer for B2."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error",
+          "quote": "\"he leaned out and told the driver to keep going, for he had no intention of losing so interesting a specimen.\" ... \"He made no attempt to follow him.\"",
+          "problem": "He keeps chasing to get the specimen back, then lets the thief walk away at the bridge for no stated reason. He also cannot know the visitor drank the drops, yet he predicts weeks of blueness.",
+          "fix": "At the bridge, have the young man turn to the arriving cab and cry, \"You are too late, my friend! I have drunk it!\" before striding off. Then 'He made no attempt to follow him' follows logically, because the specimen is gone and the joke is now certain."
+        }
+      ],
+      "notes": [
+        "Minnie believing the strain of work had been too much for him is a faithful detail and well handled."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows Wells closely and is natural, age-appropriate and well levelled at every level. However, every level has the same plot gap: the visitor drinks the drops alone in his cab, yet the Bacteriologist knows he will turn blue and lets him go. One added line, where the visitor shouts 'I have drunk it!' at the bridge as in the original, fixes all five levels."
+}

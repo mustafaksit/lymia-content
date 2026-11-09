@@ -1,0 +1,676 @@
+{
+  "id": "st-0329",
+  "title": "Thor's Journey to Utgard",
+  "ts": "2026-10-30T10:23:43",
+  "node": {
+    "id": "st-0329",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %88.5 | 339 kelime\n    havuz dışı: hammer(2), giants(2), slept(1), giant(6), glove(1), castle(2), laughed(1), fast(2), box(2), hugi(3), races(1), horn(2), drink(1), lift(1), cat(2), feet(1), push(1), knee(1), contests(1), magic(1), fire(2), horn's(1), sea(1), snake(1)",
+        "level A2: A2: KALDI | kapsam %93.8 | 528 kelime\n    havuz dışı: hammer(2), giants(4), strange(1), giant(3), glove(1), thumb(1), bag(3), castle(3), gate(1), meat(3), bones(1), horn(3), lift(1), cat(2), cat's(1), knee(1), magic(1), snake(1)",
+        "level B1: B1: KALDI | kapsam %93.4 | 821 kelime\n    havuz dışı: gods(1), hammer(3), giants(2), clever(1), tricks(1), helpers(1), loud(1), hurried(1), giant(5), snoring(1), glove(2), bent(1), thumb(1), oak(1), asleep(1), untie(1), knot(1), boast(1), noon(1), castle(3), gate(1), squeezed(1), benches(1), servants(1), wooden(2), trough(2), servant(1), horn(4), belly(1), arched(1), paw(2), wrestling(1), knee(1), contest(1), magic(2), iron(1), serpent(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.885,
+        "coreCoverage": 0.9233,
+        "exempt": [
+          "giant",
+          "horn",
+          "contest",
+          "hammer"
+        ],
+        "wordCount": 339,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "castle(2)",
+          "fast(2)",
+          "box(2)",
+          "cat(2)",
+          "fire(2)",
+          "slept(1)",
+          "glove(1)",
+          "laughed(1)",
+          "races(1)",
+          "drink(1)",
+          "lift(1)",
+          "feet(1)",
+          "push(1)",
+          "knee(1)",
+          "magic(1)",
+          "sea(1)",
+          "snake(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9375,
+        "coreCoverage": 0.9551,
+        "exempt": [
+          "giant",
+          "horn",
+          "contest",
+          "hammer"
+        ],
+        "wordCount": 528,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "bag(3)",
+          "castle(3)",
+          "meat(3)",
+          "cat(2)",
+          "strange(1)",
+          "glove(1)",
+          "thumb(1)",
+          "gate(1)",
+          "bones(1)",
+          "lift(1)",
+          "cat's(1)",
+          "knee(1)",
+          "magic(1)",
+          "snake(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9342,
+        "coreCoverage": 0.9484,
+        "exempt": [
+          "giant",
+          "horn",
+          "contest",
+          "hammer"
+        ],
+        "wordCount": 821,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "castle(3)",
+          "glove(2)",
+          "wooden(2)",
+          "trough(2)",
+          "paw(2)",
+          "magic(2)",
+          "gods(1)",
+          "clever(1)",
+          "tricks(1)",
+          "helpers(1)",
+          "loud(1)",
+          "hurried(1)",
+          "snoring(1)",
+          "bent(1)",
+          "thumb(1)",
+          "oak(1)",
+          "asleep(1)",
+          "untie(1)",
+          "knot(1)",
+          "boast(1)",
+          "noon(1)",
+          "gate(1)",
+          "squeezed(1)",
+          "benches(1)",
+          "servants(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9515,
+        "coreCoverage": 0.9562,
+        "exempt": [
+          "giant",
+          "horn",
+          "contest",
+          "hammer"
+        ],
+        "wordCount": 1093,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "doorway(2)",
+          "asleep(2)",
+          "rumbling(2)",
+          "glove(2)",
+          "supper(2)",
+          "hungry(2)",
+          "trough(2)",
+          "third(2)",
+          "helpers(1)",
+          "brave(1)",
+          "nightfall(1)",
+          "midnight(1)",
+          "travelers(1)",
+          "dawn(1)",
+          "lying(1)",
+          "snoring(1)",
+          "thumb(1)",
+          "oak(1)",
+          "snore(1)",
+          "knots(1)",
+          "companions(1)",
+          "boast(1)",
+          "midday(1)",
+          "benches(1)",
+          "scorn(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.939,
+        "coreCoverage": 0.9419,
+        "exempt": [
+          "giant",
+          "horn",
+          "contest",
+          "hammer"
+        ],
+        "wordCount": 1443,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "companions(3)",
+          "trough(3)",
+          "travelers(2)",
+          "hungry(2)",
+          "doorway(2)",
+          "rumble(2)",
+          "snoring(2)",
+          "supper(2)",
+          "third(2)",
+          "certainty(1)",
+          "mischief(1)",
+          "helpers(1)",
+          "nightfall(1)",
+          "weary(1)",
+          "asleep(1)",
+          "midnight(1)",
+          "tremble(1)",
+          "thunder(1)",
+          "dawn(1)",
+          "sprawled(1)",
+          "glove(1)",
+          "thumb(1)",
+          "strides(1)",
+          "oak(1)",
+          "cheerfully(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "GATHER_UP",
+          "cat": "REDUNDANCY",
+          "msg": "This phrase is redundant. Consider using “lifted”.",
+          "frag": "lifted up",
+          "ctx": " my glove?\" He stretched out a hand and lifted up the very hall in which they had slept, "
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 339,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.13,
+      "lowZipfRatio": 0.0035,
+      "lowZipfWords": [
+        "horn's"
+      ],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 528,
+      "sentLenMedian": 8,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0021,
+      "lowZipfWords": [
+        "cat's"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 821,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0172,
+      "lowZipfWords": [
+        "arched",
+        "benches",
+        "cat's",
+        "empties",
+        "helpers",
+        "hurried",
+        "paw",
+        "serpent",
+        "snoring",
+        "trough",
+        "untie"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1093,
+      "sentLenMedian": 14.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0195,
+      "lowZipfWords": [
+        "arched",
+        "benches",
+        "cat's",
+        "empties",
+        "farmer's",
+        "helpers",
+        "midday",
+        "nightfall",
+        "paws",
+        "piled",
+        "rumbling",
+        "scorn",
+        "serpent",
+        "snore",
+        "snoring",
+        "trough",
+        "whispering",
+        "wildfire"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1443,
+      "sentLenMedian": 22.0,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0327,
+      "lowZipfWords": [
+        "aching",
+        "amuse",
+        "arched",
+        "benches",
+        "boasting",
+        "brimming",
+        "cat's",
+        "cheerfully",
+        "coiled",
+        "deigned",
+        "devours",
+        "empties",
+        "farmer's",
+        "feeble",
+        "glancing",
+        "heaped",
+        "heaved",
+        "helpers",
+        "midday",
+        "mischief",
+        "newcomers",
+        "nightfall",
+        "outpace",
+        "paw",
+        "plainly",
+        "rumble",
+        "scarcely",
+        "serpent",
+        "slung",
+        "snoring",
+        "sprawled",
+        "strides",
+        "strode",
+        "tottered",
+        "tremble",
+        "trough",
+        "unkindly",
+        "whispering",
+        "widened",
+        "wildfire",
+        "wrestle"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.885,
+      "coreCoverage": 0.9233,
+      "exempt": [
+        "giant",
+        "horn",
+        "contest",
+        "hammer"
+      ],
+      "wordCount": 339,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "castle(2)",
+        "fast(2)",
+        "box(2)",
+        "cat(2)",
+        "fire(2)",
+        "slept(1)",
+        "glove(1)",
+        "laughed(1)",
+        "races(1)",
+        "drink(1)",
+        "lift(1)",
+        "feet(1)",
+        "push(1)",
+        "knee(1)",
+        "magic(1)",
+        "sea(1)",
+        "snake(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9375,
+      "coreCoverage": 0.9551,
+      "exempt": [
+        "giant",
+        "horn",
+        "contest",
+        "hammer"
+      ],
+      "wordCount": 528,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "bag(3)",
+        "castle(3)",
+        "meat(3)",
+        "cat(2)",
+        "strange(1)",
+        "glove(1)",
+        "thumb(1)",
+        "gate(1)",
+        "bones(1)",
+        "lift(1)",
+        "cat's(1)",
+        "knee(1)",
+        "magic(1)",
+        "snake(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9342,
+      "coreCoverage": 0.9484,
+      "exempt": [
+        "giant",
+        "horn",
+        "contest",
+        "hammer"
+      ],
+      "wordCount": 821,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "castle(3)",
+        "glove(2)",
+        "wooden(2)",
+        "trough(2)",
+        "paw(2)",
+        "magic(2)",
+        "gods(1)",
+        "clever(1)",
+        "tricks(1)",
+        "helpers(1)",
+        "loud(1)",
+        "hurried(1)",
+        "snoring(1)",
+        "bent(1)",
+        "thumb(1)",
+        "oak(1)",
+        "asleep(1)",
+        "untie(1)",
+        "knot(1)",
+        "boast(1)",
+        "noon(1)",
+        "gate(1)",
+        "squeezed(1)",
+        "benches(1)",
+        "servants(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9515,
+      "coreCoverage": 0.9562,
+      "exempt": [
+        "giant",
+        "horn",
+        "contest",
+        "hammer"
+      ],
+      "wordCount": 1093,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "doorway(2)",
+        "asleep(2)",
+        "rumbling(2)",
+        "glove(2)",
+        "supper(2)",
+        "hungry(2)",
+        "trough(2)",
+        "third(2)",
+        "helpers(1)",
+        "brave(1)",
+        "nightfall(1)",
+        "midnight(1)",
+        "travelers(1)",
+        "dawn(1)",
+        "lying(1)",
+        "snoring(1)",
+        "thumb(1)",
+        "oak(1)",
+        "snore(1)",
+        "knots(1)",
+        "companions(1)",
+        "boast(1)",
+        "midday(1)",
+        "benches(1)",
+        "scorn(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.939,
+      "coreCoverage": 0.9419,
+      "exempt": [
+        "giant",
+        "horn",
+        "contest",
+        "hammer"
+      ],
+      "wordCount": 1443,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "companions(3)",
+        "trough(3)",
+        "travelers(2)",
+        "hungry(2)",
+        "doorway(2)",
+        "rumble(2)",
+        "snoring(2)",
+        "supper(2)",
+        "third(2)",
+        "certainty(1)",
+        "mischief(1)",
+        "helpers(1)",
+        "nightfall(1)",
+        "weary(1)",
+        "asleep(1)",
+        "midnight(1)",
+        "tremble(1)",
+        "thunder(1)",
+        "dawn(1)",
+        "sprawled(1)",
+        "glove(1)",
+        "thumb(1)",
+        "strides(1)",
+        "oak(1)",
+        "cheerfully(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 6,
+      "1": 5,
+      "2": 4
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9233,
+    "A2": 0.9551
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "bones": 6,
+      "bone": 3
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.25,
+      "summary3gramJaccard": 0.038,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0230",
+        "title": "Journey to the Center of the Earth (tek epizod)",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0004",
+        "title": "The Way to the Water",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0115",
+        "title": "The Boat to the Far Island",
+        "titleJaccard": 0.143,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

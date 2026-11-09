@@ -1,0 +1,53 @@
+{
+  "id": "st-0353",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Pyecraft was at the ceiling, above the door!\" - 'up by the ceiling' or 'up near the ceiling' is a little more natural than 'at the ceiling'.",
+        "\"Take care with it,\" I said. - 'Be careful with it' is simpler for a true beginner.",
+        "\"Pyecraft stayed away for a few days.\" - phrasal 'stayed away' is understandable from context; 'Pyecraft did not come to the club for a few days' would be fully transparent.",
+        "Grammar stays within present/past simple plus basic modals (can, must); no conditionals, passives or perfects found. Remaining beginner-stretching words (round, size, light as air) are clear from context."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"It was for loss of weight,\" said Pyecraft. - slightly formal noun phrase for A2; 'It was for losing weight' reads more naturally, though the phrase mirrors the original recipe title.",
+        "Tense range is limited to present and past simple; the fat-versus-weight joke is explained clearly ('You asked to lose weight, not to get smaller')."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The door of the flat was not locked\" is adjectival, not a true passive, so acceptable under the B1 rule.",
+        "No conditionals found; 'Then you can walk on the floor like everyone else' keeps the advice in simple form.",
+        "Telegram wording 'For heaven's sake come at once' is faithful to Wells and understandable from context."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"he took a second helping of everything and a third of the pudding\" - the ellipsis can be misread as 'one-third of the pudding'; consider 'and a third helping of pudding'. Same construction appears in C1.",
+        "\"It is one of the heaviest things a man can easily get.\" - slightly flat; 'one of the heaviest things a man can easily buy' or '...easily find' is more idiomatic.",
+        "Quiz B2 Q1 options use 'He' for Formalyn right after naming both men; context makes it clear, but 'Formalyn wanted some peace and quiet' would remove any doubt."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"chose a recipe more or less at random\" sits a little oddly with the fact that Pyecraft specifically wanted a weight-loss recipe and the chosen one happens to be titled 'Loss of Weight'; the following ironic clause ('seemed to me to settle the matter rather neatly') rescues it, but 'looked for the one headed \"Loss of Weight\"' would be more straightforward.",
+        "\"a third of the pudding\" - same fraction ambiguity as B2; 'a third helping of the pudding' avoids it.",
+        "Prose is genuinely literary (varied syntax, irony, figurative closure such as 'a door where he had seen only a wall') rather than padded."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels faithfully retell Wells's 'The Truth About Pyecraft': the overheard boast about the great-grandmother's eastern recipes, Pyecraft's pestering, the 'Loss of Weight' recipe, the telegram, Pyecraft floating at the ceiling with his size unchanged, and the lead-lined underclothes that let him return to the club in secret. Grammar fits each level's constraints, quizzes have single defensible keyed answers, and content is fully 4+ appropriate; only minor phrasing suggestions are recorded as notes."
+}

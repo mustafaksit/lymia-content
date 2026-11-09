@@ -1,0 +1,698 @@
+{
+  "id": "st-0365",
+  "title": "The Swineherd",
+  "ts": "2026-10-30T10:24:31",
+  "node": {
+    "id": "st-0365",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %89.5 | 370 kelime\n    havuz dışı: prince(3), marry(1), princess(5), tree(1), nightingale(2), toy(2), dirt(2), pigs(1), swineherd(8), pot(5), kisses(3), cheek(1), rattle(1), dance(1), kiss(1), kissed(1), alone(1)",
+        "level A2: A2: KALDI | kapsam %92.3 | 533 kelime\n    havuz dışı: prince(5), nightingale(4), princess(4), toy(2), prince's(1), dirt(2), pigs(1), swineherd(9), pot(4), kisses(4), cheek(1), rattle(1), kiss(1), rain(1), kissed(1)",
+        "level B1: B1: KALDI | kapsam %89.1 | 826 kelime\n    havuz dışı: prince(8), kingdom(2), grave(1), prince's(1), nightingale(3), tune(2), silver(1), princess(21), servants(1), clapped(1), oh(1), rubbed(1), dirt(2), soot(2), cap(1), pigs(3), swineherd(11), pot(6), bells(3), boiled(1), steam(1), piano(1), heavens(1), rude(1), annoying(1), cheek(1), boiling(1), soup(1), pancakes(1), rattle(1), mad(1), nonsense(1), balcony(1), hurried(1), sixth(1), empire(1), handsome(1), honest(1)",
+        "level B2: B2: KALDI | kapsam %91.8 | 1088 kelime\n    havuz dışı: prince(8), kingdom(2), bold(1), princesses(1), grave(1), prince's(1), sorrow(1), nightingale(4), princess(21), clapped(2), kitten(1), oh(4), tempers(1), messengers(1), rubbed(2), dirt(2), soot(2), swineherd(11), boil(1), steam(1), afterwards(1), heavens(1), rude(1), tiresome(1), boiling(1), soup(1), pancakes(1), rattle(1), waltz(1), polka(1), superb(1), nonsense(1), balcony(1), sixth(1), grumbled(1), unhappy(1), handsome(1), ragged(1), splendid(1), curtsy(1), bolted(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8946,
+        "coreCoverage": 0.9329,
+        "exempt": [
+          "swineherd",
+          "rose",
+          "nightingale",
+          "pot",
+          "rattle"
+        ],
+        "wordCount": 370,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "princess(5)",
+          "prince(3)",
+          "kisses(3)",
+          "toy(2)",
+          "dirt(2)",
+          "marry(1)",
+          "tree(1)",
+          "pigs(1)",
+          "cheek(1)",
+          "dance(1)",
+          "kiss(1)",
+          "kissed(1)",
+          "alone(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9231,
+        "coreCoverage": 0.9538,
+        "exempt": [
+          "swineherd",
+          "rose",
+          "nightingale",
+          "pot",
+          "rattle"
+        ],
+        "wordCount": 533,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "prince(5)",
+          "princess(4)",
+          "kisses(4)",
+          "toy(2)",
+          "dirt(2)",
+          "prince's(1)",
+          "pigs(1)",
+          "cheek(1)",
+          "kiss(1)",
+          "rain(1)",
+          "kissed(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.891,
+        "coreCoverage": 0.9129,
+        "exempt": [
+          "swineherd",
+          "rose",
+          "nightingale",
+          "pot",
+          "rattle"
+        ],
+        "wordCount": 826,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "princess(21)",
+          "prince(8)",
+          "pigs(3)",
+          "bells(3)",
+          "kingdom(2)",
+          "tune(2)",
+          "dirt(2)",
+          "soot(2)",
+          "grave(1)",
+          "prince's(1)",
+          "silver(1)",
+          "servants(1)",
+          "clapped(1)",
+          "oh(1)",
+          "rubbed(1)",
+          "cap(1)",
+          "boiled(1)",
+          "steam(1)",
+          "piano(1)",
+          "heavens(1)",
+          "rude(1)",
+          "annoying(1)",
+          "cheek(1)",
+          "boiling(1)",
+          "soup(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9182,
+        "coreCoverage": 0.9304,
+        "exempt": [
+          "swineherd",
+          "rose",
+          "nightingale",
+          "pot",
+          "rattle"
+        ],
+        "wordCount": 1088,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "princess(21)",
+          "prince(8)",
+          "oh(4)",
+          "kingdom(2)",
+          "clapped(2)",
+          "rubbed(2)",
+          "dirt(2)",
+          "soot(2)",
+          "bold(1)",
+          "princesses(1)",
+          "grave(1)",
+          "prince's(1)",
+          "sorrow(1)",
+          "kitten(1)",
+          "tempers(1)",
+          "messengers(1)",
+          "boil(1)",
+          "steam(1)",
+          "afterwards(1)",
+          "heavens(1)",
+          "rude(1)",
+          "tiresome(1)",
+          "boiling(1)",
+          "soup(1)",
+          "pancakes(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9093,
+        "coreCoverage": 0.919,
+        "exempt": [
+          "swineherd",
+          "rose",
+          "nightingale",
+          "pot",
+          "rattle"
+        ],
+        "wordCount": 1544,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "princess(21)",
+          "prince(9)",
+          "oh(6)",
+          "caskets(3)",
+          "kingdom(2)",
+          "dreadful(2)",
+          "dirt(2)",
+          "soot(2)",
+          "palace(2)",
+          "pigsty(2)",
+          "stove(2)",
+          "bold(1)",
+          "princesses(1)",
+          "grave(1)",
+          "prince's(1)",
+          "bloomed(1)",
+          "scent(1)",
+          "whoever(1)",
+          "sorrow(1)",
+          "melodies(1)",
+          "treasures(1)",
+          "clapped(1)",
+          "kitten(1)",
+          "tremble(1)",
+          "echoed(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "cooking in every kitchen in town.  Soon afterwards the princess came walking past with her"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "d on every stove in the town.  Not long afterwards the princess came strolling by with all"
+        },
+        {
+          "rule": "EXTREME_ADJECTIVES",
+          "cat": "STYLE",
+          "msg": "Consider using an extreme adjective for ‘interesting’.",
+          "frag": "extremely interesting",
+          "ctx": "who is having porridge and chops!\" \"How extremely interesting,\" said the chief lady-in-waiting. \"Yes,"
+        },
+        {
+          "rule": "SO_AS_TO",
+          "cat": "REDUNDANCY",
+          "msg": "‘So as to’ expresses purpose and is used in formal texts. Consider using “to”.",
+          "frag": "so as to",
+          "ctx": " were far too busy counting the kisses, so as to make sure everything was done fairly, t"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 370,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.26,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 21,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 533,
+      "sentLenMedian": 8,
+      "zipfMedian": 6.25,
+      "lowZipfRatio": 0.002,
+      "lowZipfWords": [
+        "prince's"
+      ],
+      "keyTermTokens": 23,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 826,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.24,
+      "lowZipfRatio": 0.0063,
+      "lowZipfWords": [
+        "clapped",
+        "hurried",
+        "prince's",
+        "soot"
+      ],
+      "keyTermTokens": 25,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1088,
+      "sentLenMedian": 14.0,
+      "zipfMedian": 6.25,
+      "lowZipfRatio": 0.021,
+      "lowZipfWords": [
+        "bolted",
+        "breathed",
+        "clapped",
+        "curtsy",
+        "flowered",
+        "grumbled",
+        "hurried",
+        "messengers",
+        "polka",
+        "prettily",
+        "prince's",
+        "princesses",
+        "ragged",
+        "soot",
+        "sweetly",
+        "swung",
+        "tempers",
+        "tiresome",
+        "waltz"
+      ],
+      "keyTermTokens": 28,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1544,
+      "sentLenMedian": 18.5,
+      "zipfMedian": 6.16,
+      "lowZipfRatio": 0.0359,
+      "lowZipfWords": [
+        "bloomed",
+        "bolted",
+        "breathed",
+        "casket",
+        "caskets",
+        "chamberlain's",
+        "chops",
+        "clapped",
+        "clapping",
+        "cleverest",
+        "clogs",
+        "commotion",
+        "crept",
+        "curtsy",
+        "echoed",
+        "exclaimed",
+        "grumbled",
+        "jig",
+        "lovelier",
+        "loveliest",
+        "melodies",
+        "messengers",
+        "phrasing",
+        "pigsty",
+        "polka",
+        "porridge",
+        "prettily",
+        "prince's",
+        "princesses",
+        "ragged",
+        "shoemaker's",
+        "slippers",
+        "smeared",
+        "soot",
+        "spectacles",
+        "strolling",
+        "sweetly",
+        "swung",
+        "tempers",
+        "tiresome",
+        "tongues",
+        "tremble",
+        "trodden",
+        "trudge",
+        "unkind",
+        "waltz",
+        "weeping",
+        "wept",
+        "wretched"
+      ],
+      "keyTermTokens": 27,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8946,
+      "coreCoverage": 0.9329,
+      "exempt": [
+        "swineherd",
+        "rose",
+        "nightingale",
+        "pot",
+        "rattle"
+      ],
+      "wordCount": 370,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "princess(5)",
+        "prince(3)",
+        "kisses(3)",
+        "toy(2)",
+        "dirt(2)",
+        "marry(1)",
+        "tree(1)",
+        "pigs(1)",
+        "cheek(1)",
+        "dance(1)",
+        "kiss(1)",
+        "kissed(1)",
+        "alone(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9231,
+      "coreCoverage": 0.9538,
+      "exempt": [
+        "swineherd",
+        "rose",
+        "nightingale",
+        "pot",
+        "rattle"
+      ],
+      "wordCount": 533,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "prince(5)",
+        "princess(4)",
+        "kisses(4)",
+        "toy(2)",
+        "dirt(2)",
+        "prince's(1)",
+        "pigs(1)",
+        "cheek(1)",
+        "kiss(1)",
+        "rain(1)",
+        "kissed(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.891,
+      "coreCoverage": 0.9129,
+      "exempt": [
+        "swineherd",
+        "rose",
+        "nightingale",
+        "pot",
+        "rattle"
+      ],
+      "wordCount": 826,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "princess(21)",
+        "prince(8)",
+        "pigs(3)",
+        "bells(3)",
+        "kingdom(2)",
+        "tune(2)",
+        "dirt(2)",
+        "soot(2)",
+        "grave(1)",
+        "prince's(1)",
+        "silver(1)",
+        "servants(1)",
+        "clapped(1)",
+        "oh(1)",
+        "rubbed(1)",
+        "cap(1)",
+        "boiled(1)",
+        "steam(1)",
+        "piano(1)",
+        "heavens(1)",
+        "rude(1)",
+        "annoying(1)",
+        "cheek(1)",
+        "boiling(1)",
+        "soup(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9182,
+      "coreCoverage": 0.9304,
+      "exempt": [
+        "swineherd",
+        "rose",
+        "nightingale",
+        "pot",
+        "rattle"
+      ],
+      "wordCount": 1088,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "princess(21)",
+        "prince(8)",
+        "oh(4)",
+        "kingdom(2)",
+        "clapped(2)",
+        "rubbed(2)",
+        "dirt(2)",
+        "soot(2)",
+        "bold(1)",
+        "princesses(1)",
+        "grave(1)",
+        "prince's(1)",
+        "sorrow(1)",
+        "kitten(1)",
+        "tempers(1)",
+        "messengers(1)",
+        "boil(1)",
+        "steam(1)",
+        "afterwards(1)",
+        "heavens(1)",
+        "rude(1)",
+        "tiresome(1)",
+        "boiling(1)",
+        "soup(1)",
+        "pancakes(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9093,
+      "coreCoverage": 0.919,
+      "exempt": [
+        "swineherd",
+        "rose",
+        "nightingale",
+        "pot",
+        "rattle"
+      ],
+      "wordCount": 1544,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "princess(21)",
+        "prince(9)",
+        "oh(6)",
+        "caskets(3)",
+        "kingdom(2)",
+        "dreadful(2)",
+        "dirt(2)",
+        "soot(2)",
+        "palace(2)",
+        "pigsty(2)",
+        "stove(2)",
+        "bold(1)",
+        "princesses(1)",
+        "grave(1)",
+        "prince's(1)",
+        "bloomed(1)",
+        "scent(1)",
+        "whoever(1)",
+        "sorrow(1)",
+        "melodies(1)",
+        "treasures(1)",
+        "clapped(1)",
+        "kitten(1)",
+        "tremble(1)",
+        "echoed(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9329,
+    "A2": 0.9538
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "kisses": 39,
+      "kiss": 12,
+      "kissed": 2,
+      "grave": 3,
+      "kissing": 3
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0274",
+        "title": "Robin Hood and the Golden Arrow",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0287",
+        "title": "Captains Courageous",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0307",
+        "title": "The Necklace",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

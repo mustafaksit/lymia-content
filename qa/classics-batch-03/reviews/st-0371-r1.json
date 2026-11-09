@@ -1,0 +1,58 @@
+{
+  "id": "st-0371",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"One week went by. Then another week went by.\" uses the phrasal verb 'go by'; a simpler option is \"Hodja did not bring the pot back for two weeks.\" It is a single item, so it does not fail criterion 7.",
+        "\"Hodja had a neighbor next to his house.\" is slightly redundant. \"Hodja had a neighbor.\" would be enough."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The backward-donkey scene is a separate traditional Hodja anecdote that is used here to show his character. That is acceptable and does not come from a film, but it is not part of the pot tale.",
+        "\"went on their way\" is idiomatic but easy to infer from context."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"And they should not walk in front of me, because then I will see their backs.\" gives a weaker reason than B2/C1, where the students would be turning their backs on their teacher. A closer version: \"And they should not walk in front of me, because then they will turn their backs on their teacher.\""
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error (unclear who is acting)",
+          "quote": "Hodja thanked him politely, lifted the heavy pot and carried it home without hurrying. As he closed the door, he was already wondering how many little pots he might receive this time.",
+          "problem": "Hodja is the subject of the sentence before, so 'he' reads as Hodja closing his own door and hoping to receive little pots. The greed belongs to the neighbor, and readers will stumble on this.",
+          "fix": "As the neighbor closed his door, he was already wondering how many little pots he might receive this time."
+        },
+        {
+          "criterion": "4. logic error (unclear who is acting)",
+          "quote": "But days passed, then a week, then another week, and the pot did not come back. Each morning he looked across at Hodja's door, expecting to see his pot come back with a whole family of little ones.",
+          "problem": "The paragraph opens with no named subject, and the last named actor before it is Hodja (or the misread 'he'). 'He' and 'his pot' only become clear later.",
+          "fix": "Each morning the neighbor looked across at Hodja's door, expecting to see his pot come back with a whole family of little ones."
+        }
+      ],
+      "notes": [
+        "\"expecting to see his pot come back\" repeats \"did not come back\" from the sentence before. \"expecting to see his pot return\" would vary it."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Pans, spoons and bowls of every size lay spread out there ... There, after some friendly bargaining, he bought...\" repeats 'there'. Consider \"In the end, after some friendly bargaining, he bought...\"."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows the traditional Nasreddin Hodja cauldron tale faithfully at every level: he borrows the pot, says it gave birth, borrows it again, says it died, and turns the neighbor's own logic against him. The quizzes are keyed correctly, and nothing is a problem for a 4+ rating. B2 fails on one fixable pronoun ambiguity: in the second-borrowing paragraph, 'he' reads as Hodja when the neighbor is meant, and this carries into the next paragraph."
+}

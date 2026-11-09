@@ -1,0 +1,69 @@
+{
+  "id": "st-0347",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Criterion 7: only a few words would block a beginner. None is serious enough to fail A1: 'some money went missing' -> 'some money was gone'; 'Men took the water from an old pit' -> 'Men took all the water out of an old pond' ('pit' is not glossed and 'took the water from' sounds odd); 'Sixteen years went by' -> 'Sixteen years later'.",
+        "'He went to a small town, Raveloe.' Every other level calls Raveloe a village. Use 'a small village, Raveloe' to keep the levels consistent.",
+        "'So Dunstan took it years ago.' The leap is fine because the narrator has already told the reader. For a clearer clue, add something gentle like 'Dunstan's whip was there too.'"
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "So Silas left Lantern Yard and never went back.",
+          "problem": "This contradicts the novel. Near the end (ch. 21), Silas goes back to Lantern Yard with Eppie and finds that the chapel and the street have been pulled down for a factory. The sentence states something false about the source.",
+          "fix": "So Silas left Lantern Yard."
+        }
+      ],
+      "notes": [
+        "'pit' (in 'an old pit') is not glossed and is not A2 core vocabulary. Consider 'an old pond full of water', or describe the pit earlier.",
+        "'He was afraid to lose her' -> 'He was afraid of losing her' is more idiomatic. This is a minor point."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "Silas left the town and never returned.",
+          "problem": "This contradicts the novel. Silas does go back to Lantern Yard with Eppie near the end and finds it gone.",
+          "fix": "Silas left the town with his loom on his back."
+        }
+      ],
+      "notes": [
+        "'Since the robbery, Silas often stood at his open door' reads slightly off with 'since' plus the past simple. You could use 'After the robbery, Silas often stood at his open door' instead, which keeps the B1 grammar."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "Silas lost his faith in God and in people, and he left the town forever.",
+          "problem": "'Forever' contradicts the novel. Silas later goes back to Lantern Yard with Eppie (ch. 21).",
+          "fix": "Silas lost his faith in God and in people, and he left the town."
+        }
+      ],
+      "notes": [
+        "'he decided that every secret comes to light in the end': 'decided' is an odd verb for a realization. Use 'he felt that every secret comes to light in the end'."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'where Godfrey paid for a new garden as a last kindness': in the novel, Mr Cass pays for fencing the garden and enlarging the cottage. 'paid to enlarge the cottage and fence the garden' would be more exact.",
+        "The child's mother (Molly) is left out at every level. That is acceptable condensing, but readers may wonder how a two-year-old ended up alone in the snow. At B2/C1 a gentle line could be added, such as 'her mother had fallen asleep in the snow and never woke', which states the death without depicting it.",
+        "'no one in Raveloe ever set eyes on him again' is fine. The quietly omitted discovery of Dunstan's remains in the pit is an acceptable softening for the 4+ rating."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows Eliot's novel closely at every level, including the lots, Dolly's cakes and carol, the catalepsy, the drained Stone-pit and Eppie's refusal. Its language, level control and 4+ suitability are good. However, A2, B1 and B2 each say Silas never returned to Lantern Yard, which contradicts the novel (he goes back with Eppie in ch. 21). Dropping 'never went back' / 'never returned' / 'forever' fixes all three."
+}

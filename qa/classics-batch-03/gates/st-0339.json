@@ -1,0 +1,647 @@
+{
+  "id": "st-0339",
+  "title": "Sense and Sensibility",
+  "ts": "2026-10-30T10:23:57",
+  "node": {
+    "id": "st-0339",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %92.8 | 319 kelime\n    havuz dışı: sisters(3), feelings(1), son(1), cousin(1), cottage(2), alone(1), marry(3), pain(1), winter(1), cold(1), rain(1), ill(1), brother(2), married(2), happy(1), heart(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9279,
+        "coreCoverage": 0.9331,
+        "exempt": [
+          "sisters",
+          "cottage",
+          "letter"
+        ],
+        "wordCount": 319,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "marry(3)",
+          "brother(2)",
+          "married(2)",
+          "feelings(1)",
+          "son(1)",
+          "cousin(1)",
+          "alone(1)",
+          "pain(1)",
+          "winter(1)",
+          "cold(1)",
+          "rain(1)",
+          "ill(1)",
+          "happy(1)",
+          "heart(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9669,
+        "coreCoverage": 0.9671,
+        "exempt": [
+          "sisters",
+          "cottage",
+          "letter"
+        ],
+        "wordCount": 514,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "rain(2)",
+          "feelings(1)",
+          "gentle(1)",
+          "cousin(1)",
+          "hill(1)",
+          "hurt(1)",
+          "goodbye(1)",
+          "cried(1)",
+          "pain(1)",
+          "winter(1)",
+          "ill(1)",
+          "angry(1)",
+          "calmer(1)",
+          "wiser(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9546,
+        "coreCoverage": 0.9545,
+        "exempt": [
+          "sisters",
+          "cottage",
+          "letter"
+        ],
+        "wordCount": 749,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "unhappy(2)",
+          "fever(2)",
+          "poetry(1)",
+          "uncomfortable(1)",
+          "shy(1)",
+          "gentle(1)",
+          "fame(1)",
+          "fond(1)",
+          "cousin(1)",
+          "countryside(1)",
+          "cousin's(1)",
+          "ankle(1)",
+          "handsome(1)",
+          "charming(1)",
+          "pale(1)",
+          "clever(1)",
+          "bowed(1)",
+          "polite(1)",
+          "behaved(1)",
+          "wet(1)",
+          "grass(1)",
+          "praying(1)",
+          "engagement(1)",
+          "furious(1)",
+          "honest(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9618,
+        "coreCoverage": 0.967,
+        "exempt": [
+          "sisters",
+          "cottage",
+          "letter"
+        ],
+        "wordCount": 1020,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "generous(3)",
+          "patience(2)",
+          "unhappy(2)",
+          "handsome(2)",
+          "grief(2)",
+          "parish(2)",
+          "fever(2)",
+          "feelings(1)",
+          "clever(1)",
+          "dull(1)",
+          "unwelcome(1)",
+          "shy(1)",
+          "sensible(1)",
+          "ankle(1)",
+          "passionate(1)",
+          "uneasy(1)",
+          "heartbroken(1)",
+          "engagement(1)",
+          "fashionable(1)",
+          "furious(1)",
+          "punish(1)",
+          "ironically(1)",
+          "loyalty(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9352,
+        "coreCoverage": 0.9349,
+        "exempt": [
+          "sisters",
+          "cottage",
+          "letter"
+        ],
+        "wordCount": 1513,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "generous(2)",
+          "feelings(2)",
+          "composure(2)",
+          "fever(2)",
+          "lawns(1)",
+          "eldest(1)",
+          "clever(1)",
+          "apology(1)",
+          "aloud(1)",
+          "candles(1)",
+          "moderation(1)",
+          "polite(1)",
+          "coldness(1)",
+          "inclined(1)",
+          "bedside(1)",
+          "shrunk(1)",
+          "occasional(1)",
+          "basket(1)",
+          "departure(1)",
+          "handsome(1)",
+          "ambitious(1)",
+          "despaired(1)",
+          "statesman(1)",
+          "glory(1)",
+          "occupation(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "NOUN_AROUND_IT",
+          "cat": "REDUNDANCY",
+          "msg": "Consider using “the surrounding countryside”.",
+          "frag": "the countryside around it",
+          "ctx": "of England. The cottage was simple, but the countryside around it was beautiful. At Barton the sisters me"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "NOUN_AROUND_IT",
+          "cat": "REDUNDANCY",
+          "msg": "Consider using “the surrounding valley”.",
+          "frag": "the valley around it",
+          "ctx": "as small, and its rooms were plain, but the valley around it was lovely enough to make even Marianne"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 319,
+      "sentLenMedian": 6,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 514,
+      "sentLenMedian": 8,
+      "zipfMedian": 6.02,
+      "lowZipfRatio": 0.0066,
+      "lowZipfWords": [
+        "calmer",
+        "coldly",
+        "wiser"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 749,
+      "sentLenMedian": 11,
+      "zipfMedian": 5.96,
+      "lowZipfRatio": 0.0104,
+      "lowZipfWords": [
+        "bowed",
+        "calmer",
+        "coldly",
+        "cousin's",
+        "dangerously",
+        "hurried",
+        "wiser"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1020,
+      "sentLenMedian": 14,
+      "zipfMedian": 5.96,
+      "lowZipfRatio": 0.0085,
+      "lowZipfWords": [
+        "coldly",
+        "colonel's",
+        "heartbroken",
+        "longed",
+        "uneasy",
+        "unwelcome",
+        "warmly"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1513,
+      "sentLenMedian": 23,
+      "zipfMedian": 5.94,
+      "lowZipfRatio": 0.0302,
+      "lowZipfWords": [
+        "agreeable",
+        "astonishment",
+        "bedside",
+        "bowed",
+        "calmer",
+        "coldness",
+        "composure",
+        "confided",
+        "contentment",
+        "cousin's",
+        "deepen",
+        "despaired",
+        "faithfully",
+        "formality",
+        "hearty",
+        "heiress",
+        "hillside",
+        "hospitable",
+        "ingratiating",
+        "keepsake",
+        "lawns",
+        "lodgings",
+        "moderation",
+        "parsonage",
+        "pitied",
+        "politeness",
+        "refinement",
+        "regretted",
+        "scarcely",
+        "scorn",
+        "sharpened",
+        "sharper",
+        "shrunk",
+        "statesman",
+        "talkative",
+        "tenderness",
+        "toothpick",
+        "unease",
+        "unsettled",
+        "wandered",
+        "watchful"
+      ],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9279,
+      "coreCoverage": 0.9331,
+      "exempt": [
+        "sisters",
+        "cottage",
+        "letter"
+      ],
+      "wordCount": 319,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "marry(3)",
+        "brother(2)",
+        "married(2)",
+        "feelings(1)",
+        "son(1)",
+        "cousin(1)",
+        "alone(1)",
+        "pain(1)",
+        "winter(1)",
+        "cold(1)",
+        "rain(1)",
+        "ill(1)",
+        "happy(1)",
+        "heart(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9669,
+      "coreCoverage": 0.9671,
+      "exempt": [
+        "sisters",
+        "cottage",
+        "letter"
+      ],
+      "wordCount": 514,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "rain(2)",
+        "feelings(1)",
+        "gentle(1)",
+        "cousin(1)",
+        "hill(1)",
+        "hurt(1)",
+        "goodbye(1)",
+        "cried(1)",
+        "pain(1)",
+        "winter(1)",
+        "ill(1)",
+        "angry(1)",
+        "calmer(1)",
+        "wiser(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9546,
+      "coreCoverage": 0.9545,
+      "exempt": [
+        "sisters",
+        "cottage",
+        "letter"
+      ],
+      "wordCount": 749,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "unhappy(2)",
+        "fever(2)",
+        "poetry(1)",
+        "uncomfortable(1)",
+        "shy(1)",
+        "gentle(1)",
+        "fame(1)",
+        "fond(1)",
+        "cousin(1)",
+        "countryside(1)",
+        "cousin's(1)",
+        "ankle(1)",
+        "handsome(1)",
+        "charming(1)",
+        "pale(1)",
+        "clever(1)",
+        "bowed(1)",
+        "polite(1)",
+        "behaved(1)",
+        "wet(1)",
+        "grass(1)",
+        "praying(1)",
+        "engagement(1)",
+        "furious(1)",
+        "honest(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9618,
+      "coreCoverage": 0.967,
+      "exempt": [
+        "sisters",
+        "cottage",
+        "letter"
+      ],
+      "wordCount": 1020,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "generous(3)",
+        "patience(2)",
+        "unhappy(2)",
+        "handsome(2)",
+        "grief(2)",
+        "parish(2)",
+        "fever(2)",
+        "feelings(1)",
+        "clever(1)",
+        "dull(1)",
+        "unwelcome(1)",
+        "shy(1)",
+        "sensible(1)",
+        "ankle(1)",
+        "passionate(1)",
+        "uneasy(1)",
+        "heartbroken(1)",
+        "engagement(1)",
+        "fashionable(1)",
+        "furious(1)",
+        "punish(1)",
+        "ironically(1)",
+        "loyalty(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9352,
+      "coreCoverage": 0.9349,
+      "exempt": [
+        "sisters",
+        "cottage",
+        "letter"
+      ],
+      "wordCount": 1513,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "generous(2)",
+        "feelings(2)",
+        "composure(2)",
+        "fever(2)",
+        "lawns(1)",
+        "eldest(1)",
+        "clever(1)",
+        "apology(1)",
+        "aloud(1)",
+        "candles(1)",
+        "moderation(1)",
+        "polite(1)",
+        "coldness(1)",
+        "inclined(1)",
+        "bedside(1)",
+        "shrunk(1)",
+        "occasional(1)",
+        "basket(1)",
+        "departure(1)",
+        "handsome(1)",
+        "ambitious(1)",
+        "despaired(1)",
+        "statesman(1)",
+        "glory(1)",
+        "occupation(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9331,
+    "A2": 0.9671
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 5,
+      "death": 1
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0292",
+        "title": "The Hound of the Baskervilles",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "st-0337",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Some people looked at a man called Rozaine.\" — 'looked at' does not tell an A1 reader that people suspected him. Consider: \"Some people said, 'Maybe Rozaine is Lupin!'\"",
+        "\"But Rozaine showed his papers to everyone.\" — 'papers' in the sense of identity documents may not be clear at A1; \"showed his passport\" is simpler. Other levels say he showed them to the captain/officers; 'to the captain' would also be more consistent.",
+        "Vocabulary is otherwise within reach (message, across, edge are borderline but clear from context). Grammar stays in present/past simple."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"For years, he looked for Lupin.\" — past simple for an ongoing span reads a little flat; \"For years, he tried to catch Lupin.\" sounds more natural within the A2 grammar limit.",
+        "\"People looked at each other with fear.\" — slightly stilted; \"People were afraid and watched each other.\" is more natural.",
+        "\"Nelly took one step to the side.\" — vaguer than other levels; \"Nelly took one step to the edge of the water.\" makes the drop easier to picture."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No passive or conditionals found; relative clauses and past continuous are fine for B1. Plot, order and ending match the original."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error (quiz)",
+          "quote": "3. Why was the camera important to Ganimard? — *It held the jewels and money that proved Lupin's guilt",
+          "problem": "The B2 text only ever says the jewels were hidden in the camera; money is never mentioned, so the keyed answer asserts a fact the reader cannot find in the text.",
+          "fix": "Change the keyed option to: \"It held the jewels that proved Lupin's guilt\"."
+        }
+      ],
+      "notes": [
+        "Second conditional (\"If Ganimard found that camera, he would have all the proof he needed.\") is fine at B2. Rozaine's reward is a faithful detail."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "1/2. meaning drift / unnatural English",
+          "quote": "A good many gentlemen on board would gladly have claimed her attention, yet for reasons I did not fully deserve she seemed to prefer mine.",
+          "problem": "One deserves a favour, not 'reasons'; the phrase is semantically off and a careful reader trips on it.",
+          "fix": "\"...yet, by a kindness I did not fully deserve, she seemed to prefer mine.\" (or \"for reasons I never fully understood\")"
+        },
+        {
+          "criterion": "2. unnatural English",
+          "quote": "Had Ganimard opened that camera, he would have held every proof he needed.",
+          "problem": "'proof' in this sense is uncountable, and 'held every proof' is not idiomatic.",
+          "fix": "\"Had Ganimard opened that camera, he would have had all the proof he needed.\""
+        }
+      ],
+      "notes": [
+        "\"laid before him his papers, his letters and every other proof of his identity he could find\" — acceptable but stiff; \"every other document that could prove who he was\" reads more smoothly.",
+        "Ending and Lupin's reflection on Nelly's choice are faithful to Leblanc's story; tone is genuinely literary."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling of Leblanc's story at every level, with A1-B1 clean. B2 fails on a quiz key that mentions money the text never states, and C1 fails on two unidiomatic phrases ('for reasons I did not fully deserve', 'held every proof he needed'); all three are one-line fixes."
+}

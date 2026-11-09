@@ -1,0 +1,78 @@
+{
+  "id": "st-0344",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "2",
+          "quote": "Aunt Jane was more kind.",
+          "problem": "Learners should not be taught 'more kind' in an A1 model text. A native children's author would write 'kinder'.",
+          "fix": "Aunt Jane was kinder."
+        },
+        {
+          "criterion": "7",
+          "quote": "Aunt Miranda left her house to Rebecca.",
+          "problem": "At A1, 'left' means 'went away' (and the story already uses 'left home' that way). An A1 reader will not know the 'bequeath' meaning, so the ending is confusing. The quiz question 'What did Aunt Miranda leave to Rebecca?' has the same problem.",
+          "fix": "Aunt Miranda gave her house to Rebecca in a letter before she died. Now the house was Rebecca's. Quiz: 'What did Rebecca get from Aunt Miranda?'"
+        },
+        {
+          "criterion": "7",
+          "quote": "Their house had no good light.",
+          "problem": "'No good light' is vague and odd for a beginner.",
+          "fix": "Their house was very dark."
+        },
+        {
+          "criterion": "7",
+          "quote": "A soap company had a big lamp. Children got it for selling lots of soap.",
+          "problem": "'Got it for selling' is an unclear structure. It reads as if every child got the lamp.",
+          "fix": "A soap company had a big lamp. A child could win the lamp. He or she had to sell lots of soap."
+        },
+        {
+          "criterion": "7",
+          "quote": "She sat up front with the driver.",
+          "problem": "'Up front' is an idiom a beginner may not understand.",
+          "fix": "She sat next to the driver."
+        }
+      ],
+      "notes": [
+        "'Adam Ladd came on her last day.' Came where or for what? Clearer: 'Adam Ladd came to hear her on her last day.'",
+        "A1 calls Aladdin 'a man' but A2 calls him 'a boy'. Use 'a boy' in both.",
+        "'coach' may need a gloss or the phrase 'a coach with horses'."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Adam Ladd was like magic too' is a little loose. Option: 'Adam Ladd made a wish come true, like Aladdin's lamp, so Rebecca called him Mr Aladdin.'"
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'It said that Aunt Miranda died quietly one night.' 'had died' would be more natural, but the past simple is acceptable at this level.",
+        "Spelling is mixed across levels: 'travelled' (B1) vs 'favorite' (B2) and 'neighborhood' (C1). Pick one variety."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'She is all her father's side, full of foolish dreams' is slightly odd. More idiomatic: 'She takes after her father's side' or the original's flavour, 'She's all Randall.'"
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Aunt Miranda had died peacefully in her sleep one night, with no long illness and no warning.' In the novel Miranda had already had a stroke before she died, so 'with no long illness and no warning' probably contradicts the original. Delete that clause to be safe.",
+        "Quiz Q3 says 'will', but the text never uses the word. It can be inferred, but the text could say 'had quietly left the brick house to her in her will'."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, warm and age-appropriate retelling: the coach ride, the aunts, Emma Jane, the soap-and-lamp episode, Mr Aladdin, graduation, the mother's fall and Miranda's bequest are all correct and in order. A2 to C1 pass. A1 fails because it says 'more kind' and has several beginner comprehension blockers, most importantly 'left her house to' for an inheritance."
+}

@@ -1,0 +1,23 @@
+{"id":"st-0370","round":1,"levels":{
+"A1":{"verdict":"FAIL","issues":[
+{"criterion":"4","quote":"Her old parents cried for many days. Without her, he did not want the drink. His men took the drink up Mount Fuji.","problem":"'he' has no clear referent: the previous sentence is about the parents (plural), and the Emperor was last named two paragraphs earlier. An A1 reader will think 'he' is the old man, and then 'His men' (the old man's men?) makes no sense.","fix":"Her old parents cried for many days. The Emperor did not want the drink without Kaguya. His men took the drink up Mount Fuji."}
+],"notes":[
+"'Kaguya gave her robe to her old parents' is followed by 'The moon people put a robe on her.' Two different robes in one paragraph can confuse a beginner. Write 'put a moon robe on her', as A2 does with 'a robe from the moon'.",
+"'In it sat a very small girl.' The inverted word order is literary for A1. Use 'A very small girl sat in it.'",
+"'a bamboo' for a single stalk sounds a little odd. 'One morning, one bamboo stalk was full of light' or 'a piece of bamboo' would be more natural.",
+"'At once, her heart changed.' Both 'at once' and 'her heart changed' are slightly abstract for A1. Simpler: 'Then she forgot her sadness.'",
+"'The old man asked the Emperor for help. He sent many men' works, but 'The Emperor sent many men' is clearer."
+]},
+"A2":{"verdict":"PASS","issues":[],"notes":[
+"The gold-branch episode skips the moment when the second man presents the branch. 'He brought it to Kaguya. But then the workers came to the house for their money.' would make the sequence clearer."
+]},
+"B1":{"verdict":"PASS","issues":[],"notes":[
+"Grammar stays within B1 limits; no passive or conditionals were found. The fifth suitor's ending is softened, which is acceptable."
+]},
+"B2":{"verdict":"PASS","issues":[],"notes":[]},
+"C1":{"verdict":"PASS","issues":[],"notes":[
+"'she could not give herself to a man without knowing the depth of his feelings' can be read as innuendo. For a 4+ app, 'she could not marry a man without knowing the depth of his feelings' is safer.",
+"'In this world a woman marries' sounds a little stilted. Consider 'In this world, men and women marry'."
+]}},
+"overall":"FAIL",
+"summary":"A faithful, age-appropriate retelling of the Tale of the Bamboo Cutter, with consistent plot across levels and correct quizzes. A2 through C1 pass. A1 fails on one concrete referent error near the end ('Without her, he did not want the drink'), where a beginner cannot tell that 'he' means the Emperor."}

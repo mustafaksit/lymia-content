@@ -1,0 +1,54 @@
+{
+  "id": "st-0338",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error (quiz)",
+          "quote": "2. What did Minnie take to the Bacteriologist? — His tube / *His hat and coat / A cab",
+          "problem": "The A1 text never mentions a hat. It says only \"He did not stop for his coat\" and \"She took his coat and ran out.\" The keyed answer includes something the A1 reader never saw, so a careful learner may doubt it.",
+          "fix": "Change the keyed option to \"*His coat\" (or add \"his hat and\" to both A1 sentences)."
+        }
+      ],
+      "notes": [
+        "\"So soon the young man is blue too!\" reads oddly, because \"So soon\" can sound like \"so early\". Consider \"So now the young man turns blue too!\"",
+        "\"frighten\" and \"among\" sit a little above A1, but they are few and clear from context, so the comprehension criterion still passes."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"So soon our young friend gets a blue face too.\" uses the same awkward \"So soon\" phrasing. Consider \"So now our young friend gets a blue face too.\""
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Pedestrians on the pavement stopped and giggled at the peculiar sight.\" \"Giggled\" is odd for adult passers-by, and \"pedestrians\" and \"peculiar\" are on the heavy side for B1. Consider \"People on the pavement stopped and laughed at the strange sight.\"",
+        "Words like \"glitter\", \"trickled\", \"fragile\" and \"chuckled\" are at the upper edge of B1, but each is clear from context."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The cab scene where the Bacteriologist works out from the rack which tube was taken is an invented bridging scene rather than something in Wells. It is plausible and does not change any event or the ending, so it is acceptable condensing.",
+        "Wells's blue bacterium also affected puppies and a sparrow. Keeping only the monkeys is fine."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Minnie's belief that overwork has unhinged her husband faithfully keeps Wells's 'he has gone mad' beat.",
+        "The same invented rack-position realization as in B2 appears here. It is acceptable."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, gentle and well-graded retelling of Wells's 'The Stolen Bacillus': all the key beats are present (cholera shown off, Minnie calls him out, the theft, three cabs, the tube breaking and being drunk near Waterloo Bridge, the blue-monkey twist). The only concrete failure is the A1 quiz, whose keyed answer names a hat that the A1 text never mentions. Everything else is minor phrasing notes."
+}

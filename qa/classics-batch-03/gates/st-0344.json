@@ -1,0 +1,593 @@
+{
+  "id": "st-0344",
+  "title": "Rebecca of Sunnybrook Farm",
+  "ts": "2026-10-30T10:24:04",
+  "node": {
+    "id": "st-0344",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %92.6 | 326 kelime\n    havuz dışı: brothers(1), sisters(2), dead(1), aunts(2), horse(1), coach(1), cold(1), missed(1), dark(1), soap(4), lamp(5), pieces(1), boy(1), magic(1), quietly(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9264,
+        "coreCoverage": 0.9333,
+        "exempt": [
+          "aunts",
+          "soap",
+          "school"
+        ],
+        "wordCount": 326,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "lamp(5)",
+          "sisters(2)",
+          "brothers(1)",
+          "dead(1)",
+          "horse(1)",
+          "coach(1)",
+          "cold(1)",
+          "missed(1)",
+          "dark(1)",
+          "pieces(1)",
+          "boy(1)",
+          "magic(1)",
+          "quietly(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9671,
+        "coreCoverage": 0.974,
+        "exempt": [
+          "aunts",
+          "soap",
+          "school"
+        ],
+        "wordCount": 487,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "lamp(5)",
+          "brick(2)",
+          "farm(1)",
+          "coach(1)",
+          "magic(1)",
+          "quietly(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9655,
+        "coreCoverage": 0.9772,
+        "exempt": [
+          "aunts",
+          "soap",
+          "school"
+        ],
+        "wordCount": 638,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "brick(5)",
+          "lamp(5)",
+          "behave(1)",
+          "magic(1)",
+          "verses(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9657,
+        "coreCoverage": 0.9691,
+        "exempt": [
+          "aunts",
+          "soap",
+          "school"
+        ],
+        "wordCount": 992,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "brick(4)",
+          "lamp(4)",
+          "penny(1)",
+          "eldest(1)",
+          "dependable(1)",
+          "lonely(1)",
+          "chattered(1)",
+          "spotless(1)",
+          "foolish(1)",
+          "scolded(1)",
+          "chores(1)",
+          "sew(1)",
+          "loyal(1)",
+          "cheerful(1)",
+          "inseparable(1)",
+          "bare(1)",
+          "gloomy(1)",
+          "astonishment(1)",
+          "thoughtful(1)",
+          "temper(1)",
+          "afterwards(1)",
+          "goodbye(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9386,
+        "coreCoverage": 0.9384,
+        "exempt": [
+          "aunts",
+          "soap",
+          "school"
+        ],
+        "wordCount": 1418,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "lamp(6)",
+          "brick(5)",
+          "niece(2)",
+          "eldest(2)",
+          "aloud(2)",
+          "afterwards(2)",
+          "stony(1)",
+          "cheerful(1)",
+          "brook(1)",
+          "heap(1)",
+          "houseful(1)",
+          "hungry(1)",
+          "inherited(1)",
+          "candles(1)",
+          "firewood(1)",
+          "nieces(1)",
+          "tenderness(1)",
+          "sensible(1)",
+          "china(1)",
+          "untidy(1)",
+          "clutching(1)",
+          "solitary(1)",
+          "politeness(1)",
+          "recited(1)",
+          "verses(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "She",
+          "ctx": "orse coach. She sat next to the driver. She talked all the way. The driver liked he"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "Afterwards",
+          "ctx": "he girl he had once met on a soap trip. Afterwards he shook her hand and told her that she"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "that no other name would suit him. Ever afterwards he was Mr Aladdin to her, and he, for h"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "ined that she would begin teaching soon afterwards, sending part of her wages home each mo"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 326,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0037,
+      "lowZipfWords": [
+        "kinder"
+      ],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 487,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0024,
+      "lowZipfWords": [
+        "kinder"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 638,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 10,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 992,
+      "sentLenMedian": 15.0,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.0109,
+      "lowZipfWords": [
+        "astonishment",
+        "chattered",
+        "dependable",
+        "gloomy",
+        "hesitating",
+        "inseparable",
+        "scolded",
+        "sew",
+        "spotless",
+        "whispered"
+      ],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1418,
+      "sentLenMedian": 23,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0275,
+      "lowZipfWords": [
+        "amazement",
+        "approving",
+        "cheerless",
+        "clutching",
+        "comical",
+        "composing",
+        "dearest",
+        "diminishing",
+        "dreamer",
+        "earnestness",
+        "farmhouse",
+        "firewood",
+        "gravely",
+        "grieved",
+        "houseful",
+        "impertinent",
+        "moment's",
+        "natured",
+        "neatly",
+        "niece's",
+        "nieces",
+        "politeness",
+        "quieter",
+        "recited",
+        "saleswoman",
+        "sew",
+        "sharpness",
+        "shutters",
+        "sincerity",
+        "soften",
+        "stony",
+        "tenderness",
+        "uninterested",
+        "untidy",
+        "windblown",
+        "worldly"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9264,
+      "coreCoverage": 0.9333,
+      "exempt": [
+        "aunts",
+        "soap",
+        "school"
+      ],
+      "wordCount": 326,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "lamp(5)",
+        "sisters(2)",
+        "brothers(1)",
+        "dead(1)",
+        "horse(1)",
+        "coach(1)",
+        "cold(1)",
+        "missed(1)",
+        "dark(1)",
+        "pieces(1)",
+        "boy(1)",
+        "magic(1)",
+        "quietly(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9671,
+      "coreCoverage": 0.974,
+      "exempt": [
+        "aunts",
+        "soap",
+        "school"
+      ],
+      "wordCount": 487,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "lamp(5)",
+        "brick(2)",
+        "farm(1)",
+        "coach(1)",
+        "magic(1)",
+        "quietly(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9655,
+      "coreCoverage": 0.9772,
+      "exempt": [
+        "aunts",
+        "soap",
+        "school"
+      ],
+      "wordCount": 638,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "brick(5)",
+        "lamp(5)",
+        "behave(1)",
+        "magic(1)",
+        "verses(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9657,
+      "coreCoverage": 0.9691,
+      "exempt": [
+        "aunts",
+        "soap",
+        "school"
+      ],
+      "wordCount": 992,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "brick(4)",
+        "lamp(4)",
+        "penny(1)",
+        "eldest(1)",
+        "dependable(1)",
+        "lonely(1)",
+        "chattered(1)",
+        "spotless(1)",
+        "foolish(1)",
+        "scolded(1)",
+        "chores(1)",
+        "sew(1)",
+        "loyal(1)",
+        "cheerful(1)",
+        "inseparable(1)",
+        "bare(1)",
+        "gloomy(1)",
+        "astonishment(1)",
+        "thoughtful(1)",
+        "temper(1)",
+        "afterwards(1)",
+        "goodbye(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9386,
+      "coreCoverage": 0.9384,
+      "exempt": [
+        "aunts",
+        "soap",
+        "school"
+      ],
+      "wordCount": 1418,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "lamp(6)",
+        "brick(5)",
+        "niece(2)",
+        "eldest(2)",
+        "aloud(2)",
+        "afterwards(2)",
+        "stony(1)",
+        "cheerful(1)",
+        "brook(1)",
+        "heap(1)",
+        "houseful(1)",
+        "hungry(1)",
+        "inherited(1)",
+        "candles(1)",
+        "firewood(1)",
+        "nieces(1)",
+        "tenderness(1)",
+        "sensible(1)",
+        "china(1)",
+        "untidy(1)",
+        "clutching(1)",
+        "solitary(1)",
+        "politeness(1)",
+        "recited(1)",
+        "verses(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9333,
+    "A2": 0.974
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "dead": 4,
+      "died": 8,
+      "death": 1
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.033,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0308",
+        "title": "Pollyanna",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.033,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

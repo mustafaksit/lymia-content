@@ -1,0 +1,65 @@
+{
+  "id": "st-0361",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "7. A1 comprehension",
+          "quote": "Be the first among people.",
+          "problem": "An A1 learner will not understand that this means 'be the best weaver among humans'. 'Be the first among' is abstract, so the core of the old woman's warning (humans are fine, goddesses are not) is lost.",
+          "fix": "Be the best weaver among people."
+        },
+        {
+          "criterion": "2. unnatural English",
+          "quote": "But there, the gods did bad things.",
+          "problem": "'there' has no clear referent (the loom? the town?). It is unnatural, and the reader cannot tell that this is Arachne's picture.",
+          "fix": "But in her picture, the gods did bad things."
+        },
+        {
+          "criterion": "7. A1 comprehension",
+          "quote": "\"You think you are above us,\" said Athena. \"Now you must learn.\"",
+          "problem": "'above us' is a figurative use of a spatial word, and 'you must learn' leaves out what she must learn. An A1 reader cannot follow Athena's reason for the punishment.",
+          "fix": "\"You think you are better than the gods,\" said Athena. \"Now you must learn a lesson.\""
+        }
+      ],
+      "notes": [
+        "\"Hear me, child\" is slightly archaic for A1; \"Listen to me, child\" is clearer.",
+        "\"Athena showed you all this\" works, but \"Athena taught you\" (taught is common A1 vocabulary) reads more naturally."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"their threads moved like light\" is a slightly odd simile; \"their hands moved very fast\" would be plainer.",
+        "\"her contest with the sea god for a city\" could be clearer: \"her contest with the sea god for a famous city\"."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No passives or conditionals found. The transformations are phrased actively (\"the gods turned them into mountains\"), which is good."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Each shade was clearly different from the next, yet the eye could not see where one ended.\" The sentence feels cut short; consider \"where one ended and the next began.\"",
+        "\"whose family was far from important\" and \"Her little town was of no importance\" in the same paragraph make the importance idea repetitive."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Faithful to Ovid (Idmon's purple dyeing, the nymphs of Tmolus/Pactolus, the old-woman disguise, the blush like dawn, Minerva's four corner scenes and olive border, Arachne's ivy/flower border, the herb juice). Leaving out the shuttle blows and Arachne's hanging is acceptable softening for 4+."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling of Ovid's Arachne. B1-C1 are strong and A2 is clean. A1 fails on three sentences that a beginner cannot decode: the vague 'Be the first among people', the unclear 'But there, the gods did bad things', and the figurative 'You think you are above us'. Each has a simple fix."
+}

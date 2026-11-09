@@ -1,0 +1,659 @@
+{
+  "id": "st-0372",
+  "title": "The Frog Princess",
+  "ts": "2026-10-30T10:24:40",
+  "node": {
+    "id": "st-0372",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %89.2 | 371 kelime\n    havuz dışı: sons(2), arrow(4), marry(2), arrows(1), swamp(1), frog(9), married(1), wives(1), bread(2), skin(2), beautiful(1), danced(1), burned(1), duck(1), hare(1), needle(4), egg(2), tree(3), pulled(1)",
+        "level A2: A2: KALDI | kapsam %92.4 | 554 kelime\n    havuz dışı: shoot(1), arrow(4), arrows(1), swamp(1), frog(9), bread(2), skin(3), carpet(1), duck(6), hare(5), needle(4), egg(5)",
+        "level B1: B1: KALDI | kapsam %88.3 | 826 kelime\n    havuz dışı: arrow(7), wherever(2), bride(1), eldest(1), lord's(2), merchant's(2), swamp(1), frog(13), bread(2), asleep(1), helpers(2), loaf(1), feast(3), praised(1), loaves(1), carpet(2), dawn(1), shone(1), thunder(2), palace(1), frightened(1), carriage(2), golden(1), beside(1), poured(1), sleeve(4), scraps(1), swans(1), sleeves(1), mess(1), stove(1), oh(1), forever(2), kingdom(1), wizard(1), wiser(1), thread(1), hungry(1), spared(1), duck(6), hare(6), pike(2), hut(1), chicken(1), needle(4), oak(2), vanish(1), chased(1), snapped(1), vanished(1)",
+        "level B2: B2: KALDI | kapsam %90.6 | 1153 kelime\n    havuz dışı: kingdom(2), arrow(7), bride(1), eldest(1), courtyard(1), lord(1), lord's(1), merchant(1), soared(1), vanished(2), lonely(1), swamp(1), waded(1), reeds(1), mud(1), frog(14), mound(1), begged(1), weddings(1), bake(1), loaf(2), asleep(1), helpers(2), dawn(1), loaves(1), weave(1), threads(1), feast(2), thunder(2), carriage(3), palace(1), leapt(1), sleeve(4), scraps(2), swans(1), glided(1), splashed(1), stove(1), ashes(1), oh(1), wizard(1), furious(1), thread(1), hungry(1), supper(1), drake(2), hare(6), seashore(1), pike(3), stranded(1), pity(1), pleaded(1), hut(3), obeyed(1), needle(5), duck(4), oak(2), vanish(1), dashed(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8922,
+        "coreCoverage": 0.9357,
+        "exempt": [
+          "frog",
+          "arrow",
+          "skin",
+          "needle"
+        ],
+        "wordCount": 371,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "tree(3)",
+          "sons(2)",
+          "marry(2)",
+          "bread(2)",
+          "egg(2)",
+          "swamp(1)",
+          "married(1)",
+          "wives(1)",
+          "beautiful(1)",
+          "danced(1)",
+          "burned(1)",
+          "duck(1)",
+          "hare(1)",
+          "pulled(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9242,
+        "coreCoverage": 0.9568,
+        "exempt": [
+          "frog",
+          "arrow",
+          "skin",
+          "needle"
+        ],
+        "wordCount": 554,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "duck(6)",
+          "hare(5)",
+          "egg(5)",
+          "bread(2)",
+          "shoot(1)",
+          "swamp(1)",
+          "carpet(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.8826,
+        "coreCoverage": 0.9025,
+        "exempt": [
+          "frog",
+          "arrow",
+          "skin",
+          "needle"
+        ],
+        "wordCount": 826,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "duck(6)",
+          "hare(6)",
+          "sleeve(4)",
+          "feast(3)",
+          "wherever(2)",
+          "lord's(2)",
+          "merchant's(2)",
+          "bread(2)",
+          "helpers(2)",
+          "carpet(2)",
+          "thunder(2)",
+          "carriage(2)",
+          "forever(2)",
+          "pike(2)",
+          "oak(2)",
+          "bride(1)",
+          "eldest(1)",
+          "swamp(1)",
+          "asleep(1)",
+          "loaf(1)",
+          "praised(1)",
+          "loaves(1)",
+          "dawn(1)",
+          "shone(1)",
+          "palace(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9063,
+        "coreCoverage": 0.9236,
+        "exempt": [
+          "frog",
+          "arrow",
+          "skin",
+          "needle"
+        ],
+        "wordCount": 1153,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "hare(6)",
+          "sleeve(4)",
+          "duck(4)",
+          "carriage(3)",
+          "pike(3)",
+          "hut(3)",
+          "kingdom(2)",
+          "vanished(2)",
+          "loaf(2)",
+          "helpers(2)",
+          "feast(2)",
+          "thunder(2)",
+          "scraps(2)",
+          "drake(2)",
+          "oak(2)",
+          "bride(1)",
+          "eldest(1)",
+          "courtyard(1)",
+          "lord(1)",
+          "lord's(1)",
+          "merchant(1)",
+          "soared(1)",
+          "lonely(1)",
+          "swamp(1)",
+          "waded(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9032,
+        "coreCoverage": 0.9182,
+        "exempt": [
+          "frog",
+          "arrow",
+          "skin",
+          "needle"
+        ],
+        "wordCount": 1519,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "hare(6)",
+          "hut(4)",
+          "duck(4)",
+          "bride(3)",
+          "carriage(3)",
+          "sleeve(3)",
+          "oak(3)",
+          "kingdom(2)",
+          "loaf(2)",
+          "helpers(2)",
+          "feast(2)",
+          "thunder(2)",
+          "scraps(2)",
+          "stove(2)",
+          "pity(2)",
+          "drake(2)",
+          "pike(2)",
+          "instant(2)",
+          "summoned(1)",
+          "eldest(1)",
+          "courtyard(1)",
+          "lord(1)",
+          "merchant(1)",
+          "merchant's(1)",
+          "rooftops(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "At",
+          "ctx": "t Koschei's house, he broke the needle. At once, Koschei was gone. Ivan took Vasil"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 371,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 20,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 554,
+      "sentLenMedian": 8,
+      "zipfMedian": 6.03,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 21,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 826,
+      "sentLenMedian": 11,
+      "zipfMedian": 5.98,
+      "lowZipfRatio": 0.0175,
+      "lowZipfWords": [
+        "helpers",
+        "loaf",
+        "loaves",
+        "merchant's",
+        "scraps",
+        "shone",
+        "swam",
+        "swans",
+        "vanish",
+        "wiser"
+      ],
+      "keyTermTokens": 27,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1153,
+      "sentLenMedian": 14,
+      "zipfMedian": 5.91,
+      "lowZipfRatio": 0.0273,
+      "lowZipfWords": [
+        "alarmed",
+        "carpets",
+        "dashed",
+        "glided",
+        "helpers",
+        "hurried",
+        "leapt",
+        "loaf",
+        "loaves",
+        "obeyed",
+        "reeds",
+        "scraps",
+        "seashore",
+        "shone",
+        "soared",
+        "splashed",
+        "sprang",
+        "swans",
+        "vanish",
+        "waded",
+        "wandered",
+        "warmly",
+        "wiser"
+      ],
+      "keyTermTokens": 31,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1519,
+      "sentLenMedian": 20,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0366,
+      "lowZipfWords": [
+        "blushing",
+        "bowed",
+        "carpets",
+        "clapped",
+        "creaked",
+        "flung",
+        "gasped",
+        "gilded",
+        "gliding",
+        "grieve",
+        "helpers",
+        "hopping",
+        "hungrier",
+        "hurrying",
+        "labored",
+        "leapt",
+        "loaf",
+        "loaves",
+        "merchant's",
+        "nodded",
+        "obediently",
+        "patterned",
+        "plunged",
+        "radiant",
+        "reasoned",
+        "reeds",
+        "richly",
+        "rooftops",
+        "scarcely",
+        "scraps",
+        "seashore",
+        "shrugged",
+        "sighed",
+        "skittering",
+        "soared",
+        "spotting",
+        "sprang",
+        "swans",
+        "threaded",
+        "trudged",
+        "unmoved",
+        "vanish",
+        "waded",
+        "wiser"
+      ],
+      "keyTermTokens": 35,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8922,
+      "coreCoverage": 0.9357,
+      "exempt": [
+        "frog",
+        "arrow",
+        "skin",
+        "needle"
+      ],
+      "wordCount": 371,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "tree(3)",
+        "sons(2)",
+        "marry(2)",
+        "bread(2)",
+        "egg(2)",
+        "swamp(1)",
+        "married(1)",
+        "wives(1)",
+        "beautiful(1)",
+        "danced(1)",
+        "burned(1)",
+        "duck(1)",
+        "hare(1)",
+        "pulled(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9242,
+      "coreCoverage": 0.9568,
+      "exempt": [
+        "frog",
+        "arrow",
+        "skin",
+        "needle"
+      ],
+      "wordCount": 554,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "duck(6)",
+        "hare(5)",
+        "egg(5)",
+        "bread(2)",
+        "shoot(1)",
+        "swamp(1)",
+        "carpet(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.8826,
+      "coreCoverage": 0.9025,
+      "exempt": [
+        "frog",
+        "arrow",
+        "skin",
+        "needle"
+      ],
+      "wordCount": 826,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "duck(6)",
+        "hare(6)",
+        "sleeve(4)",
+        "feast(3)",
+        "wherever(2)",
+        "lord's(2)",
+        "merchant's(2)",
+        "bread(2)",
+        "helpers(2)",
+        "carpet(2)",
+        "thunder(2)",
+        "carriage(2)",
+        "forever(2)",
+        "pike(2)",
+        "oak(2)",
+        "bride(1)",
+        "eldest(1)",
+        "swamp(1)",
+        "asleep(1)",
+        "loaf(1)",
+        "praised(1)",
+        "loaves(1)",
+        "dawn(1)",
+        "shone(1)",
+        "palace(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9063,
+      "coreCoverage": 0.9236,
+      "exempt": [
+        "frog",
+        "arrow",
+        "skin",
+        "needle"
+      ],
+      "wordCount": 1153,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "hare(6)",
+        "sleeve(4)",
+        "duck(4)",
+        "carriage(3)",
+        "pike(3)",
+        "hut(3)",
+        "kingdom(2)",
+        "vanished(2)",
+        "loaf(2)",
+        "helpers(2)",
+        "feast(2)",
+        "thunder(2)",
+        "scraps(2)",
+        "drake(2)",
+        "oak(2)",
+        "bride(1)",
+        "eldest(1)",
+        "courtyard(1)",
+        "lord(1)",
+        "lord's(1)",
+        "merchant(1)",
+        "soared(1)",
+        "lonely(1)",
+        "swamp(1)",
+        "waded(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9032,
+      "coreCoverage": 0.9182,
+      "exempt": [
+        "frog",
+        "arrow",
+        "skin",
+        "needle"
+      ],
+      "wordCount": 1519,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "hare(6)",
+        "hut(4)",
+        "duck(4)",
+        "bride(3)",
+        "carriage(3)",
+        "sleeve(3)",
+        "oak(3)",
+        "kingdom(2)",
+        "loaf(2)",
+        "helpers(2)",
+        "feast(2)",
+        "thunder(2)",
+        "scraps(2)",
+        "stove(2)",
+        "pity(2)",
+        "drake(2)",
+        "pike(2)",
+        "instant(2)",
+        "summoned(1)",
+        "eldest(1)",
+        "courtyard(1)",
+        "lord(1)",
+        "merchant(1)",
+        "merchant's(1)",
+        "rooftops(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9357,
+    "A2": 0.9568
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "shoot": 5
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.333,
+      "summary3gramJaccard": 0.077,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0164",
+        "title": "The Frog Prince",
+        "titleJaccard": 0.333,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0172",
+        "title": "The Princess and the Pea",
+        "titleJaccard": 0.333,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0321",
+        "title": "The Princess and the Goblin",
+        "titleJaccard": 0.333,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

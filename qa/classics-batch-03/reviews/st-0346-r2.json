@@ -1,0 +1,52 @@
+{
+  "id": "st-0346",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "A1 comprehension: a few words are above beginner level. There are not more than a handful, so A1 still passes, but they are easy to fix.",
+        "\"She cried and was cross with everyone.\" -> 'cross' is not a beginner word, and the text says 'angry' earlier. Fix: \"She cried and was angry with everyone.\"",
+        "\"But things often went wrong for her.\" -> idiom. Fix: \"But she often made mistakes.\"",
+        "\"She put her things in order.\" -> idiom. Fix: \"She made her room clean and nice.\"",
+        "\"She was the heart of the home.\" -> metaphor. Fix: \"Everyone needed her.\" (or keep it and gloss it)",
+        "\"Weeks and months went by.\" -> phrasal verb, but the meaning is clear from context. Optional fix: \"Many weeks and months passed.\"",
+        "'shed' is not glossed. Optional: \"A new swing hung in a small wooden house in the garden.\" or add 'shed' to the glossed words."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Aunt Izzie often spoke to her in a hard voice.\" -> 'sharp voice' or 'cross voice' is the more natural collocation.",
+        "\"Katy planned the food\" -> \"Katy planned the meals\" sounds more natural.",
+        "\"almost up to the top\" -> the top of what is not clear; \"almost up to the roof\" is clearer."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"For many years Cousin Helen could not walk\" -> this reads a little oddly as narrative past; \"Cousin Helen was not able to walk, and she spent her days on a sofa\" is smoother.",
+        "Quiz 3 wording \"keep her walking a secret\" is slightly awkward; \"keep her new steps a secret\" is smoother."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Then, at the very top of a swing, the cracked hook gave way\" -> 'a swing' is ambiguous because 'swing' is also the object; \"at the very top of one swing\" or \"of one long sweep\" (as in C1) is clearer."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The prose is genuinely literary, with images such as the 'descending staircase of heads' and the line about office hours. It is not padded."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels match the novel by Susan Coolidge: the forbidden swing with its cracked hook, Katy's long illness, Cousin Helen's 'school' of patience, cheerfulness and hope, Aunt Izzie's death, Katy as heart of the house, and her walking to meet Cousin Helen after nearly four years. All levels keep injury and death at a gentle, stated level and suit their CEFR level. The quizzes have one clear keyed answer each. The only notes are a few above-beginner words in A1 (cross, went wrong, put in order, heart of the home) and small collocation tweaks."
+}

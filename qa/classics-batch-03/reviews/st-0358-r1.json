@@ -1,0 +1,55 @@
+{
+  "id": "st-0358",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "A1 comprehension: only a few words are above beginner level and none blocks the plot. 'melt' (in 'The sun can melt the wax') is the key idea and is not glossed. Consider adding it to the glossed words, or adding a clue: 'The sun is very hot. It can melt the wax.'",
+        "Phrasal verbs 'come off' / 'came off' ('Then the feathers come off.', 'His feathers came off, one by one.') could be 'fall' / 'fell': 'Then the feathers fall.' / 'His feathers fell, one by one.'",
+        "'Later, Daedalus went on to Sicily without Icarus.' -> 'Later, Daedalus went to Sicily without Icarus.' ('went on to' is a phrasal verb.)",
+        "'He could not fly now.' reads a little oddly in a past-tense story; 'He could not fly anymore.' is more natural.",
+        "'He found many feathers from birds.' -> 'He found many bird feathers.' (more natural).",
+        "'He watched the land and the water.' comes right after a sentence that mentions both Minos and Daedalus. 'Minos watched the land and the water.' removes any doubt about who 'He' is."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Minos can close the land and the sea.' is a slightly odd collocation; B1's 'close the roads and the sea' is better: 'Minos can close the roads and the sea.'",
+        "'First, he brought together many bird feathers.' -> 'First, he collected many bird feathers.' (simpler than the phrasal verb).",
+        "Grammar stays within present simple and past simple, with modals only, so it is A2-appropriate."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Stay in the middle way, between the sea and the sun.' -> 'Stay on the middle path, between the sea and the sun.' ('middle way' is a little unidiomatic).",
+        "'the land where he was born': 'be born' is lexicalised, so it is acceptable under the no-passive rule. No conditionals or other passives were found.",
+        "'Now Daedalus hated the clever skill which made the wings.' could read more smoothly as 'Now Daedalus hated the clever skill that had made the wings possible.' Tense stays simple for B1 if the original wording is kept."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'He kissed his son one last time, although he could not have known it would be the last.' 'one last time' suggests Daedalus meant it to be a farewell, which 'although' then contradicts. Suggested: 'He kissed his son, not knowing that it would be for the last time.'",
+        "Order in paragraph 3: 'Day after day he worked in silence, testing each feather...' comes before 'He gathered feathers of every size...'. Consider moving the 'Day after day' sentence after the gathering sentence.",
+        "Fidelity is strong: the shepherd's-flute image, thread and wax, the test flight, the middle course, the mother-bird simile, the fisherman, shepherd and ploughman, the islands on left and right, the feathers on the waves, Daedalus cursing his art, and Sicily. Leaving out the burial is an acceptable softening."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The prose is genuinely literary and close to Ovid (e.g. 'a father who no longer had a son to look back at', 'In what part of the sky should I search for you?', the warning not to steer by the stars). It does not feel padded.",
+        "'the walls of water' (para 1) and 'the same wall of water' (para 2) repeat an image close together. Optional: change one to 'the same barrier of sea'."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels are faithful to Ovid's version of the myth (Metamorphoses VIII): escape by air from Minos, feather-and-wax wings, the warning about the middle course, Icarus's fall, Daedalus cursing his art and flying on to Sicily. The texts are free of film-only elements and age-appropriate: the death is stated, not depicted. Grammar fits each level, the quizzes are keyed correctly with one defensible answer each, and only minor wording notes remain."
+}

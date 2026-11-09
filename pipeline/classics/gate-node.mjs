@@ -8,7 +8,8 @@
  *   +  NGSL kapsam / cumle tavani (pipeline/lib/validate.mjs) -> seviye profiline rapor
  *
  * Kullanim: node gate-node.mjs <story.json> [--index content/v2/index.json]
- * APP_REPO env: lymia-app kok dizini (varsayilan: ../lymia-app kardes dizin).
+ * APP_REPO env: lymia-app kok dizini (varsayilan: yukari dogru aranir; icerik reposu
+ * lymia-app/lymia-content altinda, eski duzende kardes ../lymia-app).
  */
 import { execFileSync } from 'node:child_process';
 import { readFileSync, existsSync } from 'node:fs';
@@ -19,8 +20,16 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..')
 const { validateSchema } = await import(pathToFileURL(path.join(ROOT, 'pipeline/lib/schema.mjs')));
 const { detectLevel } = await import(pathToFileURL(path.join(ROOT, 'pipeline/lib/detectors.mjs')));
 const { validateStory } = await import(pathToFileURL(path.join(ROOT, 'pipeline/lib/validate.mjs')));
+const { lemmaCandidates, tokenizeWords } = await import(pathToFileURL(path.join(ROOT, 'pipeline/lib/tokenize.mjs')));
 
-const APP_REPO = process.env.APP_REPO || path.resolve(ROOT, '../lymia-app');
+const APP_REPO = process.env.APP_REPO || findAppRepo();
+function findAppRepo() {
+  for (let d = path.dirname(ROOT); d !== path.dirname(d); d = path.dirname(d)) {
+    if (existsSync(path.join(d, 'src/services/schemas.ts'))) return d;
+    if (existsSync(path.join(d, 'lymia-app/src/services/schemas.ts'))) return path.join(d, 'lymia-app');
+  }
+  return path.resolve(ROOT, '../lymia-app');
+}
 const appSchemas = path.join(APP_REPO, 'src/services/schemas.ts');
 if (!existsSync(appSchemas)) {
   console.error(`app schemas.ts bulunamadi: ${appSchemas} (APP_REPO env ile ver)`);
@@ -79,14 +88,42 @@ function extractAudit(raw) {
   }
 }
 
-// NGSL kapsam
+// NGSL kapsam. coreCoverage: --exempt ile verilen hikayeye ozgu anahtar kelimeler
+// (lemma eslesmesi) pay ve paydadan cikarilir; ozel isimler zaten sayilmaz.
+const exArg = process.argv.indexOf('--exempt');
+const exemptTerms = exArg !== -1
+  ? process.argv[exArg + 1].split(',').map((t) => t.trim().toLowerCase()).filter(Boolean)
+  : [];
+// Terim ve sozcuk ayni lemmaya iniyorsa muaf: "sisters" terimi "sister"i de kapsar.
+const exempt = new Set(exemptTerms.flatMap((t) => lemmaCandidates(t)));
+// --names: kaynak isimlerinin sozcukleri; buyuk harfle yazildiginda (cumle basinda da) isim sayilir.
+const nmArg = process.argv.indexOf('--names');
+const nameWords = new Set(nmArg !== -1 ? process.argv[nmArg + 1].split(',').filter(Boolean) : []);
+const nameLower = new Set([...nameWords].map((n) => n.toLowerCase()));
+// Ihlal listesi kucuk harfli gelir; tokenlar orijinal harfle. Ikisini de isimle eslestir.
+const isName = (w) => {
+  const b = w.replace(/'s$/, '');
+  return nameWords.has(b) || (b === b.toLowerCase() && nameLower.has(b));
+};
+const isExempt = (w) => isName(w) || lemmaCandidates(w).some((c) => exempt.has(c));
 for (const [lvl, r] of Object.entries(validateStory(story))) {
+  let exemptCount = 0;
+  if (exempt.size) {
+    for (const p of story.levels[lvl].paragraphs) {
+      for (const s of p.sentences) exemptCount += tokenizeWords(s.text).filter(isExempt).length;
+    }
+  }
+  const exemptViol = r.violations.filter((v) => isExempt(v.word)).reduce((n, v) => n + v.count, 0);
+  const coreTotal = r.wordCount - exemptCount;
+  const coreViol = r.violations.reduce((n, v) => n + v.count, 0) - exemptViol;
   out.ngsl[lvl] = {
     coverage: Number(r.coverage.toFixed(4)),
+    coreCoverage: coreTotal > 0 ? Number(((coreTotal - coreViol) / coreTotal).toFixed(4)) : 0,
+    exempt: exemptTerms,
     wordCount: r.wordCount,
     longSentences: r.longSentences.map((s) => `${s.wordCount}>${s.max}: ${s.sentence}`),
     lengthIssue: r.lengthIssue,
-    offPool: r.violations.sort((a, b) => b.count - a.count).slice(0, 25).map((v) => `${v.word}(${v.count})`),
+    offPool: r.violations.filter((v) => !isExempt(v.word)).sort((a, b) => b.count - a.count).slice(0, 25).map((v) => `${v.word}(${v.count})`),
   };
 }
 

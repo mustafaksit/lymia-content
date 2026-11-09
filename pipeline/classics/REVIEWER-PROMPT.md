@@ -11,7 +11,8 @@ file: <REPO>/<BATCH>/reviews/input/<ID>-r<N>.md. Do not open any other file in t
 well-known public-domain classic; judge it against the original literary work as you know it
 (not film versions).
 
-For EACH level (A1, A2, B1, B2, C1) decide PASS or FAIL on these six criteria:
+For EACH level (A1, A2, B1, B2, C1) decide PASS or FAIL on these criteria (1-6 for every level,
+7 for A1 only):
 1. meaning drift (a sentence says something other than intended / contradicts other levels or itself)
 2. unnatural English (would a native-speaking children's author write this? calques, odd
    collocations, stilted "textbook" sentences)
@@ -26,6 +27,11 @@ For EACH level (A1, A2, B1, B2, C1) decide PASS or FAIL on these six criteria:
    violence, murder detail, sexual content or innuendo, alcohol/drugs, suicide, or ethnic/racial
    caricature; deaths, fights and danger may be stated but not depicted; scary elements must stay
    gentle and fairy-tale-like. Any violation is a FAIL for that level.
+7. A1 comprehension (A1 only): would a real A1 learner understand the A1 text without a
+   dictionary, assuming only the character names and the story's 3-5 key words are glossed?
+   Name every word or phrase outside a beginner's vocabulary that blocks understanding of a
+   sentence (idioms, phrasal verbs, abstract or literary words) and give a simpler replacement.
+   If more than a handful of such words remain, A1 FAILS.
 Fail only for concrete problems a reader would actually stumble on. For every problem quote the
 exact sentence and give a concrete fix. Minor taste preferences go under "notes", not failures.
 

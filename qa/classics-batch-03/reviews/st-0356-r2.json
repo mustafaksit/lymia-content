@@ -1,0 +1,48 @@
+{
+  "id": "st-0356",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Our friends come soon with food.\" reads slightly non-native (present simple for a future event). A natural option within present-simple limits: \"Our friends are on the way with food.\"",
+        "\"Soon they heard a lot of people.\" You hear voices, not people. Suggest: \"Soon they heard many voices.\"",
+        "\"As boys, they often visited Aunt Gertrude.\" Simpler: \"When they were boys, they often visited Aunt Gertrude.\"",
+        "A1 comprehension: \"give up\" (phrasal verb, used 3 times) is the only real blocker. It is common enough, but it could be glossed or clarified once, e.g. \"Please give up! Open the city to the army!\" \"Everything went black\" is understandable from context. That leaves too few problem words to fail the level.",
+        "Small repetition: \"Harry and Robert waited by the clock... Harry and Robert went to look.\" Use \"They went to look.\""
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Same as A1: \"Our friends come soon with food.\" Suggest \"Our friends are on the way with food.\""
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"in the hardest years of this city\" is a little stiff. Suggest \"in the hardest years this city ever saw\" or \"in the city's hardest years\".",
+        "\"Wait a little longer, and Leiden will be free.\" is an imperative plus 'and' that works like a conditional. It is not an if-clause, so it is acceptable, but it sits close to the B1 limit."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The kind eyes, the lines around the mouth, the way he tilted his head: it was the face of...\" A head tilt is not part of a face. This is a minor taste point; \"it was Professor Van Stopp\" would avoid it."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Quiz 3 asks what the cousins did \"while\" the professor turned the hands. In the text they put their hands on the clock just before he turned them, but they keep them there, so the keyed answer holds and the other options are clearly wrong."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels tell the same story, consistently and in the right order: the backward clock, Aunt Gertrude's warning, Leiden, Professor Van Stopp, the 1574 siege, and the reveal that the mayor is the professor. This follows Mitchell's tale and softens the siege for children, leaving out the mayor's grim offer of his own body. Grammar fits each level, all quiz keys are correct and unambiguous, and nothing goes beyond a 4+ rating. Only small phrasing notes remain."
+}

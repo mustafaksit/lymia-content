@@ -1,0 +1,62 @@
+{
+  "id": "st-0331",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Ali looked for Nouronnihar in his tube.\" 'look for X in a tube' can read as if she were inside the tube; consider \"Ali looked through his tube. He saw Nouronnihar.\"",
+        "\"Ahmed's arrow went out of view.\" 'out of view' is slightly above A1; \"Ahmed's arrow flew very far. Nobody could see it.\" is simpler.",
+        "\"send an arrow\" (also in A2) is understandable but 'shoot an arrow' is the natural verb; acceptable if 'shoot' is deliberately avoided.",
+        "Remaining harder phrases ('in a moment', 'at once', 'farthest') are few and inferable; A1 comprehension is fine."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The tube showed you her trouble,\" 'her trouble' is a little vague; \"The tube showed you that she was ill\" is clearer."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "2. unnatural English / 1. meaning drift",
+          "quote": "\"Without the tube, you did not know about her illness,\" he said. \"Without the carpet, you could not arrive in time. And without the apple, she could not live.\"",
+          "problem": "To avoid conditionals the counterfactual was put in past simple, so the sentences literally state facts that are false (they DID know, they DID arrive, she DID live). No native speaker says 'Without the tube, you did not know'; a reader stumbles on the contradiction.",
+          "fix": "\"The tube told you about her illness,\" he said. \"The carpet brought you home in time. And the apple saved her life. Each gift was needed, so I cannot choose between them.\""
+        },
+        {
+          "criterion": "1. meaning drift",
+          "quote": "He wished for the palace, and in a moment they arrived in her room.",
+          "problem": "'wish for the palace' means wanting to own the palace, not wanting to travel there.",
+          "fix": "He thought of the palace, and in a moment they arrived in her room."
+        }
+      ],
+      "notes": []
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error",
+          "quote": "Ahmed, who had lost Nouronnihar only that morning, found that his sorrow had completely gone.",
+          "problem": "The contest ended in the evening after servants searched until dark, and the wedding came 'soon afterwards'; Ahmed searches while the wedding takes place, so he cannot have lost Nouronnihar 'that morning'. The timeline contradicts itself.",
+          "fix": "Ahmed, who had lost Nouronnihar only days before, found that his sorrow had completely gone."
+        }
+      ],
+      "notes": []
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"he set off for the inn with his treasure as well\" - 'as well' dangles slightly; 'he too set off for the inn with his treasure' reads better."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling of the first part of the Arabian Nights tale (Bisnagar carpet, ivory tube, artificial apple, archery contest, Houssain becoming a holy man, Ahmed finding Peri Banou behind the iron door), stopping at the marriage. A1, A2 and C1 pass. B1 fails because the sultan's speech uses past simple for counterfactuals, which states false facts, and B2 fails on a timeline contradiction ('lost Nouronnihar only that morning')."
+}

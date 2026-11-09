@@ -1,0 +1,79 @@
+{
+  "id": "st-0332",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error",
+          "quote": "\"Always be true to me,\" said Hosmer. \"Wait for me, Mary.\" Mary and her mother got into a cab. Hosmer got into a second cab. At the church, the second cab stopped.",
+          "problem": "The A1 text never says that this is the wedding day. The story jumps from the promise to two cabs and a church, so the reader does not know why they are going to church or that Hosmer vanished on the morning of the wedding. That is the core event of the story, and the summary, A2 and the other levels all state it.",
+          "fix": "Add a time marker: \"Then the wedding day came. Mary and her mother got into a cab. Hosmer got into a second cab.\""
+        }
+      ],
+      "notes": [
+        "\"Always be true to me\" uses 'true' to mean 'faithful', which an A1 learner may not know. \"Always love me\" or \"Never forget me\" is simpler. This is the only real vocabulary blocker, so criterion 7 passes.",
+        "\"Mary had her own money every year.\" is a little stiff. \"Mary got some money every year.\" reads more naturally.",
+        "\"He typed even his name at the end.\" has awkward word order. \"He typed his name at the end too.\" is better.",
+        "\"His voice was very low.\" can mean deep or quiet. The original has a whisper, so \"He spoke very quietly.\" is clearer.",
+        "'cab' may be less familiar to A1 learners than 'taxi'. Consider glossing it."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "2. unnatural English / 3. level mismatch",
+          "quote": "Soon Hosmer and Mary walked out together in the evenings.",
+          "problem": "'Walk out (together)' in the sense of courting is an old-fashioned idiom. To an A2 learner, 'walk out' means 'leave', often angrily, so they will misread the sentence.",
+          "fix": "\"Soon Hosmer and Mary went for walks together in the evenings.\""
+        },
+        {
+          "criterion": "4. logic error (unclear who is speaking)",
+          "quote": "\"Why does a man type his own name, Watson?\" asked Holmes. \"He does not want Mary to see his real writing.\"",
+          "problem": "The second line has no speech tag. Holmes has just addressed Watson, so the reader will naturally take the answer as Watson's, but it is Holmes's deduction.",
+          "fix": "\"Why does a man type his own name, Watson?\" asked Holmes. Then he answered his own question. \"He does not want Mary to see his real writing.\""
+        }
+      ],
+      "notes": [
+        "\"Yes, she helped him,\" said Holmes. \"And he got out of the cab by the other door.\" The cab detail is tacked onto the answer about the mother, and no one asked about it. It would read better if Watson first asked \"And the empty cab?\"",
+        "Within each level the cab set-up is consistent, but in the original Hosmer comes in one cab and takes the only other one in the street. \"Got into a second cab\" is an acceptable simplification."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"they were walking out together in the evenings\" uses the same old-fashioned courting idiom. Context makes it understandable at B1, but \"going for walks together\" is clearer.",
+        "Holmes writes to Mr. Windibank's company, but B1 never says what the company answered, so that thread is left hanging. Either drop that letter or add one line such as \"His company's answer told me the rest.\"",
+        "\"Why would a man type his own name? Because Mary would know his real handwriting.\" implies a hypothetical but is not a formal conditional. It is acceptable for B1."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"the two began to walk out together\" is old-fashioned but fine at B2.",
+        "This is a faithful and well-paced condensation. The hunting crop is softened to Holmes simply rising, which is appropriate for a 4+ rating."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error (unclear who is speaking)",
+          "quote": "He was through the door and clattering down the stairs before another word was spoken. \"That fellow will go from one cold scheme to the next until one of them ruins him,\" he said.",
+          "problem": "The nearest 'he' is Mr. Windibank, who has just run out. The following 'he said' therefore grammatically points to Windibank, but the line belongs to Holmes.",
+          "fix": "\"That fellow will go from one cold scheme to the next until one of them ruins him,\" Holmes said."
+        }
+      ],
+      "notes": [
+        "\"She was a good-natured young woman ... \"Do you not find,\" he asked\": 'he' has no antecedent in this paragraph, where the only subject so far is Mary. It is resolvable, but \"Holmes asked\" would be cleaner.",
+        "The prose is genuinely literary, and the period details (plumber father, the hansom and the four-wheeler, the chemical smell, the faulty E and tailless R, 'ten years at least') are faithful. The gallows line is softened appropriately."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling is faithful to Conan Doyle's story at every level, suitable for a 4+ rating, and grammatically within level limits. Three levels fail on concrete readability problems. A1 never says the cab scene is the wedding day. A2 uses the misleading idiom 'walked out together' and has an untagged line of Holmes's speech. In C1, the line 'he said' after Windibank exits points to the wrong speaker."
+}

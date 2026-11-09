@@ -1,0 +1,49 @@
+{
+  "id": "st-0369",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"One year was very far away for her.\" is slightly unidiomatic; \"One year was a long time for her.\" reads more naturally and stays A1.",
+        "\"He marries tomorrow.\" is acceptable given the A1 tense limits, but \"His wedding is tomorrow.\" is more natural and equally simple.",
+        "\"Her father agreed.\" does not say what he agreed to; \"Her father agreed to the marriage.\" would make it clearer.",
+        "The fairy says \"She cannot think well,\" and later the text says \"she could not talk well.\" Using \"think\" both times would be more consistent, though the meaning is still clear.",
+        "A1 vocabulary is within reach. Words like mind, good-looking, true love, share and power are early A2 at most and are clear from context. No sentence is blocked."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"just as Ricky planned\" would normally be \"had planned\". The past perfect is not allowed at A2, so \"just as Ricky wanted\" would avoid the slightly odd tense."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"just as Ricky planned it long before\" sounds off to a native ear. \"just as Ricky had planned long before\" is natural, and the past perfect is not restricted at B1.",
+        "\"He saw her pictures at home and fell in love with them. So he left his father's kingdom\" would read more smoothly as \"He had seen her pictures at home...\". This is optional."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"to calm the queen's joy\" is a slightly odd collocation; \"to temper the queen's joy\" or \"to cool the queen's joy\" is more idiomatic."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Quiz Q3: the keyed answer is much longer and more detailed than the distractors, which gives it away. Consider shortening it to \"She had made it while she was still foolish.\"",
+        "\"The king, who knew his daughter's high regard for Ricky and the prince's wisdom\" parses awkwardly. \"The king, who knew both how highly his daughter thought of Ricky and how wise the prince was\" is clearer."
+      ]
+    }
+  },
+  "overall": "PASS",
+  "summary": "All five levels faithfully retell Perrault's 'Riquet à la houppe': the two fairy gifts, the princess's promise in the wood, the underground kitchen, the forgotten promise, the debate and the transformation that may have been love. Grammar matches each level, the quizzes are keyed correctly with one defensible answer each, and the content suits a 4+ rating. Only minor phrasing notes remain."
+}

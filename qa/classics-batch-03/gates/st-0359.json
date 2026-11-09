@@ -1,0 +1,636 @@
+{
+  "id": "st-0359",
+  "title": "Baucis and Philemon",
+  "ts": "2026-10-30T10:24:24",
+  "node": {
+    "id": "st-0359",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %88.3 | 324 kelime\n    havuz dışı: wife(1), poor(1), hill(2), village(3), travelers(4), traveler(4), bread(3), pitcher(5), milk(6), drank(1), lake(1), fish(1), swam(1), gods(2), palace(1), trees(2)",
+        "level A2: A2: KALDI | kapsam %93.7 | 506 kelime\n    havuz dışı: hill(3), travelers(6), bread(3), honey(1), grapes(1), pitcher(5), milk(7), lake(1), swam(1), gods(2), palace(1), neither(1)",
+        "level B2: B2: KALDI | kapsam %94.4 | 971 kelime\n    havuz dışı: cottage(6), unhappy(1), travelers(4), scorn(1), dusty(1), rude(1), barking(2), heels(1), unkindness(1), supper(1), slim(1), companion(1), hungry(1), cheerful(1), stern(1), thoughtful(1), loaf(1), honey(2), grapes(2), earthen(1), politely(1), amazement(1), creamy(1), brim(1), stale(1), oven(1), jewels(1), peeped(1), vanished(1), peaceful(1), unkind(1), villagers(1), gasped(1), humble(1), magnificent(1), palace(3), marble(2), oak(1), linden(1), breeze(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8827,
+        "coreCoverage": 0.9326,
+        "exempt": [
+          "pitcher",
+          "milk",
+          "travelers"
+        ],
+        "wordCount": 324,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "village(3)",
+          "bread(3)",
+          "hill(2)",
+          "gods(2)",
+          "trees(2)",
+          "wife(1)",
+          "poor(1)",
+          "drank(1)",
+          "lake(1)",
+          "fish(1)",
+          "swam(1)",
+          "palace(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9368,
+        "coreCoverage": 0.9692,
+        "exempt": [
+          "pitcher",
+          "milk",
+          "travelers"
+        ],
+        "wordCount": 506,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "hill(3)",
+          "bread(3)",
+          "gods(2)",
+          "honey(1)",
+          "grapes(1)",
+          "lake(1)",
+          "swam(1)",
+          "palace(1)",
+          "neither(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.953,
+        "coreCoverage": 0.9611,
+        "exempt": [
+          "pitcher",
+          "milk",
+          "travelers"
+        ],
+        "wordCount": 744,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cottage(4)",
+          "unkind(2)",
+          "bread(2)",
+          "grapes(2)",
+          "palace(2)",
+          "strangers(1)",
+          "rude(1)",
+          "barked(1)",
+          "heels(1)",
+          "supper(1)",
+          "barking(1)",
+          "clever(1)",
+          "cheese(1)",
+          "honey(1)",
+          "kindness(1)",
+          "marble(1)",
+          "gods(1)",
+          "oak(1)",
+          "linden(1)",
+          "whisper(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9444,
+        "coreCoverage": 0.9457,
+        "exempt": [
+          "pitcher",
+          "milk",
+          "travelers"
+        ],
+        "wordCount": 971,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cottage(6)",
+          "palace(3)",
+          "barking(2)",
+          "honey(2)",
+          "grapes(2)",
+          "marble(2)",
+          "unhappy(1)",
+          "scorn(1)",
+          "dusty(1)",
+          "rude(1)",
+          "heels(1)",
+          "unkindness(1)",
+          "supper(1)",
+          "slim(1)",
+          "companion(1)",
+          "hungry(1)",
+          "cheerful(1)",
+          "stern(1)",
+          "thoughtful(1)",
+          "loaf(1)",
+          "earthen(1)",
+          "politely(1)",
+          "amazement(1)",
+          "creamy(1)",
+          "brim(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9253,
+        "coreCoverage": 0.9238,
+        "exempt": [
+          "pitcher",
+          "milk",
+          "travelers"
+        ],
+        "wordCount": 1352,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cottage(4)",
+          "palace(3)",
+          "earthen(2)",
+          "supper(2)",
+          "honey(2)",
+          "grapes(2)",
+          "humble(2)",
+          "vanished(2)",
+          "marble(2)",
+          "dawn(1)",
+          "dusk(1)",
+          "soured(1)",
+          "crust(1)",
+          "prosperous(1)",
+          "handsome(1)",
+          "kindness(1)",
+          "nuisance(1)",
+          "contempt(1)",
+          "dusty(1)",
+          "hurling(1)",
+          "insults(1)",
+          "barked(1)",
+          "heels(1)",
+          "scolding(1)",
+          "doorways(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 324,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.31,
+      "lowZipfRatio": 0.0035,
+      "lowZipfWords": [
+        "swam"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 506,
+      "sentLenMedian": 10.0,
+      "zipfMedian": 6.17,
+      "lowZipfRatio": 0.0022,
+      "lowZipfWords": [
+        "swam"
+      ],
+      "keyTermTokens": 18,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 744,
+      "sentLenMedian": 11.0,
+      "zipfMedian": 6.03,
+      "lowZipfRatio": 0.0085,
+      "lowZipfWords": [
+        "barked",
+        "linden",
+        "swam",
+        "sweeter",
+        "unkind"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 971,
+      "sentLenMedian": 16,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0216,
+      "lowZipfWords": [
+        "amazement",
+        "brim",
+        "creamy",
+        "earthen",
+        "emptied",
+        "gasped",
+        "linden",
+        "loaf",
+        "nearer",
+        "peeped",
+        "politely",
+        "scorn",
+        "shone",
+        "stale",
+        "stirred",
+        "swam",
+        "unkind",
+        "unkindness",
+        "warmly",
+        "whispered"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1352,
+      "sentLenMedian": 22,
+      "zipfMedian": 5.91,
+      "lowZipfRatio": 0.0421,
+      "lowZipfWords": [
+        "astonishment",
+        "awkwardly",
+        "barked",
+        "bracing",
+        "brimmed",
+        "brimming",
+        "bursting",
+        "coldly",
+        "creamy",
+        "doorways",
+        "dreaded",
+        "dusk",
+        "earthen",
+        "evening's",
+        "fragrant",
+        "frail",
+        "furiously",
+        "gazed",
+        "gentler",
+        "gleaming",
+        "glided",
+        "glittered",
+        "glowed",
+        "graceful",
+        "grieve",
+        "gulp",
+        "hurling",
+        "jeered",
+        "kitchens",
+        "linden",
+        "loaf",
+        "mischievous",
+        "murmur",
+        "nearer",
+        "passer",
+        "peeped",
+        "plainly",
+        "politeness",
+        "remarking",
+        "scarcely",
+        "scolding",
+        "shading",
+        "shrieking",
+        "solemn",
+        "soured",
+        "stale",
+        "stirred",
+        "stocked",
+        "sturdy",
+        "sweetness",
+        "swelled",
+        "tilted",
+        "wanderers",
+        "whispered"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8827,
+      "coreCoverage": 0.9326,
+      "exempt": [
+        "pitcher",
+        "milk",
+        "travelers"
+      ],
+      "wordCount": 324,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "village(3)",
+        "bread(3)",
+        "hill(2)",
+        "gods(2)",
+        "trees(2)",
+        "wife(1)",
+        "poor(1)",
+        "drank(1)",
+        "lake(1)",
+        "fish(1)",
+        "swam(1)",
+        "palace(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9368,
+      "coreCoverage": 0.9692,
+      "exempt": [
+        "pitcher",
+        "milk",
+        "travelers"
+      ],
+      "wordCount": 506,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "hill(3)",
+        "bread(3)",
+        "gods(2)",
+        "honey(1)",
+        "grapes(1)",
+        "lake(1)",
+        "swam(1)",
+        "palace(1)",
+        "neither(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.953,
+      "coreCoverage": 0.9611,
+      "exempt": [
+        "pitcher",
+        "milk",
+        "travelers"
+      ],
+      "wordCount": 744,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cottage(4)",
+        "unkind(2)",
+        "bread(2)",
+        "grapes(2)",
+        "palace(2)",
+        "strangers(1)",
+        "rude(1)",
+        "barked(1)",
+        "heels(1)",
+        "supper(1)",
+        "barking(1)",
+        "clever(1)",
+        "cheese(1)",
+        "honey(1)",
+        "kindness(1)",
+        "marble(1)",
+        "gods(1)",
+        "oak(1)",
+        "linden(1)",
+        "whisper(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9444,
+      "coreCoverage": 0.9457,
+      "exempt": [
+        "pitcher",
+        "milk",
+        "travelers"
+      ],
+      "wordCount": 971,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cottage(6)",
+        "palace(3)",
+        "barking(2)",
+        "honey(2)",
+        "grapes(2)",
+        "marble(2)",
+        "unhappy(1)",
+        "scorn(1)",
+        "dusty(1)",
+        "rude(1)",
+        "heels(1)",
+        "unkindness(1)",
+        "supper(1)",
+        "slim(1)",
+        "companion(1)",
+        "hungry(1)",
+        "cheerful(1)",
+        "stern(1)",
+        "thoughtful(1)",
+        "loaf(1)",
+        "earthen(1)",
+        "politely(1)",
+        "amazement(1)",
+        "creamy(1)",
+        "brim(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9253,
+      "coreCoverage": 0.9238,
+      "exempt": [
+        "pitcher",
+        "milk",
+        "travelers"
+      ],
+      "wordCount": 1352,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cottage(4)",
+        "palace(3)",
+        "earthen(2)",
+        "supper(2)",
+        "honey(2)",
+        "grapes(2)",
+        "humble(2)",
+        "vanished(2)",
+        "marble(2)",
+        "dawn(1)",
+        "dusk(1)",
+        "soured(1)",
+        "crust(1)",
+        "prosperous(1)",
+        "handsome(1)",
+        "kindness(1)",
+        "nuisance(1)",
+        "contempt(1)",
+        "dusty(1)",
+        "hurling(1)",
+        "insults(1)",
+        "barked(1)",
+        "heels(1)",
+        "scolding(1)",
+        "doorways(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9326,
+    "A2": 0.9692
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "die": 4
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.045,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0244",
+        "title": "The Diamond Maker",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.045,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0311",
+        "title": "The Crystal Egg",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.038,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0297",
+        "title": "The Canterville Ghost",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

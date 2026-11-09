@@ -1,0 +1,84 @@
+{
+  "id": "st-0356",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "Harry ran through the city with the letter. At last, he found the leader.",
+          "problem": "In Edward Page Mitchell's 'The Clock That Went Backward' (1881), as this reviewer remembers it, the time-travellers do not change history by carrying a letter. The climax is a recognition: during the siege the cousins see the burgomaster (Van der Werf) refuse to surrender to the starving crowd, and they realise he has the face of Professor Van Stopp. The professor is the clock's real owner, and the paradox closes the story. The retelling drops that reveal and invents a 'Harry delivers the letter, we helped Leiden' ending, which changes the main event and the ending. (Reviewer confidence in the details of the original: moderate. Please check against the source text.)",
+          "fix": "Keep the frame. At the siege, have the cousins see the city's leader tell the hungry people 'We will not give up.' Harry looks at his face: it is Professor Van Stopp's face. Back in the room, the professor is gone or only smiles, and the cousins understand that the clock was his. Leave out the burgomaster's historical 'take my body' offer for 4+ suitability."
+        }
+      ],
+      "notes": [
+        "\"In that year, Leiden had a siege.\" is slightly unnatural; prefer \"In that year, there was a siege at Leiden.\"",
+        "\"But he was too tired to walk.\" comes right after he walks in through the door; \"He sat down. He was very tired.\" reads more logically.",
+        "Vocabulary is otherwise within A1 once 'siege' is glossed; no blocking words found beyond 'leader' (acceptable) and 'Everything went black' (clear from context).",
+        "Aunt Gertrude leaving the clock to both cousins by will may also differ from the original, where the clock's fate after her death is part of the mystery. Verify against the source."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "Harry ran through the streets with the letter. ... \"Yes,\" he said. \"We helped Leiden.\"",
+          "problem": "Same as A1: the original's central reveal (the besieged city's burgomaster is Professor Van Stopp) is missing, and an invented letter-carrying climax replaces it. (Reviewer confidence: moderate.)",
+          "fix": "Replace the letter errand with the cousins watching the leader refuse to give up and recognising Professor Van Stopp's face. End on that recognition."
+        }
+      ],
+      "notes": [
+        "\"It came from Holland, many years before.\" is a little stiff; \"It came from Holland many years ago.\"",
+        "\"Aunt Gertrude cared for the clock like a child.\" can mean that she acted like a child; \"like her own child\" is clearer."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "My book says that a single letter kept their hope alive.",
+          "problem": "This sets up the invented letter climax. In the original, the key moment is the burgomaster's refusal to surrender and the cousins recognising him as Van Stopp. (Reviewer confidence: moderate.)",
+          "fix": "Have the book say that the city's brave leader kept their hope alive. Pay this off with the recognition scene."
+        }
+      ],
+      "notes": [
+        "\"It does not only count time backward.\" is a little unnatural; prefer \"It does more than count time backward.\"",
+        "In the paragraph with \"My book says...\", the professor speaks twice and the second quote gets a fresh attribution (\"the professor asked the two young men\"). This is fine, but it could be merged."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "Inside he found the mayor, the leader of the city, a tired man with a gray face and kind eyes.",
+          "problem": "The text meets the mayor (burgomaster) but misses the original's key point: his face is Professor Van Stopp's. The ending 'we helped Leiden' replaces the original's reveal. (Reviewer confidence: moderate.)",
+          "fix": "When Harry or the cousins see the mayor, have them recognise Van Stopp's face; build the ending around that. Remove or reduce Harry's letter errand."
+        }
+      ],
+      "notes": [
+        "Quiz Q3 ('Who was the leader of the city?') would need updating if the reveal is restored, since 'Professor Van Stopp' then becomes a defensible answer."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "5. fidelity to the original work",
+          "quote": "\"It happened, and in our own small way, we helped Leiden.\"",
+          "problem": "Same fidelity gap: the original's paradox (Van Stopp is the burgomaster Van der Werf, and the backward clock is his) is the story's point and is absent. (Reviewer confidence: moderate.)",
+          "fix": "Restore the recognition of the burgomaster as Van Stopp and close on the cousins' realisation. The prose quality can stay as it is."
+        }
+      ],
+      "notes": [
+        "The prose is genuinely literary and not padded; language, register and quiz are all fine.",
+        "There is no age-suitability problem at any level: hunger and exhaustion are stated gently, and nothing is graphic."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "Language, level control, internal logic, quizzes and 4+ suitability are sound at all five levels. All levels fail on fidelity: as the reviewer recalls Mitchell's 1881 story, its climax is the cousins recognising the besieged city's burgomaster as Professor Van Stopp, and that reveal is replaced by an invented letter-delivery ending. Reviewer confidence in the source details is moderate; check against the original text before rewriting."
+}

@@ -1,0 +1,617 @@
+{
+  "id": "st-0353",
+  "title": "The Truth About Pyecraft",
+  "ts": "2026-10-30T10:24:15",
+  "node": {
+    "id": "st-0353",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %92.3 | 326 kelime\n    havuz dışı: club(2), round(2), recipes(2), recipe(3), weight(4), message(1), voice(1), ceiling(1), can't(1), size(1), air(1), pulled(1), floor(2), clothes(2), wore(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9233,
+        "coreCoverage": 0.9498,
+        "exempt": [
+          "recipe",
+          "ceiling",
+          "weight",
+          "lead"
+        ],
+        "wordCount": 326,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "club(2)",
+          "round(2)",
+          "floor(2)",
+          "clothes(2)",
+          "message(1)",
+          "voice(1)",
+          "can't(1)",
+          "size(1)",
+          "air(1)",
+          "pulled(1)",
+          "wore(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9679,
+        "coreCoverage": 0.9883,
+        "exempt": [
+          "recipe",
+          "ceiling",
+          "weight",
+          "lead"
+        ],
+        "wordCount": 467,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "cooking(1)",
+          "strange(1)",
+          "careful(1)",
+          "empty(1)",
+          "can't(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9593,
+        "coreCoverage": 0.9681,
+        "exempt": [
+          "recipe",
+          "ceiling",
+          "weight",
+          "lead"
+        ],
+        "wordCount": 688,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "grandmother(3)",
+          "leather(2)",
+          "can't(2)",
+          "fond(1)",
+          "pudding(1)",
+          "clever(1)",
+          "hurried(1)",
+          "telegram(1)",
+          "heaven's(1)",
+          "sake(1)",
+          "floating(1)",
+          "pink(1)",
+          "unhappy(1)",
+          "weigh(1)",
+          "tightly(1)",
+          "floated(1)",
+          "underclothes(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9613,
+        "coreCoverage": 0.9698,
+        "exempt": [
+          "recipe",
+          "ceiling",
+          "weight",
+          "lead"
+        ],
+        "wordCount": 956,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "i've(2)",
+          "begged(2)",
+          "sewn(2)",
+          "underclothes(2)",
+          "armchairs(1)",
+          "endlessly(1)",
+          "fond(1)",
+          "third(1)",
+          "pudding(1)",
+          "they're(1)",
+          "dread(1)",
+          "unkind(1)",
+          "uneasy(1)",
+          "telegram(1)",
+          "heaven's(1)",
+          "unlocked(1)",
+          "unhappy(1)",
+          "balloon(1)",
+          "embarrassment(1)",
+          "can't(1)",
+          "clung(1)",
+          "drifted(1)",
+          "armchair(1)",
+          "undo(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9355,
+        "coreCoverage": 0.9412,
+        "exempt": [
+          "recipe",
+          "ceiling",
+          "weight",
+          "lead"
+        ],
+        "wordCount": 1303,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "i've(2)",
+          "dining(2)",
+          "unlocked(2)",
+          "sewn(2)",
+          "underclothes(2)",
+          "armchairs(1)",
+          "rustling(1)",
+          "linger(1)",
+          "gloriously(1)",
+          "third(1)",
+          "pudding(1)",
+          "fourth(1)",
+          "careless(1)",
+          "suspicion(1)",
+          "alarmingly(1)",
+          "onward(1)",
+          "whatsoever(1)",
+          "elbow(1)",
+          "murmur(1)",
+          "sincerity(1)",
+          "pleaded(1)",
+          "flattered(1)",
+          "hopeful(1)",
+          "spoil(1)",
+          "appetite(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": "and he always ordered a second pudding. He liked to sit near me and talk, although"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": " the key to paradise.  For several days afterwards Pyecraft was nowhere to be seen, and th"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 326,
+      "sentLenMedian": 6,
+      "zipfMedian": 6.18,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 467,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.29,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 20,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 688,
+      "sentLenMedian": 12.0,
+      "zipfMedian": 6.19,
+      "lowZipfRatio": 0.0061,
+      "lowZipfWords": [
+        "floated",
+        "heaven's",
+        "hurried",
+        "underclothes"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 956,
+      "sentLenMedian": 15.0,
+      "zipfMedian": 6.12,
+      "lowZipfRatio": 0.0195,
+      "lowZipfWords": [
+        "armchair",
+        "armchairs",
+        "carpets",
+        "clung",
+        "drifted",
+        "endlessly",
+        "grandmother's",
+        "heaven's",
+        "heaviest",
+        "hurried",
+        "sewn",
+        "sighed",
+        "underclothes",
+        "uneasy",
+        "unkind",
+        "warmly"
+      ],
+      "keyTermTokens": 17,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1303,
+      "sentLenMedian": 22,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0338,
+      "lowZipfWords": [
+        "alarmingly",
+        "armchair",
+        "armchairs",
+        "astonished",
+        "clung",
+        "deliberation",
+        "dreading",
+        "drifted",
+        "exhaustion",
+        "flattered",
+        "floated",
+        "gloriously",
+        "grandmother's",
+        "heaven's",
+        "heaviest",
+        "hurried",
+        "lettering",
+        "linger",
+        "loosened",
+        "murmur",
+        "nagging",
+        "neatly",
+        "onward",
+        "patiently",
+        "reappeared",
+        "rustling",
+        "serenely",
+        "sewn",
+        "sighed",
+        "sincerity",
+        "spacious",
+        "stillness",
+        "talker",
+        "twinge",
+        "underclothes",
+        "undoing",
+        "unease",
+        "unkind",
+        "weightlessly",
+        "wretched"
+      ],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9233,
+      "coreCoverage": 0.9498,
+      "exempt": [
+        "recipe",
+        "ceiling",
+        "weight",
+        "lead"
+      ],
+      "wordCount": 326,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "club(2)",
+        "round(2)",
+        "floor(2)",
+        "clothes(2)",
+        "message(1)",
+        "voice(1)",
+        "can't(1)",
+        "size(1)",
+        "air(1)",
+        "pulled(1)",
+        "wore(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9679,
+      "coreCoverage": 0.9883,
+      "exempt": [
+        "recipe",
+        "ceiling",
+        "weight",
+        "lead"
+      ],
+      "wordCount": 467,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "cooking(1)",
+        "strange(1)",
+        "careful(1)",
+        "empty(1)",
+        "can't(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9593,
+      "coreCoverage": 0.9681,
+      "exempt": [
+        "recipe",
+        "ceiling",
+        "weight",
+        "lead"
+      ],
+      "wordCount": 688,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "grandmother(3)",
+        "leather(2)",
+        "can't(2)",
+        "fond(1)",
+        "pudding(1)",
+        "clever(1)",
+        "hurried(1)",
+        "telegram(1)",
+        "heaven's(1)",
+        "sake(1)",
+        "floating(1)",
+        "pink(1)",
+        "unhappy(1)",
+        "weigh(1)",
+        "tightly(1)",
+        "floated(1)",
+        "underclothes(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9613,
+      "coreCoverage": 0.9698,
+      "exempt": [
+        "recipe",
+        "ceiling",
+        "weight",
+        "lead"
+      ],
+      "wordCount": 956,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "i've(2)",
+        "begged(2)",
+        "sewn(2)",
+        "underclothes(2)",
+        "armchairs(1)",
+        "endlessly(1)",
+        "fond(1)",
+        "third(1)",
+        "pudding(1)",
+        "they're(1)",
+        "dread(1)",
+        "unkind(1)",
+        "uneasy(1)",
+        "telegram(1)",
+        "heaven's(1)",
+        "unlocked(1)",
+        "unhappy(1)",
+        "balloon(1)",
+        "embarrassment(1)",
+        "can't(1)",
+        "clung(1)",
+        "drifted(1)",
+        "armchair(1)",
+        "undo(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9355,
+      "coreCoverage": 0.9412,
+      "exempt": [
+        "recipe",
+        "ceiling",
+        "weight",
+        "lead"
+      ],
+      "wordCount": 1303,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "i've(2)",
+        "dining(2)",
+        "unlocked(2)",
+        "sewn(2)",
+        "underclothes(2)",
+        "armchairs(1)",
+        "rustling(1)",
+        "linger(1)",
+        "gloriously(1)",
+        "third(1)",
+        "pudding(1)",
+        "fourth(1)",
+        "careless(1)",
+        "suspicion(1)",
+        "alarmingly(1)",
+        "onward(1)",
+        "whatsoever(1)",
+        "elbow(1)",
+        "murmur(1)",
+        "sincerity(1)",
+        "pleaded(1)",
+        "flattered(1)",
+        "hopeful(1)",
+        "spoil(1)",
+        "appetite(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9498,
+    "A2": 0.9883
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0139",
+        "title": "The Bremen Town Musicians",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0205",
+        "title": "The Firebird",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

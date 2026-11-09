@@ -1,0 +1,78 @@
+{
+  "id": "st-0369",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "1. meaning drift",
+          "quote": "\"Then I give you my power,\" she said.",
+          "problem": "In Perrault, and in every other level here, the princess uses her gift on Ricky by wishing him handsome. She does not hand the power over to him. An A1 reader will understand that Ricky now has her power, which contradicts the next sentence and the other levels.",
+          "fix": "\"Then I want you to be good-looking,\" she said."
+        },
+        {
+          "criterion": "7. A1 comprehension",
+          "quote": "Ricky said, \"I keep my word. Are you here to keep your promise?\"",
+          "problem": "'keep my word' is an idiom. A beginner will not know it.",
+          "fix": "Ricky said, \"I do what I say. Are you here to keep your promise?\""
+        },
+        {
+          "criterion": "7. A1 comprehension",
+          "quote": "But her words often made no sense.",
+          "problem": "'made no sense' is an idiomatic phrase that is above A1.",
+          "fix": "But she often said silly things."
+        },
+        {
+          "criterion": "7. A1 comprehension",
+          "quote": "At once, she could think very well. / At once, Ricky looked very good to her.",
+          "problem": "'At once' is a fixed phrase that beginners often don't know. Also, 'looked very good' is vague. It could mean healthy or well-dressed rather than handsome.",
+          "fix": "\"Right then, she could think very well.\" / \"Right then, Ricky was very good-looking to her.\""
+        },
+        {
+          "criterion": "7. A1 comprehension",
+          "quote": "So his face did not matter to her.",
+          "problem": "This is the abstract use of 'matter', which is not A1 vocabulary.",
+          "fix": "So she did not think about his face."
+        }
+      ],
+      "notes": [
+        "\"He saw her picture and loved her.\" comes right after the forest meeting, so a reader may think he saw the picture in the forest. Consider: \"He saw her picture at home before, and he loved her.\"",
+        "\"A year seemed very long to her.\" Simpler: \"One year was very far away for her.\""
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"He saw pictures of the princess at home and loved her.\" 'at home' is unclear: whose home? Consider \"In his country, he saw pictures of the princess and loved her.\"",
+        "\"I want a great mind like yours\" comes before the text shows them talking. Adding \"They talked for a while.\" first would make it smoother."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"She wanted to give away all her beauty for half of her sister's mind.\" 'give up' or 'trade' is more natural than 'give away ... for'.",
+        "\"Ricky almost believed that he gave her more mind than he kept for himself.\" This is slightly awkward. Consider \"...that she now had more mind than he did.\"",
+        "\"when you were born\" is a fixed lexical form and acceptable at B1 despite the no-passive rule."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"to calm the queen's joy, she made a warning\": 'gave a warning' is the natural collocation."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "This is a faithful, literary retelling of Perrault's tale, including the courtiers' fear for the queen's joy, the council held in the princess's rooms, the underground kitchen and the 'love alone' ending."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "This is a faithful retelling of Perrault's 'Riquet a la houppe'. A2 to C1 are natural, accurate, level-appropriate and suitable for ages 4+, and all quiz keys are correct. A1 fails for one reason: it says the princess 'gives' Ricky her power instead of wishing him handsome, which changes the meaning. It also has several idioms that block a beginner ('keep my word', 'made no sense', 'at once', 'did not matter')."
+}

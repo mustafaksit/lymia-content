@@ -1,0 +1,59 @@
+{
+  "id": "st-0327",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Put your head down to it!\" is a bit odd for a native writer. Consider \"Bow your head to it!\" or just drop the line, since 'bow' is glossed.",
+        "\"He looked hard at the apple.\" A beginner may read 'hard' as difficult. Simpler: \"He looked at the apple for a long time.\"",
+        "\"Walter ran to his father. All the people called out his name.\" It is unclear whether 'his' means Walter or Tell. Clearer: \"All the people shouted Tell's name.\"",
+        "\"Tell moved the boat near the land.\" Slightly stiff. Maybe: \"Tell took the boat near the land.\"",
+        "Ending (Gessler flees instead of dying by Tell's arrow at Küssnacht) is a 4+ softening of the original; acceptable, and the same at every level."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Walter ran to his father, and the people called out his name.\" The same 'his' ambiguity as A1. Clearer: \"the people called out Tell's name.\"",
+        "\"Tell went white.\" is an idiom that A2 readers may miss. Optional: \"Tell's face went white.\"",
+        "\"the lake of Lucerne\": \"Lake Lucerne\" is the usual modern form (also in B1, B2)."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Grammar stays within the B1 limits (no conditionals, no passive). The imperative + 'and' structures ('Hit it, and you are free') are fine.",
+        "\"Ask me for my life, but not this\" is a little stilted. Maybe: \"Take my life if you want, but do not ask me this.\""
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Good fidelity: the secret oath of the valleys, the nobleman's protest, Walter refusing the blindfold and Gessler's promise before the second-arrow answer all match Schiller.",
+        "Quiz Q3 key \"He leaped onto a flat ledge of rock\" works, though the text says only that he 'leaped from the boat' as they neared the ledge. Optionally write 'leaped onto the rock'."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error (unclear who is speaking)",
+          "quote": "Walter, furious to see his father held like a thief, cried out that his father could hit an apple on a branch at a hundred paces. \"So this is the famous Tell,\" he said, \"the hunter who never misses. Your son says you can strike an apple from a branch at a hundred paces.",
+          "problem": "Walter is the last person named, so 'he said' reads as Walter speaking. The words that follow ('Your son says...', 'my prison') belong to Gessler, so the reader has to reread to see who the speaker is.",
+          "fix": "Name the speaker: \"'So this is the famous Tell,' said Gessler, 'the hunter who never misses.'\" Or move Walter's outburst before Gessler's smile so that Gessler is the last person named."
+        }
+      ],
+      "notes": [
+        "In that paragraph, Walter's claim and Gessler's 'Your son says...' repeat the same phrase ('an apple on/from a branch at a hundred paces') almost word for word. Vary one of them.",
+        "Otherwise the prose is genuinely literary and not padded, and it is faithful to the original (Tell stays away from the oath-takers, the feathered hat, the herald, the linden tree, the Tellsplatte leap)."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A1-B2 pass. They are faithful (apart from the 4+ softening of Gessler's death into flight), suit their levels and are safe for 4+. C1 fails on one concrete logic problem: right after Walter's outburst, Gessler's speech is tagged 'he said', so it reads as if Walter is speaking. Naming Gessler fixes it."
+}

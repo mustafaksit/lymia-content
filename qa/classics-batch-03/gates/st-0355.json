@@ -1,0 +1,649 @@
+{
+  "id": "st-0355",
+  "title": "Off on a Comet",
+  "ts": "2026-10-30T10:24:18",
+  "node": {
+    "id": "st-0355",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %92.2 | 346 kelime\n    havuz dışı: hector(1), captain(1), sun(2), west(1), jumped(1), wall(1), island(2), ship(1), volcano(4), cold(1), ice(2), fire(1), stars(1), comet(3), balloon(3), sad(1), happy(1)",
+        "level A2: A2: KALDI | kapsam %93.8 | 520 kelime\n    havuz dışı: hector(1), captain(1), army(1), sun(2), west(1), jump(1), bird(1), island(2), ship(1), belonged(1), count(3), volcano(4), south(1), ice(2), comet(3), balloon(4), ship's(1), sails(1), softly(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.922,
+        "coreCoverage": 0.9467,
+        "exempt": [
+          "comet",
+          "balloon",
+          "volcano"
+        ],
+        "wordCount": 346,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sun(2)",
+          "island(2)",
+          "ice(2)",
+          "captain(1)",
+          "west(1)",
+          "jumped(1)",
+          "wall(1)",
+          "ship(1)",
+          "cold(1)",
+          "fire(1)",
+          "stars(1)",
+          "sad(1)",
+          "happy(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9385,
+        "coreCoverage": 0.9573,
+        "exempt": [
+          "comet",
+          "balloon",
+          "volcano"
+        ],
+        "wordCount": 520,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "count(3)",
+          "sun(2)",
+          "island(2)",
+          "ice(2)",
+          "captain(1)",
+          "army(1)",
+          "west(1)",
+          "jump(1)",
+          "bird(1)",
+          "ship(1)",
+          "belonged(1)",
+          "south(1)",
+          "ship's(1)",
+          "sails(1)",
+          "softly(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9558,
+        "coreCoverage": 0.9715,
+        "exempt": [
+          "comet",
+          "balloon",
+          "volcano"
+        ],
+        "wordCount": 792,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "captain(3)",
+          "sailors(2)",
+          "cheerful(1)",
+          "lightness(1)",
+          "shore(1)",
+          "sailed(1)",
+          "goat(1)",
+          "rocky(1)",
+          "floating(1)",
+          "bitterly(1)",
+          "tunnels(1)",
+          "sled(1)",
+          "sail(1)",
+          "hut(1)",
+          "wrapped(1)",
+          "melted(1)",
+          "sails(1)",
+          "joy(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9519,
+        "coreCoverage": 0.9645,
+        "exempt": [
+          "comet",
+          "balloon",
+          "volcano"
+        ],
+        "wordCount": 1019,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "captain(3)",
+          "travelers(3)",
+          "cheerful(2)",
+          "rocky(2)",
+          "careless(1)",
+          "loyal(1)",
+          "deafening(1)",
+          "roar(1)",
+          "boiled(1)",
+          "vanished(1)",
+          "horizon(1)",
+          "anchor(1)",
+          "aboard(1)",
+          "goat(1)",
+          "politely(1)",
+          "voyage(1)",
+          "sailors(1)",
+          "whoever(1)",
+          "shrank(1)",
+          "bitterly(1)",
+          "tunnels(1)",
+          "sled(1)",
+          "swiftly(1)",
+          "hut(1)",
+          "impatient(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9299,
+        "coreCoverage": 0.9385,
+        "exempt": [
+          "comet",
+          "balloon",
+          "volcano"
+        ],
+        "wordCount": 1298,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "captain(3)",
+          "horizon(2)",
+          "aboard(2)",
+          "rocky(2)",
+          "careless(1)",
+          "polishing(1)",
+          "poring(1)",
+          "loyal(1)",
+          "boundless(1)",
+          "cheerfulness(1)",
+          "snored(1)",
+          "peacefully(1)",
+          "heaved(1)",
+          "roar(1)",
+          "thunder(1)",
+          "flung(1)",
+          "senseless(1)",
+          "crept(1)",
+          "unmistakably(1)",
+          "puzzle(1)",
+          "absurdly(1)",
+          "hop(1)",
+          "acrobat(1)",
+          "overnight(1)",
+          "weightless(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "They",
+          "ctx": "little girl on one small piece of land. They also saw a big volcano far in the south"
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "NOUN_AROUND_IT",
+          "cat": "REDUNDANCY",
+          "msg": "Consider using “the surrounding land”.",
+          "frag": "the land around them",
+          "ctx": " shore and stared at the water. Most of the land around them was gone. Their small part of Algeria w"
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "NOUN_AROUND_IT",
+          "cat": "REDUNDANCY",
+          "msg": "Consider using “the surrounding land”.",
+          "frag": "The land around them",
+          "ctx": "shore and stared at the sea in silence. The land around them had vanished, and their small piece of "
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ADVERB_WORD_ORDER",
+          "cat": "STYLE",
+          "msg": "The adverb ‘hardly’ is usually put before the verb ‘seemed’.",
+          "frag": "seemed hardly",
+          "ctx": "s, the sun dwindled in the sky until it seemed hardly larger than a coin, and its warmth fade"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 346,
+      "sentLenMedian": 6,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 10,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 520,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 792,
+      "sentLenMedian": 12.0,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0055,
+      "lowZipfWords": [
+        "bitterly",
+        "helper",
+        "lightness",
+        "sled"
+      ],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1019,
+      "sentLenMedian": 14.5,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0106,
+      "lowZipfWords": [
+        "bitterly",
+        "coasts",
+        "deafening",
+        "froze",
+        "hurried",
+        "orderly",
+        "politely",
+        "sewed",
+        "shrank",
+        "sled"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1298,
+      "sentLenMedian": 23.0,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0352,
+      "lowZipfWords": [
+        "absurdly",
+        "acrobat",
+        "alarmed",
+        "barren",
+        "bewildered",
+        "bitterly",
+        "blinking",
+        "boundless",
+        "breathless",
+        "bundled",
+        "cheerfulness",
+        "crept",
+        "dismay",
+        "dwindled",
+        "flung",
+        "foretold",
+        "froze",
+        "gleaming",
+        "grumbling",
+        "heaved",
+        "hurrying",
+        "kinder",
+        "longed",
+        "natured",
+        "orderly",
+        "plainly",
+        "polishing",
+        "poring",
+        "roared",
+        "rudeness",
+        "senseless",
+        "sled",
+        "snored",
+        "softened",
+        "stitching",
+        "swirled",
+        "tiresome",
+        "tongued",
+        "undisguised",
+        "unmistakably",
+        "unrecognizable",
+        "voyagers",
+        "weightless"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.922,
+      "coreCoverage": 0.9467,
+      "exempt": [
+        "comet",
+        "balloon",
+        "volcano"
+      ],
+      "wordCount": 346,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sun(2)",
+        "island(2)",
+        "ice(2)",
+        "captain(1)",
+        "west(1)",
+        "jumped(1)",
+        "wall(1)",
+        "ship(1)",
+        "cold(1)",
+        "fire(1)",
+        "stars(1)",
+        "sad(1)",
+        "happy(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9385,
+      "coreCoverage": 0.9573,
+      "exempt": [
+        "comet",
+        "balloon",
+        "volcano"
+      ],
+      "wordCount": 520,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "count(3)",
+        "sun(2)",
+        "island(2)",
+        "ice(2)",
+        "captain(1)",
+        "army(1)",
+        "west(1)",
+        "jump(1)",
+        "bird(1)",
+        "ship(1)",
+        "belonged(1)",
+        "south(1)",
+        "ship's(1)",
+        "sails(1)",
+        "softly(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9558,
+      "coreCoverage": 0.9715,
+      "exempt": [
+        "comet",
+        "balloon",
+        "volcano"
+      ],
+      "wordCount": 792,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "captain(3)",
+        "sailors(2)",
+        "cheerful(1)",
+        "lightness(1)",
+        "shore(1)",
+        "sailed(1)",
+        "goat(1)",
+        "rocky(1)",
+        "floating(1)",
+        "bitterly(1)",
+        "tunnels(1)",
+        "sled(1)",
+        "sail(1)",
+        "hut(1)",
+        "wrapped(1)",
+        "melted(1)",
+        "sails(1)",
+        "joy(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9519,
+      "coreCoverage": 0.9645,
+      "exempt": [
+        "comet",
+        "balloon",
+        "volcano"
+      ],
+      "wordCount": 1019,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "captain(3)",
+        "travelers(3)",
+        "cheerful(2)",
+        "rocky(2)",
+        "careless(1)",
+        "loyal(1)",
+        "deafening(1)",
+        "roar(1)",
+        "boiled(1)",
+        "vanished(1)",
+        "horizon(1)",
+        "anchor(1)",
+        "aboard(1)",
+        "goat(1)",
+        "politely(1)",
+        "voyage(1)",
+        "sailors(1)",
+        "whoever(1)",
+        "shrank(1)",
+        "bitterly(1)",
+        "tunnels(1)",
+        "sled(1)",
+        "swiftly(1)",
+        "hut(1)",
+        "impatient(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9299,
+      "coreCoverage": 0.9385,
+      "exempt": [
+        "comet",
+        "balloon",
+        "volcano"
+      ],
+      "wordCount": 1298,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "captain(3)",
+        "horizon(2)",
+        "aboard(2)",
+        "rocky(2)",
+        "careless(1)",
+        "polishing(1)",
+        "poring(1)",
+        "loyal(1)",
+        "boundless(1)",
+        "cheerfulness(1)",
+        "snored(1)",
+        "peacefully(1)",
+        "heaved(1)",
+        "roar(1)",
+        "thunder(1)",
+        "flung(1)",
+        "senseless(1)",
+        "crept(1)",
+        "unmistakably(1)",
+        "puzzle(1)",
+        "absurdly(1)",
+        "hop(1)",
+        "acrobat(1)",
+        "overnight(1)",
+        "weightless(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9467,
+    "A2": 0.9573
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.167,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0021",
+        "title": "The Signs on the Yellow Paper",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0084",
+        "title": "The Island Not on the Map",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0097",
+        "title": "Love on Sunny Island",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

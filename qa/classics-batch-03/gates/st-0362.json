@@ -1,0 +1,617 @@
+{
+  "id": "st-0362",
+  "title": "The Three Golden Apples",
+  "ts": "2026-10-30T10:24:28",
+  "node": {
+    "id": "st-0362",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %87.1 | 317 kelime\n    havuz dışı: king(3), golden(1), apples(7), garden(2), river(1), sea(4), asleep(1), deer(1), bird(1), dog(1), snake(1), giant(2), fight(1), ground(2), cup(1), sky(8), shoulders(2), coat(1), heavy(1)",
+        "level A2: A2: KALDI | kapsam %92.0 | 490 kelime\n    havuz dışı: king(3), golden(4), apples(9), river(1), asleep(1), deer(1), seabird(1), snake(1), giant(3), cup(1), mountain(1), sky(9), shoulders(2), coat(1), heavy(1)",
+        "level B1: B1: KALDI | kapsam %94.7 | 757 kelime\n    havuz dışı: lion(1), golden(5), apples(9), grass(1), greeted(1), politely(1), tight(1), lying(1), asleep(1), sand(1), deer(1), seabird(1), wings(1), fierce(1), slippery(1), snake(1), grip(1), giant(6), floating(1), clouds(1), fold(1), trick(1), goodbye(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8707,
+        "coreCoverage": 0.9206,
+        "exempt": [
+          "apples",
+          "sky",
+          "giant"
+        ],
+        "wordCount": 317,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "king(3)",
+          "garden(2)",
+          "ground(2)",
+          "shoulders(2)",
+          "golden(1)",
+          "river(1)",
+          "asleep(1)",
+          "deer(1)",
+          "bird(1)",
+          "dog(1)",
+          "snake(1)",
+          "fight(1)",
+          "cup(1)",
+          "coat(1)",
+          "heavy(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9204,
+        "coreCoverage": 0.9567,
+        "exempt": [
+          "apples",
+          "sky",
+          "giant"
+        ],
+        "wordCount": 490,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "golden(4)",
+          "king(3)",
+          "shoulders(2)",
+          "river(1)",
+          "asleep(1)",
+          "deer(1)",
+          "seabird(1)",
+          "snake(1)",
+          "cup(1)",
+          "mountain(1)",
+          "coat(1)",
+          "heavy(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9472,
+        "coreCoverage": 0.9632,
+        "exempt": [
+          "apples",
+          "sky",
+          "giant"
+        ],
+        "wordCount": 757,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "golden(5)",
+          "lion(1)",
+          "grass(1)",
+          "greeted(1)",
+          "politely(1)",
+          "tight(1)",
+          "lying(1)",
+          "asleep(1)",
+          "sand(1)",
+          "deer(1)",
+          "seabird(1)",
+          "wings(1)",
+          "fierce(1)",
+          "slippery(1)",
+          "snake(1)",
+          "grip(1)",
+          "floating(1)",
+          "clouds(1)",
+          "fold(1)",
+          "trick(1)",
+          "goodbye(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9677,
+        "coreCoverage": 0.9735,
+        "exempt": [
+          "apples",
+          "sky",
+          "giant"
+        ],
+        "wordCount": 1023,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "lion(2)",
+          "deer(2)",
+          "palace(1)",
+          "weaving(1)",
+          "politely(1)",
+          "asleep(1)",
+          "crept(1)",
+          "seized(1)",
+          "instant(1)",
+          "seabird(1)",
+          "fierce(1)",
+          "slippery(1)",
+          "snake(1)",
+          "grip(1)",
+          "wrestling(1)",
+          "fetch(1)",
+          "lowered(1)",
+          "waded(1)",
+          "strides(1)",
+          "vanished(1)",
+          "striding(1)",
+          "cushion(1)",
+          "goodbye(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.956,
+        "coreCoverage": 0.9589,
+        "exempt": [
+          "apples",
+          "sky",
+          "giant"
+        ],
+        "wordCount": 1500,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "lion(2)",
+          "crept(2)",
+          "deer(2)",
+          "marvels(1)",
+          "byword(1)",
+          "unhurried(1)",
+          "stride(1)",
+          "summoned(1)",
+          "casually(1)",
+          "basket(1)",
+          "plums(1)",
+          "puzzled(1)",
+          "grassy(1)",
+          "weaving(1)",
+          "travelers(1)",
+          "peaceful(1)",
+          "courtesy(1)",
+          "behalf(1)",
+          "loosen(1)",
+          "grip(1)",
+          "sincerely(1)",
+          "asleep(1)",
+          "sunshine(1)",
+          "foam(1)",
+          "seized(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "GATHER_UP",
+          "cat": "REDUNDANCY",
+          "msg": "This phrase is redundant. Consider using “gathered”.",
+          "frag": "gathered up",
+          "ctx": "s all Hercules had been waiting for. He gathered up the three golden apples, thanked the gi"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 317,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 17,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 490,
+      "sentLenMedian": 8.0,
+      "zipfMedian": 6.03,
+      "lowZipfRatio": 0.0027,
+      "lowZipfWords": [
+        "seabird"
+      ],
+      "keyTermTokens": 21,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 757,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0048,
+      "lowZipfWords": [
+        "politely",
+        "seabird",
+        "warmly"
+      ],
+      "keyTermTokens": 24,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1023,
+      "sentLenMedian": 16.0,
+      "zipfMedian": 5.89,
+      "lowZipfRatio": 0.0151,
+      "lowZipfWords": [
+        "crept",
+        "crossly",
+        "deserts",
+        "glances",
+        "nearer",
+        "politely",
+        "seabird",
+        "sighed",
+        "strides",
+        "striding",
+        "waded",
+        "wandered",
+        "warmly"
+      ],
+      "keyTermTokens": 25,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1500,
+      "sentLenMedian": 23,
+      "zipfMedian": 5.93,
+      "lowZipfRatio": 0.0247,
+      "lowZipfWords": [
+        "bade",
+        "byword",
+        "coiled",
+        "contentment",
+        "crept",
+        "deserts",
+        "frighten",
+        "glanced",
+        "grassy",
+        "growling",
+        "grumbled",
+        "hesitating",
+        "labors",
+        "loosen",
+        "marvels",
+        "nearer",
+        "plums",
+        "politely",
+        "puzzled",
+        "seabird",
+        "sleeper",
+        "snapping",
+        "stirred",
+        "stride",
+        "strides",
+        "striding",
+        "twisting",
+        "unhurried",
+        "waded",
+        "wandered"
+      ],
+      "keyTermTokens": 26,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8707,
+      "coreCoverage": 0.9206,
+      "exempt": [
+        "apples",
+        "sky",
+        "giant"
+      ],
+      "wordCount": 317,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "king(3)",
+        "garden(2)",
+        "ground(2)",
+        "shoulders(2)",
+        "golden(1)",
+        "river(1)",
+        "asleep(1)",
+        "deer(1)",
+        "bird(1)",
+        "dog(1)",
+        "snake(1)",
+        "fight(1)",
+        "cup(1)",
+        "coat(1)",
+        "heavy(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9204,
+      "coreCoverage": 0.9567,
+      "exempt": [
+        "apples",
+        "sky",
+        "giant"
+      ],
+      "wordCount": 490,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "golden(4)",
+        "king(3)",
+        "shoulders(2)",
+        "river(1)",
+        "asleep(1)",
+        "deer(1)",
+        "seabird(1)",
+        "snake(1)",
+        "cup(1)",
+        "mountain(1)",
+        "coat(1)",
+        "heavy(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9472,
+      "coreCoverage": 0.9632,
+      "exempt": [
+        "apples",
+        "sky",
+        "giant"
+      ],
+      "wordCount": 757,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "golden(5)",
+        "lion(1)",
+        "grass(1)",
+        "greeted(1)",
+        "politely(1)",
+        "tight(1)",
+        "lying(1)",
+        "asleep(1)",
+        "sand(1)",
+        "deer(1)",
+        "seabird(1)",
+        "wings(1)",
+        "fierce(1)",
+        "slippery(1)",
+        "snake(1)",
+        "grip(1)",
+        "floating(1)",
+        "clouds(1)",
+        "fold(1)",
+        "trick(1)",
+        "goodbye(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9677,
+      "coreCoverage": 0.9735,
+      "exempt": [
+        "apples",
+        "sky",
+        "giant"
+      ],
+      "wordCount": 1023,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "lion(2)",
+        "deer(2)",
+        "palace(1)",
+        "weaving(1)",
+        "politely(1)",
+        "asleep(1)",
+        "crept(1)",
+        "seized(1)",
+        "instant(1)",
+        "seabird(1)",
+        "fierce(1)",
+        "slippery(1)",
+        "snake(1)",
+        "grip(1)",
+        "wrestling(1)",
+        "fetch(1)",
+        "lowered(1)",
+        "waded(1)",
+        "strides(1)",
+        "vanished(1)",
+        "striding(1)",
+        "cushion(1)",
+        "goodbye(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.956,
+      "coreCoverage": 0.9589,
+      "exempt": [
+        "apples",
+        "sky",
+        "giant"
+      ],
+      "wordCount": 1500,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "lion(2)",
+        "crept(2)",
+        "deer(2)",
+        "marvels(1)",
+        "byword(1)",
+        "unhurried(1)",
+        "stride(1)",
+        "summoned(1)",
+        "casually(1)",
+        "basket(1)",
+        "plums(1)",
+        "puzzled(1)",
+        "grassy(1)",
+        "weaving(1)",
+        "travelers(1)",
+        "peaceful(1)",
+        "courtesy(1)",
+        "behalf(1)",
+        "loosen(1)",
+        "grip(1)",
+        "sincerely(1)",
+        "asleep(1)",
+        "sunshine(1)",
+        "foam(1)",
+        "seized(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9206,
+    "A2": 0.9567
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.25,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0158",
+        "title": "The Three Questions",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0269",
+        "title": "The Three Wishes",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0211",
+        "title": "Goldilocks and the Three Bears",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

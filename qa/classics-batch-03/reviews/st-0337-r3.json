@@ -1,0 +1,62 @@
+{
+  "id": "st-0337",
+  "round": 3,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error",
+          "quote": "But no one knew his face.",
+          "problem": "This flatly contradicts the later line \"He knew the face of Lupin very well.\" about Ganimard. An A1 reader is told that no one knows Lupin's face, then that Ganimard knows it very well, and has no way to reconcile the two.",
+          "fix": "Limit the statement to the ship: \"But no one on the ship knew his face.\" (Ganimard is waiting on land, so the later line then makes sense.)"
+        }
+      ],
+      "notes": [
+        "\"He knew the face of Lupin very well.\" is a little stiff; \"He knew Lupin's face very well.\" is more natural and still A1.",
+        "Possible A1 blockers, all minor and few: \"papers\" (meaning identity documents) could be \"Rozaine showed his passport to everyone\"; \"edge of the water\" could be \"She walked to the water.\"",
+        "Rest of the A1 text keeps to present and past simple, follows the original events in order, and the quiz keys are correct."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"He often changed his face and his name.\" sits slightly uneasily next to \"He knew the face of Lupin better than anyone.\" It is not a contradiction, but \"He knew Lupin better than anyone.\" would avoid the tension.",
+        "\"For years, he looked for Lupin.\" sounds slightly off without a perfect tense; \"For many years, he tried to catch Lupin.\" reads better within A2 limits.",
+        "\"Soon people found an answer.\" overstates it, because they only found a suspect and he was the wrong man. Consider \"Soon people thought they knew the answer.\"",
+        "\"People looked at each other with fear.\" is a bit textbook; \"People were afraid, and they watched each other.\" is more natural.",
+        "\"the best houses in the city\": which city is never named. \"in Paris\" or \"in France\" would be clearer."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"The jewels were inside it, because I put them there myself.\" A native writer would use \"had put\". The past perfect is not banned at B1, so this could be fixed.",
+        "No conditionals or passives found. The events (wireless message cut by a storm, Rozaine cleared by his papers, the stolen jewels and the card, Ganimard on the dock, the camera dropped between dock and ship) match Leblanc's story."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Spelling mixes US and UK forms (\"theater\", \"recognized\" next to \"travelling\", \"towards\"). Pick one standard across all levels; A2 also uses \"traveled\" while B1 and above use \"travelling\".",
+        "Quiz Q3 \"Why was the camera important to Ganimard?\" is slightly odd, because Ganimard never knew about the camera. \"Why would the camera have mattered to Ganimard?\" is more precise. The keyed answer is still the only defensible one.",
+        "\"Several of them secretly hoped for a visit from such a famous man.\" follows the original and is harmless, but it is the closest the text comes to flirtation for a 4+ audience. It is acceptable as written."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"in the quiet tone of a man stating the weather\" is an odd collocation; \"remarking on the weather\" is the idiomatic form.",
+        "\"with an expression that did not escape anyone\" would be tighter as \"with an expression that escaped no one\".",
+        "Same US/UK spelling mix as B2 (\"theater\", \"color\", \"neighbor\", \"harbor\" next to \"travelling\").",
+        "The prose is genuinely literary and not padded. The closing reflection on Nelly's choice is faithful to the spirit of the original ending."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling of Leblanc's 'The Arrest of Arsène Lupin' with sound grammar control at every level. A2 through C1 pass. A1 fails on one concrete contradiction: it says no one knew Lupin's face, then that Ganimard knew it very well. That is a one-line fix."
+}

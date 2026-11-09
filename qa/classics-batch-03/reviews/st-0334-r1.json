@@ -1,0 +1,34 @@
+{"id":"st-0334","round":1,"levels":{
+"A1":{"verdict":"FAIL","issues":[
+{"criterion":"2. unnatural English","quote":"It was under the police office!","problem":"'police office' is a calque; a native children's author writes 'police station'. Learners would memorise a wrong collocation, and the quiz key ('Under the police station') uses different wording from the text.","fix":"It was under the police station!"}
+],"notes":[
+"'The elephant stayed in a big house.' An elephant in a 'house' is odd; 'a big barn' or 'a big building' is more natural.",
+"'The elephant was there, and it slept.' reads stiffly; 'The elephant was there. It was asleep.' is more natural and still A1.",
+"'They needed trains, food, and rooms.' 'train tickets' would be more precise (quiz Q2 echoes it, so change both if edited).",
+"'He put the news in every paper too.' 'newspaper' is the more familiar word for A1 readers.",
+"Fidelity: in Twain's original the elephant is found dead in the basement; here it is asleep. Treated as acceptable softening for a 4+ app."
+]},
+"A2":{"verdict":"FAIL","issues":[
+{"criterion":"2. unnatural English","quote":"I ran to the police office in New York.","problem":"'police office' is not natural English (calque); the normal term is 'police station' (or 'police headquarters').","fix":"I ran to the police station in New York."},
+{"criterion":"2. unnatural English","quote":"We went down to a room under the police office.","problem":"Same calque as above.","fix":"We went down to a room under the police station."},
+{"criterion":"2. unnatural English","quote":"There I met Blunt, a detective with a great name.","problem":"'with a great name' is a calque for 'famous/with a great reputation'; to a native ear it sounds like his name itself is nice.","fix":"There I met Blunt, a very famous detective."}
+],"notes":[
+"'Some telegrams came from towns very far from each other. But a few of them arrived at the same time.' The 'But' contrast is off; better: 'Some telegrams came from towns very far from each other, but they arrived at the same time.'",
+"'The elephant was about nineteen feet high.' 'tall' is more natural for an animal.",
+"Quiz Q1 ('Why did the elephant rest...? — It needed rest') is circular; consider 'It was tired after the long trip'.",
+"Same dead-to-asleep softening as A1; acceptable."
+]},
+"B1":{"verdict":"PASS","issues":[],"notes":[
+"Grammar stays within B1 (no conditionals or passive found).",
+"Blunt asks 'What is the elephant's name?' but the answer is never given; harmless.",
+"Ending softened (elephant asleep rather than dead); acceptable."
+]},
+"B2":{"verdict":"PASS","issues":[],"notes":[
+"Faithful to Twain's satire: questioning, theory with one suspect in prison, simultaneous far-apart telegrams, circus advertisement offer, doubled rewards, coded newspaper notices, basement discovery, cheering, ruined but admiring narrator.",
+"'he admitted that one of them was in prison' slightly undersells Blunt's dismissiveness compared with C1 and the original, but is not wrong."
+]},
+"C1":{"verdict":"PASS","issues":[],"notes":[
+"Genuinely literary and ironic in tone, not padded.",
+"Original ending (elephant dead, found by a subordinate detective) is softened to a sleeping elephant; acceptable for a 4+ app and consistent across levels."
+]}
+},"overall":"FAIL","summary":"B1, B2 and C1 are faithful, natural and level-appropriate retellings of Twain's satire, with the dead elephant softened to a sleeping one (acceptable for 4+). A1 and A2 fail only on the calque 'police office' (should be 'police station', which the A1 quiz already uses), and A2 also on 'a detective with a great name'. All fixes are one-word or one-phrase edits."}

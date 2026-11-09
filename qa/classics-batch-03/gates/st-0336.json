@@ -1,0 +1,610 @@
+{
+  "id": "st-0336",
+  "title": "The Flying Stars",
+  "ts": "2026-10-30T10:23:53",
+  "node": {
+    "id": "st-0336",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %92.0 | 327 kelime\n    havuz dışı: priest(1), box(4), diamonds(6), coat(1), uncle(1), tall(3), pantomime(2), clown(7), tree(1)",
+        "level A2: A2: KALDI | kapsam %95.0 | 515 kelime\n    havuz dışı: priest(1), diamonds(3), stones(1), uncle(1), tall(1), pantomime(2), clown(8), guest(1), policeman(2), loud(1), clown's(1), hate(1), uncle's(1), priest's(1), truth(1)",
+        "level B1: B1: KALDI | kapsam %94.2 | 770 kelime\n    havuz dışı: priest(3), gentle(1), fur(1), diamonds(4), thieves(1), thief(2), uncle(3), loud(1), cheerful(1), charming(1), pantomime(3), clown(7), silly(1), shy(1), policeman(2), tricks(1), clown's(2), tightly(1), snowy(1), moon(1), shining(2), uncle's(1), goodness(1), evil(1), priest's(1), beside(1)",
+        "level B2: B2: KALDI | kapsam %94.9 | 1044 kelime\n    havuz dışı: christmas(1), lamps(1), priest(4), fur(2), diamonds(2), cloth(1), thieves(1), thief(2), politely(1), dislike(1), rude(2), cheerful(1), pantomime(3), clown(7), foolish(1), shy(1), annoyance(1), policeman(2), begged(1), tumbled(1), unhappy(1), roared(1), clown's(2), pantomimes(1), mildly(1), bare(1), costume(1), roaring(1), priest's(2), courage(1), goodness(1), lonely(1), glittering(1), treasure(1), diamond(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9205,
+        "coreCoverage": 0.9586,
+        "exempt": [
+          "diamonds",
+          "pantomime",
+          "clown"
+        ],
+        "wordCount": 327,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "box(4)",
+          "tall(3)",
+          "priest(1)",
+          "coat(1)",
+          "uncle(1)",
+          "tree(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9495,
+        "coreCoverage": 0.973,
+        "exempt": [
+          "diamonds",
+          "pantomime",
+          "clown"
+        ],
+        "wordCount": 515,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "policeman(2)",
+          "priest(1)",
+          "stones(1)",
+          "uncle(1)",
+          "tall(1)",
+          "guest(1)",
+          "loud(1)",
+          "hate(1)",
+          "uncle's(1)",
+          "priest's(1)",
+          "truth(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9416,
+        "coreCoverage": 0.9583,
+        "exempt": [
+          "diamonds",
+          "pantomime",
+          "clown"
+        ],
+        "wordCount": 770,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "priest(3)",
+          "uncle(3)",
+          "thief(2)",
+          "policeman(2)",
+          "shining(2)",
+          "gentle(1)",
+          "fur(1)",
+          "thieves(1)",
+          "loud(1)",
+          "cheerful(1)",
+          "charming(1)",
+          "silly(1)",
+          "shy(1)",
+          "tricks(1)",
+          "tightly(1)",
+          "snowy(1)",
+          "moon(1)",
+          "uncle's(1)",
+          "goodness(1)",
+          "evil(1)",
+          "priest's(1)",
+          "beside(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9492,
+        "coreCoverage": 0.9621,
+        "exempt": [
+          "diamonds",
+          "pantomime",
+          "clown"
+        ],
+        "wordCount": 1044,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "priest(4)",
+          "fur(2)",
+          "thief(2)",
+          "rude(2)",
+          "policeman(2)",
+          "priest's(2)",
+          "christmas(1)",
+          "lamps(1)",
+          "cloth(1)",
+          "thieves(1)",
+          "politely(1)",
+          "dislike(1)",
+          "cheerful(1)",
+          "foolish(1)",
+          "shy(1)",
+          "annoyance(1)",
+          "begged(1)",
+          "tumbled(1)",
+          "unhappy(1)",
+          "roared(1)",
+          "mildly(1)",
+          "bare(1)",
+          "costume(1)",
+          "roaring(1)",
+          "courage(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9343,
+        "coreCoverage": 0.9426,
+        "exempt": [
+          "diamonds",
+          "pantomime",
+          "clown"
+        ],
+        "wordCount": 1537,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "priest(4)",
+          "fur(4)",
+          "scarlet(3)",
+          "fireplace(2)",
+          "policeman(2)",
+          "tumbles(2)",
+          "scenery(1)",
+          "stiff(1)",
+          "roasting(1)",
+          "chestnuts(1)",
+          "cheerfully(1)",
+          "cushions(1)",
+          "dumpling(1)",
+          "blink(1)",
+          "unbuttoning(1)",
+          "velvet(1)",
+          "restless(1)",
+          "thieves(1)",
+          "comfortably(1)",
+          "drifting(1)",
+          "untidy(1)",
+          "fierce(1)",
+          "roaring(1)",
+          "outgrown(1)",
+          "supple(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": " everyone to know which side he was on. He made no secret of his dislike for rich "
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 327,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.18,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 515,
+      "sentLenMedian": 8.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0068,
+      "lowZipfWords": [
+        "clown's",
+        "priest's",
+        "uncle's"
+      ],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 770,
+      "sentLenMedian": 10.0,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.0072,
+      "lowZipfWords": [
+        "clown's",
+        "priest's",
+        "snowy",
+        "uncle's"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1044,
+      "sentLenMedian": 13.0,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0133,
+      "lowZipfWords": [
+        "annoyance",
+        "clown's",
+        "coldly",
+        "glittering",
+        "joked",
+        "mildly",
+        "politely",
+        "priest's",
+        "roared",
+        "tumbled",
+        "uncle's"
+      ],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1537,
+      "sentLenMedian": 19.0,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0247,
+      "lowZipfWords": [
+        "banisters",
+        "bustling",
+        "charmed",
+        "cheeked",
+        "cheerfully",
+        "chestnuts",
+        "clutches",
+        "creak",
+        "crouched",
+        "cushions",
+        "dazzling",
+        "dumpling",
+        "earnestly",
+        "flattery",
+        "furs",
+        "glittering",
+        "grumbled",
+        "loudest",
+        "nimble",
+        "outgrown",
+        "porridge",
+        "priest's",
+        "puzzlement",
+        "roasting",
+        "shrieked",
+        "stamping",
+        "stooped",
+        "straightened",
+        "supple",
+        "tumble",
+        "tumbles",
+        "unbroken",
+        "unbuttoning",
+        "uninterested",
+        "untidy"
+      ],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9205,
+      "coreCoverage": 0.9586,
+      "exempt": [
+        "diamonds",
+        "pantomime",
+        "clown"
+      ],
+      "wordCount": 327,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "box(4)",
+        "tall(3)",
+        "priest(1)",
+        "coat(1)",
+        "uncle(1)",
+        "tree(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9495,
+      "coreCoverage": 0.973,
+      "exempt": [
+        "diamonds",
+        "pantomime",
+        "clown"
+      ],
+      "wordCount": 515,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "policeman(2)",
+        "priest(1)",
+        "stones(1)",
+        "uncle(1)",
+        "tall(1)",
+        "guest(1)",
+        "loud(1)",
+        "hate(1)",
+        "uncle's(1)",
+        "priest's(1)",
+        "truth(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9416,
+      "coreCoverage": 0.9583,
+      "exempt": [
+        "diamonds",
+        "pantomime",
+        "clown"
+      ],
+      "wordCount": 770,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "priest(3)",
+        "uncle(3)",
+        "thief(2)",
+        "policeman(2)",
+        "shining(2)",
+        "gentle(1)",
+        "fur(1)",
+        "thieves(1)",
+        "loud(1)",
+        "cheerful(1)",
+        "charming(1)",
+        "silly(1)",
+        "shy(1)",
+        "tricks(1)",
+        "tightly(1)",
+        "snowy(1)",
+        "moon(1)",
+        "uncle's(1)",
+        "goodness(1)",
+        "evil(1)",
+        "priest's(1)",
+        "beside(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9492,
+      "coreCoverage": 0.9621,
+      "exempt": [
+        "diamonds",
+        "pantomime",
+        "clown"
+      ],
+      "wordCount": 1044,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "priest(4)",
+        "fur(2)",
+        "thief(2)",
+        "rude(2)",
+        "policeman(2)",
+        "priest's(2)",
+        "christmas(1)",
+        "lamps(1)",
+        "cloth(1)",
+        "thieves(1)",
+        "politely(1)",
+        "dislike(1)",
+        "cheerful(1)",
+        "foolish(1)",
+        "shy(1)",
+        "annoyance(1)",
+        "begged(1)",
+        "tumbled(1)",
+        "unhappy(1)",
+        "roared(1)",
+        "mildly(1)",
+        "bare(1)",
+        "costume(1)",
+        "roaring(1)",
+        "courage(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9343,
+      "coreCoverage": 0.9426,
+      "exempt": [
+        "diamonds",
+        "pantomime",
+        "clown"
+      ],
+      "wordCount": 1537,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "priest(4)",
+        "fur(4)",
+        "scarlet(3)",
+        "fireplace(2)",
+        "policeman(2)",
+        "tumbles(2)",
+        "scenery(1)",
+        "stiff(1)",
+        "roasting(1)",
+        "chestnuts(1)",
+        "cheerfully(1)",
+        "cushions(1)",
+        "dumpling(1)",
+        "blink(1)",
+        "unbuttoning(1)",
+        "velvet(1)",
+        "restless(1)",
+        "thieves(1)",
+        "comfortably(1)",
+        "drifting(1)",
+        "untidy(1)",
+        "fierce(1)",
+        "roaring(1)",
+        "outgrown(1)",
+        "supple(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9586,
+    "A2": 0.973
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.2,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0207",
+        "title": "The Fool of the World and the Flying Ship",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0139",
+        "title": "The Bremen Town Musicians",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0145",
+        "title": "The Open Road",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

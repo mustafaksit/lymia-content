@@ -1,0 +1,63 @@
+{
+  "id": "st-0361",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Grammar stays within present simple / past simple plus simple modals (could, can, must) and imperatives; no relative clauses, conditionals, passives or perfects.",
+        "A1 comprehension: the few words beyond beginner vocabulary are mostly explained by context or are key words: 'weave' (explained by the next sentence, but consider adding it to the glossed key words), 'goddess' (explained in-text: 'Athena was a goddess'), 'among', 'power', 'learn a lesson', 'change her mind', 'fell away'. This is within 'a handful', so not a fail.",
+        "'Athena showed you all this.' reads slightly oddly; 'Athena taught you.' is simpler and more natural ('teach' is A1).",
+        "'Athena heard about these words.' is a little unnatural; 'Athena heard about this.' or 'Athena heard these words.' is better.",
+        "'Arachne's hair fell away.' could be 'Arachne's hair fell off.' for a beginner; optional.",
+        "'Be the best weaver among people.' - a beginner may not see that 'people' contrasts with gods; 'Be the best weaver of all people.' is optional."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'And from that day on, spiders weave, just like Arachne.' - 'from that day on' normally takes a perfect tense; within A2 limits, 'And spiders still weave today, just like Arachne.' is more natural.",
+        "'their threads moved like light' is a slightly odd simile; 'their threads moved very fast' or 'their hands flew' is plainer.",
+        "Omitting Athena's beating of Arachne with the shuttle and Arachne's attempt to hang herself is an appropriate softening for 4+."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No conditionals or passives found; the relative clauses and past perfect ('Her mother had died') are acceptable at B1.",
+        "Faithful to Ovid: the father dyes wool purple, the mother is dead, nymphs ('spirits of the hills and rivers') come to watch, the old-woman disguise, the reveal and blush, the twelve gods, the contest with the sea god, the four corner warnings, the tapestry torn, the herb, and the transformation."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "2. unnatural English",
+          "quote": "Only Arachne remained unafraid, though a sudden red rose in her cheeks and then faded, like the sky at dawn.",
+          "problem": "Garden-path sentence: a B2 learner will read 'a sudden red rose' as adjective + noun (a red flower), not as 'red' (noun) + 'rose' (past of 'rise'). The clause then seems to have no verb until 'faded', and the image of a rose in her cheeks is confusing.",
+          "fix": "Only Arachne remained unafraid, though her cheeks suddenly turned red and then grew pale again, like the sky at dawn."
+        }
+      ],
+      "notes": [
+        "'The colors changed as gently as the colors of a rainbow after a storm. Each shade was clearly different from the next, yet the eye could not see where one ended.' - the last clause is incomplete and mildly contradicts 'clearly different from the next'. Suggest: 'Each shade was different from the next, yet the eye could not see where one ended and the next began.'",
+        "'Her little town was of no importance, but her skill had made her famous far beyond it.' repeats the 'small town / far from important' idea from the earlier sentences; optional trim.",
+        "'her slender fingers stuck to her sides as thin legs' is a little awkward; 'her slender fingers became thin legs along her sides' reads more smoothly.",
+        "Quiz keys are correct and unambiguous."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Genuinely literary and close to Ovid (the daughters-in-law retort, the dawn-blush simile, the hours passing unnoticed in the pleasure of the work, the rainbow image, the olive border, Hecate's herb rendered as 'a magic herb').",
+        "'a sudden red rose in her cheeks' carries the same rose/rise ambiguity as B2. At C1 the following 'just as the sky blushes at dawn' clears it up, so this is not a fail, but 'a sudden flush rose to her cheeks' would avoid the misreading.",
+        "Quiz keys are correct and unambiguous."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling of Ovid's Arachne at every level; it softens the shuttle beating and the hanging, which is acceptable for 4+. A1, A2, B1 and C1 pass. B2 fails on one garden-path sentence ('a sudden red rose in her cheeks') that a B2 learner would misread as a flower."
+}

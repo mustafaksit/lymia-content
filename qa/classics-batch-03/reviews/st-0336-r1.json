@@ -1,0 +1,57 @@
+{
+  "id": "st-0336",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error",
+          "quote": "Sir Leopold had a lot of money. He gave Ruby a small box. In the box were three white diamonds.",
+          "problem": "A1 says Sir Leopold gave the box to Ruby, but later 'After the play, Sir Leopold opened the box.' The text never says he kept it, so an A1 reader cannot see why Sir Leopold has the box, or why taking it during the play (when the clown is next to Sir Leopold) makes sense. A2-C1 all say he put the box back in his coat; A1 drops this link.",
+          "fix": "Sir Leopold had a lot of money. He showed Ruby a small box. \"This is for you,\" he said. In the box were three white diamonds. People called them the Flying Stars. Then Sir Leopold put the box in his coat."
+        }
+      ],
+      "notes": [
+        "\"Crook was a good man after all.\" - 'after all' is an idiom a beginner may misread; 'Now everyone knew: Crook did not take the diamonds.' is clearer and also states the outcome explicitly.",
+        "\"Late in the day, a tall man came. He came with a friend of the family.\" - A2-C1 make the friend Ruby's uncle; 'He came with Ruby's uncle.' is just as easy and keeps levels aligned.",
+        "Flambeau is named for the first time in the tree scene without introduction; the following paragraph explains him, so this works, but one line earlier (e.g. Sir Leopold: 'A bad man, Flambeau, wants these stones.') would help.",
+        "Otherwise vocabulary and grammar are within A1 (past simple, short sentences); 'run into people' is acceptable with context."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Let's play a pantomime for the children!\" - 'do a pantomime' or 'put on a pantomime' is more idiomatic; 'play' is understandable.",
+        "Quiz Q2 keyed answer is a full sentence while distractors are short; it is still the only defensible answer."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Flambeau was gone over the garden wall and into the night.\" - slightly awkward; 'Flambeau had gone, over the garden wall and into the night.' reads more naturally.",
+        "No conditionals or passives found; past continuous and modals are fine for B1."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Natural, well-paced prose; Father Brown's speech closely follows the original's 'level of good / level of evil' argument."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The frame of Flambeau looking back on his 'most beautiful crime' as his last, committed at Christmas, matches the original's opening well.",
+        "\"half the thieves of Europe would give their right hands for them\" - a common idiom, not injury detail; acceptable for 4+, but 'would give anything for them' removes any doubt.",
+        "Fidelity note (all levels): the retelling simplifies the pantomime casting (in Chesterton's story the policeman business is more intricate and Crook's Harlequin role is prominent). Condensation is acceptable; worth a source check that casting Sir Leopold himself as the policeman does not contradict the original rather than merely simplify it."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A strong, faithful retelling of Chesterton's 'The Flying Stars' at every level, with age-appropriate handling and a well-rendered moral speech. A1 fails on one concrete logic gap: Sir Leopold gives Ruby the box but later opens it himself, because A1 omits that he kept it in his coat. A2-C1 pass with only minor style notes."
+}

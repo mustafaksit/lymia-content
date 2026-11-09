@@ -1,0 +1,649 @@
+{
+  "id": "st-0341",
+  "title": "Northanger Abbey",
+  "ts": "2026-10-30T10:24:00",
+  "node": {
+    "id": "st-0341",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %93.9 | 328 kelime\n    havuz dışı: novels(4), dark(1), secrets(1), dance(1), funny(1), brother(2), sister(1), abbey(1), chest(1), secret(2), alone(1), ill(1), marry(1), married(1), happy(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.939,
+        "coreCoverage": 0.9485,
+        "exempt": [
+          "abbey",
+          "novels",
+          "chest"
+        ],
+        "wordCount": 328,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "brother(2)",
+          "secret(2)",
+          "dark(1)",
+          "secrets(1)",
+          "dance(1)",
+          "funny(1)",
+          "sister(1)",
+          "alone(1)",
+          "ill(1)",
+          "marry(1)",
+          "married(1)",
+          "happy(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9554,
+        "coreCoverage": 0.9598,
+        "exempt": [
+          "abbey",
+          "novels",
+          "chest"
+        ],
+        "wordCount": 516,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "secret(2)",
+          "quiet(1)",
+          "buildings(1)",
+          "secrets(1)",
+          "clever(1)",
+          "funny(1)",
+          "horses(1)",
+          "polite(1)",
+          "bright(1)",
+          "bedroom(1)",
+          "beat(1)",
+          "cupboard(1)",
+          "silly(1)",
+          "sad(1)",
+          "strange(1)",
+          "ill(1)",
+          "cried(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9645,
+        "coreCoverage": 0.9638,
+        "exempt": [
+          "abbey",
+          "novels",
+          "chest"
+        ],
+        "wordCount": 817,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "lonely(1)",
+          "buildings(1)",
+          "fashionable(1)",
+          "clever(1)",
+          "loud(1)",
+          "rude(1)",
+          "gentle(1)",
+          "polite(1)",
+          "towers(1)",
+          "carriage(1)",
+          "tease(1)",
+          "midnight(1)",
+          "folded(1)",
+          "cupboard(1)",
+          "drawers(1)",
+          "candle(1)",
+          "awake(1)",
+          "foolish(1)",
+          "pleasant(1)",
+          "stairs(1)",
+          "gently(1)",
+          "shame(1)",
+          "unexpectedly(1)",
+          "afterwards(1)",
+          "pale(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9632,
+        "coreCoverage": 0.9613,
+        "exempt": [
+          "abbey",
+          "novels",
+          "chest"
+        ],
+        "wordCount": 1032,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "carriage(3)",
+          "eldest(1)",
+          "cheerful(1)",
+          "buildings(1)",
+          "stormy(1)",
+          "peaceful(1)",
+          "dull(1)",
+          "fashionable(1)",
+          "clergyman(1)",
+          "clever(1)",
+          "amusing(1)",
+          "boastful(1)",
+          "endlessly(1)",
+          "tiresome(1)",
+          "rude(1)",
+          "fond(1)",
+          "warmth(1)",
+          "polite(1)",
+          "tease(1)",
+          "midnight(1)",
+          "furnished(1)",
+          "trembling(1)",
+          "neatly(1)",
+          "howled(1)",
+          "cabinet(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9532,
+        "coreCoverage": 0.9512,
+        "exempt": [
+          "abbey",
+          "novels",
+          "chest"
+        ],
+        "wordCount": 1346,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "carriage(3)",
+          "afterwards(3)",
+          "cheerful(2)",
+          "mysterious(2)",
+          "fashionable(2)",
+          "fond(2)",
+          "teasing(2)",
+          "unexpectedly(2)",
+          "candle(2)",
+          "neatly(2)",
+          "eldest(1)",
+          "heroine(1)",
+          "buildings(1)",
+          "stormy(1)",
+          "peaceful(1)",
+          "dull(1)",
+          "fuss(1)",
+          "clergyman(1)",
+          "clever(1)",
+          "amusing(1)",
+          "passionately(1)",
+          "eternal(1)",
+          "boastful(1)",
+          "endlessly(1)",
+          "cleverness(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": " back unexpectedly late one night. Soon afterwards, Eleanor came to Catherine's room, and "
+        }
+      ]
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": " back unexpectedly late one night. Soon afterwards, Eleanor came to Catherine's room, pale"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "in. Yet Henry never spoke of the matter afterwards, and he was, if anything, kinder to her"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "k unexpectedly late one night, and soon afterwards Eleanor came to Catherine's room, pale "
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "at he finally gave his permission. Soon afterwards Henry and Catherine were married, and t"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 328,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 516,
+      "sentLenMedian": 8.0,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.0022,
+      "lowZipfWords": [
+        "cupboard"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 817,
+      "sentLenMedian": 11.0,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0053,
+      "lowZipfWords": [
+        "cupboard",
+        "drawers",
+        "unhappily",
+        "warmly"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1032,
+      "sentLenMedian": 13,
+      "zipfMedian": 5.96,
+      "lowZipfRatio": 0.0114,
+      "lowZipfWords": [
+        "boastful",
+        "clergyman",
+        "drawers",
+        "endlessly",
+        "howled",
+        "neatly",
+        "stormy",
+        "tiresome",
+        "trembling",
+        "tricked",
+        "warmly"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1346,
+      "sentLenMedian": 20,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0141,
+      "lowZipfWords": [
+        "boasted",
+        "boastful",
+        "clergyman",
+        "cleverness",
+        "crumbling",
+        "drawers",
+        "endlessly",
+        "howled",
+        "kinder",
+        "neatly",
+        "obeyed",
+        "passionately",
+        "stormy",
+        "tiresome",
+        "trembling",
+        "tricked",
+        "warmly"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.939,
+      "coreCoverage": 0.9485,
+      "exempt": [
+        "abbey",
+        "novels",
+        "chest"
+      ],
+      "wordCount": 328,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "brother(2)",
+        "secret(2)",
+        "dark(1)",
+        "secrets(1)",
+        "dance(1)",
+        "funny(1)",
+        "sister(1)",
+        "alone(1)",
+        "ill(1)",
+        "marry(1)",
+        "married(1)",
+        "happy(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9554,
+      "coreCoverage": 0.9598,
+      "exempt": [
+        "abbey",
+        "novels",
+        "chest"
+      ],
+      "wordCount": 516,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "secret(2)",
+        "quiet(1)",
+        "buildings(1)",
+        "secrets(1)",
+        "clever(1)",
+        "funny(1)",
+        "horses(1)",
+        "polite(1)",
+        "bright(1)",
+        "bedroom(1)",
+        "beat(1)",
+        "cupboard(1)",
+        "silly(1)",
+        "sad(1)",
+        "strange(1)",
+        "ill(1)",
+        "cried(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9645,
+      "coreCoverage": 0.9638,
+      "exempt": [
+        "abbey",
+        "novels",
+        "chest"
+      ],
+      "wordCount": 817,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "lonely(1)",
+        "buildings(1)",
+        "fashionable(1)",
+        "clever(1)",
+        "loud(1)",
+        "rude(1)",
+        "gentle(1)",
+        "polite(1)",
+        "towers(1)",
+        "carriage(1)",
+        "tease(1)",
+        "midnight(1)",
+        "folded(1)",
+        "cupboard(1)",
+        "drawers(1)",
+        "candle(1)",
+        "awake(1)",
+        "foolish(1)",
+        "pleasant(1)",
+        "stairs(1)",
+        "gently(1)",
+        "shame(1)",
+        "unexpectedly(1)",
+        "afterwards(1)",
+        "pale(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9632,
+      "coreCoverage": 0.9613,
+      "exempt": [
+        "abbey",
+        "novels",
+        "chest"
+      ],
+      "wordCount": 1032,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "carriage(3)",
+        "eldest(1)",
+        "cheerful(1)",
+        "buildings(1)",
+        "stormy(1)",
+        "peaceful(1)",
+        "dull(1)",
+        "fashionable(1)",
+        "clergyman(1)",
+        "clever(1)",
+        "amusing(1)",
+        "boastful(1)",
+        "endlessly(1)",
+        "tiresome(1)",
+        "rude(1)",
+        "fond(1)",
+        "warmth(1)",
+        "polite(1)",
+        "tease(1)",
+        "midnight(1)",
+        "furnished(1)",
+        "trembling(1)",
+        "neatly(1)",
+        "howled(1)",
+        "cabinet(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9532,
+      "coreCoverage": 0.9512,
+      "exempt": [
+        "abbey",
+        "novels",
+        "chest"
+      ],
+      "wordCount": 1346,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "carriage(3)",
+        "afterwards(3)",
+        "cheerful(2)",
+        "mysterious(2)",
+        "fashionable(2)",
+        "fond(2)",
+        "teasing(2)",
+        "unexpectedly(2)",
+        "candle(2)",
+        "neatly(2)",
+        "eldest(1)",
+        "heroine(1)",
+        "buildings(1)",
+        "stormy(1)",
+        "peaceful(1)",
+        "dull(1)",
+        "fuss(1)",
+        "clergyman(1)",
+        "clever(1)",
+        "amusing(1)",
+        "passionately(1)",
+        "eternal(1)",
+        "boastful(1)",
+        "endlessly(1)",
+        "cleverness(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9485,
+    "A2": 0.9598
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 5
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.04,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0168",
+        "title": "Little Red Riding Hood",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.04,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0167",
+        "title": "Snow White and the Seven Dwarfs",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.038,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

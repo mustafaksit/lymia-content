@@ -1,0 +1,20 @@
+{"id":"st-0330","round":2,"levels":{
+"A1":{"verdict":"PASS","issues":[],"notes":[
+"\"The sage did not show the way down.\" reads slightly clipped; \"The sage did not show him the way down.\" is more natural.",
+"\"He came as a doctor.\" arrives without any earlier mention of doctors trying to help the princess; adding \"Many doctors came, but she did not get better.\" after \"the princess acted mad\" would make the disguise clearer.",
+"\"acted mad\" and \"held him close\" are the only mildly hard phrases; \"acted mad\" could become \"said strange things and acted like a mad woman\" if a simpler wording is wanted. Not enough to block understanding."]},
+"A2":{"verdict":"PASS","issues":[],"notes":[
+"\"Three sages came from far countries with presents.\" -> \"faraway countries\" or \"far lands\" is more idiomatic.",
+"\"There, a king took the princess to his palace. He put the sage in a dark room.\" gives no reason for jailing the sage; consider \"The princess told him, 'This old man stole me.' So the king took her to his palace and put the sage in a dark room.\""]},
+"B1":{"verdict":"PASS","issues":[],"notes":[
+"\"a young woman was sleeping on a bed of silk... 'Who are you, and how did you come here?' she asked.\" skips her waking; consider adding \"She woke up and saw him.\" before the question.",
+"Grammar check: no conditionals or passive found; relative clauses are permitted at B1."]},
+"B2":{"verdict":"FAIL","issues":[
+{"criterion":"1. meaning drift / 4. logic error","quote":"The first brought a brass trumpet that would sound by itself whenever an enemy approached the city gates. Every hour, it spread its tail and cried out. The second brought a golden peacock.","problem":"The sentences are in the wrong order: the peacock's behaviour (spreading its tail and crying out every hour) is attached to the trumpet, before the peacock has been introduced. A reader will think the trumpet spreads a tail, which makes no sense and contradicts B1 and C1.","fix":"The first brought a brass trumpet that would sound by itself whenever an enemy approached the city gates. The second brought a golden peacock. Every hour, it spread its tail and cried out."}],
+"notes":["\"By bad luck, the sage was walking in that very garden\" -> \"As bad luck would have it, the sage was walking...\" sounds more natural."]},
+"C1":{"verdict":"PASS","issues":[],"notes":[
+"\"if it truly flew as the sage claimed\" is slightly odd because the court has just watched it fly; it works as the king's stalling pretext (\"seized gladly on a way to delay\"), but \"if it truly carried a rider safely, as the sage claimed\" would remove the doubt.",
+"\"and this time she did not hesitate\" implies she hesitated before, which she had no chance to do; \"and she did not hesitate\" is enough."]}
+},
+"overall":"FAIL",
+"summary":"A faithful, age-appropriate retelling of the Arabian Nights tale, and A1, A2, B1 and C1 are clean and well levelled. B2 fails on one concrete error: the golden peacock's hourly cry is placed before the peacock appears, so it reads as if the trumpet spreads its tail. Swapping two sentences fixes it."}

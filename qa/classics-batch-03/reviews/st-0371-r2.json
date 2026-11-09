@@ -1,0 +1,59 @@
+{
+  "id": "st-0371",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error (quiz with two defensible answers)",
+          "quote": "3. What did Hodja say the second time? — The pot had a baby. / The pot is at the market. / *The pot died.",
+          "problem": "\"The second time\" has no clear referent. Counting Hodja's visits to the neighbor, the second visit is the one where he brings back both pots and says \"Your pot had a baby\", so a learner can defend the distractor \"The pot had a baby.\" Only if the learner reads it as \"the second time he borrowed the pot\" is \"The pot died\" the single answer.",
+          "fix": "Rephrase the question with an unambiguous anchor: \"What did Hodja say when the neighbor asked, 'Where is my big pot?'\" (options unchanged, keyed answer: The pot died.)"
+        }
+      ],
+      "notes": [
+        "A1 comprehension: the text is very close to beginner level. Only small possible blocks remain: \"went by\" in \"One week went by. Then another week went by.\" (simpler: \"One week passed. Then two weeks passed.\" or \"After one week... After two weeks...\") and \"After some days\" (more natural: \"A few days later\"). Not enough to fail.",
+        "\"donkey\" is listed as a glossed key word but does not appear in the A1 text (the donkey episode starts at A2). Harmless, but the gloss list could be per level.",
+        "Grammar stays within present simple / past simple plus 'can'; no conditionals, passives or relative clauses."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "The backward-donkey episode is an authentic Nasreddin Hodja tale and the explanation (students behind, everyone sees each other's faces) matches the traditional joke.",
+        "Grammar stays within A2 limits; 'Could I use...' is fine at this level.",
+        "Quiz answers are each uniquely supported by the text."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"And they should not walk in front of me, because then I will see their backs.\" A native speaker would say \"would\" here, so \"will\" sounds slightly off. To avoid 'would' at B1, rewrite as: \"And they should not walk in front of me. Then I can only see their backs.\" Minor.",
+        "The neighbor privately thinks the baby story is nonsense but accepts the free pot; Hodja's closing line (\"you believed me at once\") still works because the neighbor accepted it without argument. Consistent across B1-C1.",
+        "Quiz Q3 \"About two weeks\" is supported by \"Days passed, then a week, then another week.\""
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Natural, well-paced prose; idioms (\"as serious as a judge\", \"did not need to be asked twice\", \"a free pot was a free pot\") are appropriate for B2.",
+        "Closing moral (\"believes a thing only because it suits him\") fits the traditional point of the tale."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"the old men drinking tea in the market square\" is mildly anachronistic for Hodja's 13th-century Anatolia (tea became common much later); \"the old men talking in the market square\" would avoid it. Few readers will notice.",
+        "\"caught himself\" appears twice in quick succession (\"more than once he caught himself smiling at it\" / \"He even caught himself wondering\"), and \"trailing behind\" is used for both the students and the imagined little pots. Small repetitions, worth varying.",
+        "Genuinely literary register (\"Were they to walk in front of me\", \"a small and silent witness against him\") without padding. Quiz answers are uniquely supported."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling of the 'pot gave birth / pot died' tale (with the authentic backward-donkey anecdote from A2 up), natural English and correct level control throughout. The only concrete defect is A1 quiz question 3, where 'the second time' is ambiguous and makes the distractor 'The pot had a baby' defensible. Rewording that one question should make every level pass."
+}

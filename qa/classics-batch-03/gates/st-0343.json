@@ -1,0 +1,604 @@
+{
+  "id": "st-0343",
+  "title": "Little Lord Fauntleroy",
+  "ts": "2026-10-30T10:24:02",
+  "node": {
+    "id": "st-0343",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %93.1 | 334 kelime\n    havuz dışı: mr(1), poor(1), lawyer(2), grandfather(1), castle(5), sons(1), heir(2), married(1), son(1), boy(1), newspaper(1), picture(1), brother's(1), wife(1), brother(1), wrong(1), smiled(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9311,
+        "coreCoverage": 0.9458,
+        "exempt": [
+          "earl",
+          "castle",
+          "heir"
+        ],
+        "wordCount": 334,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "lawyer(2)",
+          "poor(1)",
+          "grandfather(1)",
+          "sons(1)",
+          "married(1)",
+          "son(1)",
+          "boy(1)",
+          "newspaper(1)",
+          "picture(1)",
+          "brother's(1)",
+          "wife(1)",
+          "brother(1)",
+          "wrong(1)",
+          "smiled(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9529,
+        "coreCoverage": 0.9613,
+        "exempt": [
+          "earl",
+          "castle",
+          "heir"
+        ],
+        "wordCount": 531,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "lawyer(4)",
+          "grandfather(3)",
+          "third(1)",
+          "angry(1)",
+          "gold(1)",
+          "chair(1)",
+          "grandfather's(1)",
+          "lawyer's(1)",
+          "sad(1)",
+          "cried(1)",
+          "grandson(1)",
+          "eighth(1)",
+          "birthday(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9663,
+        "coreCoverage": 0.9755,
+        "exempt": [
+          "earl",
+          "castle",
+          "heir"
+        ],
+        "wordCount": 771,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "grandfather(5)",
+          "gates(2)",
+          "laughter(1)",
+          "painful(1)",
+          "stool(1)",
+          "pony(1)",
+          "lying(1)",
+          "unhappy(1)",
+          "grandson(1)",
+          "eighth(1)",
+          "birthday(1)",
+          "lonely(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9688,
+        "coreCoverage": 0.9714,
+        "exempt": [
+          "earl",
+          "castle",
+          "heir"
+        ],
+        "wordCount": 1057,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "grandfather(6)",
+          "grandson(3)",
+          "scarce(1)",
+          "furious(1)",
+          "spoiled(1)",
+          "disliked(1)",
+          "gloomy(1)",
+          "painful(1)",
+          "stool(1)",
+          "temper(1)",
+          "generous(1)",
+          "mercy(1)",
+          "pony(1)",
+          "lying(1)",
+          "unhappy(1)",
+          "nephew(1)",
+          "afterwards(1)",
+          "rejoiced(1)",
+          "eighth(1)",
+          "birthday(1)",
+          "lonely(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9426,
+        "coreCoverage": 0.9444,
+        "exempt": [
+          "earl",
+          "castle",
+          "heir"
+        ],
+        "wordCount": 1517,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "grandfather(5)",
+          "grandson(3)",
+          "nobleman(2)",
+          "temper(2)",
+          "elder(2)",
+          "grandson's(2)",
+          "vanished(1)",
+          "tenderness(1)",
+          "cheerful(1)",
+          "acquaintances(1)",
+          "lords(1)",
+          "upside(1)",
+          "behalf(1)",
+          "rage(1)",
+          "spectacles(1)",
+          "meantime(1)",
+          "dismay(1)",
+          "vanish(1)",
+          "seriousness(1)",
+          "earnings(1)",
+          "spoiled(1)",
+          "astonishment(1)",
+          "hostility(1)",
+          "softened(1)",
+          "outright(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "wrote to the lawyer without delay. Soon afterwards the two brothers crossed the ocean, and"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "senger could have carried it.  Not long afterwards, the Earl drove down to the little hous"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 334,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.3,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 531,
+      "sentLenMedian": 10,
+      "zipfMedian": 6.19,
+      "lowZipfRatio": 0.0044,
+      "lowZipfWords": [
+        "grandfather's",
+        "lawyer's"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 771,
+      "sentLenMedian": 12,
+      "zipfMedian": 6.25,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1057,
+      "sentLenMedian": 15.0,
+      "zipfMedian": 6.26,
+      "lowZipfRatio": 0.0062,
+      "lowZipfWords": [
+        "disliked",
+        "gloomy",
+        "hurried",
+        "poorest",
+        "rejoiced",
+        "warmly"
+      ],
+      "keyTermTokens": 10,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1517,
+      "sentLenMedian": 23,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0284,
+      "lowZipfWords": [
+        "aching",
+        "acquaintances",
+        "aristocratic",
+        "astonishment",
+        "bewildered",
+        "brooding",
+        "charmed",
+        "claimant's",
+        "cottages",
+        "dearest",
+        "deepened",
+        "disapprove",
+        "dismay",
+        "disprove",
+        "faintest",
+        "glancing",
+        "grandson's",
+        "grumbling",
+        "hurried",
+        "kindest",
+        "lawyer's",
+        "leapt",
+        "mannered",
+        "nobleman",
+        "parted",
+        "propped",
+        "recounted",
+        "resented",
+        "rightful",
+        "shadowy",
+        "softened",
+        "soldier's",
+        "spectacles",
+        "sprang",
+        "tenderness",
+        "untroubled",
+        "vanish",
+        "wobbling"
+      ],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9311,
+      "coreCoverage": 0.9458,
+      "exempt": [
+        "earl",
+        "castle",
+        "heir"
+      ],
+      "wordCount": 334,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "lawyer(2)",
+        "poor(1)",
+        "grandfather(1)",
+        "sons(1)",
+        "married(1)",
+        "son(1)",
+        "boy(1)",
+        "newspaper(1)",
+        "picture(1)",
+        "brother's(1)",
+        "wife(1)",
+        "brother(1)",
+        "wrong(1)",
+        "smiled(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9529,
+      "coreCoverage": 0.9613,
+      "exempt": [
+        "earl",
+        "castle",
+        "heir"
+      ],
+      "wordCount": 531,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "lawyer(4)",
+        "grandfather(3)",
+        "third(1)",
+        "angry(1)",
+        "gold(1)",
+        "chair(1)",
+        "grandfather's(1)",
+        "lawyer's(1)",
+        "sad(1)",
+        "cried(1)",
+        "grandson(1)",
+        "eighth(1)",
+        "birthday(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9663,
+      "coreCoverage": 0.9755,
+      "exempt": [
+        "earl",
+        "castle",
+        "heir"
+      ],
+      "wordCount": 771,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "grandfather(5)",
+        "gates(2)",
+        "laughter(1)",
+        "painful(1)",
+        "stool(1)",
+        "pony(1)",
+        "lying(1)",
+        "unhappy(1)",
+        "grandson(1)",
+        "eighth(1)",
+        "birthday(1)",
+        "lonely(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9688,
+      "coreCoverage": 0.9714,
+      "exempt": [
+        "earl",
+        "castle",
+        "heir"
+      ],
+      "wordCount": 1057,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "grandfather(6)",
+        "grandson(3)",
+        "scarce(1)",
+        "furious(1)",
+        "spoiled(1)",
+        "disliked(1)",
+        "gloomy(1)",
+        "painful(1)",
+        "stool(1)",
+        "temper(1)",
+        "generous(1)",
+        "mercy(1)",
+        "pony(1)",
+        "lying(1)",
+        "unhappy(1)",
+        "nephew(1)",
+        "afterwards(1)",
+        "rejoiced(1)",
+        "eighth(1)",
+        "birthday(1)",
+        "lonely(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9426,
+      "coreCoverage": 0.9444,
+      "exempt": [
+        "earl",
+        "castle",
+        "heir"
+      ],
+      "wordCount": 1517,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "grandfather(5)",
+        "grandson(3)",
+        "nobleman(2)",
+        "temper(2)",
+        "elder(2)",
+        "grandson's(2)",
+        "vanished(1)",
+        "tenderness(1)",
+        "cheerful(1)",
+        "acquaintances(1)",
+        "lords(1)",
+        "upside(1)",
+        "behalf(1)",
+        "rage(1)",
+        "spectacles(1)",
+        "meantime(1)",
+        "dismay(1)",
+        "vanish(1)",
+        "seriousness(1)",
+        "earnings(1)",
+        "spoiled(1)",
+        "astonishment(1)",
+        "hostility(1)",
+        "softened(1)",
+        "outright(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9458,
+    "A2": 0.9613
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 7,
+      "dead": 3,
+      "death": 1,
+      "grave": 1
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.25,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.006
+    },
+    "top3": [
+      {
+        "id": "st-0003",
+        "title": "The Little Door",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0280",
+        "title": "The Little Mermaid",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0210",
+        "title": "The Little Red Hen",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

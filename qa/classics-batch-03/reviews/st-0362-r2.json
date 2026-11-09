@@ -1,0 +1,60 @@
+{
+  "id": "st-0362",
+  "round": 2,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Two phrasal verbs could block a true beginner: 'Hercules took hold of him.' -> 'Hercules caught him.'; 'But Hercules held on.' -> 'But Hercules did not let go.' Only a handful of such items remain, so this does not fail criterion 7.",
+        "'A big cup came over the water.' is slightly vague; 'A big gold cup came on the water.' or 'A big cup moved on the water.' would be clearer.",
+        "'I want my coat on my shoulders.' is understandable; 'I want to put my coat on my shoulders.' (as in A2) is a little more natural."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "Grammar stays within present simple / past simple; no relative clauses, passive or perfect found. Events and order match the other levels."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "3. level mismatch",
+          "quote": "1. What was Hercules's coat made from? — Gold / *The skin of a lion / Flowers",
+          "problem": "The quiz question is in the passive voice ('was ... made from'), which the B1 spec excludes.",
+          "fix": "1. What did Hercules wear? — A coat of gold / *The skin of a lion / A coat of flowers"
+        },
+        {
+          "criterion": "3. level mismatch",
+          "quote": "He wore a coat made from the skin of a lion, and he never felt afraid.",
+          "problem": "'a coat made from' is a reduced passive participle; it should be rephrased to match the B1 no-passive rule and the fixed quiz question.",
+          "fix": "He wore the skin of a lion as a coat, and he never felt afraid."
+        }
+      ],
+      "notes": [
+        "Otherwise the B1 text is natural, consistent and free of conditionals ('only on one condition. You must hold the sky while I am away.' avoids conditional grammar correctly)."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'wildly' appears in two consecutive sentences ('a deer, kicking wildly' / 'a seabird that beat its wings wildly'); change the second to 'that beat its wings hard against him' or similar.",
+        "'...looked very pleased with himself. The giant said,' repeats 'the giant' from the previous sentence; 'He said,' reads more smoothly."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'called Atlas, for that was who it was, from somewhere up among the clouds' is a slightly awkward interruption; consider 'called a voice from somewhere up among the clouds, for this was Atlas himself.' Taste only.",
+        "Genuinely literary register without padding; fidelity to the Hawthorne / classical version (nymphs by the river, shape-shifting Old Man of the Sea, Antaeus, the golden cup, the lion-skin cushion trick) is good."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling of the golden-apples labour (in the Hawthorne/Apollodorus line) with consistent events across all five levels and correct quiz keys. The only concrete failure is at B1, where the quiz question 'What was Hercules's coat made from?' (and the matching 'a coat made from' phrase in the text) uses the passive voice the B1 spec forbids; both have one-line fixes."
+}

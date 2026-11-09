@@ -1,0 +1,693 @@
+{
+  "id": "st-0325",
+  "title": "Gulliver in the Land of Giants",
+  "ts": "2026-10-30T10:23:38",
+  "node": {
+    "id": "st-0325",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %90.9 | 329 kelime\n    havuz dışı: ship(6), giant(4), plants(1), giant's(1), weak(1), queen(2), box(6), king(3), sea(1), boy(1), bird(1), air(1), loudly(1), giants(1)",
+        "level B1: B1: KALDI | kapsam %92.8 | 817 kelime\n    havuz dışı: sailed(2), sailors(5), unknown(1), captain(2), giant(4), inland(1), corn(2), loudly(2), thumb(1), curious(1), clever(1), doll's(1), cradle(1), sewed(1), palace(1), queen(4), carpenter(1), wooden(1), pleasant(1), queen's(1), dwarf(3), jealous(1), bowl(1), cream(1), wasps(1), bravely(1), praised(1), wise(1), parliament(1), honesty(1), stroked(1), gently(1), goodness(1), eagle(2), iron(1), eagles(1), chasing(1), rope(1), roof(1), dolls(1), mad(1), giants(1)",
+        "level B2: B2: KALDI | kapsam %93.3 | 1097 kelime\n    havuz dışı: merchant(1), bound(1), fierce(1), captain(2), ashore(1), sailors(4), bare(1), strode(1), wading(1), inland(1), stalks(1), corn(1), harvest(1), thumb(1), beetle(1), bowed(1), politely(2), hungry(1), amused(1), ponds(1), doll's(1), cradle(1), sewed(1), cloth(1), inn(1), thimble(1), sword(1), endless(1), wept(1), palace(1), queen(4), tutor(1), carpenter(2), queen's(1), dwarf(2), bitterly(1), jealous(1), punished(1), rude(1), swarm(1), wasps(1), buzzed(1), bravely(1), courage(1), thoughtful(1), parliament(1), pet(1), virtue(1), third(1), dozed(1), jerk(1), swiftly(1), eagle(1), seized(1), eagles(1), mighty(1), splash(1), bobbed(1), drifted(1), handkerchief(1), fasten(1), rope(1), daylight(1), dolls(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9088,
+        "coreCoverage": 0.9386,
+        "exempt": [
+          "giant",
+          "giants",
+          "box"
+        ],
+        "wordCount": 329,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ship(6)",
+          "king(3)",
+          "queen(2)",
+          "plants(1)",
+          "weak(1)",
+          "sea(1)",
+          "boy(1)",
+          "bird(1)",
+          "air(1)",
+          "loudly(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9516,
+        "coreCoverage": 0.9546,
+        "exempt": [
+          "giant",
+          "giants",
+          "box"
+        ],
+        "wordCount": 496,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ship(5)",
+          "queen(5)",
+          "king(4)",
+          "farmer(3)",
+          "boat(1)",
+          "farmer's(1)",
+          "bird(1)",
+          "loudly(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9278,
+        "coreCoverage": 0.93,
+        "exempt": [
+          "giant",
+          "giants",
+          "box"
+        ],
+        "wordCount": 817,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sailors(5)",
+          "queen(4)",
+          "dwarf(3)",
+          "sailed(2)",
+          "captain(2)",
+          "corn(2)",
+          "loudly(2)",
+          "eagle(2)",
+          "unknown(1)",
+          "inland(1)",
+          "thumb(1)",
+          "curious(1)",
+          "clever(1)",
+          "doll's(1)",
+          "cradle(1)",
+          "sewed(1)",
+          "palace(1)",
+          "carpenter(1)",
+          "wooden(1)",
+          "pleasant(1)",
+          "queen's(1)",
+          "jealous(1)",
+          "bowl(1)",
+          "cream(1)",
+          "wasps(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9325,
+        "coreCoverage": 0.9299,
+        "exempt": [
+          "giant",
+          "giants",
+          "box"
+        ],
+        "wordCount": 1097,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sailors(4)",
+          "queen(4)",
+          "captain(2)",
+          "politely(2)",
+          "carpenter(2)",
+          "dwarf(2)",
+          "merchant(1)",
+          "bound(1)",
+          "fierce(1)",
+          "ashore(1)",
+          "bare(1)",
+          "strode(1)",
+          "wading(1)",
+          "inland(1)",
+          "stalks(1)",
+          "corn(1)",
+          "harvest(1)",
+          "thumb(1)",
+          "beetle(1)",
+          "bowed(1)",
+          "hungry(1)",
+          "amused(1)",
+          "ponds(1)",
+          "doll's(1)",
+          "cradle(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9036,
+        "coreCoverage": 0.9011,
+        "exempt": [
+          "giant",
+          "giants",
+          "box"
+        ],
+        "wordCount": 1494,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "queen(3)",
+          "seized(2)",
+          "captain(2)",
+          "plunged(2)",
+          "curiosity(2)",
+          "bowed(2)",
+          "cradle(2)",
+          "afterwards(2)",
+          "carpenter(2)",
+          "queen's(2)",
+          "dwarf(2)",
+          "fireside(1)",
+          "restlessness(1)",
+          "aboard(1)",
+          "merchant(1)",
+          "bound(1)",
+          "voyage(1)",
+          "uneventful(1)",
+          "relented(1)",
+          "mountainous(1)",
+          "ashore(1)",
+          "strayed(1)",
+          "rocky(1)",
+          "bare(1)",
+          "disbelief(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "She",
+          "ctx": " big. She loved the little man at once. She made a small bed for him. Gulliver lear"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": " capital, and on that long journey, and afterwards in the city, Gulliver performed ten tim"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "him in bewilderment, and for many weeks afterwards he found it impossible to shake off the"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 329,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.05,
+      "lowZipfRatio": 0.0034,
+      "lowZipfWords": [
+        "giant's"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 496,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0022,
+      "lowZipfWords": [
+        "farmer's"
+      ],
+      "keyTermTokens": 10,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 817,
+      "sentLenMedian": 13.0,
+      "zipfMedian": 6.03,
+      "lowZipfRatio": 0.0091,
+      "lowZipfWords": [
+        "bravely",
+        "doll's",
+        "rowing",
+        "sewed",
+        "stroked",
+        "swam",
+        "wasps"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1097,
+      "sentLenMedian": 18,
+      "zipfMedian": 5.93,
+      "lowZipfRatio": 0.0285,
+      "lowZipfWords": [
+        "bitterly",
+        "bobbed",
+        "bowed",
+        "bravely",
+        "buzzed",
+        "charmed",
+        "depended",
+        "doll's",
+        "dozed",
+        "drifted",
+        "farmer's",
+        "fasten",
+        "handkerchief",
+        "longed",
+        "politely",
+        "ponds",
+        "rowing",
+        "sawed",
+        "sewed",
+        "stalks",
+        "strode",
+        "stroked",
+        "swam",
+        "swarm",
+        "thimble",
+        "wading",
+        "wandered",
+        "wasps",
+        "wept"
+      ],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1494,
+      "sentLenMedian": 27,
+      "zipfMedian": 5.93,
+      "lowZipfRatio": 0.0509,
+      "lowZipfWords": [
+        "ached",
+        "astonishment",
+        "bewilderment",
+        "bowed",
+        "broth",
+        "captor",
+        "countrymen",
+        "crumbs",
+        "curiosities",
+        "disbelief",
+        "doll's",
+        "dozing",
+        "drifted",
+        "enchanted",
+        "farmer's",
+        "fireside",
+        "fished",
+        "floated",
+        "flourished",
+        "forgave",
+        "gamely",
+        "glances",
+        "handkerchief",
+        "interrupting",
+        "intrigued",
+        "laborer",
+        "laborers",
+        "loudest",
+        "lurch",
+        "mountainous",
+        "occupant",
+        "ordeal",
+        "partridges",
+        "paused",
+        "peered",
+        "perched",
+        "plunged",
+        "puddle",
+        "relented",
+        "reluctantly",
+        "rescuers",
+        "restlessness",
+        "sailor's",
+        "saluted",
+        "scarcely",
+        "seizing",
+        "shrieked",
+        "skeptics",
+        "softest",
+        "sorely",
+        "stalks",
+        "stitched",
+        "stoop",
+        "stooped",
+        "strayed",
+        "striding",
+        "stroking",
+        "stung",
+        "summons",
+        "swam",
+        "syllables",
+        "takings",
+        "tenderness",
+        "thimble",
+        "towering",
+        "tremble",
+        "uneventful",
+        "unmistakable",
+        "unsettled",
+        "wandered",
+        "wasps",
+        "whispered"
+      ],
+      "keyTermTokens": 8,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9088,
+      "coreCoverage": 0.9386,
+      "exempt": [
+        "giant",
+        "giants",
+        "box"
+      ],
+      "wordCount": 329,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ship(6)",
+        "king(3)",
+        "queen(2)",
+        "plants(1)",
+        "weak(1)",
+        "sea(1)",
+        "boy(1)",
+        "bird(1)",
+        "air(1)",
+        "loudly(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9516,
+      "coreCoverage": 0.9546,
+      "exempt": [
+        "giant",
+        "giants",
+        "box"
+      ],
+      "wordCount": 496,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ship(5)",
+        "queen(5)",
+        "king(4)",
+        "farmer(3)",
+        "boat(1)",
+        "farmer's(1)",
+        "bird(1)",
+        "loudly(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9278,
+      "coreCoverage": 0.93,
+      "exempt": [
+        "giant",
+        "giants",
+        "box"
+      ],
+      "wordCount": 817,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sailors(5)",
+        "queen(4)",
+        "dwarf(3)",
+        "sailed(2)",
+        "captain(2)",
+        "corn(2)",
+        "loudly(2)",
+        "eagle(2)",
+        "unknown(1)",
+        "inland(1)",
+        "thumb(1)",
+        "curious(1)",
+        "clever(1)",
+        "doll's(1)",
+        "cradle(1)",
+        "sewed(1)",
+        "palace(1)",
+        "carpenter(1)",
+        "wooden(1)",
+        "pleasant(1)",
+        "queen's(1)",
+        "jealous(1)",
+        "bowl(1)",
+        "cream(1)",
+        "wasps(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9325,
+      "coreCoverage": 0.9299,
+      "exempt": [
+        "giant",
+        "giants",
+        "box"
+      ],
+      "wordCount": 1097,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sailors(4)",
+        "queen(4)",
+        "captain(2)",
+        "politely(2)",
+        "carpenter(2)",
+        "dwarf(2)",
+        "merchant(1)",
+        "bound(1)",
+        "fierce(1)",
+        "ashore(1)",
+        "bare(1)",
+        "strode(1)",
+        "wading(1)",
+        "inland(1)",
+        "stalks(1)",
+        "corn(1)",
+        "harvest(1)",
+        "thumb(1)",
+        "beetle(1)",
+        "bowed(1)",
+        "hungry(1)",
+        "amused(1)",
+        "ponds(1)",
+        "doll's(1)",
+        "cradle(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9036,
+      "coreCoverage": 0.9011,
+      "exempt": [
+        "giant",
+        "giants",
+        "box"
+      ],
+      "wordCount": 1494,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "queen(3)",
+        "seized(2)",
+        "captain(2)",
+        "plunged(2)",
+        "curiosity(2)",
+        "bowed(2)",
+        "cradle(2)",
+        "afterwards(2)",
+        "carpenter(2)",
+        "queen's(2)",
+        "dwarf(2)",
+        "fireside(1)",
+        "restlessness(1)",
+        "aboard(1)",
+        "merchant(1)",
+        "bound(1)",
+        "voyage(1)",
+        "uneventful(1)",
+        "relented(1)",
+        "mountainous(1)",
+        "ashore(1)",
+        "strayed(1)",
+        "rocky(1)",
+        "bare(1)",
+        "disbelief(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 6,
+      "2": 4
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9386,
+    "A2": 0.9546
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "sword": 2,
+      "knife": 2
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.25,
+      "summary3gramJaccard": 0.038,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0276",
+        "title": "Gulliver in Lilliput",
+        "titleJaccard": 0.25,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0170",
+        "title": "The Star Money",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.038,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0176",
+        "title": "Cinderella",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.037,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

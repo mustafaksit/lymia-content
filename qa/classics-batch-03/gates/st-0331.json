@@ -1,0 +1,678 @@
+{
+  "id": "st-0331",
+  "title": "Prince Ahmed and the Fairy Peri Banou",
+  "ts": "2026-10-30T10:23:46",
+  "node": {
+    "id": "st-0331",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %90.3 | 308 kelime\n    havuz dışı: sultan(5), sons(1), marry(1), carpet(3), tube(2), apple(2), smell(1), sick(2), arrow(7), farthest(1), arrows(1), married(2), quiet(1), fairy(1)",
+        "level A2: A2: KALDI | kapsam %94.7 | 506 kelime\n    havuz dışı: sultan(3), carpet(4), tube(3), apple(3), smell(1), sick(1), arrow(8), farthest(2), fairy(2)",
+        "level B1: B1: KALDI | kapsam %92.2 | 786 kelime\n    havuz dışı: sultan(6), palace(4), sultan's(2), clever(2), unhappy(1), distant(1), princes(1), inn(3), carpet(4), kingdom(1), ivory(1), tube(5), apple(6), cure(1), pale(1), nose(1), joy(1), arrow(6), prince(2), farther(1), bow(1), servants(2), arrows(1), lying(1), iron(1), stairway(1), splendid(1), fairy(2), sadness(1)",
+        "level B2: B2: KALDI | kapsam %92.1 | 1116 kelime\n    havuz dışı: sultan(8), splendid(1), palace(2), niece(1), bitterness(1), rarity(2), whoever(1), princes(1), generous(1), purse(1), disguised(1), merchants(1), inn(4), supper(1), dawn(1), eldest(1), astonishingly(1), instantly(1), doubtful(1), blink(1), kingdom(1), bazaars(1), ivory(1), merchant(1), throne(1), treasure(2), hesitation(1), craftsmen(1), artificial(1), apple(5), cleverly(1), scent(2), cure(1), gravely(1), reunited(1), lying(2), overjoyed(1), archery(1), prince(2), arrow(8), farthest(1), farther(1), bow(1), vanished(1), splendor(1), afterwards(1), heartbroken(1), holy(1), arrows(1), steep(1), archer(1), mysterious(1), magnificent(1), glowing(1), decorated(1), astonished(1), fairy(2), sorrow(1), amid(1), feasting(1)",
+        "level C1: C1: KALDI | kapsam %89.3 | 1524 kelime\n    havuz dışı: reigned(1), sultan(5), wisdom(1), palace(2), orphaned(1), infancy(1), wit(1), dismay(1), fond(1), shrewd(1), resentment(1), summoned(1), grievance(1), rarity(1), whichever(1), marvelous(1), bride(1), princes(1), hesitation(1), furnished(1), generous(1), purse(1), merchants(2), unremarked(1), nightfall(1), inn(3), highway(1), supper(1), pact(1), dawn(1), eldest(1), bazaars(1), horizon(1), stalls(1), bolts(1), shimmering(1), silk(1), heaps(1), precious(1), lamps(1), beaten(1), brass(1), worthy(1), shabby(1), outrageous(1), amused(1), instant(2), treasure(2), kingdom(1), arcades(1), ivory(1), behold(1), skeptical(1), intrigued(1), throne(1), amid(2), counselors(1), scarcely(2), renowned(1), orchards(1), ingenious(1), craftsmen(1), artificial(1), apple(4), skillfully(1), scent(2), cure(1), eyebrow(1), invalid(1), persuasion(1), concealed(1), marvel(1), drained(1), motionless(1), physicians(1), unrolled(1), bedside(1), utter(1), bewilderment(1), faintest(1), flush(1), crept(1), sultan's(1), boundless(1), dilemma(1), deepened(1), marvels(1), indispensable(1), fairness(1), prince(2), arrow(7), whoever(1), farthest(1), assembled(1), respectable(1), farther(1), bow(1), dwindled(1), speck(1), vanished(2), scoured(1), reluctance(1), pronounced(1), victor(1), afterwards(1), magnificence(1), summon(1), renounced(1), inheritance(1), withdrew(1), holy(1), palaces(1), quarrels(1), absent(1), festivities(1), conviction(1), arrows(1), steep(1), barren(1), lying(1), mortal(1), archer(1), boulders(1), descended(1), splendid(1), glowing(1), radiance(1), attendants(1), astonishment(1), fairy(2), rivalry(1), disarming(1), frankness(1), unfortunate(1), disappointment(1), melting(1), frost(1), sunlight(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9026,
+        "coreCoverage": 0.9466,
+        "exempt": [
+          "carpet",
+          "tube",
+          "apple",
+          "fairy",
+          "arrow"
+        ],
+        "wordCount": 308,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sultan(5)",
+          "sick(2)",
+          "married(2)",
+          "sons(1)",
+          "marry(1)",
+          "smell(1)",
+          "farthest(1)",
+          "quiet(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9466,
+        "coreCoverage": 0.9845,
+        "exempt": [
+          "carpet",
+          "tube",
+          "apple",
+          "fairy",
+          "arrow"
+        ],
+        "wordCount": 506,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sultan(3)",
+          "farthest(2)",
+          "smell(1)",
+          "sick(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9224,
+        "coreCoverage": 0.9493,
+        "exempt": [
+          "carpet",
+          "tube",
+          "apple",
+          "fairy",
+          "arrow"
+        ],
+        "wordCount": 786,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sultan(6)",
+          "palace(4)",
+          "inn(3)",
+          "sultan's(2)",
+          "clever(2)",
+          "prince(2)",
+          "servants(2)",
+          "unhappy(1)",
+          "distant(1)",
+          "princes(1)",
+          "kingdom(1)",
+          "ivory(1)",
+          "cure(1)",
+          "pale(1)",
+          "nose(1)",
+          "joy(1)",
+          "farther(1)",
+          "bow(1)",
+          "lying(1)",
+          "iron(1)",
+          "stairway(1)",
+          "splendid(1)",
+          "sadness(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9211,
+        "coreCoverage": 0.9319,
+        "exempt": [
+          "carpet",
+          "tube",
+          "apple",
+          "fairy",
+          "arrow"
+        ],
+        "wordCount": 1116,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sultan(8)",
+          "inn(4)",
+          "palace(2)",
+          "rarity(2)",
+          "treasure(2)",
+          "scent(2)",
+          "lying(2)",
+          "prince(2)",
+          "splendid(1)",
+          "niece(1)",
+          "bitterness(1)",
+          "whoever(1)",
+          "princes(1)",
+          "generous(1)",
+          "purse(1)",
+          "disguised(1)",
+          "merchants(1)",
+          "supper(1)",
+          "dawn(1)",
+          "eldest(1)",
+          "astonishingly(1)",
+          "instantly(1)",
+          "doubtful(1)",
+          "blink(1)",
+          "kingdom(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.893,
+        "coreCoverage": 0.8986,
+        "exempt": [
+          "carpet",
+          "tube",
+          "apple",
+          "fairy",
+          "arrow"
+        ],
+        "wordCount": 1524,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sultan(5)",
+          "inn(3)",
+          "palace(2)",
+          "merchants(2)",
+          "instant(2)",
+          "treasure(2)",
+          "amid(2)",
+          "scarcely(2)",
+          "scent(2)",
+          "prince(2)",
+          "vanished(2)",
+          "reigned(1)",
+          "wisdom(1)",
+          "orphaned(1)",
+          "infancy(1)",
+          "wit(1)",
+          "dismay(1)",
+          "fond(1)",
+          "shrewd(1)",
+          "resentment(1)",
+          "summoned(1)",
+          "grievance(1)",
+          "rarity(1)",
+          "whichever(1)",
+          "marvelous(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "was celebrated with great splendor soon afterwards. Houssain was too heartbroken to attend"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "SO_AS_TO",
+          "cat": "REDUNDANCY",
+          "msg": "‘So as to’ expresses purpose and is used in formal texts. Consider using “to”.",
+          "frag": "so as to",
+          "ctx": "journey.  Dressed as ordinary merchants so as to travel unremarked, the three brothers s"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "victor. The wedding was celebrated soon afterwards with all the magnificence the court cou"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 308,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0038,
+      "lowZipfWords": [
+        "farthest"
+      ],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 506,
+      "sentLenMedian": 8.0,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0044,
+      "lowZipfWords": [
+        "farthest"
+      ],
+      "keyTermTokens": 20,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 786,
+      "sentLenMedian": 10,
+      "zipfMedian": 6.03,
+      "lowZipfRatio": 0.0055,
+      "lowZipfWords": [
+        "rarest",
+        "stairway",
+        "sultan's"
+      ],
+      "keyTermTokens": 24,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1116,
+      "sentLenMedian": 16,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0199,
+      "lowZipfWords": [
+        "archery",
+        "astonished",
+        "astonishingly",
+        "bazaars",
+        "bitterness",
+        "breathed",
+        "cleverly",
+        "craftsmen",
+        "farthest",
+        "feasting",
+        "finer",
+        "gravely",
+        "heartbroken",
+        "journeyed",
+        "overjoyed",
+        "rarity",
+        "richly",
+        "sloping",
+        "splendor",
+        "wronged"
+      ],
+      "keyTermTokens": 23,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1524,
+      "sentLenMedian": 22.5,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0422,
+      "lowZipfWords": [
+        "admiring",
+        "arcades",
+        "astonishment",
+        "attendants",
+        "barren",
+        "bazaars",
+        "bedside",
+        "bewilderment",
+        "boulders",
+        "boundless",
+        "counselors",
+        "craftsmen",
+        "crept",
+        "crier",
+        "deepened",
+        "disarming",
+        "dismay",
+        "dwindled",
+        "eyebrow",
+        "faintest",
+        "farthest",
+        "festivities",
+        "frankness",
+        "fullest",
+        "grievance",
+        "heaps",
+        "hurried",
+        "indispensable",
+        "infancy",
+        "ingenious",
+        "intrigued",
+        "journeyed",
+        "magnificence",
+        "marvels",
+        "motionless",
+        "nightfall",
+        "orchards",
+        "orphaned",
+        "palaces",
+        "persuasion",
+        "quarrels",
+        "radiance",
+        "rarity",
+        "reigned",
+        "reluctance",
+        "renounced",
+        "scarcely",
+        "scoured",
+        "shabby",
+        "shimmering",
+        "shrewd",
+        "skillfully",
+        "sloping",
+        "speck",
+        "sultan's",
+        "swung",
+        "tenderly",
+        "unremarked",
+        "unrolled",
+        "wandered",
+        "warmly"
+      ],
+      "keyTermTokens": 22,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9026,
+      "coreCoverage": 0.9466,
+      "exempt": [
+        "carpet",
+        "tube",
+        "apple",
+        "fairy",
+        "arrow"
+      ],
+      "wordCount": 308,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sultan(5)",
+        "sick(2)",
+        "married(2)",
+        "sons(1)",
+        "marry(1)",
+        "smell(1)",
+        "farthest(1)",
+        "quiet(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9466,
+      "coreCoverage": 0.9845,
+      "exempt": [
+        "carpet",
+        "tube",
+        "apple",
+        "fairy",
+        "arrow"
+      ],
+      "wordCount": 506,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sultan(3)",
+        "farthest(2)",
+        "smell(1)",
+        "sick(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9224,
+      "coreCoverage": 0.9493,
+      "exempt": [
+        "carpet",
+        "tube",
+        "apple",
+        "fairy",
+        "arrow"
+      ],
+      "wordCount": 786,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sultan(6)",
+        "palace(4)",
+        "inn(3)",
+        "sultan's(2)",
+        "clever(2)",
+        "prince(2)",
+        "servants(2)",
+        "unhappy(1)",
+        "distant(1)",
+        "princes(1)",
+        "kingdom(1)",
+        "ivory(1)",
+        "cure(1)",
+        "pale(1)",
+        "nose(1)",
+        "joy(1)",
+        "farther(1)",
+        "bow(1)",
+        "lying(1)",
+        "iron(1)",
+        "stairway(1)",
+        "splendid(1)",
+        "sadness(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9211,
+      "coreCoverage": 0.9319,
+      "exempt": [
+        "carpet",
+        "tube",
+        "apple",
+        "fairy",
+        "arrow"
+      ],
+      "wordCount": 1116,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sultan(8)",
+        "inn(4)",
+        "palace(2)",
+        "rarity(2)",
+        "treasure(2)",
+        "scent(2)",
+        "lying(2)",
+        "prince(2)",
+        "splendid(1)",
+        "niece(1)",
+        "bitterness(1)",
+        "whoever(1)",
+        "princes(1)",
+        "generous(1)",
+        "purse(1)",
+        "disguised(1)",
+        "merchants(1)",
+        "supper(1)",
+        "dawn(1)",
+        "eldest(1)",
+        "astonishingly(1)",
+        "instantly(1)",
+        "doubtful(1)",
+        "blink(1)",
+        "kingdom(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.893,
+      "coreCoverage": 0.8986,
+      "exempt": [
+        "carpet",
+        "tube",
+        "apple",
+        "fairy",
+        "arrow"
+      ],
+      "wordCount": 1524,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sultan(5)",
+        "inn(3)",
+        "palace(2)",
+        "merchants(2)",
+        "instant(2)",
+        "treasure(2)",
+        "amid(2)",
+        "scarcely(2)",
+        "scent(2)",
+        "prince(2)",
+        "vanished(2)",
+        "reigned(1)",
+        "wisdom(1)",
+        "orphaned(1)",
+        "infancy(1)",
+        "wit(1)",
+        "dismay(1)",
+        "fond(1)",
+        "shrewd(1)",
+        "resentment(1)",
+        "summoned(1)",
+        "grievance(1)",
+        "rarity(1)",
+        "whichever(1)",
+        "marvelous(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9466,
+    "A2": 0.9845
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "die": 1,
+      "death": 3,
+      "died": 1,
+      "shoot": 3,
+      "shot": 6
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.167,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0164",
+        "title": "The Frog Prince",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0304",
+        "title": "The Prince and the Pauper",
+        "titleJaccard": 0.167,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0008",
+        "title": "The Happy Prince, and Other Tales",
+        "titleJaccard": 0.125,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

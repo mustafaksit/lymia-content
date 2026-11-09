@@ -1,0 +1,601 @@
+{
+  "id": "st-0358",
+  "title": "Daedalus and Icarus",
+  "ts": "2026-10-30T10:24:23",
+  "node": {
+    "id": "st-0358",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %89.4 | 320 kelime\n    havuz dışı: son(2), sky(1), feathers(8), birds(2), wax(3), wings(5), heavy(1), fly(3), sun(3), melt(2), gods(1), flying(1), sea(1), cried(1)",
+        "level A2: A2: KALDI | kapsam %93.3 | 505 kelime\n    havuz dışı: sky(3), bird(2), feathers(7), thread(1), wax(4), wings(6), heavy(1), sun(4), melt(2), tears(1), birds(1), gods(1), cried(1)",
+        "level B1: B1: KALDI | kapsam %94.6 | 662 kelime\n    havuz dışı: invent(1), shore(1), clever(3), feathers(8), thread(1), wax(4), bent(1), gently(1), curved(1), wings(3), beside(1), thumb(1), melt(1), fisherman(1), rod(1), shepherd(1), flyers(1), gods(1), bold(1), softened(1), loose(1), bare(1)",
+        "level B2: B2: KALDI | kapsam %95.0 | 939 kelime\n    havuz dışı: inventor(2), exile(1), upward(1), bold(1), feather(2), feathers(7), shepherd's(1), flute(1), thread(1), wax(4), fate(1), breeze(1), thumb(1), glide(1), spray(1), melt(1), warnings(1), inventor's(1), trembled(1), nest(1), fisherman(1), rod(1), shepherd(1), plow(1), obeyed(1), courage(1), heavens(1), melted(1), drifted(1), bare(1), hoarse(1), grief(1), cursed(1), clever(1), invention(1), sorrow(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8938,
+        "coreCoverage": 0.9336,
+        "exempt": [
+          "wings",
+          "feathers",
+          "wax"
+        ],
+        "wordCount": 320,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "fly(3)",
+          "sun(3)",
+          "son(2)",
+          "birds(2)",
+          "melt(2)",
+          "sky(1)",
+          "heavy(1)",
+          "gods(1)",
+          "flying(1)",
+          "sea(1)",
+          "cried(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9327,
+        "coreCoverage": 0.9625,
+        "exempt": [
+          "wings",
+          "feathers",
+          "wax"
+        ],
+        "wordCount": 505,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "sun(4)",
+          "sky(3)",
+          "bird(2)",
+          "melt(2)",
+          "thread(1)",
+          "heavy(1)",
+          "tears(1)",
+          "birds(1)",
+          "gods(1)",
+          "cried(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9456,
+        "coreCoverage": 0.9659,
+        "exempt": [
+          "wings",
+          "feathers",
+          "wax"
+        ],
+        "wordCount": 662,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "clever(3)",
+          "invent(1)",
+          "shore(1)",
+          "thread(1)",
+          "bent(1)",
+          "gently(1)",
+          "curved(1)",
+          "beside(1)",
+          "thumb(1)",
+          "melt(1)",
+          "fisherman(1)",
+          "rod(1)",
+          "shepherd(1)",
+          "flyers(1)",
+          "gods(1)",
+          "bold(1)",
+          "softened(1)",
+          "loose(1)",
+          "bare(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9499,
+        "coreCoverage": 0.9621,
+        "exempt": [
+          "wings",
+          "feathers",
+          "wax"
+        ],
+        "wordCount": 939,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "inventor(2)",
+          "exile(1)",
+          "upward(1)",
+          "bold(1)",
+          "shepherd's(1)",
+          "flute(1)",
+          "thread(1)",
+          "fate(1)",
+          "breeze(1)",
+          "thumb(1)",
+          "glide(1)",
+          "spray(1)",
+          "melt(1)",
+          "warnings(1)",
+          "inventor's(1)",
+          "trembled(1)",
+          "nest(1)",
+          "fisherman(1)",
+          "rod(1)",
+          "shepherd(1)",
+          "plow(1)",
+          "obeyed(1)",
+          "courage(1)",
+          "heavens(1)",
+          "melted(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9291,
+        "coreCoverage": 0.938,
+        "exempt": [
+          "wings",
+          "feathers",
+          "wax"
+        ],
+        "wordCount": 1270,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "inventor(3)",
+          "restless(2)",
+          "upward(2)",
+          "bound(2)",
+          "craftsmen(1)",
+          "genius(1)",
+          "astonished(1)",
+          "loyalty(1)",
+          "exile(1)",
+          "ached(1)",
+          "marble(1)",
+          "hemmed(1)",
+          "drift(1)",
+          "unguarded(1)",
+          "audacious(1)",
+          "reed(1)",
+          "shepherd's(1)",
+          "flute(1)",
+          "thread(1)",
+          "arc(1)",
+          "imitated(1)",
+          "elbow(1)",
+          "cheerful(1)",
+          "nuisance(1)",
+          "fate(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 320,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 505,
+      "sentLenMedian": 8.0,
+      "zipfMedian": 6.18,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 17,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 662,
+      "sentLenMedian": 12,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0033,
+      "lowZipfWords": [
+        "fisherman",
+        "softened"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 939,
+      "sentLenMedian": 15.0,
+      "zipfMedian": 6.01,
+      "lowZipfRatio": 0.0145,
+      "lowZipfWords": [
+        "drifted",
+        "fisherman",
+        "glancing",
+        "glide",
+        "hoarse",
+        "inventor's",
+        "longed",
+        "nearer",
+        "obeyed",
+        "plow",
+        "shepherd's",
+        "shone",
+        "trembled"
+      ],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1270,
+      "sentLenMedian": 21,
+      "zipfMedian": 6.0,
+      "lowZipfRatio": 0.0269,
+      "lowZipfWords": [
+        "ached",
+        "astonished",
+        "astonishment",
+        "audacious",
+        "blazing",
+        "cautiously",
+        "coaxing",
+        "craftsmen",
+        "crook",
+        "drifted",
+        "experimentally",
+        "faithfully",
+        "fastened",
+        "fisherman",
+        "fragrant",
+        "gazing",
+        "glittered",
+        "hemmed",
+        "hoarse",
+        "imitated",
+        "inventor's",
+        "knead",
+        "leaned",
+        "obediently",
+        "patiently",
+        "paused",
+        "plow",
+        "roared",
+        "shepherd's",
+        "snatched",
+        "trembled",
+        "trembling",
+        "unguarded"
+      ],
+      "keyTermTokens": 19,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8938,
+      "coreCoverage": 0.9336,
+      "exempt": [
+        "wings",
+        "feathers",
+        "wax"
+      ],
+      "wordCount": 320,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "fly(3)",
+        "sun(3)",
+        "son(2)",
+        "birds(2)",
+        "melt(2)",
+        "sky(1)",
+        "heavy(1)",
+        "gods(1)",
+        "flying(1)",
+        "sea(1)",
+        "cried(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9327,
+      "coreCoverage": 0.9625,
+      "exempt": [
+        "wings",
+        "feathers",
+        "wax"
+      ],
+      "wordCount": 505,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "sun(4)",
+        "sky(3)",
+        "bird(2)",
+        "melt(2)",
+        "thread(1)",
+        "heavy(1)",
+        "tears(1)",
+        "birds(1)",
+        "gods(1)",
+        "cried(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9456,
+      "coreCoverage": 0.9659,
+      "exempt": [
+        "wings",
+        "feathers",
+        "wax"
+      ],
+      "wordCount": 662,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "clever(3)",
+        "invent(1)",
+        "shore(1)",
+        "thread(1)",
+        "bent(1)",
+        "gently(1)",
+        "curved(1)",
+        "beside(1)",
+        "thumb(1)",
+        "melt(1)",
+        "fisherman(1)",
+        "rod(1)",
+        "shepherd(1)",
+        "flyers(1)",
+        "gods(1)",
+        "bold(1)",
+        "softened(1)",
+        "loose(1)",
+        "bare(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9499,
+      "coreCoverage": 0.9621,
+      "exempt": [
+        "wings",
+        "feathers",
+        "wax"
+      ],
+      "wordCount": 939,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "inventor(2)",
+        "exile(1)",
+        "upward(1)",
+        "bold(1)",
+        "shepherd's(1)",
+        "flute(1)",
+        "thread(1)",
+        "fate(1)",
+        "breeze(1)",
+        "thumb(1)",
+        "glide(1)",
+        "spray(1)",
+        "melt(1)",
+        "warnings(1)",
+        "inventor's(1)",
+        "trembled(1)",
+        "nest(1)",
+        "fisherman(1)",
+        "rod(1)",
+        "shepherd(1)",
+        "plow(1)",
+        "obeyed(1)",
+        "courage(1)",
+        "heavens(1)",
+        "melted(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9291,
+      "coreCoverage": 0.938,
+      "exempt": [
+        "wings",
+        "feathers",
+        "wax"
+      ],
+      "wordCount": 1270,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "inventor(3)",
+        "restless(2)",
+        "upward(2)",
+        "bound(2)",
+        "craftsmen(1)",
+        "genius(1)",
+        "astonished(1)",
+        "loyalty(1)",
+        "exile(1)",
+        "ached(1)",
+        "marble(1)",
+        "hemmed(1)",
+        "drift(1)",
+        "unguarded(1)",
+        "audacious(1)",
+        "reed(1)",
+        "shepherd's(1)",
+        "flute(1)",
+        "thread(1)",
+        "arc(1)",
+        "imitated(1)",
+        "elbow(1)",
+        "cheerful(1)",
+        "nuisance(1)",
+        "fate(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 4,
+      "1": 6,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9336,
+    "A2": 0.9625
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "kissed": 3,
+      "kiss": 1
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0024",
+        "title": "The Midnight Library Key",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0148",
+        "title": "The Tortoise and the Hare",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

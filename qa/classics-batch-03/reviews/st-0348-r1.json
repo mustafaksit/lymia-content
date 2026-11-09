@@ -1,0 +1,61 @@
+{
+  "id": "st-0348",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "1. meaning drift / 5. fidelity",
+          "quote": "Their father died many years ago.",
+          "problem": "Phronsie is described as the little youngest child, and every other level (and the book) says the father died when Phronsie was a baby. 'Many years ago' implies he died before the younger children were born, which contradicts the other levels and makes the family history illogical.",
+          "fix": "Their father died when Phronsie was a baby."
+        }
+      ],
+      "notes": [
+        "A1 comprehension (criterion 7): only a couple of words are beyond beginner level, so A1 passes this criterion, but simplify them: 'Still, they had a lot of fun.' -> 'But they had a lot of fun.'; 'The cake came out well.' -> 'The cake was very good.'",
+        "'Then came Joel and Davie.' is an inverted structure; 'Joel and Davie were next.' is easier for a true beginner.",
+        "'Mamsie was part of his family!' is a little vague; 'Mamsie was from his family!' or 'Mamsie was his relative!' (with 'relative' as an easy gloss) would be clearer."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Then Polly got the measles too. Then her eyes were very weak for a long time.' Two 'Then' sentences in a row read clumsily; use 'After that, her eyes were very weak for a long time.'",
+        "'Ben did hard work for other families.' is slightly flat; 'Ben worked hard for the farmers near the town.' matches the other levels."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "No passives or conditionals found; length and vocabulary suit B1."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Mamsie had to stay home to care for them, which meant less sewing and even less money.' Mamsie sews (and on the birthday she 'left for her day's work'), so the link is understandable, but 'Mamsie had to spend her days caring for them, which meant less sewing...' avoids the small question of why staying home reduces sewing."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error (unclear reference) / 2. unnatural English",
+          "quote": "At first, he grumbled loudly that his son had fallen in with a crowd of poor and noisy children. Little Phronsie had learned no such thing.",
+          "problem": "'No such thing' is meant to point back to the servants and relations who 'had learned to tread softly around him', but the grumbling sentence now sits in between, so it reads as if Phronsie had not learned to grumble about poor children. Readers have to go back to work out what it means.",
+          "fix": "Either move the grumbling sentence before 'servants, shopkeepers and even his own relations had learned to tread softly around him', or rewrite: 'Little Phronsie, however, had never learned to tread softly around anyone.'"
+        }
+      ],
+      "notes": [
+        "'for the first time in years the old house was filled with noise' - 'the old house' could be read as the Little Brown House, which C1 also calls old; 'the great house' is clearer.",
+        "Otherwise genuinely literary and faithful; the 'cross and demanding' recovery detail and the quiz work well."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, warm and age-appropriate retelling of Margaret Sidney's book: the birthday cake in the broken stove, the measles and Polly's weak eyes, Jasper, Mr. King won over by Phronsie, Polly's piano and the family-relation ending all appear in the right order. Two levels fail on small, easily fixed points. In A1, 'Their father died many years ago' contradicts the other levels, which say he died when Phronsie was a baby. In C1, the reference in 'Little Phronsie had learned no such thing' is unclear."
+}

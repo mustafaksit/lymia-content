@@ -1,0 +1,73 @@
+{
+  "id": "st-0349",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error",
+          "quote": "The Bastable children lived in Lewisham. There were six of them. Oswald and Dora were the oldest. Then came Dicky, Alice and Noel.",
+          "problem": "The text says there are six children, but it names only five. An A1 reader who counts the names will think something is wrong. All other levels mention the youngest brother.",
+          "fix": "Then came Dicky, Alice and Noel. The last one was a little brother."
+        },
+        {
+          "criterion": "4. logic error",
+          "quote": "Albert wanted to play the game too. He sat in their house and ate cake. Oswald and Dicky wrote a letter. It was for Albert's mother. \"Please send money for our father,\" it said.",
+          "problem": "The text never says that Albert is the robbers' prisoner. Without that, an A1 reader cannot see why Albert's mother should send money. The key idea of the episode is missing.",
+          "fix": "Albert wanted to play the game too. He was their 'prisoner'. He sat in their kitchen and ate cake. Oswald and Dicky wrote a letter to Albert's mother: \"Albert is with us. Please send money for our father.\""
+        },
+        {
+          "criterion": "7. A1 comprehension",
+          "quote": "Then the sides fell in. Albert could not get out.",
+          "problem": "'the sides fell in' is a phrasal verb with an abstract subject. A beginner will not picture the earth falling onto Albert.",
+          "fix": "Then the earth fell down on Albert's legs. Albert could not get out."
+        }
+      ],
+      "notes": [
+        "\"Let us play kind robbers\" sounds stilted coming from a child. \"Let's play kind robbers\" is more natural.",
+        "\"Father's old uncle came over\": \"came to dinner\" is clearer for A1 and matches the other levels."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Let us look/make/be...\" sounds stilted in children's dialogue. \"Let's\" is more natural.",
+        "\"came back from a far country\" sounds slightly odd. \"from a country far away\" is better."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"His uncle, an old man who lived abroad for many years, was back in the country\" and \"Their mother died a few years before\" would read more naturally as \"had lived\" / \"had died\". The past perfect is not banned at B1.",
+        "\"When it was finished\" is borderline passive. If you want to avoid it entirely, use \"When they finished\"."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"For some time, however, that house had been growing quieter and poorer\": the \"however\" has nothing to contrast with, since 'shabby' already came before it. Drop \"however\".",
+        "\"He always suspected that the coins...\" reads better as \"Ever afterwards he suspected...\"."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "2. unnatural English",
+          "quote": "The motion was carried without a single objection, and the rest of the afternoon went on drawing up a list of ways to get rich, nearly all of them borrowed from books.",
+          "problem": "This is ungrammatical. 'the rest of the afternoon' is made the subject of 'went on drawing up', as if the afternoon were writing the list. Readers will stumble here.",
+          "fix": "The motion was carried without a single objection, and the rest of the afternoon was spent drawing up a list of ways to get rich, nearly all of them borrowed from books."
+        }
+      ],
+      "notes": [
+        "The rest of the text is strong and genuinely literary, with no padding."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows Nesbit's original faithfully: the treasure dig with Albert and his uncle's planted coins, Dora's handwritten newspaper, the polite-bandits kidnapping of Albert, and the 'poor' Indian uncle who turns out rich. The age suitability is fine. A1 fails because only five of the six children are named and Albert's role as prisoner is never stated, so the ransom letter makes no sense. C1 fails on one ungrammatical sentence. A2, B1 and B2 pass, with minor style notes."
+}

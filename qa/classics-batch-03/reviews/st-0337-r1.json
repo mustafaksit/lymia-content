@@ -1,0 +1,22 @@
+{"id":"st-0337","round":1,"levels":{
+"A1":{"verdict":"PASS","issues":[],"notes":[
+"\"Nelly and I walked off the ship ... She walked to the side of the ship.\" They are already off the ship, so 'to the side of the ship' reads a little oddly. Consider: \"She walked to the edge of the water.\"",
+"\"The jewels and money were in it.\" No money was stolen earlier at A1 (only jewels). Consider \"The jewels were in it.\" or mention money in the theft scene.",
+"Quiz Q3 \"Where were the jewels at the end?\" At the very end they are in the water (inside the camera). The key is still the only defensible option, but \"Where did Lupin hide the jewels?\" is cleaner.",
+"\"showed his papers\": 'papers' meaning identity documents may be unclear to a beginner; \"showed his passport\" is simpler."]},
+"A2":{"verdict":"FAIL","issues":[{"criterion":"4. logic error","quote":"They watched every man with light hair.","problem":"The A2 message says only that Lupin travels alone and his name begins with R. Hair is never mentioned, so the reader cannot understand why people watch men with light hair.","fix":"Add hair to the message: \"Arsene Lupin is on your ship. He has light hair. He travels alone. His name begins with R.\""}],"notes":[
+"\"The jewels and the money were inside it!\" Only jewels were stolen in the A2 text; either mention money in the theft or drop 'and the money'.",
+"\"For years, he looked for Lupin.\" Acceptable within the A2 tense limits; reads fine."]},
+"B1":{"verdict":"PASS","issues":[],"notes":[
+"\"because I put them there myself\" would more naturally be \"had put\"; acceptable at B1.",
+"'The money' in the camera has no earlier source at B1 (only jewels were stolen). Minor."]},
+"B2":{"verdict":"FAIL","issues":[{"criterion":"4. logic error / unclear reference","quote":"He even offered a large reward to anyone who could find the real thief. They proved beyond doubt who he was, and the captain declared publicly that Rozaine was not Lupin.","problem":"The reward sentence was inserted between 'papers and letters' and 'They', so 'They' now seems to refer to nothing (or to 'anyone'). The reader stumbles over who or what proved his identity.","fix":"Reorder: \"Rozaine, deeply offended, went straight to the captain and showed him his papers and letters. They proved beyond doubt who he was, and the captain declared publicly that Rozaine was not Lupin. Rozaine even offered a large reward to anyone who could find the real thief.\""}],"notes":[
+"\"Then she let the camera drop into the water between the dock and the ship. Then she walked past me...\" Two consecutive sentences start with 'Then'; change the second to \"After that, she walked past me...\".",
+"The reward is introduced but 'the money' in the camera is never linked to it; in the original Lupin also took Rozaine's money. Optional: one sentence noting that Rozaine's reward money vanished too.",
+"\"Several of them secretly hoped for a visit from such a famous man.\" Gentle and in keeping with the original's tone; acceptable for 4+."]},
+"C1":{"verdict":"PASS","issues":[],"notes":[
+"\"It was the girl who had known exactly what I was\" slightly contradicts the earlier \"I watched the truth arrive in them, piece by piece\" (she learned it only on the dock). Consider \"the girl who now knew exactly what I was\".",
+"\"laughing at the very rumors I had caused\" The rumors came from the wireless message, not from Lupin; consider \"laughing at the very rumors that hunted me\".",
+"Rozaine's reward and its theft from the original are omitted, so 'a good deal of money besides' has no earlier source; acceptable condensing."]}},
+"overall":"FAIL",
+"summary":"A faithful, well-paced retelling of Leblanc's story with correct ending, and the quizzes are sound and age-appropriate throughout. A2 fails because the crowd watches men with light hair although the A2 message never mentions hair, and B2 fails because an inserted reward sentence breaks the reference of 'They proved beyond doubt who he was'. Both fixes are one-line changes."}

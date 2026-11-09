@@ -1,0 +1,654 @@
+{
+  "id": "st-0368",
+  "title": "Diamonds and Toads",
+  "ts": "2026-10-30T10:24:35",
+  "node": {
+    "id": "st-0368",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %91.5 | 331 kelime\n    havuz dışı: pretty(1), fountain(1), pitcher(2), poor(1), fairy(4), flower(1), diamond(1), sorry(1), flowers(1), diamonds(3), mouth(2), lady(2), snake(1), toad(1), snakes(1), toads(1), sister(1), prince(2), married(1)",
+        "level A2: A2: KALDI | kapsam %93.7 | 522 kelime\n    havuz dışı: pitcher(2), fountain(4), fairy(4), flower(1), diamond(1), flowers(2), diamonds(2), mouth(3), silver(1), bottle(1), lady(2), snake(1), toad(1), snakes(1), toads(1), jumped(1), fault(1), king's(3), king(1)",
+        "level B1: B1: KALDI | kapsam %92.6 | 756 kelime\n    havuz dışı: widow(1), unpleasant(1), gentle(1), polite(3), adored(1), fetch(1), fountain(7), pitcher(2), rinsed(1), fairy(4), pretending(1), jewel(1), scolded(1), pearls(3), diamonds(4), tumbled(1), rudely(1), grumbled(1), silver(2), flask(2), splendid(1), princess(1), rude(2), temper(1), snake(1), toad(1), snakes(1), toads(1), oh(2), rage(1), prince(2), sir(1), fortune(1), palace(1)",
+        "level B2: B2: KALDI | kapsam %92.8 | 925 kelime\n    havuz dışı: widow(1), elder(4), disagreeable(1), courteous(1), resemble(1), fierce(1), dislike(1), dawn(1), fountain(7), begged(2), rinsed(1), comfortably(1), kindness(2), fairy(4), precious(1), scolded(1), beg(1), pardon(1), pearls(3), diamonds(4), amazement(1), tumbled(1), fetch(1), politely(1), rudely(1), grumbled(1), flask(2), magnificently(1), princess(1), rudeness(1), polite(1), unkind(1), snake(1), toad(1), eagerly(1), rude(1), snakes(1), toads(1), heavens(1), fury(1), fled(1), weeping(1), alas(1), prince(1), dowry(1), bride(1), palace(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9154,
+        "coreCoverage": 0.9528,
+        "exempt": [
+          "diamonds",
+          "toads",
+          "fountain",
+          "pitcher"
+        ],
+        "wordCount": 331,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "mouth(2)",
+          "lady(2)",
+          "prince(2)",
+          "pretty(1)",
+          "poor(1)",
+          "flower(1)",
+          "sorry(1)",
+          "flowers(1)",
+          "snake(1)",
+          "snakes(1)",
+          "sister(1)",
+          "married(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9368,
+        "coreCoverage": 0.9645,
+        "exempt": [
+          "diamonds",
+          "toads",
+          "fountain",
+          "pitcher"
+        ],
+        "wordCount": 522,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "mouth(3)",
+          "king's(3)",
+          "flowers(2)",
+          "lady(2)",
+          "flower(1)",
+          "silver(1)",
+          "bottle(1)",
+          "snake(1)",
+          "snakes(1)",
+          "jumped(1)",
+          "fault(1)",
+          "king(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9259,
+        "coreCoverage": 0.9498,
+        "exempt": [
+          "diamonds",
+          "toads",
+          "fountain",
+          "pitcher"
+        ],
+        "wordCount": 756,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "polite(3)",
+          "pearls(3)",
+          "silver(2)",
+          "flask(2)",
+          "rude(2)",
+          "oh(2)",
+          "prince(2)",
+          "widow(1)",
+          "unpleasant(1)",
+          "gentle(1)",
+          "adored(1)",
+          "fetch(1)",
+          "rinsed(1)",
+          "pretending(1)",
+          "jewel(1)",
+          "scolded(1)",
+          "tumbled(1)",
+          "rudely(1)",
+          "grumbled(1)",
+          "splendid(1)",
+          "princess(1)",
+          "temper(1)",
+          "snake(1)",
+          "snakes(1)",
+          "rage(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9276,
+        "coreCoverage": 0.9447,
+        "exempt": [
+          "diamonds",
+          "toads",
+          "fountain",
+          "pitcher"
+        ],
+        "wordCount": 925,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "elder(4)",
+          "pearls(3)",
+          "begged(2)",
+          "kindness(2)",
+          "flask(2)",
+          "widow(1)",
+          "disagreeable(1)",
+          "courteous(1)",
+          "resemble(1)",
+          "fierce(1)",
+          "dislike(1)",
+          "dawn(1)",
+          "rinsed(1)",
+          "comfortably(1)",
+          "precious(1)",
+          "scolded(1)",
+          "beg(1)",
+          "pardon(1)",
+          "amazement(1)",
+          "tumbled(1)",
+          "fetch(1)",
+          "politely(1)",
+          "rudely(1)",
+          "grumbled(1)",
+          "magnificently(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9111,
+        "coreCoverage": 0.9259,
+        "exempt": [
+          "diamonds",
+          "toads",
+          "fountain",
+          "pitcher"
+        ],
+        "wordCount": 1158,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "elder(4)",
+          "pearls(4)",
+          "widow(2)",
+          "humble(2)",
+          "astonished(2)",
+          "flask(2)",
+          "weeping(2)",
+          "resemble(1)",
+          "temper(1)",
+          "disagreeable(1)",
+          "swollen(1)",
+          "courteous(1)",
+          "sour(1)",
+          "resentment(1)",
+          "resembles(1)",
+          "doted(1)",
+          "fierce(1)",
+          "unrelenting(1)",
+          "dislike(1)",
+          "toiling(1)",
+          "countless(1)",
+          "chores(1)",
+          "brimming(1)",
+          "hesitation(1)",
+          "rinsed(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 331,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0031,
+      "lowZipfWords": [
+        "toad"
+      ],
+      "keyTermTokens": 7,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 522,
+      "sentLenMedian": 8,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0039,
+      "lowZipfWords": [
+        "clearest",
+        "toad"
+      ],
+      "keyTermTokens": 9,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 756,
+      "sentLenMedian": 11.0,
+      "zipfMedian": 6.24,
+      "lowZipfRatio": 0.0135,
+      "lowZipfWords": [
+        "adored",
+        "clearest",
+        "flask",
+        "grumbled",
+        "rinsed",
+        "rudely",
+        "scolded",
+        "toad",
+        "tumbled"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 925,
+      "sentLenMedian": 14.0,
+      "zipfMedian": 6.26,
+      "lowZipfRatio": 0.0242,
+      "lowZipfWords": [
+        "amazement",
+        "clearest",
+        "courteous",
+        "disagreeable",
+        "dowry",
+        "eagerly",
+        "flask",
+        "grumbled",
+        "magnificently",
+        "mannered",
+        "politely",
+        "reasoned",
+        "rinsed",
+        "rudely",
+        "rudeness",
+        "scolded",
+        "toad",
+        "tumbled",
+        "unkind",
+        "wandered",
+        "weeping"
+      ],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1158,
+      "sentLenMedian": 21,
+      "zipfMedian": 6.13,
+      "lowZipfRatio": 0.0387,
+      "lowZipfWords": [
+        "astonished",
+        "beggar",
+        "bitterly",
+        "brimming",
+        "charmed",
+        "civilly",
+        "clearest",
+        "courteous",
+        "disagreeable",
+        "doted",
+        "dowry",
+        "eagerly",
+        "errand",
+        "flask",
+        "gentleness",
+        "graciously",
+        "grumbling",
+        "handsomest",
+        "henceforth",
+        "loveliest",
+        "magnificently",
+        "meekly",
+        "moment's",
+        "nursed",
+        "obliging",
+        "persuading",
+        "retorted",
+        "rinsed",
+        "scarcely",
+        "scattering",
+        "scolded",
+        "toad",
+        "toiling",
+        "trudging",
+        "tumbled",
+        "tumbling",
+        "ungracious",
+        "unmistakable",
+        "unrelenting",
+        "weeping",
+        "wretched"
+      ],
+      "keyTermTokens": 20,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9154,
+      "coreCoverage": 0.9528,
+      "exempt": [
+        "diamonds",
+        "toads",
+        "fountain",
+        "pitcher"
+      ],
+      "wordCount": 331,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "mouth(2)",
+        "lady(2)",
+        "prince(2)",
+        "pretty(1)",
+        "poor(1)",
+        "flower(1)",
+        "sorry(1)",
+        "flowers(1)",
+        "snake(1)",
+        "snakes(1)",
+        "sister(1)",
+        "married(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9368,
+      "coreCoverage": 0.9645,
+      "exempt": [
+        "diamonds",
+        "toads",
+        "fountain",
+        "pitcher"
+      ],
+      "wordCount": 522,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "mouth(3)",
+        "king's(3)",
+        "flowers(2)",
+        "lady(2)",
+        "flower(1)",
+        "silver(1)",
+        "bottle(1)",
+        "snake(1)",
+        "snakes(1)",
+        "jumped(1)",
+        "fault(1)",
+        "king(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9259,
+      "coreCoverage": 0.9498,
+      "exempt": [
+        "diamonds",
+        "toads",
+        "fountain",
+        "pitcher"
+      ],
+      "wordCount": 756,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "polite(3)",
+        "pearls(3)",
+        "silver(2)",
+        "flask(2)",
+        "rude(2)",
+        "oh(2)",
+        "prince(2)",
+        "widow(1)",
+        "unpleasant(1)",
+        "gentle(1)",
+        "adored(1)",
+        "fetch(1)",
+        "rinsed(1)",
+        "pretending(1)",
+        "jewel(1)",
+        "scolded(1)",
+        "tumbled(1)",
+        "rudely(1)",
+        "grumbled(1)",
+        "splendid(1)",
+        "princess(1)",
+        "temper(1)",
+        "snake(1)",
+        "snakes(1)",
+        "rage(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9276,
+      "coreCoverage": 0.9447,
+      "exempt": [
+        "diamonds",
+        "toads",
+        "fountain",
+        "pitcher"
+      ],
+      "wordCount": 925,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "elder(4)",
+        "pearls(3)",
+        "begged(2)",
+        "kindness(2)",
+        "flask(2)",
+        "widow(1)",
+        "disagreeable(1)",
+        "courteous(1)",
+        "resemble(1)",
+        "fierce(1)",
+        "dislike(1)",
+        "dawn(1)",
+        "rinsed(1)",
+        "comfortably(1)",
+        "precious(1)",
+        "scolded(1)",
+        "beg(1)",
+        "pardon(1)",
+        "amazement(1)",
+        "tumbled(1)",
+        "fetch(1)",
+        "politely(1)",
+        "rudely(1)",
+        "grumbled(1)",
+        "magnificently(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9111,
+      "coreCoverage": 0.9259,
+      "exempt": [
+        "diamonds",
+        "toads",
+        "fountain",
+        "pitcher"
+      ],
+      "wordCount": 1158,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "elder(4)",
+        "pearls(4)",
+        "widow(2)",
+        "humble(2)",
+        "astonished(2)",
+        "flask(2)",
+        "weeping(2)",
+        "resemble(1)",
+        "temper(1)",
+        "disagreeable(1)",
+        "swollen(1)",
+        "courteous(1)",
+        "sour(1)",
+        "resentment(1)",
+        "resembles(1)",
+        "doted(1)",
+        "fierce(1)",
+        "unrelenting(1)",
+        "dislike(1)",
+        "toiling(1)",
+        "countless(1)",
+        "chores(1)",
+        "brimming(1)",
+        "hesitation(1)",
+        "rinsed(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9528,
+    "A2": 0.9645
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.2,
+      "summary3gramJaccard": 0.038,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0283",
+        "title": "The Three Musketeers and the Queen's Diamonds",
+        "titleJaccard": 0.2,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0170",
+        "title": "The Star Money",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.038,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0176",
+        "title": "Cinderella",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.037,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

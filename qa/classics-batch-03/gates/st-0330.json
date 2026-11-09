@@ -1,0 +1,644 @@
+{
+  "id": "st-0330",
+  "title": "The Ebony Horse",
+  "ts": "2026-10-30T10:23:45",
+  "node": {
+    "id": "st-0330",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %83.6 | 330 kelime\n    havuz dışı: king(5), sages(1), sage(9), ebony(1), horse(13), fly(1), daughter(1), prince(6), key(3), princess(8), angry(1), marry(1), acted(1), mad(1), doctor(1), married(1)",
+        "level A2: A2: KALDI | kapsam %89.5 | 494 kelime\n    havuz dışı: king(6), sages(1), sage(11), horse(12), ebony(1), prince(8), princess(9), angry(1), palace(1), mad(2)",
+        "level B1: B1: KALDI | kapsam %89.7 | 819 kelime\n    havuz dışı: festival(1), sages(1), sage(9), brass(1), trumpet(1), peacock(1), third(1), shining(1), ebony(3), princess(9), prince(15), furious(1), anger(2), peg(5), sadness(1), sage's(1), trick(1), sink(1), roof(2), palace(4), crept(1), stairs(1), silk(1), moon(1), faded(1), servant(1), hurried(2), wept(1), joy(1), royal(1), wicked(1), distant(1), kingdom(2), frightened(1), clever(1), pretended(1), mad(2), cure(2), joyful(1)",
+        "level B2: B2: KALDI | kapsam %92.3 | 1110 kelime\n    havuz dışı: sages(1), palace(6), brass(1), trumpet(1), peacock(1), third(1), carved(1), ebony(4), politely(1), sage(8), astonished(1), hesitation(1), princess(14), wept(2), prince(17), peg(6), leapt(1), magnificent(1), staircase(1), asleep(1), lamp(1), dawn(1), courtyard(1), herbs(1), kingdom(3), meadow(2), treasury(1), clever(1), merchants(1), eagerly(1), cured(1), amazement(1), afterwards(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8364,
+        "coreCoverage": 0.9249,
+        "exempt": [
+          "horse",
+          "ebony",
+          "sage",
+          "princess"
+        ],
+        "wordCount": 330,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "prince(6)",
+          "king(5)",
+          "key(3)",
+          "fly(1)",
+          "daughter(1)",
+          "angry(1)",
+          "marry(1)",
+          "acted(1)",
+          "mad(1)",
+          "doctor(1)",
+          "married(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.8947,
+        "coreCoverage": 0.9603,
+        "exempt": [
+          "horse",
+          "ebony",
+          "sage",
+          "princess"
+        ],
+        "wordCount": 494,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "prince(8)",
+          "king(6)",
+          "mad(2)",
+          "angry(1)",
+          "palace(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.8974,
+        "coreCoverage": 0.921,
+        "exempt": [
+          "horse",
+          "ebony",
+          "sage",
+          "princess"
+        ],
+        "wordCount": 819,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "prince(15)",
+          "peg(5)",
+          "palace(4)",
+          "anger(2)",
+          "roof(2)",
+          "hurried(2)",
+          "kingdom(2)",
+          "mad(2)",
+          "cure(2)",
+          "festival(1)",
+          "brass(1)",
+          "trumpet(1)",
+          "peacock(1)",
+          "third(1)",
+          "shining(1)",
+          "furious(1)",
+          "sadness(1)",
+          "trick(1)",
+          "sink(1)",
+          "crept(1)",
+          "stairs(1)",
+          "silk(1)",
+          "moon(1)",
+          "faded(1)",
+          "servant(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9225,
+        "coreCoverage": 0.944,
+        "exempt": [
+          "horse",
+          "ebony",
+          "sage",
+          "princess"
+        ],
+        "wordCount": 1110,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "prince(17)",
+          "palace(6)",
+          "peg(6)",
+          "kingdom(3)",
+          "wept(2)",
+          "meadow(2)",
+          "brass(1)",
+          "trumpet(1)",
+          "peacock(1)",
+          "third(1)",
+          "carved(1)",
+          "politely(1)",
+          "astonished(1)",
+          "hesitation(1)",
+          "leapt(1)",
+          "magnificent(1)",
+          "staircase(1)",
+          "asleep(1)",
+          "lamp(1)",
+          "dawn(1)",
+          "courtyard(1)",
+          "herbs(1)",
+          "treasury(1)",
+          "clever(1)",
+          "merchants(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9037,
+        "coreCoverage": 0.9195,
+        "exempt": [
+          "horse",
+          "ebony",
+          "sage",
+          "princess"
+        ],
+        "wordCount": 1496,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "prince(13)",
+          "palace(6)",
+          "peg(6)",
+          "kingdom(3)",
+          "meadow(3)",
+          "physician(3)",
+          "merchants(2)",
+          "travelers(2)",
+          "third(2)",
+          "courtiers(2)",
+          "thief(2)",
+          "nobles(1)",
+          "marvel(1)",
+          "trumpet(1)",
+          "brass(1)",
+          "throne(1)",
+          "peacock(1)",
+          "glittering(1)",
+          "carved(1)",
+          "polished(1)",
+          "generously(1)",
+          "heaven(1)",
+          "gasping(1)",
+          "swore(1)",
+          "bowed(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "king welcomed them with great joy. Soon afterwards, the prince and the princess were marri"
+        }
+      ]
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ADVERB_WORD_ORDER",
+          "cat": "STYLE",
+          "msg": "The adverb ‘hardly’ is usually put before the verb ‘seemed’.",
+          "frag": "seemed hardly",
+          "ctx": "was an old man so bent and thin that he seemed hardly able to stand. Behind him, he led a hor"
+        },
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "ge claimed, they could speak of payment afterwards.  The sage, concealing his anger behind"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 330,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.3,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 32,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 494,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.26,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 34,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 819,
+      "sentLenMedian": 12.0,
+      "zipfMedian": 6.2,
+      "lowZipfRatio": 0.0194,
+      "lowZipfWords": [
+        "crept",
+        "horse's",
+        "hurried",
+        "joyful",
+        "lovelier",
+        "peacock",
+        "peg",
+        "sage's",
+        "wept"
+      ],
+      "keyTermTokens": 34,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1110,
+      "sentLenMedian": 16.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0161,
+      "lowZipfWords": [
+        "amazement",
+        "astonished",
+        "circling",
+        "eagerly",
+        "horse's",
+        "leapt",
+        "peacock",
+        "peg",
+        "politely",
+        "tricked",
+        "wept"
+      ],
+      "keyTermTokens": 45,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1496,
+      "sentLenMedian": 22,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0312,
+      "lowZipfWords": [
+        "boundless",
+        "bowed",
+        "captor",
+        "circled",
+        "concealing",
+        "courteous",
+        "courtiers",
+        "crept",
+        "deceived",
+        "deserts",
+        "domes",
+        "gasping",
+        "generously",
+        "gladness",
+        "glimmered",
+        "glittering",
+        "grander",
+        "grasped",
+        "horse's",
+        "nobles",
+        "overheard",
+        "parting",
+        "patiently",
+        "peacock",
+        "peg",
+        "prince's",
+        "raved",
+        "scoffed",
+        "shrunk",
+        "snoring",
+        "solemnity",
+        "speck",
+        "sprang",
+        "stair",
+        "startled",
+        "upturned",
+        "wandered",
+        "weariness",
+        "wept"
+      ],
+      "keyTermTokens": 42,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8364,
+      "coreCoverage": 0.9249,
+      "exempt": [
+        "horse",
+        "ebony",
+        "sage",
+        "princess"
+      ],
+      "wordCount": 330,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "prince(6)",
+        "king(5)",
+        "key(3)",
+        "fly(1)",
+        "daughter(1)",
+        "angry(1)",
+        "marry(1)",
+        "acted(1)",
+        "mad(1)",
+        "doctor(1)",
+        "married(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.8947,
+      "coreCoverage": 0.9603,
+      "exempt": [
+        "horse",
+        "ebony",
+        "sage",
+        "princess"
+      ],
+      "wordCount": 494,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "prince(8)",
+        "king(6)",
+        "mad(2)",
+        "angry(1)",
+        "palace(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.8974,
+      "coreCoverage": 0.921,
+      "exempt": [
+        "horse",
+        "ebony",
+        "sage",
+        "princess"
+      ],
+      "wordCount": 819,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "prince(15)",
+        "peg(5)",
+        "palace(4)",
+        "anger(2)",
+        "roof(2)",
+        "hurried(2)",
+        "kingdom(2)",
+        "mad(2)",
+        "cure(2)",
+        "festival(1)",
+        "brass(1)",
+        "trumpet(1)",
+        "peacock(1)",
+        "third(1)",
+        "shining(1)",
+        "furious(1)",
+        "sadness(1)",
+        "trick(1)",
+        "sink(1)",
+        "crept(1)",
+        "stairs(1)",
+        "silk(1)",
+        "moon(1)",
+        "faded(1)",
+        "servant(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9225,
+      "coreCoverage": 0.944,
+      "exempt": [
+        "horse",
+        "ebony",
+        "sage",
+        "princess"
+      ],
+      "wordCount": 1110,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "prince(17)",
+        "palace(6)",
+        "peg(6)",
+        "kingdom(3)",
+        "wept(2)",
+        "meadow(2)",
+        "brass(1)",
+        "trumpet(1)",
+        "peacock(1)",
+        "third(1)",
+        "carved(1)",
+        "politely(1)",
+        "astonished(1)",
+        "hesitation(1)",
+        "leapt(1)",
+        "magnificent(1)",
+        "staircase(1)",
+        "asleep(1)",
+        "lamp(1)",
+        "dawn(1)",
+        "courtyard(1)",
+        "herbs(1)",
+        "treasury(1)",
+        "clever(1)",
+        "merchants(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9037,
+      "coreCoverage": 0.9195,
+      "exempt": [
+        "horse",
+        "ebony",
+        "sage",
+        "princess"
+      ],
+      "wordCount": 1496,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "prince(13)",
+        "palace(6)",
+        "peg(6)",
+        "kingdom(3)",
+        "meadow(3)",
+        "physician(3)",
+        "merchants(2)",
+        "travelers(2)",
+        "third(2)",
+        "courtiers(2)",
+        "thief(2)",
+        "nobles(1)",
+        "marvel(1)",
+        "trumpet(1)",
+        "brass(1)",
+        "throne(1)",
+        "peacock(1)",
+        "glittering(1)",
+        "carved(1)",
+        "polished(1)",
+        "generously(1)",
+        "heaven(1)",
+        "gasping(1)",
+        "swore(1)",
+        "bowed(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9249,
+    "A2": 0.9603
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.036,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0289",
+        "title": "Jason and the Golden Fleece",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.036,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0304",
+        "title": "The Prince and the Pauper",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.033,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0310",
+        "title": "Micromegas",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

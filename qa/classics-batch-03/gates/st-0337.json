@@ -1,0 +1,561 @@
+{
+  "id": "st-0337",
+  "title": "The Arrest of Arsène Lupin",
+  "ts": "2026-10-30T10:23:55",
+  "node": {
+    "id": "st-0337",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %91.4 | 325 kelime\n    havuz dışı: ship(8), sea(1), message(3), jewels(4), camera(5), laughed(1), police(2), arm(1), hello(1), edge(1), forgot(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9138,
+        "coreCoverage": 0.9601,
+        "exempt": [
+          "ship",
+          "camera",
+          "jewels"
+        ],
+        "wordCount": 325,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "message(3)",
+          "police(2)",
+          "sea(1)",
+          "laughed(1)",
+          "arm(1)",
+          "hello(1)",
+          "edge(1)",
+          "forgot(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9532,
+        "coreCoverage": 0.9934,
+        "exempt": [
+          "ship",
+          "camera",
+          "jewels"
+        ],
+        "wordCount": 513,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "clever(1)",
+          "famous(1)",
+          "hello(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9551,
+        "coreCoverage": 0.9568,
+        "exempt": [
+          "ship",
+          "camera",
+          "jewels"
+        ],
+        "wordCount": 668,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "dock(4)",
+          "captain(3)",
+          "ocean(2)",
+          "thief(2)",
+          "wireless(1)",
+          "paintings(1)",
+          "collectors(1)",
+          "chased(1)",
+          "clever(1)",
+          "deck(1)",
+          "mystery(1)",
+          "whisper(1)",
+          "third(1)",
+          "wealthy(1)",
+          "cabin(1)",
+          "cabins(1)",
+          "rail(1)",
+          "detective(1)",
+          "lying(1)",
+          "pale(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9623,
+        "coreCoverage": 0.9645,
+        "exempt": [
+          "ship",
+          "camera",
+          "jewels"
+        ],
+        "wordCount": 954,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "captain(4)",
+          "dock(4)",
+          "thief(3)",
+          "decks(2)",
+          "cabin(2)",
+          "wireless(1)",
+          "princes(1)",
+          "paintings(1)",
+          "millionaires(1)",
+          "gloves(1)",
+          "suspicion(1)",
+          "thrilling(1)",
+          "clever(1)",
+          "endless(1)",
+          "offended(1)",
+          "third(1)",
+          "gentlemen(1)",
+          "wallets(1)",
+          "voyage(1)",
+          "windy(1)",
+          "detective(1)",
+          "pointless(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9503,
+        "coreCoverage": 0.9498,
+        "exempt": [
+          "ship",
+          "camera",
+          "jewels"
+        ],
+        "wordCount": 1289,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "captain(4)",
+          "dock(4)",
+          "thief(3)",
+          "voyage(3)",
+          "decks(2)",
+          "cabin(2)",
+          "detective(2)",
+          "swift(1)",
+          "gravest(1)",
+          "captain's(1)",
+          "tact(1)",
+          "abrupt(1)",
+          "wireless(1)",
+          "vanished(1)",
+          "princes(1)",
+          "paintings(1)",
+          "millionaires(1)",
+          "wit(1)",
+          "cursed(1)",
+          "adored(1)",
+          "despised(1)",
+          "gloves(1)",
+          "suspicion(1)",
+          "maddening(1)",
+          "delightful(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "AFTERWARDS_US",
+          "cat": "BRITISH_ENGLISH",
+          "msg": "In American English, ‘afterward’ is the preferred variant. ‘Afterwards’ is more commonly used in British English and other dialects.",
+          "frag": "afterwards",
+          "ctx": "nd yet I noticed that for a long moment afterwards she did not take her gaze from my face."
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 325,
+      "sentLenMedian": 6,
+      "zipfMedian": 6.26,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 17,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 513,
+      "sentLenMedian": 7.0,
+      "zipfMedian": 6.26,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 21,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 668,
+      "sentLenMedian": 10,
+      "zipfMedian": 6.19,
+      "lowZipfRatio": 0.0016,
+      "lowZipfWords": [
+        "cabins"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 954,
+      "sentLenMedian": 13.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0033,
+      "lowZipfWords": [
+        "millionaires",
+        "safes",
+        "wallets"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1289,
+      "sentLenMedian": 18,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0211,
+      "lowZipfWords": [
+        "abrupt",
+        "adored",
+        "bolted",
+        "boredom",
+        "captain's",
+        "crept",
+        "culprit",
+        "despised",
+        "eagerness",
+        "emptied",
+        "enchanted",
+        "faintest",
+        "gravest",
+        "lady's",
+        "leaned",
+        "maddening",
+        "millionaires",
+        "morning's",
+        "neighbor's",
+        "nervousness",
+        "remarking",
+        "safes",
+        "squarely",
+        "tact",
+        "undeserved",
+        "valuables"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9138,
+      "coreCoverage": 0.9601,
+      "exempt": [
+        "ship",
+        "camera",
+        "jewels"
+      ],
+      "wordCount": 325,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "message(3)",
+        "police(2)",
+        "sea(1)",
+        "laughed(1)",
+        "arm(1)",
+        "hello(1)",
+        "edge(1)",
+        "forgot(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9532,
+      "coreCoverage": 0.9934,
+      "exempt": [
+        "ship",
+        "camera",
+        "jewels"
+      ],
+      "wordCount": 513,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "clever(1)",
+        "famous(1)",
+        "hello(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9551,
+      "coreCoverage": 0.9568,
+      "exempt": [
+        "ship",
+        "camera",
+        "jewels"
+      ],
+      "wordCount": 668,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "dock(4)",
+        "captain(3)",
+        "ocean(2)",
+        "thief(2)",
+        "wireless(1)",
+        "paintings(1)",
+        "collectors(1)",
+        "chased(1)",
+        "clever(1)",
+        "deck(1)",
+        "mystery(1)",
+        "whisper(1)",
+        "third(1)",
+        "wealthy(1)",
+        "cabin(1)",
+        "cabins(1)",
+        "rail(1)",
+        "detective(1)",
+        "lying(1)",
+        "pale(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9623,
+      "coreCoverage": 0.9645,
+      "exempt": [
+        "ship",
+        "camera",
+        "jewels"
+      ],
+      "wordCount": 954,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "captain(4)",
+        "dock(4)",
+        "thief(3)",
+        "decks(2)",
+        "cabin(2)",
+        "wireless(1)",
+        "princes(1)",
+        "paintings(1)",
+        "millionaires(1)",
+        "gloves(1)",
+        "suspicion(1)",
+        "thrilling(1)",
+        "clever(1)",
+        "endless(1)",
+        "offended(1)",
+        "third(1)",
+        "gentlemen(1)",
+        "wallets(1)",
+        "voyage(1)",
+        "windy(1)",
+        "detective(1)",
+        "pointless(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9503,
+      "coreCoverage": 0.9498,
+      "exempt": [
+        "ship",
+        "camera",
+        "jewels"
+      ],
+      "wordCount": 1289,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "captain(4)",
+        "dock(4)",
+        "thief(3)",
+        "voyage(3)",
+        "decks(2)",
+        "cabin(2)",
+        "detective(2)",
+        "swift(1)",
+        "gravest(1)",
+        "captain's(1)",
+        "tact(1)",
+        "abrupt(1)",
+        "wireless(1)",
+        "vanished(1)",
+        "princes(1)",
+        "paintings(1)",
+        "millionaires(1)",
+        "wit(1)",
+        "cursed(1)",
+        "adored(1)",
+        "despised(1)",
+        "gloves(1)",
+        "suspicion(1)",
+        "maddening(1)",
+        "delightful(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9601,
+    "A2": 0.9934
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.034,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0185",
+        "title": "How the Leopard Got His Spots",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.034,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0285",
+        "title": "Kidnapped",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.033,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

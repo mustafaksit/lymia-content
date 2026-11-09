@@ -1,0 +1,631 @@
+{
+  "id": "st-0327",
+  "title": "William Tell",
+  "ts": "2026-10-30T10:23:40",
+  "node": {
+    "id": "st-0327",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %90.7 | 313 kelime\n    havuz dışı: william(1), wife(1), son(1), crossbow(2), shoot(2), hat(5), bow(2), soldiers(1), apple(4), afraid(1), arrows(1), shot(1), arrow(2), boat(3), lake(1), storm(1)",
+        "level A2: A2: KALDI | kapsam %92.7 | 493 kelime\n    havuz dışı: crossbow(4), shot(2), hat(4), pole(1), bow(3), soldiers(2), apple(6), shoot(1), prison(1), arrows(1), arrow(2), tied(1), boat(4), lake(1), storm(1), jumped(1), mountain(1)",
+        "level B1: B1: KALDI | kapsam %94.5 | 695 kelime\n    havuz dışı: crossbow(4), governor(3), cruel(1), emperor(1), pole(3), bow(2), bowing(2), governor's(1), apple(4), mercy(1), arrows(1), belt(1), silent(2), arrow(4), cheered(1), spare(1), castle(1), boatmen(1), steer(1), shore(1), courage(1), flee(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9073,
+        "coreCoverage": 0.943,
+        "exempt": [
+          "apple",
+          "hat",
+          "crossbow",
+          "bow"
+        ],
+        "wordCount": 313,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "boat(3)",
+          "shoot(2)",
+          "arrow(2)",
+          "wife(1)",
+          "son(1)",
+          "soldiers(1)",
+          "afraid(1)",
+          "arrows(1)",
+          "shot(1)",
+          "lake(1)",
+          "storm(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.927,
+        "coreCoverage": 0.9569,
+        "exempt": [
+          "apple",
+          "hat",
+          "crossbow",
+          "bow"
+        ],
+        "wordCount": 493,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "boat(4)",
+          "shot(2)",
+          "soldiers(2)",
+          "arrow(2)",
+          "pole(1)",
+          "shoot(1)",
+          "prison(1)",
+          "arrows(1)",
+          "tied(1)",
+          "lake(1)",
+          "storm(1)",
+          "jumped(1)",
+          "mountain(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9453,
+        "coreCoverage": 0.9596,
+        "exempt": [
+          "apple",
+          "hat",
+          "crossbow",
+          "bow"
+        ],
+        "wordCount": 695,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "arrow(4)",
+          "governor(3)",
+          "pole(3)",
+          "silent(2)",
+          "cruel(1)",
+          "emperor(1)",
+          "governor's(1)",
+          "mercy(1)",
+          "arrows(1)",
+          "belt(1)",
+          "cheered(1)",
+          "spare(1)",
+          "castle(1)",
+          "boatmen(1)",
+          "steer(1)",
+          "shore(1)",
+          "courage(1)",
+          "flee(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9596,
+        "coreCoverage": 0.9678,
+        "exempt": [
+          "apple",
+          "hat",
+          "crossbow",
+          "bow"
+        ],
+        "wordCount": 1015,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "pole(3)",
+          "arrow(3)",
+          "arrows(2)",
+          "pine(1)",
+          "emperor(1)",
+          "punished(1)",
+          "obey(1)",
+          "lanes(1)",
+          "followers(1)",
+          "lord(1)",
+          "nobleman(1)",
+          "begged(1)",
+          "amused(1)",
+          "tense(1)",
+          "chin(1)",
+          "unharmed(1)",
+          "cheer(1)",
+          "hunter's(1)",
+          "darkened(1)",
+          "boatmen(1)",
+          "rocky(1)",
+          "ledge(1)",
+          "seized(1)",
+          "vanished(1)",
+          "courage(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9215,
+        "coreCoverage": 0.9272,
+        "exempt": [
+          "apple",
+          "hat",
+          "crossbow",
+          "bow"
+        ],
+        "wordCount": 1414,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "arrow(4)",
+          "pole(3)",
+          "authority(2)",
+          "obedience(2)",
+          "strongholds(2)",
+          "swore(2)",
+          "linden(2)",
+          "cliffs(2)",
+          "boatmen(2)",
+          "lingers(1)",
+          "fearless(1)",
+          "steep(1)",
+          "misstep(1)",
+          "marksman(1)",
+          "emperor(1)",
+          "suspicious(1)",
+          "hillsides(1)",
+          "cattle(1)",
+          "consent(1)",
+          "barns(1)",
+          "meetings(1)",
+          "trimmed(1)",
+          "feathers(1)",
+          "herald(1)",
+          "humbly(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 313,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 493,
+      "sentLenMedian": 8.0,
+      "zipfMedian": 6.12,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 17,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 695,
+      "sentLenMedian": 11.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0062,
+      "lowZipfWords": [
+        "boatmen",
+        "bowing",
+        "cheered"
+      ],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1015,
+      "sentLenMedian": 15,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0135,
+      "lowZipfWords": [
+        "boatmen",
+        "castles",
+        "coldly",
+        "darkened",
+        "glancing",
+        "harmed",
+        "hesitated",
+        "hunter's",
+        "leaped",
+        "ledge",
+        "nobleman",
+        "paces",
+        "unharmed"
+      ],
+      "keyTermTokens": 14,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1414,
+      "sentLenMedian": 23,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.039,
+      "lowZipfWords": [
+        "barns",
+        "boatmen",
+        "clatter",
+        "cleanly",
+        "defiance",
+        "dues",
+        "dusk",
+        "halves",
+        "harmed",
+        "heaving",
+        "hillsides",
+        "hoarsely",
+        "hooves",
+        "howling",
+        "humbly",
+        "hush",
+        "irritation",
+        "kitchens",
+        "lakeshore",
+        "leaned",
+        "linden",
+        "lingers",
+        "loosed",
+        "marksman",
+        "misstep",
+        "murmured",
+        "murmuring",
+        "nobleman",
+        "nobles",
+        "oar",
+        "oars",
+        "oaths",
+        "paces",
+        "pastures",
+        "patiently",
+        "pines",
+        "prisoner's",
+        "regained",
+        "scenting",
+        "silenced",
+        "snatched",
+        "sprang",
+        "steadiness",
+        "strode",
+        "strongholds",
+        "swung",
+        "townspeople",
+        "trimmed",
+        "vanish"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9073,
+      "coreCoverage": 0.943,
+      "exempt": [
+        "apple",
+        "hat",
+        "crossbow",
+        "bow"
+      ],
+      "wordCount": 313,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "boat(3)",
+        "shoot(2)",
+        "arrow(2)",
+        "wife(1)",
+        "son(1)",
+        "soldiers(1)",
+        "afraid(1)",
+        "arrows(1)",
+        "shot(1)",
+        "lake(1)",
+        "storm(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.927,
+      "coreCoverage": 0.9569,
+      "exempt": [
+        "apple",
+        "hat",
+        "crossbow",
+        "bow"
+      ],
+      "wordCount": 493,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "boat(4)",
+        "shot(2)",
+        "soldiers(2)",
+        "arrow(2)",
+        "pole(1)",
+        "shoot(1)",
+        "prison(1)",
+        "arrows(1)",
+        "tied(1)",
+        "lake(1)",
+        "storm(1)",
+        "jumped(1)",
+        "mountain(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9453,
+      "coreCoverage": 0.9596,
+      "exempt": [
+        "apple",
+        "hat",
+        "crossbow",
+        "bow"
+      ],
+      "wordCount": 695,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "arrow(4)",
+        "governor(3)",
+        "pole(3)",
+        "silent(2)",
+        "cruel(1)",
+        "emperor(1)",
+        "governor's(1)",
+        "mercy(1)",
+        "arrows(1)",
+        "belt(1)",
+        "cheered(1)",
+        "spare(1)",
+        "castle(1)",
+        "boatmen(1)",
+        "steer(1)",
+        "shore(1)",
+        "courage(1)",
+        "flee(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9596,
+      "coreCoverage": 0.9678,
+      "exempt": [
+        "apple",
+        "hat",
+        "crossbow",
+        "bow"
+      ],
+      "wordCount": 1015,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "pole(3)",
+        "arrow(3)",
+        "arrows(2)",
+        "pine(1)",
+        "emperor(1)",
+        "punished(1)",
+        "obey(1)",
+        "lanes(1)",
+        "followers(1)",
+        "lord(1)",
+        "nobleman(1)",
+        "begged(1)",
+        "amused(1)",
+        "tense(1)",
+        "chin(1)",
+        "unharmed(1)",
+        "cheer(1)",
+        "hunter's(1)",
+        "darkened(1)",
+        "boatmen(1)",
+        "rocky(1)",
+        "ledge(1)",
+        "seized(1)",
+        "vanished(1)",
+        "courage(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9215,
+      "coreCoverage": 0.9272,
+      "exempt": [
+        "apple",
+        "hat",
+        "crossbow",
+        "bow"
+      ],
+      "wordCount": 1414,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "arrow(4)",
+        "pole(3)",
+        "authority(2)",
+        "obedience(2)",
+        "strongholds(2)",
+        "swore(2)",
+        "linden(2)",
+        "cliffs(2)",
+        "boatmen(2)",
+        "lingers(1)",
+        "fearless(1)",
+        "steep(1)",
+        "misstep(1)",
+        "marksman(1)",
+        "emperor(1)",
+        "suspicious(1)",
+        "hillsides(1)",
+        "cattle(1)",
+        "consent(1)",
+        "barns(1)",
+        "meetings(1)",
+        "trimmed(1)",
+        "feathers(1)",
+        "herald(1)",
+        "humbly(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.943,
+    "A2": 0.9569
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "shoot": 7,
+      "shot": 6
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.042,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0132",
+        "title": "The Town Mouse and the Country Mouse",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.042,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

@@ -1,0 +1,659 @@
+{
+  "id": "st-0361",
+  "title": "Arachne the Weaver",
+  "ts": "2026-10-30T10:24:26",
+  "node": {
+    "id": "st-0361",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %91.2 | 329 kelime\n    havuz dışı: weave(2), pictures(1), thread(2), loom(2), goddess(3), contest(2), listen(1), weaver(1), beat(1), sorry(1), looms(1), gods(3), picture(1), angry(1), lesson(1), hair(1), fingers(1), legs(1), spider(2), spiders(1)",
+        "level A2: A2: KALDI | kapsam %94.1 | 495 kelime\n    havuz dışı: weave(2), loom(2), thread(5), goddess(1), contest(3), straight(1), looms(1), threads(1), gods(3), calm(1), angry(1), cloth(1), tore(1), apart(1), fingers(1), legs(1), spider(2), spiders(1)",
+        "level B1: B1: KALDI | kapsam %92.5 | 676 kelime\n    havuz dışı: wool(2), purple(1), weave(3), loom(2), thread(5), rough(1), goddess(6), weaving(1), praise(1), contest(3), punishment(1), weaver(1), forgive(2), disguise(1), knees(1), pale(1), warnings(1), weavers(1), looms(2), threads(1), gods(5), wove(2), tricks(1), cloth(1), sprinkled(1), magic(1), forever(1), spider(1), spiders(1)",
+        "level B2: B2: KALDI | kapsam %92.0 | 981 kelime\n    havuz dışı: dyeing(1), wool(2), purple(2), weave(1), loom(2), nymphs(2), strands(1), spun(1), thread(5), thumb(1), spindle(1), needle(1), lifelike(1), cloth(3), goddess(4), weaving(1), offended(1), glory(1), chin(1), punishment(1), disguised(1), temples(1), fame(1), weaver(1), mortals(3), forgiveness(1), humbly(1), forgive(1), glared(1), foolish(1), disguise(1), bowed(1), unafraid(1), dawn(1), eager(1), looms(2), threads(3), weavers(1), rainbow(1), wove(3), majesty(1), thrones(1), olive(2), lying(1), disguising(1), unfairly(1), jealous(1), disrespect(1), sprinkled(1), juice(1), herb(1), shrank(1), slender(1), spider(1), weaves(1), delicate(1), spiders(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9119,
+        "coreCoverage": 0.9347,
+        "exempt": [
+          "loom",
+          "spider",
+          "contest",
+          "thread"
+        ],
+        "wordCount": 329,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "goddess(3)",
+          "gods(3)",
+          "weave(2)",
+          "pictures(1)",
+          "listen(1)",
+          "weaver(1)",
+          "beat(1)",
+          "sorry(1)",
+          "picture(1)",
+          "angry(1)",
+          "lesson(1)",
+          "hair(1)",
+          "fingers(1)",
+          "legs(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9414,
+        "coreCoverage": 0.9687,
+        "exempt": [
+          "loom",
+          "spider",
+          "contest",
+          "thread"
+        ],
+        "wordCount": 495,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "gods(3)",
+          "weave(2)",
+          "goddess(1)",
+          "straight(1)",
+          "calm(1)",
+          "angry(1)",
+          "cloth(1)",
+          "tore(1)",
+          "apart(1)",
+          "fingers(1)",
+          "legs(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9246,
+        "coreCoverage": 0.9429,
+        "exempt": [
+          "loom",
+          "spider",
+          "contest",
+          "thread"
+        ],
+        "wordCount": 676,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "goddess(6)",
+          "gods(5)",
+          "weave(3)",
+          "wool(2)",
+          "forgive(2)",
+          "wove(2)",
+          "purple(1)",
+          "rough(1)",
+          "weaving(1)",
+          "praise(1)",
+          "punishment(1)",
+          "weaver(1)",
+          "disguise(1)",
+          "knees(1)",
+          "pale(1)",
+          "warnings(1)",
+          "weavers(1)",
+          "tricks(1)",
+          "cloth(1)",
+          "sprinkled(1)",
+          "magic(1)",
+          "forever(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9205,
+        "coreCoverage": 0.9318,
+        "exempt": [
+          "loom",
+          "spider",
+          "contest",
+          "thread"
+        ],
+        "wordCount": 981,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "goddess(4)",
+          "cloth(3)",
+          "mortals(3)",
+          "wove(3)",
+          "wool(2)",
+          "purple(2)",
+          "nymphs(2)",
+          "olive(2)",
+          "dyeing(1)",
+          "weave(1)",
+          "strands(1)",
+          "spun(1)",
+          "thumb(1)",
+          "spindle(1)",
+          "needle(1)",
+          "lifelike(1)",
+          "weaving(1)",
+          "offended(1)",
+          "glory(1)",
+          "chin(1)",
+          "punishment(1)",
+          "disguised(1)",
+          "temples(1)",
+          "fame(1)",
+          "weaver(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9266,
+        "coreCoverage": 0.9359,
+        "exempt": [
+          "loom",
+          "spider",
+          "contest",
+          "thread"
+        ],
+        "wordCount": 1321,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "goddess(6)",
+          "mortals(4)",
+          "cloth(4)",
+          "weaver(3)",
+          "wool(2)",
+          "purple(2)",
+          "weaving(2)",
+          "nymphs(2)",
+          "bowed(2)",
+          "eager(2)",
+          "wove(2)",
+          "olive(2)",
+          "greatness(1)",
+          "unremarkable(1)",
+          "dyeing(1)",
+          "humble(1)",
+          "shady(1)",
+          "grace(1)",
+          "strands(1)",
+          "thumb(1)",
+          "needle(1)",
+          "watchers(1)",
+          "clever(1)",
+          "insult(1)",
+          "glory(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "SAY_SORRY",
+          "cat": "AMERICAN_ENGLISH_STYLE",
+          "msg": "Consider using “apologize” to improve your wording.",
+          "frag": "Say sorry",
+          "ctx": "ople. But do not try to beat a goddess. Say sorry to Athena now. She can still be kind to"
+        },
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "Her",
+          "ctx": " very small. Her body became small too. Her fingers became long legs. Arachne was n"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "SAY_SORRY",
+          "cat": "AMERICAN_ENGLISH_STYLE",
+          "msg": "Consider using “apologize” to improve your wording.",
+          "frag": "Say sorry",
+          "ctx": ". But do not put yourself above Athena. Say sorry to her now. She can still be kind to yo"
+        }
+      ]
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "EN_COMPOUNDS_MOUTH_TO_MOUTH",
+          "cat": "MISC",
+          "msg": "This word is normally spelled with a hyphen.",
+          "frag": "mouth to mouth",
+          "ctx": "rough every town of Lydia, carried from mouth to mouth by those who had seen what her hands co"
+        }
+      ]
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 329,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 10,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 495,
+      "sentLenMedian": 8.0,
+      "zipfMedian": 6.12,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 676,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.08,
+      "lowZipfRatio": 0.0095,
+      "lowZipfWords": [
+        "angrier",
+        "angrily",
+        "sprinkled",
+        "weavers",
+        "wove"
+      ],
+      "keyTermTokens": 15,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 981,
+      "sentLenMedian": 14,
+      "zipfMedian": 5.96,
+      "lowZipfRatio": 0.0277,
+      "lowZipfWords": [
+        "bowed",
+        "coldly",
+        "dearly",
+        "disguising",
+        "dyeing",
+        "glared",
+        "humbly",
+        "lifelike",
+        "mortals",
+        "nymphs",
+        "paused",
+        "shrank",
+        "spindle",
+        "sprinkled",
+        "strands",
+        "unafraid",
+        "unfairly",
+        "weavers",
+        "weaves",
+        "webs",
+        "wove"
+      ],
+      "keyTermTokens": 16,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1321,
+      "sentLenMedian": 20.5,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.025,
+      "lowZipfWords": [
+        "blushes",
+        "bowed",
+        "clung",
+        "dearly",
+        "despised",
+        "disguising",
+        "dyeing",
+        "humbly",
+        "misdeeds",
+        "mortals",
+        "nymphs",
+        "patiently",
+        "shrank",
+        "solemn",
+        "sprinkled",
+        "strands",
+        "unafraid",
+        "unnoticed",
+        "unremarkable",
+        "unsteady",
+        "unsuspecting",
+        "warmest",
+        "watchers",
+        "weaves",
+        "webs",
+        "wove"
+      ],
+      "keyTermTokens": 17,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9119,
+      "coreCoverage": 0.9347,
+      "exempt": [
+        "loom",
+        "spider",
+        "contest",
+        "thread"
+      ],
+      "wordCount": 329,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "goddess(3)",
+        "gods(3)",
+        "weave(2)",
+        "pictures(1)",
+        "listen(1)",
+        "weaver(1)",
+        "beat(1)",
+        "sorry(1)",
+        "picture(1)",
+        "angry(1)",
+        "lesson(1)",
+        "hair(1)",
+        "fingers(1)",
+        "legs(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9414,
+      "coreCoverage": 0.9687,
+      "exempt": [
+        "loom",
+        "spider",
+        "contest",
+        "thread"
+      ],
+      "wordCount": 495,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "gods(3)",
+        "weave(2)",
+        "goddess(1)",
+        "straight(1)",
+        "calm(1)",
+        "angry(1)",
+        "cloth(1)",
+        "tore(1)",
+        "apart(1)",
+        "fingers(1)",
+        "legs(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9246,
+      "coreCoverage": 0.9429,
+      "exempt": [
+        "loom",
+        "spider",
+        "contest",
+        "thread"
+      ],
+      "wordCount": 676,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "goddess(6)",
+        "gods(5)",
+        "weave(3)",
+        "wool(2)",
+        "forgive(2)",
+        "wove(2)",
+        "purple(1)",
+        "rough(1)",
+        "weaving(1)",
+        "praise(1)",
+        "punishment(1)",
+        "weaver(1)",
+        "disguise(1)",
+        "knees(1)",
+        "pale(1)",
+        "warnings(1)",
+        "weavers(1)",
+        "tricks(1)",
+        "cloth(1)",
+        "sprinkled(1)",
+        "magic(1)",
+        "forever(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9205,
+      "coreCoverage": 0.9318,
+      "exempt": [
+        "loom",
+        "spider",
+        "contest",
+        "thread"
+      ],
+      "wordCount": 981,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "goddess(4)",
+        "cloth(3)",
+        "mortals(3)",
+        "wove(3)",
+        "wool(2)",
+        "purple(2)",
+        "nymphs(2)",
+        "olive(2)",
+        "dyeing(1)",
+        "weave(1)",
+        "strands(1)",
+        "spun(1)",
+        "thumb(1)",
+        "spindle(1)",
+        "needle(1)",
+        "lifelike(1)",
+        "weaving(1)",
+        "offended(1)",
+        "glory(1)",
+        "chin(1)",
+        "punishment(1)",
+        "disguised(1)",
+        "temples(1)",
+        "fame(1)",
+        "weaver(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9266,
+      "coreCoverage": 0.9359,
+      "exempt": [
+        "loom",
+        "spider",
+        "contest",
+        "thread"
+      ],
+      "wordCount": 1321,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "goddess(6)",
+        "mortals(4)",
+        "cloth(4)",
+        "weaver(3)",
+        "wool(2)",
+        "purple(2)",
+        "weaving(2)",
+        "nymphs(2)",
+        "bowed(2)",
+        "eager(2)",
+        "wove(2)",
+        "olive(2)",
+        "greatness(1)",
+        "unremarkable(1)",
+        "dyeing(1)",
+        "humble(1)",
+        "shady(1)",
+        "grace(1)",
+        "strands(1)",
+        "thumb(1)",
+        "needle(1)",
+        "watchers(1)",
+        "clever(1)",
+        "insult(1)",
+        "glory(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9347,
+    "A2": 0.9687
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 3
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.006
+    },
+    "top3": [
+      {
+        "id": "st-0291",
+        "title": "The Story of Doctor Dolittle",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.006
+      },
+      {
+        "id": "st-0307",
+        "title": "The Necklace",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

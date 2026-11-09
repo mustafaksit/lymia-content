@@ -1,0 +1,127 @@
+{
+  "id": "st-0365",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "6. 4+ age suitability (ethnic/racial caricature)",
+          "quote": "He made his face black. So no one knew him. ... The swineherd took the black off his face. Now he looked like a prince again.",
+          "problem": "Andersen's disguise is dirt or soot. Here no substance is named, so the text says he coloured his face black to look low-born and removed the black to 'look like a prince again'. A modern reader can easily take this as blackface and as tying dark skin to low status.",
+          "fix": "\"He put dirt on his face and wore old clothes. So no one knew him.\" ... \"The swineherd washed the dirt off his face. Now he looked like a prince again.\""
+        },
+        {
+          "criterion": "4. logic error",
+          "quote": "\"It is only a real rose!\" she said. \"And it is only a real nightingale. Send it away.\"",
+          "problem": "The A1 text never says that the princess wanted a made or toy rose. An A1 reader cannot see why 'real' is a complaint, and this is the point of the whole story.",
+          "fix": "Add before the quote: \"She wanted a toy rose, not a real one.\""
+        },
+        {
+          "criterion": "4. logic error",
+          "quote": "The Emperor saw the women and went down.",
+          "problem": "The Emperor's place (the balcony or window) is never given, so 'went down' has no reference point and the scene is unclear.",
+          "fix": "\"The Emperor looked out of his window. He saw the women near the pigs. He went down to them.\""
+        },
+        {
+          "criterion": "7. A1 comprehension",
+          "quote": "\"Look after my pigs,\" said the Emperor.",
+          "problem": "'Look after' is a phrasal verb that a beginner may read as 'look behind'.",
+          "fix": "\"You can work with my pigs,\" said the Emperor."
+        },
+        {
+          "criterion": "7. A1 comprehension",
+          "quote": "It could play an old tune.",
+          "problem": "'Tune' is not glossed and is outside beginner vocabulary. The next paragraph also needs a clear referent for 'that one'.",
+          "fix": "\"It could play an old song.\" and later \"I know that song!\" (instead of \"I know that one!\")"
+        },
+        {
+          "criterion": "7. A1 comprehension",
+          "quote": "She stood outside, all on her own.",
+          "problem": "'All on her own' is an idiom.",
+          "fix": "\"She stood outside, alone.\""
+        },
+        {
+          "criterion": "7. A1 comprehension",
+          "quote": "He made his face black. So no one knew him.",
+          "problem": "'Knew' in the sense of 'recognised' is easy for an A1 learner to misread as 'no one knew who he was in general'.",
+          "fix": "\"Now no one saw that he was the prince.\""
+        }
+      ],
+      "notes": [
+        "\"It played every dance in the world\" is slightly odd. \"It played the music for every dance in the world\" is clearer.",
+        "Grammar stays within present simple and past simple, and the quiz keys are correct."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "6. 4+ age suitability (ethnic/racial caricature)",
+          "quote": "He made his face black and put on old clothes. ... He took the black off his face and changed his clothes. Now he was a prince again.",
+          "problem": "This is the same blackface reading as in A1. The colour is not explained as dirt, and removing it makes him 'a prince again'.",
+          "fix": "\"He put dirt on his face and put on old clothes.\" ... \"He washed the dirt off his face and changed his clothes.\""
+        },
+        {
+          "criterion": "2. unnatural English",
+          "quote": "\"Then I give him ten,\" said the Emperor's daughter.",
+          "problem": "A present simple form used for an offer is not natural English. A reader would stumble on it.",
+          "fix": "\"He can have ten kisses from me,\" said the Emperor's daughter."
+        }
+      ],
+      "notes": [
+        "\"She wanted a made rose, not a real one\" is a little stiff. \"She wanted a rose made of silk, not a real one\" sounds more natural.",
+        "\"said the young man's people\" would sound better as \"said the prince's men\".",
+        "\"He went down\" works better if it follows \"The Emperor looked out of his window\"."
+      ]
+    },
+    "B1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "6. 4+ age suitability (ethnic/racial caricature)",
+          "quote": "He made his face brown and black and pulled his cap down low. ... washed the brown and black from his face",
+          "problem": "Skin colouring is described with no named substance, so the disguise can read as blackface.",
+          "fix": "\"He rubbed dirt and soot on his face and pulled his cap down low.\" ... \"washed the dirt and soot from his face\""
+        }
+      ],
+      "notes": [
+        "\"by the evening he made a pretty little pot\" should be \"by the evening he had made\" or \"in the evening he finished\".",
+        "\"or we each keep our own things\" would be more natural as \"or we each keep what we have\".",
+        "There are no conditionals or passives. The quiz keys are correct."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "6. 4+ age suitability (ethnic/racial caricature)",
+          "quote": "He rubbed his face with brown and black ... wiped the brown and black from his face",
+          "problem": "This is the same problem as in B1. Name the dirt or soot so the disguise cannot be read as darkened skin.",
+          "fix": "\"He rubbed his face with dirt and soot\" ... \"wiped the dirt and soot from his face\""
+        }
+      ],
+      "notes": [
+        "\"just large enough to marry on\" is an old translation idiom. It is fine at B2, but some learners may stumble on it.",
+        "The wooden shoes are unexplained. A short addition such as \"to keep her feet clean in the yard\" would help."
+      ]
+    },
+    "C1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "6. 4+ age suitability (ethnic/racial caricature)",
+          "quote": "He smeared his face with brown and black ... wiped the brown and black from his face",
+          "problem": "This follows the older translation closely, but out of context it still reads as colouring the skin. The 4+ rating needs the substance named.",
+          "fix": "\"He smeared his face with dirt and soot\" ... \"wiped the dirt and soot from his face\""
+        }
+      ],
+      "notes": [
+        "\"each a little worse than the next\" is illogical. Use \"each speaking it a little worse than the last\".",
+        "The C1 text is otherwise literary and faithful, with the musical box, the slippers, the chamberlain and the bolted door all present."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "The retelling follows Andersen closely at every level, and all quiz keys are correct. Every level fails 4+ suitability because the disguise is 'making his face black / brown and black', which can read as blackface; naming dirt or soot fixes it. A1 also has unclear logic (why 'real' is bad, and where the Emperor 'went down' from) and a few beginner-blocking words, and A2 has one unnatural line ('Then I give him ten')."
+}

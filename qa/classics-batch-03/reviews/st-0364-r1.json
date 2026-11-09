@@ -1,0 +1,64 @@
+{
+  "id": "st-0364",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error (quiz with two defensible answers)",
+          "quote": "2. Who did the princess marry? — A young king / *A beggar / A man with a horse",
+          "problem": "The story reveals that the beggar IS King Thrushbeard, a young king, and ends with 'Now we can have our wedding.' A learner who read to the end can defend 'A young king' as well as 'A beggar'.",
+          "fix": "Ask about a moment with only one true answer, e.g. '2. Who came to the door and sang? — *A beggar / The princess / Her father' or '2. Who did her father say she must marry? — *A beggar / A rich king / A man with a horse'."
+        },
+        {
+          "criterion": "7. A1 comprehension",
+          "quote": "She said no, but he took her in.",
+          "problem": "'Take someone in' is a phrasal verb that usually means 'give someone a home'; an A1 learner may misread it, and the physical action (pulling her into the room, which makes the pots fall) is lost.",
+          "fix": "She said no, but he took her hand and pulled her into the room."
+        }
+      ],
+      "notes": [
+        "'Then a man came by on a horse.' -> 'came by' is a phrasal verb; simpler: 'Then a man came on a horse.'",
+        "'The princess looked in at the door.' -> simpler: 'The princess stood at the door and looked in.'",
+        "'chin' is not among the glossed words but is easy to infer from context; acceptable.",
+        "Grammar stays in present simple / past simple with modals and imperatives; vocabulary is otherwise beginner-friendly."
+      ]
+    },
+    "A2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'Then she came to a good young king.' implies walking along a row of men that A2 never describes; 'Then she saw a good young king' would be clearer.",
+        "'She laughed at him at her father's party.' would naturally be past perfect, but past simple is acceptable at A2 and the meaning is clear."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'The string around her pockets broke' introduces a string not mentioned before; optionally say earlier 'She tied two small pots inside her pockets with a string.'",
+        "No passive or conditional constructions found; quiz keys are unambiguous."
+      ]
+    },
+    "B2": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'\"It is ours,\" said the beggar. \"This is where we will live.\" \"There are no servants,\" he told her.' splits one speaker's lines into two quotes back to back; could be merged into one speech.",
+        "'Comfort yourself' is a little stiff; 'Do not be sad' or 'Take comfort' reads more naturally."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "'at everyone's call and given the dirtiest tasks' — the idiom is 'at everyone's beck and call'.",
+        "Softening the fourth suitor's 'pale death' insult to 'as white as a freshly painted wall' is appropriate for 4+.",
+        "The original also has the king reveal he was the horseman who smashed the pots; omitting it is acceptable condensing at every level."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, age-appropriate retelling of the Grimm tale with well-graded language at all five levels. A1 fails because quiz question 2 ('Who did the princess marry?') has two defensible answers, since the beggar turns out to be the young king; the A1 phrase 'he took her in' should also be clarified. A2 through C1 pass with only minor notes."
+}

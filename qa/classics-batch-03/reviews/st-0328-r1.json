@@ -1,0 +1,73 @@
+{
+  "id": "st-0328",
+  "round": 1,
+  "levels": {
+    "A1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"Out came three fish of gold!\" uses a literary inversion that a beginner may misparse; consider \"Three fish of gold were in the net!\"",
+        "\"Soon his ships came home on the Volkhov.\" The Volkhov is never introduced as a river; consider \"on the river Volkhov\".",
+        "\"three fish of gold\" is slightly stiff (native writers would say \"golden fish\"), but it reads as fairy-tale phrasing and is consistent across levels.",
+        "The old man gives no reason for \"Stop playing now\"; the earlier line \"Up above, the sea moved and moved\" hints at the storm, but adding \"The ships up there need help\" (as in A2) would make the link clear.",
+        "Grammar stays within present simple, past simple and imperatives. Vocabulary is beginner-friendly apart from the glossed words; \"net\" and \"market\" are clear from context."
+      ]
+    },
+    "A2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "3. level mismatch",
+          "quote": "Sadko felt very low, so he walked to Lake Ilmen.",
+          "problem": "\"feel low\" (meaning sad) is an upper-intermediate idiom. An A2 learner knows \"low\" only as the opposite of \"high\" and will misread the sentence. The keyed quiz answer (\"He felt low and wanted to play\") depends on the same idiom.",
+          "fix": "\"Sadko felt very sad, so he walked to Lake Ilmen.\" Change the quiz answer to \"He felt sad and wanted to play\"."
+        },
+        {
+          "criterion": "3. level mismatch",
+          "quote": "The men could not believe their eyes, but they kept their word.",
+          "problem": "Two idioms in one sentence (\"could not believe their eyes\", \"kept their word\") are above A2. They carry the plot point that the merchants hand over their shops, which A2 never states plainly.",
+          "fix": "\"The men were very surprised, but they gave Sadko all their shops.\""
+        }
+      ],
+      "notes": [
+        "A2 has Sadko play for \"a whole day\" while B1 to C1 say three days. This is acceptable condensing, not a contradiction.",
+        "\"The girl was not there, because she was the river.\" is abrupt but understandable; \"Sadko understood: the girl was the river.\" would read more naturally."
+      ]
+    },
+    "B1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"a young musician called Sadko\" is technically a reduced passive participle. It is standard in graded readers at this level, so it is not counted as a failure.",
+        "No conditionals or full passives found. The plot sequence (three days of playing, the bet, twelve years, the lots, the plank, the dance and storm, the broken strings, the last girl, the river, the ships on the Volkhov) is faithful and clear."
+      ]
+    },
+    "B2": {
+      "verdict": "FAIL",
+      "issues": [
+        {
+          "criterion": "4. logic error (quiz)",
+          "quote": "Why did the old man tell Sadko to stop playing? — The Sea King was tired / Sadko's gusli was broken / *Sailors on the sea were in danger",
+          "problem": "The distractor uses \"gusli\", a word that appears nowhere in the story; every level calls the instrument a harp. Readers will stop to wonder what a gusli is or whether they missed a character or object.",
+          "fix": "Change the distractor to \"Sadko's harp was broken\"."
+        }
+      ],
+      "notes": [
+        "Prose is natural and level-appropriate. The threefold procession of three hundred maidens and the lots are faithful to the bylina."
+      ]
+    },
+    "C1": {
+      "verdict": "PASS",
+      "issues": [],
+      "notes": [
+        "\"He did not protest, nor did he try his luck a second time\" contradicts the bylina, where the lots are cast again (with different tokens) and Sadko's sinks each time. Consider simply \"He did not protest, for he knew perfectly well whose debt was being called in.\"",
+        "\"a feast where the proudest merchants of the city sat feasting\" repeats feast/feasting; consider \"sat eating and boasting\".",
+        "\"No sooner had he released the rope\" introduces a rope not mentioned before; consider \"No sooner had he let go of the ship's side\".",
+        "\"the warmth of a creditor whose patience has finally been rewarded\" is a generic present inside past narration. It works, but \"had\" would be smoother.",
+        "Genuinely literary without padding; the closing line about the river carrying him home is a good touch."
+      ]
+    }
+  },
+  "overall": "FAIL",
+  "summary": "A faithful, gentle retelling of the Novgorod bylina of Sadko: the bet on the golden-finned fish, twelve years of neglecting the Sea King, the lots, the dance and storm, the old man's advice, the last girl and the river bride. A2 fails on two idioms above its level (\"felt very low\", which the quiz key also relies on, and \"could not believe their eyes, but they kept their word\"). B2 fails because a quiz distractor uses \"gusli\", which never appears in the text. A1, B1 and C1 pass."
+}

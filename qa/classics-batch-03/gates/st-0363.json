@@ -1,0 +1,666 @@
+{
+  "id": "st-0363",
+  "title": "Hans in Luck",
+  "ts": "2026-10-30T10:24:29",
+  "node": {
+    "id": "st-0363",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %87.3 | 324 kelime\n    havuz dışı: gold(3), heavy(2), horse(5), cow(5), milk(2), pig(6), goose(4), angry(1), afraid(1), grindstone(2), stone(1), stones(3), deep(1), bent(1), drink(1), arm(1), hit(1), luckiest(1)",
+        "level A2: A2: KALDI | kapsam %90.3 | 516 kelime\n    havuz dışı: master(2), gold(5), heavy(2), horse(7), cow(8), milk(5), pig(9), goose(4), grindstone(2), stone(1), stones(3), slowly(1), lucky(1)",
+        "level B1: B1: KALDI | kapsam %92.2 | 796 kelime\n    havuz dışı: lump(2), wrapped(1), cloth(1), comfortably(1), swap(1), saddle(1), click(1), tongue(2), hop(2), hop'(1), clicked(1), gallop(1), lying(1), ditch(1), cow(7), bread(1), cheese(1), inn(1), coins(1), terribly(1), thirsty(1), cap(1), clumsy(1), dizzy(1), butcher(3), pig(7), wheelbarrow(1), scratched(1), rope(1), goose(5), mayor's(1), frightened(1), hurried(1), grindstone(2), cheerful(1), grinder(1), hungry(1), bent(1), joy(1), heaven(1)",
+        "level B2: B2: KALDI | kapsam %94.8 | 1027 kelime\n    havuz dışı: lump(3), cloth(1), dusty(1), trotting(1), aloud(1), comfortably(1), saddle(1), click(1), hop(3), clicked(1), gallop(1), lying(2), ditch(1), bargain(1), inn(1), midday(1), heath(1), cure(1), thirst(1), underneath(1), clumsy(1), patience(1), dizzy(1), butcher(3), wheelbarrow(1), cart(1), rope(1), goose(5), begged(1), grindstone(2), merrily(1), cheerful(1), grinder(4), hammer(1), nails(1), hungry(1), refresh(1), heaven(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.8735,
+        "coreCoverage": 0.9261,
+        "exempt": [
+          "gold",
+          "cow",
+          "pig",
+          "goose",
+          "grindstone"
+        ],
+        "wordCount": 324,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "horse(5)",
+          "stones(3)",
+          "heavy(2)",
+          "milk(2)",
+          "angry(1)",
+          "afraid(1)",
+          "stone(1)",
+          "deep(1)",
+          "bent(1)",
+          "drink(1)",
+          "arm(1)",
+          "hit(1)",
+          "luckiest(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9031,
+        "coreCoverage": 0.9528,
+        "exempt": [
+          "gold",
+          "cow",
+          "pig",
+          "goose",
+          "grindstone"
+        ],
+        "wordCount": 516,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "horse(7)",
+          "milk(5)",
+          "stones(3)",
+          "master(2)",
+          "heavy(2)",
+          "stone(1)",
+          "slowly(1)",
+          "lucky(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9221,
+        "coreCoverage": 0.945,
+        "exempt": [
+          "gold",
+          "cow",
+          "pig",
+          "goose",
+          "grindstone"
+        ],
+        "wordCount": 796,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "butcher(3)",
+          "lump(2)",
+          "tongue(2)",
+          "hop(2)",
+          "wrapped(1)",
+          "cloth(1)",
+          "comfortably(1)",
+          "swap(1)",
+          "saddle(1)",
+          "click(1)",
+          "hop'(1)",
+          "clicked(1)",
+          "gallop(1)",
+          "lying(1)",
+          "ditch(1)",
+          "bread(1)",
+          "cheese(1)",
+          "inn(1)",
+          "coins(1)",
+          "terribly(1)",
+          "thirsty(1)",
+          "cap(1)",
+          "clumsy(1)",
+          "dizzy(1)",
+          "wheelbarrow(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9484,
+        "coreCoverage": 0.9529,
+        "exempt": [
+          "gold",
+          "cow",
+          "pig",
+          "goose",
+          "grindstone"
+        ],
+        "wordCount": 1027,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "grinder(4)",
+          "lump(3)",
+          "hop(3)",
+          "butcher(3)",
+          "lying(2)",
+          "cloth(1)",
+          "dusty(1)",
+          "trotting(1)",
+          "aloud(1)",
+          "comfortably(1)",
+          "saddle(1)",
+          "click(1)",
+          "clicked(1)",
+          "gallop(1)",
+          "ditch(1)",
+          "bargain(1)",
+          "inn(1)",
+          "midday(1)",
+          "heath(1)",
+          "cure(1)",
+          "thirst(1)",
+          "underneath(1)",
+          "clumsy(1)",
+          "patience(1)",
+          "dizzy(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9206,
+        "coreCoverage": 0.9224,
+        "exempt": [
+          "gold",
+          "cow",
+          "pig",
+          "goose",
+          "grindstone"
+        ],
+        "wordCount": 1435,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "hop(4)",
+          "grinder(4)",
+          "lump(3)",
+          "saddle(3)",
+          "butcher(3)",
+          "lad(3)",
+          "splendid(2)",
+          "kindness(2)",
+          "ditch(2)",
+          "inn(2)",
+          "directness(1)",
+          "cheerful(1)",
+          "loaf(1)",
+          "knotted(1)",
+          "handkerchief(1)",
+          "hoisted(1)",
+          "plodding(1)",
+          "sideways(1)",
+          "trotting(1)",
+          "briskly(1)",
+          "ah(1)",
+          "exclaimed(1)",
+          "armchair(1)",
+          "stubs(1)",
+          "toe(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": [
+        {
+          "rule": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+          "cat": "REPETITIONS_STYLE",
+          "msg": "Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.",
+          "frag": "He",
+          "ctx": ". He had a goose. He looked at the pig. He said, \"Someone took a pig near here. Pe"
+        }
+      ]
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 324,
+      "sentLenMedian": 6,
+      "zipfMedian": 6.05,
+      "lowZipfRatio": 0.0036,
+      "lowZipfWords": [
+        "luckiest"
+      ],
+      "keyTermTokens": 20,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 516,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.19,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 28,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 796,
+      "sentLenMedian": 11.0,
+      "zipfMedian": 6.19,
+      "lowZipfRatio": 0.0108,
+      "lowZipfWords": [
+        "clumsy",
+        "dizzy",
+        "gallop",
+        "grinder",
+        "hurried",
+        "mayor's",
+        "scratched",
+        "wheelbarrow"
+      ],
+      "keyTermTokens": 27,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1027,
+      "sentLenMedian": 13.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0184,
+      "lowZipfWords": [
+        "clumsy",
+        "dizzy",
+        "faithfully",
+        "freeing",
+        "gallop",
+        "glanced",
+        "grinder",
+        "mayor's",
+        "merrily",
+        "midday",
+        "nervously",
+        "smoothing",
+        "swung",
+        "trotting",
+        "wheelbarrow"
+      ],
+      "keyTermTokens": 25,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1435,
+      "sentLenMedian": 20.5,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0392,
+      "lowZipfWords": [
+        "armchair",
+        "bridle",
+        "briskly",
+        "burdens",
+        "cheerfully",
+        "clumsy",
+        "confided",
+        "crumb",
+        "dazed",
+        "despairing",
+        "directness",
+        "exclaimed",
+        "eyeing",
+        "faithfully",
+        "farmer's",
+        "gallop",
+        "gravely",
+        "grinder",
+        "hammering",
+        "handkerchief",
+        "hoisted",
+        "hurried",
+        "knotted",
+        "leapt",
+        "loaf",
+        "loath",
+        "marvelling",
+        "mayor's",
+        "midday",
+        "nodding",
+        "overjoyed",
+        "pity's",
+        "plodding",
+        "plunged",
+        "politely",
+        "recounted",
+        "reined",
+        "reluctance",
+        "reproach",
+        "roadside",
+        "scarcely",
+        "sighed",
+        "splashes",
+        "straying",
+        "strolled",
+        "stubs",
+        "thickly",
+        "trotting",
+        "trudging",
+        "wheelbarrow",
+        "withered"
+      ],
+      "keyTermTokens": 33,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.8735,
+      "coreCoverage": 0.9261,
+      "exempt": [
+        "gold",
+        "cow",
+        "pig",
+        "goose",
+        "grindstone"
+      ],
+      "wordCount": 324,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "horse(5)",
+        "stones(3)",
+        "heavy(2)",
+        "milk(2)",
+        "angry(1)",
+        "afraid(1)",
+        "stone(1)",
+        "deep(1)",
+        "bent(1)",
+        "drink(1)",
+        "arm(1)",
+        "hit(1)",
+        "luckiest(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9031,
+      "coreCoverage": 0.9528,
+      "exempt": [
+        "gold",
+        "cow",
+        "pig",
+        "goose",
+        "grindstone"
+      ],
+      "wordCount": 516,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "horse(7)",
+        "milk(5)",
+        "stones(3)",
+        "master(2)",
+        "heavy(2)",
+        "stone(1)",
+        "slowly(1)",
+        "lucky(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9221,
+      "coreCoverage": 0.945,
+      "exempt": [
+        "gold",
+        "cow",
+        "pig",
+        "goose",
+        "grindstone"
+      ],
+      "wordCount": 796,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "butcher(3)",
+        "lump(2)",
+        "tongue(2)",
+        "hop(2)",
+        "wrapped(1)",
+        "cloth(1)",
+        "comfortably(1)",
+        "swap(1)",
+        "saddle(1)",
+        "click(1)",
+        "hop'(1)",
+        "clicked(1)",
+        "gallop(1)",
+        "lying(1)",
+        "ditch(1)",
+        "bread(1)",
+        "cheese(1)",
+        "inn(1)",
+        "coins(1)",
+        "terribly(1)",
+        "thirsty(1)",
+        "cap(1)",
+        "clumsy(1)",
+        "dizzy(1)",
+        "wheelbarrow(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9484,
+      "coreCoverage": 0.9529,
+      "exempt": [
+        "gold",
+        "cow",
+        "pig",
+        "goose",
+        "grindstone"
+      ],
+      "wordCount": 1027,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "grinder(4)",
+        "lump(3)",
+        "hop(3)",
+        "butcher(3)",
+        "lying(2)",
+        "cloth(1)",
+        "dusty(1)",
+        "trotting(1)",
+        "aloud(1)",
+        "comfortably(1)",
+        "saddle(1)",
+        "click(1)",
+        "clicked(1)",
+        "gallop(1)",
+        "ditch(1)",
+        "bargain(1)",
+        "inn(1)",
+        "midday(1)",
+        "heath(1)",
+        "cure(1)",
+        "thirst(1)",
+        "underneath(1)",
+        "clumsy(1)",
+        "patience(1)",
+        "dizzy(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9206,
+      "coreCoverage": 0.9224,
+      "exempt": [
+        "gold",
+        "cow",
+        "pig",
+        "goose",
+        "grindstone"
+      ],
+      "wordCount": 1435,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "hop(4)",
+        "grinder(4)",
+        "lump(3)",
+        "saddle(3)",
+        "butcher(3)",
+        "lad(3)",
+        "splendid(2)",
+        "kindness(2)",
+        "ditch(2)",
+        "inn(2)",
+        "directness(1)",
+        "cheerful(1)",
+        "loaf(1)",
+        "knotted(1)",
+        "handkerchief(1)",
+        "hoisted(1)",
+        "plodding(1)",
+        "sideways(1)",
+        "trotting(1)",
+        "briskly(1)",
+        "ah(1)",
+        "exclaimed(1)",
+        "armchair(1)",
+        "stubs(1)",
+        "toe(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9261,
+    "A2": 0.9528
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.003
+    },
+    "top3": [
+      {
+        "id": "st-0310",
+        "title": "Micromegas",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.003
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

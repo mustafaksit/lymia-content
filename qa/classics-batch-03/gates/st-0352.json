@@ -1,0 +1,599 @@
+{
+  "id": "st-0352",
+  "title": "The Magic Shop",
+  "ts": "2026-10-30T10:24:14",
+  "node": {
+    "id": "st-0352",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %90.1 | 312 kelime\n    havuz dışı: magic(8), tall(1), pocket(2), birds(2), flew(1), smiled(2), box(4), toy(2), soldiers(4), fear(1), boxes(2), arms(1), toys(1)",
+        "level A2: A2: KALDI | kapsam %94.3 | 510 kelime\n    havuz dışı: toys(2), glass(2), balls(1), tall(1), thin(1), magic(7), empty(1), ball(2), pocket(2), sir(1), bird(1), birds(1), toy(2), soldiers(4), oh(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.9006,
+        "coreCoverage": 0.9307,
+        "exempt": [
+          "shop",
+          "magic",
+          "soldiers"
+        ],
+        "wordCount": 312,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "box(4)",
+          "pocket(2)",
+          "birds(2)",
+          "smiled(2)",
+          "toy(2)",
+          "boxes(2)",
+          "tall(1)",
+          "flew(1)",
+          "fear(1)",
+          "arms(1)",
+          "toys(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9431,
+        "coreCoverage": 0.9614,
+        "exempt": [
+          "shop",
+          "magic",
+          "soldiers"
+        ],
+        "wordCount": 510,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "toys(2)",
+          "glass(2)",
+          "ball(2)",
+          "pocket(2)",
+          "toy(2)",
+          "balls(1)",
+          "tall(1)",
+          "thin(1)",
+          "empty(1)",
+          "sir(1)",
+          "bird(1)",
+          "birds(1)",
+          "oh(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9529,
+        "coreCoverage": 0.9593,
+        "exempt": [
+          "shop",
+          "magic",
+          "soldiers"
+        ],
+        "wordCount": 658,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "shopkeeper(8)",
+          "sir(2)",
+          "march(2)",
+          "shining(1)",
+          "treasure(1)",
+          "loudly(1)",
+          "anymore(1)",
+          "clapped(1)",
+          "stranger's(1)",
+          "uncomfortable(1)",
+          "shelf(1)",
+          "neat(1)",
+          "oh(1)",
+          "bent(1)",
+          "beside(1)",
+          "marched(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.9657,
+        "coreCoverage": 0.9641,
+        "exempt": [
+          "shop",
+          "magic",
+          "soldiers"
+        ],
+        "wordCount": 962,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "shopkeeper(10)",
+          "begged(2)",
+          "neat(2)",
+          "eager(1)",
+          "dim(1)",
+          "faintly(1)",
+          "remarkably(1)",
+          "amusing(1)",
+          "palm(1)",
+          "stiffly(1)",
+          "fluttering(1)",
+          "vanished(1)",
+          "ceiling(1)",
+          "clapped(1)",
+          "swelled(1)",
+          "uneasy(1)",
+          "instantly(1)",
+          "oh(1)",
+          "bow(1)",
+          "instant(1)",
+          "seized(1)",
+          "unpacked(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9549,
+        "coreCoverage": 0.9531,
+        "exempt": [
+          "shop",
+          "magic",
+          "soldiers"
+        ],
+        "wordCount": 1286,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "shopkeeper(10)",
+          "instant(2)",
+          "neat(2)",
+          "strolling(1)",
+          "tucked(1)",
+          "immovable(1)",
+          "lamp(1)",
+          "brass(1)",
+          "asleep(1)",
+          "pleaded(1)",
+          "hauling(1)",
+          "dim(1)",
+          "faintly(1)",
+          "remarkably(1)",
+          "amusing(1)",
+          "gravity(1)",
+          "palm(1)",
+          "reverent(1)",
+          "stiffness(1)",
+          "untroubled(1)",
+          "fluttering(1)",
+          "unmistakably(1)",
+          "ceiling(1)",
+          "clapped(1)",
+          "begged(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 312,
+      "sentLenMedian": 6.0,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 17,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 510,
+      "sentLenMedian": 9,
+      "zipfMedian": 6.22,
+      "lowZipfRatio": 0.0,
+      "lowZipfWords": [],
+      "keyTermTokens": 20,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 658,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.11,
+      "lowZipfRatio": 0.0163,
+      "lowZipfWords": [
+        "clapped",
+        "shopkeeper",
+        "stranger's"
+      ],
+      "keyTermTokens": 20,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 962,
+      "sentLenMedian": 14.0,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0283,
+      "lowZipfWords": [
+        "circled",
+        "clapped",
+        "faintly",
+        "fluttering",
+        "gazed",
+        "glanced",
+        "hurried",
+        "shopkeeper",
+        "smartly",
+        "stiffly",
+        "swelled",
+        "uneasy",
+        "unpacked",
+        "wandered",
+        "whispered"
+      ],
+      "keyTermTokens": 23,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1286,
+      "sentLenMedian": 19.0,
+      "zipfMedian": 6.07,
+      "lowZipfRatio": 0.042,
+      "lowZipfWords": [
+        "breathed",
+        "chests",
+        "circled",
+        "clapped",
+        "contented",
+        "courtly",
+        "drifted",
+        "faintly",
+        "fluttering",
+        "gazed",
+        "glanced",
+        "hauling",
+        "hurried",
+        "immovable",
+        "leaned",
+        "matchbox",
+        "murmured",
+        "neatly",
+        "parcels",
+        "pleasantly",
+        "regretted",
+        "reverent",
+        "shopkeeper",
+        "smartly",
+        "solemn",
+        "stiffness",
+        "straightened",
+        "straightening",
+        "strolling",
+        "swelled",
+        "umbrellas",
+        "uneasy",
+        "unmistakably",
+        "unpacked",
+        "unsettling",
+        "untroubled",
+        "wandered",
+        "wheeling",
+        "wrenched"
+      ],
+      "keyTermTokens": 27,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.9006,
+      "coreCoverage": 0.9307,
+      "exempt": [
+        "shop",
+        "magic",
+        "soldiers"
+      ],
+      "wordCount": 312,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "box(4)",
+        "pocket(2)",
+        "birds(2)",
+        "smiled(2)",
+        "toy(2)",
+        "boxes(2)",
+        "tall(1)",
+        "flew(1)",
+        "fear(1)",
+        "arms(1)",
+        "toys(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9431,
+      "coreCoverage": 0.9614,
+      "exempt": [
+        "shop",
+        "magic",
+        "soldiers"
+      ],
+      "wordCount": 510,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "toys(2)",
+        "glass(2)",
+        "ball(2)",
+        "pocket(2)",
+        "toy(2)",
+        "balls(1)",
+        "tall(1)",
+        "thin(1)",
+        "empty(1)",
+        "sir(1)",
+        "bird(1)",
+        "birds(1)",
+        "oh(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9529,
+      "coreCoverage": 0.9593,
+      "exempt": [
+        "shop",
+        "magic",
+        "soldiers"
+      ],
+      "wordCount": 658,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "shopkeeper(8)",
+        "sir(2)",
+        "march(2)",
+        "shining(1)",
+        "treasure(1)",
+        "loudly(1)",
+        "anymore(1)",
+        "clapped(1)",
+        "stranger's(1)",
+        "uncomfortable(1)",
+        "shelf(1)",
+        "neat(1)",
+        "oh(1)",
+        "bent(1)",
+        "beside(1)",
+        "marched(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.9657,
+      "coreCoverage": 0.9641,
+      "exempt": [
+        "shop",
+        "magic",
+        "soldiers"
+      ],
+      "wordCount": 962,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "shopkeeper(10)",
+        "begged(2)",
+        "neat(2)",
+        "eager(1)",
+        "dim(1)",
+        "faintly(1)",
+        "remarkably(1)",
+        "amusing(1)",
+        "palm(1)",
+        "stiffly(1)",
+        "fluttering(1)",
+        "vanished(1)",
+        "ceiling(1)",
+        "clapped(1)",
+        "swelled(1)",
+        "uneasy(1)",
+        "instantly(1)",
+        "oh(1)",
+        "bow(1)",
+        "instant(1)",
+        "seized(1)",
+        "unpacked(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9549,
+      "coreCoverage": 0.9531,
+      "exempt": [
+        "shop",
+        "magic",
+        "soldiers"
+      ],
+      "wordCount": 1286,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "shopkeeper(10)",
+        "instant(2)",
+        "neat(2)",
+        "strolling(1)",
+        "tucked(1)",
+        "immovable(1)",
+        "lamp(1)",
+        "brass(1)",
+        "asleep(1)",
+        "pleaded(1)",
+        "hauling(1)",
+        "dim(1)",
+        "faintly(1)",
+        "remarkably(1)",
+        "amusing(1)",
+        "gravity(1)",
+        "palm(1)",
+        "reverent(1)",
+        "stiffness(1)",
+        "untroubled(1)",
+        "fluttering(1)",
+        "unmistakably(1)",
+        "ceiling(1)",
+        "clapped(1)",
+        "begged(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9307,
+    "A2": 0.9614
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {}
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.333,
+      "summary3gramJaccard": 0.036,
+      "a1FiveGramOverlap": 0.0
+    },
+    "top3": [
+      {
+        "id": "st-0002",
+        "title": "The Saturday Shop",
+        "titleJaccard": 0.333,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0243",
+        "title": "The Magic Fishbone",
+        "titleJaccard": 0.333,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      },
+      {
+        "id": "st-0256",
+        "title": "The Wise Little Girl",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.036,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}

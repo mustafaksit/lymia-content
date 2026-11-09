@@ -1,0 +1,594 @@
+{
+  "id": "st-0342",
+  "title": "The Courtship of Miles Standish",
+  "ts": "2026-10-30T10:24:01",
+  "node": {
+    "id": "st-0342",
+    "schema": {
+      "appZod": "ok",
+      "appZodLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ],
+      "repoSchema": [],
+      "indexZod": "ok",
+      "indexEntry": "ok",
+      "indexLevels": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "detectors": {
+      "A1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "A2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "B2": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      },
+      "C1": {
+        "d1": [],
+        "d2": [],
+        "d3": [],
+        "d4": [],
+        "d5": []
+      }
+    },
+    "audit": {
+      "errors": [],
+      "warnings": [
+        "level A1: A1: KALDI | kapsam %94.6 | 278 kelime\n    havuz dışı: ship(1), winter(1), captain(2), marry(1), proposal(2), can't(1), captain's(1), angry(1), sea(1), wedding(1), wrong(1), forget(1), happy(1)"
+      ]
+    },
+    "ngsl": {
+      "A1": {
+        "coverage": 0.946,
+        "coreCoverage": 0.9602,
+        "exempt": [
+          "captain",
+          "proposal",
+          "wedding"
+        ],
+        "wordCount": 278,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ship(1)",
+          "winter(1)",
+          "marry(1)",
+          "can't(1)",
+          "angry(1)",
+          "sea(1)",
+          "wrong(1)",
+          "forget(1)",
+          "happy(1)"
+        ]
+      },
+      "A2": {
+        "coverage": 0.9683,
+        "coreCoverage": 0.9886,
+        "exempt": [
+          "captain",
+          "proposal",
+          "wedding"
+        ],
+        "wordCount": 504,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "ship(3)",
+          "winter(1)",
+          "angry(1)"
+        ]
+      },
+      "B1": {
+        "coverage": 0.9535,
+        "coreCoverage": 0.9605,
+        "exempt": [
+          "captain",
+          "proposal",
+          "wedding"
+        ],
+        "wordCount": 752,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "shore(3)",
+          "sail(3)",
+          "goodbye(2)",
+          "sickness(1)",
+          "grave(1)",
+          "loud(1)",
+          "temper(1)",
+          "gentle(1)",
+          "thoughtful(1)",
+          "mayflowers(1)",
+          "spinning(1)",
+          "hymn(1)",
+          "awkward(1)",
+          "praised(1)",
+          "courage(1)",
+          "honesty(1)",
+          "anger(1)",
+          "sailed(1)",
+          "doorway(1)",
+          "bowed(1)",
+          "laughter(1)",
+          "bride(1)"
+        ]
+      },
+      "B2": {
+        "coverage": 0.958,
+        "coreCoverage": 0.9645,
+        "exempt": [
+          "captain",
+          "proposal",
+          "wedding"
+        ],
+        "wordCount": 1024,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "courage(2)",
+          "messenger(2)",
+          "goodbye(2)",
+          "stormy(1)",
+          "cruel(1)",
+          "sickness(1)",
+          "settlers(1)",
+          "temper(1)",
+          "mayflowers(1)",
+          "blooming(1)",
+          "handful(1)",
+          "hymn(1)",
+          "hedges(1)",
+          "awkward(1)",
+          "honesty(1)",
+          "restless(1)",
+          "betrayed(1)",
+          "urgent(1)",
+          "boldly(1)",
+          "wilderness(1)",
+          "grief(1)",
+          "doorway(1)",
+          "astonishment(1)",
+          "dusty(1)",
+          "unsmiling(1)"
+        ]
+      },
+      "C1": {
+        "coverage": 0.9349,
+        "coreCoverage": 0.9392,
+        "exempt": [
+          "captain",
+          "proposal",
+          "wedding"
+        ],
+        "wordCount": 1414,
+        "longSentences": [],
+        "lengthIssue": null,
+        "offPool": [
+          "handful(3)",
+          "colony(2)",
+          "loyal(2)",
+          "courage(2)",
+          "messenger(2)",
+          "stormy(1)",
+          "crueler(1)",
+          "sickness(1)",
+          "settlers(1)",
+          "ruddy(1)",
+          "temper(1)",
+          "flared(1)",
+          "dread(1)",
+          "clumsy(1)",
+          "voyage(1)",
+          "hearth(1)",
+          "behalf(1)",
+          "cherishing(1)",
+          "betrayal(1)",
+          "stammered(1)",
+          "mayflowers(1)",
+          "blooming(1)",
+          "blossoms(1)",
+          "hymn(1)",
+          "thread(1)"
+        ]
+      }
+    }
+  },
+  "grammar": {
+    "A1": {
+      "errors": [],
+      "style": []
+    },
+    "A2": {
+      "errors": [],
+      "style": []
+    },
+    "B1": {
+      "errors": [],
+      "style": []
+    },
+    "B2": {
+      "errors": [],
+      "style": []
+    },
+    "C1": {
+      "errors": [],
+      "style": []
+    }
+  },
+  "profile": {
+    "A1": {
+      "words": 278,
+      "sentLenMedian": 7,
+      "zipfMedian": 6.09,
+      "lowZipfRatio": 0.0044,
+      "lowZipfWords": [
+        "captain's"
+      ],
+      "keyTermTokens": 5,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "A2": {
+      "words": 504,
+      "sentLenMedian": 9.0,
+      "zipfMedian": 6.14,
+      "lowZipfRatio": 0.0023,
+      "lowZipfWords": [
+        "captain's"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B1": {
+      "words": 752,
+      "sentLenMedian": 11,
+      "zipfMedian": 6.1,
+      "lowZipfRatio": 0.0058,
+      "lowZipfWords": [
+        "bowed",
+        "captain's",
+        "mayflowers"
+      ],
+      "keyTermTokens": 13,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "B2": {
+      "words": 1024,
+      "sentLenMedian": 14.0,
+      "zipfMedian": 6.06,
+      "lowZipfRatio": 0.0146,
+      "lowZipfWords": [
+        "astonishment",
+        "blooming",
+        "boldly",
+        "captain's",
+        "hedges",
+        "hurried",
+        "joyful",
+        "mayflowers",
+        "shouldered",
+        "stormy",
+        "unsmiling",
+        "wandered",
+        "warmly"
+      ],
+      "keyTermTokens": 12,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    },
+    "C1": {
+      "words": 1414,
+      "sentLenMedian": 20.5,
+      "zipfMedian": 6.04,
+      "lowZipfRatio": 0.0281,
+      "lowZipfWords": [
+        "aching",
+        "astonishment",
+        "blooming",
+        "blossoms",
+        "boldly",
+        "brightened",
+        "captain's",
+        "cherishing",
+        "clumsy",
+        "crueler",
+        "darkened",
+        "deceived",
+        "dusk",
+        "echoing",
+        "eloquent",
+        "flared",
+        "graceful",
+        "hearth",
+        "hedges",
+        "joyful",
+        "mayflowers",
+        "moment's",
+        "paused",
+        "regretted",
+        "ruddy",
+        "scarcely",
+        "shouldered",
+        "sprang",
+        "stammered",
+        "stormy",
+        "strode",
+        "unaffected",
+        "unsmiling",
+        "wandered",
+        "wishers"
+      ],
+      "keyTermTokens": 11,
+      "longSentences": [],
+      "structures": [],
+      "fails": []
+    }
+  },
+  "ngsl": {
+    "A1": {
+      "coverage": 0.946,
+      "coreCoverage": 0.9602,
+      "exempt": [
+        "captain",
+        "proposal",
+        "wedding"
+      ],
+      "wordCount": 278,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ship(1)",
+        "winter(1)",
+        "marry(1)",
+        "can't(1)",
+        "angry(1)",
+        "sea(1)",
+        "wrong(1)",
+        "forget(1)",
+        "happy(1)"
+      ]
+    },
+    "A2": {
+      "coverage": 0.9683,
+      "coreCoverage": 0.9886,
+      "exempt": [
+        "captain",
+        "proposal",
+        "wedding"
+      ],
+      "wordCount": 504,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "ship(3)",
+        "winter(1)",
+        "angry(1)"
+      ]
+    },
+    "B1": {
+      "coverage": 0.9535,
+      "coreCoverage": 0.9605,
+      "exempt": [
+        "captain",
+        "proposal",
+        "wedding"
+      ],
+      "wordCount": 752,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "shore(3)",
+        "sail(3)",
+        "goodbye(2)",
+        "sickness(1)",
+        "grave(1)",
+        "loud(1)",
+        "temper(1)",
+        "gentle(1)",
+        "thoughtful(1)",
+        "mayflowers(1)",
+        "spinning(1)",
+        "hymn(1)",
+        "awkward(1)",
+        "praised(1)",
+        "courage(1)",
+        "honesty(1)",
+        "anger(1)",
+        "sailed(1)",
+        "doorway(1)",
+        "bowed(1)",
+        "laughter(1)",
+        "bride(1)"
+      ]
+    },
+    "B2": {
+      "coverage": 0.958,
+      "coreCoverage": 0.9645,
+      "exempt": [
+        "captain",
+        "proposal",
+        "wedding"
+      ],
+      "wordCount": 1024,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "courage(2)",
+        "messenger(2)",
+        "goodbye(2)",
+        "stormy(1)",
+        "cruel(1)",
+        "sickness(1)",
+        "settlers(1)",
+        "temper(1)",
+        "mayflowers(1)",
+        "blooming(1)",
+        "handful(1)",
+        "hymn(1)",
+        "hedges(1)",
+        "awkward(1)",
+        "honesty(1)",
+        "restless(1)",
+        "betrayed(1)",
+        "urgent(1)",
+        "boldly(1)",
+        "wilderness(1)",
+        "grief(1)",
+        "doorway(1)",
+        "astonishment(1)",
+        "dusty(1)",
+        "unsmiling(1)"
+      ]
+    },
+    "C1": {
+      "coverage": 0.9349,
+      "coreCoverage": 0.9392,
+      "exempt": [
+        "captain",
+        "proposal",
+        "wedding"
+      ],
+      "wordCount": 1414,
+      "longSentences": [],
+      "lengthIssue": null,
+      "offPool": [
+        "handful(3)",
+        "colony(2)",
+        "loyal(2)",
+        "courage(2)",
+        "messenger(2)",
+        "stormy(1)",
+        "crueler(1)",
+        "sickness(1)",
+        "settlers(1)",
+        "ruddy(1)",
+        "temper(1)",
+        "flared(1)",
+        "dread(1)",
+        "clumsy(1)",
+        "voyage(1)",
+        "hearth(1)",
+        "behalf(1)",
+        "cherishing(1)",
+        "betrayal(1)",
+        "stammered(1)",
+        "mayflowers(1)",
+        "blooming(1)",
+        "blossoms(1)",
+        "hymn(1)",
+        "thread(1)"
+      ]
+    }
+  },
+  "quiz": {
+    "answerDist": {
+      "0": 5,
+      "1": 5,
+      "2": 5
+    },
+    "fails": []
+  },
+  "coreCoverage": {
+    "A1": 0.9602,
+    "A2": 0.9886
+  },
+  "fourPlus": {
+    "hard": [],
+    "soft": {
+      "died": 6,
+      "dead": 5,
+      "grave": 2
+    }
+  },
+  "copyright": {
+    "hits": []
+  },
+  "duplicate": {
+    "worst": {
+      "titleJaccard": 0.0,
+      "summary3gramJaccard": 0.0,
+      "a1FiveGramOverlap": 0.015
+    },
+    "top3": [
+      {
+        "id": "st-0292",
+        "title": "The Hound of the Baskervilles",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.015
+      },
+      {
+        "id": "st-0299",
+        "title": "Cyrano de Bergerac",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.011
+      },
+      {
+        "id": "st-0001",
+        "title": "The Light in the Old House",
+        "titleJaccard": 0.0,
+        "summary3gramJaccard": 0.0,
+        "a1FiveGramOverlap": 0.0
+      }
+    ],
+    "fails": []
+  },
+  "verdict": {
+    "1_schema": "GECTI",
+    "2_detectors": "GECTI",
+    "3_grammar": "GECTI",
+    "4_profile": "GECTI",
+    "4c_core_coverage": "GECTI",
+    "4p_fourplus": "GECTI",
+    "6_copyright": "GECTI",
+    "7_duplicate": "GECTI"
+  },
+  "failures": {
+    "1_schema": [],
+    "2_detectors": [],
+    "3_grammar": [],
+    "4_profile": [],
+    "4c_core_coverage": [],
+    "4p_fourplus": [],
+    "6_copyright": [],
+    "7_duplicate": []
+  }
+}
