@@ -1,5 +1,7 @@
 # Klasikler kapak promptları (ChatGPT) · 100 hikaye
 
+> Stil: **Lymia Sunny Storybook (LSS)**. Kalıcı tanım: `docs/COVER-STYLE.md`.
+
 Bu dosyada 100 yeni klasik hikayenin (st-0273 … st-0372) kapak promptları var. Her prompt
 ChatGPT'nin görsel üretimine olduğu gibi yapıştırılmak için yazıldı. Hepsi aynı görsel dili
 taşıyor: uygulamada yayında olan 200 kapağın dili. Her prompt kendi başına çalışır, yani yeni bir
